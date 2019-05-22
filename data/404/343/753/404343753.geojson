@@ -4,15 +4,15 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "esp-cicgc:a0":"Spain",
-    "esp-cicgc:a1":"Tarragona",
-    "esp-cicgc:a1_lc":43,
-    "esp-cicgc:adm0":"Spain",
-    "esp-cicgc:adm0_a3":"ESP",
-    "esp-cicgc:la":"Valls",
-    "esp-cicgc:la_lc":43161,
-    "esp-cicgc:level":"localadmin",
-    "esp-cicgc:source":"Catalunya ICGC",
+    "esp-icgc:a0":"Spain",
+    "esp-icgc:a1":"Tarragona",
+    "esp-icgc:a1_lc":43,
+    "esp-icgc:adm0":"Spain",
+    "esp-icgc:adm0_a3":"ESP",
+    "esp-icgc:la":"Valls",
+    "esp-icgc:la_lc":43161,
+    "esp-icgc:level":"localadmin",
+    "esp-icgc:source":"Catalunya ICGC",
     "geom:area":0.005977,
     "geom:area_square_m":55525144.54808,
     "geom:bbox":"1.19116155074,41.242067925,1.2895631893,41.3425617959",
@@ -46,9 +46,11 @@
         404227379
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "esp-icgc:la_lc":43161
+    },
     "wof:country":"ES",
-    "wof:geomhash":"00da0deb9a86d3360c6bf6af030a25fa",
+    "wof:geomhash":"497fd746bb291719f9cbd2edff30e51a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,7 +61,7 @@
         }
     ],
     "wof:id":404343753,
-    "wof:lastmodified":1558478712,
+    "wof:lastmodified":1558545644,
     "wof:name":"Valls",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
@@ -69,7 +71,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    1.191161550743288,
+    1.19116155074329,
     41.24206792500617,
     1.28956318929839,
     41.34256179592981

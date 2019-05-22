@@ -4,17 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "esp-cicgc:a0":"Spain",
-    "esp-cicgc:a1":"Barcelona",
-    "esp-cicgc:a1_lc":8,
-    "esp-cicgc:adm0":"Spain",
-    "esp-cicgc:adm0_a3":"ESP",
-    "esp-cicgc:la":"Castellnou de Bages",
-    "esp-cicgc:la_lc":8062,
-    "esp-cicgc:level":"localadmin",
-    "esp-cicgc:source":"Catalunya ICGC",
+    "esp-icgc:a0":"Spain",
+    "esp-icgc:a1":"Barcelona",
+    "esp-icgc:a1_lc":8,
+    "esp-icgc:adm0":"Spain",
+    "esp-icgc:adm0_a3":"ESP",
+    "esp-icgc:la":"Castellnou de Bages",
+    "esp-icgc:la_lc":8062,
+    "esp-icgc:level":"localadmin",
+    "esp-icgc:source":"Catalunya ICGC",
     "geom:area":0.003158,
-    "geom:area_square_m":29096106.507489,
+    "geom:area_square_m":29096106.50749,
     "geom:bbox":"1.78149587075,41.7955958195,1.85756971815,41.875678854",
     "geom:latitude":41.83284,
     "geom:longitude":1.818132,
@@ -46,9 +46,11 @@
         404227379
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "esp-icgc:la_lc":8062
+    },
     "wof:country":"ES",
-    "wof:geomhash":"52049638fb897e16c5ea328487c192d6",
+    "wof:geomhash":"72c228ade78e9267e372dcb7cdc7649e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,7 +61,7 @@
         }
     ],
     "wof:id":404331017,
-    "wof:lastmodified":1558478585,
+    "wof:lastmodified":1558545546,
     "wof:name":"Castellnou De Bages",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
@@ -69,8 +71,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    1.781495870747452,
-    41.795595819457056,
+    1.78149587074745,
+    41.79559581945706,
     1.85756971815438,
     41.87567885395448
 ],
