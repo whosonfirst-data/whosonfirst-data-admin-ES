@@ -13,10 +13,13 @@
     "iso:country":"ES",
     "lbl:latitude":41.664403,
     "lbl:longitude":1.857659,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":41.664403,
     "mps:longitude":1.857659,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u0641\u0627\u064a\u0633\u064a\u0646\u062a \u062f\u064a \u0643\u0627\u0633\u062a\u064a\u0644\u064a\u062a"
     ],
@@ -103,9 +106,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u0411\u0456\u0441\u0435\u043d\u0441-\u0434\u0430-\u041a\u0430\u0441\u0442\u0430\u043b\u044c\u0454\u0442"
     ],
-    "name:unk_x_variant":[
-        "San Vicente de Castellet"
-    ],
     "name:uzb_x_preferred":[
         "San Vicente de Castellet"
     ],
@@ -134,7 +134,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85682663,
@@ -148,9 +148,11 @@
         "fct:id":"08423ce0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3125895,
         "gp:id":756789,
-        "qs:id":214202,
-        "qs_pg:id":483976,
+        "qs_pg:id":214202,
         "wd:id":"Q16734"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":483976
     },
     "wof:country":"ES",
     "wof:geomhash":"4a0efad6d440dd85ffcc3e11e487bd01",
@@ -168,7 +170,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563260500,
+    "wof:lastmodified":1566589421,
     "wof:name":"San Vicente de Castellar",
     "wof:parent_id":404331463,
     "wof:placetype":"locality",

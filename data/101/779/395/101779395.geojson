@@ -13,10 +13,13 @@
     "iso:country":"ES",
     "lbl:latitude":37.780657,
     "lbl:longitude":-5.387344,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":37.780657,
     "mps:longitude":-5.387344,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:arg_x_preferred":[
         "La Puebla de los Infantes"
     ],
@@ -108,9 +111,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430-\u041f\u0443\u0435\u0431\u043b\u0430-\u0434\u0435-\u043b\u043e\u0441-\u0406\u043d\u0444\u0430\u043d\u0442\u0435\u0441"
     ],
-    "name:unk_x_variant":[
-        "La Puebla de los Infantes"
-    ],
     "name:uzb_x_preferred":[
         "La Puebla de los Infantes"
     ],
@@ -140,7 +140,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":71,
     "wof:belongsto":[
@@ -155,7 +155,7 @@
         "fct:id":"083a9aee-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2515621,
         "gp:id":12689370,
-        "qs:id":245547,
+        "qs_pg:id":245547,
         "wd:id":"Q733989",
         "wk:page":"La Puebla de los Infantes"
     },
@@ -175,7 +175,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563259429,
+    "wof:lastmodified":1566589193,
     "wof:name":"Puebla de los Infantes,La",
     "wof:parent_id":404342917,
     "wof:placetype":"locality",

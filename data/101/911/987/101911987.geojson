@@ -13,10 +13,13 @@
     "iso:country":"ES",
     "lbl:latitude":43.430869,
     "lbl:longitude":-4.852085,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":43.430869,
     "mps:longitude":-4.852085,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Chinameca"
     ],
@@ -27,9 +30,6 @@
         "Chinameca"
     ],
     "name:spa_x_preferred":[
-        "Chinameca"
-    ],
-    "name:unk_x_variant":[
         "Chinameca"
     ],
     "name:zho_x_preferred":[
@@ -50,7 +50,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85682805,
@@ -63,9 +63,11 @@
     "wof:concordances":{
         "gn:id":3587037,
         "gp:id":770587,
-        "qs:id":1045545,
-        "qs_pg:id":1092216,
+        "qs_pg:id":1045545,
         "wk:page":"Chinameca, San Miguel"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1092216
     },
     "wof:country":"ES",
     "wof:geomhash":"9984772d049470d5a8acc4ebac3dc9f0",
@@ -83,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564224949,
+    "wof:lastmodified":1566589406,
     "wof:name":"Posada de Llanes",
     "wof:parent_id":404340359,
     "wof:placetype":"locality",

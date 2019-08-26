@@ -14,10 +14,13 @@
     "iso:country":"ES",
     "lbl:latitude":41.602525,
     "lbl:longitude":2.620289,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":41.602525,
     "mps:longitude":2.620289,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u0628\u0648\u0644 \u062f\u064a \u0645\u0627\u0631"
     ],
@@ -111,9 +114,6 @@
     "name:swe_x_preferred":[
         "Sant Pol de Mar"
     ],
-    "name:unk_x_variant":[
-        "San Pol de Mar"
-    ],
     "name:vie_x_preferred":[
         "Sant Pol de Mar"
     ],
@@ -142,7 +142,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":153,
     "wof:belongsto":[
@@ -157,9 +157,11 @@
         "fct:id":"084225de-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3110113,
         "gp:id":20228545,
-        "qs:id":438321,
-        "qs_pg:id":1181854,
+        "qs_pg:id":438321,
         "wd:id":"Q12534"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1181854
     },
     "wof:country":"ES",
     "wof:geomhash":"d208f46aac1ca8dc83e901e3c5306a5d",
@@ -177,7 +179,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563260604,
+    "wof:lastmodified":1566589437,
     "wof:name":"Sant Pol de Mar",
     "wof:parent_id":404331403,
     "wof:placetype":"locality",

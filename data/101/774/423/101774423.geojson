@@ -13,10 +13,13 @@
     "iso:country":"ES",
     "lbl:latitude":41.809911,
     "lbl:longitude":1.404208,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":41.809911,
     "mps:longitude":1.404208,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:arg_x_preferred":[
         "Tor\u00e0"
     ],
@@ -77,9 +80,6 @@
     "name:swe_x_preferred":[
         "Tor\u00e0 de Riubreg\u00f3s"
     ],
-    "name:unk_x_variant":[
-        "Tor\u00e1"
-    ],
     "name:uzb_x_preferred":[
         "Tor\u00e1"
     ],
@@ -108,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1262,
     "wof:belongsto":[
@@ -122,10 +122,12 @@
     "wof:concordances":{
         "gn:id":6358951,
         "gp:id":775568,
-        "qs:id":94623,
-        "qs_pg:id":1315304,
+        "qs_pg:id":94623,
         "wd:id":"Q1766628",
         "wk:page":"Tor\u00e0"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1315304
     },
     "wof:country":"ES",
     "wof:geomhash":"73183a81365c8ab528f30f83682176a7",
@@ -140,7 +142,7 @@
         }
     ],
     "wof:id":101774423,
-    "wof:lastmodified":1563260812,
+    "wof:lastmodified":1566589476,
     "wof:name":"Tora",
     "wof:parent_id":404338051,
     "wof:placetype":"locality",

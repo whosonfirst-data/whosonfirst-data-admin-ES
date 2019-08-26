@@ -13,10 +13,13 @@
     "iso:country":"ES",
     "lbl:latitude":39.943572,
     "lbl:longitude":-0.104149,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":39.943572,
     "mps:longitude":-0.104149,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0627\u0631\u064a\u0627\u0644"
     ],
@@ -179,10 +182,8 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043b\u0430-\u0420\u0435\u0430\u043b"
     ],
-    "name:und_x_preferred":[
-        "Vila-Real"
-    ],
     "name:und_x_variant":[
+        "Vila-Real",
         "Vila-real Municipio"
     ],
     "name:uzb_x_preferred":[
@@ -213,7 +214,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":42.0,
     "wd:latitude":39.937778,
@@ -232,9 +233,11 @@
         "fct:id":"08305de0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3105871,
         "gp:id":777449,
-        "qs:id":1509,
-        "qs_pg:id":217321,
+        "qs_pg:id":1509,
         "wd:id":"Q12292"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":217321
     },
     "wof:country":"ES",
     "wof:geomhash":"edb1298a703d3d561a719140c5b2fdf4",
@@ -252,7 +255,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563258957,
+    "wof:lastmodified":1566589104,
     "wof:name":"Villarreal",
     "wof:parent_id":404333389,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"ES",
     "lbl:latitude":41.446071,
     "lbl:longitude":2.073796,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.446071,
     "mps:longitude":2.073796,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "La Floresta"
     ],
@@ -67,9 +70,6 @@
     "name:sqi_x_preferred":[
         "La Floresta"
     ],
-    "name:unk_x_variant":[
-        "Floresta"
-    ],
     "name:vie_x_preferred":[
         "La Floresta"
     ],
@@ -95,7 +95,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":41,
     "wof:belongsto":[
         85682663,
@@ -108,9 +108,11 @@
     "wof:concordances":{
         "gn:id":3122400,
         "gp:id":760630,
-        "qs:id":9,
-        "qs_pg:id":983303,
+        "qs_pg:id":9,
         "wd:id":"Q2302200"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":983303
     },
     "wof:country":"ES",
     "wof:geomhash":"11821994107d68b3d90790feab6f9026",
@@ -125,7 +127,7 @@
         }
     ],
     "wof:id":101757487,
-    "wof:lastmodified":1563260096,
+    "wof:lastmodified":1566589338,
     "wof:name":"Floresta, La",
     "wof:parent_id":404331335,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"ES",
     "lbl:latitude":41.586676,
     "lbl:longitude":-3.063185,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":41.586676,
     "mps:longitude":-3.063185,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Burgo de Osma-Ciudad de Osma"
     ],
@@ -185,9 +188,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0440\u0433\u043e-\u0434\u0435-\u041e\u0441\u043c\u0430-\u0421\u044c\u044e\u0434\u0430\u0434-\u0434\u0435-\u041e\u0441\u043c\u0430"
     ],
-    "name:unk_x_variant":[
-        "Burgo de Osma"
-    ],
     "name:uzb_x_preferred":[
         "El Burgo de Osma"
     ],
@@ -222,7 +222,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":120,
     "wof:belongsto":[
@@ -237,10 +237,12 @@
         "gn:id":3123624,
         "gp:id":759040,
         "loc:id":"nr94015969",
-        "qs:id":1043290,
         "qs_pg:id":386598,
         "wd:id":"Q485129",
         "wk:page":"Burgo de Osma-Ciudad de Osma"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1043290
     },
     "wof:country":"ES",
     "wof:geomhash":"c42a96a23761bf26daca7188d92066ec",
@@ -255,7 +257,7 @@
         }
     ],
     "wof:id":101774341,
-    "wof:lastmodified":1563260851,
+    "wof:lastmodified":1566589484,
     "wof:name":"El Burgo de Osma",
     "wof:parent_id":404343069,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"ES",
     "lbl:latitude":42.462969,
     "lbl:longitude":-5.883402,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":42.462969,
     "mps:longitude":-5.883402,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:arg_x_preferred":[
         "Hospital de \u00d3rbigo"
     ],
@@ -102,9 +105,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u0441\u043f\u0456\u0442\u0430\u043b\u044c-\u0434\u0435-\u041e\u0440\u0431\u0456\u0433\u043e"
     ],
-    "name:unk_x_variant":[
-        "Hospital de \u00d3rbigo"
-    ],
     "name:vie_x_preferred":[
         "Hospital de \u00d3rbigo"
     ],
@@ -130,7 +130,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":219,
     "wof:belongsto":[
@@ -145,10 +145,12 @@
         "fct:id":"08396124-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3120624,
         "gp:id":762332,
-        "qs:id":484037,
-        "qs_pg:id":961196,
+        "qs_pg:id":484037,
         "wd:id":"Q848293",
         "wk:page":"Hospital de \u00d3rbigo"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":961196
     },
     "wof:country":"ES",
     "wof:geomhash":"8e33088c3a059946594ec97009fbc57e",
@@ -166,7 +168,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563260044,
+    "wof:lastmodified":1566589324,
     "wof:name":"Hospital de Orbigo",
     "wof:parent_id":404337305,
     "wof:placetype":"locality",

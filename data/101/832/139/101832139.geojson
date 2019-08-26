@@ -12,10 +12,13 @@
     "iso:country":"ES",
     "lbl:latitude":36.752832,
     "lbl:longitude":-2.681988,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":36.752832,
     "mps:longitude":-2.681988,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0627 \u0645\u0648\u062c\u0648\u0646\u064a\u0631\u0627"
     ],
@@ -109,7 +112,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430-\u041c\u043e\u0445\u043e\u043d\u0435\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Caser\u00edo La Mojonera"
     ],
     "name:urd_x_preferred":[
@@ -146,7 +149,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":31,
     "wof:belongsto":[
         85682631,
@@ -159,9 +162,11 @@
     "wof:concordances":{
         "gn:id":2515755,
         "gp:id":12688686,
-        "qs:id":9,
-        "qs_pg:id":140311,
+        "qs_pg:id":9,
         "wd:id":"Q1407170"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":140311
     },
     "wof:country":"ES",
     "wof:geomhash":"37012e6bee00664aa793cfccf9777b07",
@@ -176,7 +181,7 @@
         }
     ],
     "wof:id":101832139,
-    "wof:lastmodified":1563258488,
+    "wof:lastmodified":1566588976,
     "wof:name":"Mojonera,La",
     "wof:parent_id":404329799,
     "wof:placetype":"locality",

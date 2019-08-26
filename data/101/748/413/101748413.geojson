@@ -13,6 +13,8 @@
     "iso:country":"ES",
     "lbl:latitude":42.883508,
     "lbl:longitude":-8.540282,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":42.883508,
     "mps:longitude":-8.540282,
     "mz:hierarchy_label":1,
@@ -384,9 +386,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e-\u0434\u0435-\u041a\u043e\u043c\u043f\u043e\u0441\u0442\u0435\u043b\u0430"
     ],
-    "name:unk_x_variant":[
-        "Santiago"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646\u062a\u06cc\u0627\u06af\u0648 \u062f\u06d2 \u06a9\u0648\u0645\u067e\u0648\u0633\u062a\u06cc\u0644\u0627"
     ],
@@ -535,7 +534,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":42.883333,
     "wd:longitude":-8.533333,
@@ -556,9 +555,11 @@
         "gn:id":3109649,
         "gp:id":773988,
         "nyt:id":"N7244882013781214211",
-        "qs:id":274259,
         "qs_pg:id":38679,
         "wd:id":"Q14314"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":274259
     },
     "wof:country":"ES",
     "wof:geomhash":"c6fe5441b5c61fb5903c232c9be0238e",
@@ -576,7 +577,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563259018,
+    "wof:lastmodified":1566589114,
     "wof:name":"Santiago de Compostela",
     "wof:parent_id":404333983,
     "wof:placetype":"locality",

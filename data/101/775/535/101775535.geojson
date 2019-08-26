@@ -13,10 +13,13 @@
     "iso:country":"ES",
     "lbl:latitude":40.717529,
     "lbl:longitude":0.497744,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":40.717529,
     "mps:longitude":0.497744,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:arg_x_preferred":[
         "Santa B\u00e0rbara"
     ],
@@ -80,9 +83,6 @@
     "name:swe_x_preferred":[
         "Santa B\u00e0rbara"
     ],
-    "name:unk_x_variant":[
-        "Santa B\u00e1rbara"
-    ],
     "name:vie_x_preferred":[
         "Santa B\u00e0rbara"
     ],
@@ -108,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85682851,
@@ -121,9 +121,11 @@
     "wof:concordances":{
         "gn:id":3110016,
         "gp:id":20228558,
-        "qs:id":505007,
-        "qs_pg:id":772269,
+        "qs_pg:id":505007,
         "wd:id":"Q1230148"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":772269
     },
     "wof:country":"ES",
     "wof:geomhash":"b331899caf9b0d567c02978c7f41a600",
@@ -138,7 +140,7 @@
         }
     ],
     "wof:id":101775535,
-    "wof:lastmodified":1563260448,
+    "wof:lastmodified":1566589413,
     "wof:name":"Santa Barbara",
     "wof:parent_id":404343701,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"ES",
     "lbl:latitude":43.321931,
     "lbl:longitude":-1.911541,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":43.321931,
     "mps:longitude":-1.911541,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0633\u0627\u062e\u064a\u0633"
     ],
@@ -141,7 +144,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":354,
     "wof:belongsto":[
@@ -155,10 +158,12 @@
     "wof:concordances":{
         "gn:id":6693088,
         "gp:id":769554,
-        "qs:id":241626,
-        "qs_pg:id":898710,
+        "qs_pg:id":241626,
         "wd:id":"Q847127",
         "wk:page":"Pasaia"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":898710
     },
     "wof:country":"ES",
     "wof:geomhash":"e8fe0ec044f0a9a29f18ce4d729292a7",
@@ -173,7 +178,7 @@
         }
     ],
     "wof:id":101760537,
-    "wof:lastmodified":1563259571,
+    "wof:lastmodified":1566589229,
     "wof:name":"Pasaia",
     "wof:parent_id":404336227,
     "wof:placetype":"locality",

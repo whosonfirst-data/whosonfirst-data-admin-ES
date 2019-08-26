@@ -12,10 +12,13 @@
     "iso:country":"ES",
     "lbl:latitude":37.704738,
     "lbl:longitude":-1.612853,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":37.704738,
     "mps:longitude":-1.612853,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Bele\u00f1a"
     ],
@@ -46,9 +49,6 @@
     "name:spa_x_preferred":[
         "Bele\u00f1a"
     ],
-    "name:unk_x_variant":[
-        "Bele\u00f1a"
-    ],
     "qs:a0":"Espa\u00f1a",
     "qs:a1":"*Murcia",
     "qs:a1r":"0Regi\u00f3n de Murcia",
@@ -65,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682791,
         102191581,
@@ -77,7 +77,9 @@
     "wof:concordances":{
         "gn:id":3128361,
         "gp:id":754107,
-        "qs:id":3,
+        "qs_pg:id":3
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":254900
     },
     "wof:country":"ES",
@@ -93,7 +95,7 @@
         }
     ],
     "wof:id":101778943,
-    "wof:lastmodified":1504304797,
+    "wof:lastmodified":1566589037,
     "wof:name":"Hoya,La",
     "wof:parent_id":404339371,
     "wof:placetype":"locality",

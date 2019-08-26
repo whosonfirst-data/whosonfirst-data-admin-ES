@@ -13,10 +13,13 @@
     "iso:country":"ES",
     "lbl:latitude":38.349394,
     "lbl:longitude":-2.738075,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":38.349394,
     "mps:longitude":-2.738075,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0644\u0627 \u0628\u0648\u064a\u0631\u062a\u0627 \u062f\u064a \u0633\u064a\u063a\u0648\u0631\u0627"
     ],
@@ -95,9 +98,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430-\u041f\u0443\u0435\u0440\u0442\u0430-\u0434\u0435-\u0421\u0435\u0433\u0443\u0440\u0430"
     ],
-    "name:unk_x_variant":[
-        "La Puerta"
-    ],
     "name:uzb_x_preferred":[
         "La Puerta de Segura"
     ],
@@ -130,7 +130,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -145,10 +145,12 @@
         "fct:id":"083a9cec-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3112711,
         "gp:id":770950,
-        "qs:id":400333,
         "qs_pg:id":662,
         "wd:id":"Q1642144",
         "wk:page":"La Puerta de Segura"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":400333
     },
     "wof:country":"ES",
     "wof:geomhash":"dd9635be305cc02c89e7af2317eaa222",
@@ -166,7 +168,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563259286,
+    "wof:lastmodified":1566589165,
     "wof:name":"Puerta de Segura,La",
     "wof:parent_id":404337065,
     "wof:placetype":"locality",

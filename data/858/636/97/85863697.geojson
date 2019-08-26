@@ -19,6 +19,7 @@
     "iso:country":"ES",
     "lbl:latitude":40.427624,
     "lbl:longitude":-3.636777,
+    "lbl:max_zoom":18.0,
     "mps:latitude":40.42663,
     "mps:longitude":-3.635683,
     "mz:hierarchy_label":1,
@@ -58,9 +59,6 @@
     "name:spa_x_preferred":[
         "Pueblo Nuevo"
     ],
-    "name:unk_x_variant":[
-        "Pueblo Nuevo"
-    ],
     "qs:gn_id":0,
     "qs:gn_local":3117735,
     "qs:gn_nam_loc":"Madrid, Madrid, Madrid, Comunidad de Madrid, ES",
@@ -91,7 +89,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1158846045,
@@ -103,9 +101,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20219952,
-        "qs:id":344070,
         "qs_pg:id":220207,
         "wd:id":"Q71753"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":344070
     },
     "wof:country":"ES",
     "wof:geomhash":"35a56eb85d3ea9cbf86aa13746050049",
@@ -124,7 +124,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563256019,
+    "wof:lastmodified":1566587784,
     "wof:name":"Pueblo Nuevo",
     "wof:parent_id":1158846045,
     "wof:placetype":"neighbourhood",

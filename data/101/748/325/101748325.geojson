@@ -13,10 +13,13 @@
     "iso:country":"ES",
     "lbl:latitude":41.493535,
     "lbl:longitude":2.137145,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":41.493535,
     "mps:longitude":2.137145,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0631\u062f\u0627\u0646\u064a\u0648\u0644\u0627 \u062f\u064a\u0644 \u0641\u0627\u0644\u064a\u0633"
     ],
@@ -148,9 +151,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0440\u0434\u0430\u043d\u044c\u043e\u043b\u0430-\u0434\u0430\u043b-\u0411\u0430\u043b\u044c\u0454\u0441"
     ],
-    "name:unk_x_variant":[
-        "Vall\u00e9s"
-    ],
     "name:uzb_x_preferred":[
         "Cerdanyola del Vall\u00e8s"
     ],
@@ -176,7 +176,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85682663,
@@ -190,9 +190,11 @@
         "fct:id":"0842c372-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2509869,
         "gp:id":776823,
-        "qs:id":1092056,
         "qs_pg:id":396560,
         "wd:id":"Q13922"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1092056
     },
     "wof:country":"ES",
     "wof:geomhash":"5921bee424dc455efd665d9778884d0b",
@@ -210,7 +212,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563259067,
+    "wof:lastmodified":1566589122,
     "wof:name":"Cerda\u00f1ola del Vall\u00e9s",
     "wof:parent_id":404331473,
     "wof:placetype":"locality",

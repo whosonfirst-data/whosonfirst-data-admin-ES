@@ -13,10 +13,13 @@
     "iso:country":"ES",
     "lbl:latitude":43.305402,
     "lbl:longitude":-2.201011,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":43.305402,
     "mps:longitude":-2.201011,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u063a\u064a\u062a\u0627\u0631\u064a\u0627"
     ],
@@ -162,9 +165,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191581
     ],
@@ -172,10 +174,12 @@
     "wof:concordances":{
         "gn:id":3120985,
         "gp:id":761957,
-        "qs:id":1208933,
         "qs_pg:id":1193872,
         "wd:id":"Q849330",
         "wk:page":"Getaria, Gipuzkoa"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1208933
     },
     "wof:country":"ES",
     "wof:geomhash":"0e3f83475e3600fe41603d548a0085ec",
@@ -188,7 +192,7 @@
         }
     ],
     "wof:id":101771885,
-    "wof:lastmodified":1563258755,
+    "wof:lastmodified":1566589058,
     "wof:name":"Getaria",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -14,10 +14,13 @@
     "iso:country":"ES",
     "lbl:latitude":41.902398,
     "lbl:longitude":2.280224,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":41.902398,
     "mps:longitude":2.280224,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062a\u0627 \u064a\u0648\u063a\u064a\u0646\u064a\u0627 \u062f\u064a \u0628\u064a\u0631\u063a\u0627"
     ],
@@ -93,9 +96,6 @@
     "name:swe_x_preferred":[
         "Santa Eug\u00e8nia de Berga"
     ],
-    "name:und_x_preferred":[
-        "Santa Eug\u00e8nia de Berga"
-    ],
     "name:und_x_variant":[
         "Sta. Eug\u00e8nia de Berga"
     ],
@@ -124,7 +124,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":74,
     "wof:belongsto":[
@@ -139,9 +139,11 @@
         "fct:id":"0853a188-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3109894,
         "gp:id":773721,
-        "qs:id":1043247,
         "qs_pg:id":281456,
         "wd:id":"Q13834"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1043247
     },
     "wof:country":"ES",
     "wof:geomhash":"9a6e4a4734ebcedbaca691ffd9618098",
@@ -159,7 +161,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563260936,
+    "wof:lastmodified":1566589501,
     "wof:name":"Santa Eugenia de Berga",
     "wof:parent_id":404331427,
     "wof:placetype":"locality",

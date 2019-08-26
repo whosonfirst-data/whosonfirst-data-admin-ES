@@ -13,10 +13,13 @@
     "iso:country":"ES",
     "lbl:latitude":37.606715,
     "lbl:longitude":-4.738776,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":37.606715,
     "mps:longitude":-4.738776,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0644\u0627 \u0631\u0645\u0628\u0644\u0629"
     ],
@@ -101,9 +104,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430-\u0420\u0430\u043c\u0431\u043b\u0430"
     ],
-    "name:unk_x_variant":[
-        "La Rambla"
-    ],
     "name:uzb_x_preferred":[
         "La Rambla"
     ],
@@ -127,7 +127,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":71,
     "wof:belongsto":[
@@ -142,7 +142,7 @@
         "fct:id":"083aa1a6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2515597,
         "gp:id":763941,
-        "qs:id":1355267,
+        "qs_pg:id":1355267,
         "wd:id":"Q1645517",
         "wk:page":"La Rambla, C\u00f3rdoba"
     },
@@ -162,7 +162,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563259509,
+    "wof:lastmodified":1566589211,
     "wof:name":"Rambla,La",
     "wof:parent_id":404333767,
     "wof:placetype":"locality",

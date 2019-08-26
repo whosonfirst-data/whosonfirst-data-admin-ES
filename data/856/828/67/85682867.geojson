@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":39.320936,
     "lbl:longitude":-0.733159,
+    "lbl:min_zoom":8.0,
     "mps:latitude":39.320936,
     "mps:longitude":-0.733159,
     "mz:hierarchy_label":1,
@@ -449,9 +450,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u043b\u0435\u043d\u0441\u0456\u044f"
     ],
-    "name:unk_x_variant":[
-        "Val\u00e8ncia"
-    ],
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0628\u0627\u0644\u06cc\u0646\u0633\u06cc\u0627"
     ],
@@ -564,9 +562,9 @@
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-11-01",
+    "src:population_date":"2011-11-01",
     "statoids:area_km":"23,305",
     "statoids:area_mi":"8,998",
     "statoids:as_of_date":"2011-11-01",
@@ -617,11 +615,10 @@
         "eus",
         "ast"
     ],
-    "wof:lastmodified":1565673497,
+    "wof:lastmodified":1566587668,
     "wof:name":"Valencia",
     "wof:parent_id":404227381,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":5009931,
     "wof:population_rank":13,
     "wof:repo":"whosonfirst-data-admin-es",
