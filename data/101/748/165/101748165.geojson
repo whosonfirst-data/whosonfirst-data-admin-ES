@@ -14,6 +14,8 @@
     "iso:country":"ES",
     "lbl:latitude":28.462493,
     "lbl:longitude":-16.261104,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":28.462493,
     "mps:longitude":-16.261104,
     "mz:hierarchy_label":1,
@@ -172,7 +174,7 @@
         "Santa Cruz de Tenerife"
     ],
     "name:kan_x_preferred":[
-        "\u0cb8\u0cbe\u0c82\u0c9f\u0cbe  \u0c95\u0ccd\u0cb0\u0ccd\u0c9c\u0ccd  \u0ca1\u0cc7  \u0c9f\u0cc6\u0ca8\u0cc6\u0cb0\u0cbf\u0cab\u0ccd"
+        "\u0cb8\u0cbe\u0c82\u0c9f\u0cbe \u0c95\u0ccd\u0cb0\u0ccd\u0c9c\u0ccd \u0ca1\u0cc7 \u0c9f\u0cc6\u0ca8\u0cc6\u0cb0\u0cbf\u0cab\u0ccd"
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10dc\u10e2\u10d0-\u10d9\u10e0\u10e3\u10e1-\u10d3\u10d4-\u10e2\u10d4\u10dc\u10d4\u10e0\u10d8\u10e4\u10d4"
@@ -322,9 +324,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u0443\u0441-\u0434\u0435-\u0422\u0435\u043d\u0435\u0440\u0456\u0444\u0435"
     ],
-    "name:unk_x_variant":[
-        "Santa Cruz"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646\u062a\u0627 \u06a9\u0631\u0648\u0632 \u0679\u06cc\u0646\u0631\u0627\u0626\u0641"
     ],
@@ -460,7 +459,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":4.0,
     "wd:latitude":28.466667,
@@ -480,10 +479,12 @@
         "gn:id":2511187,
         "gp:id":773666,
         "loc:id":"n83018083",
-        "qs:id":1036138,
         "qs_pg:id":91603,
         "wd:id":"Q14328",
         "wk:page":"Santa Cruz de Tenerife"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1036138
     },
     "wof:country":"ES",
     "wof:geomhash":"0f8eb1c56899b3d28c2e1a4b683d5f3f",
@@ -501,7 +502,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563259073,
+    "wof:lastmodified":1566589123,
     "wof:name":"Santa Cruz de Tenerife",
     "wof:parent_id":404342003,
     "wof:placetype":"locality",

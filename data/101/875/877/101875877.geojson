@@ -12,10 +12,13 @@
     "iso:country":"ES",
     "lbl:latitude":36.812641,
     "lbl:longitude":-4.695486,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":36.812641,
     "mps:longitude":-4.695486,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u064a\u0631\u064a\u0631\u064a\u0627\u0633"
     ],
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682787,
         102191581,
@@ -73,7 +76,9 @@
     "wof:concordances":{
         "gn:id":3123322,
         "gp:id":759598,
-        "qs:id":4,
+        "qs_pg:id":4
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":110202
     },
     "wof:country":"ES",
@@ -89,7 +94,7 @@
         }
     ],
     "wof:id":101875877,
-    "wof:lastmodified":1507750762,
+    "wof:lastmodified":1566588906,
     "wof:name":"Puente, El",
     "wof:parent_id":404339117,
     "wof:placetype":"locality",

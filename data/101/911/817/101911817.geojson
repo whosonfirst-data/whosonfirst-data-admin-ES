@@ -12,10 +12,13 @@
     "iso:country":"ES",
     "lbl:latitude":43.721592,
     "lbl:longitude":-7.806754,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.721592,
     "mps:longitude":-7.806754,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0646\u064a\u0648\u0646"
     ],
@@ -109,12 +112,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043d\u044c\u0439\u043e\u043d"
     ],
-    "name:und_x_preferred":[
-        "\u041a\u043b\u0435\u0432\u0446\u043e\u0432\u043e"
-    ],
-    "name:unk_x_variant":[
-        "Klevtsovo"
-    ],
     "name:uzb_x_preferred":[
         "Ma\u00f1\u00f3n"
     ],
@@ -142,7 +139,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682701,
         102191581,
@@ -154,9 +151,11 @@
     "wof:concordances":{
         "gn:id":3109905,
         "gp:id":766462,
-        "qs:id":441497,
-        "qs_pg:id":1077470,
+        "qs_pg:id":441497,
         "wd:id":"Q613832"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1077470
     },
     "wof:country":"ES",
     "wof:geomhash":"5d26a74d793e9955db5c2c932dfa4b2b",
@@ -174,7 +173,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563260403,
+    "wof:lastmodified":1566589401,
     "wof:name":"Porto de Espasante",
     "wof:parent_id":404333945,
     "wof:placetype":"locality",

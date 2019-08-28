@@ -13,10 +13,13 @@
     "iso:country":"ES",
     "lbl:latitude":28.157941,
     "lbl:longitude":-16.638881,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":28.157941,
     "mps:longitude":-16.638881,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u0627\u0641\u0644\u0648\u0631"
     ],
@@ -102,9 +105,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043b\u0430\u0444\u043b\u043e\u0440"
     ],
-    "name:unk_x_variant":[
-        "Villaflor"
-    ],
     "name:uzb_x_preferred":[
         "Vilaflor"
     ],
@@ -130,7 +130,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":202,
     "wof:belongsto":[
@@ -145,9 +145,11 @@
         "fct:id":"084546c4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3105620,
         "gp:id":777690,
-        "qs:id":905849,
         "qs_pg:id":396801,
         "wd:id":"Q985693"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":905849
     },
     "wof:country":"ES",
     "wof:geomhash":"e30be553d408d47a61d3eabba4a6cf8b",
@@ -165,7 +167,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563260668,
+    "wof:lastmodified":1566589448,
     "wof:name":"Vilaflor",
     "wof:parent_id":404342033,
     "wof:placetype":"locality",

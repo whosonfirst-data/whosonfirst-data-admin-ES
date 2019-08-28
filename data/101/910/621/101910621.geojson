@@ -13,10 +13,13 @@
     "iso:country":"ES",
     "lbl:latitude":41.691544,
     "lbl:longitude":2.365574,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":41.691544,
     "mps:longitude":2.365574,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0646\u062a\u0633\u064a\u0646\u064a\u060c \u0628\u0631\u0634\u0644\u0648\u0646\u0629"
     ],
@@ -132,7 +135,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85682663,
@@ -145,9 +148,11 @@
     "wof:concordances":{
         "gn:id":3116237,
         "gp:id":29369710,
-        "qs:id":1083191,
         "qs_pg:id":1000951,
         "wd:id":"Q15434"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1083191
     },
     "wof:country":"ES",
     "wof:geomhash":"da622fc12d3efa52b2448751d4ea85e2",
@@ -162,7 +167,7 @@
         }
     ],
     "wof:id":101910621,
-    "wof:lastmodified":1563260997,
+    "wof:lastmodified":1566589514,
     "wof:name":"Mirador del Montseny",
     "wof:parent_id":404331401,
     "wof:placetype":"locality",

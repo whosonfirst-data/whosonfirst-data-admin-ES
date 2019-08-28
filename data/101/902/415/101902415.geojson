@@ -13,10 +13,13 @@
     "iso:country":"ES",
     "lbl:latitude":43.309118,
     "lbl:longitude":-8.27358,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":43.309118,
     "mps:longitude":-8.27358,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u063a\u0648\u0646\u062f\u0648"
     ],
@@ -112,9 +115,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0440\u0433\u043e\u043d\u0434\u043e"
     ],
-    "name:unk_x_variant":[
-        "San Salvador"
-    ],
     "name:uzb_x_preferred":[
         "Bergondo"
     ],
@@ -146,7 +146,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":67,
     "wof:belongsto":[
@@ -161,10 +161,12 @@
         "fct:id":"083319ea-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3110063,
         "gp:id":754379,
-        "qs:id":1354036,
         "qs_pg:id":244574,
         "wd:id":"Q644018",
         "wk:page":"Bergondo"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1354036
     },
     "wof:country":"ES",
     "wof:geomhash":"fc84473eec533fe09def7ef0b73f85e2",
@@ -182,7 +184,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563260123,
+    "wof:lastmodified":1566589343,
     "wof:name":"Bergondo",
     "wof:parent_id":404333825,
     "wof:placetype":"locality",

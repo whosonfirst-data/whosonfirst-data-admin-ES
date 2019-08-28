@@ -13,10 +13,13 @@
     "iso:country":"ES",
     "lbl:latitude":28.486441,
     "lbl:longitude":-16.322769,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":28.486441,
     "mps:longitude":-16.322769,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:afr_x_preferred":[
         "San Crist\u00f3bal de La Laguna"
     ],
@@ -236,9 +239,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u041a\u0440\u0456\u0441\u0442\u043e\u0431\u0430\u043b\u044c-\u0434\u0435-\u043b\u0430-\u041b\u0430\u0433\u0443\u043d\u0430"
     ],
-    "name:unk_x_variant":[
-        "La Laguna"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646 \u06a9\u0631\u06cc\u0633\u062a\u0648\u0628\u0627\u0644 \u062f\u06d2 \u0644\u06af\u0648\u0646\u0627"
     ],
@@ -270,7 +270,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1548,
     "wof:belongsto":[
@@ -286,10 +286,12 @@
         "gn:id":2511401,
         "gp:id":20227831,
         "loc:id":"n80049579",
-        "qs:id":221775,
-        "qs_pg:id":989976,
+        "qs_pg:id":221775,
         "wd:id":"Q54898",
         "wk:page":"San Crist\u00f3bal de La Laguna"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":989976
     },
     "wof:country":"ES",
     "wof:geomhash":"cc939a2359d17fd00d484a1c43b77f47",
@@ -307,7 +309,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563258152,
+    "wof:lastmodified":1566588874,
     "wof:name":"San Crist\u00f3bal de La Laguna",
     "wof:parent_id":404341969,
     "wof:placetype":"locality",

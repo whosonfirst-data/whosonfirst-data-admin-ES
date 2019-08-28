@@ -12,10 +12,13 @@
     "iso:country":"ES",
     "lbl:latitude":37.688512,
     "lbl:longitude":-3.819415,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":37.688512,
     "mps:longitude":-3.819415,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0648\u0633 \u0641\u064a\u0627\u0631\u064a\u0633"
     ],
@@ -88,9 +91,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u043e\u0441-\u0412\u0456\u043b\u044c\u044f\u0440\u0435\u0441"
     ],
-    "name:unk_x_variant":[
-        "Los Villares"
-    ],
     "name:uzb_x_preferred":[
         "Los Villares"
     ],
@@ -122,7 +122,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":51,
     "wof:belongsto":[
         85682757,
@@ -135,10 +135,12 @@
     "wof:concordances":{
         "gn:id":2514410,
         "gp:id":766069,
-        "qs:id":26,
-        "qs_pg:id":1157184,
+        "qs_pg:id":26,
         "wd:id":"Q279502",
         "wk:page":"Los Villares"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1157184
     },
     "wof:country":"ES",
     "wof:geomhash":"4cb0c3259e4c54adf4e0af9b81c37acf",
@@ -153,7 +155,7 @@
         }
     ],
     "wof:id":101779157,
-    "wof:lastmodified":1563259342,
+    "wof:lastmodified":1566589175,
     "wof:name":"Villares,Los",
     "wof:parent_id":404337119,
     "wof:placetype":"locality",

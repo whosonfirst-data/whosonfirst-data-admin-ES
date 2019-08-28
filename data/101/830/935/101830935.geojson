@@ -12,10 +12,13 @@
     "iso:country":"ES",
     "lbl:latitude":40.361307,
     "lbl:longitude":-3.265076,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.361307,
     "mps:longitude":-3.265076,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0648\u0641\u0648 \u0628\u0627\u0632\u062a\u0627\u0646"
     ],
@@ -82,9 +85,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u0443\u0435\u0432\u043e-\u0411\u0430\u0441\u0442\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "Nuevo Bazt\u00e1n"
-    ],
     "name:uzb_x_preferred":[
         "Nuevo Bazt\u00e1n"
     ],
@@ -113,7 +113,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":481,
     "wof:belongsto":[
         85682783,
@@ -126,9 +126,11 @@
     "wof:concordances":{
         "gn:id":3115314,
         "gp:id":768546,
-        "qs:id":3,
-        "qs_pg:id":1315255,
+        "qs_pg:id":3,
         "wd:id":"Q921352"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1315255
     },
     "wof:country":"ES",
     "wof:geomhash":"a875e0c74857eac6bb5a5bc8bfa3ac59",
@@ -143,7 +145,7 @@
         }
     ],
     "wof:id":101830935,
-    "wof:lastmodified":1561829049,
+    "wof:lastmodified":1566589394,
     "wof:name":"Villas de Nuevo Bazt\u00e1n, Las",
     "wof:parent_id":404338907,
     "wof:placetype":"locality",

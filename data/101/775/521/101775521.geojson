@@ -13,10 +13,13 @@
     "iso:country":"ES",
     "lbl:latitude":41.216227,
     "lbl:longitude":1.148501,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":41.216227,
     "mps:longitude":1.148501,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:arg_x_preferred":[
         "La Selva del Camp"
     ],
@@ -99,9 +102,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430-\u0421\u0435\u043b\u0431\u0430-\u0434\u0430\u043b-\u041a\u0430\u043c\u043f"
     ],
-    "name:unk_x_variant":[
-        "Selva"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u0627 \u0633\u06cc\u0644\u0648\u0627 \u0688\u06cc\u0644 \u06a9\u0627\u0645\u067e"
     ],
@@ -131,7 +131,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85682851,
@@ -145,7 +145,7 @@
         "fct:id":"083ab650-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3118952,
         "gp:id":764046,
-        "qs:id":979312,
+        "qs_pg:id":979312,
         "wd:id":"Q1230100"
     },
     "wof:country":"ES",
@@ -164,7 +164,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563260513,
+    "wof:lastmodified":1566589423,
     "wof:name":"Selva del Camp,La",
     "wof:parent_id":404343717,
     "wof:placetype":"locality",

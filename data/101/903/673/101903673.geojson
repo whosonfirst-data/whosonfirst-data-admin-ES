@@ -13,10 +13,13 @@
     "iso:country":"ES",
     "lbl:latitude":40.853039,
     "lbl:longitude":-4.162698,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":40.853039,
     "mps:longitude":-4.162698,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "La Losa"
     ],
@@ -74,9 +77,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430-\u041b\u043e\u0441\u0430"
     ],
-    "name:unk_x_variant":[
-        "La Losa"
-    ],
     "name:vie_x_preferred":[
         "La Losa"
     ],
@@ -105,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":48,
     "wof:belongsto":[
@@ -119,10 +119,12 @@
     "wof:concordances":{
         "gn:id":2515805,
         "gp:id":763613,
-        "qs:id":337176,
         "qs_pg:id":40956,
         "wd:id":"Q2249245",
         "wk:page":"La Losa"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":337176
     },
     "wof:country":"ES",
     "wof:geomhash":"4ae47c95ef214a04b623146847575b69",
@@ -137,7 +139,7 @@
         }
     ],
     "wof:id":101903673,
-    "wof:lastmodified":1563259625,
+    "wof:lastmodified":1566589244,
     "wof:name":"Losa, La",
     "wof:parent_id":404342493,
     "wof:placetype":"locality",

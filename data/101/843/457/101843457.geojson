@@ -13,10 +13,13 @@
     "iso:country":"ES",
     "lbl:latitude":37.96908,
     "lbl:longitude":-3.804944,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":37.96908,
     "mps:longitude":-3.804944,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0646\u062e\u064a\u0628\u0627\u0631"
     ],
@@ -101,9 +104,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u043d\u0445\u0456\u0431\u0430\u0440"
     ],
-    "name:unk_x_variant":[
-        "Mengibar"
-    ],
     "name:uzb_x_preferred":[
         "Meng\u00edbar"
     ],
@@ -132,7 +132,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":44,
     "wof:belongsto":[
@@ -146,10 +146,12 @@
     "wof:concordances":{
         "gn:id":6358511,
         "gp:id":767071,
-        "qs:id":91625,
-        "qs_pg:id":315782,
+        "qs_pg:id":91625,
         "wd:id":"Q1645553",
         "wk:page":"Meng\u00edbar"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":315782
     },
     "wof:country":"ES",
     "wof:geomhash":"a6b786499a2ef0eee939096873c37056",
@@ -164,7 +166,7 @@
         }
     ],
     "wof:id":101843457,
-    "wof:lastmodified":1563258311,
+    "wof:lastmodified":1566588921,
     "wof:name":"Meng\u00edbar",
     "wof:parent_id":404337043,
     "wof:placetype":"locality",

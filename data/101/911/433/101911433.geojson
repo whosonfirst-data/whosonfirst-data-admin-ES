@@ -12,10 +12,13 @@
     "iso:country":"ES",
     "lbl:latitude":28.21294,
     "lbl:longitude":-14.215709,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":28.21294,
     "mps:longitude":-14.215709,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Espa\u00f1a",
     "qs:a1":"*Las Palmas",
     "qs:a1r":"6Canarias",
@@ -32,7 +35,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682821,
         102191581,
@@ -44,7 +47,9 @@
     "wof:concordances":{
         "gn:id":2515674,
         "gp:id":763797,
-        "qs:id":225122,
+        "qs_pg:id":225122
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1157158
     },
     "wof:country":"ES",
@@ -60,7 +65,7 @@
         }
     ],
     "wof:id":101911433,
-    "wof:lastmodified":1530590910,
+    "wof:lastmodified":1566589405,
     "wof:name":"La Pared",
     "wof:parent_id":404340917,
     "wof:placetype":"locality",

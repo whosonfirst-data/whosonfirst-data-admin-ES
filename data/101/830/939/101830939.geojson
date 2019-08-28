@@ -12,10 +12,13 @@
     "iso:country":"ES",
     "lbl:latitude":40.660812,
     "lbl:longitude":-4.053883,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.660812,
     "mps:longitude":-4.053883,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Cabezuela"
     ],
@@ -76,9 +79,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0431\u0435\u0441\u0443\u0435\u043b\u0430"
     ],
-    "name:unk_x_variant":[
-        "Cabezuela"
-    ],
     "name:uzb_x_preferred":[
         "Cabezuela"
     ],
@@ -110,7 +110,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":62,
     "wof:belongsto":[
         85682783,
@@ -123,9 +123,11 @@
     "wof:concordances":{
         "gn:id":3127219,
         "gp:id":755310,
-        "qs:id":2,
-        "qs_pg:id":998025,
+        "qs_pg:id":2,
         "wd:id":"Q1776854"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":998025
     },
     "wof:country":"ES",
     "wof:geomhash":"0d060f6553a2a40183b028f23bf08b32",
@@ -140,7 +142,7 @@
         }
     ],
     "wof:id":101830939,
-    "wof:lastmodified":1563260359,
+    "wof:lastmodified":1566589390,
     "wof:name":"Cabezuelas, Las",
     "wof:parent_id":404338841,
     "wof:placetype":"locality",

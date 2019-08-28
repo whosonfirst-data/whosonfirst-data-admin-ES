@@ -12,12 +12,15 @@
     "iso:country":"ES",
     "lbl:latitude":41.429248,
     "lbl:longitude":2.09697,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.429248,
     "mps:longitude":2.09697,
     "mz:categories":[],
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Planes"
     ],
@@ -35,9 +38,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u043b\u0430\u043d\u0435\u0441"
-    ],
-    "name:unk_x_variant":[
-        "Planes"
     ],
     "name:zho_x_preferred":[
         "\u666e\u62c9\u5185\u65af"
@@ -58,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -69,7 +69,9 @@
     "wof:concordances":{
         "gn:id":2512475,
         "gp:id":770321,
-        "qs:id":6,
+        "qs_pg:id":6
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":222774
     },
     "wof:country":"ES",
@@ -84,7 +86,7 @@
         }
     ],
     "wof:id":101758719,
-    "wof:lastmodified":1558558738,
+    "wof:lastmodified":1566589227,
     "wof:name":"Planes, Les",
     "wof:parent_id":85682663,
     "wof:placetype":"locality",

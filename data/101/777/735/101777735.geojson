@@ -13,10 +13,13 @@
     "iso:country":"ES",
     "lbl:latitude":39.57429,
     "lbl:longitude":2.420509,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":39.57429,
     "mps:longitude":2.420509,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Andratx"
     ],
@@ -243,7 +246,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":827,
     "wof:belongsto":[
@@ -257,9 +260,11 @@
     "wof:concordances":{
         "gn:id":2521741,
         "gp:id":752460,
-        "qs:id":1061448,
         "qs_pg:id":1036383,
         "wd:id":"Q493017"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1061448
     },
     "wof:country":"ES",
     "wof:geomhash":"bd0b67fcdc284bf508acf621987fbc40",
@@ -274,7 +279,7 @@
         }
     ],
     "wof:id":101777735,
-    "wof:lastmodified":1563259237,
+    "wof:lastmodified":1566589155,
     "wof:name":"Andratx",
     "wof:parent_id":404330739,
     "wof:placetype":"locality",

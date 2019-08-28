@@ -13,10 +13,13 @@
     "iso:country":"ES",
     "lbl:latitude":40.230776,
     "lbl:longitude":-3.992427,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":40.230776,
     "mps:longitude":-3.992427,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0644\u0627\u0645\u0648"
     ],
@@ -87,9 +90,6 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u0410\u043b\u0430\u043c\u043e"
     ],
-    "name:unk_x_variant":[
-        "El \u00c1lamo"
-    ],
     "name:uzb_x_preferred":[
         "El \u00c1lamo"
     ],
@@ -113,7 +113,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85682783,
@@ -127,7 +127,7 @@
         "fct:id":"0836ae48-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3123682,
         "gp:id":12687949,
-        "qs:id":902755,
+        "qs_pg:id":902755,
         "wd:id":"Q1984836",
         "wk:page":"El \u00c1lamo"
     },
@@ -147,7 +147,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563260440,
+    "wof:lastmodified":1566589411,
     "wof:name":"\u00c1lamo,El",
     "wof:parent_id":404338693,
     "wof:placetype":"locality",

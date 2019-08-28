@@ -13,10 +13,13 @@
     "iso:country":"ES",
     "lbl:latitude":37.353164,
     "lbl:longitude":-4.990181,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":37.353164,
     "mps:longitude":-4.990181,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:arg_x_preferred":[
         "El Rubio"
     ],
@@ -104,9 +107,6 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u0420\u0443\u0431\u0456\u043e"
     ],
-    "name:unk_x_variant":[
-        "El Rubio"
-    ],
     "name:uzb_x_preferred":[
         "El Rubio"
     ],
@@ -136,7 +136,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":53,
     "wof:belongsto":[
@@ -151,7 +151,7 @@
         "fct:id":"0837489e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2518129,
         "gp:id":759700,
-        "qs:id":188757,
+        "qs_pg:id":188757,
         "wd:id":"Q1445292",
         "wk:page":"El Rubio"
     },
@@ -171,7 +171,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563259340,
+    "wof:lastmodified":1566589174,
     "wof:name":"Rubio,El",
     "wof:parent_id":404342931,
     "wof:placetype":"locality",

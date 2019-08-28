@@ -13,10 +13,13 @@
     "iso:country":"ES",
     "lbl:latitude":38.941687,
     "lbl:longitude":-3.236506,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":38.941687,
     "mps:longitude":-3.236506,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0644\u0627 \u0633\u0648\u0644\u0627\u0646\u0627"
     ],
@@ -104,9 +107,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430-\u0421\u043e\u043b\u0430\u043d\u0430"
     ],
-    "name:unk_x_variant":[
-        "La Solana"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u0627 \u0633\u0648\u0644\u0627\u0646\u0627"
     ],
@@ -136,7 +136,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":65,
     "wof:belongsto":[
@@ -151,7 +151,7 @@
         "fct:id":"082c33a0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2515284,
         "gp:id":764071,
-        "qs:id":263964,
+        "qs_pg:id":263964,
         "wd:id":"Q1607352",
         "wk:page":"La Solana"
     },
@@ -171,7 +171,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563258579,
+    "wof:lastmodified":1566589005,
     "wof:name":"Solana,La",
     "wof:parent_id":404333587,
     "wof:placetype":"locality",

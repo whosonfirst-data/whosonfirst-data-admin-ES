@@ -12,10 +12,13 @@
     "iso:country":"ES",
     "lbl:latitude":43.343107,
     "lbl:longitude":-5.357653,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.343107,
     "mps:longitude":-5.357653,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u0648\u0646\u064a\u0627"
     ],
@@ -94,9 +97,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0456\u043b\u043e\u043d\u044c\u044f"
     ],
-    "name:unk_x_variant":[
-        "Pilo\u00f1a"
-    ],
     "name:uzb_x_preferred":[
         "Pilo\u00f1a"
     ],
@@ -125,7 +125,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682805,
         102191581,
@@ -137,10 +137,12 @@
     "wof:concordances":{
         "gn:id":3113555,
         "gp:id":762605,
-        "qs:id":9,
-        "qs_pg:id":246242,
+        "qs_pg:id":9,
         "wd:id":"Q818363",
         "wk:page":"Pilo\u00f1a"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":246242
     },
     "wof:country":"ES",
     "wof:geomhash":"7a269c7118d839fe819a98f271aa7be8",
@@ -155,7 +157,7 @@
         }
     ],
     "wof:id":101772007,
-    "wof:lastmodified":1563260687,
+    "wof:lastmodified":1566589451,
     "wof:name":"Infesto",
     "wof:parent_id":404340389,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"ES",
     "lbl:latitude":38.73598,
     "lbl:longitude":-3.013617,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":38.73598,
     "mps:longitude":-3.013617,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u0627\u0646\u064a\u0648\u0641\u0627 \u062f\u064a \u0644\u0648\u0633 \u0625\u0646\u0641\u0627\u0646\u062a\u0633\u060c \u0633\u064a\u0648\u062f\u0627\u062f \u0631\u064a\u0627\u0644"
     ],
@@ -120,9 +123,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043b\u044c\u044f\u043d\u0443\u0435\u0432\u0430-\u0434\u0435-\u043b\u043e\u0441-\u0406\u043d\u0444\u0430\u043d\u0442\u0435\u0441"
     ],
-    "name:unk_x_variant":[
-        "Villanueva de Infantes"
-    ],
     "name:vie_x_preferred":[
         "Villanueva de los Infantes"
     ],
@@ -152,7 +152,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":16,
     "wof:belongsto":[
@@ -167,9 +167,11 @@
         "fct:id":"083996ee-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3105218,
         "gp:id":778118,
-        "qs:id":1243698,
         "qs_pg:id":999610,
         "wd:id":"Q768433"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1243698
     },
     "wof:country":"ES",
     "wof:geomhash":"8ff43528160b00999c30c23004c41055",
@@ -187,7 +189,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563259161,
+    "wof:lastmodified":1566589138,
     "wof:name":"Villanueva de los Infantes",
     "wof:parent_id":404333619,
     "wof:placetype":"locality",
