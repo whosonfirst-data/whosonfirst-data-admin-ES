@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Amusquillo",
+    "eurostat:nuts_2021_id":"47009",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47009",
+    "eurostat:population":102,
+    "eurostat:population_year":2020,
     "geom:area":0.001722,
-    "geom:area_square_m":15886388.336225,
+    "geom:area_square_m":15886388.336224,
     "geom:bbox":"-4.32114684,41.7097845,-4.27036385,41.77648783",
     "geom:latitude":41.751252,
     "geom:longitude":-4.295848,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_47009",
+        "eurostat:nuts_2021_id":"47009",
         "gn:id":6362137,
         "gp:id":12692911,
         "qs_pg:id":1016037
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"03f59f5f2b6cdf29267a525f6017c71c",
+    "wof:geomhash":"0321b501821bd96713990fa748ab8559",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404345417,
-    "wof:lastmodified":1582361836,
+    "wof:lastmodified":1684352486,
     "wof:name":"Amusquillo",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":102,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

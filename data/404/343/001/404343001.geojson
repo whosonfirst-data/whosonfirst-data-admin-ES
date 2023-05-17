@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aldealse\u00f1or",
+    "eurostat:nuts_2021_id":"42012",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42012",
+    "eurostat:population":29,
+    "eurostat:population_year":2020,
     "geom:area":0.001008,
-    "geom:area_square_m":9280251.562305,
+    "geom:area_square_m":9280251.562307,
     "geom:bbox":"-2.34509757,41.87302133,-2.27824419,41.89662271",
     "geom:latitude":41.884474,
     "geom:longitude":-2.312202,
@@ -204,6 +216,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -212,6 +226,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42012",
+        "eurostat:nuts_2021_id":"42012",
         "gn:id":6361070,
         "gp:id":12692729,
         "qs_pg:id":1196678
@@ -220,7 +236,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7c9a787516dbeaff5b2cbb71f03885c5",
+    "wof:geomhash":"386f8d3a35722fbff765b583a0d1a0f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -231,10 +247,12 @@
         }
     ],
     "wof:id":404343001,
-    "wof:lastmodified":1582361873,
+    "wof:lastmodified":1684352446,
     "wof:name":"Aldealse\u00f1or",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":29,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

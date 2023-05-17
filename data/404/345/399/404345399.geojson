@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Adalia",
+    "eurostat:nuts_2021_id":"47001",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47001",
+    "eurostat:population":53,
+    "eurostat:population_year":2020,
     "geom:area":0.001757,
-    "geom:area_square_m":16238733.555811,
+    "geom:area_square_m":16238733.55581,
     "geom:bbox":"-5.15501742,41.62018917,-5.09948545,41.67276979",
     "geom:latitude":41.645738,
     "geom:longitude":-5.124852,
@@ -51,6 +63,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -59,6 +73,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_47001",
+        "eurostat:nuts_2021_id":"47001",
         "gn:id":6362129,
         "gp:id":12692903,
         "qs_pg:id":1095172
@@ -67,7 +83,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"65c1ff5b8e8f70f4bfcf16ded597ba33",
+    "wof:geomhash":"cdc5732294340be0eec9b35ba6669f3e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404345399,
-    "wof:lastmodified":1582361826,
+    "wof:lastmodified":1684352486,
     "wof:name":"Adalia",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":53,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

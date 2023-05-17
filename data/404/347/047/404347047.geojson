@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50154",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mainar",
+    "eurostat:nuts_2021_id":"50154",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50154",
+    "eurostat:population":160,
+    "eurostat:population_year":2020,
     "geom:area":0.003653,
-    "geom:area_square_m":33979044.445221,
+    "geom:area_square_m":33979044.445219,
     "geom:bbox":"-1.3581202,41.16465655,-1.26594859,41.26034392",
     "geom:latitude":41.208252,
     "geom:longitude":-1.306203,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50154",
+        "eurostat:nuts_2021_id":"50154",
         "gn:id":6362842,
         "gp:id":12689982,
         "qs_pg:id":265251
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"86122f1902fa785b213fd2305b8dddc5",
+    "wof:geomhash":"8af81d638ff6c3367062dff06ccd2bb6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404347047,
-    "wof:lastmodified":1582361670,
+    "wof:lastmodified":1684352506,
     "wof:name":"Mainar",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":160,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

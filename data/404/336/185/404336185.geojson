@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_20046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Irura",
+    "eurostat:nuts_2021_id":"20046",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES212",
+    "eurostat:nuts_2021_level_lau":"20046",
+    "eurostat:population":1852,
+    "eurostat:population_year":2020,
     "geom:area":0.000331,
-    "geom:area_square_m":2984761.482829,
+    "geom:area_square_m":2984761.482828,
     "geom:bbox":"-2.07149836,43.15681672,-2.04085505,43.17690038",
     "geom:latitude":43.165586,
     "geom:longitude":-2.057202,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_20046",
+        "eurostat:nuts_2021_id":"20046",
         "gn:id":6358135,
         "qs_pg:id":378192
     },
@@ -120,7 +136,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8d6f3021c6b8c9c69046ab7114570ebc",
+    "wof:geomhash":"09a4017419d5e46e4220a2a529ca89fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404336185,
-    "wof:lastmodified":1582361479,
+    "wof:lastmodified":1684352334,
     "wof:name":"Irura",
     "wof:parent_id":85682741,
     "wof:placetype":"localadmin",
+    "wof:population":1852,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

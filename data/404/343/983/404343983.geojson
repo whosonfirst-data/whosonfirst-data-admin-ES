@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44089",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cubla",
+    "eurostat:nuts_2021_id":"44089",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44089",
+    "eurostat:population":55,
+    "eurostat:population_year":2020,
     "geom:area":0.005145,
     "geom:area_square_m":48583968.917524,
     "geom:bbox":"-1.12454945,40.17775425,-1.0043252,40.25806336",
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44089",
+        "eurostat:nuts_2021_id":"44089",
         "gn:id":6361504,
         "gp:id":12689675,
         "qs_pg:id":45431
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"54a0381f8fc9c197749e89d7462488da",
+    "wof:geomhash":"c5f9cd1d07eeca680295387f9b73b71b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404343983,
-    "wof:lastmodified":1582361874,
+    "wof:lastmodified":1684352468,
     "wof:name":"Cubla",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":55,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8207,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08207",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Esteve de Palautordera",
+    "eurostat:nuts_2021_id":"08207",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08207",
+    "eurostat:population":2864,
+    "eurostat:population_year":2020,
     "geom:area":0.001152,
-    "geom:area_square_m":10633975.047954,
+    "geom:area_square_m":10633997.020752,
     "geom:bbox":"2.396021,41.694469,2.448054,41.735307",
     "geom:latitude":41.714092,
     "geom:longitude":2.421441,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08207",
         "esp-icgc:la_lc":"08207",
+        "eurostat:nuts_2021_id":"08207",
         "gn:id":6356229,
         "gp:id":12693583,
         "qs_pg:id":191249
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"07fd6d7a6b57fba484f4ba348ff44d73",
+    "wof:geomhash":"c32f224034a468d26dc9a421dc52d2e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404331339,
-    "wof:lastmodified":1669902998,
+    "wof:lastmodified":1684352249,
     "wof:name":"Sant Esteve de Palautordera",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":2864,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

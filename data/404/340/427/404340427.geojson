@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_33066",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Siero",
+    "eurostat:nuts_2021_id":"33066",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES12",
+    "eurostat:nuts_2021_level_3":"ES120",
+    "eurostat:nuts_2021_level_lau":"33066",
+    "eurostat:population":51509,
+    "eurostat:population_year":2020,
     "geom:area":0.023468,
-    "geom:area_square_m":210865763.054432,
+    "geom:area_square_m":210865763.054436,
     "geom:bbox":"-5.82943807,43.32200744,-5.55434508,43.4660818",
     "geom:latitude":43.393027,
     "geom:longitude":-5.685374,
@@ -129,6 +141,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -137,6 +151,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_33066",
+        "eurostat:nuts_2021_id":"33066",
         "gn:id":3109005,
         "gp:id":12688508,
         "qs_pg:id":408800
@@ -145,7 +161,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cb3ddea5d399ad04486a6161c9dbf14d",
+    "wof:geomhash":"b3612ed4f65e7dfc309666cfc9df1d07",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404340427,
-    "wof:lastmodified":1582361662,
+    "wof:lastmodified":1684352408,
     "wof:name":"Siero",
     "wof:parent_id":85682805,
     "wof:placetype":"localadmin",
+    "wof:population":51509,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

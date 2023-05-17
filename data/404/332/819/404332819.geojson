@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10139",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pedroso de Acim",
+    "eurostat:nuts_2021_id":"10139",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10139",
+    "eurostat:population":80,
+    "eurostat:population_year":2020,
     "geom:area":0.003497,
-    "geom:area_square_m":33198584.966598,
+    "geom:area_square_m":33198584.966597,
     "geom:bbox":"-6.43987093,39.80563843,-6.375271,39.89631612",
     "geom:latitude":39.852322,
     "geom:longitude":-6.405261,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10139",
+        "eurostat:nuts_2021_id":"10139",
         "gn:id":6356834,
         "gp:id":12694620,
         "qs_pg:id":240436
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"25a53305228e04508d7ecdca9f11cf1a",
+    "wof:geomhash":"cca2f27e001384868129aeb99557771e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332819,
-    "wof:lastmodified":1582361679,
+    "wof:lastmodified":1684352269,
     "wof:name":"Pedroso De Acim",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":80,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

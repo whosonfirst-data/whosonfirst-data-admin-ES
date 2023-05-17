@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_20034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Eskoriatza",
+    "eurostat:nuts_2021_id":"20034",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES212",
+    "eurostat:nuts_2021_level_lau":"20034",
+    "eurostat:population":4106,
+    "eurostat:population_year":2020,
     "geom:area":0.004447,
     "geom:area_square_m":40211761.572047,
     "geom:bbox":"-2.60094029,42.95983458,-2.48333633,43.04542459",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_20034",
+        "eurostat:nuts_2021_id":"20034",
         "gn:id":6358124,
         "gp:id":12695103,
         "qs_pg:id":621683
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5e3cc16ff7c3bcc1273fd42c01023cb2",
+    "wof:geomhash":"bd7f3e1795db7b56034d90741d70cfa1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404336159,
-    "wof:lastmodified":1582361459,
+    "wof:lastmodified":1684352334,
     "wof:name":"Eskoriatza",
     "wof:parent_id":85682741,
     "wof:placetype":"localadmin",
+    "wof:population":4106,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

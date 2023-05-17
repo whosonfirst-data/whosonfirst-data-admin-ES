@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_29007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alhaur\u00edn de la Torre",
+    "eurostat:nuts_2021_id":"29007",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES617",
+    "eurostat:nuts_2021_level_lau":"29007",
+    "eurostat:population":41170,
+    "eurostat:population_year":2020,
     "geom:area":0.008336,
-    "geom:area_square_m":82681091.587629,
+    "geom:area_square_m":82681091.58763,
     "geom:bbox":"-4.64070407,36.61182609,-4.51599659,36.71666101",
     "geom:latitude":36.661526,
     "geom:longitude":-4.583017,
@@ -45,6 +57,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -53,6 +67,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_29007",
+        "eurostat:nuts_2021_id":"29007",
         "gn:id":6359412,
         "gp:id":12689196,
         "qs_pg:id":248327
@@ -61,7 +77,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"48579933297e7bf1ab86b34767bf2d91",
+    "wof:geomhash":"1775fc0b22c870e068c472a09bd926b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
         }
     ],
     "wof:id":404339107,
-    "wof:lastmodified":1582361590,
+    "wof:lastmodified":1684352388,
     "wof:name":"Alhaur\u00edn De La Torre",
     "wof:parent_id":85682787,
     "wof:placetype":"localadmin",
+    "wof:population":41170,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

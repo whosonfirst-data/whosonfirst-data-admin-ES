@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":17101,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Massanes",
+    "eurostat:nuts_2021_id":"17101",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17101",
+    "eurostat:population":796,
+    "eurostat:population_year":2020,
     "geom:area":0.002802,
     "geom:area_square_m":25842394.102138,
     "geom:bbox":"2.61664414043,41.7429429033,2.68052080855,41.8027878522",
@@ -85,6 +97,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -93,7 +107,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17101",
         "esp-icgc:la_lc":"017101",
+        "eurostat:nuts_2021_id":"17101",
         "gn:id":6534084,
         "gp:id":12693783,
         "qs_pg:id":1149545
@@ -103,7 +119,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1a2c8a7065c8fbc225bf027224463941",
+    "wof:geomhash":"bd26aa8f6310a07429875bf56e392b16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,10 +130,12 @@
         }
     ],
     "wof:id":404334771,
-    "wof:lastmodified":1582361733,
+    "wof:lastmodified":1684352308,
     "wof:name":"Massanes",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":796,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

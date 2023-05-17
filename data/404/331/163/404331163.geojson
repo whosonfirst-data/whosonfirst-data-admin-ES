@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8127,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08127",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monistrol de Montserrat",
+    "eurostat:nuts_2021_id":"08127",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08127",
+    "eurostat:population":3139,
+    "eurostat:population_year":2020,
     "geom:area":0.001287,
-    "geom:area_square_m":11896096.077206,
+    "geom:area_square_m":11896081.007677,
     "geom:bbox":"1.811498,41.590656,1.864141,41.657498",
     "geom:latitude":41.609525,
     "geom:longitude":1.842078,
@@ -70,6 +82,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -78,7 +92,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08127",
         "esp-icgc:la_lc":"08127",
+        "eurostat:nuts_2021_id":"08127",
         "gn:id":6356156,
         "gp:id":12693508,
         "qs_pg:id":1079245
@@ -88,7 +104,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"858690416ecf54f59749698ccc76bb05",
+    "wof:geomhash":"4d157bec382f428d10c5a3c79b44f073",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,10 +115,12 @@
         }
     ],
     "wof:id":404331163,
-    "wof:lastmodified":1669903007,
+    "wof:lastmodified":1684352243,
     "wof:name":"Monistrol de Montserrat",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":3139,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

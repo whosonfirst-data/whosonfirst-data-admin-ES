@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alameda de la Sagra",
+    "eurostat:nuts_2021_id":"45002",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45002",
+    "eurostat:population":3734,
+    "eurostat:population_year":2020,
     "geom:area":0.003484,
     "geom:area_square_m":32999173.938357,
     "geom:bbox":"-3.84602905,39.95335336,-3.75927363,40.0577314",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45002",
+        "eurostat:nuts_2021_id":"45002",
         "gn:id":6361663,
         "gp:id":12690924,
         "qs_pg:id":1248492
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"191bf93f1a40e9f5707b02c9c67233ed",
+    "wof:geomhash":"e38be181f9ce12e5ad78db8a638288f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404344345,
-    "wof:lastmodified":1582361859,
+    "wof:lastmodified":1684352472,
     "wof:name":"Alameda De La Sagra",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":3734,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

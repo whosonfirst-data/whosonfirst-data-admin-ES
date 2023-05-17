@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Boalo, El",
+    "eurostat:nuts_2021_id":"28023",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28023",
+    "eurostat:population":7663,
+    "eurostat:population_year":2020,
     "geom:area":0.004207,
-    "geom:area_square_m":39430316.010368,
+    "geom:area_square_m":39430316.010369,
     "geom:bbox":"-3.96860325,40.64857834,-3.83230233,40.76819837",
     "geom:latitude":40.709055,
     "geom:longitude":-3.922024,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28023",
+        "eurostat:nuts_2021_id":"28023",
         "gn:id":6359249,
         "gp:id":12687968,
         "qs_pg:id":247267
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0370363a801308959669f25cf63a9640",
+    "wof:geomhash":"3b9c8941daa56a2bd355073692b46f9e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404338735,
-    "wof:lastmodified":1582361445,
+    "wof:lastmodified":1684352381,
     "wof:name":"El Boalo",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":7663,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

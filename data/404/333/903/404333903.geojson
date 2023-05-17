@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lousame",
+    "eurostat:nuts_2021_id":"15042",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15042",
+    "eurostat:population":3268,
+    "eurostat:population_year":2020,
     "geom:area":0.0103,
-    "geom:area_square_m":93497381.440698,
+    "geom:area_square_m":93497381.440696,
     "geom:bbox":"-8.92870464,42.71246459,-8.76549927,42.83426051",
     "geom:latitude":42.765271,
     "geom:longitude":-8.835979,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_15042",
+        "eurostat:nuts_2021_id":"15042",
         "gn:id":6357311,
         "gp:id":12694744,
         "qs_pg:id":79556
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a36f26df08a92dfdba2c74d0ebdb4307",
+    "wof:geomhash":"cbea7e04a6412d73401f731dc4a6c99b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404333903,
-    "wof:lastmodified":1582361774,
+    "wof:lastmodified":1684352288,
     "wof:name":"Lousame",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":3268,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

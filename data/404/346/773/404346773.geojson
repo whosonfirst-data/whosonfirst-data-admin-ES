@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alpartir",
+    "eurostat:nuts_2021_id":"50026",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50026",
+    "eurostat:population":568,
+    "eurostat:population_year":2020,
     "geom:area":0.003504,
-    "geom:area_square_m":32493440.223921,
+    "geom:area_square_m":32493440.223922,
     "geom:bbox":"-1.41858808,41.34687676,-1.34806389,41.44460503",
     "geom:latitude":41.405081,
     "geom:longitude":-1.380541,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50026",
+        "eurostat:nuts_2021_id":"50026",
         "gn:id":6362720,
         "gp:id":12689859,
         "qs_pg:id":45512
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"205e61c879bc68e9a7b40cb18f67219f",
+    "wof:geomhash":"8aeae323b8f80387ce826a543d9fd41c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404346773,
-    "wof:lastmodified":1582361621,
+    "wof:lastmodified":1684352503,
     "wof:name":"Alpartir",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":568,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

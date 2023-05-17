@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46122",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Faura",
+    "eurostat:nuts_2021_id":"46122",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46122",
+    "eurostat:population":3553,
+    "eurostat:population_year":2020,
     "geom:area":0.000172,
     "geom:area_square_m":1634945.403933,
     "geom:bbox":"-0.27385604,39.72098331,-0.2435215,39.73581335",
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46122",
+        "eurostat:nuts_2021_id":"46122",
         "gn:id":6361987,
         "gp:id":12695659,
         "qs_pg:id":1056519
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e6e4de82c8e6e2b706946a0db1127b27",
+    "wof:geomhash":"204c499c1d684b54299badd0bc690b0a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404345073,
-    "wof:lastmodified":1582361836,
+    "wof:lastmodified":1684352482,
     "wof:name":"Faura",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":3553,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

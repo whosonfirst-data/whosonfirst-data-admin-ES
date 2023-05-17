@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Miguel Esteban",
+    "eurostat:nuts_2021_id":"45101",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45101",
+    "eurostat:population":4788,
+    "eurostat:population_year":2020,
     "geom:area":0.00974,
-    "geom:area_square_m":92914302.340335,
+    "geom:area_square_m":92914302.340332,
     "geom:bbox":"-3.19782083,39.45806307,-3.03212003,39.56959124",
     "geom:latitude":39.514922,
     "geom:longitude":-3.103344,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45101",
+        "eurostat:nuts_2021_id":"45101",
         "gn:id":6361761,
         "gp:id":12691022,
         "qs_pg:id":265287
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"71f839e1f8bcc2ae9614f6861a7f34bc",
+    "wof:geomhash":"3b4a4ac1cf021b8b596fc52af063733f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404344565,
-    "wof:lastmodified":1582361853,
+    "wof:lastmodified":1684352475,
     "wof:name":"Miguel Esteban",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":4788,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

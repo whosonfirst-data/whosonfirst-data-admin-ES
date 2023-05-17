@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8082,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08082",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fogars de la Selva",
+    "eurostat:nuts_2021_id":"08082",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08082",
+    "eurostat:population":1469,
+    "eurostat:population_year":2020,
     "geom:area":0.003483,
-    "geom:area_square_m":32149669.394757,
+    "geom:area_square_m":32149745.174778,
     "geom:bbox":"2.587905,41.683822,2.724046,41.748496",
     "geom:latitude":41.7203,
     "geom:longitude":2.64264,
@@ -48,6 +60,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -56,13 +70,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"08082"
+        "eg:gisco_id":"ES_08082",
+        "esp-icgc:la_lc":"08082",
+        "eurostat:nuts_2021_id":"08082"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"33df8e1db1127b239b31c6ef4bbff11a",
+    "wof:geomhash":"2ec3486b867bfc1765e1dc7c0edd77e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,10 +89,12 @@
         }
     ],
     "wof:id":404331063,
-    "wof:lastmodified":1669903003,
+    "wof:lastmodified":1684352240,
     "wof:name":"Fogars de la Selva",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":1469,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

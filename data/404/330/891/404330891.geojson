@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8006,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arenys de Mar",
+    "eurostat:nuts_2021_id":"08006",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08006",
+    "eurostat:population":15941,
+    "eurostat:population_year":2020,
     "geom:area":0.000696,
-    "geom:area_square_m":6441810.232814,
+    "geom:area_square_m":6441804.219363,
     "geom:bbox":"2.521193,41.569081,2.572091,41.595723",
     "geom:latitude":41.583454,
     "geom:longitude":2.547757,
@@ -64,6 +76,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -72,7 +86,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08006",
         "esp-icgc:la_lc":"08006",
+        "eurostat:nuts_2021_id":"08006",
         "gn:id":6533985,
         "gp:id":12693382,
         "qs_pg:id":1163703
@@ -82,7 +98,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"d42a6c25fb1dbd45d7fc2ae6b1fe3e67",
+    "wof:geomhash":"dac0f1db5265f6d74fb029fa7c6fe82c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,10 +109,12 @@
         }
     ],
     "wof:id":404330891,
-    "wof:lastmodified":1669903017,
+    "wof:lastmodified":1684352234,
     "wof:name":"Arenys de Mar",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":15941,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

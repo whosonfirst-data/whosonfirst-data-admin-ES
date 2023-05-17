@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04064",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Moj\u00e1car",
+    "eurostat:nuts_2021_id":"04064",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04064",
+    "eurostat:population":6778,
+    "eurostat:population_year":2020,
     "geom:area":0.007252,
-    "geom:area_square_m":71506956.962843,
+    "geom:area_square_m":71506956.962842,
     "geom:bbox":"-1.91577073,37.03830818,-1.82306536,37.19131784",
     "geom:latitude":37.114294,
     "geom:longitude":-1.866293,
@@ -135,6 +147,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -143,6 +157,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_04064",
+        "eurostat:nuts_2021_id":"04064",
         "gn:id":6355576,
         "gp:id":12688685,
         "qs_pg:id":242336
@@ -151,7 +167,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fb0f2ce46cd1bcd1f59632a84856a886",
+    "wof:geomhash":"ba3d6299818db5587693adf6daf3ac58",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -162,10 +178,12 @@
         }
     ],
     "wof:id":404329703,
-    "wof:lastmodified":1582361797,
+    "wof:lastmodified":1684352214,
     "wof:name":"Moj\u00e1car",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":6778,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

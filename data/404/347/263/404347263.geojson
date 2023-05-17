@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50252",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tauste",
+    "eurostat:nuts_2021_id":"50252",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50252",
+    "eurostat:population":6847,
+    "eurostat:population_year":2020,
     "geom:area":0.043999,
     "geom:area_square_m":404638726.08252,
     "geom:bbox":"-1.38628649,41.82173315,-0.97905038,42.04294935",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50252",
+        "eurostat:nuts_2021_id":"50252",
         "gn:id":6362938,
         "gp:id":12690078,
         "qs_pg:id":209611
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"21fc1f2beacff7c1250e9411b4fec58c",
+    "wof:geomhash":"440dfc7be78841792df247396b910d62",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404347263,
-    "wof:lastmodified":1582361674,
+    "wof:lastmodified":1684352509,
     "wof:name":"Tauste",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":6847,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

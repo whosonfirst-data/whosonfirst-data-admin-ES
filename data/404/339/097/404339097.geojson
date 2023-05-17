@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_29003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alfarnate",
+    "eurostat:nuts_2021_id":"29003",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES617",
+    "eurostat:nuts_2021_level_lau":"29003",
+    "eurostat:population":1065,
+    "eurostat:population_year":2020,
     "geom:area":0.003441,
-    "geom:area_square_m":33981028.656276,
+    "geom:area_square_m":33981028.656275,
     "geom:bbox":"-4.3121088,36.95543472,-4.19308573,37.02298111",
     "geom:latitude":36.99212,
     "geom:longitude":-4.248135,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_29003",
+        "eurostat:nuts_2021_id":"29003",
         "gn:id":6359408,
         "gp:id":12689192,
         "qs_pg:id":1146445
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b47f0538f47ba37c7f55e3c887431dde",
+    "wof:geomhash":"06d54e12d665a0ed606232c04c727d95",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404339097,
-    "wof:lastmodified":1582361586,
+    "wof:lastmodified":1684352388,
     "wof:name":"Alfarnate",
     "wof:parent_id":85682787,
     "wof:placetype":"localadmin",
+    "wof:population":1065,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

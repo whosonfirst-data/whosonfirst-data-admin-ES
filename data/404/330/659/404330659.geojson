@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06135",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trujillanos",
+    "eurostat:nuts_2021_id":"06135",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06135",
+    "eurostat:population":1376,
+    "eurostat:population_year":2020,
     "geom:area":0.002107,
     "geom:area_square_m":20258375.044972,
     "geom:bbox":"-6.28359199,38.93331937,-6.21999166,38.98411478",
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06135",
+        "eurostat:nuts_2021_id":"06135",
         "gn:id":6356000,
         "gp:id":12694454,
         "qs_pg:id":1149615
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6c58050094b847f590f2fff1fc35108d",
+    "wof:geomhash":"7e0220eb3661e714b72a0b8a6ef398eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404330659,
-    "wof:lastmodified":1582361527,
+    "wof:lastmodified":1684352227,
     "wof:name":"Trujillanos",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":1376,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

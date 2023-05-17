@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05183",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pedro-Rodr\u00edguez",
+    "eurostat:nuts_2021_id":"05183",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05183",
+    "eurostat:population":133,
+    "eurostat:population_year":2020,
     "geom:area":0.001505,
-    "geom:area_square_m":14062378.531088,
+    "geom:area_square_m":14062378.531087,
     "geom:bbox":"-4.81914306,40.9211936,-4.74983045,40.95350683",
     "geom:latitude":40.937166,
     "geom:longitude":-4.784141,
@@ -105,6 +117,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -112,9 +126,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_05183",
+        "eurostat:nuts_2021_id":"05183"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"8c22a59c80d33921d178ab550efabd11",
+    "wof:geomhash":"2294ae0ccd831c57ee0dc4f887e95300",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +142,12 @@
         }
     ],
     "wof:id":404330169,
-    "wof:lastmodified":1566589873,
+    "wof:lastmodified":1684352220,
     "wof:name":"Pedro-Rodr\u00edguez",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":133,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

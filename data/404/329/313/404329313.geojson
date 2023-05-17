@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Beniard\u00e1",
+    "eurostat:nuts_2021_id":"03027",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03027",
+    "eurostat:population":200,
+    "eurostat:population_year":2020,
     "geom:area":0.00163,
-    "geom:area_square_m":15729192.834736,
+    "geom:area_square_m":15729192.834737,
     "geom:bbox":"-0.24783753,38.67620542,-0.16465642,38.71611092",
     "geom:latitude":38.696045,
     "geom:longitude":-0.214282,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03027",
+        "eurostat:nuts_2021_id":"03027",
         "gn:id":6355403,
         "gp:id":12695292,
         "qs_pg:id":1160737
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ddff1d905e5a2294284210479563b1dd",
+    "wof:geomhash":"0cab6ed62a65ef5da19a8e7c87c4d9ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404329313,
-    "wof:lastmodified":1582361794,
+    "wof:lastmodified":1684352208,
     "wof:name":"Beniard\u00e1",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":200,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

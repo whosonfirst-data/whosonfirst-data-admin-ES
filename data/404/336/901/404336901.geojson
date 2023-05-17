@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22904",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sotonera, La",
+    "eurostat:nuts_2021_id":"22904",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22904",
+    "eurostat:population":859,
+    "eurostat:population_year":2020,
     "geom:area":0.018058,
-    "geom:area_square_m":165291166.054138,
+    "geom:area_square_m":165291166.054139,
     "geom:bbox":"-0.63785205,42.13886856,-0.44900139,42.33603246",
     "geom:latitude":42.248389,
     "geom:longitude":-0.54161,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22904",
+        "eurostat:nuts_2021_id":"22904",
         "gn:id":6358450,
         "gp:id":12689570,
         "qs_pg:id":1306606
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cafe09beb6b2a909cf4061cdee9e658c",
+    "wof:geomhash":"1b9dcc9df81cc754fde61d87044b6353",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404336901,
-    "wof:lastmodified":1582361460,
+    "wof:lastmodified":1684352345,
     "wof:name":"La Sotonera",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":859,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

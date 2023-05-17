@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06081",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Medina de las Torres",
+    "eurostat:nuts_2021_id":"06081",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06081",
+    "eurostat:population":1176,
+    "eurostat:population_year":2020,
     "geom:area":0.009002,
-    "geom:area_square_m":87313456.577356,
+    "geom:area_square_m":87313456.577359,
     "geom:bbox":"-6.47461442,38.27160437,-6.31251024,38.37898449",
     "geom:latitude":38.330822,
     "geom:longitude":-6.406482,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06081",
+        "eurostat:nuts_2021_id":"06081",
         "gn:id":6355946,
         "gp:id":12694400,
         "qs_pg:id":384551
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"780445dc591c220cedb8840e3b9f3528",
+    "wof:geomhash":"f7d360a16f0cb1277cdc9ee3090b984c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330539,
-    "wof:lastmodified":1582361532,
+    "wof:lastmodified":1684352225,
     "wof:name":"Medina De Las Torres",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":1176,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

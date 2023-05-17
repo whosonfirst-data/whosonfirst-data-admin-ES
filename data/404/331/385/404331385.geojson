@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8227,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08227",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Mart\u00ed Sarroca",
+    "eurostat:nuts_2021_id":"08227",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08227",
+    "eurostat:population":3261,
+    "eurostat:population_year":2020,
     "geom:area":0.003795,
-    "geom:area_square_m":35214455.277353,
+    "geom:area_square_m":35214408.7959,
     "geom:bbox":"1.563257,41.333306,1.662057,41.41205",
     "geom:latitude":41.374465,
     "geom:longitude":1.619892,
@@ -133,6 +145,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -141,7 +155,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08227",
         "esp-icgc:la_lc":"08227",
+        "eurostat:nuts_2021_id":"08227",
         "gn:id":6356249,
         "gp:id":12693603,
         "qs_pg:id":22895
@@ -151,7 +167,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"9704db85c5c76b0f75fad9e82af0d49f",
+    "wof:geomhash":"5c0bec54362d93ff8a641d848c09a3fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -162,10 +178,12 @@
         }
     ],
     "wof:id":404331385,
-    "wof:lastmodified":1669903004,
+    "wof:lastmodified":1684352250,
     "wof:name":"Sant Mart\u00ed Sarroca",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":3261,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

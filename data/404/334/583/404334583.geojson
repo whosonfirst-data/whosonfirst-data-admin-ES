@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17013,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Begur",
+    "eurostat:nuts_2021_id":"17013",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17013",
+    "eurostat:population":3891,
+    "eurostat:population_year":2020,
     "geom:area":0.002265,
-    "geom:area_square_m":20830372.746181,
+    "geom:area_square_m":20830457.907378,
     "geom:bbox":"3.155238,41.922342,3.234737,41.981483",
     "geom:latitude":41.947893,
     "geom:longitude":3.199921,
@@ -52,6 +64,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -60,7 +74,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17013",
         "esp-icgc:la_lc":"017013",
+        "eurostat:nuts_2021_id":"17013",
         "gn:id":6534012,
         "gp:id":12693699,
         "qs_pg:id":201811
@@ -70,7 +86,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b63a0da2793a9443f150b875c321a2d0",
+    "wof:geomhash":"f1ad0c9ad208c9702c43adba806b0a3c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +97,12 @@
         }
     ],
     "wof:id":404334583,
-    "wof:lastmodified":1669903055,
+    "wof:lastmodified":1684352299,
     "wof:name":"Begur",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":3891,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":17065,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17065",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Esponell\u00e0",
+    "eurostat:nuts_2021_id":"17065",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17065",
+    "eurostat:population":463,
+    "eurostat:population_year":2020,
     "geom:area":0.001719,
     "geom:area_square_m":15755772.447968,
     "geom:bbox":"2.76549000004,42.1495614279,2.84906092654,42.189840981",
@@ -115,6 +127,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -123,7 +137,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17065",
         "esp-icgc:la_lc":"017065",
+        "eurostat:nuts_2021_id":"17065",
         "gn:id":6534055,
         "gp:id":12693745,
         "qs_pg:id":248725
@@ -133,7 +149,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"7d66e539341c48465a0b5e9734530537",
+    "wof:geomhash":"b3db88a7b3dd9508fe186ba1e0033ce5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404334691,
-    "wof:lastmodified":1582361750,
+    "wof:lastmodified":1684352306,
     "wof:name":"Esponell\u00e0",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":463,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18913",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zagra",
+    "eurostat:nuts_2021_id":"18913",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18913",
+    "eurostat:population":885,
+    "eurostat:population_year":2020,
     "geom:area":0.001152,
-    "geom:area_square_m":11334512.918305,
+    "geom:area_square_m":11334512.918304,
     "geom:bbox":"-4.19843407,37.22921768,-4.15449346,37.27458092",
     "geom:latitude":37.252708,
     "geom:longitude":-4.174169,
@@ -39,6 +51,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -47,6 +61,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18913",
+        "eurostat:nuts_2021_id":"18913",
         "gn:id":6357805,
         "gp:id":12689012,
         "qs_pg:id":45068
@@ -55,7 +71,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"705b46fd9548a8cea361ab3af6d28bb7",
+    "wof:geomhash":"e6df61e423963e3912b78aea8fe51cdf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +82,12 @@
         }
     ],
     "wof:id":404335429,
-    "wof:lastmodified":1582361707,
+    "wof:lastmodified":1684352325,
     "wof:name":"Zagra",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":885,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

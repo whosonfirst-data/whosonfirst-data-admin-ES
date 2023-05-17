@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06045",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Entr\u00edn Bajo",
+    "eurostat:nuts_2021_id":"06045",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06045",
+    "eurostat:population":552,
+    "eurostat:population_year":2020,
     "geom:area":0.001009,
     "geom:area_square_m":9731569.152207,
     "geom:bbox":"-6.71610709,38.68759461,-6.69066073,38.74352614",
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06045",
+        "eurostat:nuts_2021_id":"06045",
         "gn:id":6355910,
         "gp:id":12694364,
         "qs_pg:id":1023744
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"75e566060f9e09f7036fbe6f40ea8d57",
+    "wof:geomhash":"7c81dad786080ec088e17d2861de5e17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404330457,
-    "wof:lastmodified":1582361539,
+    "wof:lastmodified":1684352224,
     "wof:name":"Entr\u00edn Bajo",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":552,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

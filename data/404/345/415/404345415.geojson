@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Almenara de Adaja",
+    "eurostat:nuts_2021_id":"47008",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47008",
+    "eurostat:population":22,
+    "eurostat:population_year":2020,
     "geom:area":0.001842,
     "geom:area_square_m":17139465.304962,
     "geom:bbox":"-4.71552117,41.1855506,-4.64645107,41.22920311",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_47008",
+        "eurostat:nuts_2021_id":"47008",
         "gn:id":6362136,
         "gp:id":12692910,
         "qs_pg:id":1322869
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"36492190774017401f1abf9a84e9e15b",
+    "wof:geomhash":"150e6e7fc8c4597af7f433257ce0b49b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404345415,
-    "wof:lastmodified":1582361828,
+    "wof:lastmodified":1684352486,
     "wof:name":"Almenara De Adaja",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":22,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

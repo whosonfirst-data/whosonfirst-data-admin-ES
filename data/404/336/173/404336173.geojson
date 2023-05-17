@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_20040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hernani",
+    "eurostat:nuts_2021_id":"20040",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES212",
+    "eurostat:nuts_2021_level_lau":"20040",
+    "eurostat:population":20438,
+    "eurostat:population_year":2020,
     "geom:area":0.004411,
-    "geom:area_square_m":39737771.718677,
+    "geom:area_square_m":39737771.718678,
     "geom:bbox":"-2.00566519,43.17255815,-1.89218736,43.28353492",
     "geom:latitude":43.236036,
     "geom:longitude":-1.942978,
@@ -87,6 +99,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -95,6 +109,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_20040",
+        "eurostat:nuts_2021_id":"20040",
         "gn:id":6358129,
         "qs_pg:id":903848
     },
@@ -102,7 +118,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4e048ae900df2014e5f337d9c0198bc6",
+    "wof:geomhash":"83bc6a96844aa7558e2983aa8c759e6b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,10 +129,12 @@
         }
     ],
     "wof:id":404336173,
-    "wof:lastmodified":1582361466,
+    "wof:lastmodified":1684352334,
     "wof:name":"Hernani",
     "wof:parent_id":85682741,
     "wof:placetype":"localadmin",
+    "wof:population":20438,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

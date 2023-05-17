@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24214",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villamejil",
+    "eurostat:nuts_2021_id":"24214",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24214",
+    "eurostat:population":672,
+    "eurostat:population_year":2020,
     "geom:area":0.00866,
-    "geom:area_square_m":78851419.168094,
+    "geom:area_square_m":78851419.168097,
     "geom:bbox":"-6.07774878,42.51438507,-5.96207202,42.63346623",
     "geom:latitude":42.57783,
     "geom:longitude":-6.019557,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_24214",
+        "eurostat:nuts_2021_id":"24214",
         "gn:id":6358743,
         "gp:id":12691942,
         "qs_pg:id":1165905
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"449691ad156099c9c3f0f709f1085694",
+    "wof:geomhash":"b7f62492d8220647ae72734268dc974f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404337579,
-    "wof:lastmodified":1582361577,
+    "wof:lastmodified":1684352354,
     "wof:name":"Villamejil",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":672,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50257",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torralba de Ribota",
+    "eurostat:nuts_2021_id":"50257",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50257",
+    "eurostat:population":169,
+    "eurostat:population_year":2020,
     "geom:area":0.003503,
     "geom:area_square_m":32482960.001212,
     "geom:bbox":"-1.72103062,41.38647158,-1.62919898,41.46170935",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50257",
+        "eurostat:nuts_2021_id":"50257",
         "gn:id":6362943,
         "gp:id":12690083,
         "qs_pg:id":954157
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1607d0b4b043e51351fb7091948e1fb1",
+    "wof:geomhash":"90cb2962fe3f536766610360c1de2076",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404347273,
-    "wof:lastmodified":1582361670,
+    "wof:lastmodified":1684352509,
     "wof:name":"Torralba De Ribota",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":169,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

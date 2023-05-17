@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Almonacid de la Sierra",
+    "eurostat:nuts_2021_id":"50024",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50024",
+    "eurostat:population":753,
+    "eurostat:population_year":2020,
     "geom:area":0.005829,
     "geom:area_square_m":54050442.528247,
     "geom:bbox":"-1.37557022,41.36879253,-1.25962281,41.46164904",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50024",
+        "eurostat:nuts_2021_id":"50024",
         "gn:id":6362718,
         "gp:id":12689857,
         "qs_pg:id":1329577
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c1b437f8567bb9fc9f0525801a920b3e",
+    "wof:geomhash":"acac66e0df195f74eb749a6624d467b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404346767,
-    "wof:lastmodified":1582361614,
+    "wof:lastmodified":1684352503,
     "wof:name":"Almonacid De La Sierra",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":753,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

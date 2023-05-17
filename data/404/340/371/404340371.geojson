@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_33041",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Navia",
+    "eurostat:nuts_2021_id":"33041",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES12",
+    "eurostat:nuts_2021_level_3":"ES120",
+    "eurostat:nuts_2021_level_lau":"33041",
+    "eurostat:population":8322,
+    "eurostat:population_year":2020,
     "geom:area":0.007036,
-    "geom:area_square_m":63082325.215402,
+    "geom:area_square_m":63082325.2154,
     "geom:bbox":"-6.7362905,43.48474718,-6.61389014,43.57522897",
     "geom:latitude":43.529323,
     "geom:longitude":-6.676131,
@@ -87,6 +99,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -95,6 +109,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_33041",
+        "eurostat:nuts_2021_id":"33041",
         "gn:id":6359944,
         "gp:id":12688483,
         "qs_pg:id":242335
@@ -103,7 +119,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a4829b07b86e290c410029e50af8e030",
+    "wof:geomhash":"2f613a12d91ad0e6ad9fb3a9493041e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,10 +130,12 @@
         }
     ],
     "wof:id":404340371,
-    "wof:lastmodified":1582361655,
+    "wof:lastmodified":1684352407,
     "wof:name":"Navia",
     "wof:parent_id":85682805,
     "wof:placetype":"localadmin",
+    "wof:population":8322,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05218",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Miguel de Serrezuela",
+    "eurostat:nuts_2021_id":"05218",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05218",
+    "eurostat:population":115,
+    "eurostat:population_year":2020,
     "geom:area":0.003703,
-    "geom:area_square_m":34713026.181967,
+    "geom:area_square_m":34713026.181968,
     "geom:bbox":"-5.30797361,40.65320491,-5.2312848,40.73633488",
     "geom:latitude":40.692653,
     "geom:longitude":-5.272392,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05218",
+        "eurostat:nuts_2021_id":"05218",
         "gn:id":6355816,
         "gp:id":12691324,
         "qs_pg:id":46191
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"604893b5473f631749300a560a2fe6a8",
+    "wof:geomhash":"0383f42a18a0a132ed30728be7711074",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330243,
-    "wof:lastmodified":1582361524,
+    "wof:lastmodified":1684352221,
     "wof:name":"San Miguel De Serrezuela",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":115,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

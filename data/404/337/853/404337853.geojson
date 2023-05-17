@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25121,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25121",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Les",
+    "eurostat:nuts_2021_id":"25121",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25121",
+    "eurostat:population":971,
+    "eurostat:population_year":2020,
     "geom:area":0.002542,
-    "geom:area_square_m":23054755.049303,
+    "geom:area_square_m":23054874.068341,
     "geom:bbox":"0.664923,42.784875,0.768194,42.828223",
     "geom:latitude":42.809376,
     "geom:longitude":0.713212,
@@ -46,6 +58,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -54,7 +68,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25121",
         "esp-icgc:la_lc":"025121",
+        "eurostat:nuts_2021_id":"25121",
         "gn:id":6362989,
         "gp:id":12694013,
         "qs_pg:id":51797
@@ -64,7 +80,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"1d10ec4d38d5c9e30c799b142ca607d9",
+    "wof:geomhash":"7a931a778fb829110e3caf1b8e75740f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,10 +91,12 @@
         }
     ],
     "wof:id":404337853,
-    "wof:lastmodified":1669903028,
+    "wof:lastmodified":1684352362,
     "wof:name":"Les",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":971,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

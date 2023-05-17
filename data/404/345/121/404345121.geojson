@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46143",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Xeraco",
+    "eurostat:nuts_2021_id":"46143",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46143",
+    "eurostat:population":5720,
+    "eurostat:population_year":2020,
     "geom:area":0.002111,
     "geom:area_square_m":20270653.838408,
     "geom:bbox":"-0.27531688,39.01410624,-0.18105815,39.05860349",
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46143",
+        "eurostat:nuts_2021_id":"46143",
         "gp:id":12695800,
         "qs_pg:id":1098286
     },
@@ -105,7 +121,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2c31523d088706403fcc47fafce6166a",
+    "wof:geomhash":"ab2f2f2f5bbeccdd57b1637519db7d45",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +132,12 @@
         }
     ],
     "wof:id":404345121,
-    "wof:lastmodified":1582361832,
+    "wof:lastmodified":1684352482,
     "wof:name":"Xeraco",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":5720,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Andosilla",
+    "eurostat:nuts_2021_id":"31015",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31015",
+    "eurostat:population":2784,
+    "eurostat:population_year":2020,
     "geom:area":0.005643,
-    "geom:area_square_m":51543297.891689,
+    "geom:area_square_m":51543297.891688,
     "geom:bbox":"-2.03206282,42.34759444,-1.8809121,42.4332313",
     "geom:latitude":42.383853,
     "geom:longitude":-1.946356,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31015",
+        "eurostat:nuts_2021_id":"31015",
         "gn:id":6359564,
         "gp:id":12688184,
         "qs_pg:id":1197580
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d182dade66f57a7e417bf8b88112ec95",
+    "wof:geomhash":"76f0c72c81d7bf0e9b5c4ac54b3efdde",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404339467,
-    "wof:lastmodified":1582361594,
+    "wof:lastmodified":1684352395,
     "wof:name":"Andosilla",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":2784,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50178",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Moros",
+    "eurostat:nuts_2021_id":"50178",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50178",
+    "eurostat:population":319,
+    "eurostat:population_year":2020,
     "geom:area":0.00576,
     "geom:area_square_m":53425341.845475,
     "geom:bbox":"-1.91314856,41.36686563,-1.75219207,41.42870511",
@@ -87,6 +99,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -94,9 +108,12 @@
         404227363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_50178",
+        "eurostat:nuts_2021_id":"50178"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"3e42f3e4d7466a8bd606bd8c4936ef0d",
+    "wof:geomhash":"c75471206765b296c5c3d10703bc6ad6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +124,12 @@
         }
     ],
     "wof:id":404347099,
-    "wof:lastmodified":1566590454,
+    "wof:lastmodified":1684352507,
     "wof:name":"Moros",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":319,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

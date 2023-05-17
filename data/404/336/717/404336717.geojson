@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22149",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Loarre",
+    "eurostat:nuts_2021_id":"22149",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22149",
+    "eurostat:population":323,
+    "eurostat:population_year":2020,
     "geom:area":0.008127,
-    "geom:area_square_m":74304742.55857,
+    "geom:area_square_m":74304742.558569,
     "geom:bbox":"-0.7143103,42.26594618,-0.57811435,42.36259355",
     "geom:latitude":42.318627,
     "geom:longitude":-0.646448,
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22149",
+        "eurostat:nuts_2021_id":"22149",
         "gn:id":6358368,
         "gp:id":12689512,
         "qs_pg:id":1095308
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"23e1b854b4de5cfffa1c1410f608640f",
+    "wof:geomhash":"efd42066989d6763f619b202134c2de6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404336717,
-    "wof:lastmodified":1582361477,
+    "wof:lastmodified":1684352342,
     "wof:name":"Loarre",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":323,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

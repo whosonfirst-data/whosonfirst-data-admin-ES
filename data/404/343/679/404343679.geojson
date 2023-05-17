@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":43128,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43128",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Riudecols",
+    "eurostat:nuts_2021_id":"43128",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43128",
+    "eurostat:population":1189,
+    "eurostat:population_year":2020,
     "geom:area":0.002093,
     "geom:area_square_m":19484408.303753,
     "geom:bbox":"0.922018068657,41.1466931875,0.998140815437,41.193896373",
@@ -112,6 +124,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -120,7 +134,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43128",
         "esp-icgc:la_lc":"043128",
+        "eurostat:nuts_2021_id":"43128",
         "gn:id":6361370,
         "gp:id":12694265,
         "qs_pg:id":1149593
@@ -130,7 +146,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"efad3d9d847a25063986f8cf42b2fff1",
+    "wof:geomhash":"f78b964a8bb53ed06676c53840fc3858",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404343679,
-    "wof:lastmodified":1582361887,
+    "wof:lastmodified":1684352460,
     "wof:name":"Riudecols",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":1189,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

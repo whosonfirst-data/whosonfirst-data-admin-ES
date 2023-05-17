@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_20042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ibarra",
+    "eurostat:nuts_2021_id":"20042",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES212",
+    "eurostat:nuts_2021_level_lau":"20042",
+    "eurostat:population":4248,
+    "eurostat:population_year":2020,
     "geom:area":0.000557,
-    "geom:area_square_m":5023277.71394,
+    "geom:area_square_m":5023277.713938,
     "geom:bbox":"-2.07080451,43.12188744,-2.01067312,43.16204963",
     "geom:latitude":43.14242,
     "geom:longitude":-2.049083,
@@ -69,6 +81,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -77,6 +91,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_20042",
+        "eurostat:nuts_2021_id":"20042",
         "gn:id":6358131,
         "qs_pg:id":1244945
     },
@@ -84,7 +100,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a3440941c52e8e5f2ff506344679f2e8",
+    "wof:geomhash":"d938211e18a5eb99683dd229b9654be2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,10 +111,12 @@
         }
     ],
     "wof:id":404336177,
-    "wof:lastmodified":1582361477,
+    "wof:lastmodified":1684352334,
     "wof:name":"Ibarra",
     "wof:parent_id":85682741,
     "wof:placetype":"localadmin",
+    "wof:population":4248,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

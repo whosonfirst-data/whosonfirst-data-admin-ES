@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_02025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caudete",
+    "eurostat:nuts_2021_id":"02025",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES421",
+    "eurostat:nuts_2021_level_lau":"02025",
+    "eurostat:population":10005,
+    "eurostat:population_year":2020,
     "geom:area":0.014665,
-    "geom:area_square_m":141504328.961214,
+    "geom:area_square_m":141504328.961215,
     "geom:bbox":"-1.11967177,38.65506775,-0.91579325,38.77479157",
     "geom:latitude":38.708175,
     "geom:longitude":-1.010123,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_02025",
+        "eurostat:nuts_2021_id":"02025",
         "gn:id":6355317,
         "gp:id":12690236,
         "qs_pg:id":1146911
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b0f052111f665e152142736dae013219",
+    "wof:geomhash":"a03801e7e5c0355ae83aa8b3b671094c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404329107,
-    "wof:lastmodified":1582361796,
+    "wof:lastmodified":1684352204,
     "wof:name":"Caudete",
     "wof:parent_id":85682621,
     "wof:placetype":"localadmin",
+    "wof:population":10005,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

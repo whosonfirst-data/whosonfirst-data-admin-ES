@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":43051,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cunit",
+    "eurostat:nuts_2021_id":"43051",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43051",
+    "eurostat:population":13533,
+    "eurostat:population_year":2020,
     "geom:area":0.001049,
     "geom:area_square_m":9759631.184354,
     "geom:bbox":"1.60960446709,41.1900276736,1.65327111464,41.2354246638",
@@ -127,6 +139,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -135,7 +149,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43051",
         "esp-icgc:la_lc":"043051",
+        "eurostat:nuts_2021_id":"43051",
         "gn:id":6361294,
         "gp:id":12694189,
         "qs_pg:id":1095351
@@ -145,7 +161,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"9ec32a9bae11cd6cc386d354b5fd493c",
+    "wof:geomhash":"10b725dbab04c6759b61fa2e6607149d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404343507,
-    "wof:lastmodified":1582361881,
+    "wof:lastmodified":1684352455,
     "wof:name":"Cunit",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":13533,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

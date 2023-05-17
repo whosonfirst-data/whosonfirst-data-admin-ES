@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calzadilla",
+    "eurostat:nuts_2021_id":"10040",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10040",
+    "eurostat:population":463,
+    "eurostat:population_year":2020,
     "geom:area":0.008058,
-    "geom:area_square_m":76260019.301553,
+    "geom:area_square_m":76260019.301548,
     "geom:bbox":"-6.61401573,40.00686132,-6.48381454,40.10795072",
     "geom:latitude":40.058283,
     "geom:longitude":-6.551847,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10040",
+        "eurostat:nuts_2021_id":"10040",
         "gn:id":6356737,
         "gp:id":12694522,
         "qs_pg:id":955142
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"430f80850147344f02a4bfb2780d4e38",
+    "wof:geomhash":"36bb045bb7a5e61ad94966c2efe4a20c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404332599,
-    "wof:lastmodified":1582361685,
+    "wof:lastmodified":1684352266,
     "wof:name":"Calzadilla",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":463,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

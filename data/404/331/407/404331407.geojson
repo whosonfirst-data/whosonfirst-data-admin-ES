@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8237,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08237",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Quirze de Besora",
+    "eurostat:nuts_2021_id":"08237",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08237",
+    "eurostat:population":2154,
+    "eurostat:population_year":2020,
     "geom:area":0.000888,
-    "geom:area_square_m":8145778.724096,
+    "geom:area_square_m":8145913.902522,
     "geom:bbox":"2.20237,42.088588,2.2738,42.127675",
     "geom:latitude":42.102798,
     "geom:longitude":2.229789,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08237",
         "esp-icgc:la_lc":"08237",
+        "eurostat:nuts_2021_id":"08237",
         "gn:id":6356258,
         "gp:id":12693613,
         "qs_pg:id":955118
@@ -67,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f72db3be2b774c582e9362a452176b46",
+    "wof:geomhash":"1356e223b841ed0664cfbb9c5bc6375d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404331407,
-    "wof:lastmodified":1669903002,
+    "wof:lastmodified":1684352250,
     "wof:name":"Sant Quirze de Besora",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":2154,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

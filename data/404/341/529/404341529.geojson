@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37205",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Morille",
+    "eurostat:nuts_2021_id":"37205",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37205",
+    "eurostat:population":226,
+    "eurostat:population_year":2020,
     "geom:area":0.002448,
-    "geom:area_square_m":22910216.449637,
+    "geom:area_square_m":22910216.449636,
     "geom:bbox":"-5.73474762,40.77210427,-5.66575045,40.8317551",
     "geom:latitude":40.806564,
     "geom:longitude":-5.700757,
@@ -93,6 +105,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -100,9 +114,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_37205",
+        "eurostat:nuts_2021_id":"37205"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"19a8eafa02ac1798e4e126f1e1c59b9c",
+    "wof:geomhash":"904da8433ec200b03c80c985dce156c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,10 +130,12 @@
         }
     ],
     "wof:id":404341529,
-    "wof:lastmodified":1566590323,
+    "wof:lastmodified":1684352425,
     "wof:name":"Morille",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":226,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18127",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Maracena",
+    "eurostat:nuts_2021_id":"18127",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18127",
+    "eurostat:population":22306,
+    "eurostat:population_year":2020,
     "geom:area":0.000496,
-    "geom:area_square_m":4887645.526261,
+    "geom:area_square_m":4887645.52626,
     "geom:bbox":"-3.661459,37.198345,-3.623998,37.222554",
     "geom:latitude":37.210475,
     "geom:longitude":-3.640069,
@@ -132,14 +144,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
-        404227361,
-        85682731
+        85682731,
+        404227361
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18127",
+        "eurostat:nuts_2021_id":"18127",
         "gn:id":6357740,
         "gp:id":12688952,
         "qs_pg:id":45023
@@ -151,7 +167,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3f7b3c57bd89fd15ce25c7898522c882",
+    "wof:geomhash":"5b142413ee22f3668205d0a648c832f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -162,10 +178,12 @@
         }
     ],
     "wof:id":404335281,
-    "wof:lastmodified":1607987594,
+    "wof:lastmodified":1684352323,
     "wof:name":"Maracena",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":22306,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

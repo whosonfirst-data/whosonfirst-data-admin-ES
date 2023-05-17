@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casar de Palomero",
+    "eurostat:nuts_2021_id":"10050",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10050",
+    "eurostat:population":1084,
+    "eurostat:population_year":2020,
     "geom:area":0.003909,
-    "geom:area_square_m":36873967.913779,
+    "geom:area_square_m":36873967.913778,
     "geom:bbox":"-6.33653399,40.2480419,-6.17555532,40.31812875",
     "geom:latitude":40.287142,
     "geom:longitude":-6.272359,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10050",
+        "eurostat:nuts_2021_id":"10050",
         "gn:id":6356747,
         "gp:id":12694532,
         "qs_pg:id":1196808
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"362463eef82ab122e64a98671e36738a",
+    "wof:geomhash":"1609c81905fba716bb9069c7acc58aba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332621,
-    "wof:lastmodified":1582361679,
+    "wof:lastmodified":1684352267,
     "wof:name":"Casar De Palomero",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":1084,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

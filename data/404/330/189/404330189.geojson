@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05192",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Puerto Castilla",
+    "eurostat:nuts_2021_id":"05192",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05192",
+    "eurostat:population":107,
+    "eurostat:population_year":2020,
     "geom:area":0.004582,
     "geom:area_square_m":43231261.480826,
     "geom:bbox":"-5.69266193,40.21547822,-5.58959038,40.31196293",
@@ -42,6 +54,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -50,6 +64,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05192",
+        "eurostat:nuts_2021_id":"05192",
         "gn:id":6355792,
         "gp:id":12691301,
         "qs_pg:id":1102603
@@ -58,7 +74,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c84ea9c93573ba7f247652660f6c49d1",
+    "wof:geomhash":"95811e226b6f66551a211f6ee6930ef3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +85,12 @@
         }
     ],
     "wof:id":404330189,
-    "wof:lastmodified":1582361529,
+    "wof:lastmodified":1684352220,
     "wof:name":"Puerto Castilla",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":107,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

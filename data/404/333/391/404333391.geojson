@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12136",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vilavella, la",
+    "eurostat:nuts_2021_id":"12136",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12136",
+    "eurostat:population":3125,
+    "eurostat:population_year":2020,
     "geom:area":0.000647,
     "geom:area_square_m":6140019.393542,
     "geom:bbox":"-0.21522148,39.85046892,-0.1697121,39.87757116",
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12136",
+        "eurostat:nuts_2021_id":"12136",
         "gn:id":6357086,
         "gp:id":12695535,
         "qs_pg:id":191382
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b5b5725dc7887f591c5a51b7d15a1b6b",
+    "wof:geomhash":"75c3aa3544f6c8d4b6ae914f3e7581f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404333391,
-    "wof:lastmodified":1582361759,
+    "wof:lastmodified":1684352278,
     "wof:name":"La Vilavella",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":3125,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06068",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hinojosa del Valle",
+    "eurostat:nuts_2021_id":"06068",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06068",
+    "eurostat:population":475,
+    "eurostat:population_year":2020,
     "geom:area":0.004752,
-    "geom:area_square_m":46001117.534069,
+    "geom:area_square_m":46001117.534071,
     "geom:bbox":"-6.23492313,38.43281891,-6.12835407,38.52365049",
     "geom:latitude":38.472895,
     "geom:longitude":-6.18928,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06068",
+        "eurostat:nuts_2021_id":"06068",
         "gn:id":6355933,
         "gp:id":12694387,
         "qs_pg:id":47887
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9ea09aad6db2b8b160245c1c56c11f2e",
+    "wof:geomhash":"452ef5dd590387701066b16d33f4eca7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330509,
-    "wof:lastmodified":1582361534,
+    "wof:lastmodified":1684352225,
     "wof:name":"Hinojosa Del Valle",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":475,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

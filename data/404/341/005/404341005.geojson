@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_36020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Agolada",
+    "eurostat:nuts_2021_id":"36020",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES114",
+    "eurostat:nuts_2021_level_lau":"36020",
+    "eurostat:population":2304,
+    "eurostat:population_year":2020,
     "geom:area":0.016267,
-    "geom:area_square_m":147615847.211958,
+    "geom:area_square_m":147615847.211953,
     "geom:bbox":"-8.13337831,42.70000834,-7.93537044,42.85472987",
     "geom:latitude":42.788137,
     "geom:longitude":-8.033229,
@@ -117,6 +129,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -124,9 +138,12 @@
         404227385
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_36020",
+        "eurostat:nuts_2021_id":"36020"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"aad54130323cae92190ea4aba7f84df2",
+    "wof:geomhash":"540084371c8e95642fd7cef783709304",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +154,12 @@
         }
     ],
     "wof:id":404341005,
-    "wof:lastmodified":1566590355,
+    "wof:lastmodified":1684352418,
     "wof:name":"Agolada",
     "wof:parent_id":85682825,
     "wof:placetype":"localadmin",
+    "wof:population":2304,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

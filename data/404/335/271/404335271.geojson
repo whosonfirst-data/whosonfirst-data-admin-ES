@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18121",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lobras",
+    "eurostat:nuts_2021_id":"18121",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18121",
+    "eurostat:population":133,
+    "eurostat:population_year":2020,
     "geom:area":0.001623,
-    "geom:area_square_m":16049406.601472,
+    "geom:area_square_m":16049406.601474,
     "geom:bbox":"-3.23402572,36.87598542,-3.18788395,36.9524461",
     "geom:latitude":36.911002,
     "geom:longitude":-3.210311,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18121",
+        "eurostat:nuts_2021_id":"18121",
         "gn:id":6357735,
         "gp:id":12688947,
         "qs_pg:id":45020
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a7316314297617d2b551ac644117494d",
+    "wof:geomhash":"9658574964eabb5fa41d30544767505f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404335271,
-    "wof:lastmodified":1582361707,
+    "wof:lastmodified":1684352323,
     "wof:name":"Lobras",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":133,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

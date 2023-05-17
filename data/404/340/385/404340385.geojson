@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_33047",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pe\u00f1amellera Baja",
+    "eurostat:nuts_2021_id":"33047",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES12",
+    "eurostat:nuts_2021_level_3":"ES120",
+    "eurostat:nuts_2021_level_lau":"33047",
+    "eurostat:population":1227,
+    "eurostat:population_year":2020,
     "geom:area":0.009303,
-    "geom:area_square_m":83703568.45365,
+    "geom:area_square_m":83703568.453649,
     "geom:bbox":"-4.70604089,43.26394906,-4.5185712,43.35114793",
     "geom:latitude":43.309761,
     "geom:longitude":-4.596655,
@@ -105,6 +117,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -112,9 +126,12 @@
         404227365
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_33047",
+        "eurostat:nuts_2021_id":"33047"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"7eef2e9db0ce80c7eef0d08a15b6ecca",
+    "wof:geomhash":"474a058912e6fecf3b78321b282f3808",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +142,12 @@
         }
     ],
     "wof:id":404340385,
-    "wof:lastmodified":1566590400,
+    "wof:lastmodified":1684352407,
     "wof:name":"Pe\u00f1amellera Baja",
     "wof:parent_id":85682805,
     "wof:placetype":"localadmin",
+    "wof:population":1227,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

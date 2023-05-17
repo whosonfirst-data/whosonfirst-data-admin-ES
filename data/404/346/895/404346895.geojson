@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50082",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cimballa",
+    "eurostat:nuts_2021_id":"50082",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50082",
+    "eurostat:population":94,
+    "eurostat:population_year":2020,
     "geom:area":0.003424,
-    "geom:area_square_m":31905380.991864,
+    "geom:area_square_m":31905380.991866,
     "geom:bbox":"-1.81647012,41.05507435,-1.73387988,41.12522117",
     "geom:latitude":41.093538,
     "geom:longitude":-1.770508,
@@ -102,6 +114,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -109,9 +123,12 @@
         404227363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_50082",
+        "eurostat:nuts_2021_id":"50082"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"2ba2ff44eb6fdeda23d4c86e3290c143",
+    "wof:geomhash":"c14457571a7d04800743c9f5db48ff54",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +139,12 @@
         }
     ],
     "wof:id":404346895,
-    "wof:lastmodified":1566590237,
+    "wof:lastmodified":1684352504,
     "wof:name":"Cimballa",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":94,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

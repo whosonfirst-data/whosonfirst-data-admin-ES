@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45084",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lillo",
+    "eurostat:nuts_2021_id":"45084",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45084",
+    "eurostat:population":2561,
+    "eurostat:population_year":2020,
     "geom:area":0.0159,
-    "geom:area_square_m":151258658.697591,
+    "geom:area_square_m":151258658.697589,
     "geom:bbox":"-3.41156535,39.63057373,-3.25789766,39.78562016",
     "geom:latitude":39.703467,
     "geom:longitude":-3.333676,
@@ -81,6 +93,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -89,6 +103,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45084",
+        "eurostat:nuts_2021_id":"45084",
         "gn:id":6361744,
         "gp:id":12691005,
         "qs_pg:id":1311036
@@ -97,7 +113,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6aca1d46d3d9ab88c199b178c894e961",
+    "wof:geomhash":"77a2cfe44c7f9bea1a37c1d3232b7a55",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,10 +124,12 @@
         }
     ],
     "wof:id":404344527,
-    "wof:lastmodified":1582361850,
+    "wof:lastmodified":1684352475,
     "wof:name":"Lillo",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":2561,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

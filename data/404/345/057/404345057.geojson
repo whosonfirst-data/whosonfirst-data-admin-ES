@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46115",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dos Aguas",
+    "eurostat:nuts_2021_id":"46115",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46115",
+    "eurostat:population":327,
+    "eurostat:population_year":2020,
     "geom:area":0.012686,
-    "geom:area_square_m":121406084.914149,
+    "geom:area_square_m":121406084.914152,
     "geom:bbox":"-0.89971212,39.22320406,-0.67546297,39.32517056",
     "geom:latitude":39.287147,
     "geom:longitude":-0.774329,
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46115",
+        "eurostat:nuts_2021_id":"46115",
         "gn:id":6361980,
         "gp:id":12695652,
         "qs_pg:id":1149691
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"86f9679d488f99d5da010c23cf5acbcf",
+    "wof:geomhash":"8735b67698dd4abd66853893da09cce7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404345057,
-    "wof:lastmodified":1582361838,
+    "wof:lastmodified":1684352481,
     "wof:name":"Dos Aguas",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":327,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

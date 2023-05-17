@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12132",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vilanova d'Alcolea",
+    "eurostat:nuts_2021_id":"12132",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12132",
+    "eurostat:population":569,
+    "eurostat:population_year":2020,
     "geom:area":0.00724,
-    "geom:area_square_m":68338383.345695,
+    "geom:area_square_m":68338383.345697,
     "geom:bbox":"0.02402419,40.19880357,0.16006787,40.28620909",
     "geom:latitude":40.239384,
     "geom:longitude":0.090347,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12132",
+        "eurostat:nuts_2021_id":"12132",
         "gn:id":6357082,
         "gp:id":12695528,
         "qs_pg:id":48515
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fee3173151207191eddb53af761fa77b",
+    "wof:geomhash":"492d854c2e5481b38c1fb2e077bf2e39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404333383,
-    "wof:lastmodified":1582361769,
+    "wof:lastmodified":1684352278,
     "wof:name":"Vilanova D'Alcolea",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":569,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

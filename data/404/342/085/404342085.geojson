@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_39020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castro-Urdiales",
+    "eurostat:nuts_2021_id":"39020",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES13",
+    "eurostat:nuts_2021_level_3":"ES130",
+    "eurostat:nuts_2021_level_lau":"39020",
+    "eurostat:population":32270,
+    "eurostat:population_year":2020,
     "geom:area":0.010663,
-    "geom:area_square_m":95876219.191496,
+    "geom:area_square_m":95876219.191492,
     "geom:bbox":"-3.3361555,43.28353771,-3.14965203,43.41916078",
     "geom:latitude":43.351547,
     "geom:longitude":-3.22995,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_39020",
+        "eurostat:nuts_2021_id":"39020",
         "gn:id":6360667,
         "gp:id":12688541,
         "qs_pg:id":44773
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1e485788e4b1cb312175d129611c79fe",
+    "wof:geomhash":"5b295cb1a114d7ee39656c8a6bb67886",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404342085,
-    "wof:lastmodified":1582361809,
+    "wof:lastmodified":1684352435,
     "wof:name":"Castro-Urdiales",
     "wof:parent_id":85682833,
     "wof:placetype":"localadmin",
+    "wof:population":32270,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

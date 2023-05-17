@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_21007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aracena",
+    "eurostat:nuts_2021_id":"21007",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES615",
+    "eurostat:nuts_2021_level_lau":"21007",
+    "eurostat:population":8255,
+    "eurostat:population_year":2020,
     "geom:area":0.018887,
-    "geom:area_square_m":184355237.304072,
+    "geom:area_square_m":184355237.304091,
     "geom:bbox":"-6.67482121,37.75007771,-6.44836487,37.98748026",
     "geom:latitude":37.871835,
     "geom:longitude":-6.557142,
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_21007",
+        "eurostat:nuts_2021_id":"21007",
         "gn:id":6358183,
         "gp:id":12689021,
         "qs_pg:id":1314251
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"568eef6bc4ceb2ca66a896cedc386b8f",
+    "wof:geomhash":"2f13d8234a2de50f1759fa9bfe3f7215",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404336297,
-    "wof:lastmodified":1582361475,
+    "wof:lastmodified":1684352336,
     "wof:name":"Aracena",
     "wof:parent_id":85682749,
     "wof:placetype":"localadmin",
+    "wof:population":8255,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

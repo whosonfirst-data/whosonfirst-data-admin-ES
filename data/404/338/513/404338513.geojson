@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_26173",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villarroya",
+    "eurostat:nuts_2021_id":"26173",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES23",
+    "eurostat:nuts_2021_level_3":"ES230",
+    "eurostat:nuts_2021_level_lau":"26173",
+    "eurostat:population":5,
+    "eurostat:population_year":2020,
     "geom:area":0.001281,
     "geom:area_square_m":11750276.727022,
     "geom:bbox":"-2.08695492,42.11084579,-2.02755199,42.16684621",
@@ -54,6 +66,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -62,6 +76,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_26173",
+        "eurostat:nuts_2021_id":"26173",
         "gn:id":6359155,
         "gp:id":12687936,
         "qs_pg:id":499031
@@ -70,7 +86,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ee97d747a25a2444419eef46b9ad862f",
+    "wof:geomhash":"e06f6235cbe42079a9d5c593838c46d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +97,12 @@
         }
     ],
     "wof:id":404338513,
-    "wof:lastmodified":1582361455,
+    "wof:lastmodified":1684352376,
     "wof:name":"Villarroya",
     "wof:parent_id":85682773,
     "wof:placetype":"localadmin",
+    "wof:population":5,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

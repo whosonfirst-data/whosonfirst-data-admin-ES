@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42090",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fuentepinilla",
+    "eurostat:nuts_2021_id":"42090",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42090",
+    "eurostat:population":82,
+    "eurostat:population_year":2020,
     "geom:area":0.005669,
-    "geom:area_square_m":52450625.596197,
+    "geom:area_square_m":52450625.596198,
     "geom:bbox":"-2.80317279,41.52386953,-2.66602065,41.59771296",
     "geom:latitude":41.556323,
     "geom:longitude":-2.744223,
@@ -168,6 +180,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -176,6 +190,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42090",
+        "eurostat:nuts_2021_id":"42090",
         "gn:id":6361141,
         "gp:id":12692800,
         "qs_pg:id":918616
@@ -184,7 +200,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2b10ea689ba59a79f4595041b4790fd6",
+    "wof:geomhash":"153dfacd57b283ecb0fb3073b7e26d23",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -195,10 +211,12 @@
         }
     ],
     "wof:id":404343161,
-    "wof:lastmodified":1582361864,
+    "wof:lastmodified":1684352448,
     "wof:name":"Fuentepinilla",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":82,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_32018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carballeda de Avia",
+    "eurostat:nuts_2021_id":"32018",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES113",
+    "eurostat:nuts_2021_level_lau":"32018",
+    "eurostat:population":1271,
+    "eurostat:population_year":2020,
     "geom:area":0.005065,
-    "geom:area_square_m":46298960.812488,
+    "geom:area_square_m":46298960.812489,
     "geom:bbox":"-8.26195484,42.29323413,-8.13323197,42.3776936",
     "geom:latitude":42.329025,
     "geom:longitude":-8.18848,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_32018",
+        "eurostat:nuts_2021_id":"32018",
         "gn:id":6359836,
         "gp:id":12694879,
         "qs_pg:id":48192
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fc667a8e254e08963e26918def97bde6",
+    "wof:geomhash":"9f507ea896a3b304c80200bce45982b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404340113,
-    "wof:lastmodified":1582361668,
+    "wof:lastmodified":1684352402,
     "wof:name":"Carballeda De Avia",
     "wof:parent_id":85682801,
     "wof:placetype":"localadmin",
+    "wof:population":1271,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

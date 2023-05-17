@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Beteta",
+    "eurostat:nuts_2021_id":"16035",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16035",
+    "eurostat:population":236,
+    "eurostat:population_year":2020,
     "geom:area":0.012266,
     "geom:area_square_m":115226344.178583,
     "geom:bbox":"-2.15313728,40.49292695,-1.8814586,40.65138624",
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16035",
+        "eurostat:nuts_2021_id":"16035",
         "gn:id":6357394,
         "gp:id":12690430,
         "qs_pg:id":1102535
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8b390a4fa1088023333ffda55c93fd5c",
+    "wof:geomhash":"66f6547ecbf1adfafb3f0fe0a22e6997",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404334093,
-    "wof:lastmodified":1582361751,
+    "wof:lastmodified":1684352293,
     "wof:name":"Beteta",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":236,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

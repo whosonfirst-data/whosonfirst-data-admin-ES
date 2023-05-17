@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50130",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jarque",
+    "eurostat:nuts_2021_id":"50130",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50130",
+    "eurostat:population":417,
+    "eurostat:population_year":2020,
     "geom:area":0.004641,
     "geom:area_square_m":42939744.456042,
     "geom:bbox":"-1.73713543,41.52393318,-1.64808142,41.60408411",
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50130",
+        "eurostat:nuts_2021_id":"50130",
         "gn:id":6362819,
         "gp:id":12689959,
         "qs_pg:id":45538
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"87e8d5a09b00176113edfeed8eb2f3ae",
+    "wof:geomhash":"dcec537f1a37f950c6f7910db30604f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404346995,
-    "wof:lastmodified":1582361614,
+    "wof:lastmodified":1684352506,
     "wof:name":"Jarque",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":417,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

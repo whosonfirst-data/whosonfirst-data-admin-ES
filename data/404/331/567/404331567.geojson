@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8308,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08308",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Viver i Serrateix",
+    "eurostat:nuts_2021_id":"08308",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08308",
+    "eurostat:population":172,
+    "eurostat:population_year":2020,
     "geom:area":0.007297,
-    "geom:area_square_m":67110494.770217,
+    "geom:area_square_m":67110504.542487,
     "geom:bbox":"1.717252,41.897206,1.863871,42.002004",
     "geom:latitude":41.947809,
     "geom:longitude":1.793379,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08308",
         "esp-icgc:la_lc":"08308",
+        "eurostat:nuts_2021_id":"08308",
         "gp:id":12693685,
         "qs_pg:id":481147
     },
@@ -66,7 +82,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e73ef049f9b8981221c883914951be1b",
+    "wof:geomhash":"c57799e42aa07687c4194e23061f155b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,10 +93,12 @@
         }
     ],
     "wof:id":404331567,
-    "wof:lastmodified":1669902997,
+    "wof:lastmodified":1684352256,
     "wof:name":"Viver i Serrateix",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":172,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bijuesca",
+    "eurostat:nuts_2021_id":"50050",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50050",
+    "eurostat:population":94,
+    "eurostat:population_year":2020,
     "geom:area":0.006157,
-    "geom:area_square_m":56999660.732711,
+    "geom:area_square_m":56999660.732709,
     "geom:bbox":"-1.98111151,41.48145406,-1.8518804,41.58848942",
     "geom:latitude":41.526555,
     "geom:longitude":-1.923186,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50050",
+        "eurostat:nuts_2021_id":"50050",
         "gn:id":6362743,
         "gp:id":12689883,
         "qs_pg:id":1146836
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"337c189d05d9d3024220f79920ff7435",
+    "wof:geomhash":"622fb1516b43201920e69a3c9c6f9c4b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404346823,
-    "wof:lastmodified":1582361616,
+    "wof:lastmodified":1684352503,
     "wof:name":"Bijuesca",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":94,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

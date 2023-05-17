@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42173",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Soria",
+    "eurostat:nuts_2021_id":"42173",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42173",
+    "eurostat:population":39821,
+    "eurostat:population_year":2020,
     "geom:area":0.029452,
-    "geom:area_square_m":271389651.356549,
+    "geom:area_square_m":271389651.356554,
     "geom:bbox":"-3.01677111,41.67633096,-1.91334081,41.93285246",
     "geom:latitude":41.822234,
     "geom:longitude":-2.679945,
@@ -243,6 +255,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -251,6 +265,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42173",
+        "eurostat:nuts_2021_id":"42173",
         "gn:id":6361204,
         "gp:id":12692863,
         "qs_pg:id":290472
@@ -259,7 +275,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"700415c80622e3053936c3d0c40edb93",
+    "wof:geomhash":"360a5496276c87f815c448b979328b18",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -270,10 +286,12 @@
         }
     ],
     "wof:id":404343305,
-    "wof:lastmodified":1582361882,
+    "wof:lastmodified":1684352450,
     "wof:name":"Soria",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":39821,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

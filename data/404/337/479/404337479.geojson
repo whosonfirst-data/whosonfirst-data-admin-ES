@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24165",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sobrado",
+    "eurostat:nuts_2021_id":"24165",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24165",
+    "eurostat:population":301,
+    "eurostat:population_year":2020,
     "geom:area":0.004486,
-    "geom:area_square_m":40880039.665554,
+    "geom:area_square_m":40880039.665553,
     "geom:bbox":"-6.93495864,42.48672383,-6.80049354,42.55595674",
     "geom:latitude":42.520149,
     "geom:longitude":-6.871898,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_24165",
+        "eurostat:nuts_2021_id":"24165",
         "gn:id":6358700,
         "gp:id":12691898,
         "qs_pg:id":1148014
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9af83cff9c924afb750231a59ab60667",
+    "wof:geomhash":"75e44cc9dd75efc52bcc4ba1649bd51e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404337479,
-    "wof:lastmodified":1582361554,
+    "wof:lastmodified":1684352353,
     "wof:name":"Sobrado",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":301,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

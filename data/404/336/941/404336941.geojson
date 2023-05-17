@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_23014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Beg\u00edjar",
+    "eurostat:nuts_2021_id":"23014",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES616",
+    "eurostat:nuts_2021_level_lau":"23014",
+    "eurostat:population":3009,
+    "eurostat:population_year":2020,
     "geom:area":0.004388,
-    "geom:area_square_m":42769677.849002,
+    "geom:area_square_m":42769677.849001,
     "geom:bbox":"-3.63972503,37.94722106,-3.50821234,38.00319706",
     "geom:latitude":37.973359,
     "geom:longitude":-3.570319,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_23014",
+        "eurostat:nuts_2021_id":"23014",
         "gn:id":6358468,
         "gp:id":12689107,
         "qs_pg:id":354799
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2d52056d8d60510138cfbedbc29eb4b0",
+    "wof:geomhash":"a817c4a7ca49d7c75272c76dca2bb677",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404336941,
-    "wof:lastmodified":1582361466,
+    "wof:lastmodified":1684352346,
     "wof:name":"Beg\u00edjar",
     "wof:parent_id":85682757,
     "wof:placetype":"localadmin",
+    "wof:population":3009,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

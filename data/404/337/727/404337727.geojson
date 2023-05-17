@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25051,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bellver de Cerdanya",
+    "eurostat:nuts_2021_id":"25051",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25051",
+    "eurostat:population":2005,
+    "eurostat:population_year":2020,
     "geom:area":0.011017,
-    "geom:area_square_m":100660215.924198,
+    "geom:area_square_m":100660369.003087,
     "geom:bbox":"1.708615,42.283049,1.824265,42.476893",
     "geom:latitude":42.363638,
     "geom:longitude":1.767784,
@@ -62,6 +74,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -70,7 +84,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25051",
         "esp-icgc:la_lc":"025051",
+        "eurostat:nuts_2021_id":"25051",
         "gn:id":6358808,
         "gp:id":12693952,
         "qs_pg:id":235246
@@ -80,7 +96,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d82c793841e7ffccbe36495d445cffb4",
+    "wof:geomhash":"be1729d17c60908103f796345abfd70e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,10 +107,12 @@
         }
     ],
     "wof:id":404337727,
-    "wof:lastmodified":1669903030,
+    "wof:lastmodified":1684352358,
     "wof:name":"Bellver de Cerdanya",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":2005,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

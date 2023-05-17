@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_20056",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mutriku",
+    "eurostat:nuts_2021_id":"20056",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES212",
+    "eurostat:nuts_2021_level_lau":"20056",
+    "eurostat:population":5309,
+    "eurostat:population_year":2020,
     "geom:area":0.003092,
-    "geom:area_square_m":27827158.300473,
+    "geom:area_square_m":27827158.300472,
     "geom:bbox":"-2.44007791,43.26753387,-2.35523113,43.32425647",
     "geom:latitude":43.293496,
     "geom:longitude":-2.399047,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_20056",
+        "eurostat:nuts_2021_id":"20056",
         "gn:id":6358145,
         "gp:id":12695129,
         "qs_pg:id":103376
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9e19c006f4ddad965341107e9d394dd6",
+    "wof:geomhash":"205ed9b624571d9d1f74df039afaed82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404336209,
-    "wof:lastmodified":1582361473,
+    "wof:lastmodified":1684352334,
     "wof:name":"Mutriku",
     "wof:parent_id":85682741,
     "wof:placetype":"localadmin",
+    "wof:population":5309,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

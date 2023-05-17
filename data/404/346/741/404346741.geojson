@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alborge",
+    "eurostat:nuts_2021_id":"50012",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50012",
+    "eurostat:population":107,
+    "eurostat:population_year":2020,
     "geom:area":0.000521,
     "geom:area_square_m":4837471.692598,
     "geom:bbox":"-0.36710197,41.32321133,-0.34365203,41.35623352",
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50012",
+        "eurostat:nuts_2021_id":"50012",
         "gn:id":6362706,
         "gp:id":12689845,
         "qs_pg:id":1146801
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4f5563ae899d7c11dd48ad590c19e3b0",
+    "wof:geomhash":"edc15fcca9393f5bd779103f7bfe679a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404346741,
-    "wof:lastmodified":1582361614,
+    "wof:lastmodified":1684352502,
     "wof:name":"Alborge",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":107,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

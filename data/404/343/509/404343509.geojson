@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43052,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43052",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Xerta",
+    "eurostat:nuts_2021_id":"43052",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43052",
+    "eurostat:population":1154,
+    "eurostat:population_year":2020,
     "geom:area":0.003464,
-    "geom:area_square_m":32371022.452102,
+    "geom:area_square_m":32371089.530714,
     "geom:bbox":"0.41522,40.860601,0.509712,40.94546",
     "geom:latitude":40.902567,
     "geom:longitude":0.463518,
@@ -115,6 +127,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -123,7 +137,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43052",
         "esp-icgc:la_lc":"043052",
+        "eurostat:nuts_2021_id":"43052",
         "gp:id":12694319,
         "qs_pg:id":1084513
     },
@@ -132,7 +148,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2684ac0dbffbba7406594852cf45ee29",
+    "wof:geomhash":"f56c0c05aebb2d5dbe3ddf0d9f7fd0cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404343509,
-    "wof:lastmodified":1669903066,
+    "wof:lastmodified":1684352455,
     "wof:name":"Xerta",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":1154,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

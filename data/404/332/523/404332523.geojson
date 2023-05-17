@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ahigal",
+    "eurostat:nuts_2021_id":"10006",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10006",
+    "eurostat:population":1381,
+    "eurostat:population_year":2020,
     "geom:area":0.005505,
-    "geom:area_square_m":52017994.865832,
+    "geom:area_square_m":52017994.865827,
     "geom:bbox":"-6.26837141,40.10629535,-6.15676579,40.22354714",
     "geom:latitude":40.169429,
     "geom:longitude":-6.200925,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10006",
+        "eurostat:nuts_2021_id":"10006",
         "gn:id":6356703,
         "gp:id":12694488,
         "qs_pg:id":47947
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2f3626ed215c61f9861cf61555b2c10e",
+    "wof:geomhash":"c63e63f899e3328c484685d99d2331e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404332523,
-    "wof:lastmodified":1582361692,
+    "wof:lastmodified":1684352265,
     "wof:name":"Ahigal",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":1381,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

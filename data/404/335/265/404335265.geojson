@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18119",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lecr\u00edn",
+    "eurostat:nuts_2021_id":"18119",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18119",
+    "eurostat:population":2156,
+    "eurostat:population_year":2020,
     "geom:area":0.004096,
-    "geom:area_square_m":40475873.542596,
+    "geom:area_square_m":40475873.542598,
     "geom:bbox":"-3.59433238,36.90386427,-3.47193021,36.98184937",
     "geom:latitude":36.950992,
     "geom:longitude":-3.527296,
@@ -102,6 +114,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -109,9 +123,12 @@
         404227361
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_18119",
+        "eurostat:nuts_2021_id":"18119"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"0780d55005af41e532c50e5f8887beb8",
+    "wof:geomhash":"b8667b6b6dd6d27588684ec466436171",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +139,12 @@
         }
     ],
     "wof:id":404335265,
-    "wof:lastmodified":1566590605,
+    "wof:lastmodified":1684352323,
     "wof:name":"Lecr\u00edn",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":2156,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

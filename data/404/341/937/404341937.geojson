@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_38009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bre\u00f1a Baja",
+    "eurostat:nuts_2021_id":"38009",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES7",
+    "eurostat:nuts_2021_level_2":"ES70",
+    "eurostat:nuts_2021_level_3":"ES707",
+    "eurostat:nuts_2021_level_lau":"38009",
+    "eurostat:population":5821,
+    "eurostat:population_year":2020,
     "geom:area":0.001305,
-    "geom:area_square_m":14163601.396399,
+    "geom:area_square_m":14163601.396412,
     "geom:bbox":"-17.84099977,28.59641979,-17.75343092,28.66437592",
     "geom:latitude":28.631242,
     "geom:longitude":-17.790591,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_38009",
+        "eurostat:nuts_2021_id":"38009",
         "gn:id":6534184,
         "gp:id":12690167,
         "qs_pg:id":1197752
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6781468bb0ca7b6a66346caf099d2c38",
+    "wof:geomhash":"ace604899b45ec7d2ce599a66d5d88bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404341937,
-    "wof:lastmodified":1582361624,
+    "wof:lastmodified":1684352431,
     "wof:name":"Bre\u00f1a Baja",
     "wof:parent_id":85682831,
     "wof:placetype":"localadmin",
+    "wof:population":5821,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

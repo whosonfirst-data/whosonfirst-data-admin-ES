@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12137",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villores",
+    "eurostat:nuts_2021_id":"12137",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12137",
+    "eurostat:population":42,
+    "eurostat:population_year":2020,
     "geom:area":0.000565,
     "geom:area_square_m":5299088.085015,
     "geom:bbox":"-0.23503488,40.66981009,-0.18703909,40.68922788",
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12137",
+        "eurostat:nuts_2021_id":"12137",
         "gn:id":6357087,
         "gp:id":12695536,
         "qs_pg:id":48513
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"08ed3ff0bf200806e286ee2cc3f5c507",
+    "wof:geomhash":"3d33540a943b0edac57a04a25e4bfef1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404333393,
-    "wof:lastmodified":1582361775,
+    "wof:lastmodified":1684352278,
     "wof:name":"Villores",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":42,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44169",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ojos Negros",
+    "eurostat:nuts_2021_id":"44169",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44169",
+    "eurostat:population":341,
+    "eurostat:population_year":2020,
     "geom:area":0.009692,
     "geom:area_square_m":90810697.7451,
     "geom:bbox":"-1.56201713,40.68935937,-1.39066581,40.77375721",
@@ -57,6 +69,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -65,6 +79,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44169",
+        "eurostat:nuts_2021_id":"44169",
         "gn:id":6361574,
         "gp:id":12689746,
         "qs_pg:id":499278
@@ -73,7 +89,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d24b06901bf9542cbdf58986667d75f7",
+    "wof:geomhash":"d6e05e17498c0a8f2c686bcad7de0ef8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +100,12 @@
         }
     ],
     "wof:id":404344141,
-    "wof:lastmodified":1582361859,
+    "wof:lastmodified":1684352470,
     "wof:name":"Ojos Negros",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":341,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

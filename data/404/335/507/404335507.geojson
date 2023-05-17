@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arroyo de las Fraguas",
+    "eurostat:nuts_2021_id":"19042",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19042",
+    "eurostat:population":21,
+    "eurostat:population_year":2020,
     "geom:area":0.002287,
-    "geom:area_square_m":21320646.077349,
+    "geom:area_square_m":21320646.077351,
     "geom:bbox":"-3.16886348,41.00939962,-3.10206715,41.13331101",
     "geom:latitude":41.075513,
     "geom:longitude":-3.133779,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227375
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_19042",
+        "eurostat:nuts_2021_id":"19042"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"435d8174229165ee168dfcfaee62f699",
+    "wof:geomhash":"a16258c7405eccb1764057e10d69634c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404335507,
-    "wof:lastmodified":1566590586,
+    "wof:lastmodified":1684352326,
     "wof:name":"Arroyo De Las Fraguas",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":21,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

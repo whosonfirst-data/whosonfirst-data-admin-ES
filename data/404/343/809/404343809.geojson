@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ababuj",
+    "eurostat:nuts_2021_id":"44001",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44001",
+    "eurostat:population":77,
+    "eurostat:population_year":2020,
     "geom:area":0.005773,
-    "geom:area_square_m":54239887.014394,
+    "geom:area_square_m":54239887.014393,
     "geom:bbox":"-0.911548,40.50721739,-0.76990272,40.57834466",
     "geom:latitude":40.547798,
     "geom:longitude":-0.833229,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44001",
+        "eurostat:nuts_2021_id":"44001",
         "gn:id":6361427,
         "gp:id":12689598,
         "qs_pg:id":1146720
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2999390d36ea2c6584e2a95383281bf0",
+    "wof:geomhash":"de6c69be1ba895ddbe7e8713b3a19012",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404343809,
-    "wof:lastmodified":1582361890,
+    "wof:lastmodified":1684352466,
     "wof:name":"Ababuj",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":77,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

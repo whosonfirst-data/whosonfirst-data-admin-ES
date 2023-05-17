@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arroyo de San Serv\u00e1n",
+    "eurostat:nuts_2021_id":"06012",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06012",
+    "eurostat:population":4080,
+    "eurostat:population_year":2020,
     "geom:area":0.0052,
-    "geom:area_square_m":50087214.792942,
+    "geom:area_square_m":50087214.792943,
     "geom:bbox":"-6.50425399,38.80628508,-6.38962383,38.87903676",
     "geom:latitude":38.839236,
     "geom:longitude":-6.452854,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06012",
+        "eurostat:nuts_2021_id":"06012",
         "gn:id":6355877,
         "gp:id":12694331,
         "qs_pg:id":1248990
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dd7195dba72b7399a8dd0cb69c4071b3",
+    "wof:geomhash":"25e1c852f4d59896e65b66c4ce7d25e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330383,
-    "wof:lastmodified":1582361528,
+    "wof:lastmodified":1684352223,
     "wof:name":"Arroyo De San Serv\u00e1n",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":4080,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

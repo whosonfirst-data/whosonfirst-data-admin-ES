@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Balconch\u00e1n",
+    "eurostat:nuts_2021_id":"50042",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50042",
+    "eurostat:population":20,
+    "eurostat:population_year":2020,
     "geom:area":0.002079,
-    "geom:area_square_m":19376769.267514,
+    "geom:area_square_m":19376769.267513,
     "geom:bbox":"-1.52437555,41.05379043,-1.44550471,41.10460762",
     "geom:latitude":41.076549,
     "geom:longitude":-1.482188,
@@ -99,6 +111,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -106,9 +120,12 @@
         404227363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_50042",
+        "eurostat:nuts_2021_id":"50042"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"475fd08a65503cd9f094914b03433fe4",
+    "wof:geomhash":"9705b0af8aa5b9a83c7f55d061f5306b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +136,12 @@
         }
     ],
     "wof:id":404346809,
-    "wof:lastmodified":1566590272,
+    "wof:lastmodified":1684352503,
     "wof:name":"Balconch\u00e1n",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":20,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

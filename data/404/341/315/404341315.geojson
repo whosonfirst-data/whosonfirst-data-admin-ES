@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37108",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Coca de Alba",
+    "eurostat:nuts_2021_id":"37108",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37108",
+    "eurostat:population":104,
+    "eurostat:population_year":2020,
     "geom:area":0.001118,
     "geom:area_square_m":10455164.944399,
     "geom:bbox":"-5.38746262,40.86108783,-5.32587087,40.89379711",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37108",
+        "eurostat:nuts_2021_id":"37108",
         "gn:id":6360353,
         "gp:id":12692246,
         "qs_pg:id":259237
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3277ff8eec59bf4559f1be1e3de48cbb",
+    "wof:geomhash":"4d3eba1e4cc850bdc9c15acb09005a4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404341315,
-    "wof:lastmodified":1582361631,
+    "wof:lastmodified":1684352423,
     "wof:name":"Coca De Alba",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":104,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

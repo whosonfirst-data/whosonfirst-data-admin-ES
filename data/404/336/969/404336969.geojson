@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_23027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cazalilla",
+    "eurostat:nuts_2021_id":"23027",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES616",
+    "eurostat:nuts_2021_level_lau":"23027",
+    "eurostat:population":803,
+    "eurostat:population_year":2020,
     "geom:area":0.00478,
-    "geom:area_square_m":46600032.259337,
+    "geom:area_square_m":46600032.259336,
     "geom:bbox":"-3.92916882,37.90581969,-3.84351662,38.01451137",
     "geom:latitude":37.959877,
     "geom:longitude":-3.884966,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_23027",
+        "eurostat:nuts_2021_id":"23027",
         "gn:id":6358478,
         "gp:id":12689119,
         "qs_pg:id":1015681
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6b7eeffb1a2fda1c9fe4656881d53d5f",
+    "wof:geomhash":"414f710aa8ba6f4168b035b0ec75a9b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404336969,
-    "wof:lastmodified":1582361470,
+    "wof:lastmodified":1684352346,
     "wof:name":"Cazalilla",
     "wof:parent_id":85682757,
     "wof:placetype":"localadmin",
+    "wof:population":803,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

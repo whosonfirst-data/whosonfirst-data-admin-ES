@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_33049",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pilo\u00f1a",
+    "eurostat:nuts_2021_id":"33049",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES12",
+    "eurostat:nuts_2021_level_3":"ES120",
+    "eurostat:nuts_2021_level_lau":"33049",
+    "eurostat:population":6875,
+    "eurostat:population_year":2020,
     "geom:area":0.031508,
-    "geom:area_square_m":283397541.925032,
+    "geom:area_square_m":283397541.925026,
     "geom:bbox":"-5.48339109,43.24046364,-5.2205133,43.42819103",
     "geom:latitude":43.330238,
     "geom:longitude":-5.337594,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_33049",
+        "eurostat:nuts_2021_id":"33049",
         "gn:id":6359952,
         "gp:id":12688491,
         "qs_pg:id":907211
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"621bdb041bdfd1c8ce1d1b1472d34577",
+    "wof:geomhash":"d0458a63938bab943a1c812cb34067eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404340389,
-    "wof:lastmodified":1582361666,
+    "wof:lastmodified":1684352407,
     "wof:name":"Pilo\u00f1a",
     "wof:parent_id":85682805,
     "wof:placetype":"localadmin",
+    "wof:population":6875,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

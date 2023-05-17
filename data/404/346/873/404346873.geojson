@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50072",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carenas",
+    "eurostat:nuts_2021_id":"50072",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50072",
+    "eurostat:population":189,
+    "eurostat:population_year":2020,
     "geom:area":0.003355,
     "geom:area_square_m":31182780.530406,
     "geom:bbox":"-1.83964519,41.23380502,-1.7583705,41.29177315",
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50072",
+        "eurostat:nuts_2021_id":"50072",
         "gn:id":6362765,
         "gp:id":12689905,
         "qs_pg:id":51638
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a14a5d5806d999fef84ed02a3c427475",
+    "wof:geomhash":"b48dffdb93c656c18c9af1fd8e9a70ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404346873,
-    "wof:lastmodified":1582361609,
+    "wof:lastmodified":1684352504,
     "wof:name":"Carenas",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":189,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

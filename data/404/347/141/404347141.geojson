@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50197",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Or\u00e9s",
+    "eurostat:nuts_2021_id":"50197",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50197",
+    "eurostat:population":109,
+    "eurostat:population_year":2020,
     "geom:area":0.005949,
     "geom:area_square_m":54440927.432238,
     "geom:bbox":"-1.05932793,42.18412486,-0.96102297,42.32158722",
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50197",
+        "eurostat:nuts_2021_id":"50197",
         "gn:id":6362884,
         "gp:id":12690024,
         "qs_pg:id":45572
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c863ac3ae7be24606ce2fb56f06bf945",
+    "wof:geomhash":"062011e6d40f3e2d2b0d4249f42b5a15",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404347141,
-    "wof:lastmodified":1582361675,
+    "wof:lastmodified":1684352508,
     "wof:name":"Or\u00e9s",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":109,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

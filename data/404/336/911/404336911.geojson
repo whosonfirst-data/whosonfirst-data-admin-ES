@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22908",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hoz y Costean",
+    "eurostat:nuts_2021_id":"22908",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22908",
+    "eurostat:population":221,
+    "eurostat:population_year":2020,
     "geom:area":0.006258,
-    "geom:area_square_m":57391844.601082,
+    "geom:area_square_m":57391844.601084,
     "geom:bbox":"0.09747907,42.06107454,0.21156789,42.19455423",
     "geom:latitude":42.124501,
     "geom:longitude":0.146686,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_22908",
+        "eurostat:nuts_2021_id":"22908"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"8be8e7c4b6efb4cadc6a0a718930f625",
+    "wof:geomhash":"05ac3f61fdc46cf02b935e99bf210c08",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404336911,
-    "wof:lastmodified":1566589728,
+    "wof:lastmodified":1684352345,
     "wof:name":"Hoz Y Costean",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":221,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

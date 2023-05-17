@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46125",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fortaleny",
+    "eurostat:nuts_2021_id":"46125",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46125",
+    "eurostat:population":1020,
+    "eurostat:population_year":2020,
     "geom:area":0.000476,
-    "geom:area_square_m":4564771.962551,
+    "geom:area_square_m":4564771.96255,
     "geom:bbox":"-0.33140857,39.15502157,-0.3005685,39.19557287",
     "geom:latitude":39.177345,
     "geom:longitude":-0.316605,
@@ -87,6 +99,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -95,6 +109,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46125",
+        "eurostat:nuts_2021_id":"46125",
         "gn:id":6361990,
         "gp:id":12695665,
         "qs_pg:id":204880
@@ -103,7 +119,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3d58356d0baa167d228dd01f2206efc5",
+    "wof:geomhash":"c4b2e3b27fd07b8a49bc88c2ce880d1f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,10 +130,12 @@
         }
     ],
     "wof:id":404345081,
-    "wof:lastmodified":1582361836,
+    "wof:lastmodified":1684352482,
     "wof:name":"Fortaleny",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":1020,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

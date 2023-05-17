@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"ES",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"C\u00f3rdoba",
+    "eurostat:name_local":"C\u00f3rdoba",
+    "eurostat:nuts_2021_id":"ES613",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES613",
+    "eurostat:population":777677,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"1",
     "geom:area":1.412444,
-    "geom:area_square_m":13763819568.838923,
+    "geom:area_square_m":13763819812.198898,
     "geom:bbox":"-5.585924,37.184331,-4.000821,38.729087",
     "geom:latitude":37.992696,
     "geom:longitude":-4.80925,
@@ -136,6 +150,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "unlc:subdivision":"ES-CO",
     "wd:wordcount":268,
     "wof:belongsto":[
@@ -146,6 +162,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":23994,
+        "eurostat:nuts_2021_id":"ES613",
         "fips:code":"SP80",
         "gn:id":2519239,
         "gp:id":12602098,
@@ -153,7 +170,7 @@
         "unlc:id":"ES-CO"
     },
     "wof:country":"ES",
-    "wof:geomhash":"503731eda4d7e498e6013924fdbf0adc",
+    "wof:geomhash":"c17093605f680616b8a8467e948aff2e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +190,12 @@
         "eus",
         "ast"
     ],
-    "wof:lastmodified":1583882741,
+    "wof:lastmodified":1684351541,
     "wof:name":"Cordoba",
     "wof:parent_id":404227361,
     "wof:placetype":"region",
+    "wof:population":777677,
+    "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:shortcode":"AN",
     "wof:subdivision":"ES-CO",

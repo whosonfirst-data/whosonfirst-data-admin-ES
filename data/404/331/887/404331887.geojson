@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09140",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fuentenebro",
+    "eurostat:nuts_2021_id":"09140",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09140",
+    "eurostat:population":131,
+    "eurostat:population_year":2020,
     "geom:area":0.004205,
-    "geom:area_square_m":38935542.889627,
+    "geom:area_square_m":38935542.889626,
     "geom:bbox":"-3.77163678,41.45078417,-3.72147565,41.56271658",
     "geom:latitude":41.508564,
     "geom:longitude":-3.74787,
@@ -105,6 +117,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -112,9 +126,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_09140",
+        "eurostat:nuts_2021_id":"09140"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"855f9ff08c36a1b073477b527b779acd",
+    "wof:geomhash":"12333bc954e3f945f33940b9e0c85011",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +142,12 @@
         }
     ],
     "wof:id":404331887,
-    "wof:lastmodified":1566589758,
+    "wof:lastmodified":1684352259,
     "wof:name":"Fuentenebro",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":131,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

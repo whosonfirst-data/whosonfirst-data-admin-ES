@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09068",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cantabrana",
+    "eurostat:nuts_2021_id":"09068",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09068",
+    "eurostat:population":25,
+    "eurostat:population_year":2020,
     "geom:area":0.000346,
     "geom:area_square_m":3139716.932935,
     "geom:bbox":"-3.47931781,42.72669221,-3.45232482,42.74964786",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09068",
+        "eurostat:nuts_2021_id":"09068",
         "gn:id":6356386,
         "gp:id":12691432,
         "qs_pg:id":46240
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8cdf825b180d5b3e4556cf82ec7e1eaa",
+    "wof:geomhash":"8f95436b1f5eab3c4a3426040d927e25",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404331743,
-    "wof:lastmodified":1582361512,
+    "wof:lastmodified":1684352258,
     "wof:name":"Cantabrana",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":25,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

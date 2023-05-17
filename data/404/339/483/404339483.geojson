@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Araitz",
+    "eurostat:nuts_2021_id":"31020",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31020",
+    "eurostat:population":523,
+    "eurostat:population_year":2020,
     "geom:area":0.004287,
     "geom:area_square_m":38744442.347914,
     "geom:bbox":"-2.04149072,42.98975343,-1.96079866,43.07951116",
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31020",
+        "eurostat:nuts_2021_id":"31020",
         "gn:id":6359569,
         "gp:id":12688189,
         "qs_pg:id":539259
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c3793b179d80ce01379ef761ccef162a",
+    "wof:geomhash":"0af0a339b72080ce084b10dae5c6591b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404339483,
-    "wof:lastmodified":1582361584,
+    "wof:lastmodified":1684352395,
     "wof:name":"Araitz",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":523,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

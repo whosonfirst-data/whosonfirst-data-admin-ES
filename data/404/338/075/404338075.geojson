@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25238,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25238",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vallbona de les Monges",
+    "eurostat:nuts_2021_id":"25238",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25238",
+    "eurostat:population":243,
+    "eurostat:population_year":2020,
     "geom:area":0.003703,
-    "geom:area_square_m":34293654.669913,
+    "geom:area_square_m":34293631.4319,
     "geom:bbox":"1.056026,41.467172,1.179784,41.53711",
     "geom:latitude":41.501937,
     "geom:longitude":1.123284,
@@ -48,6 +60,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -56,13 +70,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"025238"
+        "eg:gisco_id":"ES_25238",
+        "esp-icgc:la_lc":"025238",
+        "eurostat:nuts_2021_id":"25238"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"abfa49652900cce6399ab1e01f187328",
+    "wof:geomhash":"11a1993fd4626ac581306b18e8b9cf35",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,10 +89,12 @@
         }
     ],
     "wof:id":404338075,
-    "wof:lastmodified":1669902994,
+    "wof:lastmodified":1684352370,
     "wof:name":"Vallbona de les Monges",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":243,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

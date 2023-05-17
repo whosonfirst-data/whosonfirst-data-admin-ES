@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17169,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17169",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Juli\u00e0 de Ramis",
+    "eurostat:nuts_2021_id":"17169",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17169",
+    "eurostat:population":3576,
+    "eurostat:population_year":2020,
     "geom:area":0.002035,
-    "geom:area_square_m":18686198.135975,
+    "geom:area_square_m":18686193.326748,
     "geom:bbox":"2.799365,42.02032,2.893328,42.078454",
     "geom:latitude":42.04551,
     "geom:longitude":2.849034,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17169",
         "esp-icgc:la_lc":"017169",
+        "eurostat:nuts_2021_id":"17169",
         "gp:id":12693846,
         "qs_pg:id":1308300
     },
@@ -66,7 +82,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"b945ea4633cbc3d83aa44b897ff39adc",
+    "wof:geomhash":"a32226412b720961277ca1b03e284406",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,10 +93,12 @@
         }
     ],
     "wof:id":404334907,
-    "wof:lastmodified":1669903040,
+    "wof:lastmodified":1684352315,
     "wof:name":"Sant Juli\u00e0 de Ramis",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":3576,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

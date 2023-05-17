@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alconera",
+    "eurostat:nuts_2021_id":"06008",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06008",
+    "eurostat:population":743,
+    "eurostat:population_year":2020,
     "geom:area":0.003374,
-    "geom:area_square_m":32691545.375996,
+    "geom:area_square_m":32691545.375993,
     "geom:bbox":"-6.51564583,38.35608487,-6.436918,38.44889888",
     "geom:latitude":38.399616,
     "geom:longitude":-6.476125,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06008",
+        "eurostat:nuts_2021_id":"06008",
         "gn:id":6355873,
         "gp:id":12694327,
         "qs_pg:id":47835
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"38d82c2d5565cdc9ea5161681889c60a",
+    "wof:geomhash":"e47aa23d5dd40bb496bebba9486404ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404330375,
-    "wof:lastmodified":1582361545,
+    "wof:lastmodified":1684352223,
     "wof:name":"Alconera",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":743,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

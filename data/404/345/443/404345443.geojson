@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bobadilla del Campo",
+    "eurostat:nuts_2021_id":"47020",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47020",
+    "eurostat:population":292,
+    "eurostat:population_year":2020,
     "geom:area":0.003509,
-    "geom:area_square_m":32658883.811921,
+    "geom:area_square_m":32658883.811919,
     "geom:bbox":"-5.06509914,41.14230702,-4.99032089,41.22694067",
     "geom:latitude":41.182834,
     "geom:longitude":-5.029756,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_47020",
+        "eurostat:nuts_2021_id":"47020"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"debe8ac560a30ca2e3af8924e9c63d17",
+    "wof:geomhash":"5df2953ca02083796b46c479aa804d47",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404345443,
-    "wof:lastmodified":1566591034,
+    "wof:lastmodified":1684352486,
     "wof:name":"Bobadilla Del Campo",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":292,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

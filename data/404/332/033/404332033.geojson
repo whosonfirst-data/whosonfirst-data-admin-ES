@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09225",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Moncalvillo",
+    "eurostat:nuts_2021_id":"09225",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09225",
+    "eurostat:population":81,
+    "eurostat:population_year":2020,
     "geom:area":0.002905,
     "geom:area_square_m":26718173.328028,
     "geom:bbox":"-3.23350589,41.91853081,-3.16350826,41.98476325",
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09225",
+        "eurostat:nuts_2021_id":"09225",
         "gn:id":6356502,
         "gp:id":12691551,
         "qs_pg:id":497083
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dd9f1096f0f5f787ed778ba8a4c772f2",
+    "wof:geomhash":"20e6532087719f73ab86a4452de64542",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404332033,
-    "wof:lastmodified":1582361690,
+    "wof:lastmodified":1684352260,
     "wof:name":"Moncalvillo",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":81,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

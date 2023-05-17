@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_11032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sanl\u00facar de Barrameda",
+    "eurostat:nuts_2021_id":"11032",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES612",
+    "eurostat:nuts_2021_level_lau":"11032",
+    "eurostat:population":69205,
+    "eurostat:population_year":2020,
     "geom:area":0.017261,
-    "geom:area_square_m":170893524.790105,
+    "geom:area_square_m":170893524.790099,
     "geom:bbox":"-6.39667833,36.70265262,-6.20368147,36.90518673",
     "geom:latitude":36.806706,
     "geom:longitude":-6.308235,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_11032",
+        "eurostat:nuts_2021_id":"11032",
         "gn:id":6356947,
         "gp:id":12688761,
         "qs_pg:id":1197665
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"391b61751d547d758d587f0fb00dbc91",
+    "wof:geomhash":"06615ff0082fe690f8575f7019303e9e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404333079,
-    "wof:lastmodified":1582361762,
+    "wof:lastmodified":1684352274,
     "wof:name":"Sanl\u00facar De Barrameda",
     "wof:parent_id":85682679,
     "wof:placetype":"localadmin",
+    "wof:population":69205,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

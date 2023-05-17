@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47077",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Langayo",
+    "eurostat:nuts_2021_id":"47077",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47077",
+    "eurostat:population":250,
+    "eurostat:population_year":2020,
     "geom:area":0.00522,
-    "geom:area_square_m":48302044.474666,
+    "geom:area_square_m":48302044.474665,
     "geom:bbox":"-4.30429426,41.51815591,-4.16394226,41.58596332",
     "geom:latitude":41.557224,
     "geom:longitude":-4.23332,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_47077",
+        "eurostat:nuts_2021_id":"47077",
         "gn:id":6362204,
         "gp:id":12692978,
         "qs_pg:id":954981
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c8a21c98bc8fe7c2c9e48813734ff39c",
+    "wof:geomhash":"9061a50a2fc56bc4b05609b3c1c751c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404345569,
-    "wof:lastmodified":1582361825,
+    "wof:lastmodified":1684352487,
     "wof:name":"Langayo",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":250,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

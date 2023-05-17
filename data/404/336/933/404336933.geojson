@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_23009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Baeza",
+    "eurostat:nuts_2021_id":"23009",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES616",
+    "eurostat:nuts_2021_level_lau":"23009",
+    "eurostat:population":15791,
+    "eurostat:population_year":2020,
     "geom:area":0.019759,
-    "geom:area_square_m":192674114.25305,
+    "geom:area_square_m":192674114.253053,
     "geom:bbox":"-3.59252833,37.85326151,-3.39856198,38.05425283",
     "geom:latitude":37.945347,
     "geom:longitude":-3.490764,
@@ -156,6 +168,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -164,6 +178,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_23009",
+        "eurostat:nuts_2021_id":"23009",
         "gn:id":6358464,
         "gp:id":12689102,
         "qs_pg:id":232083
@@ -172,7 +188,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b287d68c74027f9c95adcfacbebb1050",
+    "wof:geomhash":"15e3ec7c9c56f5b1883ca8d3400772df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -183,10 +199,12 @@
         }
     ],
     "wof:id":404336933,
-    "wof:lastmodified":1582361471,
+    "wof:lastmodified":1684352345,
     "wof:name":"Baeza",
     "wof:parent_id":85682757,
     "wof:placetype":"localadmin",
+    "wof:population":15791,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

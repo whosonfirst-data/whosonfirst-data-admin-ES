@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43096,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43096",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Morera de Montsant, La",
+    "eurostat:nuts_2021_id":"43096",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43096",
+    "eurostat:population":159,
+    "eurostat:population_year":2020,
     "geom:area":0.005732,
-    "geom:area_square_m":53269293.013769,
+    "geom:area_square_m":53269345.866532,
     "geom:bbox":"0.767118,41.207553,0.898364,41.312191",
     "geom:latitude":41.269011,
     "geom:longitude":0.837133,
@@ -52,6 +64,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -60,7 +74,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43096",
         "esp-icgc:la_lc":"043096",
+        "eurostat:nuts_2021_id":"43096",
         "gn:id":6361338,
         "gp:id":12694233,
         "qs_pg:id":1291872
@@ -70,7 +86,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4378b1c2b86e09ccc9b50e0315369c42",
+    "wof:geomhash":"42c41f7e94ffacf4c01707f5edcd8eef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +97,12 @@
         }
     ],
     "wof:id":404343607,
-    "wof:lastmodified":1669903070,
+    "wof:lastmodified":1684352458,
     "wof:name":"La Morera de Montsant",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":159,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06110",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Reina",
+    "eurostat:nuts_2021_id":"06110",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06110",
+    "eurostat:population":150,
+    "eurostat:population_year":2020,
     "geom:area":0.007446,
-    "geom:area_square_m":72391449.02079,
+    "geom:area_square_m":72391449.020785,
     "geom:bbox":"-6.04394028,38.0659168,-5.83435881,38.22547699",
     "geom:latitude":38.159228,
     "geom:longitude":-5.941544,
@@ -84,6 +96,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -92,6 +106,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06110",
+        "eurostat:nuts_2021_id":"06110",
         "gn:id":6355975,
         "gp:id":12694429,
         "qs_pg:id":955136
@@ -100,7 +116,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"132b8390f0fd4d9a350a3c5d311dfbe2",
+    "wof:geomhash":"72eab7fd397ebe7aca7e070839ea1aa2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,10 +127,12 @@
         }
     ],
     "wof:id":404330603,
-    "wof:lastmodified":1582361527,
+    "wof:lastmodified":1684352226,
     "wof:name":"Reina",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":150,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

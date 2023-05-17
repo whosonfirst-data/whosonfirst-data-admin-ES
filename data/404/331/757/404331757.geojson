@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09074",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carde\u00f1ajimeno",
+    "eurostat:nuts_2021_id":"09074",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09074",
+    "eurostat:population":1136,
+    "eurostat:population_year":2020,
     "geom:area":0.001332,
     "geom:area_square_m":12175977.080619,
     "geom:bbox":"-3.64925259,42.30568934,-3.57864234,42.34861771",
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09074",
+        "eurostat:nuts_2021_id":"09074",
         "gn:id":6356391,
         "gp:id":12691437,
         "qs_pg:id":1162721
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0408eb9186564cce583904164c40748a",
+    "wof:geomhash":"4c5d86b9d3ea919c33f83b52b20c0e03",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404331757,
-    "wof:lastmodified":1582361502,
+    "wof:lastmodified":1684352258,
     "wof:name":"Carde\u00f1ajimeno",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":1136,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

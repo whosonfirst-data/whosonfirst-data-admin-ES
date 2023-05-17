@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Blasconu\u00f1o de Matacabras",
+    "eurostat:nuts_2021_id":"05034",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05034",
+    "eurostat:population":14,
+    "eurostat:population_year":2020,
     "geom:area":0.001393,
-    "geom:area_square_m":12971533.396232,
+    "geom:area_square_m":12971533.396231,
     "geom:bbox":"-5.02391364,41.11981449,-4.95489461,41.16424972",
     "geom:latitude":41.141908,
     "geom:longitude":-4.986931,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05034",
+        "eurostat:nuts_2021_id":"05034",
         "gn:id":6355643,
         "gp:id":12691151,
         "qs_pg:id":46133
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e1690accca3c35d4c38bc98b80093dec",
+    "wof:geomhash":"12a114c14bef2062c6d0d0e9ef6074dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404329855,
-    "wof:lastmodified":1582361801,
+    "wof:lastmodified":1684352216,
     "wof:name":"Blasconu\u00f1o De Matacabras",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":14,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

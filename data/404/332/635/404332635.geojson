@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10056",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casas de Mill\u00e1n",
+    "eurostat:nuts_2021_id":"10056",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10056",
+    "eurostat:population":550,
+    "eurostat:population_year":2020,
     "geom:area":0.016079,
-    "geom:area_square_m":152764689.065087,
+    "geom:area_square_m":152764689.065084,
     "geom:bbox":"-6.38877348,39.73147423,-6.16423667,39.84762987",
     "geom:latitude":39.791623,
     "geom:longitude":-6.279626,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10056",
+        "eurostat:nuts_2021_id":"10056",
         "gn:id":6356753,
         "gp:id":12694536,
         "qs_pg:id":1160728
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"408e83d6946c6ba64bbe930e9cf0b148",
+    "wof:geomhash":"c5c7fe5371bb1e4cc58b80435966e0d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332635,
-    "wof:lastmodified":1582361681,
+    "wof:lastmodified":1684352267,
     "wof:name":"Casas De Mill\u00e1n",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":550,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

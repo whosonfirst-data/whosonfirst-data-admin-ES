@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28070",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Horcajo de la Sierra-Aoslos",
+    "eurostat:nuts_2021_id":"28070",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28070",
+    "eurostat:population":152,
+    "eurostat:population_year":2020,
     "geom:area":0.002274,
     "geom:area_square_m":21192315.814706,
     "geom:bbox":"-3.60960829,41.04344607,-3.55576246,41.11432786",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227387
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_28070",
+        "eurostat:nuts_2021_id":"28070"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"aa2217a7d97aadb32624f6747fc39dbd",
+    "wof:geomhash":"6ee65cbb68a60174a8d94429775294bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404338845,
-    "wof:lastmodified":1566589594,
+    "wof:lastmodified":1684352383,
     "wof:name":"Horcajo De La Sierra-Aoslos",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":152,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

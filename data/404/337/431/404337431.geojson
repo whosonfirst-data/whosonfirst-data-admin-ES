@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24143",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sancedo",
+    "eurostat:nuts_2021_id":"24143",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24143",
+    "eurostat:population":546,
+    "eurostat:population_year":2020,
     "geom:area":0.003404,
-    "geom:area_square_m":30949211.283275,
+    "geom:area_square_m":30949211.283278,
     "geom:bbox":"-6.66942604,42.61847868,-6.59787779,42.70703942",
     "geom:latitude":42.672202,
     "geom:longitude":-6.635366,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_24143",
+        "eurostat:nuts_2021_id":"24143",
         "gn:id":6358679,
         "gp:id":12691883,
         "qs_pg:id":246395
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c82a31bf583749bada933070420ca73e",
+    "wof:geomhash":"5904deda12cbf06278905a094509278a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404337431,
-    "wof:lastmodified":1582361559,
+    "wof:lastmodified":1684352352,
     "wof:name":"Sancedo",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":546,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

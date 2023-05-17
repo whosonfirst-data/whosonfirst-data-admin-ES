@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49222",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torres del Carrizal",
+    "eurostat:nuts_2021_id":"49222",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49222",
+    "eurostat:population":400,
+    "eurostat:population_year":2020,
     "geom:area":0.003279,
-    "geom:area_square_m":30306380.253215,
+    "geom:area_square_m":30306380.253214,
     "geom:bbox":"-5.72832066,41.59291884,-5.64380773,41.67060229",
     "geom:latitude":41.633229,
     "geom:longitude":-5.68054,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_49222",
+        "eurostat:nuts_2021_id":"49222",
         "gn:id":6362645,
         "gp:id":12693325,
         "qs_pg:id":265371
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4f9566fcebb8556a44e9eeff11b071d1",
+    "wof:geomhash":"6f260560da92748d1803730ab6e048c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404346601,
-    "wof:lastmodified":1582361619,
+    "wof:lastmodified":1684352501,
     "wof:name":"Torres Del Carrizal",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":400,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

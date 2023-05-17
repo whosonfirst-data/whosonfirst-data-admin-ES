@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_23081",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Segura de la Sierra",
+    "eurostat:nuts_2021_id":"23081",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES616",
+    "eurostat:nuts_2021_level_lau":"23081",
+    "eurostat:population":1803,
+    "eurostat:population_year":2020,
     "geom:area":0.02316,
     "geom:area_square_m":224885434.805365,
     "geom:bbox":"-2.94488735,37.9613589,-2.43538952,38.39660849",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_23081",
+        "eurostat:nuts_2021_id":"23081",
         "gn:id":6358529,
         "gp:id":12689171,
         "qs_pg:id":1095300
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"819aaa2287530ed5a50e12b4942601db",
+    "wof:geomhash":"8d69213511bc3c9e95b1516376a2f68a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404337083,
-    "wof:lastmodified":1582361553,
+    "wof:lastmodified":1684352348,
     "wof:name":"Segura De La Sierra",
     "wof:parent_id":85682757,
     "wof:placetype":"localadmin",
+    "wof:population":1803,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

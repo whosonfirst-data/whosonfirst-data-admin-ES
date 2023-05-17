@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_34147",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Renedo de la Vega",
+    "eurostat:nuts_2021_id":"34147",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES414",
+    "eurostat:nuts_2021_level_lau":"34147",
+    "eurostat:population":186,
+    "eurostat:population_year":2020,
     "geom:area":0.002434,
-    "geom:area_square_m":22210793.216269,
+    "geom:area_square_m":22210793.21627,
     "geom:bbox":"-4.73441923,42.40339638,-4.67721957,42.47382038",
     "geom:latitude":42.437278,
     "geom:longitude":-4.706758,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_34147",
+        "eurostat:nuts_2021_id":"34147"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"bd2c10569381695058739705f18f3d7a",
+    "wof:geomhash":"66162aacdc6705d6d9e54d68e6b56d1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404340713,
-    "wof:lastmodified":1566590397,
+    "wof:lastmodified":1684352411,
     "wof:name":"Renedo De La Vega",
     "wof:parent_id":85682815,
     "wof:placetype":"localadmin",
+    "wof:population":186,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

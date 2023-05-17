@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19248",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Andr\u00e9s del Congosto",
+    "eurostat:nuts_2021_id":"19248",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19248",
+    "eurostat:population":74,
+    "eurostat:population_year":2020,
     "geom:area":0.001634,
-    "geom:area_square_m":15247282.964953,
+    "geom:area_square_m":15247282.964954,
     "geom:bbox":"-3.05672547,40.95735356,-3.00500361,41.00835898",
     "geom:latitude":40.987807,
     "geom:longitude":-3.034005,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19248",
+        "eurostat:nuts_2021_id":"19248",
         "gn:id":6358016,
         "gp:id":12690846,
         "qs_pg:id":966231
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d6beb2b03788418994e8b76163fb2314",
+    "wof:geomhash":"603a28140804707dd95947ee1080772e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404335909,
-    "wof:lastmodified":1582361694,
+    "wof:lastmodified":1684352331,
     "wof:name":"San Andr\u00e9s Del Congosto",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":74,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

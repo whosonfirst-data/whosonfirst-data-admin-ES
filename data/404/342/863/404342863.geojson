@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_41054",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lora de Estepa",
+    "eurostat:nuts_2021_id":"41054",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES618",
+    "eurostat:nuts_2021_level_lau":"41054",
+    "eurostat:population":873,
+    "eurostat:population_year":2020,
     "geom:area":0.001837,
-    "geom:area_square_m":18080657.091466,
+    "geom:area_square_m":18080657.091465,
     "geom:bbox":"-4.84117273,37.23310083,-4.79004217,37.29850238",
     "geom:latitude":37.270847,
     "geom:longitude":-4.819049,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_41054",
+        "eurostat:nuts_2021_id":"41054",
         "gn:id":6361009,
         "gp:id":12689346,
         "qs_pg:id":499257
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"39b9ff5a52e0fe54708f69ff434d8081",
+    "wof:geomhash":"4c7a02f3c883203e0696c84a2093940c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404342863,
-    "wof:lastmodified":1582361822,
+    "wof:lastmodified":1684352444,
     "wof:name":"Lora De Estepa",
     "wof:parent_id":85682841,
     "wof:placetype":"localadmin",
+    "wof:population":873,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

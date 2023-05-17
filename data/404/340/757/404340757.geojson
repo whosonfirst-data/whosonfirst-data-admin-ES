@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_34175",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Serna, La",
+    "eurostat:nuts_2021_id":"34175",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES414",
+    "eurostat:nuts_2021_level_lau":"34175",
+    "eurostat:population":95,
+    "eurostat:population_year":2020,
     "geom:area":0.001346,
     "geom:area_square_m":12284907.883483,
     "geom:bbox":"-4.6846359,42.39601681,-4.6282618,42.43631751",
@@ -36,6 +48,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -44,6 +58,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_34175",
+        "eurostat:nuts_2021_id":"34175",
         "gn:id":6360114,
         "qs_pg:id":621800
     },
@@ -51,7 +67,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c75295ab13fd253b9122105427001173",
+    "wof:geomhash":"0a89bc340b867253e6eecb564cf0b8f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,10 +78,12 @@
         }
     ],
     "wof:id":404340757,
-    "wof:lastmodified":1582361660,
+    "wof:lastmodified":1684352412,
     "wof:name":"La Serna",
     "wof:parent_id":85682815,
     "wof:placetype":"localadmin",
+    "wof:population":95,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

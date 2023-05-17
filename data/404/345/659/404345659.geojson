@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47119",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pi\u00f1el de Arriba",
+    "eurostat:nuts_2021_id":"47119",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47119",
+    "eurostat:population":91,
+    "eurostat:population_year":2020,
     "geom:area":0.002533,
-    "geom:area_square_m":23380802.173912,
+    "geom:area_square_m":23380802.173911,
     "geom:bbox":"-4.20225381,41.68374792,-4.10206131,41.73401451",
     "geom:latitude":41.710287,
     "geom:longitude":-4.144385,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_47119",
+        "eurostat:nuts_2021_id":"47119",
         "gn:id":6362244,
         "gp:id":12693018,
         "qs_pg:id":47019
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"19ac45e58732b01513b973548cc16aa6",
+    "wof:geomhash":"224c45fc89501a194fbdf35986ece8d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404345659,
-    "wof:lastmodified":1582361830,
+    "wof:lastmodified":1684352488,
     "wof:name":"Pi\u00f1el De Arriba",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":91,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calata\u00f1azor",
+    "eurostat:nuts_2021_id":"42046",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42046",
+    "eurostat:population":51,
+    "eurostat:population_year":2020,
     "geom:area":0.007014,
-    "geom:area_square_m":64733001.730045,
+    "geom:area_square_m":64733001.730043,
     "geom:bbox":"-2.89137499,41.65538315,-2.72415331,41.78135511",
     "geom:latitude":41.719465,
     "geom:longitude":-2.802408,
@@ -189,6 +201,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -197,6 +211,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42046",
+        "eurostat:nuts_2021_id":"42046",
         "gn:id":6361103,
         "gp:id":12692762,
         "qs_pg:id":1292888
@@ -205,7 +221,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"73a01f82030252a9f22e747f9f5aa239",
+    "wof:geomhash":"722da289cbe3954a318722e018db490f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -216,10 +232,12 @@
         }
     ],
     "wof:id":404343075,
-    "wof:lastmodified":1582361886,
+    "wof:lastmodified":1684352447,
     "wof:name":"Calata\u00f1azor",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":51,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aliaguilla",
+    "eurostat:nuts_2021_id":"16014",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16014",
+    "eurostat:population":632,
+    "eurostat:population_year":2020,
     "geom:area":0.010905,
     "geom:area_square_m":103707823.247794,
     "geom:bbox":"-1.3830279,39.67048406,-1.26199529,39.79829154",
@@ -96,6 +108,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -103,9 +117,12 @@
         404227375
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_16014",
+        "eurostat:nuts_2021_id":"16014"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"2fb6d597098dc782c1a0a2783f78a4b3",
+    "wof:geomhash":"cf00f090f3628b2c9f67ceceebfab8bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +133,12 @@
         }
     ],
     "wof:id":404334051,
-    "wof:lastmodified":1566590728,
+    "wof:lastmodified":1684352292,
     "wof:name":"Aliaguilla",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":632,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

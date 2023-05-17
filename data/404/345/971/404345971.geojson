@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Etxebarria",
+    "eurostat:nuts_2021_id":"48030",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48030",
+    "eurostat:population":782,
+    "eurostat:population_year":2020,
     "geom:area":0.001977,
     "geom:area_square_m":17806380.261003,
     "geom:bbox":"-2.51623054,43.22619666,-2.42660781,43.272573",
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_48030",
+        "eurostat:nuts_2021_id":"48030",
         "gn:id":6362375,
         "gp:id":12695196,
         "qs_pg:id":1042524
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8878697c53c63581acda06d0a6fca867",
+    "wof:geomhash":"d2bfe0e92ebd0a86408d9895baa2160f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404345971,
-    "wof:lastmodified":1582361832,
+    "wof:lastmodified":1684352492,
     "wof:name":"Etxebarria",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":782,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

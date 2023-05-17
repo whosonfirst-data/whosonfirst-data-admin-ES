@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Corte de Peleas",
+    "eurostat:nuts_2021_id":"06040",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06040",
+    "eurostat:population":1191,
+    "eurostat:population_year":2020,
     "geom:area":0.004384,
-    "geom:area_square_m":42286011.350282,
+    "geom:area_square_m":42286011.350283,
     "geom:bbox":"-6.70034565,38.69321759,-6.59851363,38.76595346",
     "geom:latitude":38.728851,
     "geom:longitude":-6.654348,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06040",
+        "eurostat:nuts_2021_id":"06040",
         "gn:id":6355905,
         "gp:id":12694360,
         "qs_pg:id":1149595
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2eb0dce7d7cd3ef1c994c02d481d19af",
+    "wof:geomhash":"5947231a28be940919d65470976c6702",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330447,
-    "wof:lastmodified":1582361521,
+    "wof:lastmodified":1684352224,
     "wof:name":"Corte De Peleas",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":1191,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

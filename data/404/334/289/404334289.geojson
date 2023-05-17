@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16135",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Moya",
+    "eurostat:nuts_2021_id":"16135",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16135",
+    "eurostat:population":136,
+    "eurostat:population_year":2020,
     "geom:area":0.00967,
-    "geom:area_square_m":91641503.047516,
+    "geom:area_square_m":91641503.047517,
     "geom:bbox":"-1.43050138,39.92142842,-1.27433562,40.01667283",
     "geom:latitude":39.967178,
     "geom:longitude":-1.353593,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16135",
+        "eurostat:nuts_2021_id":"16135",
         "gn:id":6357480,
         "gp:id":12690520,
         "qs_pg:id":1311027
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"acdfa3a19ede3626d99bcd87951131f7",
+    "wof:geomhash":"ada3a061b48271599386c70538f21045",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404334289,
-    "wof:lastmodified":1582361723,
+    "wof:lastmodified":1684352296,
     "wof:name":"Moya",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":136,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

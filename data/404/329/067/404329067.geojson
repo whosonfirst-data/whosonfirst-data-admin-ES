@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_02007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alcal\u00e1 del J\u00facar",
+    "eurostat:nuts_2021_id":"02007",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES421",
+    "eurostat:nuts_2021_level_lau":"02007",
+    "eurostat:population":1194,
+    "eurostat:population_year":2020,
     "geom:area":0.015307,
-    "geom:area_square_m":146706600.097136,
+    "geom:area_square_m":146706600.097134,
     "geom:bbox":"-1.48731438,39.1238219,-1.30994264,39.25048714",
     "geom:latitude":39.185715,
     "geom:longitude":-1.402806,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_02007",
+        "eurostat:nuts_2021_id":"02007",
         "gn:id":6355299,
         "gp:id":12690218,
         "qs_pg:id":45660
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c8ade652fc9223969dfe6097858296b5",
+    "wof:geomhash":"5150687303de4a802addd0b80d668e14",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404329067,
-    "wof:lastmodified":1582361802,
+    "wof:lastmodified":1684352203,
     "wof:name":"Alcal\u00e1 Del J\u00facar",
     "wof:parent_id":85682621,
     "wof:placetype":"localadmin",
+    "wof:population":1194,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

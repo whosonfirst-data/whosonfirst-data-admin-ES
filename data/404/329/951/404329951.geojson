@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05080",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gallegos de Sobrinos",
+    "eurostat:nuts_2021_id":"05080",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05080",
+    "eurostat:population":40,
+    "eurostat:population_year":2020,
     "geom:area":0.00461,
-    "geom:area_square_m":43216443.603524,
+    "geom:area_square_m":43216443.603522,
     "geom:bbox":"-5.19656993,40.66174376,-5.06556564,40.73642567",
     "geom:latitude":40.704099,
     "geom:longitude":-5.143953,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05080",
+        "eurostat:nuts_2021_id":"05080",
         "gn:id":6355686,
         "gp:id":12691195,
         "qs_pg:id":1147418
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0999add73252839bce8229d92d626487",
+    "wof:geomhash":"6c69316913dc2c7546073d120e359c4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404329951,
-    "wof:lastmodified":1582361797,
+    "wof:lastmodified":1684352217,
     "wof:name":"Gallegos De Sobrinos",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":40,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

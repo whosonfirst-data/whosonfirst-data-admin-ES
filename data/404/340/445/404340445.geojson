@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_33074",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vegadeo",
+    "eurostat:nuts_2021_id":"33074",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES12",
+    "eurostat:nuts_2021_level_3":"ES120",
+    "eurostat:nuts_2021_level_lau":"33074",
+    "eurostat:population":3926,
+    "eurostat:population_year":2020,
     "geom:area":0.009199,
-    "geom:area_square_m":82617148.413134,
+    "geom:area_square_m":82617148.413129,
     "geom:bbox":"-7.10484357,43.35703997,-6.94689553,43.4742727",
     "geom:latitude":43.421726,
     "geom:longitude":-7.025047,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_33074",
+        "eurostat:nuts_2021_id":"33074",
         "gn:id":6359975,
         "gp:id":12688517,
         "qs_pg:id":204514
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cc3b96d434a296c1dd09d366e78d6c2a",
+    "wof:geomhash":"66541b2b79c07faa958680525cd6f433",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404340445,
-    "wof:lastmodified":1582361662,
+    "wof:lastmodified":1684352408,
     "wof:name":"Vegadeo",
     "wof:parent_id":85682805,
     "wof:placetype":"localadmin",
+    "wof:population":3926,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

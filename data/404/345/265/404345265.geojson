@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46207",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rafelbunyol",
+    "eurostat:nuts_2021_id":"46207",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46207",
+    "eurostat:population":9149,
+    "eurostat:population_year":2020,
     "geom:area":0.00044,
     "geom:area_square_m":4194848.347383,
     "geom:bbox":"-0.37467533,39.58125843,-0.32310215,39.61435558",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227381
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_46207",
+        "eurostat:nuts_2021_id":"46207"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"8ba49e23d00876299e942afc72ca6eae",
+    "wof:geomhash":"88266bb48abae591827d009f4be3ff2e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404345265,
-    "wof:lastmodified":1566591043,
+    "wof:lastmodified":1684352484,
     "wof:name":"Rafelbu\u00f1ol/Rafelbunyol",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":9149,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19153",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ini\u00e9stola",
+    "eurostat:nuts_2021_id":"19153",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19153",
+    "eurostat:population":23,
+    "eurostat:population_year":2020,
     "geom:area":0.001075,
     "geom:area_square_m":10037766.451323,
     "geom:bbox":"-2.39666887,40.97692445,-2.34167133,41.01051599",
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19153",
+        "eurostat:nuts_2021_id":"19153",
         "gn:id":6357929,
         "gp:id":12690759,
         "qs_pg:id":45946
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b26b51593327b23f23695ac62bda328a",
+    "wof:geomhash":"f604efd6ca70dca2fe5e6e023f588938",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404335711,
-    "wof:lastmodified":1582361712,
+    "wof:lastmodified":1684352329,
     "wof:name":"Ini\u00e9stola",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":23,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

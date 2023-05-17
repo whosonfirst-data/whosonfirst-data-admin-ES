@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Betanzos",
+    "eurostat:nuts_2021_id":"15009",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15009",
+    "eurostat:population":13053,
+    "eurostat:population_year":2020,
     "geom:area":0.002685,
-    "geom:area_square_m":24168803.470404,
+    "geom:area_square_m":24168758.436414,
     "geom:bbox":"-8.271448,43.246075,-8.178592,43.305349",
     "geom:latitude":43.275233,
     "geom:longitude":-8.223139,
@@ -150,6 +162,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -158,6 +172,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_15009",
+        "eurostat:nuts_2021_id":"15009",
         "gn:id":6357279,
         "gp:id":12694710,
         "qs_pg:id":907099
@@ -166,7 +182,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"16a1f69cd74f01f1f8c474029768560d",
+    "wof:geomhash":"716cdf9e716c5184808f360bcc52018e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,10 +193,12 @@
         }
     ],
     "wof:id":404333827,
-    "wof:lastmodified":1636503325,
+    "wof:lastmodified":1684352285,
     "wof:name":"Betanzos",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":13053,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

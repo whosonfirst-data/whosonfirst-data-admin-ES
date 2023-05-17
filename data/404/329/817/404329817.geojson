@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arenal, El",
+    "eurostat:nuts_2021_id":"05013",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05013",
+    "eurostat:population":948,
+    "eurostat:population_year":2020,
     "geom:area":0.002867,
-    "geom:area_square_m":27049697.357418,
+    "geom:area_square_m":27049697.357417,
     "geom:bbox":"-5.12272908,40.24526771,-5.05299131,40.31210695",
     "geom:latitude":40.276699,
     "geom:longitude":-5.083017,
@@ -63,6 +75,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -71,6 +85,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05013",
+        "eurostat:nuts_2021_id":"05013",
         "gn:id":6355626,
         "gp:id":12691134,
         "qs_pg:id":236040
@@ -79,7 +95,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1bbb2cf4d21d45422b0fe938b3c81425",
+    "wof:geomhash":"5381bf7ac81e582fbcd85291c1a21b91",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,10 +106,12 @@
         }
     ],
     "wof:id":404329817,
-    "wof:lastmodified":1582361790,
+    "wof:lastmodified":1684352216,
     "wof:name":"El Arenal",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":948,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

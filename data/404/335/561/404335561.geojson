@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19071",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casar, El",
+    "eurostat:nuts_2021_id":"19071",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19071",
+    "eurostat:population":12415,
+    "eurostat:population_year":2020,
     "geom:area":0.005542,
     "geom:area_square_m":51928229.921095,
     "geom:bbox":"-3.46855262,40.66963716,-3.38693503,40.79231304",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19071",
+        "eurostat:nuts_2021_id":"19071",
         "gn:id":6357863,
         "gp:id":12690693,
         "qs_pg:id":103360
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"82a8c5ddeeb3a1385e22d0e332af0399",
+    "wof:geomhash":"8c97bf3d52c610a502787363fe2da910",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404335561,
-    "wof:lastmodified":1582361695,
+    "wof:lastmodified":1684352327,
     "wof:name":"El Casar",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":12415,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

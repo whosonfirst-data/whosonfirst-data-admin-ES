@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_41020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cabezas de San Juan, Las",
+    "eurostat:nuts_2021_id":"41020",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES618",
+    "eurostat:nuts_2021_level_lau":"41020",
+    "eurostat:population":16358,
+    "eurostat:population_year":2020,
     "geom:area":0.023249,
     "geom:area_square_m":229629923.404449,
     "geom:bbox":"-6.05363657,36.89369827,-5.80776733,37.07868109",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_41020",
+        "eurostat:nuts_2021_id":"41020",
         "gn:id":6360975,
         "qs_pg:id":621865
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e71a53d6d957c4572be5d3a80a2cc781",
+    "wof:geomhash":"512d74102d2e4daaa0796f99d18d1a4b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404342787,
-    "wof:lastmodified":1582361823,
+    "wof:lastmodified":1684352443,
     "wof:name":"Las Cabezas De San Juan",
     "wof:parent_id":85682841,
     "wof:placetype":"localadmin",
+    "wof:population":16358,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

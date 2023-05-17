@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bohoyo",
+    "eurostat:nuts_2021_id":"05037",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05037",
+    "eurostat:population":232,
+    "eurostat:population_year":2020,
     "geom:area":0.007823,
-    "geom:area_square_m":73785104.919424,
+    "geom:area_square_m":73785104.919423,
     "geom:bbox":"-5.50408318,40.25029555,-5.3156812,40.3292322",
     "geom:latitude":40.289403,
     "geom:longitude":-5.409881,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05037",
+        "eurostat:nuts_2021_id":"05037",
         "gn:id":6355646,
         "gp:id":12691154,
         "qs_pg:id":1163684
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"57eb00136d5c874f42e47aa2d63ccaa0",
+    "wof:geomhash":"83ba548631721c78b7d0b8e1f2ab5c12",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404329861,
-    "wof:lastmodified":1582361791,
+    "wof:lastmodified":1684352216,
     "wof:name":"Bohoyo",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":232,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

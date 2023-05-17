@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31906",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Orkoien",
+    "eurostat:nuts_2021_id":"31906",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31906",
+    "eurostat:population":4145,
+    "eurostat:population_year":2020,
     "geom:area":0.000621,
     "geom:area_square_m":5632163.826278,
     "geom:bbox":"-1.72568429,42.81306743,-1.68520816,42.83918175",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31906",
+        "eurostat:nuts_2021_id":"31906",
         "gn:id":6359817,
         "qs_pg:id":1037081
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4c597b266ae2cd14dacdbeda9efa6e97",
+    "wof:geomhash":"4532adcdd1e3194aa19a36e9c30315a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404340067,
-    "wof:lastmodified":1582361664,
+    "wof:lastmodified":1684352402,
     "wof:name":"Orkoien",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":4145,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

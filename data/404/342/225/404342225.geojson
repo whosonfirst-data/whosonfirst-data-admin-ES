@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_39082",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Selaya",
+    "eurostat:nuts_2021_id":"39082",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES13",
+    "eurostat:nuts_2021_level_3":"ES130",
+    "eurostat:nuts_2021_level_lau":"39082",
+    "eurostat:population":1873,
+    "eurostat:population_year":2020,
     "geom:area":0.00435,
-    "geom:area_square_m":39210667.514987,
+    "geom:area_square_m":39210667.514985,
     "geom:bbox":"-3.81746236,43.17342967,-3.71445732,43.23485827",
     "geom:latitude":43.20205,
     "geom:longitude":-3.76666,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_39082",
+        "eurostat:nuts_2021_id":"39082",
         "gn:id":6360727,
         "gp:id":12688603,
         "qs_pg:id":242313
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9205bb10ca3799a713ac73d75ab04c23",
+    "wof:geomhash":"0a00875c09e478af6a4a185dee560ddf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404342225,
-    "wof:lastmodified":1582361819,
+    "wof:lastmodified":1684352437,
     "wof:name":"Selaya",
     "wof:parent_id":85682833,
     "wof:placetype":"localadmin",
+    "wof:population":1873,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

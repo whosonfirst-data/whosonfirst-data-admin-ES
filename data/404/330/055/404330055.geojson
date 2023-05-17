@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05129",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mir\u00f3n, El",
+    "eurostat:nuts_2021_id":"05129",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05129",
+    "eurostat:population":118,
+    "eurostat:population_year":2020,
     "geom:area":0.003304,
-    "geom:area_square_m":31039911.293519,
+    "geom:area_square_m":31039911.293521,
     "geom:bbox":"-5.43323475,40.52144203,-5.35991465,40.59806933",
     "geom:latitude":40.556382,
     "geom:longitude":-5.400749,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05129",
+        "eurostat:nuts_2021_id":"05129",
         "gn:id":6355732,
         "qs_pg:id":621542
     },
@@ -123,7 +139,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"11fa38628327393e65177a9347e9792b",
+    "wof:geomhash":"408e44641f526a76d2283f170c2e8b61",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404330055,
-    "wof:lastmodified":1582361527,
+    "wof:lastmodified":1684352219,
     "wof:name":"El Mir\u00f3n",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":118,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

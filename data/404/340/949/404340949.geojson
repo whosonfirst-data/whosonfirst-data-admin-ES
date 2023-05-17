@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_35029",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tinajo",
+    "eurostat:nuts_2021_id":"35029",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES7",
+    "eurostat:nuts_2021_level_2":"ES70",
+    "eurostat:nuts_2021_level_3":"ES708",
+    "eurostat:nuts_2021_level_lau":"35029",
+    "eurostat:population":6434,
+    "eurostat:population_year":2020,
     "geom:area":0.012577,
-    "geom:area_square_m":135964251.435998,
+    "geom:area_square_m":135964251.435981,
     "geom:bbox":"-13.8074452,28.98571555,-13.6388817,29.12352871",
     "geom:latitude":29.045464,
     "geom:longitude":-13.708287,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_35029",
+        "eurostat:nuts_2021_id":"35029",
         "gn:id":6360199,
         "gp:id":12690153,
         "qs_pg:id":1315872
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8b54f455bdee693e6388234dd7a61b27",
+    "wof:geomhash":"6c8237057cf1db55f1f7c2a7f981ffa9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404340949,
-    "wof:lastmodified":1582361655,
+    "wof:lastmodified":1684352417,
     "wof:name":"Tinajo",
     "wof:parent_id":85682821,
     "wof:placetype":"localadmin",
+    "wof:population":6434,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

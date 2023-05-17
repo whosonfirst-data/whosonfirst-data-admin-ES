@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10114",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Majadas",
+    "eurostat:nuts_2021_id":"10114",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10114",
+    "eurostat:population":1322,
+    "eurostat:population_year":2020,
     "geom:area":0.005476,
-    "geom:area_square_m":51911996.756119,
+    "geom:area_square_m":51911996.756118,
     "geom:bbox":"-5.83796453,39.91334738,-5.71925888,39.98206413",
     "geom:latitude":39.950033,
     "geom:longitude":-5.775022,
@@ -48,6 +60,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -56,6 +70,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10114",
+        "eurostat:nuts_2021_id":"10114",
         "gn:id":6356809,
         "gp:id":12694595,
         "qs_pg:id":48019
@@ -64,7 +80,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b6138ba8bd7b14992fce3a5d320a091c",
+    "wof:geomhash":"ed43a0d74224defe6cccb5ecff0ac28b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,10 +91,12 @@
         }
     ],
     "wof:id":404332763,
-    "wof:lastmodified":1582361676,
+    "wof:lastmodified":1684352268,
     "wof:name":"Majadas",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":1322,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

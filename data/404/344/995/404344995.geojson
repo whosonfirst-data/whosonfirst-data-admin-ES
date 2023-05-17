@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46087",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casas Altas",
+    "eurostat:nuts_2021_id":"46087",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46087",
+    "eurostat:population":131,
+    "eurostat:population_year":2020,
     "geom:area":0.001683,
-    "geom:area_square_m":15933109.817631,
+    "geom:area_square_m":15933109.817629,
     "geom:bbox":"-1.31230102,40.00153221,-1.19175091,40.05223818",
     "geom:latitude":40.033204,
     "geom:longitude":-1.249766,
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46087",
+        "eurostat:nuts_2021_id":"46087",
         "gn:id":6361952,
         "gp:id":12695628,
         "qs_pg:id":30345
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"58e664e0e4e4b61ed13478ea1630b114",
+    "wof:geomhash":"6c32c9bf13180df69dee5749a4e12cf9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404344995,
-    "wof:lastmodified":1582361852,
+    "wof:lastmodified":1684352481,
     "wof:name":"Casas Altas",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":131,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

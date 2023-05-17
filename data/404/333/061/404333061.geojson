@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_11024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Olvera",
+    "eurostat:nuts_2021_id":"11024",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES612",
+    "eurostat:nuts_2021_level_lau":"11024",
+    "eurostat:population":8062,
+    "eurostat:population_year":2020,
     "geom:area":0.019583,
     "geom:area_square_m":193512306.052414,
     "geom:bbox":"-5.41680322,36.86964306,-5.09558083,37.03736288",
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_11024",
+        "eurostat:nuts_2021_id":"11024",
         "gn:id":6356939,
         "gp:id":12688751,
         "qs_pg:id":902569
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dba42e89584b774f60a08196c2d76297",
+    "wof:geomhash":"6053d26039ec393bbd2d0ed636e07a22",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404333061,
-    "wof:lastmodified":1582361780,
+    "wof:lastmodified":1684352273,
     "wof:name":"Olvera",
     "wof:parent_id":85682679,
     "wof:placetype":"localadmin",
+    "wof:population":8062,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

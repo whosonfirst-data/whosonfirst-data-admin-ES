@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43134,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43134",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rourell, El",
+    "eurostat:nuts_2021_id":"43134",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43134",
+    "eurostat:population":372,
+    "eurostat:population_year":2020,
     "geom:area":0.000249,
-    "geom:area_square_m":2313284.593658,
+    "geom:area_square_m":2313299.001826,
     "geom:bbox":"1.204098,41.214263,1.232725,41.228773",
     "geom:latitude":41.222345,
     "geom:longitude":1.220218,
@@ -118,6 +130,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -126,7 +140,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43134",
         "esp-icgc:la_lc":"043134",
+        "eurostat:nuts_2021_id":"43134",
         "gn:id":6361376,
         "gp:id":12694271,
         "qs_pg:id":47792
@@ -136,7 +152,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d10e4d51cc85a1fb93ec81ca3290384f",
+    "wof:geomhash":"e55b7b68bc711462c305f0c98cdbeb48",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404343691,
-    "wof:lastmodified":1669903070,
+    "wof:lastmodified":1684352460,
     "wof:name":"El Rourell",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":372,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

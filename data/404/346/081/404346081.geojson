@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48079",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Errigoiti",
+    "eurostat:nuts_2021_id":"48079",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48079",
+    "eurostat:population":486,
+    "eurostat:population_year":2020,
     "geom:area":0.001815,
     "geom:area_square_m":16325491.984366,
     "geom:bbox":"-2.76766715,43.30238619,-2.70359067,43.35467266",
@@ -105,6 +117,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -112,9 +126,12 @@
         404227393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_48079",
+        "eurostat:nuts_2021_id":"48079"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"75641196c418433b0509e40f3f0fdaab",
+    "wof:geomhash":"84691c768f971c35c6a684e186d4713c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +142,12 @@
         }
     ],
     "wof:id":404346081,
-    "wof:lastmodified":1566590268,
+    "wof:lastmodified":1684352494,
     "wof:name":"Errigoiti",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":486,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

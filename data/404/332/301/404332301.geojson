@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09372",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sotragero",
+    "eurostat:nuts_2021_id":"09372",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09372",
+    "eurostat:population":273,
+    "eurostat:population_year":2020,
     "geom:area":0.0006,
     "geom:area_square_m":5481416.334028,
     "geom:bbox":"-3.73601226,42.39936468,-3.70054638,42.42525426",
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09372",
+        "eurostat:nuts_2021_id":"09372",
         "gn:id":6356608,
         "gp:id":12691658,
         "qs_pg:id":1147694
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6b48ae702e5124e85139710d5eb6a107",
+    "wof:geomhash":"e98b3ea35038b291a527b68b665c2f3e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404332301,
-    "wof:lastmodified":1582361677,
+    "wof:lastmodified":1684352263,
     "wof:name":"Sotragero",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":273,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Argelita",
+    "eurostat:nuts_2021_id":"12015",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12015",
+    "eurostat:population":126,
+    "eurostat:population_year":2020,
     "geom:area":0.001633,
-    "geom:area_square_m":15454188.681777,
+    "geom:area_square_m":15454188.681776,
     "geom:bbox":"-0.36877786,40.04236104,-0.310015,40.10047898",
     "geom:latitude":40.067074,
     "geom:longitude":-0.340956,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12015",
+        "eurostat:nuts_2021_id":"12015",
         "gn:id":6356974,
         "gp:id":12695421,
         "qs_pg:id":978018
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c01f79c3781e6a3088c5c3ab41309d37",
+    "wof:geomhash":"ac3598d72f9fe8b997ab223868c7d47e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404333139,
-    "wof:lastmodified":1582361775,
+    "wof:lastmodified":1684352275,
     "wof:name":"Argelita",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":126,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19257",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sig\u00fcenza",
+    "eurostat:nuts_2021_id":"19257",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19257",
+    "eurostat:population":4319,
+    "eurostat:population_year":2020,
     "geom:area":0.041469,
-    "geom:area_square_m":386388280.938193,
+    "geom:area_square_m":386388280.938194,
     "geom:bbox":"-2.8226705,40.98899501,-2.468564,41.21311586",
     "geom:latitude":41.103318,
     "geom:longitude":-2.656656,
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19257",
+        "eurostat:nuts_2021_id":"19257",
         "gn:id":6358024,
         "gp:id":12690855,
         "qs_pg:id":219056
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cd3778969b4963ff13bf192b1a18d6c5",
+    "wof:geomhash":"987bf9db0df571a524bf297e4bbe0d28",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404335927,
-    "wof:lastmodified":1582361711,
+    "wof:lastmodified":1684352331,
     "wof:name":"Sig\u00fcenza",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":4319,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

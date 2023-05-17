@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50177",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mor\u00e9s",
+    "eurostat:nuts_2021_id":"50177",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50177",
+    "eurostat:population":321,
+    "eurostat:population_year":2020,
     "geom:area":0.002313,
     "geom:area_square_m":21427347.042591,
     "geom:bbox":"-1.61244215,41.45426878,-1.52639661,41.50072575",
@@ -87,6 +99,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -95,6 +109,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50177",
+        "eurostat:nuts_2021_id":"50177",
         "gn:id":6362864,
         "gp:id":12690004,
         "qs_pg:id":324045
@@ -103,7 +119,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8cde617355271d4faf4f9026d0d69eae",
+    "wof:geomhash":"86fac6edb4833d9740c73a394743fde6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,10 +130,12 @@
         }
     ],
     "wof:id":404347097,
-    "wof:lastmodified":1582361671,
+    "wof:lastmodified":1684352507,
     "wof:name":"Mor\u00e9s",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":321,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

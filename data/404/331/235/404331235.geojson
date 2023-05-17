@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8159,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08159",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Parets del Vall\u00e8s",
+    "eurostat:nuts_2021_id":"08159",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08159",
+    "eurostat:population":19071,
+    "eurostat:population_year":2020,
     "geom:area":0.000985,
-    "geom:area_square_m":9111068.241484,
+    "geom:area_square_m":9111074.955509,
     "geom:bbox":"2.200177,41.544662,2.258847,41.584138",
     "geom:latitude":41.567318,
     "geom:longitude":2.232409,
@@ -68,6 +80,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -76,7 +90,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08159",
         "esp-icgc:la_lc":"08159",
+        "eurostat:nuts_2021_id":"08159",
         "gn:id":6356186,
         "gp:id":12693539,
         "qs_pg:id":894496
@@ -86,7 +102,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b0307b0f29e594b254fe13711f5584a2",
+    "wof:geomhash":"7f16bd7e75d3a1917b42062789494c4b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,10 +113,12 @@
         }
     ],
     "wof:id":404331235,
-    "wof:lastmodified":1669903002,
+    "wof:lastmodified":1684352245,
     "wof:name":"Parets del Vall\u00e8s",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":19071,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

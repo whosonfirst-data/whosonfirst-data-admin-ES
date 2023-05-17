@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50160",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mall\u00e9n",
+    "eurostat:nuts_2021_id":"50160",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50160",
+    "eurostat:population":3004,
+    "eurostat:population_year":2020,
     "geom:area":0.004059,
-    "geom:area_square_m":37362338.582824,
+    "geom:area_square_m":37362338.582823,
     "geom:bbox":"-1.52330681,41.85671617,-1.35887538,41.924905",
     "geom:latitude":41.895483,
     "geom:longitude":-1.428649,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50160",
+        "eurostat:nuts_2021_id":"50160",
         "gn:id":6362847,
         "gp:id":12689985,
         "qs_pg:id":265246
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7743da8d9ff220cb179548e8b52bcc47",
+    "wof:geomhash":"76000916c2c0aa3025fb346bdcbbad45",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404347057,
-    "wof:lastmodified":1582361674,
+    "wof:lastmodified":1684352506,
     "wof:name":"Mall\u00e9n",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":3004,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

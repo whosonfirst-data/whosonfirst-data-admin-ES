@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_23056",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lopera",
+    "eurostat:nuts_2021_id":"23056",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES616",
+    "eurostat:nuts_2021_level_lau":"23056",
+    "eurostat:population":3652,
+    "eurostat:population_year":2020,
     "geom:area":0.006961,
     "geom:area_square_m":67864092.04849,
     "geom:bbox":"-4.28444985,37.90598898,-4.17057801,38.02399477",
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_23056",
+        "eurostat:nuts_2021_id":"23056",
         "gn:id":6358506,
         "gp:id":12689147,
         "qs_pg:id":1095307
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c1da5350e1d6ea7f8fdff582369081d1",
+    "wof:geomhash":"af8130be4ef889d6b5195dd0f2372cdd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404337031,
-    "wof:lastmodified":1582361558,
+    "wof:lastmodified":1684352347,
     "wof:name":"Lopera",
     "wof:parent_id":85682757,
     "wof:placetype":"localadmin",
+    "wof:population":3652,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

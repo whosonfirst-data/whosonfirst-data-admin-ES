@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10173",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Saucedilla",
+    "eurostat:nuts_2021_id":"10173",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10173",
+    "eurostat:population":852,
+    "eurostat:population_year":2020,
     "geom:area":0.006358,
-    "geom:area_square_m":60356341.465921,
+    "geom:area_square_m":60356341.465924,
     "geom:bbox":"-5.75498254,39.80018759,-5.59060627,39.887319",
     "geom:latitude":39.849726,
     "geom:longitude":-5.687582,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10173",
+        "eurostat:nuts_2021_id":"10173",
         "gn:id":6356868,
         "gp:id":12694655,
         "qs_pg:id":497307
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"544090079a5292801703b1b6a86653d5",
+    "wof:geomhash":"999d9c408babcf6f4c82c385610588eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404332897,
-    "wof:lastmodified":1582361690,
+    "wof:lastmodified":1684352270,
     "wof:name":"Saucedilla",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":852,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

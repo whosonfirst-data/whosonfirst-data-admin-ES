@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44235",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tramacastilla",
+    "eurostat:nuts_2021_id":"44235",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44235",
+    "eurostat:population":104,
+    "eurostat:population_year":2020,
     "geom:area":0.002633,
     "geom:area_square_m":24787455.235178,
     "geom:bbox":"-1.61282588,40.39322383,-1.54438123,40.47151971",
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44235",
+        "eurostat:nuts_2021_id":"44235",
         "gn:id":6361634,
         "gp:id":12689806,
         "qs_pg:id":1068441
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e6f294a6724e6c4e78f00e2fca866276",
+    "wof:geomhash":"9aa2f34fa7fa8bc2dde9ffe26b4120a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404344279,
-    "wof:lastmodified":1582361854,
+    "wof:lastmodified":1684352472,
     "wof:name":"Tramacastilla",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":104,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16074",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cierva, La",
+    "eurostat:nuts_2021_id":"16074",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16074",
+    "eurostat:population":31,
+    "eurostat:population_year":2020,
     "geom:area":0.007546,
-    "geom:area_square_m":71410803.123426,
+    "geom:area_square_m":71410803.123425,
     "geom:bbox":"-1.9295838,40.01197949,-1.81770084,40.1076609",
     "geom:latitude":40.061769,
     "geom:longitude":-1.869027,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16074",
+        "eurostat:nuts_2021_id":"16074",
         "gn:id":6357428,
         "qs_pg:id":621623
     },
@@ -111,7 +127,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"175871e7d2154ff8bb557cdbbca3bc0e",
+    "wof:geomhash":"9b2659da49c094ba479aa16dab8428f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +138,12 @@
         }
     ],
     "wof:id":404334173,
-    "wof:lastmodified":1582361731,
+    "wof:lastmodified":1684352294,
     "wof:name":"La Cierva",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":31,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

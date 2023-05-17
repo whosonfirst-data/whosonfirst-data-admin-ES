@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31107",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Funes",
+    "eurostat:nuts_2021_id":"31107",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31107",
+    "eurostat:population":2444,
+    "eurostat:population_year":2020,
     "geom:area":0.005782,
-    "geom:area_square_m":52888701.872945,
+    "geom:area_square_m":52888701.872944,
     "geom:bbox":"-1.8572858,42.24024706,-1.74363009,42.32936047",
     "geom:latitude":42.290089,
     "geom:longitude":-1.805741,
@@ -69,6 +81,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -77,6 +91,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31107",
+        "eurostat:nuts_2021_id":"31107",
         "gn:id":6359655,
         "gp:id":12688282,
         "qs_pg:id":977090
@@ -85,7 +101,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0f758df952214128e91a44313eb32a50",
+    "wof:geomhash":"b173ee1f95e0c62819b489d77d40e1df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,10 +112,12 @@
         }
     ],
     "wof:id":404339687,
-    "wof:lastmodified":1582361584,
+    "wof:lastmodified":1684352397,
     "wof:name":"Funes",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":2444,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

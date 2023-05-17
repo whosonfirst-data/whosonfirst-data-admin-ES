@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_39054",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Polanco",
+    "eurostat:nuts_2021_id":"39054",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES13",
+    "eurostat:nuts_2021_level_3":"ES130",
+    "eurostat:nuts_2021_level_lau":"39054",
+    "eurostat:population":5942,
+    "eurostat:population_year":2020,
     "geom:area":0.001996,
-    "geom:area_square_m":17941872.600167,
+    "geom:area_square_m":17941872.600168,
     "geom:bbox":"-4.0443291,43.35545629,-3.9735211,43.40262137",
     "geom:latitude":43.380647,
     "geom:longitude":-4.009724,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227371
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_39054",
+        "eurostat:nuts_2021_id":"39054"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"2830e084b006245546fd0261f38a076a",
+    "wof:geomhash":"cf505ebe3c50bf9643069aca76cbaf8f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404342161,
-    "wof:lastmodified":1566590915,
+    "wof:lastmodified":1684352436,
     "wof:name":"Polanco",
     "wof:parent_id":85682833,
     "wof:placetype":"localadmin",
+    "wof:population":5942,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

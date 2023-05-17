@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18193",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zubia, La",
+    "eurostat:nuts_2021_id":"18193",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18193",
+    "eurostat:population":19330,
+    "eurostat:population_year":2020,
     "geom:area":0.002039,
     "geom:area_square_m":20102675.265261,
     "geom:bbox":"-3.60907499,37.07600624,-3.53231524,37.1409253",
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18193",
+        "eurostat:nuts_2021_id":"18193",
         "gn:id":6357792,
         "gp:id":12689013,
         "qs_pg:id":1306562
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"017dcfc9940b0b0fe18091875bb92a7e",
+    "wof:geomhash":"bdea87550125db87fbe41a239e9a77e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404335399,
-    "wof:lastmodified":1582361695,
+    "wof:lastmodified":1684352325,
     "wof:name":"La Zubia",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":19330,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

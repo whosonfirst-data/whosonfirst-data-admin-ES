@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cirat",
+    "eurostat:nuts_2021_id":"12046",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12046",
+    "eurostat:population":206,
+    "eurostat:population_year":2020,
     "geom:area":0.004338,
-    "geom:area_square_m":41058313.438602,
+    "geom:area_square_m":41058313.438603,
     "geom:bbox":"-0.5065188,40.006668,-0.40343826,40.08798183",
     "geom:latitude":40.051165,
     "geom:longitude":-0.455652,
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12046",
+        "eurostat:nuts_2021_id":"12046",
         "gn:id":6357001,
         "gp:id":12695453,
         "qs_pg:id":978020
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4e5e283df7848935b69bcecb21b01802",
+    "wof:geomhash":"e0121536b5f87f92badd132490739cb3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404333201,
-    "wof:lastmodified":1582361781,
+    "wof:lastmodified":1684352275,
     "wof:name":"Cirat",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":206,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

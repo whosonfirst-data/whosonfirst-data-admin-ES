@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43097,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43097",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nou de Gai\u00e0, La",
+    "eurostat:nuts_2021_id":"43097",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43097",
+    "eurostat:population":600,
+    "eurostat:population_year":2020,
     "geom:area":0.000462,
-    "geom:area_square_m":4303531.619512,
+    "geom:area_square_m":4303570.16401,
     "geom:bbox":"1.364707,41.170783,1.396668,41.203552",
     "geom:latitude":41.185769,
     "geom:longitude":1.379208,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43097",
         "esp-icgc:la_lc":"043097",
+        "eurostat:nuts_2021_id":"43097",
         "gn:id":6361339,
         "gp:id":12694234,
         "qs_pg:id":955127
@@ -67,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"43060b4c90f9cc5fff8236a6950ee92a",
+    "wof:geomhash":"92d7215364e294bb82f64ad2cc4bfe31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404343609,
-    "wof:lastmodified":1669903070,
+    "wof:lastmodified":1684352458,
     "wof:name":"La Nou de Gai\u00e0",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":600,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

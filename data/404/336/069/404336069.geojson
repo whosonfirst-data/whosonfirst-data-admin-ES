@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19331",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Yunquera de Henares",
+    "eurostat:nuts_2021_id":"19331",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19331",
+    "eurostat:population":4205,
+    "eurostat:population_year":2020,
     "geom:area":0.003329,
     "geom:area_square_m":31183992.5408,
     "geom:bbox":"-3.22457863,40.72345654,-3.13242405,40.78568721",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19331",
+        "eurostat:nuts_2021_id":"19331",
         "gn:id":6358087,
         "gp:id":12690918,
         "qs_pg:id":905988
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"46ea3a1c1a429029ca32fcb50c5522d4",
+    "wof:geomhash":"aeafe69116e874a6b75e5f5669017558",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404336069,
-    "wof:lastmodified":1582361475,
+    "wof:lastmodified":1684352333,
     "wof:name":"Yunquera De Henares",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":4205,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

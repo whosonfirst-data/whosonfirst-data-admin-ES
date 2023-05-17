@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24171",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trabadelo",
+    "eurostat:nuts_2021_id":"24171",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24171",
+    "eurostat:population":333,
+    "eurostat:population_year":2020,
     "geom:area":0.00765,
-    "geom:area_square_m":69580459.788378,
+    "geom:area_square_m":69580459.788382,
     "geom:bbox":"-6.94038152,42.59694521,-6.80516475,42.71325931",
     "geom:latitude":42.647256,
     "geom:longitude":-6.874328,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_24171",
+        "eurostat:nuts_2021_id":"24171",
         "gn:id":6358706,
         "gp:id":12691904,
         "qs_pg:id":241604
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e4c8fd628f0fac5d323a7a39552257cf",
+    "wof:geomhash":"845b44b7f3957f1e58469ab32c5cb383",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404337495,
-    "wof:lastmodified":1582361573,
+    "wof:lastmodified":1684352353,
     "wof:name":"Trabadelo",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":333,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

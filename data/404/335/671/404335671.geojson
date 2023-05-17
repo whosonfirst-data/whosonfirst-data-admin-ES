@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19129",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gascue\u00f1a de Bornova",
+    "eurostat:nuts_2021_id":"19129",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19129",
+    "eurostat:population":29,
+    "eurostat:population_year":2020,
     "geom:area":0.002844,
-    "geom:area_square_m":26482742.904222,
+    "geom:area_square_m":26482742.904223,
     "geom:bbox":"-3.04654882,41.11176134,-2.97179614,41.16559162",
     "geom:latitude":41.14064,
     "geom:longitude":-3.009116,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19129",
+        "eurostat:nuts_2021_id":"19129",
         "gn:id":6357911,
         "gp:id":12690741,
         "qs_pg:id":1147176
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d52c781db14d5ada0a47b08c7597e1ee",
+    "wof:geomhash":"6ff0f87cb2106d80e3de94413b6ab8f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404335671,
-    "wof:lastmodified":1582361706,
+    "wof:lastmodified":1684352328,
     "wof:name":"Gascue\u00f1a De Bornova",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":29,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

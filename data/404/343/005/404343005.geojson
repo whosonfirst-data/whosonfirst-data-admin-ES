@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aldehuelas, Las",
+    "eurostat:nuts_2021_id":"42014",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42014",
+    "eurostat:population":60,
+    "eurostat:population_year":2020,
     "geom:area":0.004107,
     "geom:area_square_m":37735473.156105,
     "geom:bbox":"-2.42422144,41.96488309,-2.32682138,42.04241739",
@@ -201,6 +213,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -209,6 +223,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42014",
+        "eurostat:nuts_2021_id":"42014",
         "gn:id":3119039,
         "gp:id":12692731,
         "qs_pg:id":954938
@@ -217,7 +233,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"47e1e2f87dfab409e50b8ca5fe8c7bdc",
+    "wof:geomhash":"b5695d9c4198ade9f8b7c37d05f2261e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -228,10 +244,12 @@
         }
     ],
     "wof:id":404343005,
-    "wof:lastmodified":1582361891,
+    "wof:lastmodified":1684352446,
     "wof:name":"Las Aldehuelas",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":60,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

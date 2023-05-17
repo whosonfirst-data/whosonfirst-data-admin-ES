@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03092",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Muro de Alcoy",
+    "eurostat:nuts_2021_id":"03092",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03092",
+    "eurostat:population":9315,
+    "eurostat:population_year":2020,
     "geom:area":0.003136,
-    "geom:area_square_m":30223022.697278,
+    "geom:area_square_m":30223022.697277,
     "geom:bbox":"-0.49452566,38.75913988,-0.40263916,38.82642277",
     "geom:latitude":38.788715,
     "geom:longitude":-0.446125,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03092",
+        "eurostat:nuts_2021_id":"03092",
         "gn:id":6355467,
         "gp:id":12695355,
         "qs_pg:id":213878
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"346ca0aabd7047e0159ec10782a7db3b",
+    "wof:geomhash":"60f074276ca8ac2aea0a4e472faedac6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404329457,
-    "wof:lastmodified":1582361801,
+    "wof:lastmodified":1684352210,
     "wof:name":"Muro De Alcoy",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":9315,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

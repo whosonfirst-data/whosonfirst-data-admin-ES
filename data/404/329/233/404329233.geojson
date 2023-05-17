@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_02080",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villapalacios",
+    "eurostat:nuts_2021_id":"02080",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES421",
+    "eurostat:nuts_2021_level_lau":"02080",
+    "eurostat:population":583,
+    "eurostat:population_year":2020,
     "geom:area":0.009044,
-    "geom:area_square_m":87421136.619104,
+    "geom:area_square_m":87421136.619105,
     "geom:bbox":"-2.73026503,38.53432945,-2.55976321,38.61941928",
     "geom:latitude":38.579451,
     "geom:longitude":-2.640872,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_02080",
+        "eurostat:nuts_2021_id":"02080",
         "gn:id":6355370,
         "gp:id":12690291,
         "qs_pg:id":1009373
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ce6ce682eaec1cdde079af7a306fc874",
+    "wof:geomhash":"d4db1630c4b3651ddc699eb1103fbf40",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404329233,
-    "wof:lastmodified":1582361793,
+    "wof:lastmodified":1684352206,
     "wof:name":"Villapalacios",
     "wof:parent_id":85682621,
     "wof:placetype":"localadmin",
+    "wof:population":583,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

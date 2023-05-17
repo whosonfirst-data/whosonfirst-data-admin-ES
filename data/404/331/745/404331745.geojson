@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09070",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carazo",
+    "eurostat:nuts_2021_id":"09070",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09070",
+    "eurostat:population":30,
+    "eurostat:population_year":2020,
     "geom:area":0.00261,
-    "geom:area_square_m":23996536.291538,
+    "geom:area_square_m":23996648.232051,
     "geom:bbox":"-3.393171,41.93568,-3.306813,41.991091",
     "geom:latitude":41.961645,
     "geom:longitude":-3.35335,
@@ -63,6 +75,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -71,6 +85,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09070",
+        "eurostat:nuts_2021_id":"09070",
         "gn:id":6356387,
         "gp:id":12691433,
         "qs_pg:id":241601
@@ -79,7 +95,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"76cf2b09d869aa212d205ae9655709eb",
+    "wof:geomhash":"65658652efc3e8fa13c0fd9727ec7384",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,10 +106,12 @@
         }
     ],
     "wof:id":404331745,
-    "wof:lastmodified":1636503318,
+    "wof:lastmodified":1684352258,
     "wof:name":"Carazo",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":30,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

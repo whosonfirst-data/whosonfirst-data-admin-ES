@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43090,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43090",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montmell, El",
+    "eurostat:nuts_2021_id":"43090",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43090",
+    "eurostat:population":1582,
+    "eurostat:population_year":2020,
     "geom:area":0.00781,
-    "geom:area_square_m":72516169.733813,
+    "geom:area_square_m":72516169.73381,
     "geom:bbox":"1.39897227334,41.2860627774,1.57886445263,41.3853430329",
     "geom:latitude":41.33153,
     "geom:longitude":1.487091,
@@ -115,6 +127,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -123,7 +137,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43090",
         "esp-icgc:la_lc":"043090",
+        "eurostat:nuts_2021_id":"43090",
         "gn:id":6361332,
         "gp:id":12694229,
         "qs_pg:id":1164414
@@ -133,7 +149,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"2eed6c3b6b253e9d7cf3b677a7198a35",
+    "wof:geomhash":"a6f9ba5f2d70ccc822b50e2e5e0c4954",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404343593,
-    "wof:lastmodified":1582361862,
+    "wof:lastmodified":1684352457,
     "wof:name":"El Montmell",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":1582,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40148",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nieva",
+    "eurostat:nuts_2021_id":"40148",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40148",
+    "eurostat:population":263,
+    "eurostat:population_year":2020,
     "geom:area":0.003624,
-    "geom:area_square_m":33770341.540167,
+    "geom:area_square_m":33770341.540165,
     "geom:bbox":"-4.50233795,41.06339522,-4.40414231,41.14230435",
     "geom:latitude":41.090715,
     "geom:longitude":-4.447532,
@@ -42,6 +54,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -50,6 +64,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_40148",
+        "eurostat:nuts_2021_id":"40148",
         "gn:id":6360874,
         "gp:id":12692643,
         "qs_pg:id":910899
@@ -58,7 +74,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b36e3d946e61d29e104ad1d9a11fe1d4",
+    "wof:geomhash":"ed490d0fb00a9ab490c390bb960f2ece",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +85,12 @@
         }
     ],
     "wof:id":404342557,
-    "wof:lastmodified":1582361806,
+    "wof:lastmodified":1684352440,
     "wof:name":"Nieva",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":263,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

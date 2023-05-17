@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06130",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tamurejo",
+    "eurostat:nuts_2021_id":"06130",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06130",
+    "eurostat:population":212,
+    "eurostat:population_year":2020,
     "geom:area":0.003089,
-    "geom:area_square_m":29684773.051245,
+    "geom:area_square_m":29684773.051243,
     "geom:bbox":"-4.98535321,38.93893799,-4.91822121,39.05872671",
     "geom:latitude":38.989701,
     "geom:longitude":-4.954356,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06130",
+        "eurostat:nuts_2021_id":"06130",
         "gn:id":6355995,
         "gp:id":12694449,
         "qs_pg:id":47914
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"40fb2fb23e240fa2aed69575764cfcf7",
+    "wof:geomhash":"30254ac70aa95aaf1aefcbf62808d30e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404330649,
-    "wof:lastmodified":1582361536,
+    "wof:lastmodified":1684352227,
     "wof:name":"Tamurejo",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":212,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arens de Lled\u00f3",
+    "eurostat:nuts_2021_id":"44027",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44027",
+    "eurostat:population":205,
+    "eurostat:population_year":2020,
     "geom:area":0.003667,
     "geom:area_square_m":34227877.41386,
     "geom:bbox":"0.20943926,40.94893378,0.28232483,41.04142635",
@@ -36,6 +48,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -44,6 +58,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44027",
+        "eurostat:nuts_2021_id":"44027",
         "gn:id":6361452,
         "gp:id":12689623,
         "qs_pg:id":977299
@@ -52,7 +68,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"810cd59efe55f0dcf14d9b267f30df9d",
+    "wof:geomhash":"75603aad930e20e9de1497e2a51109c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +79,12 @@
         }
     ],
     "wof:id":404343865,
-    "wof:lastmodified":1582361890,
+    "wof:lastmodified":1684352467,
     "wof:name":"Arens De Lled\u00f3",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":205,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

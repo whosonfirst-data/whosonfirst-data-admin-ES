@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Almohaja",
+    "eurostat:nuts_2021_id":"44018",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44018",
+    "eurostat:population":14,
+    "eurostat:population_year":2020,
     "geom:area":0.002719,
-    "geom:area_square_m":25525846.162715,
+    "geom:area_square_m":25525846.162713,
     "geom:bbox":"-1.47271542,40.57974366,-1.40026229,40.64010061",
     "geom:latitude":40.607246,
     "geom:longitude":-1.435081,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44018",
+        "eurostat:nuts_2021_id":"44018",
         "gn:id":6361443,
         "gp:id":12689617,
         "qs_pg:id":45402
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bb51943f069c6e9af73255d2ae2b0a0c",
+    "wof:geomhash":"64459a270581503279df218f21e039de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404343845,
-    "wof:lastmodified":1582361867,
+    "wof:lastmodified":1684352466,
     "wof:name":"Almohaja",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":14,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

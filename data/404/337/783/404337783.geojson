@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25079,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25079",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cubells",
+    "eurostat:nuts_2021_id":"25079",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25079",
+    "eurostat:population":338,
+    "eurostat:population_year":2020,
     "geom:area":0.004234,
-    "geom:area_square_m":39001390.495245,
+    "geom:area_square_m":39001223.432999,
     "geom:bbox":"0.914465,41.780038,1.006612,41.875139",
     "geom:latitude":41.83787,
     "geom:longitude":0.961176,
@@ -115,6 +127,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -123,7 +137,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25079",
         "esp-icgc:la_lc":"025079",
+        "eurostat:nuts_2021_id":"25079",
         "gn:id":6358833,
         "gp:id":12693979,
         "qs_pg:id":1174204
@@ -133,7 +149,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"af8f2c5dedf1bff53f613c78c96fbac9",
+    "wof:geomhash":"3bf8b1907ad20412fa639793aa1d1eea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404337783,
-    "wof:lastmodified":1669903024,
+    "wof:lastmodified":1684352360,
     "wof:name":"Cubells",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":338,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

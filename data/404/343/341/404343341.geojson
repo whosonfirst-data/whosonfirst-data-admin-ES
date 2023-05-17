@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42192",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valdege\u00f1a",
+    "eurostat:nuts_2021_id":"42192",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42192",
+    "eurostat:population":34,
+    "eurostat:population_year":2020,
     "geom:area":0.001441,
-    "geom:area_square_m":13280551.898617,
+    "geom:area_square_m":13280551.898618,
     "geom:bbox":"-2.18548958,41.79096698,-2.13755635,41.85376567",
     "geom:latitude":41.823098,
     "geom:longitude":-2.164716,
@@ -174,6 +186,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -181,9 +195,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_42192",
+        "eurostat:nuts_2021_id":"42192"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"7cb413cd5b054d9b1ef711c7afa5b95f",
+    "wof:geomhash":"c1eb05fa431a4c1b73d6a2d0886c283c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -194,10 +211,12 @@
         }
     ],
     "wof:id":404343341,
-    "wof:lastmodified":1566591180,
+    "wof:lastmodified":1684352450,
     "wof:name":"Valdege\u00f1a",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":34,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

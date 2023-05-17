@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_21028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cumbres de San Bartolom\u00e9",
+    "eurostat:nuts_2021_id":"21028",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES615",
+    "eurostat:nuts_2021_level_lau":"21028",
+    "eurostat:population":376,
+    "eurostat:population_year":2020,
     "geom:area":0.014841,
-    "geom:area_square_m":144498828.133729,
+    "geom:area_square_m":144498828.133735,
     "geom:bbox":"-6.88571242,37.99440138,-6.70757143,38.12471439",
     "geom:latitude":38.058194,
     "geom:longitude":-6.798241,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_21028",
+        "eurostat:nuts_2021_id":"21028",
         "gn:id":6358204,
         "gp:id":12689043,
         "qs_pg:id":258958
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"95ef1d7cb97b1cddc351e773dc282fcd",
+    "wof:geomhash":"adfd9a670b67f1489322d6cf159f503b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404336343,
-    "wof:lastmodified":1582361479,
+    "wof:lastmodified":1684352337,
     "wof:name":"Cumbres De San Bartolom\u00e9",
     "wof:parent_id":85682749,
     "wof:placetype":"localadmin",
+    "wof:population":376,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

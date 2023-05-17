@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43042,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castellvell del Camp",
+    "eurostat:nuts_2021_id":"43042",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43042",
+    "eurostat:population":2828,
+    "eurostat:population_year":2020,
     "geom:area":0.000555,
-    "geom:area_square_m":5165673.91853,
+    "geom:area_square_m":5165686.663662,
     "geom:bbox":"1.076182,41.172153,1.109024,41.204081",
     "geom:latitude":41.18874,
     "geom:longitude":1.090958,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43042",
         "esp-icgc:la_lc":"043042",
+        "eurostat:nuts_2021_id":"43042",
         "gn:id":6361285,
         "gp:id":12694181,
         "qs_pg:id":907185
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"3efde30708cb2256742bc8cf8aeeeab8",
+    "wof:geomhash":"f380b16a1e55bb81b7c8d968c5f96a5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404343487,
-    "wof:lastmodified":1669903068,
+    "wof:lastmodified":1684352454,
     "wof:name":"Castellvell del Camp",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":2828,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

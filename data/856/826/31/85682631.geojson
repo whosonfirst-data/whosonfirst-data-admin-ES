@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"1",
+    "eurostat:country_code":"ES",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"2",
+    "eurostat:name_latin":"Almer\u00eda",
+    "eurostat:name_local":"Almer\u00eda",
+    "eurostat:nuts_2021_id":"ES611",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:population":724031,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"2",
     "geom:area":0.890408,
-    "geom:area_square_m":8770197581.653156,
+    "geom:area_square_m":8770196907.542185,
     "geom:bbox":"-3.140187,35.937615,-1.630124,37.91657",
     "geom:latitude":37.196114,
     "geom:longitude":-2.344825,
@@ -268,6 +282,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "unlc:subdivision":"ES-AL",
     "wof:belongsto":[
         102191581,
@@ -277,6 +293,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":11452,
+        "eurostat:nuts_2021_id":"ES611",
         "fips:code":"SP80",
         "gn:id":2521883,
         "gp:id":12602095,
@@ -284,7 +301,7 @@
         "unlc:id":"ES-AL"
     },
     "wof:country":"ES",
-    "wof:geomhash":"536e518686013e77db825f8981c2d9b7",
+    "wof:geomhash":"20e90fe66e65176fab7a7ec138c03da3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -304,10 +321,12 @@
         "eus",
         "ast"
     ],
-    "wof:lastmodified":1583882733,
+    "wof:lastmodified":1684351536,
     "wof:name":"Almeria",
     "wof:parent_id":404227361,
     "wof:placetype":"region",
+    "wof:population":724031,
+    "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:shortcode":"AN",
     "wof:subdivision":"ES-AL",

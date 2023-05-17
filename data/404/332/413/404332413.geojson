@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09432",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villafruela",
+    "eurostat:nuts_2021_id":"09432",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09432",
+    "eurostat:population":176,
+    "eurostat:population_year":2020,
     "geom:area":0.005645,
-    "geom:area_square_m":51935188.533499,
+    "geom:area_square_m":51935188.533498,
     "geom:bbox":"-3.98458297,41.8890587,-3.87674488,41.9604515",
     "geom:latitude":41.921388,
     "geom:longitude":-3.927016,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09432",
+        "eurostat:nuts_2021_id":"09432",
         "gn:id":6356656,
         "gp:id":12691708,
         "qs_pg:id":1188477
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b07527e3ab40e0ea4267f3a7c8fcd3bc",
+    "wof:geomhash":"e5d61263305bb2ef5c6a914f498415fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404332413,
-    "wof:lastmodified":1582361679,
+    "wof:lastmodified":1684352264,
     "wof:name":"Villafruela",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":176,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8247,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08247",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Eul\u00e0lia de Riuprimer",
+    "eurostat:nuts_2021_id":"08247",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08247",
+    "eurostat:population":1383,
+    "eurostat:population_year":2020,
     "geom:area":0.001508,
-    "geom:area_square_m":13880343.365714,
+    "geom:area_square_m":13880323.117742,
     "geom:bbox":"2.137894,41.893379,2.219363,41.932404",
     "geom:latitude":41.912571,
     "geom:longitude":2.173604,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08247",
         "esp-icgc:la_lc":"08247",
+        "eurostat:nuts_2021_id":"08247",
         "gn:id":6356268,
         "gp:id":12693627,
         "qs_pg:id":1001504
@@ -67,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"550ab74399e53be4a63385baa9529a10",
+    "wof:geomhash":"bc0ad6e1be71445bc32970fc90987901",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404331429,
-    "wof:lastmodified":1669903009,
+    "wof:lastmodified":1684352251,
     "wof:name":"Santa Eul\u00e0lia de Riuprimer",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":1383,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

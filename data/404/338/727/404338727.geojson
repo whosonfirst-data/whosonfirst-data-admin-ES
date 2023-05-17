@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Belmonte de Tajo",
+    "eurostat:nuts_2021_id":"28019",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28019",
+    "eurostat:population":1683,
+    "eurostat:population_year":2020,
     "geom:area":0.002545,
     "geom:area_square_m":24062374.874935,
     "geom:bbox":"-3.37770161,40.09797806,-3.29661553,40.1779844",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28019",
+        "eurostat:nuts_2021_id":"28019",
         "gn:id":6359245,
         "gp:id":12687964,
         "qs_pg:id":1321622
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"facf2479469bb5f9b13f142266b943e7",
+    "wof:geomhash":"e2a4d074adf7d9b1d9545575bfe7c0d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404338727,
-    "wof:lastmodified":1582361457,
+    "wof:lastmodified":1684352380,
     "wof:name":"Belmonte De Tajo",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":1683,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

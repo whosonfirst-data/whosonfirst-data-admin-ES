@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45116",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Noez",
+    "eurostat:nuts_2021_id":"45116",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45116",
+    "eurostat:population":861,
+    "eurostat:population_year":2020,
     "geom:area":0.003595,
-    "geom:area_square_m":34187720.490926,
+    "geom:area_square_m":34187720.490924,
     "geom:bbox":"-4.21399137,39.70738123,-4.10894149,39.76432081",
     "geom:latitude":39.735883,
     "geom:longitude":-4.164516,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45116",
+        "eurostat:nuts_2021_id":"45116",
         "gn:id":6361776,
         "gp:id":12691037,
         "qs_pg:id":46075
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c902bb7d70e11c9487607f92ccf25ff0",
+    "wof:geomhash":"5bacc005d232d0d5bd5a4d446d983288",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404344599,
-    "wof:lastmodified":1582361852,
+    "wof:lastmodified":1684352476,
     "wof:name":"Noez",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":861,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

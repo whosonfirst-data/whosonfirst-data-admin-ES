@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Agallas",
+    "eurostat:nuts_2021_id":"37002",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37002",
+    "eurostat:population":132,
+    "eurostat:population_year":2020,
     "geom:area":0.004734,
-    "geom:area_square_m":44562327.632567,
+    "geom:area_square_m":44562327.632569,
     "geom:bbox":"-6.48391205,40.37085435,-6.36145366,40.47347441",
     "geom:latitude":40.422898,
     "geom:longitude":-6.421706,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37002",
+        "eurostat:nuts_2021_id":"37002",
         "gn:id":6360260,
         "gp:id":12692151,
         "qs_pg:id":259209
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bb7cd569e70de3bc59999ec1b5afdf4d",
+    "wof:geomhash":"751d2fdc8821b89e79413bb48d08b5b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404341105,
-    "wof:lastmodified":1582361624,
+    "wof:lastmodified":1684352420,
     "wof:name":"Agallas",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":132,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

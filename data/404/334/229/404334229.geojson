@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hontecillas",
+    "eurostat:nuts_2021_id":"16104",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16104",
+    "eurostat:population":56,
+    "eurostat:population_year":2020,
     "geom:area":0.003644,
-    "geom:area_square_m":34671175.331462,
+    "geom:area_square_m":34671175.331461,
     "geom:bbox":"-2.23656136,39.64793026,-2.12159434,39.72525402",
     "geom:latitude":39.691595,
     "geom:longitude":-2.18672,
@@ -96,6 +108,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -103,9 +117,12 @@
         404227375
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_16104",
+        "eurostat:nuts_2021_id":"16104"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"e8538576adfaad1c3af79c0a7ea588e3",
+    "wof:geomhash":"77c4f25116bf72efa57868ce85f0f065",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +133,12 @@
         }
     ],
     "wof:id":404334229,
-    "wof:lastmodified":1566590636,
+    "wof:lastmodified":1684352295,
     "wof:name":"Hontecillas",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":56,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

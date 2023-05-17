@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43001,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aiguam\u00farcia",
+    "eurostat:nuts_2021_id":"43001",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43001",
+    "eurostat:population":930,
+    "eurostat:population_year":2020,
     "geom:area":0.007825,
-    "geom:area_square_m":72624548.145161,
+    "geom:area_square_m":72624413.638016,
     "geom:bbox":"1.33761,41.318996,1.537017,41.405839",
     "geom:latitude":41.362868,
     "geom:longitude":1.424075,
@@ -124,6 +136,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -132,7 +146,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43001",
         "esp-icgc:la_lc":"043001",
+        "eurostat:nuts_2021_id":"43001",
         "gn:id":6361244,
         "gp:id":12694137,
         "qs_pg:id":418340
@@ -142,7 +158,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3f3ece37b9b0ce2414fe6bf1937274f0",
+    "wof:geomhash":"adf944f89a1e5ec4152018f505adf5c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,10 +169,12 @@
         }
     ],
     "wof:id":404343395,
-    "wof:lastmodified":1669903064,
+    "wof:lastmodified":1684352450,
     "wof:name":"Aiguam\u00farcia",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":930,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

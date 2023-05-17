@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Adra",
+    "eurostat:nuts_2021_id":"04003",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04003",
+    "eurostat:population":25412,
+    "eurostat:population_year":2020,
     "geom:area":0.009053,
-    "geom:area_square_m":89671209.453195,
+    "geom:area_square_m":89671209.453196,
     "geom:bbox":"-3.14018737,36.73832713,-2.93019836,36.82468388",
     "geom:latitude":36.772227,
     "geom:longitude":-3.050548,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_04003",
+        "eurostat:nuts_2021_id":"04003",
         "gn:id":6355520,
         "gp:id":12688626,
         "qs_pg:id":1102452
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3d3c93b1f121b1072bcd753b891e5afa",
+    "wof:geomhash":"071d3cfb65042f7eec9923e3e21aed6f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404329575,
-    "wof:lastmodified":1582361793,
+    "wof:lastmodified":1684352212,
     "wof:name":"Adra",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":25412,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

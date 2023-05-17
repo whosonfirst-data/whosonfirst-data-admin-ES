@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_20058",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Olaberria",
+    "eurostat:nuts_2021_id":"20058",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES212",
+    "eurostat:nuts_2021_level_lau":"20058",
+    "eurostat:population":957,
+    "eurostat:population_year":2020,
     "geom:area":0.000764,
-    "geom:area_square_m":6907292.976811,
+    "geom:area_square_m":6907292.976812,
     "geom:bbox":"-2.22153595,43.00141688,-2.19026787,43.04318794",
     "geom:latitude":43.024245,
     "geom:longitude":-2.206721,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_20058",
+        "eurostat:nuts_2021_id":"20058",
         "gn:id":6358147,
         "gp:id":12695131,
         "qs_pg:id":103378
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"24997c6206040c9cdae365b45fe79af0",
+    "wof:geomhash":"d100b78858513066e317cf98851bdc1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404336213,
-    "wof:lastmodified":1582361473,
+    "wof:lastmodified":1684352335,
     "wof:name":"Olaberria",
     "wof:parent_id":85682741,
     "wof:placetype":"localadmin",
+    "wof:population":957,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

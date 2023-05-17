@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05082",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gavilanes",
+    "eurostat:nuts_2021_id":"05082",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05082",
+    "eurostat:population":563,
+    "eurostat:population_year":2020,
     "geom:area":0.003087,
     "geom:area_square_m":29128161.026261,
     "geom:bbox":"-4.90918074,40.209039,-4.83541078,40.3136944",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05082",
+        "eurostat:nuts_2021_id":"05082",
         "gn:id":6355688,
         "gp:id":12691197,
         "qs_pg:id":200128
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"082b8897a92ad70af17a9487c50469e3",
+    "wof:geomhash":"9ac77cb743ad40c43fee83a989769bd2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404329955,
-    "wof:lastmodified":1582361789,
+    "wof:lastmodified":1684352217,
     "wof:name":"Gavilanes",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":563,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

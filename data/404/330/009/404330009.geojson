@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05108",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Junciana",
+    "eurostat:nuts_2021_id":"05108",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05108",
+    "eurostat:population":35,
+    "eurostat:population_year":2020,
     "geom:area":0.001593,
     "geom:area_square_m":15001126.62898,
     "geom:bbox":"-5.58309735,40.37910756,-5.54475311,40.4483636",
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05108",
+        "eurostat:nuts_2021_id":"05108",
         "gn:id":6355712,
         "gp:id":12691221,
         "qs_pg:id":46150
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5c84c7652d3c017cdb64c7cfc1d876ea",
+    "wof:geomhash":"b7f2a7aca532413d63901a0272ac4aca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404330009,
-    "wof:lastmodified":1582361526,
+    "wof:lastmodified":1684352218,
     "wof:name":"Junciana",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":35,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

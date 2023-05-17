@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bri\u00f3n",
+    "eurostat:nuts_2021_id":"15013",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15013",
+    "eurostat:population":7923,
+    "eurostat:population_year":2020,
     "geom:area":0.008249,
-    "geom:area_square_m":74773971.396696,
+    "geom:area_square_m":74773971.396697,
     "geom:bbox":"-8.83103424,42.80666993,-8.62550284,42.9029769",
     "geom:latitude":42.851673,
     "geom:longitude":-8.720943,
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_15013",
+        "eurostat:nuts_2021_id":"15013",
         "gn:id":6357283,
         "gp:id":12694714,
         "qs_pg:id":290501
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"56489bc67124bfb25077cf909a1db1b1",
+    "wof:geomhash":"2088650db68f983a842ec0e20cf312ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404333837,
-    "wof:lastmodified":1582361781,
+    "wof:lastmodified":1684352285,
     "wof:name":"Bri\u00f3n",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":7923,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

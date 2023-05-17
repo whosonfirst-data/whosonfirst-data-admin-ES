@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_29004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alfarnatejo",
+    "eurostat:nuts_2021_id":"29004",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES617",
+    "eurostat:nuts_2021_level_lau":"29004",
+    "eurostat:population":364,
+    "eurostat:population_year":2020,
     "geom:area":0.00206,
     "geom:area_square_m":20356024.099696,
     "geom:bbox":"-4.31081695,36.93470238,-4.21691129,36.98956188",
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_29004",
+        "eurostat:nuts_2021_id":"29004",
         "gn:id":6359409,
         "gp:id":12689193,
         "qs_pg:id":45168
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e449ec7e9f12e96d771b7cd91cc5705d",
+    "wof:geomhash":"42c059a707921b7c8754c4809977165a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404339099,
-    "wof:lastmodified":1582361586,
+    "wof:lastmodified":1684352388,
     "wof:name":"Alfarnatejo",
     "wof:parent_id":85682787,
     "wof:placetype":"localadmin",
+    "wof:population":364,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

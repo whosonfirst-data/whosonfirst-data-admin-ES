@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_41034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Coria del R\u00edo",
+    "eurostat:nuts_2021_id":"41034",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES618",
+    "eurostat:nuts_2021_level_lau":"41034",
+    "eurostat:population":30908,
+    "eurostat:population_year":2020,
     "geom:area":0.006295,
     "geom:area_square_m":61966743.816132,
     "geom:bbox":"-6.0860134,37.18194039,-5.98784143,37.30732088",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227361
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_41034",
+        "eurostat:nuts_2021_id":"41034"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"7f02829762ed3129d890e777ffb4d293",
+    "wof:geomhash":"491b4ae29109864c2c0d5e31ec463fe0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404342819,
-    "wof:lastmodified":1566590927,
+    "wof:lastmodified":1684352444,
     "wof:name":"Coria Del R\u00edo",
     "wof:parent_id":85682841,
     "wof:placetype":"localadmin",
+    "wof:population":30908,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25056,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25056",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bovera",
+    "eurostat:nuts_2021_id":"25056",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25056",
+    "eurostat:population":248,
+    "eurostat:population_year":2020,
     "geom:area":0.003572,
-    "geom:area_square_m":33176209.259117,
+    "geom:area_square_m":33175968.217477,
     "geom:bbox":"0.586502,41.290702,0.699705,41.34436",
     "geom:latitude":41.317271,
     "geom:longitude":0.638431,
@@ -112,6 +124,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -120,7 +134,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25056",
         "esp-icgc:la_lc":"025056",
+        "eurostat:nuts_2021_id":"25056",
         "gn:id":6358812,
         "gp:id":12693959,
         "qs_pg:id":1237029
@@ -130,7 +146,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"796b3b0b03dcad5a6c060b6a4a637087",
+    "wof:geomhash":"3a1f2ebbbab7f153582ff8bcfce611d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404337737,
-    "wof:lastmodified":1669903019,
+    "wof:lastmodified":1684352358,
     "wof:name":"Bovera",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":248,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

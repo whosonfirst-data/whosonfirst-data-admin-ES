@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16173",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valle de Altomira, El",
+    "eurostat:nuts_2021_id":"16173",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16173",
+    "eurostat:population":182,
+    "eurostat:population_year":2020,
     "geom:area":0.015601,
-    "geom:area_square_m":147253638.903162,
+    "geom:area_square_m":147253638.903163,
     "geom:bbox":"-2.82660724,40.14343638,-2.70571947,40.32869338",
     "geom:latitude":40.240581,
     "geom:longitude":-2.767681,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227375
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_16173",
+        "eurostat:nuts_2021_id":"16173"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"70ccd31769ab13ddb4f17b42123bf652",
+    "wof:geomhash":"b41c6a12322e3f2bf6bfe92867738b77",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404334363,
-    "wof:lastmodified":1566590635,
+    "wof:lastmodified":1684352296,
     "wof:name":"El Valle De Altomira",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":182,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

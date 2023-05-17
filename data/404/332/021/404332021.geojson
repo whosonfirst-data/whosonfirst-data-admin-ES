@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09219",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Miranda de Ebro",
+    "eurostat:nuts_2021_id":"09219",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09219",
+    "eurostat:population":35760,
+    "eurostat:population_year":2020,
     "geom:area":0.011128,
     "geom:area_square_m":101166743.191133,
     "geom:bbox":"-3.05566106,42.59410117,-2.85809313,42.74122833",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09219",
+        "eurostat:nuts_2021_id":"09219",
         "gn:id":6356497,
         "gp:id":12691546,
         "qs_pg:id":1311040
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2fb777e9f36469ba6dc6323da962fbb2",
+    "wof:geomhash":"90806377bfa131874c1c927cf06a9cc3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332021,
-    "wof:lastmodified":1582361688,
+    "wof:lastmodified":1684352260,
     "wof:name":"Miranda De Ebro",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":35760,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

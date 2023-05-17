@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_21060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Punta Umbr\u00eda",
+    "eurostat:nuts_2021_id":"21060",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES615",
+    "eurostat:nuts_2021_level_lau":"21060",
+    "eurostat:population":15355,
+    "eurostat:population_year":2020,
     "geom:area":0.003886,
-    "geom:area_square_m":38269297.251186,
+    "geom:area_square_m":38269297.251184,
     "geom:bbox":"-7.0803571,37.16390023,-6.94645039,37.25835965",
     "geom:latitude":37.216759,
     "geom:longitude":-7.017168,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_21060",
+        "eurostat:nuts_2021_id":"21060",
         "gn:id":6358236,
         "gp:id":12689074,
         "qs_pg:id":1095262
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"84d27d2beb83e45eb71fb897b53ba0b9",
+    "wof:geomhash":"5558e30eb0e4c31463135ae6e8b63230",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404336415,
-    "wof:lastmodified":1582361463,
+    "wof:lastmodified":1684352338,
     "wof:name":"Punta Umbr\u00eda",
     "wof:parent_id":85682749,
     "wof:placetype":"localadmin",
+    "wof:population":15355,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

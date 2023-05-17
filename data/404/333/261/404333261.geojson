@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12077",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Moncofa",
+    "eurostat:nuts_2021_id":"12077",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12077",
+    "eurostat:population":6707,
+    "eurostat:population_year":2020,
     "geom:area":0.00151,
-    "geom:area_square_m":14348975.117283,
+    "geom:area_square_m":14348975.117282,
     "geom:bbox":"-0.18141566,39.77017831,-0.12393736,39.82096486",
     "geom:latitude":39.79882,
     "geom:longitude":-0.152917,
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12077",
+        "eurostat:nuts_2021_id":"12077",
         "gn:id":6357028,
         "gp:id":12695476,
         "qs_pg:id":1198445
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3d2d18a4542f612870ca16d719cfed5d",
+    "wof:geomhash":"994597197cef99b24a5edc5748339979",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404333261,
-    "wof:lastmodified":1582361766,
+    "wof:lastmodified":1684352276,
     "wof:name":"Moncofa",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":6707,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

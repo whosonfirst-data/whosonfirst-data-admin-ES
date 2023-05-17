@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Anguita",
+    "eurostat:nuts_2021_id":"19032",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19032",
+    "eurostat:population":155,
+    "eurostat:population_year":2020,
     "geom:area":0.013616,
-    "geom:area_square_m":127063740.260901,
+    "geom:area_square_m":127063740.260904,
     "geom:bbox":"-2.43700515,40.91430931,-2.25215094,41.08645363",
     "geom:latitude":41.001712,
     "geom:longitude":-2.352434,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19032",
+        "eurostat:nuts_2021_id":"19032",
         "gn:id":6357830,
         "gp:id":12690660,
         "qs_pg:id":1147163
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d10a6e8442c277bca69796dc32a7f2fc",
+    "wof:geomhash":"07c525ed9db5445b106922a1e6bf138e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404335487,
-    "wof:lastmodified":1582361707,
+    "wof:lastmodified":1684352326,
     "wof:name":"Anguita",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":155,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12130",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villahermosa del R\u00edo",
+    "eurostat:nuts_2021_id":"12130",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12130",
+    "eurostat:population":484,
+    "eurostat:population_year":2020,
     "geom:area":0.011518,
-    "geom:area_square_m":108770859.256082,
+    "geom:area_square_m":108770859.25608,
     "geom:bbox":"-0.51349654,40.15782334,-0.33818943,40.26160808",
     "geom:latitude":40.205745,
     "geom:longitude":-0.423002,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12130",
+        "eurostat:nuts_2021_id":"12130",
         "gn:id":6357080,
         "gp:id":12695531,
         "qs_pg:id":400690
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"691e9bc425327c425e9cfaf9cc064f82",
+    "wof:geomhash":"5a01595158a477f97ef363d492fa5b2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404333377,
-    "wof:lastmodified":1582361769,
+    "wof:lastmodified":1684352278,
     "wof:name":"Villahermosa Del R\u00edo",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":484,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

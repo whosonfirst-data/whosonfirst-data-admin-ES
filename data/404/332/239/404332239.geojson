@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09337",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Juan del Monte",
+    "eurostat:nuts_2021_id":"09337",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09337",
+    "eurostat:population":149,
+    "eurostat:population_year":2020,
     "geom:area":0.002865,
-    "geom:area_square_m":26460547.468993,
+    "geom:area_square_m":26460547.468992,
     "geom:bbox":"-3.54591271,41.63779114,-3.49786907,41.73836247",
     "geom:latitude":41.684191,
     "geom:longitude":-3.516977,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09337",
+        "eurostat:nuts_2021_id":"09337",
         "gn:id":6356583,
         "gp:id":12691633,
         "qs_pg:id":1129955
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"63c8513c4366699646bba2ae6cf53bb4",
+    "wof:geomhash":"fec8b8f45d3049f2cc996b952f394fcd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332239,
-    "wof:lastmodified":1582361689,
+    "wof:lastmodified":1684352262,
     "wof:name":"San Juan Del Monte",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":149,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40171",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ribota",
+    "eurostat:nuts_2021_id":"40171",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40171",
+    "eurostat:population":47,
+    "eurostat:population_year":2020,
     "geom:area":0.002327,
     "geom:area_square_m":21603269.58839,
     "geom:bbox":"-3.45553032,41.31618543,-3.39017384,41.3803178",
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_40171",
+        "eurostat:nuts_2021_id":"40171",
         "gn:id":6360894,
         "gp:id":12692664,
         "qs_pg:id":1148795
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"39ff58a9273a8b0e102c6d95f98b4a57",
+    "wof:geomhash":"8e00e86227ffe3b3afb8c1830efdff80",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404342605,
-    "wof:lastmodified":1582361810,
+    "wof:lastmodified":1684352441,
     "wof:name":"Ribota",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":47,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

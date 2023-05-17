@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17082,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17082",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Guils de Cerdanya",
+    "eurostat:nuts_2021_id":"17082",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17082",
+    "eurostat:population":549,
+    "eurostat:population_year":2020,
     "geom:area":0.002409,
-    "geom:area_square_m":21982463.203093,
+    "geom:area_square_m":21982394.04808,
     "geom:bbox":"1.762017,42.420003,1.917826,42.490211",
     "geom:latitude":42.451373,
     "geom:longitude":1.867442,
@@ -71,6 +83,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -79,7 +93,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17082",
         "esp-icgc:la_lc":"017082",
+        "eurostat:nuts_2021_id":"17082",
         "gn:id":6357607,
         "gp:id":12693763,
         "qs_pg:id":1003879
@@ -89,7 +105,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f908b35c14eb7dc1a8f5492ca41c0740",
+    "wof:geomhash":"2e58d514b5f1a18422b26cfa040b1fa3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,10 +116,12 @@
         }
     ],
     "wof:id":404334727,
-    "wof:lastmodified":1669903056,
+    "wof:lastmodified":1684352306,
     "wof:name":"Guils de Cerdanya",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":549,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

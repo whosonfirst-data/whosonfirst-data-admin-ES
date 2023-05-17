@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alberguer\u00eda de Arga\u00f1\u00e1n, La",
+    "eurostat:nuts_2021_id":"37011",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37011",
+    "eurostat:population":106,
+    "eurostat:population_year":2020,
     "geom:area":0.00319,
-    "geom:area_square_m":30028951.534621,
+    "geom:area_square_m":30028951.53462,
     "geom:bbox":"-6.84500256,40.37894407,-6.76782654,40.44523714",
     "geom:latitude":40.418016,
     "geom:longitude":-6.80635,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37011",
+        "eurostat:nuts_2021_id":"37011",
         "gn:id":6360269,
         "qs_pg:id":621813
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"eec907879e573a4101a1d65c46e9ada3",
+    "wof:geomhash":"8637fc44db9d9705a8dc190c2d165f1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404341125,
-    "wof:lastmodified":1582361642,
+    "wof:lastmodified":1684352421,
     "wof:name":"La Alberguer\u00eda De Arga\u00f1\u00e1n",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":106,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

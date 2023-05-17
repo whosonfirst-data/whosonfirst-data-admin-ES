@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09351",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Mar\u00eda del Invierno",
+    "eurostat:nuts_2021_id":"09351",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09351",
+    "eurostat:population":63,
+    "eurostat:population_year":2020,
     "geom:area":0.00177,
-    "geom:area_square_m":16154894.168254,
+    "geom:area_square_m":16154894.168255,
     "geom:bbox":"-3.47079852,42.40231842,-3.40166011,42.45895668",
     "geom:latitude":42.43619,
     "geom:longitude":-3.434579,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09351",
+        "eurostat:nuts_2021_id":"09351",
         "gn:id":6356593,
         "gp:id":12691644,
         "qs_pg:id":253012
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6c5751ea70e9867eb1d011b392cc8bd0",
+    "wof:geomhash":"41e5ab3c7751d20abd9a3fc23aff1e94",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332265,
-    "wof:lastmodified":1582361689,
+    "wof:lastmodified":1684352262,
     "wof:name":"Santa Mar\u00eda Del Invierno",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":63,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

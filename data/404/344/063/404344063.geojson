@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44129",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jatiel",
+    "eurostat:nuts_2021_id":"44129",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44129",
+    "eurostat:population":39,
+    "eurostat:population_year":2020,
     "geom:area":0.001165,
     "geom:area_square_m":10830496.213309,
     "geom:bbox":"-0.43038257,41.2079005,-0.37067817,41.2707621",
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44129",
+        "eurostat:nuts_2021_id":"44129",
         "gn:id":6361540,
         "gp:id":12689711,
         "qs_pg:id":496890
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4f70ddf5eef31dad0219b7b668301a49",
+    "wof:geomhash":"5a223ddd8f2a950dde4abf6cdf26d546",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404344063,
-    "wof:lastmodified":1582361849,
+    "wof:lastmodified":1684352469,
     "wof:name":"Jatiel",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":39,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

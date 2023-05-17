@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_01042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Okondo",
+    "eurostat:nuts_2021_id":"01042",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES211",
+    "eurostat:nuts_2021_level_lau":"01042",
+    "eurostat:population":1203,
+    "eurostat:population_year":2020,
     "geom:area":0.00331,
     "geom:area_square_m":29848224.173071,
     "geom:bbox":"-3.07470908,43.13381519,-2.97302266,43.21696904",
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_01042",
+        "eurostat:nuts_2021_id":"01042",
         "gn:id":3115024,
         "gp:id":12695048,
         "qs_pg:id":204821
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"413f5cff61e8ad2b42709cf6007cac58",
+    "wof:geomhash":"58d6d0746bd49914b65662b4778f5bcc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404329003,
-    "wof:lastmodified":1582361800,
+    "wof:lastmodified":1684352203,
     "wof:name":"Okondo",
     "wof:parent_id":85682615,
     "wof:placetype":"localadmin",
+    "wof:population":1203,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

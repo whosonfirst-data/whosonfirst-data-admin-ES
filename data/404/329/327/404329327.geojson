@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Benij\u00f3far",
+    "eurostat:nuts_2021_id":"03034",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03034",
+    "eurostat:population":3293,
+    "eurostat:population_year":2020,
     "geom:area":0.000448,
-    "geom:area_square_m":4357860.614626,
+    "geom:area_square_m":4357860.614625,
     "geom:bbox":"-0.75760026,38.06377357,-0.72673695,38.08615079",
     "geom:latitude":38.074922,
     "geom:longitude":-0.740867,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03034",
+        "eurostat:nuts_2021_id":"03034",
         "gn:id":6355410,
         "gp:id":12695299,
         "qs_pg:id":1000259
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"372d068649c5cdf567edd85e708c6503",
+    "wof:geomhash":"5239cc1f2bc3b6a146c08cd030a9393a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404329327,
-    "wof:lastmodified":1582361802,
+    "wof:lastmodified":1684352208,
     "wof:name":"Benij\u00f3far",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":3293,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

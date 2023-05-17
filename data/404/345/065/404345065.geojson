@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46118",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Enguera",
+    "eurostat:nuts_2021_id":"46118",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46118",
+    "eurostat:population":4777,
+    "eurostat:population_year":2020,
     "geom:area":0.025125,
-    "geom:area_square_m":241567824.742896,
+    "geom:area_square_m":241567824.742894,
     "geom:bbox":"-0.95941033,38.8917525,-0.64373082,39.03744872",
     "geom:latitude":38.963974,
     "geom:longitude":-0.810316,
@@ -87,6 +99,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -95,6 +109,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46118",
+        "eurostat:nuts_2021_id":"46118",
         "gn:id":6361983,
         "gp:id":12695655,
         "qs_pg:id":1234239
@@ -103,7 +119,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5b008e730324900c6233d2f116ac0aab",
+    "wof:geomhash":"d5521678a26039d231512e763fa6d2c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,10 +130,12 @@
         }
     ],
     "wof:id":404345065,
-    "wof:lastmodified":1582361829,
+    "wof:lastmodified":1684352481,
     "wof:name":"Enguera",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":4777,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

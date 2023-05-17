@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42120",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montejo de Tiermes",
+    "eurostat:nuts_2021_id":"42120",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42120",
+    "eurostat:population":151,
+    "eurostat:population_year":2020,
     "geom:area":0.018001,
-    "geom:area_square_m":167045676.828252,
+    "geom:area_square_m":167045676.82825,
     "geom:bbox":"-3.35053155,41.29535929,-3.07922692,41.43311019",
     "geom:latitude":41.369937,
     "geom:longitude":-3.204894,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42120",
+        "eurostat:nuts_2021_id":"42120",
         "gn:id":6361163,
         "gp:id":12692822,
         "qs_pg:id":542912
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5550c52bae223fed59777b1361c7fad9",
+    "wof:geomhash":"19313fa446d954a431ad11709c039843",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404343213,
-    "wof:lastmodified":1582361888,
+    "wof:lastmodified":1684352449,
     "wof:name":"Montejo De Tiermes",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":151,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

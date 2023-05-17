@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22053",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Benabarre",
+    "eurostat:nuts_2021_id":"22053",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22053",
+    "eurostat:population":1142,
+    "eurostat:population_year":2020,
     "geom:area":0.017098,
-    "geom:area_square_m":156910710.071032,
+    "geom:area_square_m":156910710.071034,
     "geom:bbox":"0.39115112,41.99404877,0.60515169,42.17910549",
     "geom:latitude":42.0841,
     "geom:longitude":0.479141,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22053",
+        "eurostat:nuts_2021_id":"22053",
         "gn:id":6358300,
         "gp:id":12689441,
         "qs_pg:id":51590
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"32b8f35d3f260102aa0af2e8a838db94",
+    "wof:geomhash":"b8efd98e08c95ecf9b3109a64648a9ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404336561,
-    "wof:lastmodified":1582361460,
+    "wof:lastmodified":1684352340,
     "wof:name":"Benabarre",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":1142,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

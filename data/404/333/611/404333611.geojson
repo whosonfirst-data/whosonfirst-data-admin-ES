@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_13090",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villamanrique",
+    "eurostat:nuts_2021_id":"13090",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES422",
+    "eurostat:nuts_2021_level_lau":"13090",
+    "eurostat:population":1128,
+    "eurostat:population_year":2020,
     "geom:area":0.038214,
-    "geom:area_square_m":369760174.144879,
+    "geom:area_square_m":369760174.144884,
     "geom:bbox":"-3.23395941,38.40825808,-2.84697541,38.58865357",
     "geom:latitude":38.507621,
     "geom:longitude":-3.057289,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_13090",
+        "eurostat:nuts_2021_id":"13090",
         "gn:id":6357183,
         "gp:id":12690389,
         "qs_pg:id":954169
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dcafd8fde025becf02fdce4bf402df7a",
+    "wof:geomhash":"ebd29e13fb98dec2c595a01d79d58178",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404333611,
-    "wof:lastmodified":1582361765,
+    "wof:lastmodified":1684352281,
     "wof:name":"Villamanrique",
     "wof:parent_id":85682689,
     "wof:placetype":"localadmin",
+    "wof:population":1128,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

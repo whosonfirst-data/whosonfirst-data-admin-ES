@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":43141,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43141",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pontils",
+    "eurostat:nuts_2021_id":"43141",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43141",
+    "eurostat:population":122,
+    "eurostat:population_year":2020,
     "geom:area":0.007286,
     "geom:area_square_m":67511118.778451,
     "geom:bbox":"1.31871390518,41.4272308322,1.47561355312,41.5130528059",
@@ -115,6 +127,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -123,7 +137,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43141",
         "esp-icgc:la_lc":"043141",
+        "eurostat:nuts_2021_id":"43141",
         "gn:id":6361383,
         "gp:id":23388438,
         "qs_pg:id":203072
@@ -133,7 +149,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6706ea26cdcdfa9cfc15a1828ff8e1dc",
+    "wof:geomhash":"b1d0d57aa7ef1184e753de493cd39e97",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404343707,
-    "wof:lastmodified":1582361865,
+    "wof:lastmodified":1684352461,
     "wof:name":"Pontils",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":122,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

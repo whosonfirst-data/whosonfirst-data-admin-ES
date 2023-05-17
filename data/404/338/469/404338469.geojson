@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_26152",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torrecilla sobre Alesanco",
+    "eurostat:nuts_2021_id":"26152",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES23",
+    "eurostat:nuts_2021_level_3":"ES230",
+    "eurostat:nuts_2021_level_lau":"26152",
+    "eurostat:population":34,
+    "eurostat:population_year":2020,
     "geom:area":0.000477,
     "geom:area_square_m":4352618.051677,
     "geom:bbox":"-2.85870688,42.39894611,-2.82333893,42.43164203",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227397
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_26152",
+        "eurostat:nuts_2021_id":"26152"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"e5d78b2aaa7da4652e95109ee43d2fef",
+    "wof:geomhash":"4dcf34a6ab384d3d720ee019723da413",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404338469,
-    "wof:lastmodified":1566589649,
+    "wof:lastmodified":1684352376,
     "wof:name":"Torrecilla Sobre Alesanco",
     "wof:parent_id":85682773,
     "wof:placetype":"localadmin",
+    "wof:population":34,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

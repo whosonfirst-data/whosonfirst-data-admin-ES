@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22230",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torla-Ordesa",
+    "eurostat:nuts_2021_id":"22230",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22230",
+    "eurostat:population":298,
+    "eurostat:population_year":2020,
     "geom:area":0.020358,
-    "geom:area_square_m":185059345.663887,
+    "geom:area_square_m":185059345.663886,
     "geom:bbox":"-0.2076468,42.59543996,0.02144107,42.79802906",
     "geom:latitude":42.680801,
     "geom:longitude":-0.133861,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22230",
+        "eurostat:nuts_2021_id":"22230",
         "gn:id":6358427,
         "gp:id":12689576,
         "qs_pg:id":1208967
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fd53c57974e8364ff85a9aabb4e4566b",
+    "wof:geomhash":"37c63cd8d0291c050fbf6adf5bb2e266",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404336849,
-    "wof:lastmodified":1582361472,
+    "wof:lastmodified":1684352344,
     "wof:name":"Torla",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":298,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

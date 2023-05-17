@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31121",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Guirguillano",
+    "eurostat:nuts_2021_id":"31121",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31121",
+    "eurostat:population":83,
+    "eurostat:population_year":2020,
     "geom:area":0.002708,
-    "geom:area_square_m":24603969.90213,
+    "geom:area_square_m":24603969.902131,
     "geom:bbox":"-1.89485057,42.68430436,-1.83536372,42.76027498",
     "geom:latitude":42.720705,
     "geom:longitude":-1.864466,
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31121",
+        "eurostat:nuts_2021_id":"31121",
         "gn:id":6359669,
         "gp:id":12688296,
         "qs_pg:id":953345
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"269676460067fd315031f1cdbb960b05",
+    "wof:geomhash":"341f65106a568968994c20673abdc961",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404339719,
-    "wof:lastmodified":1582361597,
+    "wof:lastmodified":1684352398,
     "wof:name":"Guirguillano",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":83,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

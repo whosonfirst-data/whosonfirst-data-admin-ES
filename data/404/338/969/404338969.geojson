@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28130",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Fernando de Henares",
+    "eurostat:nuts_2021_id":"28130",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28130",
+    "eurostat:population":39566,
+    "eurostat:population_year":2020,
     "geom:area":0.004126,
-    "geom:area_square_m":38827638.266011,
+    "geom:area_square_m":38827638.266012,
     "geom:bbox":"-3.53800416,40.4065335,-3.41063373,40.47289771",
     "geom:latitude":40.436113,
     "geom:longitude":-3.484862,
@@ -45,6 +57,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -53,6 +67,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28130",
+        "eurostat:nuts_2021_id":"28130",
         "gn:id":6359351,
         "gp:id":12688072,
         "qs_pg:id":44479
@@ -61,7 +77,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2c17a9fdfdb5c7d335456dedfa0c6852",
+    "wof:geomhash":"ce2a3e1ec27c2fc8d5edd3acc035ec61",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
         }
     ],
     "wof:id":404338969,
-    "wof:lastmodified":1582361445,
+    "wof:lastmodified":1684352385,
     "wof:name":"San Fernando De Henares",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":39566,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46098",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Corbera",
+    "eurostat:nuts_2021_id":"46098",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46098",
+    "eurostat:population":3088,
+    "eurostat:population_year":2020,
     "geom:area":0.002112,
     "geom:area_square_m":20252509.729654,
     "geom:bbox":"-0.3921738,39.12734224,-0.30661617,39.18041284",
@@ -81,6 +93,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -89,6 +103,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46098",
+        "eurostat:nuts_2021_id":"46098",
         "gn:id":6361963,
         "gp:id":12695646,
         "qs_pg:id":961894
@@ -97,7 +113,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"48fbdf69e5c89f38d7955f29a3560c85",
+    "wof:geomhash":"b9834df81a69bd6f6eb692bea36dd102",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,10 +124,12 @@
         }
     ],
     "wof:id":404345019,
-    "wof:lastmodified":1582361837,
+    "wof:lastmodified":1684352481,
     "wof:name":"Corbera",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":3088,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

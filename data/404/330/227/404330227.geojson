@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05211",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Juan de la Nava",
+    "eurostat:nuts_2021_id":"05211",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05211",
+    "eurostat:population":459,
+    "eurostat:population_year":2020,
     "geom:area":0.006454,
-    "geom:area_square_m":60709081.143078,
+    "geom:area_square_m":60709081.143079,
     "geom:bbox":"-4.72440914,40.39612284,-4.62102029,40.54047604",
     "geom:latitude":40.467517,
     "geom:longitude":-4.676252,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05211",
+        "eurostat:nuts_2021_id":"05211",
         "gn:id":6355809,
         "gp:id":12691317,
         "qs_pg:id":1196471
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"00673536bf7d77f033b6b7a64504be9f",
+    "wof:geomhash":"eef66f5da9677721b8ab53ce8bca3600",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330227,
-    "wof:lastmodified":1582361522,
+    "wof:lastmodified":1684352221,
     "wof:name":"San Juan De La Nava",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":459,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

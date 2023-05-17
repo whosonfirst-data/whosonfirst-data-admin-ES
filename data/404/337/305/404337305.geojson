@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24082",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hospital de \u00d3rbigo",
+    "eurostat:nuts_2021_id":"24082",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24082",
+    "eurostat:population":991,
+    "eurostat:population_year":2020,
     "geom:area":0.000502,
-    "geom:area_square_m":4575842.749419,
+    "geom:area_square_m":4575842.74942,
     "geom:bbox":"-5.89933297,42.45204661,-5.85985528,42.4740525",
     "geom:latitude":42.463196,
     "geom:longitude":-5.882653,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_24082",
+        "eurostat:nuts_2021_id":"24082"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"40ed17ad074337fb5d2d387076b1495c",
+    "wof:geomhash":"528c14dbcf8ce2ae45261edd472fc940",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404337305,
-    "wof:lastmodified":1566590031,
+    "wof:lastmodified":1684352351,
     "wof:name":"Hospital De \u00d3rbigo",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":991,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

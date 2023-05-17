@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25240,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25240",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vallfogona de Balaguer",
+    "eurostat:nuts_2021_id":"25240",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25240",
+    "eurostat:population":1906,
+    "eurostat:population_year":2020,
     "geom:area":0.002934,
-    "geom:area_square_m":27068928.475609,
+    "geom:area_square_m":27068881.703044,
     "geom:bbox":"0.793273,41.707952,0.865693,41.797432",
     "geom:latitude":41.752375,
     "geom:longitude":0.833897,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25240",
         "esp-icgc:la_lc":"025240",
+        "eurostat:nuts_2021_id":"25240",
         "gn:id":6358964,
         "gp:id":12694120,
         "qs_pg:id":497300
@@ -67,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3d42b8e1a2d33238a1617762ca44a548",
+    "wof:geomhash":"b45c40c8ccab08b0cd10b5ed9f8d5b9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404338081,
-    "wof:lastmodified":1669902994,
+    "wof:lastmodified":1684352370,
     "wof:name":"Vallfogona de Balaguer",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":1906,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

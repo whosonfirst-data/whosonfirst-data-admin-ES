@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15038",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Frades",
+    "eurostat:nuts_2021_id":"15038",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15038",
+    "eurostat:population":2302,
+    "eurostat:population_year":2020,
     "geom:area":0.009025,
-    "geom:area_square_m":81552217.983463,
+    "geom:area_square_m":81552217.983461,
     "geom:bbox":"-8.35573377,43.0001308,-8.19589925,43.09966075",
     "geom:latitude":43.045208,
     "geom:longitude":-8.27753,
@@ -81,6 +93,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -89,6 +103,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_15038",
+        "eurostat:nuts_2021_id":"15038",
         "gn:id":6534001,
         "gp:id":12694740,
         "qs_pg:id":272057
@@ -97,7 +113,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"74015dfeeebff11d3f70e2b450f8d820",
+    "wof:geomhash":"70f757f961fd0542f71769dfab670643",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,10 +124,12 @@
         }
     ],
     "wof:id":404333893,
-    "wof:lastmodified":1582361768,
+    "wof:lastmodified":1684352288,
     "wof:name":"Frades",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":2302,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

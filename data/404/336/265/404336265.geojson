@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_20081",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zumaia",
+    "eurostat:nuts_2021_id":"20081",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES212",
+    "eurostat:nuts_2021_level_lau":"20081",
+    "eurostat:population":10111,
+    "eurostat:population_year":2020,
     "geom:area":0.001266,
     "geom:area_square_m":11399835.287897,
     "geom:bbox":"-2.28575396,43.26793175,-2.2072529,43.30602611",
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_20081",
+        "eurostat:nuts_2021_id":"20081",
         "gn:id":3104218,
         "gp:id":12695153,
         "qs_pg:id":960150
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5e186aab108e81a28c498b1ba68013f8",
+    "wof:geomhash":"5394fb0a2a741d40bd9cf69789bf9bca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404336265,
-    "wof:lastmodified":1582361474,
+    "wof:lastmodified":1684352335,
     "wof:name":"Zumaia",
     "wof:parent_id":85682741,
     "wof:placetype":"localadmin",
+    "wof:population":10111,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

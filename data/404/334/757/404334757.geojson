@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17095,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17095",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lloret de Mar",
+    "eurostat:nuts_2021_id":"17095",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17095",
+    "eurostat:population":39089,
+    "eurostat:population_year":2020,
     "geom:area":0.005249,
-    "geom:area_square_m":48445504.600878,
+    "geom:area_square_m":48445564.16509,
     "geom:bbox":"2.776024,41.686314,2.896925,41.762269",
     "geom:latitude":41.722496,
     "geom:longitude":2.834762,
@@ -76,6 +88,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -84,7 +98,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17095",
         "esp-icgc:la_lc":"017095",
+        "eurostat:nuts_2021_id":"17095",
         "gn:id":6534078,
         "gp:id":12693776,
         "qs_pg:id":238814
@@ -94,7 +110,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"197fe5a0e51237a53951978aed9fd71e",
+    "wof:geomhash":"cfd545df0a4d6c5f5cf3a5fd2a83f75a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,10 +121,12 @@
         }
     ],
     "wof:id":404334757,
-    "wof:lastmodified":1669903049,
+    "wof:lastmodified":1684352307,
     "wof:name":"Lloret de Mar",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":39089,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

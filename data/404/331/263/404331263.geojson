@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8171,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08171",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Prats de Llu\u00e7an\u00e8s",
+    "eurostat:nuts_2021_id":"08171",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08171",
+    "eurostat:population":2604,
+    "eurostat:population_year":2020,
     "geom:area":0.001473,
-    "geom:area_square_m":13533199.999518,
+    "geom:area_square_m":13533382.425942,
     "geom:bbox":"1.99426,41.95689,2.053364,42.022775",
     "geom:latitude":41.997986,
     "geom:longitude":2.022998,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08171",
         "esp-icgc:la_lc":"08171",
+        "eurostat:nuts_2021_id":"08171",
         "gn:id":6356197,
         "gp:id":12693550,
         "qs_pg:id":1174130
@@ -67,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"922da07b07f5ce2da7a2ad318d7902a4",
+    "wof:geomhash":"05bdf0b4a683e4c00ac3f2d5b711280e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404331263,
-    "wof:lastmodified":1669903012,
+    "wof:lastmodified":1684352246,
     "wof:name":"Prats de Llu\u00e7an\u00e8s",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":2604,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

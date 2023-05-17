@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_41040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Espartinas",
+    "eurostat:nuts_2021_id":"41040",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES618",
+    "eurostat:nuts_2021_level_lau":"41040",
+    "eurostat:population":15824,
+    "eurostat:population_year":2020,
     "geom:area":0.002313,
-    "geom:area_square_m":22726283.213151,
+    "geom:area_square_m":22726283.213152,
     "geom:bbox":"-6.17310481,37.36055192,-6.08270887,37.41534725",
     "geom:latitude":37.385295,
     "geom:longitude":-6.12443,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_41040",
+        "eurostat:nuts_2021_id":"41040",
         "gn:id":6360995,
         "gp:id":12689332,
         "qs_pg:id":1146463
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3156394a27c0769fc182edfdc7c0929c",
+    "wof:geomhash":"87e2a2af848b0ee09ccc6a55f45e02a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404342833,
-    "wof:lastmodified":1582361812,
+    "wof:lastmodified":1684352444,
     "wof:name":"Espartinas",
     "wof:parent_id":85682841,
     "wof:placetype":"localadmin",
+    "wof:population":15824,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

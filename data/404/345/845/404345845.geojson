@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47206",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villafuerte",
+    "eurostat:nuts_2021_id":"47206",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47206",
+    "eurostat:population":85,
+    "eurostat:population_year":2020,
     "geom:area":0.002835,
-    "geom:area_square_m":26166715.629555,
+    "geom:area_square_m":26166715.629556,
     "geom:bbox":"-4.35217759,41.69224043,-4.27679151,41.7688559",
     "geom:latitude":41.724912,
     "geom:longitude":-4.319032,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_47206",
+        "eurostat:nuts_2021_id":"47206",
         "gn:id":6362326,
         "gp:id":12693100,
         "qs_pg:id":1023740
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"83a1f6eddeb943f06cc02d23d724cf91",
+    "wof:geomhash":"fb527b296c865dc194f217a014311c0a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404345845,
-    "wof:lastmodified":1582361827,
+    "wof:lastmodified":1684352490,
     "wof:name":"Villafuerte",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":85,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

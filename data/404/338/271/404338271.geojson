@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_26059",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Entrena",
+    "eurostat:nuts_2021_id":"26059",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES23",
+    "eurostat:nuts_2021_level_3":"ES230",
+    "eurostat:nuts_2021_level_lau":"26059",
+    "eurostat:population":1545,
+    "eurostat:population_year":2020,
     "geom:area":0.002299,
     "geom:area_square_m":20998891.1077,
     "geom:bbox":"-2.54697549,42.35974069,-2.48583797,42.4239652",
@@ -345,6 +357,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -353,6 +367,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_26059",
+        "eurostat:nuts_2021_id":"26059",
         "gn:id":6359049,
         "gp:id":12687830,
         "qs_pg:id":289850
@@ -361,7 +377,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6a8cd6f78e057c4141534023a3f99081",
+    "wof:geomhash":"1d48eac0cf46ba0bbe985359a997f63d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -372,10 +388,12 @@
         }
     ],
     "wof:id":404338271,
-    "wof:lastmodified":1582361449,
+    "wof:lastmodified":1684352374,
     "wof:name":"Entrena",
     "wof:parent_id":85682773,
     "wof:placetype":"localadmin",
+    "wof:population":1545,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

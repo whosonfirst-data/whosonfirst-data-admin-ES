@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17073,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17073",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fornells de la Selva",
+    "eurostat:nuts_2021_id":"17073",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17073",
+    "eurostat:population":2670,
+    "eurostat:population_year":2020,
     "geom:area":0.001268,
-    "geom:area_square_m":11665284.517564,
+    "geom:area_square_m":11665279.001516,
     "geom:bbox":"2.789937,41.91074,2.839833,41.949572",
     "geom:latitude":41.927927,
     "geom:longitude":2.811629,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17073",
         "esp-icgc:la_lc":"017073",
+        "eurostat:nuts_2021_id":"17073",
         "gn:id":6534062,
         "gp:id":12693754,
         "qs_pg:id":1118830
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"359f36d4ea87af5aa88b35c33a98dbe8",
+    "wof:geomhash":"70a47dc78e8c6fafb23ec8054e9ff366",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404334707,
-    "wof:lastmodified":1669903041,
+    "wof:lastmodified":1684352306,
     "wof:name":"Fornells de la Selva",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":2670,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

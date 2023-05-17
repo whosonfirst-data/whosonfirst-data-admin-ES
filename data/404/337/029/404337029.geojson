@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_23055",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Linares",
+    "eurostat:nuts_2021_id":"23055",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES616",
+    "eurostat:nuts_2021_level_lau":"23055",
+    "eurostat:population":57353,
+    "eurostat:population_year":2020,
     "geom:area":0.020203,
-    "geom:area_square_m":196594463.509176,
+    "geom:area_square_m":196594412.937652,
     "geom:bbox":"-3.762054,38.002171,-3.517147,38.173337",
     "geom:latitude":38.096091,
     "geom:longitude":-3.636765,
@@ -132,6 +144,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -140,6 +154,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_23055",
+        "eurostat:nuts_2021_id":"23055",
         "gn:id":6358505,
         "gp:id":12689146,
         "qs_pg:id":1095266
@@ -148,7 +164,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f25c0b21092fe4131399cad363377924",
+    "wof:geomhash":"3b27ed267bdac557ee96a905b715ec61",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,10 +175,12 @@
         }
     ],
     "wof:id":404337029,
-    "wof:lastmodified":1636503319,
+    "wof:lastmodified":1684352347,
     "wof:name":"Linares",
     "wof:parent_id":85682757,
     "wof:placetype":"localadmin",
+    "wof:population":57353,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

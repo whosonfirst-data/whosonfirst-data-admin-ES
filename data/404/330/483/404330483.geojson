@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06056",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Garbayuela",
+    "eurostat:nuts_2021_id":"06056",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06056",
+    "eurostat:population":509,
+    "eurostat:population_year":2020,
     "geom:area":0.008758,
-    "geom:area_square_m":84073510.506914,
+    "geom:area_square_m":84073510.506912,
     "geom:bbox":"-5.06913763,39.02386024,-4.94141105,39.13236484",
     "geom:latitude":39.075652,
     "geom:longitude":-5.005233,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06056",
+        "eurostat:nuts_2021_id":"06056",
         "gn:id":6355921,
         "gp:id":12694375,
         "qs_pg:id":384550
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d9a9a6370d0b5b5c8c354099f74132ce",
+    "wof:geomhash":"88cdcbe6d7978bb7b65536e1fa673e71",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404330483,
-    "wof:lastmodified":1582361523,
+    "wof:lastmodified":1684352224,
     "wof:name":"Garbayuela",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":509,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

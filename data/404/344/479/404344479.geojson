@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45063",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Espinoso del Rey",
+    "eurostat:nuts_2021_id":"45063",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45063",
+    "eurostat:population":425,
+    "eurostat:population_year":2020,
     "geom:area":0.005065,
-    "geom:area_square_m":48232620.556722,
+    "geom:area_square_m":48232620.55672,
     "geom:bbox":"-4.83341887,39.59624154,-4.74315589,39.68472667",
     "geom:latitude":39.640938,
     "geom:longitude":-4.78889,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45063",
+        "eurostat:nuts_2021_id":"45063",
         "gn:id":6361723,
         "gp:id":12690984,
         "qs_pg:id":497013
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7aa5232da5f600e3990d316ee8733517",
+    "wof:geomhash":"e82b9f71eb7ad640fbf6b38b525bfd4f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404344479,
-    "wof:lastmodified":1582361846,
+    "wof:lastmodified":1684352474,
     "wof:name":"Espinoso Del Rey",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":425,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

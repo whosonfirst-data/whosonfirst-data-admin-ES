@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46188",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Palmera",
+    "eurostat:nuts_2021_id":"46188",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46188",
+    "eurostat:population":1018,
+    "eurostat:population_year":2020,
     "geom:area":0.000102,
     "geom:area_square_m":977101.761415,
     "geom:bbox":"-0.16098805,38.93640736,-0.14374433,38.94839864",
@@ -78,6 +90,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -86,6 +100,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46188",
+        "eurostat:nuts_2021_id":"46188",
         "gn:id":6362053,
         "gp:id":12695723,
         "qs_pg:id":201926
@@ -94,7 +110,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7622d6028ce18ced9b316cb0ed032568",
+    "wof:geomhash":"2d8ff05ce1303132fcd4b06e83f0ef5e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,10 +121,12 @@
         }
     ],
     "wof:id":404345221,
-    "wof:lastmodified":1582361828,
+    "wof:lastmodified":1684352483,
     "wof:name":"Palmera",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":1018,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

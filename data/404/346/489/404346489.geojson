@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49162",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Porto",
+    "eurostat:nuts_2021_id":"49162",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49162",
+    "eurostat:population":156,
+    "eurostat:population_year":2020,
     "geom:area":0.021876,
-    "geom:area_square_m":200521784.573576,
+    "geom:area_square_m":200521452.029196,
     "geom:bbox":"-6.974461,42.054543,-6.722861,42.254177",
     "geom:latitude":42.157017,
     "geom:longitude":-6.846111,
@@ -333,6 +345,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -341,6 +355,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_49162",
+        "eurostat:nuts_2021_id":"49162",
         "gn:id":6362596,
         "gp:id":12693275,
         "qs_pg:id":47113
@@ -349,7 +365,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a893e0e35389b5a890c7092faf365229",
+    "wof:geomhash":"9aeddcdac98177fb42b4d8e0e67b991f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -360,10 +376,12 @@
         }
     ],
     "wof:id":404346489,
-    "wof:lastmodified":1636503321,
+    "wof:lastmodified":1684352500,
     "wof:name":"Porto",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":156,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

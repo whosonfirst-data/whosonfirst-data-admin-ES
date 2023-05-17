@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Acebeda, La",
+    "eurostat:nuts_2021_id":"28001",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28001",
+    "eurostat:population":68,
+    "eurostat:population_year":2020,
     "geom:area":0.002345,
-    "geom:area_square_m":21850221.470952,
+    "geom:area_square_m":21850221.470951,
     "geom:bbox":"-3.67606481,41.06885684,-3.599775,41.12129068",
     "geom:latitude":41.093147,
     "geom:longitude":-3.635709,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28001",
+        "eurostat:nuts_2021_id":"28001",
         "gn:id":6359227,
         "gp:id":12687946,
         "qs_pg:id":621750
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c628fa538fa4f666e3a14ac08362c929",
+    "wof:geomhash":"50784a7af11577f77d411c8497435116",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404338685,
-    "wof:lastmodified":1582361448,
+    "wof:lastmodified":1684352379,
     "wof:name":"La Acebeda",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":68,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

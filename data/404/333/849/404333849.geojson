@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Capela, A",
+    "eurostat:nuts_2021_id":"15018",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15018",
+    "eurostat:population":1221,
+    "eurostat:population_year":2020,
     "geom:area":0.006416,
-    "geom:area_square_m":57602232.070191,
+    "geom:area_square_m":57602232.070194,
     "geom:bbox":"-8.10191214,43.40295294,-7.98049734,43.4800253",
     "geom:latitude":43.444947,
     "geom:longitude":-8.041097,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_15018",
+        "eurostat:nuts_2021_id":"15018",
         "gn:id":6357288,
         "gp:id":12694719,
         "qs_pg:id":895386
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"59cff1036a8ff6adb0d01022ddb77ea5",
+    "wof:geomhash":"90af817c861fc25edc9fbbec84eb7b19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404333849,
-    "wof:lastmodified":1582361777,
+    "wof:lastmodified":1684352286,
     "wof:name":"A Capela",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":1221,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

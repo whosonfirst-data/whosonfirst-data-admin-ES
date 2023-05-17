@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_26100",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Muro de Aguas",
+    "eurostat:nuts_2021_id":"26100",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES23",
+    "eurostat:nuts_2021_level_3":"ES230",
+    "eurostat:nuts_2021_level_lau":"26100",
+    "eurostat:population":61,
+    "eurostat:population_year":2020,
     "geom:area":0.003364,
-    "geom:area_square_m":30854160.212191,
+    "geom:area_square_m":30854160.212188,
     "geom:bbox":"-2.18417028,42.10380089,-2.06577203,42.15908235",
     "geom:latitude":42.127834,
     "geom:longitude":-2.129774,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_26100",
+        "eurostat:nuts_2021_id":"26100",
         "gn:id":6359087,
         "gp:id":12687868,
         "qs_pg:id":44356
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6ca57ade65d3fa93154569ca9dd0d46d",
+    "wof:geomhash":"b7664a57b05e229ada9f59d59d0ca260",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404338357,
-    "wof:lastmodified":1582361444,
+    "wof:lastmodified":1684352375,
     "wof:name":"Muro De Aguas",
     "wof:parent_id":85682773,
     "wof:placetype":"localadmin",
+    "wof:population":61,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

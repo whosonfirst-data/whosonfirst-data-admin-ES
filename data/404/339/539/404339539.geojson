@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Azuelo",
+    "eurostat:nuts_2021_id":"31043",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31043",
+    "eurostat:population":26,
+    "eurostat:population_year":2020,
     "geom:area":0.001152,
-    "geom:area_square_m":10485583.614861,
+    "geom:area_square_m":10485583.614862,
     "geom:bbox":"-2.376229,42.57634567,-2.32935944,42.63703642",
     "geom:latitude":42.60612,
     "geom:longitude":-2.350911,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31043",
+        "eurostat:nuts_2021_id":"31043",
         "gn:id":6359592,
         "gp:id":12688213,
         "qs_pg:id":1001344
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c7af0431b725ef0303b57b02f2eee553",
+    "wof:geomhash":"ef85a72c89a9c07e881c193fb71aa166",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404339539,
-    "wof:lastmodified":1582361590,
+    "wof:lastmodified":1684352395,
     "wof:name":"Azuelo",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":26,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

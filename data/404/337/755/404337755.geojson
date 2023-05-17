@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25064,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25064",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castellar de la Ribera",
+    "eurostat:nuts_2021_id":"25064",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25064",
+    "eurostat:population":131,
+    "eurostat:population_year":2020,
     "geom:area":0.006552,
-    "geom:area_square_m":60196203.524048,
+    "geom:area_square_m":60196269.588765,
     "geom:bbox":"1.350729,41.964062,1.470652,42.080277",
     "geom:latitude":42.012426,
     "geom:longitude":1.404245,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25064",
         "esp-icgc:la_lc":"025064",
+        "eurostat:nuts_2021_id":"25064",
         "gn:id":6358820,
         "gp:id":12693965,
         "qs_pg:id":906198
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"cd9d9fbcf3479d37720a5aed8d385036",
+    "wof:geomhash":"428883be81aa2c4cbff6a0c2724187c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404337755,
-    "wof:lastmodified":1669903019,
+    "wof:lastmodified":1684352359,
     "wof:name":"Castellar de la Ribera",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":131,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

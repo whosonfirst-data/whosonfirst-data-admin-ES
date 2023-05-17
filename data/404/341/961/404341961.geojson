@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_38020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"G\u00fc\u00edmar",
+    "eurostat:nuts_2021_id":"38020",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES7",
+    "eurostat:nuts_2021_level_2":"ES70",
+    "eurostat:nuts_2021_level_3":"ES709",
+    "eurostat:nuts_2021_level_lau":"38020",
+    "eurostat:population":20662,
+    "eurostat:population_year":2020,
     "geom:area":0.00947,
-    "geom:area_square_m":103104219.740778,
+    "geom:area_square_m":103104219.74076,
     "geom:bbox":"-16.512175,28.23426989,-16.35925406,28.33607117",
     "geom:latitude":28.295215,
     "geom:longitude":-16.432504,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_38020",
+        "eurostat:nuts_2021_id":"38020",
         "gp:id":12690178,
         "qs_pg:id":1097771
     },
@@ -129,7 +145,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d3f047d8c6a61e6bde5b14408f566fc5",
+    "wof:geomhash":"8f25674561243e8cceeabd8252e62e86",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404341961,
-    "wof:lastmodified":1582361633,
+    "wof:lastmodified":1684352432,
     "wof:name":"G\u00fc\u00edmar",
     "wof:parent_id":85682831,
     "wof:placetype":"localadmin",
+    "wof:population":20662,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_32061",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pi\u00f1or",
+    "eurostat:nuts_2021_id":"32061",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES113",
+    "eurostat:nuts_2021_level_lau":"32061",
+    "eurostat:population":1183,
+    "eurostat:population_year":2020,
     "geom:area":0.005773,
     "geom:area_square_m":52611981.649835,
     "geom:bbox":"-8.06798041,42.47383442,-7.94908546,42.57253996",
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_32061",
+        "eurostat:nuts_2021_id":"32061",
         "gn:id":3113424,
         "gp:id":12694920,
         "qs_pg:id":1188899
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2c445a13aea06f2119116193d1f476a3",
+    "wof:geomhash":"d98a98ae287a82b6fd33a34c835ea825",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404340209,
-    "wof:lastmodified":1582361662,
+    "wof:lastmodified":1684352403,
     "wof:name":"Pi\u00f1or",
     "wof:parent_id":85682801,
     "wof:placetype":"localadmin",
+    "wof:population":1183,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

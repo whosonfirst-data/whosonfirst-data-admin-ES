@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04903",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mojonera, La",
+    "eurostat:nuts_2021_id":"04903",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04903",
+    "eurostat:population":9191,
+    "eurostat:population_year":2020,
     "geom:area":0.002409,
-    "geom:area_square_m":23860507.110953,
+    "geom:area_square_m":23860507.110954,
     "geom:bbox":"-2.71831449,36.7231722,-2.66129283,36.81474009",
     "geom:latitude":36.774598,
     "geom:longitude":-2.692043,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_04903",
+        "eurostat:nuts_2021_id":"04903",
         "gn:id":6355618,
         "qs_pg:id":621526
     },
@@ -135,7 +151,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1425b62004404907c8e8ebdf6de1f508",
+    "wof:geomhash":"5d2341b5bfa3c1a5da24e5e0753e0add",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404329799,
-    "wof:lastmodified":1582361787,
+    "wof:lastmodified":1684352215,
     "wof:name":"La Mojonera",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":9191,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

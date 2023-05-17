@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28152",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torrelodones",
+    "eurostat:nuts_2021_id":"28152",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28152",
+    "eurostat:population":23902,
+    "eurostat:population_year":2020,
     "geom:area":0.002306,
     "geom:area_square_m":21660059.066706,
     "geom:bbox":"-3.95959384,40.54794443,-3.88348152,40.59743808",
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28152",
+        "eurostat:nuts_2021_id":"28152",
         "gn:id":6359371,
         "gp:id":12688092,
         "qs_pg:id":499092
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0106791dc2ecf00a69f78ce3e39d1885",
+    "wof:geomhash":"4f2dacb2809c007323a37444800feffe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404339015,
-    "wof:lastmodified":1582361583,
+    "wof:lastmodified":1684352386,
     "wof:name":"Torrelodones",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":23902,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

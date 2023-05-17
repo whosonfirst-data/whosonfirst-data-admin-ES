@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_33021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cudillero",
+    "eurostat:nuts_2021_id":"33021",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES12",
+    "eurostat:nuts_2021_level_3":"ES120",
+    "eurostat:nuts_2021_level_lau":"33021",
+    "eurostat:population":4922,
+    "eurostat:population_year":2020,
     "geom:area":0.011304,
-    "geom:area_square_m":101317407.38183,
+    "geom:area_square_m":101317407.381835,
     "geom:bbox":"-6.35258036,43.49160764,-6.12118261,43.59630197",
     "geom:latitude":43.54391,
     "geom:longitude":-6.229195,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_33021",
+        "eurostat:nuts_2021_id":"33021",
         "gn:id":6359926,
         "gp:id":12688464,
         "qs_pg:id":1085700
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1a9c969597b7db099860320284011906",
+    "wof:geomhash":"3258331ad5f721ca29153567c6cb11ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404340325,
-    "wof:lastmodified":1582361656,
+    "wof:lastmodified":1684352405,
     "wof:name":"Cudillero",
     "wof:parent_id":85682805,
     "wof:placetype":"localadmin",
+    "wof:population":4922,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

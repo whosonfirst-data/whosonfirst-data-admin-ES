@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_34071",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Espinosa de Villagonzalo",
+    "eurostat:nuts_2021_id":"34071",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES414",
+    "eurostat:nuts_2021_level_lau":"34071",
+    "eurostat:population":168,
+    "eurostat:population_year":2020,
     "geom:area":0.004165,
-    "geom:area_square_m":37983804.618774,
+    "geom:area_square_m":37983804.618775,
     "geom:bbox":"-4.41878755,42.43900003,-4.32610769,42.50882672",
     "geom:latitude":42.472473,
     "geom:longitude":-4.374715,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_34071",
+        "eurostat:nuts_2021_id":"34071"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"997e6c0091d02b4980e913ea901b0241",
+    "wof:geomhash":"12421ac084cd80b20b1ad74ff99f592c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404340581,
-    "wof:lastmodified":1566590398,
+    "wof:lastmodified":1684352410,
     "wof:name":"Espinosa De Villagonzalo",
     "wof:parent_id":85682815,
     "wof:placetype":"localadmin",
+    "wof:population":168,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

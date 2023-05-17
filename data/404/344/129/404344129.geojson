@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44161",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Muniesa",
+    "eurostat:nuts_2021_id":"44161",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44161",
+    "eurostat:population":583,
+    "eurostat:population_year":2020,
     "geom:area":0.013907,
     "geom:area_square_m":129635284.24976,
     "geom:bbox":"-0.84375796,40.99177709,-0.6852984,41.16965826",
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44161",
+        "eurostat:nuts_2021_id":"44161",
         "gn:id":6361568,
         "gp:id":12689740,
         "qs_pg:id":1315233
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"28b7c61f27900f933e41fa8b53099b84",
+    "wof:geomhash":"ba3df473c226ab0a36b173800db1612a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404344129,
-    "wof:lastmodified":1582361850,
+    "wof:lastmodified":1684352470,
     "wof:name":"Muniesa",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":583,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

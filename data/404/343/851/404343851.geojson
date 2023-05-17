@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Allepuz",
+    "eurostat:nuts_2021_id":"44021",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44021",
+    "eurostat:population":124,
+    "eurostat:population_year":2020,
     "geom:area":0.007144,
-    "geom:area_square_m":67189507.44245,
+    "geom:area_square_m":67189507.442451,
     "geom:bbox":"-0.7873482,40.42093384,-0.58915004,40.52380924",
     "geom:latitude":40.47911,
     "geom:longitude":-0.701917,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44021",
+        "eurostat:nuts_2021_id":"44021",
         "gn:id":6361446,
         "gp:id":12689614,
         "qs_pg:id":259054
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e101214bdd4ce26d32085b3fc9b1bebd",
+    "wof:geomhash":"54360402cf0dc5ac1722a901228dada8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404343851,
-    "wof:lastmodified":1582361872,
+    "wof:lastmodified":1684352466,
     "wof:name":"Allepuz",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":124,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

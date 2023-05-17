@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_41901",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ca\u00f1ada Rosal",
+    "eurostat:nuts_2021_id":"41901",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES618",
+    "eurostat:nuts_2021_level_lau":"41901",
+    "eurostat:population":3325,
+    "eurostat:population_year":2020,
     "geom:area":0.002597,
-    "geom:area_square_m":25438852.746543,
+    "geom:area_square_m":25438852.746542,
     "geom:bbox":"-5.27452037,37.57128858,-5.17325381,37.64179625",
     "geom:latitude":37.599058,
     "geom:longitude":-5.22311,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_41901",
+        "eurostat:nuts_2021_id":"41901",
         "gn:id":6361058,
         "gp:id":12689313,
         "qs_pg:id":1102470
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1bfa63a2c9e9e213c5a51d26f6347422",
+    "wof:geomhash":"3815f9d6474a2e29bd48dbcddad3686a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404342975,
-    "wof:lastmodified":1582361824,
+    "wof:lastmodified":1684352446,
     "wof:name":"Ca\u00f1ada Rosal",
     "wof:parent_id":85682841,
     "wof:placetype":"localadmin",
+    "wof:population":3325,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

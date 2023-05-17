@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aldealices",
+    "eurostat:nuts_2021_id":"42010",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42010",
+    "eurostat:population":35,
+    "eurostat:population_year":2020,
     "geom:area":0.000686,
-    "geom:area_square_m":6316286.970835,
+    "geom:area_square_m":6316286.970832,
     "geom:bbox":"-2.32758135,41.89498875,-2.26733872,41.93299852",
     "geom:latitude":41.906784,
     "geom:longitude":-2.302054,
@@ -216,6 +228,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -223,9 +237,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_42010",
+        "eurostat:nuts_2021_id":"42010"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"741cb6d0b13bc76a40090389aa4974d6",
+    "wof:geomhash":"2461d5d1dadb8674c7620079a7c16cea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -236,10 +253,12 @@
         }
     ],
     "wof:id":404342997,
-    "wof:lastmodified":1566590918,
+    "wof:lastmodified":1684352446,
     "wof:name":"Aldealices",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":35,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aguilar de Bureba",
+    "eurostat:nuts_2021_id":"09007",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09007",
+    "eurostat:population":57,
+    "eurostat:population_year":2020,
     "geom:area":0.001036,
     "geom:area_square_m":9431050.88927,
     "geom:bbox":"-3.35376406,42.57243782,-3.31163477,42.6120155",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09007",
+        "eurostat:nuts_2021_id":"09007",
         "gn:id":6356334,
         "gp:id":12691378,
         "qs_pg:id":988776
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ac0f8a72a73642cf7603b8932521f62f",
+    "wof:geomhash":"d6dd7891889aa526e9f8072b28401e2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404331587,
-    "wof:lastmodified":1582361498,
+    "wof:lastmodified":1684352256,
     "wof:name":"Aguilar De Bureba",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":57,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

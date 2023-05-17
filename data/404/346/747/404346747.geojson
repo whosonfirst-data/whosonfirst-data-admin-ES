@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alconchel de Ariza",
+    "eurostat:nuts_2021_id":"50015",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50015",
+    "eurostat:population":76,
+    "eurostat:population_year":2020,
     "geom:area":0.003741,
-    "geom:area_square_m":34807780.547509,
+    "geom:area_square_m":34807780.547507,
     "geom:bbox":"-2.14900288,41.17098447,-2.06951136,41.23808154",
     "geom:latitude":41.202458,
     "geom:longitude":-2.105957,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50015",
+        "eurostat:nuts_2021_id":"50015",
         "gn:id":6362709,
         "gp:id":12689848,
         "qs_pg:id":496906
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"19083dcf1a6a388a15c7b7d245b58f98",
+    "wof:geomhash":"74b34fe42ce308b57557665673a0b646",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404346747,
-    "wof:lastmodified":1582361613,
+    "wof:lastmodified":1684352502,
     "wof:name":"Alconchel De Ariza",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":76,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

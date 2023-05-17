@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09388",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torrelara",
+    "eurostat:nuts_2021_id":"09388",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09388",
+    "eurostat:population":31,
+    "eurostat:population_year":2020,
     "geom:area":0.001363,
-    "geom:area_square_m":12493127.635854,
+    "geom:area_square_m":12493127.635855,
     "geom:bbox":"-3.53464488,42.14648488,-3.48184457,42.2007725",
     "geom:latitude":42.168688,
     "geom:longitude":-3.508386,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09388",
+        "eurostat:nuts_2021_id":"09388",
         "gn:id":6356620,
         "gp:id":12691670,
         "qs_pg:id":46340
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a9f110680dec6fef345f111fe8453484",
+    "wof:geomhash":"cd4ad0cabd5c3a74ed7b16e82d991c57",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404332327,
-    "wof:lastmodified":1582361691,
+    "wof:lastmodified":1684352263,
     "wof:name":"Torrelara",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":31,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

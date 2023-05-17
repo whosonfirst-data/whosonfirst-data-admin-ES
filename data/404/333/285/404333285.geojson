@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12089",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pen\u00edscola / Pe\u00f1\u00edscola",
+    "eurostat:nuts_2021_id":"12089",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12089",
+    "eurostat:population":7683,
+    "eurostat:population_year":2020,
     "geom:area":0.008362,
     "geom:area_square_m":78789720.860202,
     "geom:bbox":"0.29585896,40.27434565,0.41727433,40.42425865",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227381
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_12089",
+        "eurostat:nuts_2021_id":"12089"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"04313c939beabf09b8acbfb7ed3339ea",
+    "wof:geomhash":"bb19d2f89a1b43321dbcd2304c43d8dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404333285,
-    "wof:lastmodified":1566590813,
+    "wof:lastmodified":1684352276,
     "wof:name":"Pen\u00edscola/Pe\u00f1\u00edscola",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":7683,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

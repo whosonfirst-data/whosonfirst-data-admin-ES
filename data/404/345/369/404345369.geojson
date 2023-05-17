@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46253",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vall\u00e9s",
+    "eurostat:nuts_2021_id":"46253",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46253",
+    "eurostat:population":154,
+    "eurostat:population_year":2020,
     "geom:area":0.000128,
     "geom:area_square_m":1234724.22871,
     "geom:bbox":"-0.59738029,38.98011508,-0.54472175,38.99621628",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46253",
+        "eurostat:nuts_2021_id":"46253",
         "gn:id":6363001,
         "gp:id":12695792,
         "qs_pg:id":48661
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d804805b3c117f1448834280be5f6989",
+    "wof:geomhash":"086d915dbd73a213f1605256f2ff7160",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404345369,
-    "wof:lastmodified":1582361834,
+    "wof:lastmodified":1684352485,
     "wof:name":"Vall\u00e9s",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":154,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

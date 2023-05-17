@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44038",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Belmonte de San Jos\u00e9",
+    "eurostat:nuts_2021_id":"44038",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44038",
+    "eurostat:population":123,
+    "eurostat:population_year":2020,
     "geom:area":0.003629,
-    "geom:area_square_m":33921801.520253,
+    "geom:area_square_m":33921801.520254,
     "geom:bbox":"-0.10993368,40.84826362,-0.02675002,40.92024767",
     "geom:latitude":40.882937,
     "geom:longitude":-0.061386,
@@ -39,6 +51,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -47,6 +61,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44038",
+        "eurostat:nuts_2021_id":"44038",
         "gn:id":6361462,
         "gp:id":12689634,
         "qs_pg:id":968731
@@ -55,7 +71,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f3b0c60c846b483ac37204fefe5ffffd",
+    "wof:geomhash":"fef40770cae2abf42e885e3afc02b671",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +82,12 @@
         }
     ],
     "wof:id":404343887,
-    "wof:lastmodified":1582361868,
+    "wof:lastmodified":1684352467,
     "wof:name":"Belmonte De San Jos\u00e9",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":123,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

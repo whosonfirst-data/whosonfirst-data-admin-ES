@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_02079",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villamalea",
+    "eurostat:nuts_2021_id":"02079",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES421",
+    "eurostat:nuts_2021_level_lau":"02079",
+    "eurostat:population":4070,
+    "eurostat:population_year":2020,
     "geom:area":0.013376,
-    "geom:area_square_m":127881646.667879,
+    "geom:area_square_m":127881646.667877,
     "geom:bbox":"-1.67418076,39.30082831,-1.44852298,39.42298148",
     "geom:latitude":39.358913,
     "geom:longitude":-1.550451,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_02079",
+        "eurostat:nuts_2021_id":"02079",
         "gn:id":6355369,
         "gp:id":12690290,
         "qs_pg:id":1173929
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6748bcdb262773870797e32f7dded91b",
+    "wof:geomhash":"78928a47216cb450844aa9263f16dedc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404329231,
-    "wof:lastmodified":1582361800,
+    "wof:lastmodified":1684352206,
     "wof:name":"Villamalea",
     "wof:parent_id":85682621,
     "wof:placetype":"localadmin",
+    "wof:population":4070,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

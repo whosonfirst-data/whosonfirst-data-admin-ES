@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_23057",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lupi\u00f3n",
+    "eurostat:nuts_2021_id":"23057",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES616",
+    "eurostat:nuts_2021_level_lau":"23057",
+    "eurostat:population":820,
+    "eurostat:population_year":2020,
     "geom:area":0.002496,
     "geom:area_square_m":24313258.301239,
     "geom:bbox":"-3.62851805,37.99025977,-3.52468946,38.04156743",
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_23057",
+        "eurostat:nuts_2021_id":"23057",
         "gn:id":6358507,
         "gp:id":12689148,
         "qs_pg:id":953791
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0f3b40a6bdf0acd3e2e678c7b0126d56",
+    "wof:geomhash":"38d709193255480c0538becd90ce409f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404337035,
-    "wof:lastmodified":1582361572,
+    "wof:lastmodified":1684352347,
     "wof:name":"Lupi\u00f3n",
     "wof:parent_id":85682757,
     "wof:placetype":"localadmin",
+    "wof:population":820,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

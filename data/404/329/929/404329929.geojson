@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05069",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Donjimeno",
+    "eurostat:nuts_2021_id":"05069",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05069",
+    "eurostat:population":77,
+    "eurostat:population_year":2020,
     "geom:area":0.001578,
-    "geom:area_square_m":14730059.900426,
+    "geom:area_square_m":14730059.900427,
     "geom:bbox":"-4.88586246,40.9423248,-4.82629003,40.98468506",
     "geom:latitude":40.964629,
     "geom:longitude":-4.853542,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05069",
+        "eurostat:nuts_2021_id":"05069",
         "gn:id":6355676,
         "gp:id":12691185,
         "qs_pg:id":78739
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e9a843cfb6149805d753117ed189834f",
+    "wof:geomhash":"de5ecd22eb021c61e5be0cc5798fafd1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404329929,
-    "wof:lastmodified":1582361802,
+    "wof:lastmodified":1684352217,
     "wof:name":"Donjimeno",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":77,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

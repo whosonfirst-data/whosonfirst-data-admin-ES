@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_13011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Almad\u00e9n",
+    "eurostat:nuts_2021_id":"13011",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES422",
+    "eurostat:nuts_2021_level_lau":"13011",
+    "eurostat:population":5200,
+    "eurostat:population_year":2020,
     "geom:area":0.024851,
-    "geom:area_square_m":239465200.864606,
+    "geom:area_square_m":239465200.8646,
     "geom:bbox":"-4.85519384,38.67297328,-4.59454063,38.90227264",
     "geom:latitude":38.804781,
     "geom:longitude":-4.741767,
@@ -162,6 +174,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -170,6 +184,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_13011",
+        "eurostat:nuts_2021_id":"13011",
         "gn:id":6357105,
         "gp:id":12690308,
         "qs_pg:id":1197753
@@ -178,7 +194,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"67f8612d421c997cae0cf4b18d6896ae",
+    "wof:geomhash":"c7d5c153b5adbde46c2a74596d0fcbb0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -189,10 +205,12 @@
         }
     ],
     "wof:id":404333435,
-    "wof:lastmodified":1582361782,
+    "wof:lastmodified":1684352279,
     "wof:name":"Almad\u00e9n",
     "wof:parent_id":85682689,
     "wof:placetype":"localadmin",
+    "wof:population":5200,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

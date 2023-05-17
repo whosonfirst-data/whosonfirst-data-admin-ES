@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":8061,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08061",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castellgal\u00ed",
+    "eurostat:nuts_2021_id":"08061",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08061",
+    "eurostat:population":2119,
+    "eurostat:population_year":2020,
     "geom:area":0.001856,
     "geom:area_square_m":17141736.017158,
     "geom:bbox":"1.78708183495,41.6530205428,1.87031663175,41.6959256831",
@@ -130,6 +142,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -138,7 +152,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08061",
         "esp-icgc:la_lc":"08061",
+        "eurostat:nuts_2021_id":"08061",
         "gp:id":12693438,
         "qs_pg:id":236116
     },
@@ -147,7 +163,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7021c0a7450f1398bd237467b8a303b9",
+    "wof:geomhash":"da4c61992d8a4c37250dd1f02d111f4a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404331015,
-    "wof:lastmodified":1582361485,
+    "wof:lastmodified":1684352238,
     "wof:name":"Castellgal\u00ed",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":2119,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

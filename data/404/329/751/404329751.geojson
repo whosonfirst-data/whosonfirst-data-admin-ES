@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04085",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Somont\u00edn",
+    "eurostat:nuts_2021_id":"04085",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04085",
+    "eurostat:population":443,
+    "eurostat:population_year":2020,
     "geom:area":0.001648,
-    "geom:area_square_m":16187483.690181,
+    "geom:area_square_m":16187483.69018,
     "geom:bbox":"-2.40199362,37.36708608,-2.3775294,37.48192229",
     "geom:latitude":37.417142,
     "geom:longitude":-2.3904,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_04085",
+        "eurostat:nuts_2021_id":"04085",
         "gn:id":6355597,
         "gp:id":12688707,
         "qs_pg:id":44863
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"56500d4d516dc6269f2eac6cde8245f4",
+    "wof:geomhash":"058413ade6daaa458eb7db47b0d0842e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404329751,
-    "wof:lastmodified":1582361796,
+    "wof:lastmodified":1684352215,
     "wof:name":"Somont\u00edn",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":443,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

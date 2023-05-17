@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8281,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08281",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tei\u00e0",
+    "eurostat:nuts_2021_id":"08281",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08281",
+    "eurostat:population":6427,
+    "eurostat:population_year":2020,
     "geom:area":0.000723,
-    "geom:area_square_m":6696338.504042,
+    "geom:area_square_m":6696405.033234,
     "geom:bbox":"2.306778,41.484303,2.344083,41.517501",
     "geom:latitude":41.500564,
     "geom:longitude":2.321725,
@@ -121,6 +133,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -129,7 +143,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08281",
         "esp-icgc:la_lc":"08281",
+        "eurostat:nuts_2021_id":"08281",
         "gn:id":6356300,
         "gp:id":12693654,
         "qs_pg:id":242319
@@ -139,7 +155,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f221aeb714af1855a26f3422e8fc9ac3",
+    "wof:geomhash":"a1f9a7adb2d5d17ef51e1f7de8d8ca1c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404331505,
-    "wof:lastmodified":1669902998,
+    "wof:lastmodified":1684352254,
     "wof:name":"Tei\u00e0",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":6427,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

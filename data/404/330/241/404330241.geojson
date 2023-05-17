@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05217",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Miguel de Corneja",
+    "eurostat:nuts_2021_id":"05217",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05217",
+    "eurostat:population":53,
+    "eurostat:population_year":2020,
     "geom:area":0.000726,
-    "geom:area_square_m":6828968.415111,
+    "geom:area_square_m":6828968.41511,
     "geom:bbox":"-5.30430707,40.4790723,-5.25165867,40.502197",
     "geom:latitude":40.491595,
     "geom:longitude":-5.279084,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05217",
+        "eurostat:nuts_2021_id":"05217",
         "gn:id":6355815,
         "gp:id":12691323,
         "qs_pg:id":46197
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d9dfcffa66f44409ddb1894fb2ee6882",
+    "wof:geomhash":"8567da2dcc6ac23821d5c9c5e97cb6c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330241,
-    "wof:lastmodified":1582361536,
+    "wof:lastmodified":1684352221,
     "wof:name":"San Miguel De Corneja",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":53,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

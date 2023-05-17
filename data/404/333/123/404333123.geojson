@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Algimia de Almonacid",
+    "eurostat:nuts_2021_id":"12008",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12008",
+    "eurostat:population":262,
+    "eurostat:population_year":2020,
     "geom:area":0.002142,
-    "geom:area_square_m":20313104.069355,
+    "geom:area_square_m":20313104.069356,
     "geom:bbox":"-0.46940896,39.89166032,-0.37657771,39.94002641",
     "geom:latitude":39.915388,
     "geom:longitude":-0.420739,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12008",
+        "eurostat:nuts_2021_id":"12008",
         "gn:id":6356967,
         "gp:id":12695413,
         "qs_pg:id":1149668
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8281f9392e916a077590df350e4f5e69",
+    "wof:geomhash":"7cc8d7b56e7c81d4d519309ecd62d2b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404333123,
-    "wof:lastmodified":1582361783,
+    "wof:lastmodified":1684352274,
     "wof:name":"Algimia De Almonacid",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":262,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

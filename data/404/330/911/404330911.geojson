@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8015,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Badalona",
+    "eurostat:nuts_2021_id":"08015",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08015",
+    "eurostat:population":223166,
+    "eurostat:population_year":2020,
     "geom:area":0.002275,
-    "geom:area_square_m":21085481.821204,
+    "geom:area_square_m":21085481.8212,
     "geom:bbox":"2.21095096003,41.4261613969,2.27027028589,41.4929758976",
     "geom:latitude":41.461961,
     "geom:longitude":2.23646,
@@ -217,6 +229,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -225,7 +239,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08015",
         "esp-icgc:la_lc":"08015",
+        "eurostat:nuts_2021_id":"08015",
         "gn:id":6356051,
         "gp:id":12693390,
         "qs_pg:id":290483
@@ -235,7 +251,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"1a8d08f0bed48e2ad059fc00bb8a707d",
+    "wof:geomhash":"4ed6b63769b2bf0fca17aea585d114cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -246,10 +262,12 @@
         }
     ],
     "wof:id":404330911,
-    "wof:lastmodified":1582361541,
+    "wof:lastmodified":1684352235,
     "wof:name":"Badalona",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":223166,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

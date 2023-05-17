@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44147",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mazale\u00f3n",
+    "eurostat:nuts_2021_id":"44147",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44147",
+    "eurostat:population":511,
+    "eurostat:population_year":2020,
     "geom:area":0.009235,
     "geom:area_square_m":86143578.746896,
     "geom:bbox":"0.01976496,40.97680922,0.14809963,41.08034205",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44147",
+        "eurostat:nuts_2021_id":"44147",
         "gn:id":6361555,
         "gp:id":12689726,
         "qs_pg:id":45457
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9807fc8c899d0cc446dc90e983508dcf",
+    "wof:geomhash":"5e3e238953bbcddb234aeb168e20e31c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404344097,
-    "wof:lastmodified":1582361849,
+    "wof:lastmodified":1684352469,
     "wof:name":"Mazale\u00f3n",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":511,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

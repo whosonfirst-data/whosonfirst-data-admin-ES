@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_32058",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pereiro de Aguiar, O",
+    "eurostat:nuts_2021_id":"32058",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES113",
+    "eurostat:nuts_2021_level_lau":"32058",
+    "eurostat:population":6350,
+    "eurostat:population_year":2020,
     "geom:area":0.006652,
     "geom:area_square_m":60797800.987126,
     "geom:bbox":"-7.83394054,42.289271,-7.72195108,42.40949383",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_32058",
+        "eurostat:nuts_2021_id":"32058",
         "gn:id":6359875,
         "gp:id":12694917,
         "qs_pg:id":621789
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"adea73101516d750b6e0b32c0b0002c0",
+    "wof:geomhash":"9a11616f3b1867db36e3a50741e74553",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404340203,
-    "wof:lastmodified":1582361652,
+    "wof:lastmodified":1684352403,
     "wof:name":"O Pereiro De Aguiar",
     "wof:parent_id":85682801,
     "wof:placetype":"localadmin",
+    "wof:population":6350,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

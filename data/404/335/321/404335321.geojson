@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18150",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Padul",
+    "eurostat:nuts_2021_id":"18150",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18150",
+    "eurostat:population":8694,
+    "eurostat:population_year":2020,
     "geom:area":0.009027,
-    "geom:area_square_m":89124094.04339,
+    "geom:area_square_m":89124094.043391,
     "geom:bbox":"-3.76217521,36.96911022,-3.56571801,37.05536419",
     "geom:latitude":37.014083,
     "geom:longitude":-3.66991,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18150",
+        "eurostat:nuts_2021_id":"18150",
         "gn:id":6357758,
         "gp:id":12688972,
         "qs_pg:id":388801
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a65eb6d10cd962cd3cc8f30f17bae816",
+    "wof:geomhash":"d83557ddd67ec0c8f5bda37ab972d49a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404335321,
-    "wof:lastmodified":1582361712,
+    "wof:lastmodified":1684352324,
     "wof:name":"Padul",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":8694,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48071",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Muskiz",
+    "eurostat:nuts_2021_id":"48071",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48071",
+    "eurostat:population":7536,
+    "eurostat:population_year":2020,
     "geom:area":0.002305,
-    "geom:area_square_m":20733604.629482,
+    "geom:area_square_m":20733604.629481,
     "geom:bbox":"-3.15431969,43.29176499,-3.10038845,43.35513424",
     "geom:latitude":43.325544,
     "geom:longitude":-3.12995,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_48071",
+        "eurostat:nuts_2021_id":"48071",
         "gn:id":6362413,
         "gp:id":12695238,
         "qs_pg:id":290502
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6d2e19784b4d8db5f21166d9663180a9",
+    "wof:geomhash":"d147dcce13169504e6615f95ec1614a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404346063,
-    "wof:lastmodified":1582361611,
+    "wof:lastmodified":1684352494,
     "wof:name":"Muskiz",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":7536,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

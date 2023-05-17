@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_23098",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villardompardo",
+    "eurostat:nuts_2021_id":"23098",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES616",
+    "eurostat:nuts_2021_level_lau":"23098",
+    "eurostat:population":968,
+    "eurostat:population_year":2020,
     "geom:area":0.001788,
     "geom:area_square_m":17462638.218798,
     "geom:bbox":"-4.03455064,37.81332919,-3.97193335,37.87133319",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_23098",
+        "eurostat:nuts_2021_id":"23098",
         "gn:id":6358544,
         "gp:id":12689186,
         "qs_pg:id":45165
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"15f244a77985c1d33bca3c1bfd0f6fb1",
+    "wof:geomhash":"6e438e6bfaa5b6e88a1409dd305381e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404337117,
-    "wof:lastmodified":1582361564,
+    "wof:lastmodified":1684352349,
     "wof:name":"Villardompardo",
     "wof:parent_id":85682757,
     "wof:placetype":"localadmin",
+    "wof:population":968,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

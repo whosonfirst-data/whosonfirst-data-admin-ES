@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05113",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Llanos de Tormes, Los",
+    "eurostat:nuts_2021_id":"05113",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05113",
+    "eurostat:population":60,
+    "eurostat:population_year":2020,
     "geom:area":0.001851,
-    "geom:area_square_m":17442574.424534,
+    "geom:area_square_m":17442574.424532,
     "geom:bbox":"-5.52191562,40.31840193,-5.42534771,40.35364856",
     "geom:latitude":40.336734,
     "geom:longitude":-5.474194,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05113",
+        "eurostat:nuts_2021_id":"05113",
         "gn:id":6355716,
         "qs_pg:id":621541
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"78b046efcb1b71a0687283d4de54d0d5",
+    "wof:geomhash":"d033cb796ef44ef22635ba3e62dba355",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404330019,
-    "wof:lastmodified":1582361537,
+    "wof:lastmodified":1684352218,
     "wof:name":"Los Llanos De Tormes",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":60,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

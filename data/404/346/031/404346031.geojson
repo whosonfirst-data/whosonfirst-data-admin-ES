@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48057",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lekeitio",
+    "eurostat:nuts_2021_id":"48057",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48057",
+    "eurostat:population":7317,
+    "eurostat:population_year":2020,
     "geom:area":0.000199,
-    "geom:area_square_m":1790144.678481,
+    "geom:area_square_m":1790144.678482,
     "geom:bbox":"-2.51605891,43.35246317,-2.49362675,43.37738425",
     "geom:latitude":43.366112,
     "geom:longitude":-2.507315,
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_48057",
+        "eurostat:nuts_2021_id":"48057",
         "gn:id":6362400,
         "gp:id":12695221,
         "qs_pg:id":1163738
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f5a48c9dd9ca2a777274374e8f438a26",
+    "wof:geomhash":"c079f87280e9a84c5093d0e71c843f03",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404346031,
-    "wof:lastmodified":1582361611,
+    "wof:lastmodified":1684352493,
     "wof:name":"Lekeitio",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":7317,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

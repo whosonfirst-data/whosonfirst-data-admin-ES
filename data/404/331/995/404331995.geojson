@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mamolar",
+    "eurostat:nuts_2021_id":"09201",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09201",
+    "eurostat:population":27,
+    "eurostat:population_year":2020,
     "geom:area":0.001989,
-    "geom:area_square_m":18296019.953894,
+    "geom:area_square_m":18296019.953892,
     "geom:bbox":"-3.38983642,41.89104235,-3.32671509,41.94272082",
     "geom:latitude":41.919674,
     "geom:longitude":-3.355382,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09201",
+        "eurostat:nuts_2021_id":"09201",
         "gn:id":6356485,
         "gp:id":12691533,
         "qs_pg:id":46285
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"288daf8bfa0fe1bd62764957a33ddb72",
+    "wof:geomhash":"6709184fc368ed924ff7834016a15655",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404331995,
-    "wof:lastmodified":1582361499,
+    "wof:lastmodified":1684352260,
     "wof:name":"Mamolar",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":27,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

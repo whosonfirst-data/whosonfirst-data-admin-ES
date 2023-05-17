@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":8092,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08092",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gironella",
+    "eurostat:nuts_2021_id":"08092",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08092",
+    "eurostat:population":4946,
+    "eurostat:population_year":2020,
     "geom:area":0.000747,
     "geom:area_square_m":6859418.440106,
     "geom:bbox":"1.86629330899,42.0020568238,1.90272790907,42.0452719206",
@@ -130,6 +142,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -138,7 +152,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08092",
         "esp-icgc:la_lc":"08092",
+        "eurostat:nuts_2021_id":"08092",
         "gn:id":6356122,
         "gp:id":12693472,
         "qs_pg:id":891405
@@ -148,7 +164,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"782f426c45aa1a9d2f41ee828f6520f7",
+    "wof:geomhash":"b4e0f2db132ec56031edac7a38860ffb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,10 +175,12 @@
         }
     ],
     "wof:id":404331085,
-    "wof:lastmodified":1582361488,
+    "wof:lastmodified":1684352241,
     "wof:name":"Gironella",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":4946,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

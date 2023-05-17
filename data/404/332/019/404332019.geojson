@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09218",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Milagros",
+    "eurostat:nuts_2021_id":"09218",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09218",
+    "eurostat:population":434,
+    "eurostat:population_year":2020,
     "geom:area":0.002378,
-    "geom:area_square_m":21994246.270638,
+    "geom:area_square_m":21994246.270639,
     "geom:bbox":"-3.7207143,41.55203556,-3.64525206,41.61669637",
     "geom:latitude":41.584272,
     "geom:longitude":-3.682797,
@@ -51,6 +63,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -58,9 +72,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_09218",
+        "eurostat:nuts_2021_id":"09218"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"f28f98f9b59708dfd6049b74abd63335",
+    "wof:geomhash":"84276d3659f15594cb8c3329d6321d4f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,10 +88,12 @@
         }
     ],
     "wof:id":404332019,
-    "wof:lastmodified":1566590523,
+    "wof:lastmodified":1684352260,
     "wof:name":"Milagros",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":434,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_30021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fuente \u00c1lamo de Murcia",
+    "eurostat:nuts_2021_id":"30021",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES62",
+    "eurostat:nuts_2021_level_3":"ES620",
+    "eurostat:nuts_2021_level_lau":"30021",
+    "eurostat:population":16787,
+    "eurostat:population_year":2020,
     "geom:area":0.027957,
-    "geom:area_square_m":273397834.385216,
+    "geom:area_square_m":273397834.385214,
     "geom:bbox":"-1.34120419,37.63037295,-1.06333362,37.84828474",
     "geom:latitude":37.73233,
     "geom:longitude":-1.213927,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227389
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_30021",
+        "eurostat:nuts_2021_id":"30021"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"a62ba6930e59ac94f02ccfa64b10c60d",
+    "wof:geomhash":"d5e03af7c7a55eb08143c7bca6b1ce92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404339365,
-    "wof:lastmodified":1566590072,
+    "wof:lastmodified":1684352393,
     "wof:name":"Fuente \u00c1lamo De Murcia",
     "wof:parent_id":85682791,
     "wof:placetype":"localadmin",
+    "wof:population":16787,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

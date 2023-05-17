@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43168,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43168",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vilanova de Prades",
+    "eurostat:nuts_2021_id":"43168",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43168",
+    "eurostat:population":107,
+    "eurostat:population_year":2020,
     "geom:area":0.002328,
-    "geom:area_square_m":21616529.29912,
+    "geom:area_square_m":21616434.875261,
     "geom:bbox":"0.904935,41.316849,0.994263,41.360981",
     "geom:latitude":41.338913,
     "geom:longitude":0.948781,
@@ -61,6 +73,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -69,7 +83,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43168",
         "esp-icgc:la_lc":"043168",
+        "eurostat:nuts_2021_id":"43168",
         "gn:id":6361410,
         "gp:id":12694311,
         "qs_pg:id":1020016
@@ -79,7 +95,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"3cd7058c80d169f7019b4beb3278615b",
+    "wof:geomhash":"5d30d08c654d1c9375dffb2ec80450ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,10 +106,12 @@
         }
     ],
     "wof:id":404343769,
-    "wof:lastmodified":1669903065,
+    "wof:lastmodified":1684352464,
     "wof:name":"Vilanova de Prades",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":107,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

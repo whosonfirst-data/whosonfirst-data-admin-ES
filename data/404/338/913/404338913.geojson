@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Paracuellos de Jarama",
+    "eurostat:nuts_2021_id":"28104",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28104",
+    "eurostat:population":25917,
+    "eurostat:population_year":2020,
     "geom:area":0.004655,
-    "geom:area_square_m":43759803.780117,
+    "geom:area_square_m":43759803.780116,
     "geom:bbox":"-3.56604275,40.46873555,-3.47646782,40.57547957",
     "geom:latitude":40.514341,
     "geom:longitude":-3.52465,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28104",
+        "eurostat:nuts_2021_id":"28104",
         "gn:id":6359326,
         "gp:id":12688046,
         "qs_pg:id":499045
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"43328424339ccae0251631107d78b222",
+    "wof:geomhash":"be94357e71e1b83cd201fc090c6a6ecd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404338913,
-    "wof:lastmodified":1582361443,
+    "wof:lastmodified":1684352384,
     "wof:name":"Paracuellos De Jarama",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":25917,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

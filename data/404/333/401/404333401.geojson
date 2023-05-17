@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12140",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Viver",
+    "eurostat:nuts_2021_id":"12140",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12140",
+    "eurostat:population":1572,
+    "eurostat:population_year":2020,
     "geom:area":0.00526,
-    "geom:area_square_m":49877098.375027,
+    "geom:area_square_m":49877098.375028,
     "geom:bbox":"-0.69180087,39.87851872,-0.58411981,39.98164941",
     "geom:latitude":39.932236,
     "geom:longitude":-0.630117,
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12140",
+        "eurostat:nuts_2021_id":"12140",
         "gn:id":6357090,
         "gp:id":12695539,
         "qs_pg:id":212776
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6ebb12056d7c7a40d22e65458b7784f6",
+    "wof:geomhash":"7873bd6c6683ae10c78fa894a04bd880",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404333401,
-    "wof:lastmodified":1582361765,
+    "wof:lastmodified":1684352278,
     "wof:name":"Viver",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":1572,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

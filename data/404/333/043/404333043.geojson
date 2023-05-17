@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_11016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chipiona",
+    "eurostat:nuts_2021_id":"11016",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES612",
+    "eurostat:nuts_2021_level_lau":"11016",
+    "eurostat:population":19246,
+    "eurostat:population_year":2020,
     "geom:area":0.003319,
-    "geom:area_square_m":32892553.417307,
+    "geom:area_square_m":32892553.41731,
     "geom:bbox":"-6.47206635,36.68996613,-6.36992789,36.76248718",
     "geom:latitude":36.727011,
     "geom:longitude":-6.406816,
@@ -132,6 +144,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -140,6 +154,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_11016",
+        "eurostat:nuts_2021_id":"11016",
         "gn:id":6356931,
         "gp:id":12688742,
         "qs_pg:id":1310988
@@ -148,7 +164,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bff13bd034dcfeae78bafe9929bb7c1b",
+    "wof:geomhash":"e91ee96a5f482d5a7d69b67110ff4696",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,10 +175,12 @@
         }
     ],
     "wof:id":404333043,
-    "wof:lastmodified":1582361778,
+    "wof:lastmodified":1684352273,
     "wof:name":"Chipiona",
     "wof:parent_id":85682679,
     "wof:placetype":"localadmin",
+    "wof:population":19246,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

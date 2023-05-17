@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_27029",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Meira",
+    "eurostat:nuts_2021_id":"27029",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES112",
+    "eurostat:nuts_2021_level_lau":"27029",
+    "eurostat:population":1748,
+    "eurostat:population_year":2020,
     "geom:area":0.005158,
-    "geom:area_square_m":46473338.409289,
+    "geom:area_square_m":46473338.409293,
     "geom:bbox":"-7.31455054,43.17623331,-7.19753376,43.2638622",
     "geom:latitude":43.222535,
     "geom:longitude":-7.260267,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_27029",
+        "eurostat:nuts_2021_id":"27029",
         "gn:id":6359190,
         "gp:id":12694824,
         "qs_pg:id":48160
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"aad22d85fb2080aafc7774aaa3db63df",
+    "wof:geomhash":"4415329b1f9b3c04121c8b653a61d45d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404338597,
-    "wof:lastmodified":1582361445,
+    "wof:lastmodified":1684352378,
     "wof:name":"Meira",
     "wof:parent_id":85682775,
     "wof:placetype":"localadmin",
+    "wof:population":1748,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

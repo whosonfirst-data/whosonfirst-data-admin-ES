@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cambre",
+    "eurostat:nuts_2021_id":"15017",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15017",
+    "eurostat:population":24594,
+    "eurostat:population_year":2020,
     "geom:area":0.004518,
-    "geom:area_square_m":40669518.275578,
+    "geom:area_square_m":40669518.275579,
     "geom:bbox":"-8.37747251,43.24039826,-8.2843906,43.32206425",
     "geom:latitude":43.279719,
     "geom:longitude":-8.328878,
@@ -129,6 +141,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -137,6 +151,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_15017",
+        "eurostat:nuts_2021_id":"15017",
         "gn:id":6357287,
         "gp:id":12694718,
         "qs_pg:id":1118846
@@ -145,7 +161,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ac0282c498afe57f0086e50fa559b0af",
+    "wof:geomhash":"e91708761df050f2f47b2436afd18616",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404333845,
-    "wof:lastmodified":1582361762,
+    "wof:lastmodified":1684352286,
     "wof:name":"Cambre",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":24594,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

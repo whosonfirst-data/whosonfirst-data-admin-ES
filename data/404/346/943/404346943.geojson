@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fay\u00f3n",
+    "eurostat:nuts_2021_id":"50105",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50105",
+    "eurostat:population":380,
+    "eurostat:population_year":2020,
     "geom:area":0.00722,
     "geom:area_square_m":67104558.922655,
     "geom:bbox":"0.24168713,41.22262537,0.38566417,41.303972",
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50105",
+        "eurostat:nuts_2021_id":"50105",
         "gn:id":6362796,
         "gp:id":12689936,
         "qs_pg:id":53297
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"862b3c83396b7fa0e149a05ea822deb8",
+    "wof:geomhash":"08399a649b1b378f210c4f6105f72720",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404346943,
-    "wof:lastmodified":1582361621,
+    "wof:lastmodified":1684352505,
     "wof:name":"Fay\u00f3n",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":380,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

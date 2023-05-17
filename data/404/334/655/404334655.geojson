@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17047,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17047",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castell\u00f3 d'Emp\u00faries",
+    "eurostat:nuts_2021_id":"17047",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17047",
+    "eurostat:population":11100,
+    "eurostat:population_year":2020,
     "geom:area":0.004616,
-    "geom:area_square_m":42254838.336107,
+    "geom:area_square_m":42254813.299278,
     "geom:bbox":"3.0495,42.203653,3.150534,42.288418",
     "geom:latitude":42.247658,
     "geom:longitude":3.097785,
@@ -48,6 +60,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -56,13 +70,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"017047"
+        "eg:gisco_id":"ES_17047",
+        "esp-icgc:la_lc":"017047",
+        "eurostat:nuts_2021_id":"17047"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"45b8cb72bc33ff2137f4d302dd2b4301",
+    "wof:geomhash":"e6ee3b73c44ffca0a146538390275311",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,10 +89,12 @@
         }
     ],
     "wof:id":404334655,
-    "wof:lastmodified":1669903052,
+    "wof:lastmodified":1684352304,
     "wof:name":"Castell\u00f3 d'Emp\u00faries",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":11100,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

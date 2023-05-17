@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Karrantza Harana / Valle de Carranza",
+    "eurostat:nuts_2021_id":"48022",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48022",
+    "eurostat:population":2803,
+    "eurostat:population_year":2020,
     "geom:area":0.015276,
-    "geom:area_square_m":137677162.730951,
+    "geom:area_square_m":137677162.730953,
     "geom:bbox":"-3.4501471,43.13331612,-3.27727471,43.27802959",
     "geom:latitude":43.209381,
     "geom:longitude":-3.365096,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_48022",
+        "eurostat:nuts_2021_id":"48022"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"d71b4f57531118b2a289be069a7acd84",
+    "wof:geomhash":"6f1be79ea961665f03a7ac282914747c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404345953,
-    "wof:lastmodified":1566590989,
+    "wof:lastmodified":1684352492,
     "wof:name":"Karrantza Harana/Valle De Carranza",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":2803,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

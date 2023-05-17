@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25255,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25255",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vinaixa",
+    "eurostat:nuts_2021_id":"25255",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25255",
+    "eurostat:population":450,
+    "eurostat:population_year":2020,
     "geom:area":0.004037,
-    "geom:area_square_m":37424875.30517,
+    "geom:area_square_m":37424875.305169,
     "geom:bbox":"0.928712315243,41.3889558943,1.0153492292,41.4810205554",
     "geom:latitude":41.439932,
     "geom:longitude":0.975911,
@@ -109,6 +121,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -117,7 +131,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25255",
         "esp-icgc:la_lc":"025255",
+        "eurostat:nuts_2021_id":"25255",
         "gn:id":6358977,
         "gp:id":12694136,
         "qs_pg:id":47677
@@ -127,7 +143,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f26aa489605ba5392f5adeefd40ce420",
+    "wof:geomhash":"e95ea07c75637ebf97cd816185dfbf41",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404338109,
-    "wof:lastmodified":1582361444,
+    "wof:lastmodified":1684352371,
     "wof:name":"Vinaixa",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":450,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

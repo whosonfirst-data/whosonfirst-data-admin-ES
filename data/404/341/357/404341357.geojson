@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37127",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Espeja",
+    "eurostat:nuts_2021_id":"37127",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37127",
+    "eurostat:population":225,
+    "eurostat:population_year":2020,
     "geom:area":0.010456,
-    "geom:area_square_m":98291261.851833,
+    "geom:area_square_m":98291261.851832,
     "geom:bbox":"-6.81991883,40.45106776,-6.68172783,40.5988564",
     "geom:latitude":40.518176,
     "geom:longitude":-6.745645,
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37127",
+        "eurostat:nuts_2021_id":"37127",
         "gn:id":6360370,
         "gp:id":12692263,
         "qs_pg:id":201186
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b78e55018e4993b2b4e834d2649557c7",
+    "wof:geomhash":"3dd3ea151157ede1f83802b24df8154f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404341357,
-    "wof:lastmodified":1582361633,
+    "wof:lastmodified":1684352423,
     "wof:name":"Espeja",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":225,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

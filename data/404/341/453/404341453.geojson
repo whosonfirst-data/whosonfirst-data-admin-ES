@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37171",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ledrada",
+    "eurostat:nuts_2021_id":"37171",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37171",
+    "eurostat:population":477,
+    "eurostat:population_year":2020,
     "geom:area":0.0018,
-    "geom:area_square_m":16929631.205773,
+    "geom:area_square_m":16929631.205772,
     "geom:bbox":"-5.75225631,40.45024162,-5.69435155,40.50445135",
     "geom:latitude":40.47635,
     "geom:longitude":-5.724248,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37171",
+        "eurostat:nuts_2021_id":"37171",
         "gn:id":6360413,
         "gp:id":12692306,
         "qs_pg:id":46679
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0b20589394a3b637a84eb344808e670c",
+    "wof:geomhash":"2ad969baa9a0a6d2505dab26692e1058",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404341453,
-    "wof:lastmodified":1582361630,
+    "wof:lastmodified":1684352424,
     "wof:name":"Ledrada",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":477,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

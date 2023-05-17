@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Laxe",
+    "eurostat:nuts_2021_id":"15040",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15040",
+    "eurostat:population":2990,
+    "eurostat:population_year":2020,
     "geom:area":0.004053,
-    "geom:area_square_m":36544741.131017,
+    "geom:area_square_m":36544741.131022,
     "geom:bbox":"-9.07905023,43.15192282,-8.97226466,43.23519418",
     "geom:latitude":43.187647,
     "geom:longitude":-9.019201,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_15040",
+        "eurostat:nuts_2021_id":"15040",
         "gn:id":6357309,
         "gp:id":12694743,
         "qs_pg:id":1198243
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5f89101b8ac45ab3ef5b4a1afa526e72",
+    "wof:geomhash":"2fff3e8b83264e96a0fff740bd7fc0de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404333897,
-    "wof:lastmodified":1582361782,
+    "wof:lastmodified":1684352288,
     "wof:name":"Laxe",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":2990,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

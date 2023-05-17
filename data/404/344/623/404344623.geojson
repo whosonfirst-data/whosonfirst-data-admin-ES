@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45127",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Palomeque",
+    "eurostat:nuts_2021_id":"45127",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45127",
+    "eurostat:population":1011,
+    "eurostat:population_year":2020,
     "geom:area":0.002354,
-    "geom:area_square_m":22257388.478035,
+    "geom:area_square_m":22257388.478036,
     "geom:bbox":"-4.01720034,40.09346086,-3.93893045,40.14342653",
     "geom:latitude":40.117128,
     "geom:longitude":-3.977975,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45127",
+        "eurostat:nuts_2021_id":"45127",
         "gn:id":6361787,
         "gp:id":12691048,
         "qs_pg:id":1289723
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6b017dd666a9166721dfc2b2de49d6ac",
+    "wof:geomhash":"fbe4b69710022467a532f5bde26ddb5b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404344623,
-    "wof:lastmodified":1582361855,
+    "wof:lastmodified":1684352476,
     "wof:name":"Palomeque",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":1011,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

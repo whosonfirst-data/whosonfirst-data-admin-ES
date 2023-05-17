@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Beneixama",
+    "eurostat:nuts_2021_id":"03023",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03023",
+    "eurostat:population":1690,
+    "eurostat:population_year":2020,
     "geom:area":0.003614,
     "geom:area_square_m":34863963.831351,
     "geom:bbox":"-0.80142133,38.6799221,-0.71328549,38.75563486",
@@ -105,6 +117,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -112,9 +126,12 @@
         404227381
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_03023",
+        "eurostat:nuts_2021_id":"03023"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"baef13eb260e3ee13ba91d797227b0ad",
+    "wof:geomhash":"e36d336beb815ddbb4f42b446f06260a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +142,12 @@
         }
     ],
     "wof:id":404329303,
-    "wof:lastmodified":1566590876,
+    "wof:lastmodified":1684352207,
     "wof:name":"Beneixama",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":1690,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

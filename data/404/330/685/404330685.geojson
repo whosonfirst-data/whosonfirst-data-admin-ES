@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06146",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valle de la Serena",
+    "eurostat:nuts_2021_id":"06146",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06146",
+    "eurostat:population":1172,
+    "eurostat:population_year":2020,
     "geom:area":0.012973,
-    "geom:area_square_m":125171655.459331,
+    "geom:area_square_m":125171655.459335,
     "geom:bbox":"-5.9204937,38.58632306,-5.73451506,38.80157046",
     "geom:latitude":38.711531,
     "geom:longitude":-5.830374,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06146",
+        "eurostat:nuts_2021_id":"06146",
         "gn:id":6356011,
         "gp:id":12694462,
         "qs_pg:id":977921
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ad3ab241b305212d65cc957adf167b33",
+    "wof:geomhash":"7d1d3f030af83f94c138cb17e0884d7e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330685,
-    "wof:lastmodified":1582361536,
+    "wof:lastmodified":1684352228,
     "wof:name":"Valle De La Serena",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":1172,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

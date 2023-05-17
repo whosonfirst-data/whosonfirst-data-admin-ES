@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37181",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Martiago",
+    "eurostat:nuts_2021_id":"37181",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37181",
+    "eurostat:population":263,
+    "eurostat:population_year":2020,
     "geom:area":0.005027,
-    "geom:area_square_m":47310967.693916,
+    "geom:area_square_m":47310967.69392,
     "geom:bbox":"-6.51794557,40.37011589,-6.44585298,40.50194924",
     "geom:latitude":40.438212,
     "geom:longitude":-6.478903,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37181",
+        "eurostat:nuts_2021_id":"37181",
         "gn:id":6360423,
         "gp:id":12692316,
         "qs_pg:id":1166238
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3eefe22f197aa6a4fc92b17ff900d809",
+    "wof:geomhash":"68cda8fd09a8013f128600c1774e5228",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404341475,
-    "wof:lastmodified":1582361636,
+    "wof:lastmodified":1684352425,
     "wof:name":"Martiago",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":263,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45141",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Quero",
+    "eurostat:nuts_2021_id":"45141",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45141",
+    "eurostat:population":980,
+    "eurostat:population_year":2020,
     "geom:area":0.010916,
-    "geom:area_square_m":104127436.605802,
+    "geom:area_square_m":104127436.605803,
     "geom:bbox":"-3.33113519,39.4700309,-3.18446523,39.5694435",
     "geom:latitude":39.513981,
     "geom:longitude":-3.260226,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45141",
+        "eurostat:nuts_2021_id":"45141",
         "gn:id":6361801,
         "gp:id":12691062,
         "qs_pg:id":210154
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4bfcb164e17ec44eb0171d4d63a8198c",
+    "wof:geomhash":"3d435e7d27fe9a0ef81e1b81abb6edde",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404344655,
-    "wof:lastmodified":1582361856,
+    "wof:lastmodified":1684352477,
     "wof:name":"Quero",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":980,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_21064",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Juan del Puerto",
+    "eurostat:nuts_2021_id":"21064",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES615",
+    "eurostat:nuts_2021_level_lau":"21064",
+    "eurostat:population":9411,
+    "eurostat:population_year":2020,
     "geom:area":0.004609,
-    "geom:area_square_m":45308519.709153,
+    "geom:area_square_m":45308519.709156,
     "geom:bbox":"-6.90576364,37.26269635,-6.75152231,37.40288757",
     "geom:latitude":37.340224,
     "geom:longitude":-6.842953,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_21064",
+        "eurostat:nuts_2021_id":"21064",
         "gn:id":6358240,
         "gp:id":12689078,
         "qs_pg:id":1173812
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9a480b28f0805eae5ea2fcdafca9d58e",
+    "wof:geomhash":"d13c59b4b04004fca3ff0cd8f6d2a0c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404336425,
-    "wof:lastmodified":1582361462,
+    "wof:lastmodified":1684352338,
     "wof:name":"San Juan Del Puerto",
     "wof:parent_id":85682749,
     "wof:placetype":"localadmin",
+    "wof:population":9411,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

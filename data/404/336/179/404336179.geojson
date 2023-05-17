@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_20043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Idiazabal",
+    "eurostat:nuts_2021_id":"20043",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES212",
+    "eurostat:nuts_2021_level_lau":"20043",
+    "eurostat:population":2293,
+    "eurostat:population_year":2020,
     "geom:area":0.003252,
-    "geom:area_square_m":29417578.36909,
+    "geom:area_square_m":29417578.369091,
     "geom:bbox":"-2.26269134,42.94626326,-2.20193713,43.03602338",
     "geom:latitude":42.987228,
     "geom:longitude":-2.232938,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_20043",
+        "eurostat:nuts_2021_id":"20043",
         "gn:id":6358132,
         "qs_pg:id":103368
     },
@@ -120,7 +136,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8781ab7d6ea72f0e6ba0d2577f4a50e0",
+    "wof:geomhash":"c9207aa62d3604df155c479cec726f17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404336179,
-    "wof:lastmodified":1582361477,
+    "wof:lastmodified":1684352334,
     "wof:name":"Idiazabal",
     "wof:parent_id":85682741,
     "wof:placetype":"localadmin",
+    "wof:population":2293,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

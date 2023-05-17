@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cr\u00e9menes",
+    "eurostat:nuts_2021_id":"24060",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24060",
+    "eurostat:population":527,
+    "eurostat:population_year":2020,
     "geom:area":0.016883,
-    "geom:area_square_m":152873776.890585,
+    "geom:area_square_m":152873776.890588,
     "geom:bbox":"-5.21886464,42.83938479,-5.02816249,43.01512635",
     "geom:latitude":42.923197,
     "geom:longitude":-5.132482,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_24060",
+        "eurostat:nuts_2021_id":"24060",
         "gn:id":6358606,
         "gp:id":12691803,
         "qs_pg:id":1102639
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"eaf73c216f889395c553a0729db3ade7",
+    "wof:geomhash":"d2e136377c789a07bea7936949b16e97",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404337259,
-    "wof:lastmodified":1582361556,
+    "wof:lastmodified":1684352350,
     "wof:name":"Cr\u00e9menes",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":527,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

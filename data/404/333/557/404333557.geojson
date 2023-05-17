@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_13066",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pozuelo de Calatrava",
+    "eurostat:nuts_2021_id":"13066",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES422",
+    "eurostat:nuts_2021_level_lau":"13066",
+    "eurostat:population":3586,
+    "eurostat:population_year":2020,
     "geom:area":0.010347,
-    "geom:area_square_m":99596644.932287,
+    "geom:area_square_m":99596644.932289,
     "geom:bbox":"-3.91154921,38.79557746,-3.7570501,38.97125296",
     "geom:latitude":38.884693,
     "geom:longitude":-3.84081,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_13066",
+        "eurostat:nuts_2021_id":"13066",
         "gn:id":6357160,
         "gp:id":12690363,
         "qs_pg:id":1019939
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"358b2e8804348fea92676e23a61719dd",
+    "wof:geomhash":"6ac83948a18c71f197889e7401aa7d7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404333557,
-    "wof:lastmodified":1582361760,
+    "wof:lastmodified":1684352281,
     "wof:name":"Pozuelo De Calatrava",
     "wof:parent_id":85682689,
     "wof:placetype":"localadmin",
+    "wof:population":3586,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

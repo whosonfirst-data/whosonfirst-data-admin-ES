@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_20063",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oiartzun",
+    "eurostat:nuts_2021_id":"20063",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES212",
+    "eurostat:nuts_2021_level_lau":"20063",
+    "eurostat:population":10309,
+    "eurostat:population_year":2020,
     "geom:area":0.006621,
-    "geom:area_square_m":59602861.723144,
+    "geom:area_square_m":59602861.723142,
     "geom:bbox":"-1.89729399,43.21183579,-1.78320706,43.32516158",
     "geom:latitude":43.276254,
     "geom:longitude":-1.839097,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_20063",
+        "eurostat:nuts_2021_id":"20063",
         "gn:id":6358152,
         "gp:id":12695130,
         "qs_pg:id":1042052
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7eb474c9092be9a5f1c04964faff90c3",
+    "wof:geomhash":"0b900bdd1231cf012071dd5bcc756134",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404336225,
-    "wof:lastmodified":1582361473,
+    "wof:lastmodified":1684352335,
     "wof:name":"Oiartzun",
     "wof:parent_id":85682741,
     "wof:placetype":"localadmin",
+    "wof:population":10309,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

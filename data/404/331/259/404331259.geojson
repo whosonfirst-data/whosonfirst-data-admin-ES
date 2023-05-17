@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8169,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08169",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Prat de Llobregat, El",
+    "eurostat:nuts_2021_id":"08169",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08169",
+    "eurostat:population":65385,
+    "eurostat:population_year":2020,
     "geom:area":0.003607,
-    "geom:area_square_m":33504255.63412,
+    "geom:area_square_m":33504298.141407,
     "geom:bbox":"2.057356,41.276458,2.167584,41.347737",
     "geom:latitude":41.310025,
     "geom:longitude":2.098845,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08169",
         "esp-icgc:la_lc":"08169",
+        "eurostat:nuts_2021_id":"08169",
         "gn:id":6356195,
         "gp:id":12693549,
         "qs_pg:id":1298378
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"05f2c6ccd603287aec358ba389275953",
+    "wof:geomhash":"f09b0577a955684431b9f08e18006ed6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404331259,
-    "wof:lastmodified":1669903001,
+    "wof:lastmodified":1684352246,
     "wof:name":"El Prat de Llobregat",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":65385,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

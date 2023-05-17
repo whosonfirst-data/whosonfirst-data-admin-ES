@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09423",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vile\u00f1a",
+    "eurostat:nuts_2021_id":"09423",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09423",
+    "eurostat:population":27,
+    "eurostat:population_year":2020,
     "geom:area":0.000697,
-    "geom:area_square_m":6337900.902549,
+    "geom:area_square_m":6337900.902548,
     "geom:bbox":"-3.34406228,42.6023733,-3.30383156,42.63027196",
     "geom:latitude":42.616218,
     "geom:longitude":-3.323381,
@@ -108,6 +120,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -115,9 +129,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_09423",
+        "eurostat:nuts_2021_id":"09423"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"08162b82cb2cc67938d7ceb856240e79",
+    "wof:geomhash":"fbbeb874e92b6604d49c857b968a0411",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +145,12 @@
         }
     ],
     "wof:id":404332393,
-    "wof:lastmodified":1566590513,
+    "wof:lastmodified":1684352264,
     "wof:name":"Vile\u00f1a",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":27,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

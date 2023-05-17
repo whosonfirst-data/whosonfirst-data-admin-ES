@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bocigas",
+    "eurostat:nuts_2021_id":"47021",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47021",
+    "eurostat:population":90,
+    "eurostat:population_year":2020,
     "geom:area":0.001753,
     "geom:area_square_m":16294882.433056,
     "geom:bbox":"-4.71695921,41.22005017,-4.65276484,41.26264234",
@@ -99,6 +111,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -106,9 +120,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_47021",
+        "eurostat:nuts_2021_id":"47021"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"3a87b62423bca51e7b153f66a3f0b8e7",
+    "wof:geomhash":"07de0f7b2578a44202399f637a9ef375",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +136,12 @@
         }
     ],
     "wof:id":404345445,
-    "wof:lastmodified":1566591039,
+    "wof:lastmodified":1684352486,
     "wof:name":"Bocigas",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":90,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17186,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17186",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sarri\u00e0 de Ter",
+    "eurostat:nuts_2021_id":"17186",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17186",
+    "eurostat:population":5229,
+    "eurostat:population_year":2020,
     "geom:area":0.000463,
-    "geom:area_square_m":4249947.237335,
+    "geom:area_square_m":4249962.816058,
     "geom:bbox":"2.798905,41.998914,2.827962,42.026009",
     "geom:latitude":42.013957,
     "geom:longitude":2.812347,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17186",
         "esp-icgc:la_lc":"017186",
+        "eurostat:nuts_2021_id":"17186",
         "gn:id":6534143,
         "gp:id":12693860,
         "qs_pg:id":289935
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"8df6d1eea646a43c6fe947291cbbb032",
+    "wof:geomhash":"611347493b212f2da5bef5d15e8a04a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404334943,
-    "wof:lastmodified":1669903056,
+    "wof:lastmodified":1684352316,
     "wof:name":"Sarri\u00e0 de Ter",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":5229,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8037,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calldetenes",
+    "eurostat:nuts_2021_id":"08037",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08037",
+    "eurostat:population":2513,
+    "eurostat:population_year":2020,
     "geom:area":0.000621,
-    "geom:area_square_m":5711243.126785,
+    "geom:area_square_m":5711243.126786,
     "geom:bbox":"2.27695020181,41.9128218045,2.31640217952,41.9373773636",
     "geom:latitude":41.925732,
     "geom:longitude":2.297721,
@@ -124,6 +136,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -132,7 +146,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08037",
         "esp-icgc:la_lc":"08037",
+        "eurostat:nuts_2021_id":"08037",
         "gn:id":6356071,
         "gp:id":12693413,
         "qs_pg:id":247275
@@ -142,7 +158,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"77b10c520f10f897777701458f410c79",
+    "wof:geomhash":"ac514354d1474d325930e26e1c5ba18f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,10 +169,12 @@
         }
     ],
     "wof:id":404330961,
-    "wof:lastmodified":1582361532,
+    "wof:lastmodified":1684352237,
     "wof:name":"Calldetenes",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":2513,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25148,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25148",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Od\u00e8n",
+    "eurostat:nuts_2021_id":"25148",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25148",
+    "eurostat:population":258,
+    "eurostat:population_year":2020,
     "geom:area":0.012462,
-    "geom:area_square_m":114295493.686706,
+    "geom:area_square_m":114295411.203818,
     "geom:bbox":"1.323483,42.07302,1.555086,42.184774",
     "geom:latitude":42.122812,
     "geom:longitude":1.438938,
@@ -112,6 +124,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -120,7 +134,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25148",
         "esp-icgc:la_lc":"025148",
+        "eurostat:nuts_2021_id":"25148",
         "gp:id":12694040,
         "qs_pg:id":925283
     },
@@ -129,7 +145,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e10730eaddab8b90164cb38eb4ad0483",
+    "wof:geomhash":"48ba95569dcc7cae0ad41c39d81a4401",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404337909,
-    "wof:lastmodified":1669903018,
+    "wof:lastmodified":1684352364,
     "wof:name":"Od\u00e8n",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":258,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

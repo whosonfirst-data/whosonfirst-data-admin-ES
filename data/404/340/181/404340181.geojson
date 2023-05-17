@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_32049",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montederramo",
+    "eurostat:nuts_2021_id":"32049",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES113",
+    "eurostat:nuts_2021_level_lau":"32049",
+    "eurostat:population":699,
+    "eurostat:population_year":2020,
     "geom:area":0.014796,
-    "geom:area_square_m":135360817.706286,
+    "geom:area_square_m":135360817.706289,
     "geom:bbox":"-7.61391568,42.1877705,-7.42794658,42.35016734",
     "geom:latitude":42.281341,
     "geom:longitude":-7.503639,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_32049",
+        "eurostat:nuts_2021_id":"32049",
         "gn:id":6359867,
         "gp:id":12694908,
         "qs_pg:id":1149655
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"94dace0420d162bb7f2fa7155017daf6",
+    "wof:geomhash":"627aadb76ef5a0e24187d3bba4f2c46b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404340181,
-    "wof:lastmodified":1582361655,
+    "wof:lastmodified":1684352403,
     "wof:name":"Montederramo",
     "wof:parent_id":85682801,
     "wof:placetype":"localadmin",
+    "wof:population":699,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

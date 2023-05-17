@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Busot",
+    "eurostat:nuts_2021_id":"03046",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03046",
+    "eurostat:population":3075,
+    "eurostat:population_year":2020,
     "geom:area":0.003495,
-    "geom:area_square_m":33819994.564481,
+    "geom:area_square_m":33819994.564482,
     "geom:bbox":"-0.45192617,38.45671255,-0.38221178,38.54068201",
     "geom:latitude":38.500946,
     "geom:longitude":-0.418476,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03046",
+        "eurostat:nuts_2021_id":"03046",
         "gn:id":6355422,
         "gp:id":12695311,
         "qs_pg:id":894475
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"19bf1fd8071d68c3053c633c228aef48",
+    "wof:geomhash":"eb99cd68567bb75278a738ea82244593",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404329355,
-    "wof:lastmodified":1582361789,
+    "wof:lastmodified":1684352208,
     "wof:name":"Busot",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":3075,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

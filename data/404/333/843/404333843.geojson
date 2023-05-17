@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Camari\u00f1as",
+    "eurostat:nuts_2021_id":"15016",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15016",
+    "eurostat:population":5209,
+    "eurostat:population_year":2020,
     "geom:area":0.005827,
-    "geom:area_square_m":52554403.295835,
+    "geom:area_square_m":52554403.295838,
     "geom:bbox":"-9.21637044,43.1220868,-9.08060016,43.20073735",
     "geom:latitude":43.159977,
     "geom:longitude":-9.145518,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_15016",
+        "eurostat:nuts_2021_id":"15016",
         "gn:id":6357286,
         "gp:id":12694717,
         "qs_pg:id":907100
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6c80b0ac67979175b683d56a9a699b6b",
+    "wof:geomhash":"73180989167ce2caadf5f86ecf947eb0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404333843,
-    "wof:lastmodified":1582361764,
+    "wof:lastmodified":1684352286,
     "wof:name":"Camari\u00f1as",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":5209,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

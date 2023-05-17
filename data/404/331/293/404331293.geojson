@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8185,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08185",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rubi\u00f3",
+    "eurostat:nuts_2021_id":"08185",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08185",
+    "eurostat:population":239,
+    "eurostat:population_year":2020,
     "geom:area":0.00519,
-    "geom:area_square_m":47952121.395168,
+    "geom:area_square_m":47952121.395167,
     "geom:bbox":"1.52567431879,41.6136178448,1.63464611798,41.6959496951",
     "geom:latitude":41.657124,
     "geom:longitude":1.57477,
@@ -121,6 +133,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -129,7 +143,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08185",
         "esp-icgc:la_lc":"08185",
+        "eurostat:nuts_2021_id":"08185",
         "gn:id":6356210,
         "gp:id":12693564,
         "qs_pg:id":1037075
@@ -139,7 +155,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"a0a0f241742853e8e25480695046d126",
+    "wof:geomhash":"2e46833f0f9ce21cfbad6fdf4e700fee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404331293,
-    "wof:lastmodified":1582361493,
+    "wof:lastmodified":1684352247,
     "wof:name":"Rubi\u00f3",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":239,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

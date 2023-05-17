@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casta\u00f1ar de Ibor",
+    "eurostat:nuts_2021_id":"10060",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10060",
+    "eurostat:population":1033,
+    "eurostat:population_year":2020,
     "geom:area":0.015428,
-    "geom:area_square_m":146837412.144777,
+    "geom:area_square_m":146837412.144769,
     "geom:bbox":"-5.51828307,39.59594635,-5.32816834,39.77123219",
     "geom:latitude":39.673777,
     "geom:longitude":-5.434074,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10060",
+        "eurostat:nuts_2021_id":"10060",
         "gn:id":6356757,
         "gp:id":12694542,
         "qs_pg:id":1263290
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8496efa0fa7f895eba745069b53fde4a",
+    "wof:geomhash":"ff3833a0d637c11f33bf290ca36ff098",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332645,
-    "wof:lastmodified":1582361679,
+    "wof:lastmodified":1684352267,
     "wof:name":"Casta\u00f1ar De Ibor",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":1033,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

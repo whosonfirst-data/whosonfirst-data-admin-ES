@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37109",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Colmenar de Montemayor",
+    "eurostat:nuts_2021_id":"37109",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37109",
+    "eurostat:population":186,
+    "eurostat:population_year":2020,
     "geom:area":0.004242,
-    "geom:area_square_m":39937644.775294,
+    "geom:area_square_m":39937644.775293,
     "geom:bbox":"-6.01509315,40.37021895,-5.91656809,40.45756038",
     "geom:latitude":40.408576,
     "geom:longitude":-5.956945,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37109",
+        "eurostat:nuts_2021_id":"37109",
         "gn:id":6360354,
         "gp:id":12692247,
         "qs_pg:id":201183
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3ef60865732d399fc798faf848da913f",
+    "wof:geomhash":"e08f4f27d6a6ceca16700694a6f23cd0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404341319,
-    "wof:lastmodified":1582361642,
+    "wof:lastmodified":1684352423,
     "wof:name":"Colmenar De Montemayor",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":186,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

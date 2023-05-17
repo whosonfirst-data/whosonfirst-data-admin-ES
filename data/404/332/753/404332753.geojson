@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10109",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Logros\u00e1n",
+    "eurostat:nuts_2021_id":"10109",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10109",
+    "eurostat:population":1971,
+    "eurostat:population_year":2020,
     "geom:area":0.038131,
-    "geom:area_square_m":365002776.728102,
+    "geom:area_square_m":365002776.728106,
     "geom:bbox":"-5.6030759,39.15636618,-5.34681127,39.39309225",
     "geom:latitude":39.273266,
     "geom:longitude":-5.481435,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10109",
+        "eurostat:nuts_2021_id":"10109",
         "gn:id":6356804,
         "gp:id":12694590,
         "qs_pg:id":48018
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2a153c9eee83b2fd6a39ea6d5f0ebaf7",
+    "wof:geomhash":"bbb79c70b7d26bcef3b4ce463755d2de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404332753,
-    "wof:lastmodified":1582361677,
+    "wof:lastmodified":1684352268,
     "wof:name":"Logros\u00e1n",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":1971,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

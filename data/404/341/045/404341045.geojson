@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_36038",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pontevedra",
+    "eurostat:nuts_2021_id":"36038",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES114",
+    "eurostat:nuts_2021_level_lau":"36038",
+    "eurostat:population":83260,
+    "eurostat:population_year":2020,
     "geom:area":0.012935,
-    "geom:area_square_m":118040583.60357,
+    "geom:area_square_m":118040775.800091,
     "geom:bbox":"-8.698411,42.343234,-8.555106,42.513055",
     "geom:latitude":42.4372,
     "geom:longitude":-8.619587,
@@ -192,6 +204,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -200,6 +214,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_36038",
+        "eurostat:nuts_2021_id":"36038",
         "gn:id":6360237,
         "gp:id":12694996,
         "qs_pg:id":1198286
@@ -208,7 +224,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"256ebd8f6910becaa6b573ad31483f6c",
+    "wof:geomhash":"d9d160a464db502dcd971c300895d933",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -219,10 +235,12 @@
         }
     ],
     "wof:id":404341045,
-    "wof:lastmodified":1636503321,
+    "wof:lastmodified":1684352419,
     "wof:name":"Pontevedra",
     "wof:parent_id":85682825,
     "wof:placetype":"localadmin",
+    "wof:population":83260,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

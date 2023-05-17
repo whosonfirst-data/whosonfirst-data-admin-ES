@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8129,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08129",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Muntanyola",
+    "eurostat:nuts_2021_id":"08129",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08129",
+    "eurostat:population":632,
+    "eurostat:population_year":2020,
     "geom:area":0.004394,
-    "geom:area_square_m":40443068.209336,
+    "geom:area_square_m":40442999.662014,
     "geom:bbox":"2.090377,41.852399,2.231691,41.971898",
     "geom:latitude":41.890387,
     "geom:longitude":2.157483,
@@ -127,6 +139,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -135,7 +149,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08129",
         "esp-icgc:la_lc":"08129",
+        "eurostat:nuts_2021_id":"08129",
         "gn:id":6356158,
         "gp:id":12693518,
         "qs_pg:id":1002817
@@ -145,7 +161,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"c7cf3524c1da0b2967d15d72829da927",
+    "wof:geomhash":"d7fe0af64b88e038b4fce27d56d9b2c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404331169,
-    "wof:lastmodified":1669902998,
+    "wof:lastmodified":1684352243,
     "wof:name":"Muntanyola",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":632,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49152",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pereruela",
+    "eurostat:nuts_2021_id":"49152",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49152",
+    "eurostat:population":515,
+    "eurostat:population_year":2020,
     "geom:area":0.017304,
-    "geom:area_square_m":160479031.996176,
+    "geom:area_square_m":160479031.996175,
     "geom:bbox":"-6.0014518,41.34239846,-5.79810805,41.5194965",
     "geom:latitude":41.409349,
     "geom:longitude":-5.889861,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_49152",
+        "eurostat:nuts_2021_id":"49152",
         "gn:id":6362587,
         "gp:id":12693266,
         "qs_pg:id":918636
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c77accd5c3eb67e52ad9f660f78c0293",
+    "wof:geomhash":"f01eba394af456dde9e7270b52b19cc3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404346469,
-    "wof:lastmodified":1582361618,
+    "wof:lastmodified":1684352499,
     "wof:name":"Pereruela",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":515,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

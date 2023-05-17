@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18904",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alpujarra de la Sierra",
+    "eurostat:nuts_2021_id":"18904",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18904",
+    "eurostat:population":969,
+    "eurostat:population_year":2020,
     "geom:area":0.00694,
-    "geom:area_square_m":68512304.902154,
+    "geom:area_square_m":68512304.902152,
     "geom:bbox":"-3.17905598,36.94853441,-3.09692235,37.09660495",
     "geom:latitude":37.019166,
     "geom:longitude":-3.142541,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227361
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_18904",
+        "eurostat:nuts_2021_id":"18904"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"cb36000ea53b7c87ac69513c60c208b6",
+    "wof:geomhash":"d6f855af46c234acd7223cada1749ab7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404335409,
-    "wof:lastmodified":1566590569,
+    "wof:lastmodified":1684352325,
     "wof:name":"Alpujarra De La Sierra",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":969,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

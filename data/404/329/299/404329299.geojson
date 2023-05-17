@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Banyeres de Mariola",
+    "eurostat:nuts_2021_id":"03021",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03021",
+    "eurostat:population":7090,
+    "eurostat:population_year":2020,
     "geom:area":0.005207,
-    "geom:area_square_m":50241855.075877,
+    "geom:area_square_m":50241855.075876,
     "geom:bbox":"-0.74575095,38.65711464,-0.61805127,38.75944515",
     "geom:latitude":38.705489,
     "geom:longitude":-0.677876,
@@ -54,6 +66,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -62,6 +76,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03021",
+        "eurostat:nuts_2021_id":"03021",
         "gn:id":6355397,
         "gp:id":12695286,
         "qs_pg:id":1198367
@@ -70,7 +86,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7b9e1067f7128898636d58e54fd2d786",
+    "wof:geomhash":"d1703c6996605a984cc2a7d40e645e84",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +97,12 @@
         }
     ],
     "wof:id":404329299,
-    "wof:lastmodified":1582361802,
+    "wof:lastmodified":1684352207,
     "wof:name":"Banyeres De Mariola",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":7090,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

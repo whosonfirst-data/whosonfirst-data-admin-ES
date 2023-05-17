@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_30022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jumilla",
+    "eurostat:nuts_2021_id":"30022",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES62",
+    "eurostat:nuts_2021_level_3":"ES620",
+    "eurostat:nuts_2021_level_lau":"30022",
+    "eurostat:population":25994,
+    "eurostat:population_year":2020,
     "geom:area":0.100027,
-    "geom:area_square_m":968385832.654553,
+    "geom:area_square_m":968385832.654545,
     "geom:bbox":"-1.49873273,38.28787016,-1.07720602,38.70400184",
     "geom:latitude":38.469109,
     "geom:longitude":-1.309743,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_30022",
+        "eurostat:nuts_2021_id":"30022",
         "gn:id":6359527,
         "gp:id":12688147,
         "qs_pg:id":1059703
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e2d209c7a42cb236b7776df9d9cf9526",
+    "wof:geomhash":"43be59b9902d71510a11b30b76418384",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404339367,
-    "wof:lastmodified":1582361591,
+    "wof:lastmodified":1684352393,
     "wof:name":"Jumilla",
     "wof:parent_id":85682791,
     "wof:placetype":"localadmin",
+    "wof:population":25994,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_32039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Laza",
+    "eurostat:nuts_2021_id":"32039",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES113",
+    "eurostat:nuts_2021_level_lau":"32039",
+    "eurostat:population":1223,
+    "eurostat:population_year":2020,
     "geom:area":0.023499,
-    "geom:area_square_m":215597411.481173,
+    "geom:area_square_m":215597411.481182,
     "geom:bbox":"-7.56398982,42.00912142,-7.35087396,42.20404597",
     "geom:latitude":42.099836,
     "geom:longitude":-7.453969,
@@ -57,6 +69,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -65,6 +79,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_32039",
+        "eurostat:nuts_2021_id":"32039",
         "gn:id":6359857,
         "gp:id":12694898,
         "qs_pg:id":1188891
@@ -73,7 +89,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2cf5b6d1f03ec2a22311a57fa826e09f",
+    "wof:geomhash":"913d1252e375dd9e53ebc7c246f10cbe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +100,12 @@
         }
     ],
     "wof:id":404340159,
-    "wof:lastmodified":1582361646,
+    "wof:lastmodified":1684352403,
     "wof:name":"Laza",
     "wof:parent_id":85682801,
     "wof:placetype":"localadmin",
+    "wof:population":1223,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_11005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Algodonales",
+    "eurostat:nuts_2021_id":"11005",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES612",
+    "eurostat:nuts_2021_level_lau":"11005",
+    "eurostat:population":5506,
+    "eurostat:population_year":2020,
     "geom:area":0.013562,
-    "geom:area_square_m":134124957.396412,
+    "geom:area_square_m":134124957.396414,
     "geom:bbox":"-5.53414398,36.83589859,-5.30495641,36.94066059",
     "geom:latitude":36.89119,
     "geom:longitude":-5.433824,
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_11005",
+        "eurostat:nuts_2021_id":"11005",
         "gn:id":6356920,
         "gp:id":12688731,
         "qs_pg:id":902567
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0838e106f589effff32ce5a9740807c5",
+    "wof:geomhash":"b313a4b7a49ec5f4d3ec962777b41f78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404333017,
-    "wof:lastmodified":1582361778,
+    "wof:lastmodified":1684352272,
     "wof:name":"Algodonales",
     "wof:parent_id":85682679,
     "wof:placetype":"localadmin",
+    "wof:population":5506,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_41004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alcal\u00e1 de Guada\u00edra",
+    "eurostat:nuts_2021_id":"41004",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES618",
+    "eurostat:nuts_2021_level_lau":"41004",
+    "eurostat:population":75533,
+    "eurostat:population_year":2020,
     "geom:area":0.02892,
-    "geom:area_square_m":284501124.981973,
+    "geom:area_square_m":284501124.981976,
     "geom:bbox":"-5.94842039,37.18682298,-5.64954521,37.39035533",
     "geom:latitude":37.290354,
     "geom:longitude":-5.806293,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_41004",
+        "eurostat:nuts_2021_id":"41004",
         "gn:id":6360959,
         "gp:id":12689294,
         "qs_pg:id":45231
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7d1d583f69e8e499088bf9ed86953368",
+    "wof:geomhash":"d704a94bcd1411262d1cb5bcdb924224",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404342751,
-    "wof:lastmodified":1582361815,
+    "wof:lastmodified":1684352442,
     "wof:name":"Alcal\u00e1 De Guada\u00edra",
     "wof:parent_id":85682841,
     "wof:placetype":"localadmin",
+    "wof:population":75533,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

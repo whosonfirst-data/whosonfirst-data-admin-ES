@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alaqu\u00e0s",
+    "eurostat:nuts_2021_id":"46005",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46005",
+    "eurostat:population":29711,
+    "eurostat:population_year":2020,
     "geom:area":0.000408,
-    "geom:area_square_m":3898060.434634,
+    "geom:area_square_m":3898060.434635,
     "geom:bbox":"-0.507846,39.442905,-0.446574,39.459991",
     "geom:latitude":39.451499,
     "geom:longitude":-0.470769,
@@ -117,14 +129,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
-        404227381,
-        85682867
+        85682867,
+        404227381
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46005",
+        "eurostat:nuts_2021_id":"46005",
         "gn:id":6361870,
         "gp:id":12695547,
         "qs_pg:id":1163749
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a909d6f67b80fba71fd48cf6641ddd38",
+    "wof:geomhash":"eb55bd4e91eeffd122c3b9530b6b4994",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404344811,
-    "wof:lastmodified":1607987598,
+    "wof:lastmodified":1684352479,
     "wof:name":"Alaqu\u00e0s",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":29711,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

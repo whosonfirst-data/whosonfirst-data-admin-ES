@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09123",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Espinosa del Camino",
+    "eurostat:nuts_2021_id":"09123",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09123",
+    "eurostat:population":42,
+    "eurostat:population_year":2020,
     "geom:area":0.000758,
-    "geom:area_square_m":6922314.127965,
+    "geom:area_square_m":6922314.127964,
     "geom:bbox":"-3.2942557,42.37837641,-3.26949191,42.4306362",
     "geom:latitude":42.404449,
     "geom:longitude":-3.2821,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09123",
+        "eurostat:nuts_2021_id":"09123",
         "gn:id":6356425,
         "gp:id":12691473,
         "qs_pg:id":1292860
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"38a1de6e363359a5aa29b9c707227486",
+    "wof:geomhash":"d975199d5eb21aed1ef29f45c0025b71",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404331851,
-    "wof:lastmodified":1582361492,
+    "wof:lastmodified":1684352259,
     "wof:name":"Espinosa Del Camino",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":42,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

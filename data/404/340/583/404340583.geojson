@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_34072",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Frechilla",
+    "eurostat:nuts_2021_id":"34072",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES414",
+    "eurostat:nuts_2021_level_lau":"34072",
+    "eurostat:population":152,
+    "eurostat:population_year":2020,
     "geom:area":0.003738,
-    "geom:area_square_m":34279264.087828,
+    "geom:area_square_m":34279264.087827,
     "geom:bbox":"-4.88514526,42.10735176,-4.77465325,42.16045329",
     "geom:latitude":42.134351,
     "geom:longitude":-4.838575,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_34072",
+        "eurostat:nuts_2021_id":"34072",
         "gn:id":6360036,
         "gp:id":12692014,
         "qs_pg:id":1148185
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"89ac2d651d39017f1ea8a60b780d5c19",
+    "wof:geomhash":"045736e0391fc040795bd7de1cb0721e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404340583,
-    "wof:lastmodified":1582361668,
+    "wof:lastmodified":1684352410,
     "wof:name":"Frechilla",
     "wof:parent_id":85682815,
     "wof:placetype":"localadmin",
+    "wof:population":152,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

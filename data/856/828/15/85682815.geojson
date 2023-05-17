@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"ES",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"Palencia",
+    "eurostat:name_local":"Palencia",
+    "eurostat:nuts_2021_id":"ES414",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES414",
+    "eurostat:population":157337,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"2",
     "geom:area":0.880156,
-    "geom:area_square_m":8040293219.51749,
+    "geom:area_square_m":8040293322.911908,
     "geom:bbox":"-5.031895,41.758166,-3.889622,43.061022",
     "geom:latitude":42.371805,
     "geom:longitude":-4.535736,
@@ -273,6 +287,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "unlc:subdivision":"ES-P",
     "wof:belongsto":[
         102191581,
@@ -282,6 +298,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":24005,
+        "eurostat:nuts_2021_id":"ES414",
         "fips:code":"SP85",
         "gn:id":3114530,
         "gp:id":12602118,
@@ -289,7 +306,7 @@
         "unlc:id":"ES-P"
     },
     "wof:country":"ES",
-    "wof:geomhash":"5dc6c20e6ca69e723e8e38ba57fdbc18",
+    "wof:geomhash":"abadb584106ecf4cafe5f1c7af9b592b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -309,10 +326,12 @@
         "eus",
         "ast"
     ],
-    "wof:lastmodified":1636503252,
+    "wof:lastmodified":1684351563,
     "wof:name":"Palencia",
     "wof:parent_id":404227373,
     "wof:placetype":"region",
+    "wof:population":157337,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:shortcode":"CL",
     "wof:subdivision":"ES-P",

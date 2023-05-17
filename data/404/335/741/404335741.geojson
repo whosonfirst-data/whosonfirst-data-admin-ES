@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19168",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mandayona",
+    "eurostat:nuts_2021_id":"19168",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19168",
+    "eurostat:population":287,
+    "eurostat:population_year":2020,
     "geom:area":0.003549,
-    "geom:area_square_m":33142777.844474,
+    "geom:area_square_m":33142777.844473,
     "geom:bbox":"-2.77615233,40.91101479,-2.69011295,41.00180999",
     "geom:latitude":40.961233,
     "geom:longitude":-2.738963,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19168",
+        "eurostat:nuts_2021_id":"19168",
         "gn:id":6357942,
         "gp:id":12690772,
         "qs_pg:id":1165375
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"32e39caaa782b33bb4942f2dda4212cf",
+    "wof:geomhash":"372200c1c3c309a09cfe9e0448e54c5c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404335741,
-    "wof:lastmodified":1582361703,
+    "wof:lastmodified":1684352329,
     "wof:name":"Mandayona",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":287,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

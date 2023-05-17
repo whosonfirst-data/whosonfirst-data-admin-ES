@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09269",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pinilla de los Moros",
+    "eurostat:nuts_2021_id":"09269",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09269",
+    "eurostat:population":37,
+    "eurostat:population_year":2020,
     "geom:area":0.001198,
     "geom:area_square_m":10996762.117395,
     "geom:bbox":"-3.34078215,42.05716518,-3.28293144,42.09812111",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09269",
+        "eurostat:nuts_2021_id":"09269",
         "gn:id":6356536,
         "gp:id":12691585,
         "qs_pg:id":46304
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a13aba39734e36265a19ef13b2212e37",
+    "wof:geomhash":"ecdc7075675073904fa2d95cfc1b5614",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332117,
-    "wof:lastmodified":1582361684,
+    "wof:lastmodified":1684352261,
     "wof:name":"Pinilla De Los Moros",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":37,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

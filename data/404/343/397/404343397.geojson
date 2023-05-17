@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43002,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Albinyana",
+    "eurostat:nuts_2021_id":"43002",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43002",
+    "eurostat:population":2468,
+    "eurostat:population_year":2020,
     "geom:area":0.002103,
-    "geom:area_square_m":19555788.158564,
+    "geom:area_square_m":19555954.644382,
     "geom:bbox":"1.451721,41.208533,1.537597,41.266",
     "geom:latitude":41.242093,
     "geom:longitude":1.492507,
@@ -118,6 +130,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -126,7 +140,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43002",
         "esp-icgc:la_lc":"043002",
+        "eurostat:nuts_2021_id":"43002",
         "gn:id":6361245,
         "gp:id":12694138,
         "qs_pg:id":1197929
@@ -136,7 +152,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"d8a5422a10e201e87d29b58b44ce904e",
+    "wof:geomhash":"15f105b44353a47fefe16e07e115eb64",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404343397,
-    "wof:lastmodified":1669903061,
+    "wof:lastmodified":1684352450,
     "wof:name":"Albinyana",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":2468,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

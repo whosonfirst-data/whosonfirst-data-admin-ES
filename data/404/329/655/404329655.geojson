@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04041",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Enix",
+    "eurostat:nuts_2021_id":"04041",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04041",
+    "eurostat:population":514,
+    "eurostat:population_year":2020,
     "geom:area":0.006755,
-    "geom:area_square_m":66812882.370778,
+    "geom:area_square_m":66812882.370774,
     "geom:bbox":"-2.69164457,36.8173935,-2.52518666,36.92164914",
     "geom:latitude":36.875637,
     "geom:longitude":-2.596511,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_04041",
+        "eurostat:nuts_2021_id":"04041",
         "gn:id":6355554,
         "gp:id":12688663,
         "qs_pg:id":1102317
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f0f8e5afe571f3e2807216a371af2ce2",
+    "wof:geomhash":"d05800b3b9fe1f2fe2cf1bed0d602281",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404329655,
-    "wof:lastmodified":1582361800,
+    "wof:lastmodified":1684352213,
     "wof:name":"Enix",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":514,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

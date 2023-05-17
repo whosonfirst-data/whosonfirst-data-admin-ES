@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19231",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rebollosa de Jadraque",
+    "eurostat:nuts_2021_id":"19231",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19231",
+    "eurostat:population":10,
+    "eurostat:population_year":2020,
     "geom:area":0.000822,
     "geom:area_square_m":7657962.479126,
     "geom:bbox":"-2.87081005,41.07440473,-2.82561761,41.10289061",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19231",
+        "eurostat:nuts_2021_id":"19231",
         "gn:id":6358000,
         "gp:id":12690830,
         "qs_pg:id":45980
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"69e6dc8fd288a74581d245ef224256fc",
+    "wof:geomhash":"01516c6f3ca319d662f59b55199c73b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404335873,
-    "wof:lastmodified":1582361697,
+    "wof:lastmodified":1684352331,
     "wof:name":"Rebollosa De Jadraque",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":10,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

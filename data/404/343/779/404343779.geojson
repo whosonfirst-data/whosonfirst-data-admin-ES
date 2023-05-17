@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43173,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43173",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vilella Alta, La",
+    "eurostat:nuts_2021_id":"43173",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43173",
+    "eurostat:population":133,
+    "eurostat:population_year":2020,
     "geom:area":0.00055,
-    "geom:area_square_m":5116760.153242,
+    "geom:area_square_m":5116784.477287,
     "geom:bbox":"0.769152,41.210776,0.800933,41.250198",
     "geom:latitude":41.230511,
     "geom:longitude":0.781127,
@@ -118,6 +130,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -126,7 +140,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43173",
         "esp-icgc:la_lc":"043173",
+        "eurostat:nuts_2021_id":"43173",
         "gn:id":6361415,
         "gp:id":12694314,
         "qs_pg:id":1009393
@@ -136,7 +152,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a3445888403c2170ebd357af221cf5e5",
+    "wof:geomhash":"cc8443932aded01b9718f4efe77b1daa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404343779,
-    "wof:lastmodified":1669903064,
+    "wof:lastmodified":1684352464,
     "wof:name":"La Vilella Alta",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":133,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

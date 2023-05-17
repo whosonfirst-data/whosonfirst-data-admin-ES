@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12100",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Mateu",
+    "eurostat:nuts_2021_id":"12100",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12100",
+    "eurostat:population":1952,
+    "eurostat:population_year":2020,
     "geom:area":0.006862,
-    "geom:area_square_m":64553475.017231,
+    "geom:area_square_m":64553475.017233,
     "geom:bbox":"0.09163073,40.42112151,0.23374216,40.5059944",
     "geom:latitude":40.465943,
     "geom:longitude":0.173935,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12100",
+        "eurostat:nuts_2021_id":"12100",
         "gn:id":6357050,
         "gp:id":12695500,
         "qs_pg:id":1317404
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1dc828ef1eaa39a226e691f8a743f75c",
+    "wof:geomhash":"8e7be65067afe500ef9575965d4c111a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404333311,
-    "wof:lastmodified":1582361783,
+    "wof:lastmodified":1684352277,
     "wof:name":"Sant Mateu",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":1952,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

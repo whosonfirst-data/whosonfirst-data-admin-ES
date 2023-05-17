@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_07021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Estellencs",
+    "eurostat:nuts_2021_id":"07021",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES53",
+    "eurostat:nuts_2021_level_3":"ES532",
+    "eurostat:nuts_2021_level_lau":"07021",
+    "eurostat:population":327,
+    "eurostat:population_year":2020,
     "geom:area":0.001408,
     "geom:area_square_m":13401211.942654,
     "geom:bbox":"2.43562945,39.62716028,2.50735996,39.67231941",
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_07021",
+        "eurostat:nuts_2021_id":"07021",
         "gn:id":6356032,
         "gp:id":12687728,
         "qs_pg:id":1310952
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3b2d58bb63d1d71997ebed2768d8fd5d",
+    "wof:geomhash":"78356f7fd9dec12001fbaa3ab4a4f945",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404330775,
-    "wof:lastmodified":1582361542,
+    "wof:lastmodified":1684352230,
     "wof:name":"Estellencs",
     "wof:parent_id":85682647,
     "wof:placetype":"localadmin",
+    "wof:population":327,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

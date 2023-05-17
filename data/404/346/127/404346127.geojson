@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48902",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Erandio",
+    "eurostat:nuts_2021_id":"48902",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48902",
+    "eurostat:population":24530,
+    "eurostat:population_year":2020,
     "geom:area":0.001992,
-    "geom:area_square_m":17916291.381933,
+    "geom:area_square_m":17916291.381932,
     "geom:bbox":"-2.99130112,43.28659065,-2.92389587,43.34912456",
     "geom:latitude":43.318954,
     "geom:longitude":-2.955502,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_48902",
+        "eurostat:nuts_2021_id":"48902",
         "gn:id":6362436,
         "gp:id":12695192,
         "qs_pg:id":248752
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8886e3ef5fe89697c3283210ffa20fb3",
+    "wof:geomhash":"a96e00497cd5c9171b64a47370f7884b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404346127,
-    "wof:lastmodified":1582361613,
+    "wof:lastmodified":1684352495,
     "wof:name":"Erandio",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":24530,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

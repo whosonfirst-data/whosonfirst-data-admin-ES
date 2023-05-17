@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_02071",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Pedro",
+    "eurostat:nuts_2021_id":"02071",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES421",
+    "eurostat:nuts_2021_level_lau":"02071",
+    "eurostat:population":1171,
+    "eurostat:population_year":2020,
     "geom:area":0.008617,
-    "geom:area_square_m":83055162.773755,
+    "geom:area_square_m":83055064.068685,
     "geom:bbox":"-2.240145,38.728215,-2.135007,38.853919",
     "geom:latitude":38.789745,
     "geom:longitude":-2.185037,
@@ -150,6 +162,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -158,6 +172,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_02071",
+        "eurostat:nuts_2021_id":"02071",
         "gn:id":6362990,
         "gp:id":12690282,
         "qs_pg:id":45694
@@ -166,7 +182,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4953bfc3a74f4659877c580692020c03",
+    "wof:geomhash":"7c4f2f25253f635308283dced3edd3ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,10 +193,12 @@
         }
     ],
     "wof:id":404329213,
-    "wof:lastmodified":1636503327,
+    "wof:lastmodified":1684352206,
     "wof:name":"San Pedro",
     "wof:parent_id":85682621,
     "wof:placetype":"localadmin",
+    "wof:population":1171,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

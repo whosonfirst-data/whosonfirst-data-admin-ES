@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05196",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rivilla de Barajas",
+    "eurostat:nuts_2021_id":"05196",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05196",
+    "eurostat:population":67,
+    "eurostat:population_year":2020,
     "geom:area":0.002605,
     "geom:area_square_m":24355508.875206,
     "geom:bbox":"-5.048397,40.84113723,-4.97161583,40.91529546",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05196",
+        "eurostat:nuts_2021_id":"05196",
         "gn:id":6355796,
         "gp:id":12691305,
         "qs_pg:id":46183
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5b06a47bea042a9b1d3ac7cf72b1e6ae",
+    "wof:geomhash":"eb1715590db2a9c77af4c6565d70afc3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330199,
-    "wof:lastmodified":1582361534,
+    "wof:lastmodified":1684352220,
     "wof:name":"Rivilla De Barajas",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":67,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

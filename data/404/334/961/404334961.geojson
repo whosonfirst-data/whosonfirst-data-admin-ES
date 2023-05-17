@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17194,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17194",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Susqueda",
+    "eurostat:nuts_2021_id":"17194",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17194",
+    "eurostat:population":93,
+    "eurostat:population_year":2020,
     "geom:area":0.005536,
-    "geom:area_square_m":50877434.708368,
+    "geom:area_square_m":50877434.708365,
     "geom:bbox":"2.46881448163,41.9365223345,2.57567824469,42.0592257291",
     "geom:latitude":41.995414,
     "geom:longitude":2.518825,
@@ -130,6 +142,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -138,7 +152,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17194",
         "esp-icgc:la_lc":"017194",
+        "eurostat:nuts_2021_id":"17194",
         "gn:id":6357631,
         "gp:id":12693868,
         "qs_pg:id":47510
@@ -148,7 +164,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b08b1f7ce33ae307931a42f497ee8bec",
+    "wof:geomhash":"4d3052ae1f3ee8fc5f6beff815217a4b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,10 +175,12 @@
         }
     ],
     "wof:id":404334961,
-    "wof:lastmodified":1582361736,
+    "wof:lastmodified":1684352316,
     "wof:name":"Susqueda",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":93,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43005,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alcover",
+    "eurostat:nuts_2021_id":"43005",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43005",
+    "eurostat:population":5144,
+    "eurostat:population_year":2020,
     "geom:area":0.004965,
-    "geom:area_square_m":46148435.047387,
+    "geom:area_square_m":46148435.047386,
     "geom:bbox":"1.09835499173,41.2233045373,1.21560181768,41.3057337435",
     "geom:latitude":41.265496,
     "geom:longitude":1.167073,
@@ -124,6 +136,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -132,7 +146,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43005",
         "esp-icgc:la_lc":"043005",
+        "eurostat:nuts_2021_id":"43005",
         "gn:id":6361248,
         "gp:id":12694141,
         "qs_pg:id":240819
@@ -142,7 +158,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2e40c2dd1e68cdef89cb91b31eb1d41b",
+    "wof:geomhash":"9ef178d59ddba2ebf326785fcd87575a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,10 +169,12 @@
         }
     ],
     "wof:id":404343403,
-    "wof:lastmodified":1582361892,
+    "wof:lastmodified":1684352451,
     "wof:name":"Alcover",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":5144,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

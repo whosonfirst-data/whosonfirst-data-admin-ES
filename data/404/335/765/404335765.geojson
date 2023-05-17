@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19179",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Membrillera",
+    "eurostat:nuts_2021_id":"19179",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19179",
+    "eurostat:population":87,
+    "eurostat:population_year":2020,
     "geom:area":0.004099,
-    "geom:area_square_m":38284870.020709,
+    "geom:area_square_m":38284870.020708,
     "geom:bbox":"-3.0442975,40.90180719,-2.95971707,40.98471944",
     "geom:latitude":40.946021,
     "geom:longitude":-2.995546,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19179",
+        "eurostat:nuts_2021_id":"19179",
         "gn:id":6357952,
         "gp:id":12690782,
         "qs_pg:id":1023717
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"390ab01ed2beca3f07722c128d078e59",
+    "wof:geomhash":"fd4a9434262b8d8b01dadcca3e9ee40f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404335765,
-    "wof:lastmodified":1582361695,
+    "wof:lastmodified":1684352329,
     "wof:name":"Membrillera",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":87,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

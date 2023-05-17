@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":43140,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43140",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Oliva",
+    "eurostat:nuts_2021_id":"43140",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43140",
+    "eurostat:population":3353,
+    "eurostat:population_year":2020,
     "geom:area":0.001021,
     "geom:area_square_m":9487674.730902,
     "geom:bbox":"1.50486420144,41.225593953,1.56716785348,41.2725135046",
@@ -121,6 +133,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -129,7 +143,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43140",
         "esp-icgc:la_lc":"043140",
+        "eurostat:nuts_2021_id":"43140",
         "gn:id":6361382,
         "gp:id":12694280,
         "qs_pg:id":1019910
@@ -139,7 +155,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"d5fd3b5f77abd9a570732ccfe3aa0142",
+    "wof:geomhash":"8f46415db16dd23e794fc346788a2e3f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404343705,
-    "wof:lastmodified":1582361878,
+    "wof:lastmodified":1684352461,
     "wof:name":"Santa Oliva",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":3353,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

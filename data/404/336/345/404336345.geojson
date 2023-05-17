@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_21029",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cumbres Mayores",
+    "eurostat:nuts_2021_id":"21029",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES615",
+    "eurostat:nuts_2021_level_lau":"21029",
+    "eurostat:population":1749,
+    "eurostat:population_year":2020,
     "geom:area":0.012479,
-    "geom:area_square_m":121542413.137161,
+    "geom:area_square_m":121542413.137157,
     "geom:bbox":"-6.76050166,37.96365314,-6.58051364,38.09843121",
     "geom:latitude":38.033372,
     "geom:longitude":-6.659683,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_21029",
+        "eurostat:nuts_2021_id":"21029",
         "gn:id":6358205,
         "gp:id":12689044,
         "qs_pg:id":209561
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"563f4df5ae7670d1100066e95616c17e",
+    "wof:geomhash":"291b8e2ea4b2b19289fb98604c0083ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404336345,
-    "wof:lastmodified":1582361477,
+    "wof:lastmodified":1684352337,
     "wof:name":"Cumbres Mayores",
     "wof:parent_id":85682749,
     "wof:placetype":"localadmin",
+    "wof:population":1749,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

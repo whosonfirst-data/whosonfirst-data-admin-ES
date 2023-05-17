@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17021,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Beuda",
+    "eurostat:nuts_2021_id":"17021",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17021",
+    "eurostat:population":186,
+    "eurostat:population_year":2020,
     "geom:area":0.003948,
-    "geom:area_square_m":36145077.21318,
+    "geom:area_square_m":36145077.213178,
     "geom:bbox":"2.66128773744,42.1977291236,2.77820686377,42.27395639",
     "geom:latitude":42.239352,
     "geom:longitude":2.715156,
@@ -121,6 +133,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -129,7 +143,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17021",
         "esp-icgc:la_lc":"017021",
+        "eurostat:nuts_2021_id":"17021",
         "gn:id":6534019,
         "gp:id":12693703,
         "qs_pg:id":201812
@@ -139,7 +155,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fb1fea577bf33fa237419738b575f2b9",
+    "wof:geomhash":"e035be87d1c9b8206d967c3f7c228334",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404334599,
-    "wof:lastmodified":1582361737,
+    "wof:lastmodified":1684352300,
     "wof:name":"Beuda",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":186,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

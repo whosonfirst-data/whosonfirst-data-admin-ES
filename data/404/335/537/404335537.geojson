@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19057",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bustares",
+    "eurostat:nuts_2021_id":"19057",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19057",
+    "eurostat:population":74,
+    "eurostat:population_year":2020,
     "geom:area":0.003258,
     "geom:area_square_m":30337224.748946,
     "geom:bbox":"-3.11029129,41.09500134,-3.03945219,41.16794876",
@@ -99,6 +111,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -106,9 +120,12 @@
         404227375
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_19057",
+        "eurostat:nuts_2021_id":"19057"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"e1341c0f4c6d6a71f562101194914452",
+    "wof:geomhash":"39b263e859babcd16423ea60f7ae4741",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +136,12 @@
         }
     ],
     "wof:id":404335537,
-    "wof:lastmodified":1566590582,
+    "wof:lastmodified":1684352327,
     "wof:name":"Bustares",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":74,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_02066",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Recueja, La",
+    "eurostat:nuts_2021_id":"02066",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES421",
+    "eurostat:nuts_2021_level_lau":"02066",
+    "eurostat:population":231,
+    "eurostat:population_year":2020,
     "geom:area":0.003099,
-    "geom:area_square_m":29715303.885875,
+    "geom:area_square_m":29715303.885876,
     "geom:bbox":"-1.50619279,39.07732461,-1.39737874,39.20944802",
     "geom:latitude":39.148389,
     "geom:longitude":-1.456839,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_02066",
+        "eurostat:nuts_2021_id":"02066",
         "gn:id":6355357,
         "gp:id":12690277,
         "qs_pg:id":621507
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0207e0d7568141625026139c025de43f",
+    "wof:geomhash":"0e768a0c2017188cfa008aef6cd23e21",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404329201,
-    "wof:lastmodified":1582361801,
+    "wof:lastmodified":1684352206,
     "wof:name":"La Recueja",
     "wof:parent_id":85682621,
     "wof:placetype":"localadmin",
+    "wof:population":231,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

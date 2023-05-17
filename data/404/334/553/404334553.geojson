@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16909",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sotorribas",
+    "eurostat:nuts_2021_id":"16909",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16909",
+    "eurostat:population":700,
+    "eurostat:population_year":2020,
     "geom:area":0.015807,
-    "geom:area_square_m":149097623.62856,
+    "geom:area_square_m":149097623.628557,
     "geom:bbox":"-2.2556009,40.17745634,-2.1136222,40.38146384",
     "geom:latitude":40.285523,
     "geom:longitude":-2.187235,
@@ -96,6 +108,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -103,9 +117,12 @@
         404227375
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_16909",
+        "eurostat:nuts_2021_id":"16909"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"8225cbda7a734d696e8ff7f2e3fddd0b",
+    "wof:geomhash":"1bc6d233f6bcb8dca581bfbb1f8ed742",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +133,12 @@
         }
     ],
     "wof:id":404334553,
-    "wof:lastmodified":1566590697,
+    "wof:lastmodified":1684352299,
     "wof:name":"Sotorribas",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":700,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

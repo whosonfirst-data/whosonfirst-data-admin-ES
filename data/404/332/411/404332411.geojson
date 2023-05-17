@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09431",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villafranca Montes de Oca",
+    "eurostat:nuts_2021_id":"09431",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09431",
+    "eurostat:population":113,
+    "eurostat:population_year":2020,
     "geom:area":0.005733,
-    "geom:area_square_m":52372633.008287,
+    "geom:area_square_m":52372633.008285,
     "geom:bbox":"-3.37899629,42.33291005,-3.25378762,42.44524723",
     "geom:latitude":42.374033,
     "geom:longitude":-3.312809,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_09431",
+        "eurostat:nuts_2021_id":"09431"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"b8dfc804bf7c8b73f7a1973d795513e8",
+    "wof:geomhash":"01dad1371ae765df1eb20ac429bdb4e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404332411,
-    "wof:lastmodified":1566590520,
+    "wof:lastmodified":1684352264,
     "wof:name":"Villafranca Montes De Oca",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":113,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22057",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bielsa",
+    "eurostat:nuts_2021_id":"22057",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22057",
+    "eurostat:population":448,
+    "eurostat:population_year":2020,
     "geom:area":0.022229,
     "geom:area_square_m":202097825.76615,
     "geom:bbox":"0.0115352,42.57830107,0.29771852,42.73704374",
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22057",
+        "eurostat:nuts_2021_id":"22057",
         "gn:id":6358303,
         "gp:id":12689444,
         "qs_pg:id":905499
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5a45a334c834e03c39dcb4ffb722d98c",
+    "wof:geomhash":"4f9d1dfae108a25a74e8a3168f1115e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404336569,
-    "wof:lastmodified":1582361459,
+    "wof:lastmodified":1684352340,
     "wof:name":"Bielsa",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":448,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

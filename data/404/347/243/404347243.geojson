@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50243",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sestrica",
+    "eurostat:nuts_2021_id":"50243",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50243",
+    "eurostat:population":344,
+    "eurostat:population_year":2020,
     "geom:area":0.004407,
     "geom:area_square_m":40820386.40078,
     "geom:bbox":"-1.68009828,41.44119898,-1.56923567,41.51296441",
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50243",
+        "eurostat:nuts_2021_id":"50243",
         "gn:id":6362929,
         "gp:id":12690069,
         "qs_pg:id":45589
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"db3eb076edbce9f81c2069ff4f156f53",
+    "wof:geomhash":"02c58e0a3ec8ec4db28fab48d5b5e06c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404347243,
-    "wof:lastmodified":1582361670,
+    "wof:lastmodified":1684352509,
     "wof:name":"Sestrica",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":344,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42144",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Quintana Redonda",
+    "eurostat:nuts_2021_id":"42144",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42144",
+    "eurostat:population":492,
+    "eurostat:population_year":2020,
     "geom:area":0.019874,
-    "geom:area_square_m":183672026.752484,
+    "geom:area_square_m":183672026.75248,
     "geom:bbox":"-2.81210966,41.54890746,-2.54119652,41.69662236",
     "geom:latitude":41.635409,
     "geom:longitude":-2.660284,
@@ -177,6 +189,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -185,6 +199,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42144",
+        "eurostat:nuts_2021_id":"42144",
         "gn:id":6361180,
         "gp:id":12692840,
         "qs_pg:id":46902
@@ -193,7 +209,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d0c83e050a3d23723fccfd03e651dbd7",
+    "wof:geomhash":"1c06f6ca263c55408d54f14e85e98697",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -204,10 +220,12 @@
         }
     ],
     "wof:id":404343251,
-    "wof:lastmodified":1582361872,
+    "wof:lastmodified":1684352449,
     "wof:name":"Quintana Redonda",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":492,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

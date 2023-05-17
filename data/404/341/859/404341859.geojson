@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37356",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villar de Arga\u00f1\u00e1n",
+    "eurostat:nuts_2021_id":"37356",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37356",
+    "eurostat:population":91,
+    "eurostat:population_year":2020,
     "geom:area":0.003197,
-    "geom:area_square_m":29987115.903664,
+    "geom:area_square_m":29987115.903663,
     "geom:bbox":"-6.76877685,40.64492546,-6.65797781,40.6982036",
     "geom:latitude":40.671607,
     "geom:longitude":-6.704696,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_37356",
+        "eurostat:nuts_2021_id":"37356"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"68fca27436f8150a15cb8e3792f050b7",
+    "wof:geomhash":"6cb258d9e0ae93774b5cb92a824dc9e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404341859,
-    "wof:lastmodified":1566590308,
+    "wof:lastmodified":1684352429,
     "wof:name":"Villar De Arga\u00f1\u00e1n",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":91,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

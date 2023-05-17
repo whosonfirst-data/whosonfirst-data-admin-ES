@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43008,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alfara de Carles",
+    "eurostat:nuts_2021_id":"43008",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43008",
+    "eurostat:population":376,
+    "eurostat:population_year":2020,
     "geom:area":0.006824,
-    "geom:area_square_m":63825873.027828,
+    "geom:area_square_m":63825870.175255,
     "geom:bbox":"0.258448,40.797023,0.446048,40.918368",
     "geom:latitude":40.853878,
     "geom:longitude":0.368628,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43008",
         "esp-icgc:la_lc":"043008",
+        "eurostat:nuts_2021_id":"43008",
         "gn:id":6361251,
         "gp:id":12694145,
         "qs_pg:id":240816
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"4b547ae0bbea7ecbf4faff19492612cf",
+    "wof:geomhash":"c99ef62c8c68e824d005e45648ca8e09",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404343411,
-    "wof:lastmodified":1669903067,
+    "wof:lastmodified":1684352451,
     "wof:name":"Alfara de Carles",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":376,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

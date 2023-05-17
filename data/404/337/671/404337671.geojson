@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25025,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Naut Aran",
+    "eurostat:nuts_2021_id":"25025",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25025",
+    "eurostat:population":1836,
+    "eurostat:population_year":2020,
     "geom:area":0.028124,
-    "geom:area_square_m":255567398.480504,
+    "geom:area_square_m":255567348.132093,
     "geom:bbox":"0.789825,42.589234,1.037062,42.814765",
     "geom:latitude":42.701082,
     "geom:longitude":0.924397,
@@ -121,6 +133,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -129,7 +143,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25025",
         "esp-icgc:la_lc":"025025",
+        "eurostat:nuts_2021_id":"25025",
         "gp:id":12694038,
         "qs_pg:id":1171809
     },
@@ -138,7 +154,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dbe4ec58b492291b7162eaf3409e2d9d",
+    "wof:geomhash":"e7dfc3824cabd324fe3cf548247e4c85",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404337671,
-    "wof:lastmodified":1669903027,
+    "wof:lastmodified":1684352356,
     "wof:name":"Naut Aran",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":1836,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

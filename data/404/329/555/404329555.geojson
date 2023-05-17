@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03138",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Verger, el",
+    "eurostat:nuts_2021_id":"03138",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03138",
+    "eurostat:population":4709,
+    "eurostat:population_year":2020,
     "geom:area":0.000847,
     "geom:area_square_m":8153270.859093,
     "geom:bbox":"-0.02304243,38.83732141,0.0234298,38.86869377",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03138",
+        "eurostat:nuts_2021_id":"03138",
         "gn:id":6355511,
         "gp:id":12695404,
         "qs_pg:id":103350
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a9d3bc847edde3e54ffc0eb5dee84eed",
+    "wof:geomhash":"18fc052f2c1e4c60598afa32fe740568",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404329555,
-    "wof:lastmodified":1582361796,
+    "wof:lastmodified":1684352211,
     "wof:name":"El Verger",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":4709,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

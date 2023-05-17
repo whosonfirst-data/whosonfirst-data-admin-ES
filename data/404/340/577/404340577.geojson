@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_34070",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Espinosa de Cerrato",
+    "eurostat:nuts_2021_id":"34070",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES414",
+    "eurostat:nuts_2021_level_lau":"34070",
+    "eurostat:population":134,
+    "eurostat:population_year":2020,
     "geom:area":0.004917,
-    "geom:area_square_m":45213520.420311,
+    "geom:area_square_m":45213520.420312,
     "geom:bbox":"-4.01960396,41.90956672,-3.88962238,41.99707229",
     "geom:latitude":41.956449,
     "geom:longitude":-3.957415,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_34070",
+        "eurostat:nuts_2021_id":"34070"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"47e1347c589960d02281e2d387a70085",
+    "wof:geomhash":"6860dad4ef6f3d4ed6de637295b96170",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404340577,
-    "wof:lastmodified":1566590443,
+    "wof:lastmodified":1684352410,
     "wof:name":"Espinosa De Cerrato",
     "wof:parent_id":85682815,
     "wof:placetype":"localadmin",
+    "wof:population":134,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

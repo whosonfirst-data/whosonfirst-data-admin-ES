@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bakio",
+    "eurostat:nuts_2021_id":"48012",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48012",
+    "eurostat:population":2676,
+    "eurostat:population_year":2020,
     "geom:area":0.001851,
-    "geom:area_square_m":16620418.102293,
+    "geom:area_square_m":16620418.102292,
     "geom:bbox":"-2.84707609,43.39885976,-2.77831035,43.44834974",
     "geom:latitude":43.420227,
     "geom:longitude":-2.813042,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_48012",
+        "eurostat:nuts_2021_id":"48012",
         "gn:id":6362362,
         "gp:id":12695172,
         "qs_pg:id":1059737
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b09f0c90e4e366b2196a07f6d2e1230a",
+    "wof:geomhash":"923523648fbc9cb214f2e367ac9a48a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404345931,
-    "wof:lastmodified":1582361825,
+    "wof:lastmodified":1684352491,
     "wof:name":"Bakio",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":2676,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

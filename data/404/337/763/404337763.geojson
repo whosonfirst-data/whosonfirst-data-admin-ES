@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25070,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25070",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castellser\u00e0",
+    "eurostat:nuts_2021_id":"25070",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25070",
+    "eurostat:population":996,
+    "eurostat:population_year":2020,
     "geom:area":0.00173,
-    "geom:area_square_m":15955198.504458,
+    "geom:area_square_m":15955158.967033,
     "geom:bbox":"0.952616,41.731326,1.03773,41.775719",
     "geom:latitude":41.750849,
     "geom:longitude":0.990328,
@@ -112,6 +124,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -120,7 +134,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25070",
         "esp-icgc:la_lc":"025070",
+        "eurostat:nuts_2021_id":"25070",
         "gn:id":6358824,
         "gp:id":12693969,
         "qs_pg:id":265382
@@ -130,7 +146,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"853802647977b7a8f4dd2bf84d051ec8",
+    "wof:geomhash":"b0f921649cd738e077d310b2a66dc57e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404337763,
-    "wof:lastmodified":1669903018,
+    "wof:lastmodified":1684352359,
     "wof:name":"Castellser\u00e0",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":996,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

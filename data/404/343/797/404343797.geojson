@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43903,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43903",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Camarles",
+    "eurostat:nuts_2021_id":"43903",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43903",
+    "eurostat:population":3194,
+    "eurostat:population_year":2020,
     "geom:area":0.002688,
-    "geom:area_square_m":25168304.707538,
+    "geom:area_square_m":25168304.707537,
     "geom:bbox":"0.608551806138,40.7417347968,0.701431055363,40.821617893",
     "geom:latitude":40.782643,
     "geom:longitude":0.653449,
@@ -118,6 +130,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -126,7 +140,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43903",
         "esp-icgc:la_lc":"043903",
+        "eurostat:nuts_2021_id":"43903",
         "gn:id":6361423,
         "gp:id":12694176,
         "qs_pg:id":1164415
@@ -136,7 +152,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"0cf5927f38cb35aeb92c5fd00a4e78f5",
+    "wof:geomhash":"32690b3c6c2e9d074b86e38484a91c43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404343797,
-    "wof:lastmodified":1582361862,
+    "wof:lastmodified":1684352465,
     "wof:name":"Camarles",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":3194,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

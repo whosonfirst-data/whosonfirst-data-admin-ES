@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40903",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marazoleja",
+    "eurostat:nuts_2021_id":"40903",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40903",
+    "eurostat:population":98,
+    "eurostat:population_year":2020,
     "geom:area":0.002819,
     "geom:area_square_m":26329812.574565,
     "geom:bbox":"-4.38736677,40.90386551,-4.31200197,40.97935158",
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_40903",
+        "eurostat:nuts_2021_id":"40903",
         "gn:id":6360952,
         "gp:id":12692614,
         "qs_pg:id":46788
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dca182b66cc481667fe9111b6d0139c9",
+    "wof:geomhash":"9e5c83d20091fa8de66c8fffd585cd8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404342735,
-    "wof:lastmodified":1582361816,
+    "wof:lastmodified":1684352442,
     "wof:name":"Marazoleja",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":98,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

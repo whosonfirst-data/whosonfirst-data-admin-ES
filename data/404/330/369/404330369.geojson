@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alburquerque",
+    "eurostat:nuts_2021_id":"06006",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06006",
+    "eurostat:population":5293,
+    "eurostat:population_year":2020,
     "geom:area":0.07543,
-    "geom:area_square_m":722635788.32408,
+    "geom:area_square_m":722635788.324086,
     "geom:bbox":"-7.17111763,39.03945309,-6.74674556,39.39151157",
     "geom:latitude":39.215868,
     "geom:longitude":-6.950926,
@@ -81,6 +93,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -89,6 +103,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06006",
+        "eurostat:nuts_2021_id":"06006",
         "gn:id":6355871,
         "gp:id":12694325,
         "qs_pg:id":1293616
@@ -97,7 +113,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"42e8e8295b077f72adda9187aa8e0a6b",
+    "wof:geomhash":"bb2be68bf7cb55e5ed394f52d9131067",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,10 +124,12 @@
         }
     ],
     "wof:id":404330369,
-    "wof:lastmodified":1582361533,
+    "wof:lastmodified":1684352223,
     "wof:name":"Alburquerque",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":5293,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

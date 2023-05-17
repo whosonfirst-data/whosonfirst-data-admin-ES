@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_36027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mea\u00f1o",
+    "eurostat:nuts_2021_id":"36027",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES114",
+    "eurostat:nuts_2021_level_lau":"36027",
+    "eurostat:population":5322,
+    "eurostat:population_year":2020,
     "geom:area":0.003037,
-    "geom:area_square_m":27711563.733034,
+    "geom:area_square_m":27711563.733035,
     "geom:bbox":"-8.82342581,42.41756431,-8.74894973,42.48820675",
     "geom:latitude":42.44987,
     "geom:longitude":-8.784579,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_36027",
+        "eurostat:nuts_2021_id":"36027",
         "gn:id":6360228,
         "gp:id":12694981,
         "qs_pg:id":191338
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"46f666c917f7f1e037280cc5e7671ce9",
+    "wof:geomhash":"077e0f0b8c20f065c6ba93fa9d764ce1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404341021,
-    "wof:lastmodified":1582361638,
+    "wof:lastmodified":1684352419,
     "wof:name":"Mea\u00f1o",
     "wof:parent_id":85682825,
     "wof:placetype":"localadmin",
+    "wof:population":5322,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

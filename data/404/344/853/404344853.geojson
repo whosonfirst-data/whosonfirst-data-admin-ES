@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alfara de la Baronia",
+    "eurostat:nuts_2021_id":"46024",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46024",
+    "eurostat:population":569,
+    "eurostat:population_year":2020,
     "geom:area":0.001231,
     "geom:area_square_m":11698837.185331,
     "geom:bbox":"-0.38897874,39.75121413,-0.3182407,39.79746225",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227381
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_46024",
+        "eurostat:nuts_2021_id":"46024"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"06b956fcec84be5174f10e3f76468ff7",
+    "wof:geomhash":"cb358f19361e1104a10288c767f3717a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404344853,
-    "wof:lastmodified":1566591118,
+    "wof:lastmodified":1684352479,
     "wof:name":"Alfara De La Baronia",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":569,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

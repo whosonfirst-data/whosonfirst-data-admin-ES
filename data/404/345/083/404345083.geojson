@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46126",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Foios",
+    "eurostat:nuts_2021_id":"46126",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46126",
+    "eurostat:population":7452,
+    "eurostat:population_year":2020,
     "geom:area":0.000677,
-    "geom:area_square_m":6458172.275696,
+    "geom:area_square_m":6458172.275695,
     "geom:bbox":"-0.38627699,39.52517891,-0.3126375,39.57510248",
     "geom:latitude":39.54519,
     "geom:longitude":-0.360593,
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46126",
+        "eurostat:nuts_2021_id":"46126",
         "gn:id":6361991,
         "gp:id":12695661,
         "qs_pg:id":1149694
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"865ceef6027ee8062717aa36b16695be",
+    "wof:geomhash":"765c639443bc0b41afb182af027b60d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404345083,
-    "wof:lastmodified":1582361828,
+    "wof:lastmodified":1684352482,
     "wof:name":"Foios",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":7452,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

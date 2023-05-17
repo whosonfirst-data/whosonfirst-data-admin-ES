@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8073,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08073",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cornell\u00e0 de Llobregat",
+    "eurostat:nuts_2021_id":"08073",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08073",
+    "eurostat:population":89936,
+    "eurostat:population_year":2020,
     "geom:area":0.000752,
-    "geom:area_square_m":6981861.320431,
+    "geom:area_square_m":6981856.723525,
     "geom:bbox":"2.050172,41.340548,2.09979,41.369838",
     "geom:latitude":41.355132,
     "geom:longitude":2.076489,
@@ -77,6 +89,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -85,7 +99,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08073",
         "esp-icgc:la_lc":"08073",
+        "eurostat:nuts_2021_id":"08073",
         "gn:id":6356105,
         "gp:id":12693452,
         "qs_pg:id":1309711
@@ -95,7 +111,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"e86fbfd9c55714b5792123047ba19706",
+    "wof:geomhash":"303ecd2facc72b6cd40eaa0a8dcb2e54",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,10 +122,12 @@
         }
     ],
     "wof:id":404331043,
-    "wof:lastmodified":1669903010,
+    "wof:lastmodified":1684352239,
     "wof:name":"Cornell\u00e0 de Llobregat",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":89936,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

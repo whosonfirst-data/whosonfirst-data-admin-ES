@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43048,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Corbera d'Ebre",
+    "eurostat:nuts_2021_id":"43048",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43048",
+    "eurostat:population":1003,
+    "eurostat:population_year":2020,
     "geom:area":0.005687,
-    "geom:area_square_m":52994538.348399,
+    "geom:area_square_m":52994547.341698,
     "geom:bbox":"0.416777,41.055564,0.536281,41.141466",
     "geom:latitude":41.098695,
     "geom:longitude":0.475708,
@@ -48,6 +60,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -56,13 +70,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"043048"
+        "eg:gisco_id":"ES_43048",
+        "esp-icgc:la_lc":"043048",
+        "eurostat:nuts_2021_id":"43048"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7b6c7778f361d43ad8b91663fcb62f3f",
+    "wof:geomhash":"e9d7db855f3fdb5e2464981db7a171b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,10 +89,12 @@
         }
     ],
     "wof:id":404343501,
-    "wof:lastmodified":1669903065,
+    "wof:lastmodified":1684352455,
     "wof:name":"Corbera d'Ebre",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":1003,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

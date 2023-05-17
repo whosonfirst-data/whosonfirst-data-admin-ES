@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17225,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17225",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vilamacolum",
+    "eurostat:nuts_2021_id":"17225",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17225",
+    "eurostat:population":377,
+    "eurostat:population_year":2020,
     "geom:area":0.000606,
-    "geom:area_square_m":5552046.248602,
+    "geom:area_square_m":5552046.248603,
     "geom:bbox":"3.03887923215,42.1830982786,3.07039497986,42.213509064",
     "geom:latitude":42.199247,
     "geom:longitude":3.05637,
@@ -124,6 +136,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -132,7 +146,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17225",
         "esp-icgc:la_lc":"017225",
+        "eurostat:nuts_2021_id":"17225",
         "gn:id":6534171,
         "gp:id":12693900,
         "qs_pg:id":47524
@@ -142,7 +158,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"9b9adb102cc5cde3e0e95954b9e30b8c",
+    "wof:geomhash":"f4cd6242f67c36a85143cfe008b3d4b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,10 +169,12 @@
         }
     ],
     "wof:id":404335029,
-    "wof:lastmodified":1582361706,
+    "wof:lastmodified":1684352319,
     "wof:name":"Vilamacolum",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":377,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

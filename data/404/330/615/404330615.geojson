@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06115",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Roca de la Sierra, La",
+    "eurostat:nuts_2021_id":"06115",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06115",
+    "eurostat:population":1455,
+    "eurostat:population_year":2020,
     "geom:area":0.011412,
-    "geom:area_square_m":109519509.600192,
+    "geom:area_square_m":109519509.60019,
     "geom:bbox":"-6.74707729,39.04525493,-6.568352,39.13893145",
     "geom:latitude":39.093415,
     "geom:longitude":-6.665827,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06115",
+        "eurostat:nuts_2021_id":"06115",
         "gn:id":6355980,
         "qs_pg:id":621559
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a811426c18233c746fd221fff94a2bb4",
+    "wof:geomhash":"dd1a25402f90d48040cf399bf832b3b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404330615,
-    "wof:lastmodified":1582361537,
+    "wof:lastmodified":1684352227,
     "wof:name":"La Roca De La Sierra",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":1455,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

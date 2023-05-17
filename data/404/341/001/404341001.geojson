@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_36018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Forcarei",
+    "eurostat:nuts_2021_id":"36018",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES114",
+    "eurostat:nuts_2021_level_lau":"36018",
+    "eurostat:population":3308,
+    "eurostat:population_year":2020,
     "geom:area":0.018465,
-    "geom:area_square_m":168119616.692118,
+    "geom:area_square_m":168119616.692116,
     "geom:bbox":"-8.39449817,42.47226713,-8.23539484,42.67967121",
     "geom:latitude":42.579795,
     "geom:longitude":-8.322273,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_36018",
+        "eurostat:nuts_2021_id":"36018",
         "gn:id":6360220,
         "gp:id":12694973,
         "qs_pg:id":407781
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"983835735f109c96edb46357773ea12d",
+    "wof:geomhash":"36a709cc0a0dc28ff8dbe9e5a379299e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404341001,
-    "wof:lastmodified":1582361630,
+    "wof:lastmodified":1684352418,
     "wof:name":"Forcarei",
     "wof:parent_id":85682825,
     "wof:placetype":"localadmin",
+    "wof:population":3308,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

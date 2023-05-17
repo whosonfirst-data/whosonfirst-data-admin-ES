@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46082",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Canet d'En Berenguer",
+    "eurostat:nuts_2021_id":"46082",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46082",
+    "eurostat:population":6765,
+    "eurostat:population_year":2020,
     "geom:area":0.00041,
     "geom:area_square_m":3901091.164181,
     "geom:bbox":"-0.23753625,39.67180894,-0.20065574,39.68943939",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46082",
+        "eurostat:nuts_2021_id":"46082",
         "gn:id":6361947,
         "gp:id":12695623,
         "qs_pg:id":1198454
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9ede1537011d75f2482cc604f6a18e3f",
+    "wof:geomhash":"5cadbf7f012df05591a34ad5c5331bb8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404344983,
-    "wof:lastmodified":1582361849,
+    "wof:lastmodified":1684352480,
     "wof:name":"Canet D'En Berenguer",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":6765,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

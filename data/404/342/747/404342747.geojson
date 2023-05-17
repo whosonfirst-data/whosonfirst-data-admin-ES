@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_41002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alan\u00eds",
+    "eurostat:nuts_2021_id":"41002",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES618",
+    "eurostat:nuts_2021_level_lau":"41002",
+    "eurostat:population":1706,
+    "eurostat:population_year":2020,
     "geom:area":0.028757,
-    "geom:area_square_m":280037973.593018,
+    "geom:area_square_m":280037973.593022,
     "geom:bbox":"-5.76746401,37.95185835,-5.48902578,38.13861512",
     "geom:latitude":38.04415,
     "geom:longitude":-5.623892,
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_41002",
+        "eurostat:nuts_2021_id":"41002",
         "gn:id":6360957,
         "gp:id":12689292,
         "qs_pg:id":291457
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"be3e717e164fbe3756dd0aeb9ac66acf",
+    "wof:geomhash":"2fd45ba2a5bc05adfc856b425bab77fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404342747,
-    "wof:lastmodified":1582361813,
+    "wof:lastmodified":1684352442,
     "wof:name":"Alan\u00eds",
     "wof:parent_id":85682841,
     "wof:placetype":"localadmin",
+    "wof:population":1706,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

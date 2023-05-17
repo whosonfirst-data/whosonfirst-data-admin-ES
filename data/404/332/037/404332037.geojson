@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09227",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montorio",
+    "eurostat:nuts_2021_id":"09227",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09227",
+    "eurostat:population":142,
+    "eurostat:population_year":2020,
     "geom:area":0.002581,
     "geom:area_square_m":23495021.136092,
     "geom:bbox":"-3.79826631,42.55150778,-3.73816088,42.62420304",
@@ -48,6 +60,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -56,6 +70,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09227",
+        "eurostat:nuts_2021_id":"09227",
         "gn:id":6356504,
         "gp:id":12691553,
         "qs_pg:id":1123021
@@ -64,7 +80,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"beade9b255c0186e86a591248b627b14",
+    "wof:geomhash":"7c1d9a96b9a75c0ceb848d277ae0ff2e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,10 +91,12 @@
         }
     ],
     "wof:id":404332037,
-    "wof:lastmodified":1582361682,
+    "wof:lastmodified":1684352260,
     "wof:name":"Montorio",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":142,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

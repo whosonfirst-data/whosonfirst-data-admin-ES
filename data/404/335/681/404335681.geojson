@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19135",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hiendelaencina",
+    "eurostat:nuts_2021_id":"19135",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19135",
+    "eurostat:population":109,
+    "eurostat:population_year":2020,
     "geom:area":0.002059,
-    "geom:area_square_m":19193408.698893,
+    "geom:area_square_m":19193408.698892,
     "geom:bbox":"-3.02628215,41.05037111,-2.9559721,41.11062563",
     "geom:latitude":41.080096,
     "geom:longitude":-2.996976,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19135",
+        "eurostat:nuts_2021_id":"19135",
         "gn:id":6357916,
         "gp:id":12690746,
         "qs_pg:id":1013006
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"020d8d3981f222059af2fb825f5ce7a2",
+    "wof:geomhash":"006e1fd0699fa286871420bba490fb40",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404335681,
-    "wof:lastmodified":1582361696,
+    "wof:lastmodified":1684352328,
     "wof:name":"Hiendelaencina",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":109,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

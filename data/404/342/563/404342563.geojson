@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40150",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Orejana",
+    "eurostat:nuts_2021_id":"40150",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40150",
+    "eurostat:population":56,
+    "eurostat:population_year":2020,
     "geom:area":0.002245,
-    "geom:area_square_m":20897861.734997,
+    "geom:area_square_m":20897861.734995,
     "geom:bbox":"-3.82174034,41.1393149,-3.72232011,41.17531825",
     "geom:latitude":41.158378,
     "geom:longitude":-3.770444,
@@ -87,6 +99,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -94,9 +108,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_40150",
+        "eurostat:nuts_2021_id":"40150"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"e3ead4f3ec91153638cb78f5fcd6fcb7",
+    "wof:geomhash":"c0f1f2c5971725031c9d0c636c2faefe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +124,12 @@
         }
     ],
     "wof:id":404342563,
-    "wof:lastmodified":1566590953,
+    "wof:lastmodified":1684352440,
     "wof:name":"Orejana",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":56,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

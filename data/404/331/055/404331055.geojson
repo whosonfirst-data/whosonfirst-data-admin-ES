@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8079,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08079",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Estany, L'",
+    "eurostat:nuts_2021_id":"08079",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08079",
+    "eurostat:population":408,
+    "eurostat:population_year":2020,
     "geom:area":0.001112,
-    "geom:area_square_m":10236008.940438,
+    "geom:area_square_m":10236078.043585,
     "geom:bbox":"2.081647,41.853934,2.135254,41.889714",
     "geom:latitude":41.871677,
     "geom:longitude":2.109684,
@@ -130,6 +142,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -138,7 +152,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08079",
         "esp-icgc:la_lc":"08079",
+        "eurostat:nuts_2021_id":"08079",
         "gn:id":6356111,
         "gp:id":12693458,
         "qs_pg:id":1102805
@@ -148,7 +164,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"84fa5b09811988bae7ec54fb029ee7c0",
+    "wof:geomhash":"4f83934493535dee5445f9cff1b77b97",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,10 +175,12 @@
         }
     ],
     "wof:id":404331055,
-    "wof:lastmodified":1669903002,
+    "wof:lastmodified":1684352240,
     "wof:name":"L'Estany",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":408,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

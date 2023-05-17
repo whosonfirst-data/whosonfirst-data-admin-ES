@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18184",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"V\u00e9lez de Benaudalla",
+    "eurostat:nuts_2021_id":"18184",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18184",
+    "eurostat:population":2890,
+    "eurostat:population_year":2020,
     "geom:area":0.00799,
-    "geom:area_square_m":79087940.297034,
+    "geom:area_square_m":79087940.297032,
     "geom:bbox":"-3.54424396,36.77820973,-3.4178253,36.87421873",
     "geom:latitude":36.820486,
     "geom:longitude":-3.489884,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18184",
+        "eurostat:nuts_2021_id":"18184",
         "gn:id":6357786,
         "gp:id":12689005,
         "qs_pg:id":1310998
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2cd87d7cb07e95c7338eab3c5285a755",
+    "wof:geomhash":"400c36880cb7fb22b52d986af016c385",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404335385,
-    "wof:lastmodified":1582361702,
+    "wof:lastmodified":1684352325,
     "wof:name":"V\u00e9lez De Benaudalla",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":2890,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

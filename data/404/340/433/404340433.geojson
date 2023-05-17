@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_33069",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Soto del Barco",
+    "eurostat:nuts_2021_id":"33069",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES12",
+    "eurostat:nuts_2021_level_3":"ES120",
+    "eurostat:nuts_2021_level_lau":"33069",
+    "eurostat:population":3800,
+    "eurostat:population_year":2020,
     "geom:area":0.003947,
-    "geom:area_square_m":35386930.943782,
+    "geom:area_square_m":35386930.94378,
     "geom:bbox":"-6.09317346,43.48012054,-6.01756697,43.57167877",
     "geom:latitude":43.525494,
     "geom:longitude":-6.055313,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_33069",
+        "eurostat:nuts_2021_id":"33069",
         "gn:id":6359970,
         "gp:id":12688511,
         "qs_pg:id":1314234
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b9cf6c2584aacb4d74990081138b1ded",
+    "wof:geomhash":"9515dfdd174b06d00c05c6e5f6ab65ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404340433,
-    "wof:lastmodified":1582361663,
+    "wof:lastmodified":1684352408,
     "wof:name":"Soto Del Barco",
     "wof:parent_id":85682805,
     "wof:placetype":"localadmin",
+    "wof:population":3800,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

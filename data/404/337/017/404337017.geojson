@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_23049",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jabalquinto",
+    "eurostat:nuts_2021_id":"23049",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES616",
+    "eurostat:nuts_2021_level_lau":"23049",
+    "eurostat:population":2017,
+    "eurostat:population_year":2020,
     "geom:area":0.007514,
-    "geom:area_square_m":73200092.760919,
+    "geom:area_square_m":73200092.760922,
     "geom:bbox":"-3.83694768,37.9770596,-3.68235028,38.06055559",
     "geom:latitude":38.017169,
     "geom:longitude":-3.750827,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_23049",
+        "eurostat:nuts_2021_id":"23049",
         "gn:id":6358499,
         "gp:id":12689140,
         "qs_pg:id":1020072
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ea4dbe2c6042f570eaf672380bee9b59",
+    "wof:geomhash":"762e8bb3e90a669fd70e0fb71ea555fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404337017,
-    "wof:lastmodified":1582361570,
+    "wof:lastmodified":1684352347,
     "wof:name":"Jabalquinto",
     "wof:parent_id":85682757,
     "wof:placetype":"localadmin",
+    "wof:population":2017,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

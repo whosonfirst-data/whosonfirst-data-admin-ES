@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12114",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tor\u00e1s",
+    "eurostat:nuts_2021_id":"12114",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12114",
+    "eurostat:population":232,
+    "eurostat:population_year":2020,
     "geom:area":0.001768,
     "geom:area_square_m":16765955.560743,
     "geom:bbox":"-0.72194983,39.9030828,-0.65451807,39.95287062",
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12114",
+        "eurostat:nuts_2021_id":"12114",
         "gn:id":6357064,
         "gp:id":12695513,
         "qs_pg:id":268553
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7ee5a9bc57bdd30da6ed25a19508cafa",
+    "wof:geomhash":"f6e7ff87369eccb3acaf472f037765f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404333341,
-    "wof:lastmodified":1582361769,
+    "wof:lastmodified":1684352277,
     "wof:name":"Tor\u00e1s",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":232,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

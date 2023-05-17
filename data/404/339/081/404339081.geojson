@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28182",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villavieja del Lozoya",
+    "eurostat:nuts_2021_id":"28182",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28182",
+    "eurostat:population":262,
+    "eurostat:population_year":2020,
     "geom:area":0.002496,
     "geom:area_square_m":23284383.590183,
     "geom:bbox":"-3.75554416,40.9905995,-3.65117132,41.06503194",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28182",
+        "eurostat:nuts_2021_id":"28182",
         "gn:id":6359401,
         "gp:id":12688123,
         "qs_pg:id":49349
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4c2c1802bd77e1c91866a0b106d118bb",
+    "wof:geomhash":"5a59b1926100cf00ec13dd05e2196020",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404339081,
-    "wof:lastmodified":1582361593,
+    "wof:lastmodified":1684352388,
     "wof:name":"Villavieja Del Lozoya",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":262,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

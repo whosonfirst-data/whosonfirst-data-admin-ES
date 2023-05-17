@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gernika-Lumo",
+    "eurostat:nuts_2021_id":"48046",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48046",
+    "eurostat:population":17105,
+    "eurostat:population_year":2020,
     "geom:area":0.000942,
-    "geom:area_square_m":8476396.842834,
+    "geom:area_square_m":8476396.842833,
     "geom:bbox":"-2.71767178,43.29251948,-2.65610269,43.32795426",
     "geom:latitude":43.311879,
     "geom:longitude":-2.692363,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_48046",
+        "eurostat:nuts_2021_id":"48046",
         "gn:id":6362390,
         "gp:id":12695205,
         "qs_pg:id":1188927
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"12e42436a178ced26b2cc0981d4dabf5",
+    "wof:geomhash":"793d479ffd22096e82e7a0526d39529d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404346007,
-    "wof:lastmodified":1582361611,
+    "wof:lastmodified":1684352493,
     "wof:name":"Gernika-Lumo",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":17105,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

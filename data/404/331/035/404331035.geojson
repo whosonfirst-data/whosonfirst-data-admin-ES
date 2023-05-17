@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8070,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08070",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Collsuspina",
+    "eurostat:nuts_2021_id":"08070",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08070",
+    "eurostat:population":359,
+    "eurostat:population_year":2020,
     "geom:area":0.001641,
-    "geom:area_square_m":15116555.52689,
+    "geom:area_square_m":15116555.526891,
     "geom:bbox":"2.15035193146,41.7981465596,2.19653120556,41.8599009491",
     "geom:latitude":41.831193,
     "geom:longitude":2.174304,
@@ -127,6 +139,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -135,7 +149,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08070",
         "esp-icgc:la_lc":"08070",
+        "eurostat:nuts_2021_id":"08070",
         "gn:id":6356102,
         "gp:id":12693449,
         "qs_pg:id":47229
@@ -145,7 +161,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"97ae9d7c58333acaebf5e3f294f7e59e",
+    "wof:geomhash":"0be7dc3794e3beaf1f8db35960845fc7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404331035,
-    "wof:lastmodified":1582361509,
+    "wof:lastmodified":1684352239,
     "wof:name":"Collsuspina",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":359,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

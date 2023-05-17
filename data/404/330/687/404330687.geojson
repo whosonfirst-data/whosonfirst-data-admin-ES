@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06147",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valle de Matamoros",
+    "eurostat:nuts_2021_id":"06147",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06147",
+    "eurostat:population":363,
+    "eurostat:population_year":2020,
     "geom:area":0.000505,
     "geom:area_square_m":4893034.718919,
     "geom:bbox":"-6.8158161,38.37294983,-6.78005805,38.39755386",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06147",
+        "eurostat:nuts_2021_id":"06147",
         "gn:id":6356012,
         "gp:id":12694463,
         "qs_pg:id":977922
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"21d5d6331769ba56356ed3fa4aae3135",
+    "wof:geomhash":"9ef257f284b01da1f9cead271d8e6399",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330687,
-    "wof:lastmodified":1582361524,
+    "wof:lastmodified":1684352228,
     "wof:name":"Valle De Matamoros",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":363,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

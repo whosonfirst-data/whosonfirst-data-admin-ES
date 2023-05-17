@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04073",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Paterna del R\u00edo",
+    "eurostat:nuts_2021_id":"04073",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04073",
+    "eurostat:population":365,
+    "eurostat:population_year":2020,
     "geom:area":0.004607,
-    "geom:area_square_m":45466863.452017,
+    "geom:area_square_m":45466863.452015,
     "geom:bbox":"-2.98416497,36.99570572,-2.91493701,37.09686937",
     "geom:latitude":37.048614,
     "geom:longitude":-2.949212,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_04073",
+        "eurostat:nuts_2021_id":"04073",
         "gn:id":6355585,
         "gp:id":12688695,
         "qs_pg:id":1015251
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4cf17976a10b4bdc551521a89d2f6ca9",
+    "wof:geomhash":"b143c487fc96ae9196d7afb4bff69dac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404329723,
-    "wof:lastmodified":1582361794,
+    "wof:lastmodified":1684352214,
     "wof:name":"Paterna Del R\u00edo",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":365,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50080",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cerveruela",
+    "eurostat:nuts_2021_id":"50080",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50080",
+    "eurostat:population":34,
+    "eurostat:population_year":2020,
     "geom:area":0.002522,
-    "geom:area_square_m":23461328.333745,
+    "geom:area_square_m":23461328.333744,
     "geom:bbox":"-1.25102069,41.18792581,-1.18511787,41.25137309",
     "geom:latitude":41.219479,
     "geom:longitude":-1.215001,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50080",
+        "eurostat:nuts_2021_id":"50080",
         "gn:id":6362773,
         "gp:id":12689913,
         "qs_pg:id":954132
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"96a892b8482c6ce582c141d32900cb1f",
+    "wof:geomhash":"fb69bd0a3852bb1a77969fae4619f2a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404346891,
-    "wof:lastmodified":1582361619,
+    "wof:lastmodified":1684352504,
     "wof:name":"Cerveruela",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":34,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

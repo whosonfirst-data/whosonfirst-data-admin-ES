@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10177",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sierra de Fuentes",
+    "eurostat:nuts_2021_id":"10177",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10177",
+    "eurostat:population":1998,
+    "eurostat:population_year":2020,
     "geom:area":0.002637,
-    "geom:area_square_m":25191665.360408,
+    "geom:area_square_m":25191665.360407,
     "geom:bbox":"-6.30278257,39.28726844,-6.23081765,39.45991907",
     "geom:latitude":39.409766,
     "geom:longitude":-6.269412,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10177",
+        "eurostat:nuts_2021_id":"10177",
         "gn:id":6356872,
         "gp:id":12694659,
         "qs_pg:id":243093
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7e13bdc6860a0c3c4072429a0edf2256",
+    "wof:geomhash":"c65e56f45e964d85e1b74644f75c5279",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332905,
-    "wof:lastmodified":1582361686,
+    "wof:lastmodified":1684352270,
     "wof:name":"Sierra De Fuentes",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":1998,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

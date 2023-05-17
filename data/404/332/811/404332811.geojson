@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10135",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nu\u00f1omoral",
+    "eurostat:nuts_2021_id":"10135",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10135",
+    "eurostat:population":1252,
+    "eurostat:population_year":2020,
     "geom:area":0.010054,
     "geom:area_square_m":94669272.157867,
     "geom:bbox":"-6.36300174,40.36574439,-6.15490946,40.45180526",
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10135",
+        "eurostat:nuts_2021_id":"10135",
         "gn:id":6356830,
         "gp:id":12694616,
         "qs_pg:id":1003895
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"061a5308e6c9f8e9e60a04ce8886c4ee",
+    "wof:geomhash":"8dec702d2513dee5ca2d55cba0f4e199",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404332811,
-    "wof:lastmodified":1582361678,
+    "wof:lastmodified":1684352269,
     "wof:name":"Nu\u00f1omoral",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":1252,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

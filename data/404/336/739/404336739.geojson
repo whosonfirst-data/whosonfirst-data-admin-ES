@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22164",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Olvena",
+    "eurostat:nuts_2021_id":"22164",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22164",
+    "eurostat:population":56,
+    "eurostat:population_year":2020,
     "geom:area":0.00173,
-    "geom:area_square_m":15867569.444069,
+    "geom:area_square_m":15867569.444068,
     "geom:bbox":"0.22879247,42.08232028,0.30701741,42.13182596",
     "geom:latitude":42.107434,
     "geom:longitude":0.266124,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22164",
+        "eurostat:nuts_2021_id":"22164",
         "gp:id":12689523,
         "qs_pg:id":248523
     },
@@ -114,7 +130,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"be028a12a90c0f6245a2708b5ffe2f8d",
+    "wof:geomhash":"12cb5d9efb8e88ee47d1bdb6e825527c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +141,12 @@
         }
     ],
     "wof:id":404336739,
-    "wof:lastmodified":1582361459,
+    "wof:lastmodified":1684352343,
     "wof:name":"Olvena",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":56,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

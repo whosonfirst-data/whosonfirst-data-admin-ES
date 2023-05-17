@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28154",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torres de la Alameda",
+    "eurostat:nuts_2021_id":"28154",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28154",
+    "eurostat:population":7833,
+    "eurostat:population_year":2020,
     "geom:area":0.0046,
-    "geom:area_square_m":43310771.04498,
+    "geom:area_square_m":43310771.044983,
     "geom:bbox":"-3.42685628,40.36651283,-3.31215372,40.45629438",
     "geom:latitude":40.409903,
     "geom:longitude":-3.368289,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28154",
+        "eurostat:nuts_2021_id":"28154",
         "gn:id":6359373,
         "gp:id":12688094,
         "qs_pg:id":1173740
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e194d4ddd7c81ddd7bb3d9a77f8a50aa",
+    "wof:geomhash":"d1d7ce58f78cd2e7968c6caf2ef06071",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404339019,
-    "wof:lastmodified":1582361593,
+    "wof:lastmodified":1684352386,
     "wof:name":"Torres De La Alameda",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":7833,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

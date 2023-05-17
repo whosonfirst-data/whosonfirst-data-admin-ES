@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Canillas de Esgueva",
+    "eurostat:nuts_2021_id":"47034",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47034",
+    "eurostat:population":75,
+    "eurostat:population_year":2020,
     "geom:area":0.002546,
-    "geom:area_square_m":23486639.310512,
+    "geom:area_square_m":23486639.310513,
     "geom:bbox":"-4.16111468,41.72225851,-4.11438643,41.80730838",
     "geom:latitude":41.761514,
     "geom:longitude":-4.136142,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_47034",
+        "eurostat:nuts_2021_id":"47034",
         "gn:id":6362162,
         "gp:id":12692936,
         "qs_pg:id":977688
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7e4481686563f6f617c22e738dcce07a",
+    "wof:geomhash":"57b0aa4b033716304bbeb86b9756ce0a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404345473,
-    "wof:lastmodified":1582361837,
+    "wof:lastmodified":1684352486,
     "wof:name":"Canillas De Esgueva",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":75,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

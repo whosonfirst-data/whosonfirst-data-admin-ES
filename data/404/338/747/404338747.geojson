@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Buitrago del Lozoya",
+    "eurostat:nuts_2021_id":"28027",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28027",
+    "eurostat:population":1959,
+    "eurostat:population_year":2020,
     "geom:area":0.002779,
-    "geom:area_square_m":25938114.270781,
+    "geom:area_square_m":25938114.270779,
     "geom:bbox":"-3.6687148,40.95369993,-3.58042612,41.02462184",
     "geom:latitude":40.988421,
     "geom:longitude":-3.627181,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28027",
+        "eurostat:nuts_2021_id":"28027",
         "gn:id":6359253,
         "gp:id":12687972,
         "qs_pg:id":418761
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"119f620f846adb31294c19a58b690819",
+    "wof:geomhash":"302f3a2f3701eb9508d0c486e52241fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404338747,
-    "wof:lastmodified":1582361441,
+    "wof:lastmodified":1684352381,
     "wof:name":"Buitrago Del Lozoya",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":1959,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

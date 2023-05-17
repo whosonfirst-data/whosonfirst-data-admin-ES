@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_26071",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Haro",
+    "eurostat:nuts_2021_id":"26071",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES23",
+    "eurostat:nuts_2021_level_3":"ES230",
+    "eurostat:nuts_2021_level_lau":"26071",
+    "eurostat:population":11557,
+    "eurostat:population_year":2020,
     "geom:area":0.004445,
-    "geom:area_square_m":40469615.653428,
+    "geom:area_square_m":40469615.65343,
     "geom:bbox":"-2.91289741,42.53872586,-2.81818233,42.63820535",
     "geom:latitude":42.58497,
     "geom:longitude":-2.861583,
@@ -69,6 +81,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -77,6 +91,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_26071",
+        "eurostat:nuts_2021_id":"26071",
         "gn:id":6359061,
         "gp:id":12687842,
         "qs_pg:id":241588
@@ -85,7 +101,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"39d3da83cab1b2e5cf64a07c1bf83167",
+    "wof:geomhash":"e9f12e92c4c8545aeffc909b4d6bc4b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,10 +112,12 @@
         }
     ],
     "wof:id":404338299,
-    "wof:lastmodified":1582361453,
+    "wof:lastmodified":1684352374,
     "wof:name":"Haro",
     "wof:parent_id":85682773,
     "wof:placetype":"localadmin",
+    "wof:population":11557,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_20013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aretxabaleta",
+    "eurostat:nuts_2021_id":"20013",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES212",
+    "eurostat:nuts_2021_level_lau":"20013",
+    "eurostat:population":7103,
+    "eurostat:population_year":2020,
     "geom:area":0.003217,
     "geom:area_square_m":29078118.853892,
     "geom:bbox":"-2.52903693,42.96486216,-2.45132421,43.05281362",
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_20013",
+        "eurostat:nuts_2021_id":"20013",
         "gn:id":6358104,
         "gp:id":12695081,
         "qs_pg:id":1153095
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"38ebcca76f436444bfe4b09dfcaf535d",
+    "wof:geomhash":"82d93363611c681972e2e9b85f161b0b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404336111,
-    "wof:lastmodified":1582361466,
+    "wof:lastmodified":1684352333,
     "wof:name":"Aretxabaleta",
     "wof:parent_id":85682741,
     "wof:placetype":"localadmin",
+    "wof:population":7103,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

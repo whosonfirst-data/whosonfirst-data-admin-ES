@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":43033,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Botarell",
+    "eurostat:nuts_2021_id":"43033",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43033",
+    "eurostat:population":1077,
+    "eurostat:population_year":2020,
     "geom:area":0.00128,
     "geom:area_square_m":11919908.461113,
     "geom:bbox":"0.980838670388,41.1205896737,1.02674644258,41.1794725646",
@@ -112,6 +124,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -120,7 +134,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43033",
         "esp-icgc:la_lc":"043033",
+        "eurostat:nuts_2021_id":"43033",
         "gn:id":6361276,
         "gp:id":12694171,
         "qs_pg:id":1164422
@@ -130,7 +146,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"75fa70528cca3ac80eabf2900c15fdad",
+    "wof:geomhash":"fe9ae84efd7edeae2cf13dbbc6686056",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404343467,
-    "wof:lastmodified":1582361888,
+    "wof:lastmodified":1684352453,
     "wof:name":"Botarell",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":1077,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31049",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Basaburua",
+    "eurostat:nuts_2021_id":"31049",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31049",
+    "eurostat:population":828,
+    "eurostat:population_year":2020,
     "geom:area":0.009175,
     "geom:area_square_m":82937109.313041,
     "geom:bbox":"-1.87693243,42.96461675,-1.72818317,43.08052254",
@@ -90,6 +102,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -97,9 +111,12 @@
         404227391
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_31049",
+        "eurostat:nuts_2021_id":"31049"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"fe1bff3685a0abe0ae0c7e93d0d55ec3",
+    "wof:geomhash":"d374236d95e8c05120b13183baee4d00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,10 +127,12 @@
         }
     ],
     "wof:id":404339555,
-    "wof:lastmodified":1566590112,
+    "wof:lastmodified":1684352396,
     "wof:name":"Basaburua",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":828,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

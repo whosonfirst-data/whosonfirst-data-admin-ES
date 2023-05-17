@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_33001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Allande",
+    "eurostat:nuts_2021_id":"33001",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES12",
+    "eurostat:nuts_2021_level_3":"ES120",
+    "eurostat:nuts_2021_level_lau":"33001",
+    "eurostat:population":1615,
+    "eurostat:population_year":2020,
     "geom:area":0.037926,
-    "geom:area_square_m":341656468.984824,
+    "geom:area_square_m":341656468.984823,
     "geom:bbox":"-6.84803447,43.09931828,-6.53083733,43.37497473",
     "geom:latitude":43.236145,
     "geom:longitude":-6.715628,
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_33001",
+        "eurostat:nuts_2021_id":"33001",
         "gn:id":6359909,
         "gp:id":12688444,
         "qs_pg:id":896320
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"69148ab2739760e0c8e8a9c33045f1c0",
+    "wof:geomhash":"84bc774161c88879712356747d682431",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404340281,
-    "wof:lastmodified":1582361650,
+    "wof:lastmodified":1684352404,
     "wof:name":"Allande",
     "wof:parent_id":85682805,
     "wof:placetype":"localadmin",
+    "wof:population":1615,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

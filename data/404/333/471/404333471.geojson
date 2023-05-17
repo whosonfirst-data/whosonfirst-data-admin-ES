@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_13027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calzada de Calatrava",
+    "eurostat:nuts_2021_id":"13027",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES422",
+    "eurostat:nuts_2021_level_lau":"13027",
+    "eurostat:population":3630,
+    "eurostat:population_year":2020,
     "geom:area":0.042504,
-    "geom:area_square_m":410659914.333748,
+    "geom:area_square_m":410659914.33375,
     "geom:bbox":"-3.9196184,38.46415948,-3.62024672,38.78493368",
     "geom:latitude":38.614731,
     "geom:longitude":-3.760522,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_13027",
+        "eurostat:nuts_2021_id":"13027",
         "gn:id":6357121,
         "gp:id":12690324,
         "qs_pg:id":248489
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e6f09113e08de1164ee39b1e61ff2512",
+    "wof:geomhash":"4e211cadf40f6aa4dfdf2cdcd46db728",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404333471,
-    "wof:lastmodified":1582361761,
+    "wof:lastmodified":1684352279,
     "wof:name":"Calzada De Calatrava",
     "wof:parent_id":85682689,
     "wof:placetype":"localadmin",
+    "wof:population":3630,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

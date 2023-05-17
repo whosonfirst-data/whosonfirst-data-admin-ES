@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03072",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gaianes",
+    "eurostat:nuts_2021_id":"03072",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03072",
+    "eurostat:population":479,
+    "eurostat:population_year":2020,
     "geom:area":0.000993,
     "geom:area_square_m":9564321.721292,
     "geom:bbox":"-0.43224172,38.79876022,-0.38582788,38.83312489",
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03072",
+        "eurostat:nuts_2021_id":"03072",
         "gn:id":6355448,
         "gp:id":12695335,
         "qs_pg:id":1013791
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5ea38df888fcf82d17735945e83376d5",
+    "wof:geomhash":"30d7913959c87f4b5f1130ee233aacc2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404329413,
-    "wof:lastmodified":1582361790,
+    "wof:lastmodified":1684352209,
     "wof:name":"Gaianes",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":479,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

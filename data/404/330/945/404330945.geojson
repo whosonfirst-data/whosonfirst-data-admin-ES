@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8030,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cabrils",
+    "eurostat:nuts_2021_id":"08030",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08030",
+    "eurostat:population":7432,
+    "eurostat:population_year":2020,
     "geom:area":0.000752,
-    "geom:area_square_m":6958782.689803,
+    "geom:area_square_m":6958782.689802,
     "geom:bbox":"2.3425711396,41.5122214614,2.3920487416,41.5438392631",
     "geom:latitude":41.529445,
     "geom:longitude":2.367636,
@@ -118,6 +130,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -126,7 +140,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08030",
         "esp-icgc:la_lc":"08030",
+        "eurostat:nuts_2021_id":"08030",
         "gn:id":6356066,
         "gp:id":12693407,
         "qs_pg:id":907098
@@ -136,7 +152,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"77cd0a386ccc0c416f937dbae1fbee12",
+    "wof:geomhash":"452c4449a5c40228a101a9bd7ec3b6a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404330945,
-    "wof:lastmodified":1582361544,
+    "wof:lastmodified":1684352236,
     "wof:name":"Cabrils",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":7432,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

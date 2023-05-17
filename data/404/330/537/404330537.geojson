@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06080",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Medell\u00edn",
+    "eurostat:nuts_2021_id":"06080",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06080",
+    "eurostat:population":2275,
+    "eurostat:population_year":2020,
     "geom:area":0.006752,
-    "geom:area_square_m":64910570.53706,
+    "geom:area_square_m":64910570.537058,
     "geom:bbox":"-6.06087322,38.9265347,-5.92238127,39.01537313",
     "geom:latitude":38.968233,
     "geom:longitude":-5.98969,
@@ -336,6 +348,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -344,6 +358,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06080",
+        "eurostat:nuts_2021_id":"06080",
         "gn:id":6355945,
         "gp:id":12694399,
         "qs_pg:id":248797
@@ -352,7 +368,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"10a78ef7b4d27e69f44b265807aae653",
+    "wof:geomhash":"847ed1192044a1c72f625ed46003ee02",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -363,10 +379,12 @@
         }
     ],
     "wof:id":404330537,
-    "wof:lastmodified":1582361532,
+    "wof:lastmodified":1684352225,
     "wof:name":"Medell\u00edn",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":2275,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

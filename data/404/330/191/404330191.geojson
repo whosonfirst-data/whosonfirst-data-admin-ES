@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05193",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rasueros",
+    "eurostat:nuts_2021_id":"05193",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05193",
+    "eurostat:population":174,
+    "eurostat:population_year":2020,
     "geom:area":0.004354,
-    "geom:area_square_m":40615940.194964,
+    "geom:area_square_m":40615940.194965,
     "geom:bbox":"-5.10792749,40.97546216,-5.02186523,41.06485531",
     "geom:latitude":41.021899,
     "geom:longitude":-5.066993,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05193",
+        "eurostat:nuts_2021_id":"05193",
         "gn:id":6355793,
         "gp:id":12691302,
         "qs_pg:id":1025380
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"98d1279ebaa1904ce36f2ac05843a169",
+    "wof:geomhash":"2b9bd4b53e1871f3518b6240b9d5c6e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404330191,
-    "wof:lastmodified":1582361532,
+    "wof:lastmodified":1684352220,
     "wof:name":"Rasueros",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":174,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

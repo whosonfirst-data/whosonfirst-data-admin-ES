@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_33056",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ribadesella",
+    "eurostat:nuts_2021_id":"33056",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES12",
+    "eurostat:nuts_2021_level_3":"ES120",
+    "eurostat:nuts_2021_level_lau":"33056",
+    "eurostat:population":5688,
+    "eurostat:population_year":2020,
     "geom:area":0.009354,
-    "geom:area_square_m":83978867.297188,
+    "geom:area_square_m":83978867.297186,
     "geom:bbox":"-5.19340563,43.40671278,-4.98152124,43.48461762",
     "geom:latitude":43.444959,
     "geom:longitude":-5.083856,
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_33056",
+        "eurostat:nuts_2021_id":"33056",
         "gn:id":6359959,
         "gp:id":12688498,
         "qs_pg:id":1109496
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4d3f9a51d5625a30728008f8abad4ab2",
+    "wof:geomhash":"b11441282ac89e2933e711626fce32fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404340405,
-    "wof:lastmodified":1582361663,
+    "wof:lastmodified":1684352408,
     "wof:name":"Ribadesella",
     "wof:parent_id":85682805,
     "wof:placetype":"localadmin",
+    "wof:population":5688,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

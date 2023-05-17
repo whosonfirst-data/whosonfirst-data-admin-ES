@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_41092",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tocina",
+    "eurostat:nuts_2021_id":"41092",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES618",
+    "eurostat:nuts_2021_level_lau":"41092",
+    "eurostat:population":9486,
+    "eurostat:population_year":2020,
     "geom:area":0.001588,
     "geom:area_square_m":15556507.941092,
     "geom:bbox":"-5.75541676,37.58499194,-5.69950332,37.63162127",
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_41092",
+        "eurostat:nuts_2021_id":"41092",
         "gn:id":6361047,
         "gp:id":12689384,
         "qs_pg:id":977250
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"928a0908aca5843f935a00210a0308ec",
+    "wof:geomhash":"642bf8d4bd2ab4a8dfc436e2900a4278",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404342949,
-    "wof:lastmodified":1582361814,
+    "wof:lastmodified":1684352446,
     "wof:name":"Tocina",
     "wof:parent_id":85682841,
     "wof:placetype":"localadmin",
+    "wof:population":9486,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

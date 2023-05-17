@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_39079",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santo\u00f1a",
+    "eurostat:nuts_2021_id":"39079",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES13",
+    "eurostat:nuts_2021_level_3":"ES130",
+    "eurostat:nuts_2021_level_lau":"39079",
+    "eurostat:population":11019,
+    "eurostat:population_year":2020,
     "geom:area":0.001265,
-    "geom:area_square_m":11359382.781406,
+    "geom:area_square_m":11359382.781405,
     "geom:bbox":"-3.48736548,43.43707713,-3.42542029,43.46889895",
     "geom:latitude":43.453311,
     "geom:longitude":-3.452676,
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_39079",
+        "eurostat:nuts_2021_id":"39079",
         "gn:id":6360724,
         "gp:id":12688601,
         "qs_pg:id":1118777
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a44518aae8d996a952d87127ae8a913f",
+    "wof:geomhash":"011cdb612f83218a4a82a208d8117707",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404342219,
-    "wof:lastmodified":1582361809,
+    "wof:lastmodified":1684352437,
     "wof:name":"Santo\u00f1a",
     "wof:parent_id":85682833,
     "wof:placetype":"localadmin",
+    "wof:population":11019,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

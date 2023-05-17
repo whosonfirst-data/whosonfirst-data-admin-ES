@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10112",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Madrigalejo",
+    "eurostat:nuts_2021_id":"10112",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10112",
+    "eurostat:population":1712,
+    "eurostat:population_year":2020,
     "geom:area":0.010503,
-    "geom:area_square_m":100729113.664769,
+    "geom:area_square_m":100729113.664766,
     "geom:bbox":"-5.72660411,39.08081559,-5.57656126,39.2268451",
     "geom:latitude":39.141792,
     "geom:longitude":-5.642467,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10112",
+        "eurostat:nuts_2021_id":"10112",
         "gn:id":6356807,
         "gp:id":12694593,
         "qs_pg:id":241609
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"57fada9155b05e0369696ca543d58317",
+    "wof:geomhash":"148c26b2320b11e4575036c0985a949b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404332759,
-    "wof:lastmodified":1582361686,
+    "wof:lastmodified":1684352268,
     "wof:name":"Madrigalejo",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":1712,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

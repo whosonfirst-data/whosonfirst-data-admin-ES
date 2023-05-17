@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_01054",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Urkabustaiz",
+    "eurostat:nuts_2021_id":"01054",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES211",
+    "eurostat:nuts_2021_level_lau":"01054",
+    "eurostat:population":1386,
+    "eurostat:population_year":2020,
     "geom:area":0.006674,
-    "geom:area_square_m":60390615.863867,
+    "geom:area_square_m":60390615.86387,
     "geom:bbox":"-2.97496301,42.92340114,-2.86982344,43.02106164",
     "geom:latitude":42.966512,
     "geom:longitude":-2.921278,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_01054",
+        "eurostat:nuts_2021_id":"01054",
         "gn:id":6355281,
         "gp:id":12695057,
         "qs_pg:id":1163733
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"03d3961295df39b46112850668894c13",
+    "wof:geomhash":"821ee2f43bc07ff472c0e3b398633921",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404329027,
-    "wof:lastmodified":1582361798,
+    "wof:lastmodified":1684352203,
     "wof:name":"Urkabustaiz",
     "wof:parent_id":85682615,
     "wof:placetype":"localadmin",
+    "wof:population":1386,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

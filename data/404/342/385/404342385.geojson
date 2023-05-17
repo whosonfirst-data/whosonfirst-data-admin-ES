@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40057",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Coca",
+    "eurostat:nuts_2021_id":"40057",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40057",
+    "eurostat:population":1726,
+    "eurostat:population_year":2020,
     "geom:area":0.010572,
-    "geom:area_square_m":98321716.214278,
+    "geom:area_square_m":98321716.214277,
     "geom:bbox":"-4.60961554,41.16169902,-4.44378036,41.2811777",
     "geom:latitude":41.22361,
     "geom:longitude":-4.530106,
@@ -39,6 +51,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -47,6 +61,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_40057",
+        "eurostat:nuts_2021_id":"40057",
         "gn:id":6360797,
         "gp:id":12692563,
         "qs_pg:id":1311071
@@ -55,7 +71,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2757e91df34459ad506c0ca21d85d337",
+    "wof:geomhash":"54f96051fc57052977380ef95ad19363",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +82,12 @@
         }
     ],
     "wof:id":404342385,
-    "wof:lastmodified":1582361813,
+    "wof:lastmodified":1684352439,
     "wof:name":"Coca",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":1726,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8119,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08119",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Masquefa",
+    "eurostat:nuts_2021_id":"08119",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08119",
+    "eurostat:population":9402,
+    "eurostat:population_year":2020,
     "geom:area":0.001881,
-    "geom:area_square_m":17420582.370757,
+    "geom:area_square_m":17420582.370756,
     "geom:bbox":"1.7781124051,41.4728990664,1.84401941579,41.5286598184",
     "geom:latitude":41.500014,
     "geom:longitude":1.807258,
@@ -136,6 +148,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -144,7 +158,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08119",
         "esp-icgc:la_lc":"08119",
+        "eurostat:nuts_2021_id":"08119",
         "gn:id":6356148,
         "gp:id":12693500,
         "qs_pg:id":217665
@@ -154,7 +170,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"65a66ab534e10293ef8b285576edf39b",
+    "wof:geomhash":"a49d9c18df863a6bc47131ee818435dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -165,10 +181,12 @@
         }
     ],
     "wof:id":404331145,
-    "wof:lastmodified":1582361495,
+    "wof:lastmodified":1684352242,
     "wof:name":"Masquefa",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":9402,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

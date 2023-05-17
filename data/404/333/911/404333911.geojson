@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Melide",
+    "eurostat:nuts_2021_id":"15046",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15046",
+    "eurostat:population":7419,
+    "eurostat:population_year":2020,
     "geom:area":0.011171,
     "geom:area_square_m":101132867.653959,
     "geom:bbox":"-8.13486053,42.87503413,-7.93551003,42.99124076",
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_15046",
+        "eurostat:nuts_2021_id":"15046",
         "gn:id":6357315,
         "gp:id":12694748,
         "qs_pg:id":237704
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d01433254907846feb91ff3f344e91a1",
+    "wof:geomhash":"0465977daf1c638745f59191aea038a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404333911,
-    "wof:lastmodified":1582361783,
+    "wof:lastmodified":1684352288,
     "wof:name":"Melide",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":7419,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43151,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43151",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torre de Fontaubella, La",
+    "eurostat:nuts_2021_id":"43151",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43151",
+    "eurostat:population":131,
+    "eurostat:population_year":2020,
     "geom:area":0.000765,
-    "geom:area_square_m":7130444.234634,
+    "geom:area_square_m":7130412.042335,
     "geom:bbox":"0.83234,41.109971,0.889849,41.132533",
     "geom:latitude":41.120836,
     "geom:longitude":0.864237,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43151",
         "esp-icgc:la_lc":"043151",
+        "eurostat:nuts_2021_id":"43151",
         "gn:id":6361393,
         "gp:id":12694291,
         "qs_pg:id":259329
@@ -67,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8d5ee5ab560666f19da3c39985b740e7",
+    "wof:geomhash":"c6a6b44518fe81e7113bbc1d85ef7e9b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404343731,
-    "wof:lastmodified":1669903061,
+    "wof:lastmodified":1684352462,
     "wof:name":"La Torre de Fontaubella",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":131,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

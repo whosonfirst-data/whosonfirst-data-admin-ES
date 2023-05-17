@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43020,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Banyeres del Pened\u00e8s",
+    "eurostat:nuts_2021_id":"43020",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43020",
+    "eurostat:population":3207,
+    "eurostat:population_year":2020,
     "geom:area":0.001315,
-    "geom:area_square_m":12218459.494746,
+    "geom:area_square_m":12218412.289345,
     "geom:bbox":"1.52573,41.25443,1.593172,41.291237",
     "geom:latitude":41.270864,
     "geom:longitude":1.559515,
@@ -48,6 +60,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -56,13 +70,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"043020"
+        "eg:gisco_id":"ES_43020",
+        "esp-icgc:la_lc":"043020",
+        "eurostat:nuts_2021_id":"43020"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fffa1d72ceefccc29a26514f64f59200",
+    "wof:geomhash":"e8dfeca5980220b9624625165effbe16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,10 +89,12 @@
         }
     ],
     "wof:id":404343437,
-    "wof:lastmodified":1669903062,
+    "wof:lastmodified":1684352453,
     "wof:name":"Banyeres del Pened\u00e8s",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":3207,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

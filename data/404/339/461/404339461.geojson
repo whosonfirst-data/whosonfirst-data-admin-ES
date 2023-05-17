@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Am\u00e9scoa Baja",
+    "eurostat:nuts_2021_id":"31013",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31013",
+    "eurostat:population":711,
+    "eurostat:population_year":2020,
     "geom:area":0.003322,
-    "geom:area_square_m":30154908.00149,
+    "geom:area_square_m":30154908.001491,
     "geom:bbox":"-2.1969566,42.7517481,-2.05355511,42.8062939",
     "geom:latitude":42.772681,
     "geom:longitude":-2.126919,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31013",
+        "eurostat:nuts_2021_id":"31013",
         "gn:id":6359562,
         "gp:id":12688182,
         "qs_pg:id":44562
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"761a00d7e1ce260ba44b69375ff5e2b6",
+    "wof:geomhash":"7ff86f5d8cbfb21519420e87a5d54018",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404339461,
-    "wof:lastmodified":1582361595,
+    "wof:lastmodified":1684352395,
     "wof:name":"Am\u00e9scoa Baja",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":711,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

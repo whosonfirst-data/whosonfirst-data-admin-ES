@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10133",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Navas del Madro\u00f1o",
+    "eurostat:nuts_2021_id":"10133",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10133",
+    "eurostat:population":1280,
+    "eurostat:population_year":2020,
     "geom:area":0.011783,
-    "geom:area_square_m":112186705.265573,
+    "geom:area_square_m":112186705.265572,
     "geom:bbox":"-6.69902879,39.57354026,-6.56452625,39.71001484",
     "geom:latitude":39.646506,
     "geom:longitude":-6.642516,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10133",
+        "eurostat:nuts_2021_id":"10133",
         "gn:id":6356828,
         "gp:id":12694614,
         "qs_pg:id":1085767
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"27a685e93963d30f741f88dc3824cab4",
+    "wof:geomhash":"327e295fedfe92a6348ce849e1ebf099",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332807,
-    "wof:lastmodified":1582361688,
+    "wof:lastmodified":1684352269,
     "wof:name":"Navas Del Madro\u00f1o",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":1280,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Benidoleig",
+    "eurostat:nuts_2021_id":"03030",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03030",
+    "eurostat:population":1078,
+    "eurostat:population_year":2020,
     "geom:area":0.000776,
-    "geom:area_square_m":7479001.097919,
+    "geom:area_square_m":7479001.09792,
     "geom:bbox":"-0.04499456,38.77526766,-0.00771105,38.80750578",
     "geom:latitude":38.792291,
     "geom:longitude":-0.027008,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03030",
+        "eurostat:nuts_2021_id":"03030",
         "gn:id":6355406,
         "gp:id":12695295,
         "qs_pg:id":1000258
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"57ccfda4549aed9263612cfc207eced8",
+    "wof:geomhash":"ef1ff95f0af1515a7f851efc99b5b3a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404329319,
-    "wof:lastmodified":1582361803,
+    "wof:lastmodified":1684352208,
     "wof:name":"Benidoleig",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":1078,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

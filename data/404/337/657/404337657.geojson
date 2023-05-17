@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25019,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Almacelles",
+    "eurostat:nuts_2021_id":"25019",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25019",
+    "eurostat:population":6826,
+    "eurostat:population_year":2020,
     "geom:area":0.005298,
-    "geom:area_square_m":48889527.048483,
+    "geom:area_square_m":48889568.124964,
     "geom:bbox":"0.394807,41.694002,0.517949,41.76471",
     "geom:latitude":41.731318,
     "geom:longitude":0.457718,
@@ -124,6 +136,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -132,7 +146,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25019",
         "esp-icgc:la_lc":"025019",
+        "eurostat:nuts_2021_id":"25019",
         "gn:id":6358778,
         "gp:id":12693925,
         "qs_pg:id":905059
@@ -142,7 +158,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7512bf45eedb8be91348c550f6d2adc6",
+    "wof:geomhash":"46cce532fa7bfd315f862b1f96f58700",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,10 +169,12 @@
         }
     ],
     "wof:id":404337657,
-    "wof:lastmodified":1669903023,
+    "wof:lastmodified":1684352355,
     "wof:name":"Almacelles",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":6826,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

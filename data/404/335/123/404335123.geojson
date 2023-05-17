@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calicasas",
+    "eurostat:nuts_2021_id":"18037",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18037",
+    "eurostat:population":638,
+    "eurostat:population_year":2020,
     "geom:area":0.001143,
-    "geom:area_square_m":11245569.807412,
+    "geom:area_square_m":11245569.807411,
     "geom:bbox":"-3.64716755,37.26274442,-3.60555764,37.30265882",
     "geom:latitude":37.280207,
     "geom:longitude":-3.62784,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18037",
+        "eurostat:nuts_2021_id":"18037",
         "gn:id":6357670,
         "gp:id":12688880,
         "qs_pg:id":911971
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f02d92e8b78f8e107d5ad5f7a70c928d",
+    "wof:geomhash":"752a1b61464748226e3218b030f2d335",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404335123,
-    "wof:lastmodified":1582361711,
+    "wof:lastmodified":1684352321,
     "wof:name":"Calicasas",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":638,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

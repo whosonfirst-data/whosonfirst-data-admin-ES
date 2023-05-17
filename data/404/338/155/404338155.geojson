@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_26007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alcanadre",
+    "eurostat:nuts_2021_id":"26007",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES23",
+    "eurostat:nuts_2021_level_3":"ES230",
+    "eurostat:nuts_2021_level_lau":"26007",
+    "eurostat:population":638,
+    "eurostat:population_year":2020,
     "geom:area":0.003399,
     "geom:area_square_m":31033983.005798,
     "geom:bbox":"-2.21512736,42.37582184,-2.08754845,42.42141847",
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_26007",
+        "eurostat:nuts_2021_id":"26007",
         "gn:id":6358997,
         "gp:id":12687778,
         "qs_pg:id":1164002
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b85f27b512f105db8a97847442702d1e",
+    "wof:geomhash":"2834f4d8b871ead92587244c9c077b7e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404338155,
-    "wof:lastmodified":1582361445,
+    "wof:lastmodified":1684352372,
     "wof:name":"Alcanadre",
     "wof:parent_id":85682773,
     "wof:placetype":"localadmin",
+    "wof:population":638,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

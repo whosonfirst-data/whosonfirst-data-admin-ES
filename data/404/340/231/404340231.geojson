@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_32071",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ri\u00f3s",
+    "eurostat:nuts_2021_id":"32071",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES113",
+    "eurostat:nuts_2021_level_lau":"32071",
+    "eurostat:population":1461,
+    "eurostat:population_year":2020,
     "geom:area":0.012431,
-    "geom:area_square_m":114275959.891313,
+    "geom:area_square_m":114275959.891312,
     "geom:bbox":"-7.35532546,41.91203702,-7.17350213,42.03887405",
     "geom:latitude":41.973109,
     "geom:longitude":-7.274802,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_32071",
+        "eurostat:nuts_2021_id":"32071",
         "gn:id":6359888,
         "gp:id":12694929,
         "qs_pg:id":1188911
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"677b7606b2d65db1e9c1afef55d1476b",
+    "wof:geomhash":"eaf136d484ac86659894e22e3de08c6d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404340231,
-    "wof:lastmodified":1582361662,
+    "wof:lastmodified":1684352404,
     "wof:name":"Ri\u00f3s",
     "wof:parent_id":85682801,
     "wof:placetype":"localadmin",
+    "wof:population":1461,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31111",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gallu\u00e9s / Galoze",
+    "eurostat:nuts_2021_id":"31111",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31111",
+    "eurostat:population":94,
+    "eurostat:population_year":2020,
     "geom:area":0.004731,
-    "geom:area_square_m":42924417.958864,
+    "geom:area_square_m":42924417.958865,
     "geom:bbox":"-1.16408157,42.75783223,-1.02942984,42.83095413",
     "geom:latitude":42.792571,
     "geom:longitude":-1.102207,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227391
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_31111",
+        "eurostat:nuts_2021_id":"31111"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"a8cf3d9602ad733e94878e2d4c54f447",
+    "wof:geomhash":"ec6fd28be5d68c1e126fd7ef8f961c25",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404339695,
-    "wof:lastmodified":1566590097,
+    "wof:lastmodified":1684352397,
     "wof:name":"Gallu\u00e9s/Galoze",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":94,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

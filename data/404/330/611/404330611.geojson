@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06113",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ribera del Fresno",
+    "eurostat:nuts_2021_id":"06113",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06113",
+    "eurostat:population":3256,
+    "eurostat:population_year":2020,
     "geom:area":0.019188,
-    "geom:area_square_m":185496174.372308,
+    "geom:area_square_m":185496174.37231,
     "geom:bbox":"-6.32479474,38.47635425,-6.15742432,38.68423034",
     "geom:latitude":38.574069,
     "geom:longitude":-6.245961,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06113",
+        "eurostat:nuts_2021_id":"06113",
         "gn:id":6355978,
         "gp:id":12694432,
         "qs_pg:id":955137
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ef10329af88f4d7091e85d87b5404702",
+    "wof:geomhash":"31187679dc5e0146cb774788222bd131",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330611,
-    "wof:lastmodified":1582361524,
+    "wof:lastmodified":1684352227,
     "wof:name":"Ribera Del Fresno",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":3256,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

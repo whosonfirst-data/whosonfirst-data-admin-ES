@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04078",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rioja",
+    "eurostat:nuts_2021_id":"04078",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04078",
+    "eurostat:population":1453,
+    "eurostat:population_year":2020,
     "geom:area":0.003684,
-    "geom:area_square_m":36393190.177249,
+    "geom:area_square_m":36393190.17725,
     "geom:bbox":"-2.47433458,36.93066962,-2.40054801,37.00977878",
     "geom:latitude":36.971096,
     "geom:longitude":-2.440096,
@@ -87,6 +99,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -95,6 +109,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_04078",
+        "eurostat:nuts_2021_id":"04078",
         "gn:id":6355590,
         "gp:id":12688700,
         "qs_pg:id":1015252
@@ -103,7 +119,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"45843b73ff90eb6f686e5c916fd6da74",
+    "wof:geomhash":"20cd5dab42c4c090d14c12d40377ccdc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,10 +130,12 @@
         }
     ],
     "wof:id":404329735,
-    "wof:lastmodified":1582361797,
+    "wof:lastmodified":1684352214,
     "wof:name":"Rioja",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":1453,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

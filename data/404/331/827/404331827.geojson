@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09112",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Coru\u00f1a del Conde",
+    "eurostat:nuts_2021_id":"09112",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09112",
+    "eurostat:population":107,
+    "eurostat:population_year":2020,
     "geom:area":0.003719,
-    "geom:area_square_m":34305961.727037,
+    "geom:area_square_m":34305961.727036,
     "geom:bbox":"-3.47041547,41.71858768,-3.32167593,41.78752352",
     "geom:latitude":41.7566,
     "geom:longitude":-3.391998,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09112",
+        "eurostat:nuts_2021_id":"09112",
         "gn:id":6356417,
         "gp:id":12691464,
         "qs_pg:id":265300
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b3bb67b0711fa8264072929a620a3f91",
+    "wof:geomhash":"1931cf142176a3811234f8be4feeb790",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404331827,
-    "wof:lastmodified":1582361484,
+    "wof:lastmodified":1684352258,
     "wof:name":"Coru\u00f1a Del Conde",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":107,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37251",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Peromingo",
+    "eurostat:nuts_2021_id":"37251",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37251",
+    "eurostat:population":117,
+    "eurostat:population_year":2020,
     "geom:area":0.000933,
     "geom:area_square_m":8780693.577398,
     "geom:bbox":"-5.79717517,40.44908327,-5.74813323,40.48182839",
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37251",
+        "eurostat:nuts_2021_id":"37251",
         "gn:id":6360490,
         "gp:id":12692382,
         "qs_pg:id":46700
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7fc7ea65686a445be10534b80ef1d3e9",
+    "wof:geomhash":"a80a5ecea0e766973615db0ae38cd43f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404341629,
-    "wof:lastmodified":1582361628,
+    "wof:lastmodified":1684352426,
     "wof:name":"Peromingo",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":117,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

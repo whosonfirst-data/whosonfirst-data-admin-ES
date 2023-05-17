@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31078",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cortes",
+    "eurostat:nuts_2021_id":"31078",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31078",
+    "eurostat:population":3178,
+    "eurostat:population_year":2020,
     "geom:area":0.003966,
-    "geom:area_square_m":36483696.580596,
+    "geom:area_square_m":36483696.580597,
     "geom:bbox":"-1.5177118,41.91307297,-1.3800896,41.96324978",
     "geom:latitude":41.938536,
     "geom:longitude":-1.44452,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31078",
+        "eurostat:nuts_2021_id":"31078",
         "gn:id":6359626,
         "gp:id":12688253,
         "qs_pg:id":491863
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"676fdf1e76a2548b06ca32fa03325c9d",
+    "wof:geomhash":"0e7454845eb908c0ef0b5fbd22417113",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404339619,
-    "wof:lastmodified":1582361583,
+    "wof:lastmodified":1684352396,
     "wof:name":"Cortes",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":3178,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

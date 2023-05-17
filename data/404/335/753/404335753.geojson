@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19174",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Matillas",
+    "eurostat:nuts_2021_id":"19174",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19174",
+    "eurostat:population":101,
+    "eurostat:population_year":2020,
     "geom:area":0.00111,
     "geom:area_square_m":10365123.139158,
     "geom:bbox":"-2.85536426,40.92144856,-2.81190907,40.96222798",
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19174",
+        "eurostat:nuts_2021_id":"19174",
         "gn:id":6357947,
         "gp:id":12690777,
         "qs_pg:id":1163680
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fc4c3283c43fedab517fca3f92198d7b",
+    "wof:geomhash":"0649cc1b60b479f8a80abb29afbb5670",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404335753,
-    "wof:lastmodified":1582361695,
+    "wof:lastmodified":1684352329,
     "wof:name":"Matillas",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":101,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

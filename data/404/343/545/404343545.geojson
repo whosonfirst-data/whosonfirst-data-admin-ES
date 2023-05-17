@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43068,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43068",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Godall",
+    "eurostat:nuts_2021_id":"43068",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43068",
+    "eurostat:population":598,
+    "eurostat:population_year":2020,
     "geom:area":0.00361,
-    "geom:area_square_m":33859719.208728,
+    "geom:area_square_m":33859719.208729,
     "geom:bbox":"0.400060259997,40.6240531865,0.52180221111,40.7010073278",
     "geom:latitude":40.66223,
     "geom:longitude":0.463768,
@@ -106,6 +118,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -114,7 +128,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43068",
         "esp-icgc:la_lc":"043068",
+        "eurostat:nuts_2021_id":"43068",
         "gn:id":6361311,
         "gp:id":12694206,
         "qs_pg:id":977892
@@ -124,7 +140,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3566141d641dd78f181e3b7937789c06",
+    "wof:geomhash":"480e5154f2ca3bc6815856e13c5cfcd6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404343545,
-    "wof:lastmodified":1582361877,
+    "wof:lastmodified":1684352456,
     "wof:name":"Godall",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":598,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

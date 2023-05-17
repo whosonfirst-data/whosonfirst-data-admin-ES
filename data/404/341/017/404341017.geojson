@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_36025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lama, A",
+    "eurostat:nuts_2021_id":"36025",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES114",
+    "eurostat:nuts_2021_level_lau":"36025",
+    "eurostat:population":2397,
+    "eurostat:population_year":2020,
     "geom:area":0.012223,
-    "geom:area_square_m":111590657.303515,
+    "geom:area_square_m":111590657.303513,
     "geom:bbox":"-8.46311136,42.34290049,-8.31470392,42.48734772",
     "geom:latitude":42.411944,
     "geom:longitude":-8.387439,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_36025",
+        "eurostat:nuts_2021_id":"36025",
         "gn:id":6360226,
         "gp:id":12694979,
         "qs_pg:id":621807
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e6e688739e65c33290865db6cc66b65a",
+    "wof:geomhash":"c79f240b1d4722e6fede0cca355640e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404341017,
-    "wof:lastmodified":1582361637,
+    "wof:lastmodified":1684352419,
     "wof:name":"A Lama",
     "wof:parent_id":85682825,
     "wof:placetype":"localadmin",
+    "wof:population":2397,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

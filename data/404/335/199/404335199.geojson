@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18079",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fuente Vaqueros",
+    "eurostat:nuts_2021_id":"18079",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18079",
+    "eurostat:population":4384,
+    "eurostat:population_year":2020,
     "geom:area":0.001625,
     "geom:area_square_m":16004041.000444,
     "geom:bbox":"-3.83437787,37.20080104,-3.72337132,37.24292653",
@@ -141,6 +153,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -149,6 +163,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18079",
+        "eurostat:nuts_2021_id":"18079",
         "gn:id":6357703,
         "gp:id":12688914,
         "qs_pg:id":45010
@@ -157,7 +173,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"499718ef61012a84c965ff86c32f408c",
+    "wof:geomhash":"918549a07562087c139b89867f570a16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,10 +184,12 @@
         }
     ],
     "wof:id":404335199,
-    "wof:lastmodified":1582361705,
+    "wof:lastmodified":1684352322,
     "wof:name":"Fuente Vaqueros",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":4384,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16153",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pedernoso, El",
+    "eurostat:nuts_2021_id":"16153",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16153",
+    "eurostat:population":1140,
+    "eurostat:population_year":2020,
     "geom:area":0.005905,
-    "geom:area_square_m":56360401.362998,
+    "geom:area_square_m":56360401.362995,
     "geom:bbox":"-2.80339749,39.43375612,-2.69752632,39.51582893",
     "geom:latitude":39.47955,
     "geom:longitude":-2.75172,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16153",
+        "eurostat:nuts_2021_id":"16153",
         "gn:id":6357494,
         "qs_pg:id":621631
     },
@@ -114,7 +130,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"97c95a8b13b42c91d452e198ad2ab795",
+    "wof:geomhash":"8b82883805a0c187a708a1644a2010c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +141,12 @@
         }
     ],
     "wof:id":404334323,
-    "wof:lastmodified":1582361732,
+    "wof:lastmodified":1684352296,
     "wof:name":"El Pedernoso",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":1140,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22175",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Peralta de Calasanz",
+    "eurostat:nuts_2021_id":"22175",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22175",
+    "eurostat:population":210,
+    "eurostat:population_year":2020,
     "geom:area":0.012484,
     "geom:area_square_m":114715686.763885,
     "geom:bbox":"0.31380947,41.92186828,0.45048363,42.06963736",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_22175",
+        "eurostat:nuts_2021_id":"22175"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"626f120ed796a30a903e272bfb72c2b6",
+    "wof:geomhash":"7c4486aa953c5038d42524d0f8319c21",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404336757,
-    "wof:lastmodified":1566589710,
+    "wof:lastmodified":1684352343,
     "wof:name":"Peralta De Calasanz",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":210,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

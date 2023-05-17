@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"C\u00e1ceres",
+    "eurostat:nuts_2021_id":"10037",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10037",
+    "eurostat:population":96255,
+    "eurostat:population_year":2020,
     "geom:area":0.182951,
-    "geom:area_square_m":1748823949.410729,
+    "geom:area_square_m":1748823949.410752,
     "geom:bbox":"-6.80206976,39.15526181,-6.07873997,39.64874289",
     "geom:latitude":39.370714,
     "geom:longitude":-6.44915,
@@ -114,6 +126,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -121,9 +135,12 @@
         404227383
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_10037",
+        "eurostat:nuts_2021_id":"10037"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"9350b1f9b7169e537910ca79ccc45f1c",
+    "wof:geomhash":"f5e5a30b7d547c771a948e8ee26ba4eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +151,12 @@
         }
     ],
     "wof:id":404332593,
-    "wof:lastmodified":1566590474,
+    "wof:lastmodified":1684352266,
     "wof:name":"C\u00e1ceres",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":96255,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

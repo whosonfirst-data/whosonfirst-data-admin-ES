@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_34088",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Husillos",
+    "eurostat:nuts_2021_id":"34088",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES414",
+    "eurostat:nuts_2021_level_lau":"34088",
+    "eurostat:population":330,
+    "eurostat:population_year":2020,
     "geom:area":0.001779,
-    "geom:area_square_m":16324203.038677,
+    "geom:area_square_m":16324203.038678,
     "geom:bbox":"-4.56216621,42.05096672,-4.50869945,42.1199525",
     "geom:latitude":42.092167,
     "geom:longitude":-4.538071,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_34088",
+        "eurostat:nuts_2021_id":"34088",
         "gn:id":6360049,
         "gp:id":12692027,
         "qs_pg:id":499358
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"70311ad6b43f103b7c6e96cad4916de6",
+    "wof:geomhash":"34874ebf7c599959c77acd4467ca8348",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404340611,
-    "wof:lastmodified":1582361650,
+    "wof:lastmodified":1684352410,
     "wof:name":"Husillos",
     "wof:parent_id":85682815,
     "wof:placetype":"localadmin",
+    "wof:population":330,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

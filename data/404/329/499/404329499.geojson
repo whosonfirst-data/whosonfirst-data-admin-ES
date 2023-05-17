@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03112",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Relleu",
+    "eurostat:nuts_2021_id":"03112",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03112",
+    "eurostat:population":1148,
+    "eurostat:population_year":2020,
     "geom:area":0.007946,
-    "geom:area_square_m":76821301.217692,
+    "geom:area_square_m":76821301.21769,
     "geom:bbox":"-0.40884748,38.52452338,-0.26850171,38.62172565",
     "geom:latitude":38.57136,
     "geom:longitude":-0.339473,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03112",
+        "eurostat:nuts_2021_id":"03112",
         "gn:id":6355486,
         "gp:id":12695378,
         "qs_pg:id":213880
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8793f8928c9f391922b055ba2a8fd9c1",
+    "wof:geomhash":"b23d9b1c13f1d7b4004909d101c51225",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404329499,
-    "wof:lastmodified":1582361792,
+    "wof:lastmodified":1684352210,
     "wof:name":"Relleu",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":1148,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

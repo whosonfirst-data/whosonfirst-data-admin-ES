@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48083",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ortuella",
+    "eurostat:nuts_2021_id":"48083",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48083",
+    "eurostat:population":8385,
+    "eurostat:population_year":2020,
     "geom:area":0.000857,
     "geom:area_square_m":7714576.422776,
     "geom:bbox":"-3.07547164,43.27451748,-3.02886261,43.32496872",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_48083",
+        "eurostat:nuts_2021_id":"48083",
         "gn:id":6362423,
         "gp:id":12695244,
         "qs_pg:id":248308
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e8c54526c726dfcdc8d97907b8ffe562",
+    "wof:geomhash":"927e3faf3b6c813afca7b355480cac1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404346091,
-    "wof:lastmodified":1582361610,
+    "wof:lastmodified":1684352494,
     "wof:name":"Ortuella",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":8385,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

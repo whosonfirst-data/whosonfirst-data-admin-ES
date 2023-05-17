@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"ES",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"Albacete",
+    "eurostat:name_local":"Albacete",
+    "eurostat:nuts_2021_id":"ES421",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES421",
+    "eurostat:population":387760,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"2",
     "geom:area":1.548309,
-    "geom:area_square_m":14915002391.350817,
+    "geom:area_square_m":14915002378.183552,
     "geom:bbox":"-2.882888,38.02244,-0.915793,39.422981",
     "geom:latitude":38.825428,
     "geom:longitude":-1.980324,
@@ -297,6 +311,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "unlc:subdivision":"ES-AB",
     "wof:belongsto":[
         102191581,
@@ -306,6 +322,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":24001,
+        "eurostat:nuts_2021_id":"ES421",
         "fips:code":"SP84",
         "gn:id":2522257,
         "gp:id":12602110,
@@ -313,7 +330,7 @@
         "unlc:id":"ES-AB"
     },
     "wof:country":"ES",
-    "wof:geomhash":"858d8f62980d17b7e6fc0741350cb915",
+    "wof:geomhash":"3cd9d13a480791d5ef9caae2fa422d1f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -333,10 +350,12 @@
         "eus",
         "ast"
     ],
-    "wof:lastmodified":1583882732,
+    "wof:lastmodified":1684351535,
     "wof:name":"Albacete",
     "wof:parent_id":404227375,
     "wof:placetype":"region",
+    "wof:population":387760,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:shortcode":"CM",
     "wof:subdivision":"ES-AB",

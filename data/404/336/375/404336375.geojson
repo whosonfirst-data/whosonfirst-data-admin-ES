@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_21042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Isla Cristina",
+    "eurostat:nuts_2021_id":"21042",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES615",
+    "eurostat:nuts_2021_level_lau":"21042",
+    "eurostat:population":21393,
+    "eurostat:population_year":2020,
     "geom:area":0.005135,
-    "geom:area_square_m":50561210.208452,
+    "geom:area_square_m":50561210.208467,
     "geom:bbox":"-7.34279231,37.1834777,-7.2306943,37.26484115",
     "geom:latitude":37.225683,
     "geom:longitude":-7.287247,
@@ -126,6 +138,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -134,6 +148,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_21042",
+        "eurostat:nuts_2021_id":"21042",
         "gn:id":6358218,
         "gp:id":12689056,
         "qs_pg:id":1197686
@@ -142,7 +158,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"74f76aadd50c296e1d60ad935a8be464",
+    "wof:geomhash":"196a0fd6ec74673289e621d43b0161a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,10 +169,12 @@
         }
     ],
     "wof:id":404336375,
-    "wof:lastmodified":1582361478,
+    "wof:lastmodified":1684352337,
     "wof:name":"Isla Cristina",
     "wof:parent_id":85682749,
     "wof:placetype":"localadmin",
+    "wof:population":21393,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

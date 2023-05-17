@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37293",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Mar\u00eda de Sando",
+    "eurostat:nuts_2021_id":"37293",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37293",
+    "eurostat:population":100,
+    "eurostat:population_year":2020,
     "geom:area":0.001486,
     "geom:area_square_m":13873045.770541,
     "geom:bbox":"-6.17607649,40.96401237,-6.09575115,41.00364871",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37293",
+        "eurostat:nuts_2021_id":"37293",
         "gn:id":6360532,
         "gp:id":12692426,
         "qs_pg:id":497186
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0d5ca07191067f980ce220b3ad23683d",
+    "wof:geomhash":"17c6c0c794e6ef6bbd179ef4ab51e7b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404341723,
-    "wof:lastmodified":1582361632,
+    "wof:lastmodified":1684352428,
     "wof:name":"Santa Mar\u00eda De Sando",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":100,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

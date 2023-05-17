@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alboraia / Alboraya",
+    "eurostat:nuts_2021_id":"46013",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46013",
+    "eurostat:population":24741,
+    "eurostat:population_year":2020,
     "geom:area":0.000872,
-    "geom:area_square_m":8315895.888291,
+    "geom:area_square_m":8315895.888292,
     "geom:bbox":"-0.36004559,39.4844447,-0.31761137,39.51824423",
     "geom:latitude":39.50048,
     "geom:longitude":-0.337149,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46013",
+        "eurostat:nuts_2021_id":"46013",
         "gn:id":6361878,
         "gp:id":12695555,
         "qs_pg:id":1188956
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"719d065184293556d94fd39dffd4956d",
+    "wof:geomhash":"8e80e13708772fa6ae710f3b48144af3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404344829,
-    "wof:lastmodified":1582361845,
+    "wof:lastmodified":1684352479,
     "wof:name":"Alboraya",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":24741,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

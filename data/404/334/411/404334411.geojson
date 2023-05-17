@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16202",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Talayuelas",
+    "eurostat:nuts_2021_id":"16202",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16202",
+    "eurostat:population":864,
+    "eurostat:population_year":2020,
     "geom:area":0.011214,
-    "geom:area_square_m":106486855.277312,
+    "geom:area_square_m":106486855.277314,
     "geom:bbox":"-1.34060715,39.75644227,-1.20683788,39.88661967",
     "geom:latitude":39.828828,
     "geom:longitude":-1.272796,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16202",
+        "eurostat:nuts_2021_id":"16202",
         "gn:id":6357532,
         "gp:id":12690576,
         "qs_pg:id":1163804
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"eb501c51d9056b32f0ed40a7fc122cbb",
+    "wof:geomhash":"4cb7abbbb77d4b3e73b391141b792cb6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404334411,
-    "wof:lastmodified":1582361746,
+    "wof:lastmodified":1684352297,
     "wof:name":"Talayuelas",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":864,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

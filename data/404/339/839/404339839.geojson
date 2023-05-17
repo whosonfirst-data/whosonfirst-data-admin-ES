@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31170",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mirafuentes",
+    "eurostat:nuts_2021_id":"31170",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31170",
+    "eurostat:population":55,
+    "eurostat:population_year":2020,
     "geom:area":0.00029,
-    "geom:area_square_m":2642269.802065,
+    "geom:area_square_m":2642269.802064,
     "geom:bbox":"-2.29238697,42.60977223,-2.26269053,42.63023789",
     "geom:latitude":42.621309,
     "geom:longitude":-2.280978,
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31170",
+        "eurostat:nuts_2021_id":"31170",
         "gn:id":6359718,
         "gp:id":12688348,
         "qs_pg:id":1003588
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"52f11ebfd1993465f2e4f528475df549",
+    "wof:geomhash":"94f656affc64bd8d4bfc55f42a0c01dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404339839,
-    "wof:lastmodified":1582361595,
+    "wof:lastmodified":1684352399,
     "wof:name":"Mirafuentes",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":55,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

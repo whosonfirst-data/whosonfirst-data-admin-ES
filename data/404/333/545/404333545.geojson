@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_13060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Navas de Estena",
+    "eurostat:nuts_2021_id":"13060",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES422",
+    "eurostat:nuts_2021_level_lau":"13060",
+    "eurostat:population":293,
+    "eurostat:population_year":2020,
     "geom:area":0.015337,
-    "geom:area_square_m":146411564.243688,
+    "geom:area_square_m":146411564.243689,
     "geom:bbox":"-4.61842566,39.36750542,-4.4615864,39.56163206",
     "geom:latitude":39.463154,
     "geom:longitude":-4.539263,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_13060",
+        "eurostat:nuts_2021_id":"13060",
         "gn:id":6357154,
         "gp:id":12690357,
         "qs_pg:id":124786
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ebcea8b028cc379d8ef5e18c58f7453e",
+    "wof:geomhash":"8e7c874790183930743fa9c0eb520301",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404333545,
-    "wof:lastmodified":1582361771,
+    "wof:lastmodified":1684352280,
     "wof:name":"Navas De Estena",
     "wof:parent_id":85682689,
     "wof:placetype":"localadmin",
+    "wof:population":293,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46240",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Terrateig",
+    "eurostat:nuts_2021_id":"46240",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46240",
+    "eurostat:population":256,
+    "eurostat:population_year":2020,
     "geom:area":0.000656,
-    "geom:area_square_m":6310862.24306,
+    "geom:area_square_m":6310862.243061,
     "geom:bbox":"-0.33286717,38.88137545,-0.29483142,38.91713139",
     "geom:latitude":38.898098,
     "geom:longitude":-0.313268,
@@ -87,6 +99,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -95,6 +109,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46240",
+        "eurostat:nuts_2021_id":"46240",
         "gn:id":6362105,
         "gp:id":12695779,
         "qs_pg:id":48640
@@ -103,7 +119,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bff0334a27ee0abc33e32c9312878bfe",
+    "wof:geomhash":"a0dddf835a3401cbeb39feeb09b0216f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,10 +130,12 @@
         }
     ],
     "wof:id":404345339,
-    "wof:lastmodified":1582361826,
+    "wof:lastmodified":1684352485,
     "wof:name":"Terrateig",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":256,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

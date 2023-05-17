@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47207",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villagarc\u00eda de Campos",
+    "eurostat:nuts_2021_id":"47207",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47207",
+    "eurostat:population":300,
+    "eurostat:population_year":2020,
     "geom:area":0.004055,
-    "geom:area_square_m":37395391.408861,
+    "geom:area_square_m":37395391.408858,
     "geom:bbox":"-5.24965303,41.74141672,-5.11386445,41.82106268",
     "geom:latitude":41.777236,
     "geom:longitude":-5.191191,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_47207",
+        "eurostat:nuts_2021_id":"47207",
         "gn:id":6362327,
         "gp:id":12693101,
         "qs_pg:id":1000257
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"678f3917c06e23f7628707802b5f1d44",
+    "wof:geomhash":"53f94f2196a2efd77c9cc0aa6152a3eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404345847,
-    "wof:lastmodified":1582361836,
+    "wof:lastmodified":1684352490,
     "wof:name":"Villagarc\u00eda De Campos",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":300,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

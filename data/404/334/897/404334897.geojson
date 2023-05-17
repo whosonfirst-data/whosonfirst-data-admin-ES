@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17164,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17164",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Hilari Sacalm",
+    "eurostat:nuts_2021_id":"17164",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17164",
+    "eurostat:population":5703,
+    "eurostat:population_year":2020,
     "geom:area":0.008937,
-    "geom:area_square_m":82248855.134962,
+    "geom:area_square_m":82248602.418334,
     "geom:bbox":"2.427271,41.844314,2.594763,41.978729",
     "geom:latitude":41.902108,
     "geom:longitude":2.500661,
@@ -133,6 +145,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -141,7 +155,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17164",
         "esp-icgc:la_lc":"017164",
+        "eurostat:nuts_2021_id":"17164",
         "gn:id":6357626,
         "gp:id":12693840,
         "qs_pg:id":1060901
@@ -151,7 +167,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cd6224348912bd13e3f3887dcb86c858",
+    "wof:geomhash":"553104106ead52c264665b1496284973",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -162,10 +178,12 @@
         }
     ],
     "wof:id":404334897,
-    "wof:lastmodified":1669903054,
+    "wof:lastmodified":1684352314,
     "wof:name":"Sant Hilari Sacalm",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":5703,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

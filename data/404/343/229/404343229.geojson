@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42129",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Navaleno",
+    "eurostat:nuts_2021_id":"42129",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42129",
+    "eurostat:population":768,
+    "eurostat:population_year":2020,
     "geom:area":0.002713,
-    "geom:area_square_m":24991078.452579,
+    "geom:area_square_m":24991078.45258,
     "geom:bbox":"-3.03824733,41.82220193,-2.96525352,41.88906455",
     "geom:latitude":41.852175,
     "geom:longitude":-3.008035,
@@ -183,6 +195,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -191,6 +205,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42129",
+        "eurostat:nuts_2021_id":"42129",
         "gn:id":6361170,
         "gp:id":12692829,
         "qs_pg:id":1019029
@@ -199,7 +215,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"889afc7eeefc0820c59187c7efca6ae3",
+    "wof:geomhash":"1a2e9520e54bfa86be0ef1cf0f7dd21d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -210,10 +226,12 @@
         }
     ],
     "wof:id":404343229,
-    "wof:lastmodified":1582361866,
+    "wof:lastmodified":1684352449,
     "wof:name":"Navaleno",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":768,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

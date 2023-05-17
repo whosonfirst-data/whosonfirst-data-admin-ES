@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_02058",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Paterna del Madera",
+    "eurostat:nuts_2021_id":"02058",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES421",
+    "eurostat:nuts_2021_level_lau":"02058",
+    "eurostat:population":329,
+    "eurostat:population_year":2020,
     "geom:area":0.011615,
-    "geom:area_square_m":112262361.10723,
+    "geom:area_square_m":112262361.107226,
     "geom:bbox":"-2.4385373,38.52687801,-2.26218635,38.65715989",
     "geom:latitude":38.58768,
     "geom:longitude":-2.343615,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_02058",
+        "eurostat:nuts_2021_id":"02058",
         "gn:id":6355349,
         "gp:id":12690269,
         "qs_pg:id":908079
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"19d8f68b80073846e31c29583271c936",
+    "wof:geomhash":"85befc16752ebc1fd62ceea1c5bd9f0e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404329183,
-    "wof:lastmodified":1582361803,
+    "wof:lastmodified":1684352205,
     "wof:name":"Paterna Del Madera",
     "wof:parent_id":85682621,
     "wof:placetype":"localadmin",
+    "wof:population":329,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

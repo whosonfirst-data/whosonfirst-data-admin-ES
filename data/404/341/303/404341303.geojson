@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cerralbo",
+    "eurostat:nuts_2021_id":"37101",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37101",
+    "eurostat:population":139,
+    "eurostat:population_year":2020,
     "geom:area":0.005518,
-    "geom:area_square_m":51532422.040637,
+    "geom:area_square_m":51532422.040631,
     "geom:bbox":"-6.62966862,40.89741174,-6.53441916,40.999419",
     "geom:latitude":40.953514,
     "geom:longitude":-6.581135,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37101",
+        "eurostat:nuts_2021_id":"37101",
         "gn:id":6360347,
         "gp:id":12692239,
         "qs_pg:id":1095101
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e557e1e8b871671d0235eeab27f342b2",
+    "wof:geomhash":"9b2cc38499c1152ac0ff61a29dfb94f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404341303,
-    "wof:lastmodified":1582361633,
+    "wof:lastmodified":1684352423,
     "wof:name":"Cerralbo",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":139,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

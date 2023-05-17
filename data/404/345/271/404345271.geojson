@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46210",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"R\u00e1fol de Salem",
+    "eurostat:nuts_2021_id":"46210",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46210",
+    "eurostat:population":442,
+    "eurostat:population_year":2020,
     "geom:area":0.000449,
     "geom:area_square_m":4322140.388523,
     "geom:bbox":"-0.42315348,38.84217281,-0.39305425,38.87882091",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46210",
+        "eurostat:nuts_2021_id":"46210",
         "gn:id":6362075,
         "gp:id":12695749,
         "qs_pg:id":1025551
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"382f7d2040b27acba4b3ef0ede041b21",
+    "wof:geomhash":"401dfb64e58430eb1973291453a946ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404345271,
-    "wof:lastmodified":1582361837,
+    "wof:lastmodified":1684352484,
     "wof:name":"R\u00e1fol De Salem",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":442,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09170",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hoyales de Roa",
+    "eurostat:nuts_2021_id":"09170",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09170",
+    "eurostat:population":234,
+    "eurostat:population_year":2020,
     "geom:area":0.001382,
-    "geom:area_square_m":12764540.778354,
+    "geom:area_square_m":12764540.778353,
     "geom:bbox":"-3.88692754,41.6412173,-3.80565003,41.67672227",
     "geom:latitude":41.659408,
     "geom:longitude":-3.853776,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09170",
+        "eurostat:nuts_2021_id":"09170",
         "gn:id":6356460,
         "gp:id":12691507,
         "qs_pg:id":497072
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"46f7cc0a25695d147f666de772d3879a",
+    "wof:geomhash":"22ec6ed6ae670c367afd4588184b9fa7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404331935,
-    "wof:lastmodified":1582361500,
+    "wof:lastmodified":1684352259,
     "wof:name":"Hoyales De Roa",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":234,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

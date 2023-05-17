@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17207,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17207",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vall d'en Bas, La",
+    "eurostat:nuts_2021_id":"17207",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17207",
+    "eurostat:population":3093,
+    "eurostat:population_year":2020,
     "geom:area":0.009869,
-    "geom:area_square_m":90504702.619541,
+    "geom:area_square_m":90504704.768868,
     "geom:bbox":"2.34877,42.061144,2.492816,42.188597",
     "geom:latitude":42.125695,
     "geom:longitude":2.423629,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17207",
         "esp-icgc:la_lc":"017207",
+        "eurostat:nuts_2021_id":"17207",
         "gn:id":6357634,
         "gp:id":12693882,
         "qs_pg:id":1197894
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"8e2b00299b815ae218f28706cef2291d",
+    "wof:geomhash":"7640556bea34ebf26a82e475e251df5e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404334991,
-    "wof:lastmodified":1669903040,
+    "wof:lastmodified":1684352318,
     "wof:name":"La Vall d'en Bas",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":3093,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

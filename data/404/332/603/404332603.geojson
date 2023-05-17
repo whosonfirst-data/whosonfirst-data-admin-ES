@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campillo de Deleitosa",
+    "eurostat:nuts_2021_id":"10042",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10042",
+    "eurostat:population":75,
+    "eurostat:population_year":2020,
     "geom:area":0.002689,
     "geom:area_square_m":25574005.789429,
     "geom:bbox":"-5.62526903,39.66576988,-5.54896351,39.74979339",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10042",
+        "eurostat:nuts_2021_id":"10042",
         "gn:id":6356739,
         "gp:id":12694524,
         "qs_pg:id":47973
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1de242af3974cbd5438053273f0d9a0e",
+    "wof:geomhash":"53aa3c9f95b320995c143a637d4277a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332603,
-    "wof:lastmodified":1582361681,
+    "wof:lastmodified":1684352266,
     "wof:name":"Campillo De Deleitosa",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":75,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18140",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Motril",
+    "eurostat:nuts_2021_id":"18140",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18140",
+    "eurostat:population":58460,
+    "eurostat:population_year":2020,
     "geom:area":0.011051,
-    "geom:area_square_m":109500873.582789,
+    "geom:area_square_m":109500873.58279,
     "geom:bbox":"-3.56685404,36.69351978,-3.40963762,36.79281213",
     "geom:latitude":36.743015,
     "geom:longitude":-3.483984,
@@ -168,6 +180,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -176,6 +190,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18140",
+        "eurostat:nuts_2021_id":"18140",
         "gn:id":6357749,
         "gp:id":12688962,
         "qs_pg:id":45040
@@ -184,7 +200,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0a4d2b4cf5bf855528aa368edfd50910",
+    "wof:geomhash":"dbe0282e5d4257f590ef1f5970b89d95",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -195,10 +211,12 @@
         }
     ],
     "wof:id":404335301,
-    "wof:lastmodified":1582361695,
+    "wof:lastmodified":1684352323,
     "wof:name":"Motril",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":58460,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

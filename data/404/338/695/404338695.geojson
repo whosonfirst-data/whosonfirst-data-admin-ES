@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alcal\u00e1 de Henares",
+    "eurostat:nuts_2021_id":"28005",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28005",
+    "eurostat:population":197562,
+    "eurostat:population_year":2020,
     "geom:area":0.009347,
-    "geom:area_square_m":87892913.527704,
+    "geom:area_square_m":87892913.5277,
     "geom:bbox":"-3.44719598,40.44589196,-3.28389694,40.54546168",
     "geom:latitude":40.49454,
     "geom:longitude":-3.369782,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28005",
+        "eurostat:nuts_2021_id":"28005",
         "gn:id":6359231,
         "gp:id":12687950,
         "qs_pg:id":44407
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5aefc7b72644b993dbd4b4f6659abd78",
+    "wof:geomhash":"736448af599f626ca77c0f01570f917c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404338695,
-    "wof:lastmodified":1582361439,
+    "wof:lastmodified":1684352380,
     "wof:name":"Alcal\u00e1 De Henares",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":197562,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28121",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Redue\u00f1a",
+    "eurostat:nuts_2021_id":"28121",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28121",
+    "eurostat:population":270,
+    "eurostat:population_year":2020,
     "geom:area":0.001392,
-    "geom:area_square_m":13027391.913267,
+    "geom:area_square_m":13027391.913266,
     "geom:bbox":"-3.61781716,40.7894481,-3.57268888,40.84245641",
     "geom:latitude":40.816347,
     "geom:longitude":-3.594079,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28121",
+        "eurostat:nuts_2021_id":"28121",
         "gn:id":6359342,
         "gp:id":12688063,
         "qs_pg:id":425926
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6174c5049c2e0efc546eb9029f0d5fa8",
+    "wof:geomhash":"cc218ecb21da8e7887922cb26ee05373",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404338949,
-    "wof:lastmodified":1582361442,
+    "wof:lastmodified":1684352385,
     "wof:name":"Redue\u00f1a",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":270,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

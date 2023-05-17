@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ciruelos",
+    "eurostat:nuts_2021_id":"45050",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45050",
+    "eurostat:population":569,
+    "eurostat:population_year":2020,
     "geom:area":0.002409,
-    "geom:area_square_m":22836631.641517,
+    "geom:area_square_m":22836631.641518,
     "geom:bbox":"-3.66639088,39.92440582,-3.58633657,39.96899412",
     "geom:latitude":39.944556,
     "geom:longitude":-3.63096,
@@ -36,6 +48,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -44,6 +58,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45050",
+        "eurostat:nuts_2021_id":"45050",
         "gn:id":6361710,
         "gp:id":12690973,
         "qs_pg:id":1221668
@@ -52,7 +68,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"afd56a87405608edd429e34fd8ab66a1",
+    "wof:geomhash":"5b139bafaece468a5178477a114046b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +79,12 @@
         }
     ],
     "wof:id":404344451,
-    "wof:lastmodified":1582361856,
+    "wof:lastmodified":1684352474,
     "wof:name":"Ciruelos",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":569,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

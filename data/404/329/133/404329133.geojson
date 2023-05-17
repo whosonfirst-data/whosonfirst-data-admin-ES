@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_02035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gineta, La",
+    "eurostat:nuts_2021_id":"02035",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES421",
+    "eurostat:nuts_2021_level_lau":"02035",
+    "eurostat:population":2548,
+    "eurostat:population_year":2020,
     "geom:area":0.014242,
-    "geom:area_square_m":136646580.030891,
+    "geom:area_square_m":136646580.030893,
     "geom:bbox":"-2.10755085,39.0500323,-1.9201862,39.19241082",
     "geom:latitude":39.111068,
     "geom:longitude":-1.997872,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_02035",
+        "eurostat:nuts_2021_id":"02035",
         "gn:id":6355327,
         "gp:id":12690246,
         "qs_pg:id":1170927
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f78886623f7c70d274a32b5f336d5867",
+    "wof:geomhash":"9a502ec8edeffe70e01aceb1dc959427",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404329133,
-    "wof:lastmodified":1582361788,
+    "wof:lastmodified":1684352205,
     "wof:name":"La Gineta",
     "wof:parent_id":85682621,
     "wof:placetype":"localadmin",
+    "wof:population":2548,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

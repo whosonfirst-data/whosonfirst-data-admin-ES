@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22110",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fonz",
+    "eurostat:nuts_2021_id":"22110",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22110",
+    "eurostat:population":851,
+    "eurostat:population_year":2020,
     "geom:area":0.005635,
     "geom:area_square_m":51782855.671407,
     "geom:bbox":"0.17052741,41.96804615,0.30519745,42.03963181",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_22110",
+        "eurostat:nuts_2021_id":"22110"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"bfb30201a4a2bc828e30f223a73dc920",
+    "wof:geomhash":"7d3c1a7abd99d734c8c9961bfc929b96",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404336657,
-    "wof:lastmodified":1566589694,
+    "wof:lastmodified":1684352342,
     "wof:name":"Fonz",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":851,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

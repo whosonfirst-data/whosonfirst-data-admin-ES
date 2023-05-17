@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Barbastro",
+    "eurostat:nuts_2021_id":"22048",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22048",
+    "eurostat:population":17174,
+    "eurostat:population_year":2020,
     "geom:area":0.011699,
-    "geom:area_square_m":107439955.27804,
+    "geom:area_square_m":107439955.278039,
     "geom:bbox":"0.03734082,41.97536711,0.20505554,42.09806445",
     "geom:latitude":42.035772,
     "geom:longitude":0.122427,
@@ -138,6 +150,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -146,6 +160,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22048",
+        "eurostat:nuts_2021_id":"22048",
         "gn:id":6358295,
         "gp:id":12689436,
         "qs_pg:id":51589
@@ -154,7 +170,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"74dededd34de7908ff0af24a1c92aa6e",
+    "wof:geomhash":"c58630923b63af0e55dad3416a2cfe74",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -165,10 +181,12 @@
         }
     ],
     "wof:id":404336551,
-    "wof:lastmodified":1582361459,
+    "wof:lastmodified":1684352340,
     "wof:name":"Barbastro",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":17174,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_23050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ja\u00e9n",
+    "eurostat:nuts_2021_id":"23050",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES616",
+    "eurostat:nuts_2021_level_lau":"23050",
+    "eurostat:population":112757,
+    "eurostat:population_year":2020,
     "geom:area":0.043413,
-    "geom:area_square_m":424110197.993903,
+    "geom:area_square_m":424110197.993896,
     "geom:bbox":"-3.87311775,37.62811159,-3.61149708,37.95373718",
     "geom:latitude":37.809145,
     "geom:longitude":-3.751349,
@@ -153,6 +165,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -161,6 +175,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_23050",
+        "eurostat:nuts_2021_id":"23050",
         "gn:id":6358500,
         "gp:id":12689141,
         "qs_pg:id":539546
@@ -169,7 +185,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4e32ee9474d9fc2230512dd329bd7af6",
+    "wof:geomhash":"f6be9d05aec144e65fc16a413601153c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -180,10 +196,12 @@
         }
     ],
     "wof:id":404337019,
-    "wof:lastmodified":1582361571,
+    "wof:lastmodified":1684352347,
     "wof:name":"Ja\u00e9n",
     "wof:parent_id":85682757,
     "wof:placetype":"localadmin",
+    "wof:population":112757,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44086",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cretas",
+    "eurostat:nuts_2021_id":"44086",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44086",
+    "eurostat:population":554,
+    "eurostat:population_year":2020,
     "geom:area":0.00563,
-    "geom:area_square_m":52599924.040949,
+    "geom:area_square_m":52599924.040948,
     "geom:bbox":"0.11592594,40.85999365,0.25540274,40.98434839",
     "geom:latitude":40.922932,
     "geom:longitude":0.205265,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44086",
+        "eurostat:nuts_2021_id":"44086",
         "gn:id":6361501,
         "gp:id":12689672,
         "qs_pg:id":1137106
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"806cedc7778c3af603f5dcf83c81f392",
+    "wof:geomhash":"09d72d4b41e63013d7ab49fed01a6e4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404343975,
-    "wof:lastmodified":1582361895,
+    "wof:lastmodified":1684352468,
     "wof:name":"Cretas",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":554,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

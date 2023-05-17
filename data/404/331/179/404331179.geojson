@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8134,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08134",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Figar\u00f3-Montmany",
+    "eurostat:nuts_2021_id":"08134",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08134",
+    "eurostat:population":1142,
+    "eurostat:population_year":2020,
     "geom:area":0.001614,
-    "geom:area_square_m":14894109.560952,
+    "geom:area_square_m":14894109.560953,
     "geom:bbox":"2.23842699623,41.6860882997,2.32224427859,41.7348910824",
     "geom:latitude":41.717147,
     "geom:longitude":2.271964,
@@ -127,6 +139,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -135,7 +149,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08134",
         "esp-icgc:la_lc":"08134",
+        "eurostat:nuts_2021_id":"08134",
         "gn:id":6356163,
         "gp:id":12693459,
         "qs_pg:id":888177
@@ -145,7 +161,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"18e9e77733fd1e7afd758b624517b67b",
+    "wof:geomhash":"945718e12939431e4c319d84ec68e58c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404331179,
-    "wof:lastmodified":1582361514,
+    "wof:lastmodified":1684352244,
     "wof:name":"Figar\u00f3-Montmany",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":1142,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

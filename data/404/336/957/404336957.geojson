@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_23020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Canena",
+    "eurostat:nuts_2021_id":"23020",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES616",
+    "eurostat:nuts_2021_level_lau":"23020",
+    "eurostat:population":1814,
+    "eurostat:population_year":2020,
     "geom:area":0.00147,
-    "geom:area_square_m":14312071.621005,
+    "geom:area_square_m":14312071.621004,
     "geom:bbox":"-3.53360852,38.03721242,-3.47444218,38.08094867",
     "geom:latitude":38.058843,
     "geom:longitude":-3.502525,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_23020",
+        "eurostat:nuts_2021_id":"23020",
         "gn:id":6358474,
         "gp:id":12689113,
         "qs_pg:id":235105
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f3272d8462a6cb82fa97abc8fcefcfc8",
+    "wof:geomhash":"1a453e31f185a41610e56ccd1e474aad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404336957,
-    "wof:lastmodified":1582361468,
+    "wof:lastmodified":1684352346,
     "wof:name":"Canena",
     "wof:parent_id":85682757,
     "wof:placetype":"localadmin",
+    "wof:population":1814,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8056,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08056",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castelldefels",
+    "eurostat:nuts_2021_id":"08056",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08056",
+    "eurostat:population":67460,
+    "eurostat:population_year":2020,
     "geom:area":0.001401,
-    "geom:area_square_m":13015395.02321,
+    "geom:area_square_m":13015415.86857,
     "geom:bbox":"1.937392,41.263312,2.003328,41.296452",
     "geom:latitude":41.27638,
     "geom:longitude":1.970647,
@@ -163,6 +175,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -171,7 +185,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08056",
         "esp-icgc:la_lc":"08056",
+        "eurostat:nuts_2021_id":"08056",
         "gn:id":6356088,
         "gp:id":12693434,
         "qs_pg:id":223883
@@ -181,7 +197,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c86fadb1252f7748ea11767833354f3e",
+    "wof:geomhash":"ffb014b639478de6e1f88a2327eda4bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -192,10 +208,12 @@
         }
     ],
     "wof:id":404331005,
-    "wof:lastmodified":1669903011,
+    "wof:lastmodified":1684352238,
     "wof:name":"Castelldefels",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":67460,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

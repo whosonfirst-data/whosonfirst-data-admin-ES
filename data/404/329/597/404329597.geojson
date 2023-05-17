@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Almer\u00eda",
+    "eurostat:nuts_2021_id":"04013",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04013",
+    "eurostat:population":201322,
+    "eurostat:population_year":2020,
     "geom:area":0.029891,
-    "geom:area_square_m":295662952.903633,
+    "geom:area_square_m":295662952.903632,
     "geom:bbox":"-3.03749196,35.93761472,-2.20220244,37.00001255",
     "geom:latitude":36.87567,
     "geom:longitude":-2.342312,
@@ -261,6 +273,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -269,6 +283,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_04013",
+        "eurostat:nuts_2021_id":"04013",
         "gn:id":6355530,
         "gp:id":12688636,
         "qs_pg:id":539462
@@ -277,7 +293,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fa89ac7dc968a1a942c31a618bb09212",
+    "wof:geomhash":"2d2157bd64371c1039019a07cee0d7a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -288,10 +304,12 @@
         }
     ],
     "wof:id":404329597,
-    "wof:lastmodified":1582361796,
+    "wof:lastmodified":1684352212,
     "wof:name":"Almer\u00eda",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":201322,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

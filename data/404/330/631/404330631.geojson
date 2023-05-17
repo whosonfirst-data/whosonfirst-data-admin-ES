@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06122",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santos de Maimona, Los",
+    "eurostat:nuts_2021_id":"06122",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06122",
+    "eurostat:population":8075,
+    "eurostat:population_year":2020,
     "geom:area":0.011212,
     "geom:area_square_m":108550984.692724,
     "geom:bbox":"-6.43005387,38.41869579,-6.22743025,38.51939629",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06122",
+        "eurostat:nuts_2021_id":"06122",
         "gn:id":6355987,
         "qs_pg:id":621560
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c1095a27b3eea6568154ed565eed3b63",
+    "wof:geomhash":"6b3bed2203ce8e995ec60d7609c52bb7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404330631,
-    "wof:lastmodified":1582361541,
+    "wof:lastmodified":1684352227,
     "wof:name":"Los Santos De Maimona",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":8075,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

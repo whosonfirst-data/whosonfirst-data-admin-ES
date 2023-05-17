@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17226,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17226",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vilamalla",
+    "eurostat:nuts_2021_id":"17226",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17226",
+    "eurostat:population":1161,
+    "eurostat:population_year":2020,
     "geom:area":0.000968,
-    "geom:area_square_m":8863694.52399,
+    "geom:area_square_m":8863694.523988,
     "geom:bbox":"2.94646536961,42.2056863325,3.01441473282,42.2367042668",
     "geom:latitude":42.222195,
     "geom:longitude":2.973144,
@@ -124,6 +136,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -132,7 +146,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17226",
         "esp-icgc:la_lc":"017226",
+        "eurostat:nuts_2021_id":"17226",
         "gn:id":6534172,
         "gp:id":12693901,
         "qs_pg:id":1149562
@@ -142,7 +158,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"7ef70b5f04cffb9e30684ec80a42c8b5",
+    "wof:geomhash":"4da3a67accf011f75e3c02fa032bed1c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,10 +169,12 @@
         }
     ],
     "wof:id":404335031,
-    "wof:lastmodified":1582361700,
+    "wof:lastmodified":1684352319,
     "wof:name":"Vilamalla",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":1161,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

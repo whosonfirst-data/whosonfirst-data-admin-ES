@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25910,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25910",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Josa i Tuix\u00e9n",
+    "eurostat:nuts_2021_id":"25910",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25910",
+    "eurostat:population":103,
+    "eurostat:population_year":2020,
     "geom:area":0.00747,
-    "geom:area_square_m":68378820.729568,
+    "geom:area_square_m":68378879.528671,
     "geom:bbox":"1.526063,42.200096,1.694322,42.288942",
     "geom:latitude":42.245962,
     "geom:longitude":1.603036,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25910",
         "esp-icgc:la_lc":"025910",
+        "eurostat:nuts_2021_id":"25910",
         "gp:id":12694010,
         "qs_pg:id":1308303
     },
@@ -66,7 +82,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"76a7f87474f99def61a53cdf8c42cc2c",
+    "wof:geomhash":"5f415ea4830f92b7b9a69e7e8c2c7944",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,10 +93,12 @@
         }
     ],
     "wof:id":404338133,
-    "wof:lastmodified":1669902991,
+    "wof:lastmodified":1684352372,
     "wof:name":"Josa i Tuix\u00e9n",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":103,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

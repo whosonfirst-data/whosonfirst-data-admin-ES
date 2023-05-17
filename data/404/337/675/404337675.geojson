@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25029,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25029",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arbeca",
+    "eurostat:nuts_2021_id":"25029",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25029",
+    "eurostat:population":2126,
+    "eurostat:population_year":2020,
     "geom:area":0.006283,
-    "geom:area_square_m":58145299.683932,
+    "geom:area_square_m":58145299.683931,
     "geom:bbox":"0.887377832449,41.477943194,0.988099846789,41.5892046819",
     "geom:latitude":41.54463,
     "geom:longitude":0.936702,
@@ -112,6 +124,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -120,7 +134,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25029",
         "esp-icgc:la_lc":"025029",
+        "eurostat:nuts_2021_id":"25029",
         "gn:id":6358786,
         "gp:id":12693932,
         "qs_pg:id":1315416
@@ -130,7 +146,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d3fb65bcb98350e21d0f19b93d65adec",
+    "wof:geomhash":"fe5a0e080366a79cd145a97304fcf7a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404337675,
-    "wof:lastmodified":1582361552,
+    "wof:lastmodified":1684352356,
     "wof:name":"Arbeca",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":2126,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

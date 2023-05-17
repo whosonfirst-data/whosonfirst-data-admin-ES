@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48082",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santurtzi",
+    "eurostat:nuts_2021_id":"48082",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48082",
+    "eurostat:population":46069,
+    "eurostat:population_year":2020,
     "geom:area":0.00085,
     "geom:area_square_m":7645455.943925,
     "geom:bbox":"-3.071265,43.315291,-3.021985,43.349387",
@@ -123,14 +135,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
-        404227393,
-        85682879
+        85682879,
+        404227393
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_48082",
+        "eurostat:nuts_2021_id":"48082",
         "gn:id":6362422,
         "gp:id":12695248,
         "qs_pg:id":1112638
@@ -142,7 +158,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"11939e2194ce05d04633f51814c90b83",
+    "wof:geomhash":"6bffa94825ca7e207ce7be7323941b01",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,10 +169,12 @@
         }
     ],
     "wof:id":404346089,
-    "wof:lastmodified":1607987625,
+    "wof:lastmodified":1684352494,
     "wof:name":"Santurtzi",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":46069,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

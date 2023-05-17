@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15087",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valdovi\u00f1o",
+    "eurostat:nuts_2021_id":"15087",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15087",
+    "eurostat:population":6542,
+    "eurostat:population_year":2020,
     "geom:area":0.009934,
-    "geom:area_square_m":88950650.357015,
+    "geom:area_square_m":88950650.357012,
     "geom:bbox":"-8.22385797,43.54878463,-8.01912569,43.66766465",
     "geom:latitude":43.603177,
     "geom:longitude":-8.123107,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_15087",
+        "eurostat:nuts_2021_id":"15087",
         "gn:id":6357354,
         "gp:id":12694790,
         "qs_pg:id":907311
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6d607bf0a925cb111ef0aff911980e38",
+    "wof:geomhash":"2dadbf277b4aaf65b489142e01c246eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404334003,
-    "wof:lastmodified":1582361748,
+    "wof:lastmodified":1684352291,
     "wof:name":"Valdovi\u00f1o",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":6542,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

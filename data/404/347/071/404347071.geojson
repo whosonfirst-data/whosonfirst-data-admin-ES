@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50166",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mesones de Isuela",
+    "eurostat:nuts_2021_id":"50166",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50166",
+    "eurostat:population":257,
+    "eurostat:population_year":2020,
     "geom:area":0.005241,
-    "geom:area_square_m":48483051.067508,
+    "geom:area_square_m":48483051.067509,
     "geom:bbox":"-1.59709741,41.53044383,-1.47469589,41.62593896",
     "geom:latitude":41.577519,
     "geom:longitude":-1.541408,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50166",
+        "eurostat:nuts_2021_id":"50166",
         "gn:id":6362853,
         "gp:id":12689993,
         "qs_pg:id":45555
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"93b9241efc357e1dde905a146c7bc262",
+    "wof:geomhash":"7cf515632e69534220a48937308be220",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404347071,
-    "wof:lastmodified":1582361670,
+    "wof:lastmodified":1684352507,
     "wof:name":"Mesones De Isuela",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":257,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

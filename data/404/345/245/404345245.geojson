@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46198",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Potries",
+    "eurostat:nuts_2021_id":"46198",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46198",
+    "eurostat:population":1060,
+    "eurostat:population_year":2020,
     "geom:area":0.000319,
     "geom:area_square_m":3069624.986211,
     "geom:bbox":"-0.20464184,38.90091868,-0.17910944,38.92587859",
@@ -84,6 +96,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -92,6 +106,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46198",
+        "eurostat:nuts_2021_id":"46198",
         "gn:id":6362063,
         "gp:id":12695737,
         "qs_pg:id":1102932
@@ -100,7 +116,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f59df568ac6375f82db56dbea8fd1152",
+    "wof:geomhash":"c9fd4ea2d6a190539a0b74d15561116f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,10 +127,12 @@
         }
     ],
     "wof:id":404345245,
-    "wof:lastmodified":1582361828,
+    "wof:lastmodified":1684352484,
     "wof:name":"Potr\u00edes",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":1060,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03047",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calp",
+    "eurostat:nuts_2021_id":"03047",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03047",
+    "eurostat:population":23326,
+    "eurostat:population_year":2020,
     "geom:area":0.002446,
     "geom:area_square_m":23621633.278214,
     "geom:bbox":"-0.00667765,38.62572074,0.08597613,38.68071446",
@@ -135,6 +147,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -143,6 +157,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03047",
+        "eurostat:nuts_2021_id":"03047",
         "gn:id":6355423,
         "gp:id":12695314,
         "qs_pg:id":621511
@@ -151,7 +167,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"361aa4f41623e13685de6d34b5138636",
+    "wof:geomhash":"f14f28b56dd7bc5afa2d5b9c7876333a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -162,10 +178,12 @@
         }
     ],
     "wof:id":404329357,
-    "wof:lastmodified":1582361795,
+    "wof:lastmodified":1684352208,
     "wof:name":"Calp",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":23326,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

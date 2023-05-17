@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44251",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villafranca del Campo",
+    "eurostat:nuts_2021_id":"44251",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44251",
+    "eurostat:population":285,
+    "eurostat:population_year":2020,
     "geom:area":0.00709,
-    "geom:area_square_m":66470062.536939,
+    "geom:area_square_m":66470062.536938,
     "geom:bbox":"-1.43828864,40.64455818,-1.30757661,40.73846943",
     "geom:latitude":40.696811,
     "geom:longitude":-1.372797,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44251",
+        "eurostat:nuts_2021_id":"44251",
         "gn:id":6361648,
         "gp:id":12689820,
         "qs_pg:id":45492
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"689f81f9e049d97cd7ac2dca83502dfc",
+    "wof:geomhash":"15fda3991e6fceddc5d6f441d48d368c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404344311,
-    "wof:lastmodified":1582361858,
+    "wof:lastmodified":1684352472,
     "wof:name":"Villafranca Del Campo",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":285,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

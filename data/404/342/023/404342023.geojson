@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_38047",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tijarafe",
+    "eurostat:nuts_2021_id":"38047",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES7",
+    "eurostat:nuts_2021_level_2":"ES70",
+    "eurostat:nuts_2021_level_3":"ES707",
+    "eurostat:nuts_2021_level_lau":"38047",
+    "eurostat:population":2507,
+    "eurostat:population_year":2020,
     "geom:area":0.004945,
-    "geom:area_square_m":53626613.802624,
+    "geom:area_square_m":53626613.802626,
     "geom:bbox":"-17.99256608,28.6525103,-17.89833558,28.75059327",
     "geom:latitude":28.71107,
     "geom:longitude":-17.945639,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_38047",
+        "eurostat:nuts_2021_id":"38047",
         "gn:id":6534197,
         "gp:id":12690205,
         "qs_pg:id":245543
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d27aecc1e6125812cfdb4df69305dc92",
+    "wof:geomhash":"1ef2f6e827de70738ae9bf6b4a2c20e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404342023,
-    "wof:lastmodified":1582361807,
+    "wof:lastmodified":1684352434,
     "wof:name":"Tijarafe",
     "wof:parent_id":85682831,
     "wof:placetype":"localadmin",
+    "wof:population":2507,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48910",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Iurreta",
+    "eurostat:nuts_2021_id":"48910",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48910",
+    "eurostat:population":3665,
+    "eurostat:population_year":2020,
     "geom:area":0.002089,
     "geom:area_square_m":18830981.733947,
     "geom:bbox":"-2.67823161,43.16216521,-2.61507181,43.22222763",
@@ -105,6 +117,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -112,9 +126,12 @@
         404227393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_48910",
+        "eurostat:nuts_2021_id":"48910"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"63f7648314dc6973a0586104b3107495",
+    "wof:geomhash":"ed297e37c95324060ca9fecd49429ca0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +142,12 @@
         }
     ],
     "wof:id":404346145,
-    "wof:lastmodified":1566590247,
+    "wof:lastmodified":1684352495,
     "wof:name":"Iurreta",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":3665,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

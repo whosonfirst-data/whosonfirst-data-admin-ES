@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44172",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oliete",
+    "eurostat:nuts_2021_id":"44172",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44172",
+    "eurostat:population":343,
+    "eurostat:population_year":2020,
     "geom:area":0.009147,
     "geom:area_square_m":85375281.006799,
     "geom:bbox":"-0.75057691,40.93445851,-0.57493111,41.04657406",
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44172",
+        "eurostat:nuts_2021_id":"44172",
         "gn:id":6361576,
         "gp:id":12689748,
         "qs_pg:id":1095310
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9ee2eade89b8cc4ad5f964977d607a57",
+    "wof:geomhash":"d22d7da3a3179c07f93897a3ff13ffe4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404344147,
-    "wof:lastmodified":1582361860,
+    "wof:lastmodified":1684352470,
     "wof:name":"Oliete",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":343,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

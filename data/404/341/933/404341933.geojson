@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_38007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Barlovento",
+    "eurostat:nuts_2021_id":"38007",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES7",
+    "eurostat:nuts_2021_level_2":"ES70",
+    "eurostat:nuts_2021_level_3":"ES707",
+    "eurostat:nuts_2021_level_lau":"38007",
+    "eurostat:population":1926,
+    "eurostat:population_year":2020,
     "geom:area":0.003997,
-    "geom:area_square_m":43301135.813579,
+    "geom:area_square_m":43301135.813585,
     "geom:bbox":"-17.86354881,28.75418514,-17.76946461,28.84517059",
     "geom:latitude":28.809041,
     "geom:longitude":-17.822191,
@@ -66,6 +78,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -74,6 +88,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_38007",
+        "eurostat:nuts_2021_id":"38007",
         "gn:id":6534182,
         "gp:id":12690165,
         "qs_pg:id":907306
@@ -82,7 +98,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3d42f68612efdf312f36d2eee16b1de2",
+    "wof:geomhash":"182010511826504b6099d726eb496fb8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,10 +109,12 @@
         }
     ],
     "wof:id":404341933,
-    "wof:lastmodified":1582361635,
+    "wof:lastmodified":1684352430,
     "wof:name":"Barlovento",
     "wof:parent_id":85682831,
     "wof:placetype":"localadmin",
+    "wof:population":1926,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

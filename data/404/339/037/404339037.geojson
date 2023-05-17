@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28162",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valdeolmos-Alalpardo",
+    "eurostat:nuts_2021_id":"28162",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28162",
+    "eurostat:population":4232,
+    "eurostat:population_year":2020,
     "geom:area":0.002754,
     "geom:area_square_m":25839786.607414,
     "geom:bbox":"-3.49141985,40.60470175,-3.42027334,40.67040726",
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28162",
+        "eurostat:nuts_2021_id":"28162",
         "gn:id":6359381,
         "gp:id":12688103,
         "qs_pg:id":1322786
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"edd4aa18fd965a6e7318c41e8dcc44c2",
+    "wof:geomhash":"3119b9a85b697411bc31177a32ff7618",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404339037,
-    "wof:lastmodified":1582361587,
+    "wof:lastmodified":1684352387,
     "wof:name":"Valdeolmos-Alalpardo",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":4232,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

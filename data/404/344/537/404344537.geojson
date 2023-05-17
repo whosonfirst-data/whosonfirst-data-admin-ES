@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45089",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Malpica de Tajo",
+    "eurostat:nuts_2021_id":"45089",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45089",
+    "eurostat:population":1680,
+    "eurostat:population_year":2020,
     "geom:area":0.008381,
-    "geom:area_square_m":79516552.773101,
+    "geom:area_square_m":79516552.773104,
     "geom:bbox":"-4.66203611,39.83866927,-4.49725233,39.92874678",
     "geom:latitude":39.884804,
     "geom:longitude":-4.581285,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227375
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_45089",
+        "eurostat:nuts_2021_id":"45089"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"d862c11f9f9b1a53ae390348410bdbd7",
+    "wof:geomhash":"959ee03879d56cff2b8a75a9283b1811",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404344537,
-    "wof:lastmodified":1566591097,
+    "wof:lastmodified":1684352475,
     "wof:name":"Malpica De Tajo",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":1680,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

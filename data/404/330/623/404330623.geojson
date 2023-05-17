@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06119",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Pedro de M\u00e9rida",
+    "eurostat:nuts_2021_id":"06119",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06119",
+    "eurostat:population":838,
+    "eurostat:population_year":2020,
     "geom:area":0.002362,
     "geom:area_square_m":22713829.220341,
     "geom:bbox":"-6.21680378,38.92871944,-6.15176796,38.9902948",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06119",
+        "eurostat:nuts_2021_id":"06119",
         "gn:id":6355984,
         "gp:id":12694437,
         "qs_pg:id":245093
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ff138fa03605ff43b8b15951e8f714e9",
+    "wof:geomhash":"d99a4174502c64766fbadb574e3791ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330623,
-    "wof:lastmodified":1582361537,
+    "wof:lastmodified":1684352227,
     "wof:name":"San Pedro De M\u00e9rida",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":838,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

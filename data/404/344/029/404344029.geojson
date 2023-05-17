@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44114",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fuentespalda",
+    "eurostat:nuts_2021_id":"44114",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44114",
+    "eurostat:population":282,
+    "eurostat:population_year":2020,
     "geom:area":0.004162,
     "geom:area_square_m":38948834.323144,
     "geom:bbox":"0.02989632,40.78311771,0.12369887,40.86532866",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44114",
+        "eurostat:nuts_2021_id":"44114",
         "gn:id":6361525,
         "gp:id":12689696,
         "qs_pg:id":1005671
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"db05ec733ad1b9f745adae1d66d77b99",
+    "wof:geomhash":"f104191cace9f99a2ce6070e142a2054",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404344029,
-    "wof:lastmodified":1582361855,
+    "wof:lastmodified":1684352469,
     "wof:name":"Fuentespalda",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":282,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_14017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carlota, La",
+    "eurostat:nuts_2021_id":"14017",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES613",
+    "eurostat:nuts_2021_level_lau":"14017",
+    "eurostat:population":14079,
+    "eurostat:population_year":2020,
     "geom:area":0.008065,
     "geom:area_square_m":78932035.003965,
     "geom:bbox":"-5.01603176,37.59973541,-4.86323134,37.72972248",
@@ -63,6 +75,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -71,6 +85,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_14017",
+        "eurostat:nuts_2021_id":"14017",
         "gn:id":6357212,
         "gp:id":12688788,
         "qs_pg:id":249596
@@ -79,7 +95,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"97d94a8a227edc556fa77a3f4491e9a5",
+    "wof:geomhash":"0e464593221c42962123a18e96f79830",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,10 +106,12 @@
         }
     ],
     "wof:id":404333677,
-    "wof:lastmodified":1582361778,
+    "wof:lastmodified":1684352282,
     "wof:name":"La Carlota",
     "wof:parent_id":85682697,
     "wof:placetype":"localadmin",
+    "wof:population":14079,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

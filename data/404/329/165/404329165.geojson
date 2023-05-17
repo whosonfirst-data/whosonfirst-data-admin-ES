@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_02050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montalvos",
+    "eurostat:nuts_2021_id":"02050",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES421",
+    "eurostat:nuts_2021_level_lau":"02050",
+    "eurostat:population":88,
+    "eurostat:population_year":2020,
     "geom:area":0.002583,
-    "geom:area_square_m":24759555.247443,
+    "geom:area_square_m":24759555.247442,
     "geom:bbox":"-2.06620306,39.13670479,-1.98259091,39.19650438",
     "geom:latitude":39.170327,
     "geom:longitude":-2.031535,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_02050",
+        "eurostat:nuts_2021_id":"02050",
         "gn:id":6355341,
         "gp:id":12690261,
         "qs_pg:id":1015075
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"43b72a47b7dc5222fdc3b08931de0974",
+    "wof:geomhash":"309b92eedeacdc8a32e6defebcf93451",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404329165,
-    "wof:lastmodified":1582361795,
+    "wof:lastmodified":1684352205,
     "wof:name":"Montalvos",
     "wof:parent_id":85682621,
     "wof:placetype":"localadmin",
+    "wof:population":88,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

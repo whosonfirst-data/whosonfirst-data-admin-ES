@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18902",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valle, El",
+    "eurostat:nuts_2021_id":"18902",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18902",
+    "eurostat:population":907,
+    "eurostat:population_year":2020,
     "geom:area":0.002614,
-    "geom:area_square_m":25833640.533072,
+    "geom:area_square_m":25833640.53307,
     "geom:bbox":"-3.63715642,36.8834369,-3.55959874,36.9662736",
     "geom:latitude":36.928371,
     "geom:longitude":-3.595181,
@@ -54,6 +66,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -62,6 +76,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18902",
+        "eurostat:nuts_2021_id":"18902",
         "gn:id":6357795,
         "gp:id":12689002,
         "qs_pg:id":241592
@@ -70,7 +86,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f439e218c60c5e7f376e9f06b9d44836",
+    "wof:geomhash":"2792243bb45a56bf39621388cab2f79c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +97,12 @@
         }
     ],
     "wof:id":404335405,
-    "wof:lastmodified":1582361709,
+    "wof:lastmodified":1684352325,
     "wof:name":"El Valle",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":907,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

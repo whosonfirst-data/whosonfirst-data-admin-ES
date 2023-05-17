@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"A\u00f1over de Tajo",
+    "eurostat:nuts_2021_id":"45014",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45014",
+    "eurostat:population":5176,
+    "eurostat:population_year":2020,
     "geom:area":0.00425,
-    "geom:area_square_m":40264885.762762,
+    "geom:area_square_m":40264885.762763,
     "geom:bbox":"-3.82465669,39.94453155,-3.71576819,40.02605068",
     "geom:latitude":39.982433,
     "geom:longitude":-3.766767,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45014",
+        "eurostat:nuts_2021_id":"45014",
         "gn:id":6361675,
         "gp:id":12690936,
         "qs_pg:id":334412
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8abae91acb8191954708848134346eb1",
+    "wof:geomhash":"01bcb1c35b7a249ff3fea1ae682dde1c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404344371,
-    "wof:lastmodified":1582361850,
+    "wof:lastmodified":1684352473,
     "wof:name":"A\u00f1over De Tajo",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":5176,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

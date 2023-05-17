@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17208,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17208",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vall de Bianya, La",
+    "eurostat:nuts_2021_id":"17208",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17208",
+    "eurostat:population":1275,
+    "eurostat:population_year":2020,
     "geom:area":0.010218,
-    "geom:area_square_m":93546729.736211,
+    "geom:area_square_m":93546670.061126,
     "geom:bbox":"2.343155,42.195131,2.532855,42.287714",
     "geom:latitude":42.237705,
     "geom:longitude":2.433668,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17208",
         "esp-icgc:la_lc":"017208",
+        "eurostat:nuts_2021_id":"17208",
         "gn:id":6357635,
         "gp:id":12693883,
         "qs_pg:id":1149550
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"38c3637d689c081e0c0957c904d7c6cc",
+    "wof:geomhash":"e403d721f5ab4bb1008c49cecb4d1f93",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404334993,
-    "wof:lastmodified":1669903049,
+    "wof:lastmodified":1684352318,
     "wof:name":"La Vall de Bianya",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":1275,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

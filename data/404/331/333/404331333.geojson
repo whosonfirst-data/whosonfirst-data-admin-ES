@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8204,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08204",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Climent de Llobregat",
+    "eurostat:nuts_2021_id":"08204",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08204",
+    "eurostat:population":4160,
+    "eurostat:population_year":2020,
     "geom:area":0.001156,
-    "geom:area_square_m":10734206.20581,
+    "geom:area_square_m":10734201.642333,
     "geom:bbox":"1.955794,41.313537,2.010856,41.356325",
     "geom:latitude":41.333238,
     "geom:longitude":1.985658,
@@ -71,6 +83,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -79,7 +93,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08204",
         "esp-icgc:la_lc":"08204",
+        "eurostat:nuts_2021_id":"08204",
         "gn:id":6356226,
         "gp:id":12693580,
         "qs_pg:id":224141
@@ -89,7 +105,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bbf97059ea443d6d32d9cd524ce48fc0",
+    "wof:geomhash":"f6bcce8e6d6b01f7ab61e3689a268002",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,10 +116,12 @@
         }
     ],
     "wof:id":404331333,
-    "wof:lastmodified":1669903008,
+    "wof:lastmodified":1684352248,
     "wof:name":"Sant Climent de Llobregat",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":4160,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chillar\u00f3n de Cuenca",
+    "eurostat:nuts_2021_id":"16023",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16023",
+    "eurostat:population":632,
+    "eurostat:population_year":2020,
     "geom:area":0.004163,
-    "geom:area_square_m":39367852.859904,
+    "geom:area_square_m":39367852.859903,
     "geom:bbox":"-2.27851477,40.08290893,-2.16938382,40.15426648",
     "geom:latitude":40.119336,
     "geom:longitude":-2.218249,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16023",
+        "eurostat:nuts_2021_id":"16023",
         "gn:id":6357383,
         "gp:id":12690466,
         "qs_pg:id":400373
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"465bf3119cfc80747af64d67ae774314",
+    "wof:geomhash":"7d32e85dbb9f41d0898e5477ef914674",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404334069,
-    "wof:lastmodified":1582361751,
+    "wof:lastmodified":1684352293,
     "wof:name":"Chillar\u00f3n De Cuenca",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":632,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

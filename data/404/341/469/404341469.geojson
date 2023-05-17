@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37178",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Malpartida",
+    "eurostat:nuts_2021_id":"37178",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37178",
+    "eurostat:population":96,
+    "eurostat:population_year":2020,
     "geom:area":0.001098,
     "geom:area_square_m":10284126.905253,
     "geom:bbox":"-5.2621198,40.73945744,-5.2144368,40.77893791",
@@ -96,6 +108,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -103,9 +117,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_37178",
+        "eurostat:nuts_2021_id":"37178"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"04353fccfe3df8ebf4e3e5195661ce31",
+    "wof:geomhash":"3840904fcbf8f922c7d99e26c0ce05b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +133,12 @@
         }
     ],
     "wof:id":404341469,
-    "wof:lastmodified":1566590348,
+    "wof:lastmodified":1684352425,
     "wof:name":"Malpartida",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":96,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

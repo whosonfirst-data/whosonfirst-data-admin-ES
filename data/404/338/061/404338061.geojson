@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25227,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25227",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torre de Cabdella, La",
+    "eurostat:nuts_2021_id":"25227",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25227",
+    "eurostat:population":759,
+    "eurostat:population_year":2020,
     "geom:area":0.018103,
-    "geom:area_square_m":165183579.344856,
+    "geom:area_square_m":165183477.260114,
     "geom:bbox":"0.915499,42.325619,1.043666,42.554771",
     "geom:latitude":42.444169,
     "geom:longitude":0.972737,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25227",
         "esp-icgc:la_lc":"025227",
+        "eurostat:nuts_2021_id":"25227",
         "gn:id":6358955,
         "gp:id":12694109,
         "qs_pg:id":47668
@@ -67,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"364d6fcec028efad1374dc57bad9f08d",
+    "wof:geomhash":"54b172a8d7be39fab867e1dc21c9b468",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404338061,
-    "wof:lastmodified":1669902995,
+    "wof:lastmodified":1684352369,
     "wof:name":"La Torre de Cabdella",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":759,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

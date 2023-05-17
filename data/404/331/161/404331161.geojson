@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8126,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08126",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montgat",
+    "eurostat:nuts_2021_id":"08126",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08126",
+    "eurostat:population":12200,
+    "eurostat:population_year":2020,
     "geom:area":0.00031,
-    "geom:area_square_m":2871021.408738,
+    "geom:area_square_m":2871021.408737,
     "geom:bbox":"2.26132818743,41.4607903984,2.29633177631,41.4825067313",
     "geom:latitude":41.470889,
     "geom:longitude":2.280037,
@@ -133,6 +145,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -141,7 +155,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08126",
         "esp-icgc:la_lc":"08126",
+        "eurostat:nuts_2021_id":"08126",
         "gn:id":6356155,
         "gp:id":12693512,
         "qs_pg:id":248342
@@ -151,7 +167,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"a20df4a6d9af38909664e974e11713f6",
+    "wof:geomhash":"bda80dc702e58556c2a2e53d7a72696c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -162,10 +178,12 @@
         }
     ],
     "wof:id":404331161,
-    "wof:lastmodified":1582361482,
+    "wof:lastmodified":1684352243,
     "wof:name":"Montgat",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":12200,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alcora, l'",
+    "eurostat:nuts_2021_id":"12005",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12005",
+    "eurostat:population":10417,
+    "eurostat:population_year":2020,
     "geom:area":0.010018,
-    "geom:area_square_m":94803283.404947,
+    "geom:area_square_m":94803283.404948,
     "geom:bbox":"-0.30484768,40.01145441,-0.14881172,40.12761433",
     "geom:latitude":40.065769,
     "geom:longitude":-0.215987,
@@ -105,6 +117,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -112,9 +126,12 @@
         404227381
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_12005",
+        "eurostat:nuts_2021_id":"12005"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"75a6a2bd44462a8ea501b349b3279144",
+    "wof:geomhash":"f70446c4bf6b7900a84fed67ffcda0c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +142,12 @@
         }
     ],
     "wof:id":404333117,
-    "wof:lastmodified":1566590795,
+    "wof:lastmodified":1684352274,
     "wof:name":"L'Alcora",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":10417,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

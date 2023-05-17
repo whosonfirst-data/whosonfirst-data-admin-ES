@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_13061",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pedro Mu\u00f1oz",
+    "eurostat:nuts_2021_id":"13061",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES422",
+    "eurostat:nuts_2021_level_lau":"13061",
+    "eurostat:population":7285,
+    "eurostat:population_year":2020,
     "geom:area":0.010594,
     "geom:area_square_m":101223881.323434,
     "geom:bbox":"-3.00018823,39.34061126,-2.86992065,39.47148551",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_13061",
+        "eurostat:nuts_2021_id":"13061",
         "gn:id":6357155,
         "gp:id":12690358,
         "qs_pg:id":496959
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f595fbd58939ab27891ce9406d245dda",
+    "wof:geomhash":"44fffa73c805f2b4a811718bde62871d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404333547,
-    "wof:lastmodified":1582361783,
+    "wof:lastmodified":1684352280,
     "wof:name":"Pedro Mu\u00f1oz",
     "wof:parent_id":85682689,
     "wof:placetype":"localadmin",
+    "wof:population":7285,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

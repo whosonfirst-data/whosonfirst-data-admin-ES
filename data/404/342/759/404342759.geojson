@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_41007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Algaba, La",
+    "eurostat:nuts_2021_id":"41007",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES618",
+    "eurostat:nuts_2021_level_lau":"41007",
+    "eurostat:population":16503,
+    "eurostat:population_year":2020,
     "geom:area":0.001801,
-    "geom:area_square_m":17675483.339271,
+    "geom:area_square_m":17675483.33927,
     "geom:bbox":"-6.04073076,37.44263269,-5.98357767,37.51946759",
     "geom:latitude":37.472824,
     "geom:longitude":-6.016151,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_41007",
+        "eurostat:nuts_2021_id":"41007",
         "gn:id":6360962,
         "qs_pg:id":103402
     },
@@ -135,7 +151,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6580263ff78c71e563568f9d2bd99f59",
+    "wof:geomhash":"a2ed8e76bb74fe5bf438b50868cff3e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404342759,
-    "wof:lastmodified":1582361817,
+    "wof:lastmodified":1684352443,
     "wof:name":"La Algaba",
     "wof:parent_id":85682841,
     "wof:placetype":"localadmin",
+    "wof:population":16503,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

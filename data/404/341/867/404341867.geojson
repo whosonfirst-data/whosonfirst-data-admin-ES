@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37360",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villar de Peralonso",
+    "eurostat:nuts_2021_id":"37360",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37360",
+    "eurostat:population":217,
+    "eurostat:population_year":2020,
     "geom:area":0.00339,
-    "geom:area_square_m":31621603.431564,
+    "geom:area_square_m":31621603.431561,
     "geom:bbox":"-6.26412161,41.00346246,-6.15802231,41.06685889",
     "geom:latitude":41.035583,
     "geom:longitude":-6.210442,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_37360",
+        "eurostat:nuts_2021_id":"37360"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"fa981b28657b75e4d2e5b962e6a80b8a",
+    "wof:geomhash":"55a9b4bf39f7e5eb3a06bf5fd9ef872e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404341867,
-    "wof:lastmodified":1566590315,
+    "wof:lastmodified":1684352429,
     "wof:name":"Villar De Peralonso",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":217,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

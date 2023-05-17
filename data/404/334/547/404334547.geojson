@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16906",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valdecolmenas, Los",
+    "eurostat:nuts_2021_id":"16906",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16906",
+    "eurostat:population":68,
+    "eurostat:population_year":2020,
     "geom:area":0.003307,
-    "geom:area_square_m":31278411.289835,
+    "geom:area_square_m":31278411.289834,
     "geom:bbox":"-2.51766835,40.08062905,-2.413827,40.13610745",
     "geom:latitude":40.108395,
     "geom:longitude":-2.470097,
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16906",
+        "eurostat:nuts_2021_id":"16906",
         "gn:id":6357591,
         "qs_pg:id":621640
     },
@@ -108,7 +124,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6a55d06422321ee7eb31103b10648069",
+    "wof:geomhash":"50dd5da015ecff068e0fc52561afaf81",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +135,12 @@
         }
     ],
     "wof:id":404334547,
-    "wof:lastmodified":1582361752,
+    "wof:lastmodified":1684352298,
     "wof:name":"Los Valdecolmenas",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":68,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

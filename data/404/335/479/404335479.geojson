@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alovera",
+    "eurostat:nuts_2021_id":"19024",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19024",
+    "eurostat:population":12860,
+    "eurostat:population_year":2020,
     "geom:area":0.001452,
-    "geom:area_square_m":13633598.028735,
+    "geom:area_square_m":13633598.028734,
     "geom:bbox":"-3.27732036,40.56474975,-3.21759038,40.61526058",
     "geom:latitude":40.591905,
     "geom:longitude":-3.245704,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19024",
+        "eurostat:nuts_2021_id":"19024",
         "gn:id":6357827,
         "gp:id":12690657,
         "qs_pg:id":1311030
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4c9e9f4a90630d18e1b30306fb568873",
+    "wof:geomhash":"ed39dce78f6e21dae6abe902f6e6845f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404335479,
-    "wof:lastmodified":1582361697,
+    "wof:lastmodified":1684352326,
     "wof:name":"Alovera",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":12860,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

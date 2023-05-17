@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16218",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ucl\u00e9s",
+    "eurostat:nuts_2021_id":"16218",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16218",
+    "eurostat:population":212,
+    "eurostat:population_year":2020,
     "geom:area":0.00681,
-    "geom:area_square_m":64548513.019395,
+    "geom:area_square_m":64548513.019394,
     "geom:bbox":"-2.92048644,39.78879691,-2.81087759,40.04017334",
     "geom:latitude":39.956153,
     "geom:longitude":-2.86568,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16218",
+        "eurostat:nuts_2021_id":"16218",
         "gn:id":6357543,
         "gp:id":12690588,
         "qs_pg:id":1311024
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1abb97e6f97e822e7bd80caec43d5d96",
+    "wof:geomhash":"e13b9fbdce7b0d0d8b10bb9a8153c906",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404334437,
-    "wof:lastmodified":1582361726,
+    "wof:lastmodified":1684352297,
     "wof:name":"Ucl\u00e9s",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":212,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

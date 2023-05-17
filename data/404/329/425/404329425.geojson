@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03077",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fond\u00f3 de les Neus, el / Hond\u00f3n de las Nieves",
+    "eurostat:nuts_2021_id":"03077",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03077",
+    "eurostat:population":2606,
+    "eurostat:population_year":2020,
     "geom:area":0.007092,
-    "geom:area_square_m":68810034.809936,
+    "geom:area_square_m":68810034.809934,
     "geom:bbox":"-0.97146571,38.26394911,-0.8254866,38.34777605",
     "geom:latitude":38.307763,
     "geom:longitude":-0.895061,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227381
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_03077",
+        "eurostat:nuts_2021_id":"03077"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"85e99fac26cc9eaf1d1601725a06beea",
+    "wof:geomhash":"cc9de912e1efb3997aa98052ebe1eab5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404329425,
-    "wof:lastmodified":1566590849,
+    "wof:lastmodified":1684352209,
     "wof:name":"El Fond\u00f3 De Les Neus/Hond\u00f3n De Las Nieves",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":2606,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

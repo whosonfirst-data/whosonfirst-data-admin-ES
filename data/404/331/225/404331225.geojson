@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8154,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08154",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pacs del Pened\u00e8s",
+    "eurostat:nuts_2021_id":"08154",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08154",
+    "eurostat:population":918,
+    "eurostat:population_year":2020,
     "geom:area":0.000658,
-    "geom:area_square_m":6106065.134821,
+    "geom:area_square_m":6106127.572386,
     "geom:bbox":"1.646296,41.345867,1.687942,41.371396",
     "geom:latitude":41.360179,
     "geom:longitude":1.666237,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08154",
         "esp-icgc:la_lc":"08154",
+        "eurostat:nuts_2021_id":"08154",
         "gp:id":12693534,
         "qs_pg:id":895343
     },
@@ -66,7 +82,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cb495ec25d68c5d43e044dee0f1fff20",
+    "wof:geomhash":"52f69a779aaa3be4b9180329cb1b1d48",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,10 +93,12 @@
         }
     ],
     "wof:id":404331225,
-    "wof:lastmodified":1669903010,
+    "wof:lastmodified":1684352245,
     "wof:name":"Pacs del Pened\u00e8s",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":918,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

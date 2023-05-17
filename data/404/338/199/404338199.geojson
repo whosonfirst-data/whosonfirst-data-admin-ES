@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_26027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Berceo",
+    "eurostat:nuts_2021_id":"26027",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES23",
+    "eurostat:nuts_2021_level_3":"ES230",
+    "eurostat:nuts_2021_level_lau":"26027",
+    "eurostat:population":151,
+    "eurostat:population_year":2020,
     "geom:area":0.001668,
     "geom:area_square_m":15249115.900071,
     "geom:bbox":"-2.92250127,42.27123717,-2.81911398,42.363531",
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_26027",
+        "eurostat:nuts_2021_id":"26027",
         "gn:id":6359017,
         "gp:id":12687798,
         "qs_pg:id":378199
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8c5d68776d029ae04e37090b9475a580",
+    "wof:geomhash":"28301e3e5f4c884336890579501283d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404338199,
-    "wof:lastmodified":1582361445,
+    "wof:lastmodified":1684352373,
     "wof:name":"Berceo",
     "wof:parent_id":85682773,
     "wof:placetype":"localadmin",
+    "wof:population":151,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

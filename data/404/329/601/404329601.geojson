@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alm\u00f3cita",
+    "eurostat:nuts_2021_id":"04014",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04014",
+    "eurostat:population":176,
+    "eurostat:population_year":2020,
     "geom:area":0.003119,
-    "geom:area_square_m":30816026.681585,
+    "geom:area_square_m":30816026.681586,
     "geom:bbox":"-2.82985553,36.91250699,-2.77699614,37.00991209",
     "geom:latitude":36.964394,
     "geom:longitude":-2.802106,
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_04014",
+        "eurostat:nuts_2021_id":"04014",
         "gn:id":6355531,
         "gp:id":12688637,
         "qs_pg:id":1164418
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7aee026d2eb658c846fe8c174c759c56",
+    "wof:geomhash":"790d9fcb40ec3060073cadd3d2120260",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404329601,
-    "wof:lastmodified":1582361801,
+    "wof:lastmodified":1684352212,
     "wof:name":"Alm\u00f3cita",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":176,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

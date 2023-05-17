@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25239,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25239",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valls de Valira, Les",
+    "eurostat:nuts_2021_id":"25239",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25239",
+    "eurostat:population":784,
+    "eurostat:population_year":2020,
     "geom:area":0.018721,
-    "geom:area_square_m":170824765.614598,
+    "geom:area_square_m":170824835.999149,
     "geom:bbox":"1.338176,42.358036,1.603103,42.543465",
     "geom:latitude":42.443623,
     "geom:longitude":1.454304,
@@ -50,6 +62,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -58,13 +72,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"025239"
+        "eg:gisco_id":"ES_25239",
+        "esp-icgc:la_lc":"025239",
+        "eurostat:nuts_2021_id":"25239"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"031f2e08ea18422731033ef22de6e9d0",
+    "wof:geomhash":"3d0f22a30c49b321531713e9d638ffe9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,10 +91,12 @@
         }
     ],
     "wof:id":404338079,
-    "wof:lastmodified":1669902991,
+    "wof:lastmodified":1684352370,
     "wof:name":"Les Valls de Valira",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":784,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

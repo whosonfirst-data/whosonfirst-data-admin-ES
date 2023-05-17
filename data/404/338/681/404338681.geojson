@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_27901",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Baralla",
+    "eurostat:nuts_2021_id":"27901",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES112",
+    "eurostat:nuts_2021_level_lau":"27901",
+    "eurostat:population":2482,
+    "eurostat:population_year":2020,
     "geom:area":0.01556,
     "geom:area_square_m":140927037.649515,
     "geom:bbox":"-7.35077687,42.83295566,-7.15711386,42.99022144",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_27901",
+        "eurostat:nuts_2021_id":"27901",
         "gn:id":6359225,
         "gp:id":12694800,
         "qs_pg:id":48155
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d7c4d89f4c8c593019df89798ea0bc7d",
+    "wof:geomhash":"42961f454954b90bfb8b777218053336",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404338681,
-    "wof:lastmodified":1582361433,
+    "wof:lastmodified":1684352379,
     "wof:name":"Baralla",
     "wof:parent_id":85682775,
     "wof:placetype":"localadmin",
+    "wof:population":2482,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

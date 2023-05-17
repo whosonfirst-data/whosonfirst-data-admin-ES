@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8143,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08143",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u00d2dena",
+    "eurostat:nuts_2021_id":"08143",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08143",
+    "eurostat:population":3668,
+    "eurostat:population_year":2020,
     "geom:area":0.00563,
-    "geom:area_square_m":52046243.863901,
+    "geom:area_square_m":52046134.890772,
     "geom:bbox":"1.571879,41.572508,1.681065,41.663068",
     "geom:latitude":41.618601,
     "geom:longitude":1.631426,
@@ -129,6 +141,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -137,13 +151,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"08143"
+        "eg:gisco_id":"ES_08143",
+        "esp-icgc:la_lc":"08143",
+        "eurostat:nuts_2021_id":"08143"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"51c4c312f9bc6991ee7ff10bdfd7fc86",
+    "wof:geomhash":"ec12d1fde7ba215f6b54af41adf7fe90",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,10 +170,12 @@
         }
     ],
     "wof:id":404331199,
-    "wof:lastmodified":1669903007,
+    "wof:lastmodified":1684352244,
     "wof:name":"\u00d2dena",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":3668,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

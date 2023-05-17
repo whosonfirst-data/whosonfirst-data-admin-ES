@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31196",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Orbara",
+    "eurostat:nuts_2021_id":"31196",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31196",
+    "eurostat:population":32,
+    "eurostat:population_year":2020,
     "geom:area":0.000992,
-    "geom:area_square_m":8978947.638959,
+    "geom:area_square_m":8978947.638958,
     "geom:bbox":"-1.27372764,42.95724842,-1.22557908,42.99317477",
     "geom:latitude":42.97381,
     "geom:longitude":-1.252295,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31196",
+        "eurostat:nuts_2021_id":"31196",
         "gn:id":6359744,
         "gp:id":12688375,
         "qs_pg:id":44667
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"776a5782254efc5d526efa3b07a4fcd9",
+    "wof:geomhash":"0da772ceb34d6dbcf65888849c143168",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404339899,
-    "wof:lastmodified":1582361596,
+    "wof:lastmodified":1684352400,
     "wof:name":"Orbara",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":32,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

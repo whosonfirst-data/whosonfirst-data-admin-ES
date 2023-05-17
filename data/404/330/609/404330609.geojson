@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06112",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Retamal de Llerena",
+    "eurostat:nuts_2021_id":"06112",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06112",
+    "eurostat:population":436,
+    "eurostat:population_year":2020,
     "geom:area":0.009938,
-    "geom:area_square_m":96054828.744332,
+    "geom:area_square_m":96054828.74433,
     "geom:bbox":"-5.94266486,38.53909835,-5.74924733,38.64206251",
     "geom:latitude":38.590126,
     "geom:longitude":-5.85803,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227383
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_06112",
+        "eurostat:nuts_2021_id":"06112"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"7b895e8b8736268d9d98d79b798050bf",
+    "wof:geomhash":"bf8469964f8490ca790b2e27cc707149",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404330609,
-    "wof:lastmodified":1566589944,
+    "wof:lastmodified":1684352227,
     "wof:name":"Retamal De Llerena",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":436,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

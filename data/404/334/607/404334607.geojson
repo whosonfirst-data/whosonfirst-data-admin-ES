@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17024,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bolvir",
+    "eurostat:nuts_2021_id":"17024",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17024",
+    "eurostat:population":375,
+    "eurostat:population_year":2020,
     "geom:area":0.001189,
-    "geom:area_square_m":10850656.020562,
+    "geom:area_square_m":10850656.020563,
     "geom:bbox":"1.85039181351,42.397473338,1.91225497694,42.442912697",
     "geom:latitude":42.416479,
     "geom:longitude":1.88268,
@@ -124,6 +136,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -132,7 +146,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17024",
         "esp-icgc:la_lc":"017024",
+        "eurostat:nuts_2021_id":"17024",
         "gn:id":6357597,
         "gp:id":12693708,
         "qs_pg:id":1163714
@@ -142,7 +158,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"5276914a46fa52d33c459620087b00d2",
+    "wof:geomhash":"64e2a441fef8ce0c8a5b1f5bf499896c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,10 +169,12 @@
         }
     ],
     "wof:id":404334607,
-    "wof:lastmodified":1582361751,
+    "wof:lastmodified":1684352301,
     "wof:name":"Bolvir",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":375,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

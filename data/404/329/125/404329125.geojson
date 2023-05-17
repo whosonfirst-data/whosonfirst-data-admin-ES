@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_02032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fuensanta",
+    "eurostat:nuts_2021_id":"02032",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES421",
+    "eurostat:nuts_2021_level_lau":"02032",
+    "eurostat:population":291,
+    "eurostat:population_year":2020,
     "geom:area":0.002499,
-    "geom:area_square_m":23936467.956088,
+    "geom:area_square_m":23936467.956089,
     "geom:bbox":"-2.10466088,39.21331779,-2.03213582,39.26970424",
     "geom:latitude":39.240608,
     "geom:longitude":-2.06859,
@@ -42,6 +54,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -50,6 +64,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_02032",
+        "eurostat:nuts_2021_id":"02032",
         "gn:id":6355324,
         "gp:id":12690243,
         "qs_pg:id":1041690
@@ -58,7 +74,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fd6c4bd9951388d9863dbc4cb35975d8",
+    "wof:geomhash":"8a4c6cdb699adc9204b28bbd57d7f32a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +85,12 @@
         }
     ],
     "wof:id":404329125,
-    "wof:lastmodified":1582361803,
+    "wof:lastmodified":1684352204,
     "wof:name":"Fuensanta",
     "wof:parent_id":85682621,
     "wof:placetype":"localadmin",
+    "wof:population":291,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

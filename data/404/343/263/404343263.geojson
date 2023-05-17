@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42152",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Recuerda",
+    "eurostat:nuts_2021_id":"42152",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42152",
+    "eurostat:population":71,
+    "eurostat:population_year":2020,
     "geom:area":0.007251,
-    "geom:area_square_m":67217345.253826,
+    "geom:area_square_m":67217345.253828,
     "geom:bbox":"-3.06473404,41.37791581,-2.95339991,41.4903291",
     "geom:latitude":41.435481,
     "geom:longitude":-3.002435,
@@ -171,6 +183,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -179,6 +193,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42152",
+        "eurostat:nuts_2021_id":"42152",
         "gn:id":6361185,
         "gp:id":12692844,
         "qs_pg:id":1018755
@@ -187,7 +203,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"94e05554037799cf5b79008b5b2c4be7",
+    "wof:geomhash":"a9c5cbc8ba38bc16e8fe2e543b50b2f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -198,10 +214,12 @@
         }
     ],
     "wof:id":404343263,
-    "wof:lastmodified":1582361892,
+    "wof:lastmodified":1684352449,
     "wof:name":"Recuerda",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":71,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

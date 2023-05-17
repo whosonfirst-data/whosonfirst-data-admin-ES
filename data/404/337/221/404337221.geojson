@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24041",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carucedo",
+    "eurostat:nuts_2021_id":"24041",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24041",
+    "eurostat:population":531,
+    "eurostat:population_year":2020,
     "geom:area":0.003832,
     "geom:area_square_m":34943834.879761,
     "geom:bbox":"-6.83751005,42.44688549,-6.75184718,42.52257013",
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_24041",
+        "eurostat:nuts_2021_id":"24041",
         "gn:id":6358590,
         "gp:id":12691785,
         "qs_pg:id":1317357
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"535274f99c91c09e86fe4ff1bfe9967b",
+    "wof:geomhash":"6689b388c6cc93ddaf01db1396a39a77",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404337221,
-    "wof:lastmodified":1582361554,
+    "wof:lastmodified":1684352350,
     "wof:name":"Carucedo",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":531,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37062",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cabezabellosa de la Calzada",
+    "eurostat:nuts_2021_id":"37062",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37062",
+    "eurostat:population":78,
+    "eurostat:population_year":2020,
     "geom:area":0.000909,
     "geom:area_square_m":8479939.237611,
     "geom:bbox":"-5.50221065,41.02562144,-5.45098391,41.05665861",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37062",
+        "eurostat:nuts_2021_id":"37062",
         "gn:id":6360316,
         "gp:id":12692209,
         "qs_pg:id":124801
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6508b6f6652720b3fe0f41d1b375d758",
+    "wof:geomhash":"de64ba4807da13771501c657457aace3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404341233,
-    "wof:lastmodified":1582361630,
+    "wof:lastmodified":1684352422,
     "wof:name":"Cabezabellosa De La Calzada",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":78,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

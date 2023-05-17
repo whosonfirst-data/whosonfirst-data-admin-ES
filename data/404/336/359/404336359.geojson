@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_21035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gibrale\u00f3n",
+    "eurostat:nuts_2021_id":"21035",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES615",
+    "eurostat:nuts_2021_level_lau":"21035",
+    "eurostat:population":12737,
+    "eurostat:population_year":2020,
     "geom:area":0.03341,
-    "geom:area_square_m":328202418.170256,
+    "geom:area_square_m":328202418.170252,
     "geom:bbox":"-7.10209081,37.23243695,-6.85499158,37.53585042",
     "geom:latitude":37.396028,
     "geom:longitude":-6.994445,
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_21035",
+        "eurostat:nuts_2021_id":"21035",
         "gn:id":6358211,
         "gp:id":12689049,
         "qs_pg:id":238810
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fac543efa1751a7a269fdd5864af77e5",
+    "wof:geomhash":"80e5bc1bcd91f6a0967153da57888569",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404336359,
-    "wof:lastmodified":1582361468,
+    "wof:lastmodified":1684352337,
     "wof:name":"Gibrale\u00f3n",
     "wof:parent_id":85682749,
     "wof:placetype":"localadmin",
+    "wof:population":12737,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

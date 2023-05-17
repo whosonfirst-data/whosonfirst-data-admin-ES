@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17029,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17029",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Boadella i les Escaules",
+    "eurostat:nuts_2021_id":"17029",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17029",
+    "eurostat:population":272,
+    "eurostat:population_year":2020,
     "geom:area":0.001168,
-    "geom:area_square_m":10679841.459878,
+    "geom:area_square_m":10679871.092486,
     "geom:bbox":"2.8359,42.310127,2.899795,42.34753",
     "geom:latitude":42.328888,
     "geom:longitude":2.866773,
@@ -89,6 +101,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -97,7 +111,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17029",
         "esp-icgc:la_lc":"017029",
+        "eurostat:nuts_2021_id":"17029",
         "gn:id":6534026,
         "qs_pg:id":628323
     },
@@ -106,7 +122,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"9c94e8be9e84e4a359d8dfafadf9a95f",
+    "wof:geomhash":"6ba3fb97f3deb2c4e9633eb3c2726dc1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404334617,
-    "wof:lastmodified":1669903042,
+    "wof:lastmodified":1684352301,
     "wof:name":"Boadella i les Escaules",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":272,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

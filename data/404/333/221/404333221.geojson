@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12057",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Eslida",
+    "eurostat:nuts_2021_id":"12057",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12057",
+    "eurostat:population":725,
+    "eurostat:population_year":2020,
     "geom:area":0.001908,
-    "geom:area_square_m":18107417.430108,
+    "geom:area_square_m":18107417.430109,
     "geom:bbox":"-0.33799279,39.86374879,-0.2741377,39.91020132",
     "geom:latitude":39.886944,
     "geom:longitude":-0.304912,
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12057",
+        "eurostat:nuts_2021_id":"12057",
         "gn:id":6357010,
         "gp:id":12695458,
         "qs_pg:id":334574
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"64c23eff9625c9a58e36d12f70cc584d",
+    "wof:geomhash":"f42c6b415b92c010070401b4ad5c013f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404333221,
-    "wof:lastmodified":1582361763,
+    "wof:lastmodified":1684352276,
     "wof:name":"Eslida",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":725,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

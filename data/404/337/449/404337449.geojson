@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24152",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Colomba de Somoza",
+    "eurostat:nuts_2021_id":"24152",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24152",
+    "eurostat:population":501,
+    "eurostat:population_year":2020,
     "geom:area":0.019606,
-    "geom:area_square_m":178825327.213386,
+    "geom:area_square_m":178825327.213384,
     "geom:bbox":"-6.4271016,42.39734593,-6.15928364,42.55058063",
     "geom:latitude":42.469401,
     "geom:longitude":-6.2905,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_24152",
+        "eurostat:nuts_2021_id":"24152"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"ee2a8211641593d884fd12562dd54cc4",
+    "wof:geomhash":"36b0b20a3db6726f7d94222f24f87136",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404337449,
-    "wof:lastmodified":1566589979,
+    "wof:lastmodified":1684352352,
     "wof:name":"Santa Colomba De Somoza",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":501,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

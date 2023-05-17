@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_39091",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vald\u00e1liga",
+    "eurostat:nuts_2021_id":"39091",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES13",
+    "eurostat:nuts_2021_level_3":"ES130",
+    "eurostat:nuts_2021_level_lau":"39091",
+    "eurostat:population":2150,
+    "eurostat:population_year":2020,
     "geom:area":0.010863,
-    "geom:area_square_m":97724003.93707,
+    "geom:area_square_m":97724003.937068,
     "geom:bbox":"-4.42305712,43.26822067,-4.26938181,43.39310946",
     "geom:latitude":43.318413,
     "geom:longitude":-4.343348,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_39091",
+        "eurostat:nuts_2021_id":"39091",
         "gn:id":6360735,
         "gp:id":12688613,
         "qs_pg:id":1315858
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"16adbef04e6275da3d67dd28f8d0f151",
+    "wof:geomhash":"f838a177c3aa17bc4040e8c7fbfa1ea9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404342245,
-    "wof:lastmodified":1582361808,
+    "wof:lastmodified":1684352437,
     "wof:name":"Vald\u00e1liga",
     "wof:parent_id":85682833,
     "wof:placetype":"localadmin",
+    "wof:population":2150,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

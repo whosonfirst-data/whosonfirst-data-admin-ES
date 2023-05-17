@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03118",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Fulgencio",
+    "eurostat:nuts_2021_id":"03118",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03118",
+    "eurostat:population":8071,
+    "eurostat:population_year":2020,
     "geom:area":0.002029,
-    "geom:area_square_m":19733763.052913,
+    "geom:area_square_m":19733763.052912,
     "geom:bbox":"-0.74809138,38.10942556,-0.65129101,38.14351233",
     "geom:latitude":38.125653,
     "geom:longitude":-0.693286,
@@ -84,6 +96,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -91,9 +105,12 @@
         404227381
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_03118",
+        "eurostat:nuts_2021_id":"03118"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"09e824e95963c333dcd2a5e2b555516b",
+    "wof:geomhash":"7578ab4c3d72d176501fa6b60e3a05ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +121,12 @@
         }
     ],
     "wof:id":404329513,
-    "wof:lastmodified":1566590905,
+    "wof:lastmodified":1684352211,
     "wof:name":"San Fulgencio",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":8071,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

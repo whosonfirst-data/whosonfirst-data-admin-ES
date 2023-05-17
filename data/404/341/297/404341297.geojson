@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37099",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cereceda de la Sierra",
+    "eurostat:nuts_2021_id":"37099",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37099",
+    "eurostat:population":66,
+    "eurostat:population_year":2020,
     "geom:area":0.001646,
-    "geom:area_square_m":15464322.555233,
+    "geom:area_square_m":15464322.555232,
     "geom:bbox":"-6.12249324,40.5429182,-6.05668396,40.59471864",
     "geom:latitude":40.566801,
     "geom:longitude":-6.090717,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37099",
+        "eurostat:nuts_2021_id":"37099",
         "gn:id":6360345,
         "gp:id":12692237,
         "qs_pg:id":884589
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3417e3f22d1bca630a520ee1cf76b85e",
+    "wof:geomhash":"1dfef87126fab1d01bc79e2875f2b622",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404341297,
-    "wof:lastmodified":1582361640,
+    "wof:lastmodified":1684352423,
     "wof:name":"Cereceda De La Sierra",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":66,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":8277,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08277",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Talamanca",
+    "eurostat:nuts_2021_id":"08277",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08277",
+    "eurostat:population":209,
+    "eurostat:population_year":2020,
     "geom:area":0.003173,
     "geom:area_square_m":29279133.984445,
     "geom:bbox":"1.87076370558,41.7083959469,2.005206484,41.7532273717",
@@ -82,6 +94,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -90,7 +104,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08277",
         "esp-icgc:la_lc":"08277",
+        "eurostat:nuts_2021_id":"08277",
         "gn:id":6356296,
         "gp:id":12693650,
         "qs_pg:id":1315331
@@ -100,7 +116,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"a34f3e7b0f02a73184c4d05504ab1c8e",
+    "wof:geomhash":"82cb90d7aaf3cc0554b11511ee1e3aa4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,10 +127,12 @@
         }
     ],
     "wof:id":404331497,
-    "wof:lastmodified":1582361491,
+    "wof:lastmodified":1684352253,
     "wof:name":"Talamanca",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":209,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

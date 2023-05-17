@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48047",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gizaburuaga",
+    "eurostat:nuts_2021_id":"48047",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48047",
+    "eurostat:population":197,
+    "eurostat:population_year":2020,
     "geom:area":0.000701,
-    "geom:area_square_m":6308721.064025,
+    "geom:area_square_m":6308721.064024,
     "geom:bbox":"-2.56708718,43.30962257,-2.51621461,43.3446499",
     "geom:latitude":43.330723,
     "geom:longitude":-2.54014,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_48047",
+        "eurostat:nuts_2021_id":"48047",
         "gn:id":6362391,
         "gp:id":12695210,
         "qs_pg:id":1095458
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2c17511eea01604b9bb5298ae39e05e6",
+    "wof:geomhash":"8c636cd906ed6b589878b17a62882781",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404346009,
-    "wof:lastmodified":1582361611,
+    "wof:lastmodified":1684352493,
     "wof:name":"Gizaburuaga",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":197,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

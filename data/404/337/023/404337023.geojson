@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_23052",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jimena",
+    "eurostat:nuts_2021_id":"23052",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES616",
+    "eurostat:nuts_2021_level_lau":"23052",
+    "eurostat:population":1269,
+    "eurostat:population_year":2020,
     "geom:area":0.004917,
-    "geom:area_square_m":48019290.725429,
+    "geom:area_square_m":48019290.725428,
     "geom:bbox":"-3.58193018,37.80497401,-3.45067628,37.86849945",
     "geom:latitude":37.839718,
     "geom:longitude":-3.516525,
@@ -78,6 +90,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -86,6 +100,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_23052",
+        "eurostat:nuts_2021_id":"23052",
         "gn:id":6358502,
         "gp:id":12689143,
         "qs_pg:id":45140
@@ -94,7 +110,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2393aff882bb0c62463f1e3f72aa257a",
+    "wof:geomhash":"38b72b7c68d6aff22b8dd9ee279e9914",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,10 +121,12 @@
         }
     ],
     "wof:id":404337023,
-    "wof:lastmodified":1582361552,
+    "wof:lastmodified":1684352347,
     "wof:name":"Jimena",
     "wof:parent_id":85682757,
     "wof:placetype":"localadmin",
+    "wof:population":1269,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

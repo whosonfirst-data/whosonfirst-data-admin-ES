@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15069",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pontedeume",
+    "eurostat:nuts_2021_id":"15069",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15069",
+    "eurostat:population":7753,
+    "eurostat:population_year":2020,
     "geom:area":0.003262,
-    "geom:area_square_m":29305280.870993,
+    "geom:area_square_m":29305280.870995,
     "geom:bbox":"-8.22493668,43.37319924,-8.10021856,43.42833287",
     "geom:latitude":43.400204,
     "geom:longitude":-8.154617,
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_15069",
+        "eurostat:nuts_2021_id":"15069",
         "gn:id":6357337,
         "gp:id":12694771,
         "qs_pg:id":1059733
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bc94fe8a6bfbe0de481608a4ac82da9e",
+    "wof:geomhash":"604457fca844fbad35717740914101ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404333963,
-    "wof:lastmodified":1582361760,
+    "wof:lastmodified":1684352290,
     "wof:name":"Pontedeume",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":7753,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

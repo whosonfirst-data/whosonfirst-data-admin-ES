@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49098",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Losacino",
+    "eurostat:nuts_2021_id":"49098",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49098",
+    "eurostat:population":210,
+    "eurostat:population_year":2020,
     "geom:area":0.004782,
-    "geom:area_square_m":44166729.552198,
+    "geom:area_square_m":44166729.5522,
     "geom:bbox":"-6.12757779,41.63886866,-6.01319866,41.71301818",
     "geom:latitude":41.674342,
     "geom:longitude":-6.068448,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_49098",
+        "eurostat:nuts_2021_id":"49098",
         "gn:id":6362536,
         "gp:id":12693215,
         "qs_pg:id":1028705
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"471ed17f94cf01e92b88b217779dd71a",
+    "wof:geomhash":"bae6877feed7e61e887bdd394b0a133c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404346353,
-    "wof:lastmodified":1582361607,
+    "wof:lastmodified":1684352498,
     "wof:name":"Losacino",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":210,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

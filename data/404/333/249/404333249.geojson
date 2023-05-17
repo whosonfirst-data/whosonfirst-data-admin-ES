@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12072",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Llucena / Lucena del Cid",
+    "eurostat:nuts_2021_id":"12072",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12072",
+    "eurostat:population":1315,
+    "eurostat:population_year":2020,
     "geom:area":0.014484,
-    "geom:area_square_m":136892137.249972,
+    "geom:area_square_m":136892137.249977,
     "geom:bbox":"-0.36254092,40.05863302,-0.19683459,40.22386393",
     "geom:latitude":40.149576,
     "geom:longitude":-0.280977,
@@ -51,6 +63,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -59,6 +73,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12072",
+        "eurostat:nuts_2021_id":"12072",
         "gn:id":6357023,
         "gp:id":12695472,
         "qs_pg:id":48493
@@ -67,7 +83,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9a9e7d7cfb7b035f19791e6c64c38be4",
+    "wof:geomhash":"9dbc3c116866dabf510f86d3253f1dc9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404333249,
-    "wof:lastmodified":1582361778,
+    "wof:lastmodified":1684352276,
     "wof:name":"Lucena Del Cid",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":1315,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25043,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vall de Bo\u00ed, La",
+    "eurostat:nuts_2021_id":"25043",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25043",
+    "eurostat:population":1019,
+    "eurostat:population_year":2020,
     "geom:area":0.024073,
-    "geom:area_square_m":219338490.215739,
+    "geom:area_square_m":219338654.259172,
     "geom:bbox":"0.73935,42.45411,0.972728,42.631922",
     "geom:latitude":42.534905,
     "geom:longitude":0.85713,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25043",
         "esp-icgc:la_lc":"025043",
+        "eurostat:nuts_2021_id":"25043",
         "gp:id":12693943,
         "qs_pg:id":248525
     },
@@ -66,7 +82,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"b0b0addccb68d8a6f5317b72e5e7e0ad",
+    "wof:geomhash":"92c06e90952217fdcd1c52052f1bbf5a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,10 +93,12 @@
         }
     ],
     "wof:id":404337709,
-    "wof:lastmodified":1669903020,
+    "wof:lastmodified":1684352357,
     "wof:name":"La Vall de Bo\u00ed",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":1019,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

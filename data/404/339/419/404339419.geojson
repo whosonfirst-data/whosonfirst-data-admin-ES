@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_30902",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alc\u00e1zares, Los",
+    "eurostat:nuts_2021_id":"30902",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES62",
+    "eurostat:nuts_2021_level_3":"ES620",
+    "eurostat:nuts_2021_level_lau":"30902",
+    "eurostat:population":16590,
+    "eurostat:population_year":2020,
     "geom:area":0.002049,
-    "geom:area_square_m":20032910.290695,
+    "geom:area_square_m":20032910.290696,
     "geom:bbox":"-0.91396971,37.71999204,-0.81757545,37.77599059",
     "geom:latitude":37.743313,
     "geom:longitude":-0.865462,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_30902",
+        "eurostat:nuts_2021_id":"30902",
         "gn:id":6359549,
         "gp:id":12688130,
         "qs_pg:id":621757
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"abe2d71f21c63b9b0ec55d82611cf840",
+    "wof:geomhash":"74a1bdbfabdb7e34f1d1fc1472ed0dec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404339419,
-    "wof:lastmodified":1582361591,
+    "wof:lastmodified":1684352394,
     "wof:name":"Los Alc\u00e1zares",
     "wof:parent_id":85682791,
     "wof:placetype":"localadmin",
+    "wof:population":16590,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

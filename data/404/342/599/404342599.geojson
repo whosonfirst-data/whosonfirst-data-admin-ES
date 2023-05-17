@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40168",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Riaguas de San Bartolom\u00e9",
+    "eurostat:nuts_2021_id":"40168",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40168",
+    "eurostat:population":24,
+    "eurostat:population_year":2020,
     "geom:area":0.001255,
-    "geom:area_square_m":11634241.292528,
+    "geom:area_square_m":11634241.292529,
     "geom:bbox":"-3.51285795,41.40924624,-3.45336467,41.43934893",
     "geom:latitude":41.425372,
     "geom:longitude":-3.483976,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_40168",
+        "eurostat:nuts_2021_id":"40168",
         "gn:id":6360892,
         "gp:id":12692662,
         "qs_pg:id":46816
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"15e64c6582fed7aaa14a1e8623207a4c",
+    "wof:geomhash":"eaf0f3ac4cd24bdff95a1012e166d15d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404342599,
-    "wof:lastmodified":1582361815,
+    "wof:lastmodified":1684352441,
     "wof:name":"Riaguas De San Bartolom\u00e9",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":24,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

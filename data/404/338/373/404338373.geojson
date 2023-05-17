@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_26106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nestares",
+    "eurostat:nuts_2021_id":"26106",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES23",
+    "eurostat:nuts_2021_level_3":"ES230",
+    "eurostat:nuts_2021_level_lau":"26106",
+    "eurostat:population":80,
+    "eurostat:population_year":2020,
     "geom:area":0.002358,
     "geom:area_square_m":21573279.094052,
     "geom:bbox":"-2.65563241,42.25995914,-2.57423651,42.31668278",
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_26106",
+        "eurostat:nuts_2021_id":"26106",
         "gn:id":6359093,
         "gp:id":12687874,
         "qs_pg:id":1164037
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0f3f690ac3f6edc712fd8a0fd8683888",
+    "wof:geomhash":"ea120a704d944aaeb3a338d64abcb8f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404338373,
-    "wof:lastmodified":1582361455,
+    "wof:lastmodified":1684352375,
     "wof:name":"Nestares",
     "wof:parent_id":85682773,
     "wof:placetype":"localadmin",
+    "wof:population":80,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

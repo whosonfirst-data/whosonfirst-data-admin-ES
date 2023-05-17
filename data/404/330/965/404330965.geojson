@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8039,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campins",
+    "eurostat:nuts_2021_id":"08039",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08039",
+    "eurostat:population":541,
+    "eurostat:population_year":2020,
     "geom:area":0.000791,
-    "geom:area_square_m":7298067.876375,
+    "geom:area_square_m":7298004.711922,
     "geom:bbox":"2.454504,41.707482,2.492585,41.745511",
     "geom:latitude":41.725717,
     "geom:longitude":2.47181,
@@ -55,6 +67,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -63,7 +77,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08039",
         "esp-icgc:la_lc":"08039",
+        "eurostat:nuts_2021_id":"08039",
         "gn:id":6356073,
         "gp:id":12693416,
         "qs_pg:id":1078654
@@ -73,7 +89,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a78b8ed9474a014d85d8b4c251ed4c02",
+    "wof:geomhash":"a877816b295d9f0300a703b46e22c6b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +100,12 @@
         }
     ],
     "wof:id":404330965,
-    "wof:lastmodified":1669903014,
+    "wof:lastmodified":1684352237,
     "wof:name":"Campins",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":541,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

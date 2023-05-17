@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":8035,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calella",
+    "eurostat:nuts_2021_id":"08035",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08035",
+    "eurostat:population":19277,
+    "eurostat:population_year":2020,
     "geom:area":0.000866,
     "geom:area_square_m":8005790.655102,
     "geom:bbox":"2.62762273626,41.6047917056,2.67173542585,41.6406907816",
@@ -145,6 +157,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -153,7 +167,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08035",
         "esp-icgc:la_lc":"08035",
+        "eurostat:nuts_2021_id":"08035",
         "gn:id":6533988,
         "gp:id":12693412,
         "qs_pg:id":223880
@@ -163,7 +179,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e89a4744b6da35244c2920a2a2f648d9",
+    "wof:geomhash":"f50511ff9ce027c7a73fdfca26d5d8bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -174,10 +190,12 @@
         }
     ],
     "wof:id":404330957,
-    "wof:lastmodified":1582361532,
+    "wof:lastmodified":1684352236,
     "wof:name":"Calella",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":19277,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

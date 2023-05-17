@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8241,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08241",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Sadurn\u00ed d'Osormort",
+    "eurostat:nuts_2021_id":"08241",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08241",
+    "eurostat:population":76,
+    "eurostat:population_year":2020,
     "geom:area":0.00333,
-    "geom:area_square_m":30643018.867288,
+    "geom:area_square_m":30643007.027334,
     "geom:bbox":"2.337527,41.87173,2.426988,41.936513",
     "geom:latitude":41.90512,
     "geom:longitude":2.379861,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08241",
         "esp-icgc:la_lc":"08241",
+        "eurostat:nuts_2021_id":"08241",
         "gn:id":6356262,
         "gp:id":12693617,
         "qs_pg:id":955119
@@ -67,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"811fa54e52f92ebd6e93576202a89be5",
+    "wof:geomhash":"6c56f5930f6e4880806025162bcc7656",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404331415,
-    "wof:lastmodified":1669903000,
+    "wof:lastmodified":1684352251,
     "wof:name":"Sant Sadurn\u00ed d'Osormort",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":76,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

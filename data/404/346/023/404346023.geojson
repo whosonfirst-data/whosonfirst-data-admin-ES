@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48053",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Laukiz",
+    "eurostat:nuts_2021_id":"48053",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48053",
+    "eurostat:population":1227,
+    "eurostat:population_year":2020,
     "geom:area":0.000902,
-    "geom:area_square_m":8109322.684147,
+    "geom:area_square_m":8109322.684148,
     "geom:bbox":"-2.93906592,43.33431544,-2.89096299,43.36507454",
     "geom:latitude":43.348797,
     "geom:longitude":-2.915865,
@@ -102,6 +114,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -109,9 +123,12 @@
         404227393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_48053",
+        "eurostat:nuts_2021_id":"48053"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"011af3a34113821434a2f24bde28fcf1",
+    "wof:geomhash":"96fd10cf2818a5ffd3dd157729b37769",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +139,12 @@
         }
     ],
     "wof:id":404346023,
-    "wof:lastmodified":1566590229,
+    "wof:lastmodified":1684352493,
     "wof:name":"Laukiz",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":1227,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

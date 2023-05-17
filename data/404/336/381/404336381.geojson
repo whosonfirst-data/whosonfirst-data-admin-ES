@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_21045",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Linares de la Sierra",
+    "eurostat:nuts_2021_id":"21045",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES615",
+    "eurostat:nuts_2021_level_lau":"21045",
+    "eurostat:population":262,
+    "eurostat:population_year":2020,
     "geom:area":0.002991,
-    "geom:area_square_m":29203150.807133,
+    "geom:area_square_m":29203150.807138,
     "geom:bbox":"-6.64140336,37.81260245,-6.57788984,37.89396022",
     "geom:latitude":37.854529,
     "geom:longitude":-6.606844,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_21045",
+        "eurostat:nuts_2021_id":"21045",
         "gn:id":6358221,
         "gp:id":12689059,
         "qs_pg:id":1015680
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d20ebe1ac61058394d55d44f1f3c50ba",
+    "wof:geomhash":"686cc92f600c64975e5a341c42769d5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404336381,
-    "wof:lastmodified":1582361478,
+    "wof:lastmodified":1684352337,
     "wof:name":"Linares De La Sierra",
     "wof:parent_id":85682749,
     "wof:placetype":"localadmin",
+    "wof:population":262,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

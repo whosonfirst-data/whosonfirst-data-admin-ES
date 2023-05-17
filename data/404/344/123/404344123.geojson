@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44159",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Moscard\u00f3n",
+    "eurostat:nuts_2021_id":"44159",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44159",
+    "eurostat:population":55,
+    "eurostat:population_year":2020,
     "geom:area":0.002853,
-    "geom:area_square_m":26899371.771584,
+    "geom:area_square_m":26899371.771583,
     "geom:bbox":"-1.58178714,40.2758961,-1.51726379,40.36051323",
     "geom:latitude":40.319576,
     "geom:longitude":-1.551711,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44159",
+        "eurostat:nuts_2021_id":"44159",
         "gn:id":6361566,
         "gp:id":12689738,
         "qs_pg:id":45453
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4493d46859e477524ce927d82f74f318",
+    "wof:geomhash":"780f75a404d2deecfec9d00212914ada",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404344123,
-    "wof:lastmodified":1582361858,
+    "wof:lastmodified":1684352470,
     "wof:name":"Moscard\u00f3n",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":55,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

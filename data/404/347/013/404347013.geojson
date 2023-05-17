@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50138",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lech\u00f3n",
+    "eurostat:nuts_2021_id":"50138",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50138",
+    "eurostat:population":46,
+    "eurostat:population_year":2020,
     "geom:area":0.001871,
-    "geom:area_square_m":17437744.954084,
+    "geom:area_square_m":17437744.954085,
     "geom:bbox":"-1.3107699,41.05477676,-1.25330306,41.10420817",
     "geom:latitude":41.08146,
     "geom:longitude":-1.280967,
@@ -39,6 +51,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -47,6 +61,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50138",
+        "eurostat:nuts_2021_id":"50138",
         "gn:id":6362827,
         "gp:id":12689966,
         "qs_pg:id":45541
@@ -55,7 +71,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"00e2171c16fdbf27aeb2f7e9451f87f9",
+    "wof:geomhash":"648f95db3b4419c4be7a8aed71a8d7dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +82,12 @@
         }
     ],
     "wof:id":404347013,
-    "wof:lastmodified":1582361670,
+    "wof:lastmodified":1684352506,
     "wof:name":"Lech\u00f3n",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":46,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_20023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Berrobi",
+    "eurostat:nuts_2021_id":"20023",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES212",
+    "eurostat:nuts_2021_level_lau":"20023",
+    "eurostat:population":601,
+    "eurostat:population_year":2020,
     "geom:area":0.000307,
-    "geom:area_square_m":2767015.180057,
+    "geom:area_square_m":2767015.180058,
     "geom:bbox":"-2.03832101,43.13392781,-2.01152052,43.15698958",
     "geom:latitude":43.145844,
     "geom:longitude":-2.025816,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_20023",
+        "eurostat:nuts_2021_id":"20023",
         "gn:id":6358114,
         "gp:id":12695094,
         "qs_pg:id":621676
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7cd3303324c744c407d90111ac757c6a",
+    "wof:geomhash":"5b7c94bb359c1f04693cfada35eae70d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404336135,
-    "wof:lastmodified":1582361458,
+    "wof:lastmodified":1684352334,
     "wof:name":"Berrobi",
     "wof:parent_id":85682741,
     "wof:placetype":"localadmin",
+    "wof:population":601,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

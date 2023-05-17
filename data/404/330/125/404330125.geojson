@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05163",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Navaluenga",
+    "eurostat:nuts_2021_id":"05163",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05163",
+    "eurostat:population":2018,
+    "eurostat:population_year":2020,
     "geom:area":0.0078,
-    "geom:area_square_m":73451442.339758,
+    "geom:area_square_m":73451442.339757,
     "geom:bbox":"-4.75360002,40.35743843,-4.61983652,40.43879654",
     "geom:latitude":40.395186,
     "geom:longitude":-4.692705,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05163",
+        "eurostat:nuts_2021_id":"05163",
         "gn:id":6355763,
         "gp:id":12691272,
         "qs_pg:id":888167
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"143220cc0482762002876f9e521b48c5",
+    "wof:geomhash":"dbe4e4401d7d7e89eabc45d407b1d181",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404330125,
-    "wof:lastmodified":1582361544,
+    "wof:lastmodified":1684352219,
     "wof:name":"Navaluenga",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":2018,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

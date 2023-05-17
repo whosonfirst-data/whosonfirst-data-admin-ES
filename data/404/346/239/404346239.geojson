@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49038",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casaseca de Campe\u00e1n",
+    "eurostat:nuts_2021_id":"49038",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49038",
+    "eurostat:population":95,
+    "eurostat:population_year":2020,
     "geom:area":0.001318,
-    "geom:area_square_m":12226485.683653,
+    "geom:area_square_m":12226485.683655,
     "geom:bbox":"-5.801868,41.35625379,-5.72513672,41.39269828",
     "geom:latitude":41.375,
     "geom:longitude":-5.754352,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_49038",
+        "eurostat:nuts_2021_id":"49038"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"16c41103f2be9c3e5d3c067e81ded9d7",
+    "wof:geomhash":"afbcb003068a941b755169cb7ea14145",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404346239,
-    "wof:lastmodified":1566590275,
+    "wof:lastmodified":1684352497,
     "wof:name":"Casaseca De Campe\u00e1n",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":95,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

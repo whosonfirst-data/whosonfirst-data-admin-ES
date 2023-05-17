@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40149",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Olombrada",
+    "eurostat:nuts_2021_id":"40149",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40149",
+    "eurostat:population":536,
+    "eurostat:population_year":2020,
     "geom:area":0.007165,
-    "geom:area_square_m":66422471.001231,
+    "geom:area_square_m":66422471.00123,
     "geom:bbox":"-4.22783916,41.3905602,-4.09444789,41.48209978",
     "geom:latitude":41.43736,
     "geom:longitude":-4.16072,
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_40149",
+        "eurostat:nuts_2021_id":"40149",
         "gn:id":6360875,
         "gp:id":12692644,
         "qs_pg:id":1102729
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2cbe2c752ba2ad778fd42e6ea6c1321a",
+    "wof:geomhash":"88eac9da3e0c8926b145bdd8bdc43fa2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404342561,
-    "wof:lastmodified":1582361806,
+    "wof:lastmodified":1684352440,
     "wof:name":"Olombrada",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":536,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

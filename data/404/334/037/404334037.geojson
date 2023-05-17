@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alcal\u00e1 de la Vega",
+    "eurostat:nuts_2021_id":"16008",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16008",
+    "eurostat:population":90,
+    "eurostat:population_year":2020,
     "geom:area":0.007307,
-    "geom:area_square_m":69183081.798224,
+    "geom:area_square_m":69183081.798227,
     "geom:bbox":"-1.58513262,39.98142509,-1.45549678,40.07687867",
     "geom:latitude":40.031695,
     "geom:longitude":-1.513006,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16008",
+        "eurostat:nuts_2021_id":"16008",
         "gn:id":6357369,
         "gp:id":12690405,
         "qs_pg:id":45770
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"af61c55a2e57f742bab4c18588030446",
+    "wof:geomhash":"2592f30622177053c57cd3babb3ac694",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404334037,
-    "wof:lastmodified":1582361730,
+    "wof:lastmodified":1684352292,
     "wof:name":"Alcal\u00e1 De La Vega",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":90,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

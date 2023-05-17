@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16086",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fuente de Pedro Naharro",
+    "eurostat:nuts_2021_id":"16086",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16086",
+    "eurostat:population":1215,
+    "eurostat:population_year":2020,
     "geom:area":0.006713,
-    "geom:area_square_m":63654966.611299,
+    "geom:area_square_m":63654966.611298,
     "geom:bbox":"-3.10702239,39.89288747,-2.96423259,39.95772753",
     "geom:latitude":39.927666,
     "geom:longitude":-3.042905,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16086",
+        "eurostat:nuts_2021_id":"16086",
         "gn:id":6357436,
         "gp:id":12690475,
         "qs_pg:id":263640
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"160b46fbc7a298a68462ad2306a6f8ab",
+    "wof:geomhash":"163ff623bdc0e3d5514594a366d107c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404334191,
-    "wof:lastmodified":1582361736,
+    "wof:lastmodified":1684352294,
     "wof:name":"Fuente De Pedro Naharro",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":1215,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

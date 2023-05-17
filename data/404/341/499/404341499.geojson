@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37191",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Milano, El",
+    "eurostat:nuts_2021_id":"37191",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37191",
+    "eurostat:population":101,
+    "eurostat:population_year":2020,
     "geom:area":0.002429,
-    "geom:area_square_m":22630644.94122,
+    "geom:area_square_m":22630644.941222,
     "geom:bbox":"-6.64893753,41.07669669,-6.566364,41.12063143",
     "geom:latitude":41.097515,
     "geom:longitude":-6.604357,
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37191",
+        "eurostat:nuts_2021_id":"37191",
         "gn:id":6360433,
         "qs_pg:id":621831
     },
@@ -108,7 +124,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4655045cb16fdae708c1590673426fea",
+    "wof:geomhash":"b64bf87455a025a81ae2972f6229ad2b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +135,12 @@
         }
     ],
     "wof:id":404341499,
-    "wof:lastmodified":1582361628,
+    "wof:lastmodified":1684352425,
     "wof:name":"El Milano",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":101,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17012,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Avinyonet de Puigvent\u00f3s",
+    "eurostat:nuts_2021_id":"17012",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17012",
+    "eurostat:population":1641,
+    "eurostat:population_year":2020,
     "geom:area":0.001345,
-    "geom:area_square_m":12306458.561704,
+    "geom:area_square_m":12306441.844061,
     "geom:bbox":"2.895414,42.22507,2.935909,42.278418",
     "geom:latitude":42.252831,
     "geom:longitude":2.914276,
@@ -77,6 +89,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -85,7 +99,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17012",
         "esp-icgc:la_lc":"017012",
+        "eurostat:nuts_2021_id":"17012",
         "gn:id":6534011,
         "gp:id":12693696,
         "qs_pg:id":247643
@@ -95,7 +111,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1e36bd4b93cfb4ca67c6a2a732dc2da9",
+    "wof:geomhash":"f00eea447ab92b8621e1532caf818050",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,10 +122,12 @@
         }
     ],
     "wof:id":404334581,
-    "wof:lastmodified":1669903046,
+    "wof:lastmodified":1684352299,
     "wof:name":"Avinyonet de Puigvent\u00f3s",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":1641,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cabrera, La",
+    "eurostat:nuts_2021_id":"28030",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28030",
+    "eurostat:population":2736,
+    "eurostat:population_year":2020,
     "geom:area":0.002366,
-    "geom:area_square_m":22129398.697572,
+    "geom:area_square_m":22129398.697571,
     "geom:bbox":"-3.65042343,40.84047767,-3.57101115,40.8887357",
     "geom:latitude":40.862849,
     "geom:longitude":-3.613211,
@@ -87,6 +99,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -95,6 +109,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28030",
+        "eurostat:nuts_2021_id":"28030",
         "gn:id":6359256,
         "gp:id":12687975,
         "qs_pg:id":103385
@@ -103,7 +119,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"227c7644443c26606fb1a3c5d448bd14",
+    "wof:geomhash":"23f0e9529b5aba504479491548878af4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,10 +130,12 @@
         }
     ],
     "wof:id":404338753,
-    "wof:lastmodified":1582361431,
+    "wof:lastmodified":1684352381,
     "wof:name":"La Cabrera",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":2736,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

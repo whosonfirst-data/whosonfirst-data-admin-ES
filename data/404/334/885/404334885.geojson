@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17159,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17159",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Feliu de Buixalleu",
+    "eurostat:nuts_2021_id":"17159",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17159",
+    "eurostat:population":797,
+    "eurostat:population_year":2020,
     "geom:area":0.006728,
-    "geom:area_square_m":62037182.53615,
+    "geom:area_square_m":62037148.085807,
     "geom:bbox":"2.53434,41.724472,2.633691,41.836302",
     "geom:latitude":41.78114,
     "geom:longitude":2.587011,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17159",
         "esp-icgc:la_lc":"017159",
+        "eurostat:nuts_2021_id":"17159",
         "gn:id":6534122,
         "gp:id":12693835,
         "qs_pg:id":1164942
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"520a29404729ffba559d34d7ee4c194a",
+    "wof:geomhash":"0e4ba2014908561cfaa4fb496111ea00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404334885,
-    "wof:lastmodified":1669903052,
+    "wof:lastmodified":1684352314,
     "wof:name":"Sant Feliu de Buixalleu",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":797,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

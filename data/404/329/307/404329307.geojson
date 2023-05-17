@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Benferri",
+    "eurostat:nuts_2021_id":"03025",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03025",
+    "eurostat:population":1965,
+    "eurostat:population_year":2020,
     "geom:area":0.001271,
     "geom:area_square_m":12355251.723238,
     "geom:bbox":"-1.00881209,38.13131574,-0.94932857,38.17391497",
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03025",
+        "eurostat:nuts_2021_id":"03025",
         "gn:id":6355401,
         "gp:id":12695290,
         "qs_pg:id":1023754
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2307827aca5d90a8b2dbeaeb7cf338b8",
+    "wof:geomhash":"c2ea4a724874de36035070e5e1d7bf65",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404329307,
-    "wof:lastmodified":1582361786,
+    "wof:lastmodified":1684352207,
     "wof:name":"Benferri",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":1965,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

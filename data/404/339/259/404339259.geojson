@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_29075",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nerja",
+    "eurostat:nuts_2021_id":"29075",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES617",
+    "eurostat:nuts_2021_level_lau":"29075",
+    "eurostat:population":21144,
+    "eurostat:population_year":2020,
     "geom:area":0.008594,
-    "geom:area_square_m":85106447.567647,
+    "geom:area_square_m":85106447.567644,
     "geom:bbox":"-3.91351361,36.73765084,-3.76596711,36.84183737",
     "geom:latitude":36.785857,
     "geom:longitude":-3.830015,
@@ -144,6 +156,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -152,6 +166,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_29075",
+        "eurostat:nuts_2021_id":"29075",
         "gn:id":6359480,
         "gp:id":12689264,
         "qs_pg:id":905436
@@ -160,7 +176,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ea13f992c73c036b1d8f0a8930e1a68b",
+    "wof:geomhash":"9fedc4dddb406b11a2d8b8b89c0afb8f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -171,10 +187,12 @@
         }
     ],
     "wof:id":404339259,
-    "wof:lastmodified":1582361585,
+    "wof:lastmodified":1684352391,
     "wof:name":"Nerja",
     "wof:parent_id":85682787,
     "wof:placetype":"localadmin",
+    "wof:population":21144,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

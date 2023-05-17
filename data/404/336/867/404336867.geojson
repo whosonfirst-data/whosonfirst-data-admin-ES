@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22243",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valle de Bardaj\u00ed",
+    "eurostat:nuts_2021_id":"22243",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22243",
+    "eurostat:population":40,
+    "eurostat:population_year":2020,
     "geom:area":0.004975,
-    "geom:area_square_m":45406195.712108,
+    "geom:area_square_m":45406195.712109,
     "geom:bbox":"0.41024471,42.38844032,0.52295159,42.46071313",
     "geom:latitude":42.429537,
     "geom:longitude":0.46323,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_22243",
+        "eurostat:nuts_2021_id":"22243"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"5404134c963407b1cbe9dc34cd2b4295",
+    "wof:geomhash":"a9ddf5795eca6a744eba5170921f31cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404336867,
-    "wof:lastmodified":1566589693,
+    "wof:lastmodified":1684352344,
     "wof:name":"Valle De Bardaj\u00ed",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":40,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

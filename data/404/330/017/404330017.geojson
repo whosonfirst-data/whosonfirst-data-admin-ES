@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05112",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Losar del Barco, El",
+    "eurostat:nuts_2021_id":"05112",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05112",
+    "eurostat:population":107,
+    "eurostat:population_year":2020,
     "geom:area":0.002073,
-    "geom:area_square_m":19518195.123486,
+    "geom:area_square_m":19518195.123487,
     "geom:bbox":"-5.57216584,40.36980584,-5.50383308,40.42802895",
     "geom:latitude":40.397159,
     "geom:longitude":-5.534761,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05112",
+        "eurostat:nuts_2021_id":"05112",
         "gn:id":6355715,
         "qs_pg:id":621540
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fb5a86d241f772251a544c68157473d0",
+    "wof:geomhash":"30ebda0e5aa7e7d9ed91d7418b7d8cc0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404330017,
-    "wof:lastmodified":1582361537,
+    "wof:lastmodified":1684352218,
     "wof:name":"El Losar Del Barco",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":107,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

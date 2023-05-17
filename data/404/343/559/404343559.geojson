@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43074,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43074",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lloren\u00e7 del Pened\u00e8s",
+    "eurostat:nuts_2021_id":"43074",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43074",
+    "eurostat:population":2395,
+    "eurostat:population_year":2020,
     "geom:area":0.000504,
-    "geom:area_square_m":4684968.243726,
+    "geom:area_square_m":4685001.302389,
     "geom:bbox":"1.527196,41.274208,1.567228,41.298153",
     "geom:latitude":41.285292,
     "geom:longitude":1.544666,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43074",
         "esp-icgc:la_lc":"043074",
+        "eurostat:nuts_2021_id":"43074",
         "gn:id":6361317,
         "gp:id":12694212,
         "qs_pg:id":907186
@@ -67,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"beeb0185e35fafd51bda2340bbc4172b",
+    "wof:geomhash":"9efb5bb1b41e989bf0405fef604b202c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404343559,
-    "wof:lastmodified":1669903060,
+    "wof:lastmodified":1684352457,
     "wof:name":"Lloren\u00e7 del Pened\u00e8s",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":2395,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

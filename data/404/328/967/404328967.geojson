@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_01020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kuartango",
+    "eurostat:nuts_2021_id":"01020",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES211",
+    "eurostat:nuts_2021_level_lau":"01020",
+    "eurostat:population":385,
+    "eurostat:population_year":2020,
     "geom:area":0.0093,
-    "geom:area_square_m":84246244.405902,
+    "geom:area_square_m":84246244.405903,
     "geom:bbox":"-3.01644521,42.83366746,-2.85627049,42.93880504",
     "geom:latitude":42.895785,
     "geom:longitude":-2.93506,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_01020",
+        "eurostat:nuts_2021_id":"01020",
         "gn:id":6355258,
         "gp:id":12695031,
         "qs_pg:id":48270
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"356fe97b4ba2f423751150e3f520b956",
+    "wof:geomhash":"d94bb305132e8b86425d7c6fd40ec0e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404328967,
-    "wof:lastmodified":1582361842,
+    "wof:lastmodified":1684352202,
     "wof:name":"Kuartango",
     "wof:parent_id":85682615,
     "wof:placetype":"localadmin",
+    "wof:population":385,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19327",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Yebra",
+    "eurostat:nuts_2021_id":"19327",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19327",
+    "eurostat:population":453,
+    "eurostat:population_year":2020,
     "geom:area":0.005988,
-    "geom:area_square_m":56424628.659288,
+    "geom:area_square_m":56424628.659289,
     "geom:bbox":"-3.03082759,40.29476999,-2.88781444,40.3933905",
     "geom:latitude":40.351288,
     "geom:longitude":-2.957086,
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19327",
+        "eurostat:nuts_2021_id":"19327",
         "gn:id":6358084,
         "gp:id":12690915,
         "qs_pg:id":46011
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ab8951238abba3e04fc4467e2849ac6d",
+    "wof:geomhash":"2ad6e1be350545e42948086cb3751604",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404336063,
-    "wof:lastmodified":1582361465,
+    "wof:lastmodified":1684352333,
     "wof:name":"Yebra",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":453,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

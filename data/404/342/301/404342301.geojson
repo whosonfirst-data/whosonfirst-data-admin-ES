@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aldehuela del Codonal",
+    "eurostat:nuts_2021_id":"40015",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40015",
+    "eurostat:population":23,
+    "eurostat:population_year":2020,
     "geom:area":0.001437,
-    "geom:area_square_m":13400589.866699,
+    "geom:area_square_m":13400589.8667,
     "geom:bbox":"-4.56813108,41.0271653,-4.50882481,41.06953711",
     "geom:latitude":41.052056,
     "geom:longitude":-4.540077,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_40015",
+        "eurostat:nuts_2021_id":"40015",
         "gn:id":6360760,
         "gp:id":12692525,
         "qs_pg:id":384540
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0dca2db8cd5fe4387e2b6b9f801d86e9",
+    "wof:geomhash":"105e6fd9f12e0814ae29aec30ad0086a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404342301,
-    "wof:lastmodified":1582361807,
+    "wof:lastmodified":1684352438,
     "wof:name":"Aldehuela Del Codonal",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":23,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

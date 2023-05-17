@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19188",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mochales",
+    "eurostat:nuts_2021_id":"19188",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19188",
+    "eurostat:population":40,
+    "eurostat:population_year":2020,
     "geom:area":0.003464,
-    "geom:area_square_m":32281713.969832,
+    "geom:area_square_m":32281713.969831,
     "geom:bbox":"-2.06562217,41.05616322,-1.97926295,41.12940993",
     "geom:latitude":41.09553,
     "geom:longitude":-2.030501,
@@ -96,6 +108,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -103,9 +117,12 @@
         404227375
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_19188",
+        "eurostat:nuts_2021_id":"19188"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"5bbed9a9bfd6c88c2df8eb9eecf23deb",
+    "wof:geomhash":"38dd99c46ed4a267a0e1820a20352454",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +133,12 @@
         }
     ],
     "wof:id":404335783,
-    "wof:lastmodified":1566590579,
+    "wof:lastmodified":1684352330,
     "wof:name":"Mochales",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":40,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

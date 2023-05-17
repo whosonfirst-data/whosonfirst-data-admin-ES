@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Agres",
+    "eurostat:nuts_2021_id":"03003",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03003",
+    "eurostat:population":564,
+    "eurostat:population_year":2020,
     "geom:area":0.002679,
-    "geom:area_square_m":25818324.007644,
+    "geom:area_square_m":25818324.007643,
     "geom:bbox":"-0.54826151,38.75523105,-0.47281388,38.81058178",
     "geom:latitude":38.786915,
     "geom:longitude":-0.511932,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03003",
+        "eurostat:nuts_2021_id":"03003",
         "gn:id":6355379,
         "gp:id":12695268,
         "qs_pg:id":1317303
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"36d0d4afe82ec3bd6dac614dbe89f9bd",
+    "wof:geomhash":"99ea486834bde09399d63381fb17ea9e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404329255,
-    "wof:lastmodified":1582361802,
+    "wof:lastmodified":1684352207,
     "wof:name":"Agres",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":564,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

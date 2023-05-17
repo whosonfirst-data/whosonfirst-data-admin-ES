@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43126,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43126",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Riera de Gai\u00e0, La",
+    "eurostat:nuts_2021_id":"43126",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43126",
+    "eurostat:population":1742,
+    "eurostat:population_year":2020,
     "geom:area":0.000941,
-    "geom:area_square_m":8756961.529066,
+    "geom:area_square_m":8756874.939569,
     "geom:bbox":"1.329341,41.146427,1.378692,41.177285",
     "geom:latitude":41.163651,
     "geom:longitude":1.355769,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43126",
         "esp-icgc:la_lc":"043126",
+        "eurostat:nuts_2021_id":"43126",
         "gn:id":6361368,
         "gp:id":12694263,
         "qs_pg:id":1198187
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"5aebafe54bb1b825f029d964e465680c",
+    "wof:geomhash":"18ffc7fdbbbd48ccc5ce05de31c3e8c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404343673,
-    "wof:lastmodified":1669903062,
+    "wof:lastmodified":1684352460,
     "wof:name":"La Riera de Gai\u00e0",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":1742,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

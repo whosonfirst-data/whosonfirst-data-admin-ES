@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09905",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valle de Sedano",
+    "eurostat:nuts_2021_id":"09905",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09905",
+    "eurostat:population":421,
+    "eurostat:population_year":2020,
     "geom:area":0.029026,
-    "geom:area_square_m":263637442.373903,
+    "geom:area_square_m":263637442.373907,
     "geom:bbox":"-3.86710348,42.60622606,-3.61427025,42.87517331",
     "geom:latitude":42.731422,
     "geom:longitude":-3.744074,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09905",
+        "eurostat:nuts_2021_id":"09905",
         "gp:id":12691690,
         "qs_pg:id":1307420
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"96b2f0708f52e21dfa1732b0b4bd8cdd",
+    "wof:geomhash":"3fedfe787c27320ae06c5c35f1c43773",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404332503,
-    "wof:lastmodified":1582361678,
+    "wof:lastmodified":1684352265,
     "wof:name":"Valle De Sedano",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":421,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05107",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hurtumpascual",
+    "eurostat:nuts_2021_id":"05107",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05107",
+    "eurostat:population":48,
+    "eurostat:population_year":2020,
     "geom:area":0.001982,
-    "geom:area_square_m":18589055.334325,
+    "geom:area_square_m":18589055.334324,
     "geom:bbox":"-5.13709885,40.65486392,-5.07079396,40.7049866",
     "geom:latitude":40.680475,
     "geom:longitude":-5.105507,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05107",
+        "eurostat:nuts_2021_id":"05107",
         "gn:id":6355711,
         "gp:id":12691220,
         "qs_pg:id":265296
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1e4680dc7fc62e378219f17f8f543fd4",
+    "wof:geomhash":"097b75769692bd887e3d630ee0a3153f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404330007,
-    "wof:lastmodified":1582361525,
+    "wof:lastmodified":1684352218,
     "wof:name":"Hurtumpascual",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":48,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

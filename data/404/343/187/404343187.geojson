@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Losilla, La",
+    "eurostat:nuts_2021_id":"42106",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42106",
+    "eurostat:population":13,
+    "eurostat:population_year":2020,
     "geom:area":0.000857,
-    "geom:area_square_m":7887613.480329,
+    "geom:area_square_m":7887613.48033,
     "geom:bbox":"-2.29625064,41.85458048,-2.24568992,41.88678786",
     "geom:latitude":41.872388,
     "geom:longitude":-2.270248,
@@ -168,6 +180,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -176,6 +190,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42106",
+        "eurostat:nuts_2021_id":"42106",
         "gn:id":6361152,
         "qs_pg:id":621890
     },
@@ -183,7 +199,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1b2348a9ec2410006ab6f3273613e1a4",
+    "wof:geomhash":"db74bb0437dabde89a2a613f99f256ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -194,10 +210,12 @@
         }
     ],
     "wof:id":404343187,
-    "wof:lastmodified":1582361874,
+    "wof:lastmodified":1684352448,
     "wof:name":"La Losilla",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":13,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

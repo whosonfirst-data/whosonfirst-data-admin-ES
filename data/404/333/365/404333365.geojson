@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12124",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vall d'Alba",
+    "eurostat:nuts_2021_id":"12124",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12124",
+    "eurostat:population":2856,
+    "eurostat:population_year":2020,
     "geom:area":0.005595,
-    "geom:area_square_m":52860395.296254,
+    "geom:area_square_m":52860395.296253,
     "geom:bbox":"-0.08577813,40.14607703,0.0275853,40.21535291",
     "geom:latitude":40.182117,
     "geom:longitude":-0.029332,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12124",
+        "eurostat:nuts_2021_id":"12124",
         "gn:id":6357074,
         "gp:id":12695522,
         "qs_pg:id":343379
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"30f931e634b22b52eef16465059260a2",
+    "wof:geomhash":"a75a752e3e765e902de882d4d0ccbb32",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404333365,
-    "wof:lastmodified":1582361759,
+    "wof:lastmodified":1684352277,
     "wof:name":"Vall D'Alba",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":2856,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

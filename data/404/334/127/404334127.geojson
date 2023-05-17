@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ca\u00f1averuelas",
+    "eurostat:nuts_2021_id":"16051",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16051",
+    "eurostat:population":126,
+    "eurostat:population_year":2020,
     "geom:area":0.003562,
     "geom:area_square_m":33535097.220788,
     "geom:bbox":"-2.70401626,40.38095203,-2.57997201,40.44944046",
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16051",
+        "eurostat:nuts_2021_id":"16051",
         "gn:id":6357408,
         "gp:id":12690446,
         "qs_pg:id":1146939
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b6b38fb0d666d442ccbefeb74b77db21",
+    "wof:geomhash":"d6640929ca15506dc0f3dc4778f5aef4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404334127,
-    "wof:lastmodified":1582361733,
+    "wof:lastmodified":1684352293,
     "wof:name":"Ca\u00f1averuelas",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":126,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

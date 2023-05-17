@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8058,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08058",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castellet i la Gornal",
+    "eurostat:nuts_2021_id":"08058",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08058",
+    "eurostat:population":2382,
+    "eurostat:population_year":2020,
     "geom:area":0.005041,
-    "geom:area_square_m":46847323.337864,
+    "geom:area_square_m":46847439.331856,
     "geom:bbox":"1.570118,41.222593,1.693487,41.314133",
     "geom:latitude":41.267527,
     "geom:longitude":1.633898,
@@ -68,6 +80,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -76,7 +90,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08058",
         "esp-icgc:la_lc":"08058",
+        "eurostat:nuts_2021_id":"08058",
         "gn:id":6356090,
         "gp:id":12693435,
         "qs_pg:id":1252569
@@ -86,7 +102,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"8a31f6f2cfcdd7837689c32f6e947f65",
+    "wof:geomhash":"68b52624273ab48cd7e72989608d81c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,10 +113,12 @@
         }
     ],
     "wof:id":404331009,
-    "wof:lastmodified":1669903002,
+    "wof:lastmodified":1684352238,
     "wof:name":"Castellet i la Gornal",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":2382,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

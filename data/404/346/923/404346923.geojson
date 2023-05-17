@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50094",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Daroca",
+    "eurostat:nuts_2021_id":"50094",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50094",
+    "eurostat:population":1965,
+    "eurostat:population_year":2020,
     "geom:area":0.00558,
-    "geom:area_square_m":51981361.875032,
+    "geom:area_square_m":51981361.875033,
     "geom:bbox":"-1.47459611,41.07142231,-1.35454505,41.15524138",
     "geom:latitude":41.113985,
     "geom:longitude":-1.417613,
@@ -132,6 +144,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -140,6 +154,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50094",
+        "eurostat:nuts_2021_id":"50094",
         "gn:id":6362787,
         "gp:id":12689927,
         "qs_pg:id":539822
@@ -148,7 +164,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"75ff4a43957da65d6be3c1b247598391",
+    "wof:geomhash":"92b0e6af0ac449dc6e6fe1dedc6cf35f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,10 +175,12 @@
         }
     ],
     "wof:id":404346923,
-    "wof:lastmodified":1582361613,
+    "wof:lastmodified":1684352505,
     "wof:name":"Daroca",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":1965,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

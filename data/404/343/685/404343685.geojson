@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43131,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43131",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Roda de Ber\u00e0",
+    "eurostat:nuts_2021_id":"43131",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43131",
+    "eurostat:population":6785,
+    "eurostat:population_year":2020,
     "geom:area":0.001772,
-    "geom:area_square_m":16487230.2109,
+    "geom:area_square_m":16487222.056796,
     "geom:bbox":"1.430385,41.16328,1.495662,41.208533",
     "geom:latitude":41.186146,
     "geom:longitude":1.46127,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43131",
         "esp-icgc:la_lc":"043131",
+        "eurostat:nuts_2021_id":"43131",
         "gn:id":6361373,
         "gp:id":12694268,
         "qs_pg:id":1252356
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"f863a853e74237877281919acf8bdef5",
+    "wof:geomhash":"6dc270e1f66d9560692e988d1fc6b4eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404343685,
-    "wof:lastmodified":1669903067,
+    "wof:lastmodified":1684352460,
     "wof:name":"Roda de Ber\u00e0",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":6785,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

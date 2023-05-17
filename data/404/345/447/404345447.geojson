@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bocos de Duero",
+    "eurostat:nuts_2021_id":"47022",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47022",
+    "eurostat:population":72,
+    "eurostat:population_year":2020,
     "geom:area":0.00067,
     "geom:area_square_m":6191130.534464,
     "geom:bbox":"-4.09688434,41.60495759,-4.02871436,41.63428749",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_47022",
+        "eurostat:nuts_2021_id":"47022",
         "gn:id":6362150,
         "gp:id":12692924,
         "qs_pg:id":1019403
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"161618e0c4a2784fea79fd1d9363d7fe",
+    "wof:geomhash":"eb0bbb35878b2585285c27a20262c018",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404345447,
-    "wof:lastmodified":1582361827,
+    "wof:lastmodified":1684352486,
     "wof:name":"Bocos De Duero",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":72,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

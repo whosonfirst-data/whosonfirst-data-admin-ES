@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_39001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alfoz de Lloredo",
+    "eurostat:nuts_2021_id":"39001",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES13",
+    "eurostat:nuts_2021_level_3":"ES130",
+    "eurostat:nuts_2021_level_lau":"39001",
+    "eurostat:population":2394,
+    "eurostat:population_year":2020,
     "geom:area":0.005152,
     "geom:area_square_m":46305779.211727,
     "geom:bbox":"-4.26508838,43.34162045,-4.12660954,43.41412894",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_39001",
+        "eurostat:nuts_2021_id":"39001",
         "gp:id":12688522,
         "qs_pg:id":1170598
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"00e11a55da42ec651a109aefb6f53abb",
+    "wof:geomhash":"e4fa55e7394323c2623b46838526311c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404342041,
-    "wof:lastmodified":1582361808,
+    "wof:lastmodified":1684352434,
     "wof:name":"Alfoz De Lloredo",
     "wof:parent_id":85682833,
     "wof:placetype":"localadmin",
+    "wof:population":2394,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

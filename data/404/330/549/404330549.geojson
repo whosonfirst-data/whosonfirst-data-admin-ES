@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06086",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montemol\u00edn",
+    "eurostat:nuts_2021_id":"06086",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06086",
+    "eurostat:population":1361,
+    "eurostat:population_year":2020,
     "geom:area":0.020829,
-    "geom:area_square_m":202597657.402403,
+    "geom:area_square_m":202597657.402399,
     "geom:bbox":"-6.281927,37.97215729,-6.0313744,38.21999603",
     "geom:latitude":38.129542,
     "geom:longitude":-6.166847,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06086",
+        "eurostat:nuts_2021_id":"06086",
         "gn:id":6355951,
         "gp:id":12694405,
         "qs_pg:id":47890
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"45aa71385e169638ae53bfd55232f664",
+    "wof:geomhash":"7dd306e4da675c4b2ce54c407e0a0477",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404330549,
-    "wof:lastmodified":1582361541,
+    "wof:lastmodified":1684352226,
     "wof:name":"Montemol\u00edn",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":1361,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

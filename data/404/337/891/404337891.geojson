@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25138,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25138",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montgai",
+    "eurostat:nuts_2021_id":"25138",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25138",
+    "eurostat:population":643,
+    "eurostat:population_year":2020,
     "geom:area":0.003156,
-    "geom:area_square_m":29092007.211991,
+    "geom:area_square_m":29092007.211992,
     "geom:bbox":"0.922510598365,41.7668124533,1.01197992441,41.8347390158",
     "geom:latitude":41.796524,
     "geom:longitude":0.971417,
@@ -112,6 +124,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -120,7 +134,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25138",
         "esp-icgc:la_lc":"025138",
+        "eurostat:nuts_2021_id":"25138",
         "gn:id":6358880,
         "gp:id":12694033,
         "qs_pg:id":1149574
@@ -130,7 +146,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"cb73320cb36396f134062927f1c73158",
+    "wof:geomhash":"cd6d7a05c65364df798118dfda986fc8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404337891,
-    "wof:lastmodified":1582361572,
+    "wof:lastmodified":1684352363,
     "wof:name":"Montgai",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":643,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

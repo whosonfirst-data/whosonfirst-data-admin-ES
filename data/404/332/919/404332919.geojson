@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10183",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tornavacas",
+    "eurostat:nuts_2021_id":"10183",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10183",
+    "eurostat:population":1098,
+    "eurostat:population_year":2020,
     "geom:area":0.008107,
-    "geom:area_square_m":76517416.243748,
+    "geom:area_square_m":76517416.243751,
     "geom:bbox":"-5.74822166,40.1738638,-5.61004024,40.29412326",
     "geom:latitude":40.240548,
     "geom:longitude":-5.681846,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10183",
+        "eurostat:nuts_2021_id":"10183",
         "gn:id":6356878,
         "gp:id":12694665,
         "qs_pg:id":1102890
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fa504cd9b67df178cd639133858c30d5",
+    "wof:geomhash":"d0073415f33646a542816bd0678d87af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404332919,
-    "wof:lastmodified":1582361692,
+    "wof:lastmodified":1684352271,
     "wof:name":"Tornavacas",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":1098,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

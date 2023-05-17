@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_01021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Elburgo / Burgelu",
+    "eurostat:nuts_2021_id":"01021",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES211",
+    "eurostat:nuts_2021_level_lau":"01021",
+    "eurostat:population":608,
+    "eurostat:population_year":2020,
     "geom:area":0.003535,
-    "geom:area_square_m":32040487.21131,
+    "geom:area_square_m":32040487.211309,
     "geom:bbox":"-2.58027882,42.78412534,-2.51116308,42.95862318",
     "geom:latitude":42.865051,
     "geom:longitude":-2.547204,
@@ -111,6 +123,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -118,9 +132,12 @@
         404227393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_01021",
+        "eurostat:nuts_2021_id":"01021"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"b8045c22946653631361e88ff3d30967",
+    "wof:geomhash":"fe5ac8d2d015320ccf64855fa7bd7cb2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +148,12 @@
         }
     ],
     "wof:id":404328973,
-    "wof:lastmodified":1566591061,
+    "wof:lastmodified":1684352202,
     "wof:name":"Elburgo/Burgelu",
     "wof:parent_id":85682615,
     "wof:placetype":"localadmin",
+    "wof:population":608,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

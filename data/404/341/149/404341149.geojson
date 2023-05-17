@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aldeaseca de la Frontera",
+    "eurostat:nuts_2021_id":"37022",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37022",
+    "eurostat:population":257,
+    "eurostat:population_year":2020,
     "geom:area":0.002598,
     "geom:area_square_m":24268839.393611,
     "geom:bbox":"-5.25227853,40.91528326,-5.17945762,40.96716099",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37022",
+        "eurostat:nuts_2021_id":"37022",
         "gn:id":6360280,
         "gp:id":12692171,
         "qs_pg:id":46622
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"81778198cfee5b3ca84fc06191c3072e",
+    "wof:geomhash":"6ca3970db8f2ace9c3ed7d344ec9c5a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404341149,
-    "wof:lastmodified":1582361643,
+    "wof:lastmodified":1684352421,
     "wof:name":"Aldeaseca De La Frontera",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":257,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

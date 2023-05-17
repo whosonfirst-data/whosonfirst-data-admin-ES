@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castroserrac\u00edn",
+    "eurostat:nuts_2021_id":"40051",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40051",
+    "eurostat:population":40,
+    "eurostat:population_year":2020,
     "geom:area":0.002267,
-    "geom:area_square_m":21025466.924791,
+    "geom:area_square_m":21025466.92479,
     "geom:bbox":"-3.83263389,41.37816534,-3.75907381,41.43024827",
     "geom:latitude":41.402432,
     "geom:longitude":-3.797178,
@@ -90,6 +102,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -97,9 +111,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_40051",
+        "eurostat:nuts_2021_id":"40051"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"46c7adc17ec0cb612677188db30058c7",
+    "wof:geomhash":"96af76500a0e0599049d11cee5890381",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,10 +127,12 @@
         }
     ],
     "wof:id":404342371,
-    "wof:lastmodified":1566590945,
+    "wof:lastmodified":1684352439,
     "wof:name":"Castroserrac\u00edn",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":40,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12029",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Benlloch",
+    "eurostat:nuts_2021_id":"12029",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12029",
+    "eurostat:population":1048,
+    "eurostat:population_year":2020,
     "geom:area":0.004604,
-    "geom:area_square_m":43477953.025061,
+    "geom:area_square_m":43477953.025058,
     "geom:bbox":"-0.01292829,40.18092262,0.15796528,40.24966905",
     "geom:latitude":40.207784,
     "geom:longitude":0.057617,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12029",
+        "eurostat:nuts_2021_id":"12029",
         "gn:id":6356986,
         "gp:id":12695433,
         "qs_pg:id":51878
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9b0b7c863ab97c09145833b536d244a8",
+    "wof:geomhash":"dc6b26f3672ce13523dc182d56025262",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404333167,
-    "wof:lastmodified":1582361760,
+    "wof:lastmodified":1684352275,
     "wof:name":"Benlloch",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":1048,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":17205,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17205",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ullastret",
+    "eurostat:nuts_2021_id":"17205",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17205",
+    "eurostat:population":274,
+    "eurostat:population_year":2020,
     "geom:area":0.001208,
     "geom:area_square_m":11099274.500068,
     "geom:bbox":"3.04122426216,41.9846428443,3.0983689593,42.0214994061",
@@ -127,6 +139,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -135,7 +149,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17205",
         "esp-icgc:la_lc":"017205",
+        "eurostat:nuts_2021_id":"17205",
         "gn:id":6534158,
         "gp:id":12693878,
         "qs_pg:id":1118834
@@ -145,7 +161,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7a25e9df777834eb6ef5671ca5a51ab0",
+    "wof:geomhash":"303a65111ecda9046cd39817b75dfa0c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404334987,
-    "wof:lastmodified":1582361752,
+    "wof:lastmodified":1684352318,
     "wof:name":"Ullastret",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":274,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_26083",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lagunilla del Jubera",
+    "eurostat:nuts_2021_id":"26083",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES23",
+    "eurostat:nuts_2021_level_3":"ES230",
+    "eurostat:nuts_2021_level_lau":"26083",
+    "eurostat:population":343,
+    "eurostat:population_year":2020,
     "geom:area":0.003746,
-    "geom:area_square_m":34244944.606145,
+    "geom:area_square_m":34244944.606146,
     "geom:bbox":"-2.40739586,42.28303277,-2.28513619,42.37497645",
     "geom:latitude":42.334141,
     "geom:longitude":-2.339422,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_26083",
+        "eurostat:nuts_2021_id":"26083",
         "gn:id":6359073,
         "gp:id":12687854,
         "qs_pg:id":44335
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2b67c1ca428f0f88233fd806d0654c50",
+    "wof:geomhash":"720e40b344aabe90a85bd8c806df6451",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404338325,
-    "wof:lastmodified":1582361443,
+    "wof:lastmodified":1684352374,
     "wof:name":"Lagunilla Del Jubera",
     "wof:parent_id":85682773,
     "wof:placetype":"localadmin",
+    "wof:population":343,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

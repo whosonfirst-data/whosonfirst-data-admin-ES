@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31144",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Larraun",
+    "eurostat:nuts_2021_id":"31144",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31144",
+    "eurostat:population":928,
+    "eurostat:population_year":2020,
     "geom:area":0.011822,
-    "geom:area_square_m":106913049.412152,
+    "geom:area_square_m":106913049.412151,
     "geom:bbox":"-1.98053758,42.93360967,-1.83178835,43.06675479",
     "geom:latitude":43.000247,
     "geom:longitude":-1.906333,
@@ -93,6 +105,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -100,9 +114,12 @@
         404227391
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_31144",
+        "eurostat:nuts_2021_id":"31144"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"33055620365321302afa1a39b2e32e01",
+    "wof:geomhash":"8364e0a3086b95c488090d53ab6154a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,10 +130,12 @@
         }
     ],
     "wof:id":404339779,
-    "wof:lastmodified":1566590107,
+    "wof:lastmodified":1684352398,
     "wof:name":"Larraun",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":928,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

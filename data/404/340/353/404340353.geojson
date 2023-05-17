@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_33033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lena",
+    "eurostat:nuts_2021_id":"33033",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES12",
+    "eurostat:nuts_2021_level_3":"ES120",
+    "eurostat:nuts_2021_level_lau":"33033",
+    "eurostat:population":10701,
+    "eurostat:population_year":2020,
     "geom:area":0.034872,
-    "geom:area_square_m":314981248.758645,
+    "geom:area_square_m":314981366.337578,
     "geom:bbox":"-5.961103,42.962615,-5.687541,43.203488",
     "geom:latitude":43.073167,
     "geom:longitude":-5.820944,
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_33033",
+        "eurostat:nuts_2021_id":"33033",
         "gn:id":3118547,
         "gp:id":12688476,
         "qs_pg:id":1197589
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ec477203849f64570b8eb7501ad4824d",
+    "wof:geomhash":"a359fcc7cd71b9507aa1f8091430bf4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404340353,
-    "wof:lastmodified":1636503322,
+    "wof:lastmodified":1684352406,
     "wof:name":"Lena",
     "wof:parent_id":85682805,
     "wof:placetype":"localadmin",
+    "wof:population":10701,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25092,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25092",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Floresta, La",
+    "eurostat:nuts_2021_id":"25092",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25092",
+    "eurostat:population":140,
+    "eurostat:population_year":2020,
     "geom:area":0.000605,
-    "geom:area_square_m":5607697.797168,
+    "geom:area_square_m":5607697.797167,
     "geom:bbox":"0.907183566898,41.4659697424,0.938963784831,41.5256943337",
     "geom:latitude":41.497288,
     "geom:longitude":0.924227,
@@ -67,6 +79,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -75,7 +89,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25092",
         "esp-icgc:la_lc":"025092",
+        "eurostat:nuts_2021_id":"25092",
         "gn:id":6358841,
         "gp:id":12693988,
         "qs_pg:id":1250817
@@ -85,7 +101,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"13eeeadd65a9dc3b0be29b8875df8b6d",
+    "wof:geomhash":"02c9678de95be88eef206f1cf0faafba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,10 +112,12 @@
         }
     ],
     "wof:id":404337801,
-    "wof:lastmodified":1582361573,
+    "wof:lastmodified":1684352360,
     "wof:name":"La Floresta",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":140,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

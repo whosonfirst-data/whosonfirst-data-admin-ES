@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44071",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castellote",
+    "eurostat:nuts_2021_id":"44071",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44071",
+    "eurostat:population":676,
+    "eurostat:population_year":2020,
     "geom:area":0.025078,
-    "geom:area_square_m":234902033.385145,
+    "geom:area_square_m":234902033.385146,
     "geom:bbox":"-0.49031255,40.6722093,-0.23356517,40.86256068",
     "geom:latitude":40.753352,
     "geom:longitude":-0.357776,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44071",
+        "eurostat:nuts_2021_id":"44071",
         "gn:id":6361492,
         "gp:id":12689661,
         "qs_pg:id":1197733
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a4824e6eaa992746bc1dc1ac3c137667",
+    "wof:geomhash":"8c877a71004d8c6efe38f69d93f311a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404343955,
-    "wof:lastmodified":1582361866,
+    "wof:lastmodified":1684352468,
     "wof:name":"Castellote",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":676,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

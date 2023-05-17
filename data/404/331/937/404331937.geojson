@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09172",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hu\u00e9rmeces",
+    "eurostat:nuts_2021_id":"09172",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09172",
+    "eurostat:population":161,
+    "eurostat:population_year":2020,
     "geom:area":0.005337,
-    "geom:area_square_m":48622490.407271,
+    "geom:area_square_m":48622490.40727,
     "geom:bbox":"-3.84850799,42.49959358,-3.7373659,42.58671361",
     "geom:latitude":42.542742,
     "geom:longitude":-3.789754,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09172",
+        "eurostat:nuts_2021_id":"09172",
         "gn:id":6356461,
         "gp:id":12691508,
         "qs_pg:id":1147655
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"77bfcf582f76b946d6d787a3bd94a4a9",
+    "wof:geomhash":"cbadb6e4432f41a417917b58e24e9972",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404331937,
-    "wof:lastmodified":1582361483,
+    "wof:lastmodified":1684352259,
     "wof:name":"Hu\u00e9rmeces",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":161,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_26034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Briones",
+    "eurostat:nuts_2021_id":"26034",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES23",
+    "eurostat:nuts_2021_level_3":"ES230",
+    "eurostat:nuts_2021_level_lau":"26034",
+    "eurostat:population":749,
+    "eurostat:population_year":2020,
     "geom:area":0.004132,
-    "geom:area_square_m":37658022.192784,
+    "geom:area_square_m":37658022.192783,
     "geom:bbox":"-2.82529086,42.4716995,-2.75566425,42.56958621",
     "geom:latitude":42.517311,
     "geom:longitude":-2.790923,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_26034",
+        "eurostat:nuts_2021_id":"26034",
         "gn:id":6359024,
         "gp:id":12687805,
         "qs_pg:id":1102400
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b89580e563eb1009951c76d212aa2c13",
+    "wof:geomhash":"61f15c09af0ef8c46d3fa5927c8f2e94",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404338215,
-    "wof:lastmodified":1582361448,
+    "wof:lastmodified":1684352373,
     "wof:name":"Briones",
     "wof:parent_id":85682773,
     "wof:placetype":"localadmin",
+    "wof:population":749,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

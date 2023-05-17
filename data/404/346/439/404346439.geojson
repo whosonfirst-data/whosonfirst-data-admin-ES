@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49137",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Navianos de Valverde",
+    "eurostat:nuts_2021_id":"49137",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49137",
+    "eurostat:population":174,
+    "eurostat:population_year":2020,
     "geom:area":0.001533,
     "geom:area_square_m":14096311.865206,
     "geom:bbox":"-5.83907549,41.9260713,-5.78681139,41.97476282",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_49137",
+        "eurostat:nuts_2021_id":"49137"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"c2bd56451c18e0792db8dd55fe59c688",
+    "wof:geomhash":"202ec2dff68e91b96ebdeadda95c3375",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404346439,
-    "wof:lastmodified":1566590237,
+    "wof:lastmodified":1684352499,
     "wof:name":"Navianos De Valverde",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":174,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

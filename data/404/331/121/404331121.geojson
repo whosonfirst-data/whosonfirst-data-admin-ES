@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8108,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08108",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lli\u00e7\u00e0 de Vall",
+    "eurostat:nuts_2021_id":"08108",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08108",
+    "eurostat:population":6497,
+    "eurostat:population_year":2020,
     "geom:area":0.001165,
-    "geom:area_square_m":10770401.351534,
+    "geom:area_square_m":10770387.007349,
     "geom:bbox":"2.20213,41.568307,2.262411,41.606778",
     "geom:latitude":41.588095,
     "geom:longitude":2.230893,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08108",
         "esp-icgc:la_lc":"08108",
+        "eurostat:nuts_2021_id":"08108",
         "gn:id":6356138,
         "gp:id":12693487,
         "qs_pg:id":1197872
@@ -67,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"05bcf85e485a3d47969d403d8002e781",
+    "wof:geomhash":"21083e21f3b48473065b04e8bcfd6d39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404331121,
-    "wof:lastmodified":1669903005,
+    "wof:lastmodified":1684352242,
     "wof:name":"Lli\u00e7\u00e0 de Vall",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":6497,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

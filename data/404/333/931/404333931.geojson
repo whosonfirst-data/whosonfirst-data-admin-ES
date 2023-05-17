@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15055",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Neda",
+    "eurostat:nuts_2021_id":"15055",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15055",
+    "eurostat:population":5023,
+    "eurostat:population_year":2020,
     "geom:area":0.002641,
-    "geom:area_square_m":23687403.74153,
+    "geom:area_square_m":23687403.741533,
     "geom:bbox":"-8.17006895,43.46792835,-8.08864324,43.53084772",
     "geom:latitude":43.49819,
     "geom:longitude":-8.126296,
@@ -84,6 +96,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -92,6 +106,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_15055",
+        "eurostat:nuts_2021_id":"15055",
         "gn:id":6357324,
         "gp:id":12694757,
         "qs_pg:id":248544
@@ -100,7 +116,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"408eebcd09c0a06a5485781b3f1fe3b4",
+    "wof:geomhash":"244eea35eac3e20f7c042e7e6285a12f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,10 +127,12 @@
         }
     ],
     "wof:id":404333931,
-    "wof:lastmodified":1582361758,
+    "wof:lastmodified":1684352289,
     "wof:name":"Neda",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":5023,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

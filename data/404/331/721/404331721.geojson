@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09062",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cabez\u00f3n de la Sierra",
+    "eurostat:nuts_2021_id":"09062",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09062",
+    "eurostat:population":40,
+    "eurostat:population_year":2020,
     "geom:area":0.002152,
-    "geom:area_square_m":19799866.627108,
+    "geom:area_square_m":19799866.627107,
     "geom:bbox":"-3.29261788,41.91073685,-3.1977302,41.95185761",
     "geom:latitude":41.932128,
     "geom:longitude":-3.241852,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09062",
+        "eurostat:nuts_2021_id":"09062",
         "gn:id":6356380,
         "gp:id":12691426,
         "qs_pg:id":46231
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"33b82e7de238892197add4b4d1984412",
+    "wof:geomhash":"e29c737179c80bdb461f145711d68180",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404331721,
-    "wof:lastmodified":1582361513,
+    "wof:lastmodified":1684352257,
     "wof:name":"Cabez\u00f3n De La Sierra",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":40,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

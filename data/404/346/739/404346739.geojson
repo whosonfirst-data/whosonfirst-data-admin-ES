@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Albeta",
+    "eurostat:nuts_2021_id":"50011",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50011",
+    "eurostat:population":134,
+    "eurostat:population_year":2020,
     "geom:area":0.000287,
     "geom:area_square_m":2649019.990144,
     "geom:bbox":"-1.51950414,41.81873513,-1.47993228,41.83132525",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50011",
+        "eurostat:nuts_2021_id":"50011",
         "gn:id":6362705,
         "gp:id":12689844,
         "qs_pg:id":496905
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"80f5bd42f98da42151a3f048eb2a59dd",
+    "wof:geomhash":"316f19aa880268d52e1f6f79fcd869b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404346739,
-    "wof:lastmodified":1582361607,
+    "wof:lastmodified":1684352502,
     "wof:name":"Albeta",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":134,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40099",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Honrubia de la Cuesta",
+    "eurostat:nuts_2021_id":"40099",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40099",
+    "eurostat:population":55,
+    "eurostat:population_year":2020,
     "geom:area":0.002244,
     "geom:area_square_m":20785971.16465,
     "geom:bbox":"-3.72852049,41.47081991,-3.680055,41.5345369",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_40099",
+        "eurostat:nuts_2021_id":"40099",
         "gn:id":6360832,
         "gp:id":12692599,
         "qs_pg:id":265339
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"98f79e3406f3b36b6eac4dcaa75b8411",
+    "wof:geomhash":"5147ef07ebcb3bf815386cb4537950f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404342463,
-    "wof:lastmodified":1582361811,
+    "wof:lastmodified":1684352439,
     "wof:name":"Honrubia De La Cuesta",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":55,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

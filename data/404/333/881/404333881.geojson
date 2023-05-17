@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dodro",
+    "eurostat:nuts_2021_id":"15033",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15033",
+    "eurostat:population":2750,
+    "eurostat:population_year":2020,
     "geom:area":0.00397,
-    "geom:area_square_m":36059670.840865,
+    "geom:area_square_m":36059670.840863,
     "geom:bbox":"-8.77462596,42.68841857,-8.65893622,42.75417652",
     "geom:latitude":42.722771,
     "geom:longitude":-8.720113,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_15033",
+        "eurostat:nuts_2021_id":"15033",
         "gn:id":6357303,
         "gp:id":12694735,
         "qs_pg:id":191317
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f7428a550060f6d887dae114adf558b5",
+    "wof:geomhash":"042e29910ffe104ca8199491efae9af9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404333881,
-    "wof:lastmodified":1582361764,
+    "wof:lastmodified":1684352287,
     "wof:name":"Dodro",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":2750,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

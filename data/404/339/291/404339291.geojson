@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_29090",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tolox",
+    "eurostat:nuts_2021_id":"29090",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES617",
+    "eurostat:nuts_2021_level_lau":"29090",
+    "eurostat:population":2136,
+    "eurostat:population_year":2020,
     "geom:area":0.00952,
-    "geom:area_square_m":94413788.419826,
+    "geom:area_square_m":94413788.419823,
     "geom:bbox":"-5.03070942,36.6348179,-4.84617369,36.71628546",
     "geom:latitude":36.677747,
     "geom:longitude":-4.941973,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_29090",
+        "eurostat:nuts_2021_id":"29090",
         "gn:id":6359494,
         "gp:id":12689278,
         "qs_pg:id":1059714
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e58b4ee3537a400780882e32e18aa84f",
+    "wof:geomhash":"71839dbf5c8a19b59f487e95c519680a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404339291,
-    "wof:lastmodified":1582361595,
+    "wof:lastmodified":1684352391,
     "wof:name":"Tolox",
     "wof:parent_id":85682787,
     "wof:placetype":"localadmin",
+    "wof:population":2136,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

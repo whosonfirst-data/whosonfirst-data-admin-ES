@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10167",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Cruz de Paniagua",
+    "eurostat:nuts_2021_id":"10167",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10167",
+    "eurostat:population":316,
+    "eurostat:population_year":2020,
     "geom:area":0.008866,
-    "geom:area_square_m":83721132.905,
+    "geom:area_square_m":83721132.904998,
     "geom:bbox":"-6.38575919,40.14868765,-6.26385457,40.28252145",
     "geom:latitude":40.207369,
     "geom:longitude":-6.329945,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227383
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_10167",
+        "eurostat:nuts_2021_id":"10167"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"50002a7ce172c290921bbdf8f3f28e97",
+    "wof:geomhash":"e38b19addb513811b918aca65a864fc3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404332883,
-    "wof:lastmodified":1566590518,
+    "wof:lastmodified":1684352270,
     "wof:name":"Santa Cruz De Paniagua",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":316,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

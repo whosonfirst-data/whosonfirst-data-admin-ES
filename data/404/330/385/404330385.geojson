@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Atalaya",
+    "eurostat:nuts_2021_id":"06013",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06013",
+    "eurostat:population":294,
+    "eurostat:population_year":2020,
     "geom:area":0.002337,
-    "geom:area_square_m":22663989.60329,
+    "geom:area_square_m":22663989.603288,
     "geom:bbox":"-6.51253362,38.30431528,-6.45667903,38.37574015",
     "geom:latitude":38.338986,
     "geom:longitude":-6.487778,
@@ -63,6 +75,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -71,6 +85,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06013",
+        "eurostat:nuts_2021_id":"06013",
         "gn:id":6355878,
         "gp:id":12694332,
         "qs_pg:id":47837
@@ -79,7 +95,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"03c0d449946a55e6a0d254c3a1deb27d",
+    "wof:geomhash":"51134758f4ef6e4a40c6cd511bf1039c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,10 +106,12 @@
         }
     ],
     "wof:id":404330385,
-    "wof:lastmodified":1582361530,
+    "wof:lastmodified":1684352223,
     "wof:name":"Atalaya",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":294,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

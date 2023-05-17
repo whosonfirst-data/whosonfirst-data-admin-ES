@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_21057",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Paymogo",
+    "eurostat:nuts_2021_id":"21057",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES615",
+    "eurostat:nuts_2021_level_lau":"21057",
+    "eurostat:population":1162,
+    "eurostat:population_year":2020,
     "geom:area":0.021822,
-    "geom:area_square_m":213361147.734768,
+    "geom:area_square_m":213361147.734764,
     "geom:bbox":"-7.44010323,37.67984167,-7.20085937,37.84291323",
     "geom:latitude":37.746803,
     "geom:longitude":-7.31651,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_21057",
+        "eurostat:nuts_2021_id":"21057",
         "gn:id":6358233,
         "gp:id":12689071,
         "qs_pg:id":45098
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f124bc4a6eecb130af61fe0c17fd5725",
+    "wof:geomhash":"02d6ae61d3a8f13c7e154965329220fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404336409,
-    "wof:lastmodified":1582361465,
+    "wof:lastmodified":1684352338,
     "wof:name":"Paymogo",
     "wof:parent_id":85682749,
     "wof:placetype":"localadmin",
+    "wof:population":1162,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

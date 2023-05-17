@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09228",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Moradillo de Roa",
+    "eurostat:nuts_2021_id":"09228",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09228",
+    "eurostat:population":171,
+    "eurostat:population_year":2020,
     "geom:area":0.00149,
     "geom:area_square_m":13787873.231311,
     "geom:bbox":"-3.8153048,41.52247551,-3.76458644,41.56910011",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09228",
+        "eurostat:nuts_2021_id":"09228",
         "gn:id":6356505,
         "gp:id":12691554,
         "qs_pg:id":259128
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c23177fc9e20e5cf2e4de7a162166ac7",
+    "wof:geomhash":"beeeef3aba489d5347fd6a22e32e8284",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332039,
-    "wof:lastmodified":1582361682,
+    "wof:lastmodified":1684352260,
     "wof:name":"Moradillo De Roa",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":171,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

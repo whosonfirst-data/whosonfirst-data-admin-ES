@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_34099",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Manquillos",
+    "eurostat:nuts_2021_id":"34099",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES414",
+    "eurostat:nuts_2021_level_lau":"34099",
+    "eurostat:population":61,
+    "eurostat:population_year":2020,
     "geom:area":0.001373,
     "geom:area_square_m":12576016.192585,
     "geom:bbox":"-4.59242656,42.18919982,-4.54009561,42.23494197",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_34099",
+        "eurostat:nuts_2021_id":"34099",
         "gn:id":6360057,
         "gp:id":12692035,
         "qs_pg:id":1148217
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dff235e9499cb2a4e4d952c0675b9029",
+    "wof:geomhash":"b521926905f128891effaeaa131cdd9b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404340629,
-    "wof:lastmodified":1582361650,
+    "wof:lastmodified":1684352410,
     "wof:name":"Manquillos",
     "wof:parent_id":85682815,
     "wof:placetype":"localadmin",
+    "wof:population":61,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

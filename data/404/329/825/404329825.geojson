@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aveinte",
+    "eurostat:nuts_2021_id":"05017",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05017",
+    "eurostat:population":83,
+    "eurostat:population_year":2020,
     "geom:area":0.00137,
-    "geom:area_square_m":12826412.128281,
+    "geom:area_square_m":12826412.12828,
     "geom:bbox":"-4.85620419,40.76253758,-4.80866107,40.81125318",
     "geom:latitude":40.784545,
     "geom:longitude":-4.832952,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05017",
+        "eurostat:nuts_2021_id":"05017",
         "gn:id":6355630,
         "gp:id":12691138,
         "qs_pg:id":46124
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"10a6a7ebd808553c55608b553bee3555",
+    "wof:geomhash":"3313a6e03500e57dac6679e3aee0dc62",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404329825,
-    "wof:lastmodified":1582361799,
+    "wof:lastmodified":1684352216,
     "wof:name":"Aveinte",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":83,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

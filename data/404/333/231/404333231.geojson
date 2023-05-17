@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12063",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fuente la Reina",
+    "eurostat:nuts_2021_id":"12063",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12063",
+    "eurostat:population":51,
+    "eurostat:population_year":2020,
     "geom:area":0.000792,
     "geom:area_square_m":7492201.285215,
     "geom:bbox":"-0.62911834,40.03723753,-0.57828682,40.07623214",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12063",
+        "eurostat:nuts_2021_id":"12063",
         "gn:id":6357015,
         "gp:id":12695463,
         "qs_pg:id":48479
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"199fb9eb87d374ee92aea7e18328807d",
+    "wof:geomhash":"87e0790eed9937c7aca82456ad0f00cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404333231,
-    "wof:lastmodified":1582361779,
+    "wof:lastmodified":1684352276,
     "wof:name":"Fuente La Reina",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":51,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

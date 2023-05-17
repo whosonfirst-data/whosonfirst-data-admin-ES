@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31240",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Urdiain",
+    "eurostat:nuts_2021_id":"31240",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31240",
+    "eurostat:population":661,
+    "eurostat:population_year":2020,
     "geom:area":0.001674,
     "geom:area_square_m":15162030.149509,
     "geom:bbox":"-2.17386346,42.87088598,-2.12112988,42.94229176",
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31240",
+        "eurostat:nuts_2021_id":"31240",
         "gn:id":6359787,
         "gp:id":12688420,
         "qs_pg:id":272232
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ab45664e1efa2ba1af0ff3ef9d9f636c",
+    "wof:geomhash":"6ea36aa8a89845729231b04cceae1aa4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404339995,
-    "wof:lastmodified":1582361590,
+    "wof:lastmodified":1684352401,
     "wof:name":"Urdiain",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":661,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

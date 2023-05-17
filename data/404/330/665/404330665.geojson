@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06137",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valdecaballeros",
+    "eurostat:nuts_2021_id":"06137",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06137",
+    "eurostat:population":1065,
+    "eurostat:population_year":2020,
     "geom:area":0.009406,
-    "geom:area_square_m":90045203.884573,
+    "geom:area_square_m":90045203.88458,
     "geom:bbox":"-5.303191,39.20092531,-5.13475619,39.31959436",
     "geom:latitude":39.270323,
     "geom:longitude":-5.195845,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06137",
+        "eurostat:nuts_2021_id":"06137",
         "gn:id":6356002,
         "gp:id":12694456,
         "qs_pg:id":265413
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8bb017189c901e1b98c85f9fd15b3ba7",
+    "wof:geomhash":"b114386b1a74831cc5c403208e33aa9c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404330665,
-    "wof:lastmodified":1582361539,
+    "wof:lastmodified":1684352227,
     "wof:name":"Valdecaballeros",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":1065,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

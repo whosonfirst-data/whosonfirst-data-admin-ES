@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_01046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Erriberagoitia / Ribera Alta",
+    "eurostat:nuts_2021_id":"01046",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES211",
+    "eurostat:nuts_2021_level_lau":"01046",
+    "eurostat:population":782,
+    "eurostat:population_year":2020,
     "geom:area":0.013181,
-    "geom:area_square_m":119584758.36904,
+    "geom:area_square_m":119584758.369045,
     "geom:bbox":"-3.02070611,42.71732311,-2.83547353,42.87907535",
     "geom:latitude":42.802473,
     "geom:longitude":-2.925146,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_01046",
+        "eurostat:nuts_2021_id":"01046"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"c949dda64d316b91bbd747d3fd3c3f7f",
+    "wof:geomhash":"67691b08ae8d944d18725253eefe32b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404329011,
-    "wof:lastmodified":1566590886,
+    "wof:lastmodified":1684352203,
     "wof:name":"Erriberagoitia/Ribera Alta",
     "wof:parent_id":85682615,
     "wof:placetype":"localadmin",
+    "wof:population":782,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Esparragosa de Lares",
+    "eurostat:nuts_2021_id":"06048",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06048",
+    "eurostat:population":906,
+    "eurostat:population_year":2020,
     "geom:area":0.021679,
     "geom:area_square_m":208445084.189484,
     "geom:bbox":"-5.52097701,38.89893002,-5.2015215,39.02028243",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06048",
+        "eurostat:nuts_2021_id":"06048",
         "gn:id":6355913,
         "gp:id":12694367,
         "qs_pg:id":1149596
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9b3357c8495923eaa4b5ef8b96135edd",
+    "wof:geomhash":"5daa183a2951e9a4b26ce737bd78570c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330465,
-    "wof:lastmodified":1582361528,
+    "wof:lastmodified":1684352224,
     "wof:name":"Esparragosa De Lares",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":906,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05214",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Lorenzo de Tormes",
+    "eurostat:nuts_2021_id":"05214",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05214",
+    "eurostat:population":27,
+    "eurostat:population_year":2020,
     "geom:area":0.001538,
-    "geom:area_square_m":14488995.514347,
+    "geom:area_square_m":14488995.514348,
     "geom:bbox":"-5.52546244,40.3510389,-5.46818408,40.40189156",
     "geom:latitude":40.376007,
     "geom:longitude":-5.496639,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05214",
+        "eurostat:nuts_2021_id":"05214",
         "gn:id":6355812,
         "gp:id":12691320,
         "qs_pg:id":46189
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"795137e711aea93e967c892ce143b086",
+    "wof:geomhash":"85295afb902a99652a48ca33696230af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330235,
-    "wof:lastmodified":1582361525,
+    "wof:lastmodified":1684352221,
     "wof:name":"San Lorenzo De Tormes",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":27,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

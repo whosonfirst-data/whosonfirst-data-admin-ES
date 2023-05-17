@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_13059",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Navalpino",
+    "eurostat:nuts_2021_id":"13059",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES422",
+    "eurostat:nuts_2021_level_lau":"13059",
+    "eurostat:population":221,
+    "eurostat:population_year":2020,
     "geom:area":0.020488,
-    "geom:area_square_m":196167442.892032,
+    "geom:area_square_m":196167442.892033,
     "geom:bbox":"-4.73368112,39.18285333,-4.50741222,39.32303389",
     "geom:latitude":39.255537,
     "geom:longitude":-4.618758,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_13059",
+        "eurostat:nuts_2021_id":"13059",
         "gn:id":6357153,
         "gp:id":12690356,
         "qs_pg:id":45730
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8e582fd0bbd030c66501690da84391e4",
+    "wof:geomhash":"595b168575230c7469326f20e25fd568",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404333543,
-    "wof:lastmodified":1582361770,
+    "wof:lastmodified":1684352280,
     "wof:name":"Navalpino",
     "wof:parent_id":85682689,
     "wof:placetype":"localadmin",
+    "wof:population":221,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

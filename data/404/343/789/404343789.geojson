@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43177,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43177",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vinebre",
+    "eurostat:nuts_2021_id":"43177",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43177",
+    "eurostat:population":425,
+    "eurostat:population_year":2020,
     "geom:area":0.002846,
-    "geom:area_square_m":26469573.159195,
+    "geom:area_square_m":26469573.159194,
     "geom:bbox":"0.576672689785,41.1711005259,0.688659694619,41.2474162887",
     "geom:latitude":41.216122,
     "geom:longitude":0.622707,
@@ -112,6 +124,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -120,7 +134,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43177",
         "esp-icgc:la_lc":"043177",
+        "eurostat:nuts_2021_id":"43177",
         "gn:id":6361419,
         "gp:id":12694317,
         "qs_pg:id":47823
@@ -130,7 +146,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"41f3867c08c4caa75d11b4d169255fcd",
+    "wof:geomhash":"72ed855dc6e45ea8c4b3f05f7f1353fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404343789,
-    "wof:lastmodified":1582361894,
+    "wof:lastmodified":1684352464,
     "wof:name":"Vinebre",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":425,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_38010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Buenavista del Norte",
+    "eurostat:nuts_2021_id":"38010",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES7",
+    "eurostat:nuts_2021_level_2":"ES70",
+    "eurostat:nuts_2021_level_3":"ES709",
+    "eurostat:nuts_2021_level_lau":"38010",
+    "eurostat:population":4786,
+    "eurostat:population_year":2020,
     "geom:area":0.006137,
-    "geom:area_square_m":66795518.836372,
+    "geom:area_square_m":66795518.836382,
     "geom:bbox":"-16.92597099,28.27278252,-16.81879909,28.39333574",
     "geom:latitude":28.335066,
     "geom:longitude":-16.863135,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_38010",
+        "eurostat:nuts_2021_id":"38010",
         "gn:id":6360623,
         "gp:id":12690168,
         "qs_pg:id":1093535
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5f5b754f7a80def9f566b99862d5baa0",
+    "wof:geomhash":"d5698c3e44cd5434e77f420c6aff2a48",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404341939,
-    "wof:lastmodified":1582361624,
+    "wof:lastmodified":1684352431,
     "wof:name":"Buenavista Del Norte",
     "wof:parent_id":85682831,
     "wof:placetype":"localadmin",
+    "wof:population":4786,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46102",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Quart de Poblet",
+    "eurostat:nuts_2021_id":"46102",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46102",
+    "eurostat:population":25062,
+    "eurostat:population_year":2020,
     "geom:area":0.002055,
-    "geom:area_square_m":19618789.979352,
+    "geom:area_square_m":19618789.979351,
     "geom:bbox":"-0.55255521,39.44924809,-0.42208832,39.49292415",
     "geom:latitude":39.472262,
     "geom:longitude":-0.495943,
@@ -42,6 +54,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -50,6 +64,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46102",
+        "eurostat:nuts_2021_id":"46102",
         "gn:id":6361967,
         "gp:id":12695742,
         "qs_pg:id":978077
@@ -58,7 +74,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"64cbc31e4372675c4f17d70df7fb3e3e",
+    "wof:geomhash":"1bd6b6c48d583f564804bf5769f868e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +85,12 @@
         }
     ],
     "wof:id":404345029,
-    "wof:lastmodified":1582361836,
+    "wof:lastmodified":1684352481,
     "wof:name":"Quart De Poblet",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":25062,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

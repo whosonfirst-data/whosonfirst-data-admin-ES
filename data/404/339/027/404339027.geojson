@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28158",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valdemanco",
+    "eurostat:nuts_2021_id":"28158",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28158",
+    "eurostat:population":963,
+    "eurostat:population_year":2020,
     "geom:area":0.001901,
     "geom:area_square_m":17780005.593392,
     "geom:bbox":"-3.69398749,40.83253066,-3.64280814,40.89219584",
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28158",
+        "eurostat:nuts_2021_id":"28158",
         "gn:id":6359377,
         "gp:id":12688099,
         "qs_pg:id":929521
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4e2e8d75deac1d384ead4d68a386114b",
+    "wof:geomhash":"72f48426207466afad5514c1b927c2d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404339027,
-    "wof:lastmodified":1582361592,
+    "wof:lastmodified":1684352387,
     "wof:name":"Valdemanco",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":963,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

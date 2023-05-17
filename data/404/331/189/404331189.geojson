@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8138,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08138",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Moi\u00e0",
+    "eurostat:nuts_2021_id":"08138",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08138",
+    "eurostat:population":6383,
+    "eurostat:population_year":2020,
     "geom:area":0.008191,
-    "geom:area_square_m":75479072.877409,
+    "geom:area_square_m":75478966.696178,
     "geom:bbox":"2.02747,41.77516,2.172076,41.864705",
     "geom:latitude":41.819962,
     "geom:longitude":2.101886,
@@ -148,6 +160,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -156,7 +170,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08138",
         "esp-icgc:la_lc":"08138",
+        "eurostat:nuts_2021_id":"08138",
         "gn:id":6356167,
         "gp:id":12693504,
         "qs_pg:id":1188729
@@ -166,7 +182,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"aa9ea371f43e6443934cf6a9eb02ea45",
+    "wof:geomhash":"c492910e01f2e056f11dbff14353bb09",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,10 +193,12 @@
         }
     ],
     "wof:id":404331189,
-    "wof:lastmodified":1669903004,
+    "wof:lastmodified":1684352244,
     "wof:name":"Moi\u00e0",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":6383,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

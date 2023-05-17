@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Camarma de Esteruelas",
+    "eurostat:nuts_2021_id":"28032",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28032",
+    "eurostat:population":7437,
+    "eurostat:population_year":2020,
     "geom:area":0.003744,
     "geom:area_square_m":35169506.118044,
     "geom:bbox":"-3.41854594,40.52320434,-3.33634172,40.60816625",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28032",
+        "eurostat:nuts_2021_id":"28032",
         "gn:id":6359258,
         "gp:id":12687977,
         "qs_pg:id":204470
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f7ad1c06225a31eb452d41c6ed274008",
+    "wof:geomhash":"bcf2b8afa8112e4bdc69e4dd2a36a12d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404338757,
-    "wof:lastmodified":1582361445,
+    "wof:lastmodified":1684352381,
     "wof:name":"Camarma De Esteruelas",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":7437,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

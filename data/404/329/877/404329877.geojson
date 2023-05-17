@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cabezas del Villar",
+    "eurostat:nuts_2021_id":"05044",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05044",
+    "eurostat:population":257,
+    "eurostat:population_year":2020,
     "geom:area":0.011727,
-    "geom:area_square_m":109940416.812145,
+    "geom:area_square_m":109940416.812152,
     "geom:bbox":"-5.26315363,40.61345447,-5.13409484,40.796393",
     "geom:latitude":40.693609,
     "geom:longitude":-5.203634,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05044",
+        "eurostat:nuts_2021_id":"05044",
         "gn:id":6355653,
         "gp:id":12691161,
         "qs_pg:id":497024
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8fd5f5dc36c9873b633e15878ac65e1b",
+    "wof:geomhash":"aa700455d1a2fb4a61e8bc4c2d98b56a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404329877,
-    "wof:lastmodified":1582361798,
+    "wof:lastmodified":1684352216,
     "wof:name":"Cabezas Del Villar",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":257,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

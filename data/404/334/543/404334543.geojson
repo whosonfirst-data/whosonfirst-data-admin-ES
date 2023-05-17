@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16904",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fuentenava de J\u00e1baga",
+    "eurostat:nuts_2021_id":"16904",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16904",
+    "eurostat:population":489,
+    "eurostat:population_year":2020,
     "geom:area":0.014063,
-    "geom:area_square_m":132953843.770882,
+    "geom:area_square_m":132953843.770885,
     "geom:bbox":"-2.37603448,40.06481536,-2.2039178,40.20922625",
     "geom:latitude":40.12999,
     "geom:longitude":-2.307175,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227375
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_16904",
+        "eurostat:nuts_2021_id":"16904"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"0e75cddc6afbe7b013e13e0fcf9ea488",
+    "wof:geomhash":"3cfc0669690a5d11492a4f0288c2c678",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404334543,
-    "wof:lastmodified":1566590678,
+    "wof:lastmodified":1684352298,
     "wof:name":"Fuentenava De J\u00e1baga",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":489,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

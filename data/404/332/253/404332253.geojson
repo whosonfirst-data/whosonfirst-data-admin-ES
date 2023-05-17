@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09345",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Cruz de la Salceda",
+    "eurostat:nuts_2021_id":"09345",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09345",
+    "eurostat:population":140,
+    "eurostat:population_year":2020,
     "geom:area":0.002792,
     "geom:area_square_m":25823379.285526,
     "geom:bbox":"-3.61824519,41.5653993,-3.53613575,41.62463623",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09345",
+        "eurostat:nuts_2021_id":"09345",
         "gn:id":6356588,
         "gp:id":12691639,
         "qs_pg:id":499345
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f54a6bf77ca089f9b177a61318894f38",
+    "wof:geomhash":"bf491677ffb7b701a137623cbdddf711",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332253,
-    "wof:lastmodified":1582361689,
+    "wof:lastmodified":1684352262,
     "wof:name":"Santa Cruz De La Salceda",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":140,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

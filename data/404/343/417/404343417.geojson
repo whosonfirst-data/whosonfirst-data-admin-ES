@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":43011,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Almoster",
+    "eurostat:nuts_2021_id":"43011",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43011",
+    "eurostat:population":1341,
+    "eurostat:population_year":2020,
     "geom:area":0.000644,
     "geom:area_square_m":5995069.735958,
     "geom:bbox":"1.07523595511,41.1743557508,1.12068366779,41.2177354554",
@@ -112,6 +124,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -120,7 +134,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43011",
         "esp-icgc:la_lc":"043011",
+        "eurostat:nuts_2021_id":"43011",
         "gn:id":6361254,
         "gp:id":12694148,
         "qs_pg:id":955124
@@ -130,7 +146,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"28842f2929d3f18c20e3c761f6686f1a",
+    "wof:geomhash":"bf21af50c8b39ce7da6c89d1291dd224",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404343417,
-    "wof:lastmodified":1582361885,
+    "wof:lastmodified":1684352451,
     "wof:name":"Almoster",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":1341,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

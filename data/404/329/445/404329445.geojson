@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03086",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Millena",
+    "eurostat:nuts_2021_id":"03086",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03086",
+    "eurostat:population":240,
+    "eurostat:population_year":2020,
     "geom:area":0.001013,
     "geom:area_square_m":9765584.697838,
     "geom:bbox":"-0.40726978,38.72578812,-0.35029146,38.76156381",
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03086",
+        "eurostat:nuts_2021_id":"03086",
         "gn:id":6355462,
         "gp:id":12695350,
         "qs_pg:id":1121059
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7c5e23cf8c5912637dc02b2c7b42b226",
+    "wof:geomhash":"0f41f07c2f196cacd73037936a815564",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404329445,
-    "wof:lastmodified":1582361800,
+    "wof:lastmodified":1684352210,
     "wof:name":"Millena",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":240,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aldeanueva de la Vera",
+    "eurostat:nuts_2021_id":"10014",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10014",
+    "eurostat:population":2042,
+    "eurostat:population_year":2020,
     "geom:area":0.003974,
-    "geom:area_square_m":37562759.823973,
+    "geom:area_square_m":37562759.823974,
     "geom:bbox":"-5.75282233,40.08900101,-5.67566265,40.17605608",
     "geom:latitude":40.14111,
     "geom:longitude":-5.710789,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10014",
+        "eurostat:nuts_2021_id":"10014",
         "gn:id":6356711,
         "gp:id":12694496,
         "qs_pg:id":1188806
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b24c561c523577892216efad68d88301",
+    "wof:geomhash":"09312748aab9412c8ae9a4da85a45afc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332541,
-    "wof:lastmodified":1582361692,
+    "wof:lastmodified":1684352265,
     "wof:name":"Aldeanueva De La Vera",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":2042,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

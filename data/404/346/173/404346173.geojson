@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Andav\u00edas",
+    "eurostat:nuts_2021_id":"49009",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49009",
+    "eurostat:population":452,
+    "eurostat:population_year":2020,
     "geom:area":0.002499,
     "geom:area_square_m":23108224.726,
     "geom:bbox":"-5.87626772,41.56320627,-5.81313163,41.63555881",
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_49009",
+        "eurostat:nuts_2021_id":"49009",
         "gn:id":6362456,
         "gp:id":12693135,
         "qs_pg:id":1018455
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3e68ad309e17094a62df499bffd0716b",
+    "wof:geomhash":"6d78d50f892067a4b2284dc8fa4cb9ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404346173,
-    "wof:lastmodified":1582361612,
+    "wof:lastmodified":1684352496,
     "wof:name":"Andav\u00edas",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":452,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

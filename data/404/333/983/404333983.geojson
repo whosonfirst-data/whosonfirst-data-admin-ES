@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15078",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santiago de Compostela",
+    "eurostat:nuts_2021_id":"15078",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15078",
+    "eurostat:population":97848,
+    "eurostat:population_year":2020,
     "geom:area":0.024252,
-    "geom:area_square_m":219640046.524183,
+    "geom:area_square_m":219640046.524184,
     "geom:bbox":"-8.63201164,42.82414422,-8.38964252,42.98963099",
     "geom:latitude":42.910558,
     "geom:longitude":-8.517177,
@@ -141,6 +153,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -149,6 +163,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_15078",
+        "eurostat:nuts_2021_id":"15078",
         "gn:id":6357346,
         "gp:id":12694780,
         "qs_pg:id":1293627
@@ -157,7 +173,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c8fff924a5318bc4c03e34be8877e532",
+    "wof:geomhash":"68e9bacbbf3df8e7b090076a37309f04",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,10 +184,12 @@
         }
     ],
     "wof:id":404333983,
-    "wof:lastmodified":1582361769,
+    "wof:lastmodified":1684352291,
     "wof:name":"Santiago De Compostela",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":97848,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

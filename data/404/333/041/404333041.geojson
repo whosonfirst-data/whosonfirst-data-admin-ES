@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_11015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chiclana de la Frontera",
+    "eurostat:nuts_2021_id":"11015",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES612",
+    "eurostat:nuts_2021_level_lau":"11015",
+    "eurostat:population":85150,
+    "eurostat:population_year":2020,
     "geom:area":0.020638,
-    "geom:area_square_m":205404577.525304,
+    "geom:area_square_m":205404577.525302,
     "geom:bbox":"-6.21300935,36.32997955,-5.99370483,36.47178845",
     "geom:latitude":36.399752,
     "geom:longitude":-6.109823,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227361
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_11015",
+        "eurostat:nuts_2021_id":"11015"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"809864ef2c0b8a6ef87d6151269cd9ad",
+    "wof:geomhash":"719bc583242453fa40e9346ea18f4017",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404333041,
-    "wof:lastmodified":1566590763,
+    "wof:lastmodified":1684352273,
     "wof:name":"Chiclana De La Frontera",
     "wof:parent_id":85682679,
     "wof:placetype":"localadmin",
+    "wof:population":85150,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

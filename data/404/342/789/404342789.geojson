@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_41021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Camas",
+    "eurostat:nuts_2021_id":"41021",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES618",
+    "eurostat:nuts_2021_level_lau":"41021",
+    "eurostat:population":27560,
+    "eurostat:population_year":2020,
     "geom:area":0.001186,
-    "geom:area_square_m":11648361.863707,
+    "geom:area_square_m":11648361.863708,
     "geom:bbox":"-6.06294551,37.37682977,-6.01268957,37.42405362",
     "geom:latitude":37.400603,
     "geom:longitude":-6.03445,
@@ -69,6 +81,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -77,6 +91,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_41021",
+        "eurostat:nuts_2021_id":"41021",
         "gn:id":6360976,
         "gp:id":12689311,
         "qs_pg:id":901556
@@ -85,7 +101,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"762707d83435d4ad2f03aec4de3c92f5",
+    "wof:geomhash":"2accf8d3158662dc1bcbc263871841fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,10 +112,12 @@
         }
     ],
     "wof:id":404342789,
-    "wof:lastmodified":1582361823,
+    "wof:lastmodified":1684352443,
     "wof:name":"Camas",
     "wof:parent_id":85682841,
     "wof:placetype":"localadmin",
+    "wof:population":27560,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

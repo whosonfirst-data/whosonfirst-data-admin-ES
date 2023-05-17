@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19087",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cincovillas",
+    "eurostat:nuts_2021_id":"19087",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19087",
+    "eurostat:population":19,
+    "eurostat:population_year":2020,
     "geom:area":0.001761,
-    "geom:area_square_m":16381527.638069,
+    "geom:area_square_m":16381527.638067,
     "geom:bbox":"-2.84124381,41.16585312,-2.79135274,41.22551772",
     "geom:latitude":41.198404,
     "geom:longitude":-2.817572,
@@ -99,6 +111,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -106,9 +120,12 @@
         404227375
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_19087",
+        "eurostat:nuts_2021_id":"19087"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"9c07bc337c81cff7f91fdbbe2c575191",
+    "wof:geomhash":"042a9e3a2b4568a2fa0f38edce83971e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +136,12 @@
         }
     ],
     "wof:id":404335585,
-    "wof:lastmodified":1566590612,
+    "wof:lastmodified":1684352327,
     "wof:name":"Cincovillas",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":19,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

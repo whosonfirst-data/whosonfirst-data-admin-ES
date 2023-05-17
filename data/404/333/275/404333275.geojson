@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12083",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Olocau del Rey",
+    "eurostat:nuts_2021_id":"12083",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12083",
+    "eurostat:population":120,
+    "eurostat:population_year":2020,
     "geom:area":0.004682,
     "geom:area_square_m":43929652.061145,
     "geom:bbox":"-0.38151389,40.60281344,-0.29563564,40.68027939",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12083",
+        "eurostat:nuts_2021_id":"12083",
         "gn:id":6357034,
         "gp:id":12695482,
         "qs_pg:id":961891
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"90574afcbaaddcb2b39f7830e74dff23",
+    "wof:geomhash":"c2ec3adcc2e408dca5933a3f5be46b8b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404333275,
-    "wof:lastmodified":1582361765,
+    "wof:lastmodified":1684352276,
     "wof:name":"Olocau Del Rey",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":120,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

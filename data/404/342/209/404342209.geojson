@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_39075",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santander",
+    "eurostat:nuts_2021_id":"39075",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES13",
+    "eurostat:nuts_2021_level_3":"ES130",
+    "eurostat:nuts_2021_level_lau":"39075",
+    "eurostat:population":173375,
+    "eurostat:population_year":2020,
     "geom:area":0.004001,
-    "geom:area_square_m":35908584.508119,
+    "geom:area_square_m":35908584.508117,
     "geom:bbox":"-3.8890298,43.43442396,-3.75361082,43.49493259",
     "geom:latitude":43.46404,
     "geom:longitude":-3.83276,
@@ -183,6 +195,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -191,6 +205,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_39075",
+        "eurostat:nuts_2021_id":"39075",
         "gn:id":6360720,
         "gp:id":12688597,
         "qs_pg:id":44808
@@ -199,7 +215,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7d23de056210cc007b75f8fd86cad00c",
+    "wof:geomhash":"8f2a52265ddaebb5934dc0b9fd6b2b6f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -210,10 +226,12 @@
         }
     ],
     "wof:id":404342209,
-    "wof:lastmodified":1582361820,
+    "wof:lastmodified":1684352437,
     "wof:name":"Santander",
     "wof:parent_id":85682833,
     "wof:placetype":"localadmin",
+    "wof:population":173375,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

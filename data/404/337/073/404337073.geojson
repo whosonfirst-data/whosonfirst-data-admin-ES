@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_23075",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sabiote",
+    "eurostat:nuts_2021_id":"23075",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES616",
+    "eurostat:nuts_2021_level_lau":"23075",
+    "eurostat:population":3886,
+    "eurostat:population_year":2020,
     "geom:area":0.011523,
-    "geom:area_square_m":112131319.693482,
+    "geom:area_square_m":112131319.693485,
     "geom:bbox":"-3.34228926,38.03866979,-3.15923951,38.14622395",
     "geom:latitude":38.093703,
     "geom:longitude":-3.260482,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_23075",
+        "eurostat:nuts_2021_id":"23075",
         "gn:id":6358524,
         "gp:id":12689165,
         "qs_pg:id":901553
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"48f2ff562cb7f3cdff23b1f08e346f7b",
+    "wof:geomhash":"b7db637473632520dc096686f2566df2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404337073,
-    "wof:lastmodified":1582361568,
+    "wof:lastmodified":1684352348,
     "wof:name":"Sabiote",
     "wof:parent_id":85682757,
     "wof:placetype":"localadmin",
+    "wof:population":3886,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

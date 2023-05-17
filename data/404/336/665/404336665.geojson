@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22114",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gista\u00edn",
+    "eurostat:nuts_2021_id":"22114",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22114",
+    "eurostat:population":147,
+    "eurostat:population_year":2020,
     "geom:area":0.008415,
-    "geom:area_square_m":76512455.9376,
+    "geom:area_square_m":76512455.937602,
     "geom:bbox":"0.28269973,42.57948474,0.43974435,42.72434937",
     "geom:latitude":42.662902,
     "geom:longitude":0.34929,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22114",
+        "eurostat:nuts_2021_id":"22114",
         "gn:id":6358346,
         "gp:id":12689488,
         "qs_pg:id":949937
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0cfe2b50726b49b9a0e2556593fe3b57",
+    "wof:geomhash":"9456a3e4cb32e7f246f2ccedfda7717c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404336665,
-    "wof:lastmodified":1582361475,
+    "wof:lastmodified":1684352342,
     "wof:name":"Gista\u00edn",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":147,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

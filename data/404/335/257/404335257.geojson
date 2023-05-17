@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18114",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calahorra, La",
+    "eurostat:nuts_2021_id":"18114",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18114",
+    "eurostat:population":668,
+    "eurostat:population_year":2020,
     "geom:area":0.004005,
-    "geom:area_square_m":39434366.508037,
+    "geom:area_square_m":39434366.508036,
     "geom:bbox":"-3.09698035,37.15720907,-2.97960135,37.27638564",
     "geom:latitude":37.224916,
     "geom:longitude":-3.042608,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18114",
+        "eurostat:nuts_2021_id":"18114",
         "gn:id":6357729,
         "gp:id":12688879,
         "qs_pg:id":62846
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5cb35715b44386284ba01860b86f9df2",
+    "wof:geomhash":"5624c5a0f71fe5608e70d2c94405fd80",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404335257,
-    "wof:lastmodified":1582361699,
+    "wof:lastmodified":1684352323,
     "wof:name":"La Calahorra",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":668,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

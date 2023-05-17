@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44068",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castelser\u00e1s",
+    "eurostat:nuts_2021_id":"44068",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44068",
+    "eurostat:population":800,
+    "eurostat:population_year":2020,
     "geom:area":0.003372,
-    "geom:area_square_m":31480639.440072,
+    "geom:area_square_m":31480639.440071,
     "geom:bbox":"-0.17886745,40.91922387,-0.09546003,41.00479119",
     "geom:latitude":40.963988,
     "geom:longitude":-0.146154,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44068",
+        "eurostat:nuts_2021_id":"44068",
         "gn:id":6361490,
         "gp:id":12689663,
         "qs_pg:id":1165107
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8ff0e26a56789925f0540e83c0d5e88b",
+    "wof:geomhash":"8f8d457c3f3613f1271c7c0f0d86d75c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404343951,
-    "wof:lastmodified":1582361882,
+    "wof:lastmodified":1684352468,
     "wof:name":"Castelser\u00e1s",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":800,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

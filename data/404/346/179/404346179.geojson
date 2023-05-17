@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arcos de la Polvorosa",
+    "eurostat:nuts_2021_id":"49011",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49011",
+    "eurostat:population":217,
+    "eurostat:population_year":2020,
     "geom:area":0.001329,
-    "geom:area_square_m":12223432.393507,
+    "geom:area_square_m":12223432.393506,
     "geom:bbox":"-5.74336739,41.91894962,-5.67819957,41.96434403",
     "geom:latitude":41.943667,
     "geom:longitude":-5.711759,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_49011",
+        "eurostat:nuts_2021_id":"49011",
         "gn:id":6362458,
         "gp:id":12693137,
         "qs_pg:id":47074
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"14eea3b1e7f8569e7d18502ba6ac6851",
+    "wof:geomhash":"36b166438d8d6227bfe0be9efe335e3d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404346179,
-    "wof:lastmodified":1582361621,
+    "wof:lastmodified":1684352496,
     "wof:name":"Arcos De La Polvorosa",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":217,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

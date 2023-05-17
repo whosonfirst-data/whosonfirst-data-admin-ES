@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_27043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"P\u00e1ramo, O",
+    "eurostat:nuts_2021_id":"27043",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES112",
+    "eurostat:nuts_2021_level_lau":"27043",
+    "eurostat:population":1344,
+    "eurostat:population_year":2020,
     "geom:area":0.008236,
-    "geom:area_square_m":74681509.932554,
+    "geom:area_square_m":74681509.932559,
     "geom:bbox":"-7.60925132,42.7940388,-7.43122891,42.87614484",
     "geom:latitude":42.834553,
     "geom:longitude":-7.524684,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_27043",
+        "eurostat:nuts_2021_id":"27043",
         "gn:id":3114317,
         "gp:id":12694837,
         "qs_pg:id":145683
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bf16415213e74e9432b40ed8b3e2bce5",
+    "wof:geomhash":"e78d182edf2433196a7db869d4d74158",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404338627,
-    "wof:lastmodified":1582361435,
+    "wof:lastmodified":1684352378,
     "wof:name":"O P\u00e1ramo",
     "wof:parent_id":85682775,
     "wof:placetype":"localadmin",
+    "wof:population":1344,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

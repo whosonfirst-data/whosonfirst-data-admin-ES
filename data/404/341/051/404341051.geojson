@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_36040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Portas",
+    "eurostat:nuts_2021_id":"36040",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES114",
+    "eurostat:nuts_2021_level_lau":"36040",
+    "eurostat:population":2906,
+    "eurostat:population_year":2020,
     "geom:area":0.00248,
     "geom:area_square_m":22585710.869849,
     "geom:bbox":"-8.70309967,42.53021127,-8.61749043,42.59784946",
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_36040",
+        "eurostat:nuts_2021_id":"36040",
         "gn:id":6360239,
         "gp:id":12694998,
         "qs_pg:id":248819
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"163f45f7fe945e4638c4d439331de743",
+    "wof:geomhash":"3f1daa43c60b34e6d7ac5361c2086268",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404341051,
-    "wof:lastmodified":1582361640,
+    "wof:lastmodified":1684352419,
     "wof:name":"Portas",
     "wof:parent_id":85682825,
     "wof:placetype":"localadmin",
+    "wof:population":2906,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

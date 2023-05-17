@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_01028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Labastida / Bastida",
+    "eurostat:nuts_2021_id":"01028",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES211",
+    "eurostat:nuts_2021_level_lau":"01028",
+    "eurostat:population":1517,
+    "eurostat:population_year":2020,
     "geom:area":0.004187,
-    "geom:area_square_m":38109956.401307,
+    "geom:area_square_m":38109956.401309,
     "geom:bbox":"-2.85892117,42.55472248,-2.76587657,42.64499673",
     "geom:latitude":42.605466,
     "geom:longitude":-2.808739,
@@ -114,6 +126,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -121,9 +135,12 @@
         404227393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_01028",
+        "eurostat:nuts_2021_id":"01028"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"a6e05e9cbdf80498e682681f0c562184",
+    "wof:geomhash":"ecfa1b0afafa0dbce6418734d5b17bed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +151,12 @@
         }
     ],
     "wof:id":404328981,
-    "wof:lastmodified":1566591062,
+    "wof:lastmodified":1684352202,
     "wof:name":"Labastida/Bastida",
     "wof:parent_id":85682615,
     "wof:placetype":"localadmin",
+    "wof:population":1517,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

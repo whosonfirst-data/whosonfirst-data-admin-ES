@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Albu\u00f1\u00e1n",
+    "eurostat:nuts_2021_id":"18005",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18005",
+    "eurostat:population":409,
+    "eurostat:population_year":2020,
     "geom:area":0.000866,
-    "geom:area_square_m":8527549.235021,
+    "geom:area_square_m":8527549.235022,
     "geom:bbox":"-3.15463904,37.20636003,-3.11952843,37.26088757",
     "geom:latitude":37.233159,
     "geom:longitude":-3.140599,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18005",
+        "eurostat:nuts_2021_id":"18005",
         "gn:id":6357643,
         "gp:id":12688851,
         "qs_pg:id":44977
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f08fafadaa4667d25f64b071a1789e69",
+    "wof:geomhash":"3781f1b8c0c689b9240d02b74023141d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404335063,
-    "wof:lastmodified":1582361700,
+    "wof:lastmodified":1684352320,
     "wof:name":"Albu\u00f1\u00e1n",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":409,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

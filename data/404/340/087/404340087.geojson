@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_32007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ba\u00f1os de Molgas",
+    "eurostat:nuts_2021_id":"32007",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES113",
+    "eurostat:nuts_2021_level_lau":"32007",
+    "eurostat:population":1493,
+    "eurostat:population_year":2020,
     "geom:area":0.007376,
-    "geom:area_square_m":67539784.928144,
+    "geom:area_square_m":67539784.928141,
     "geom:bbox":"-7.76334727,42.18103524,-7.61221191,42.26663244",
     "geom:latitude":42.226066,
     "geom:longitude":-7.678538,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_32007",
+        "eurostat:nuts_2021_id":"32007",
         "gn:id":6359825,
         "gp:id":12694869,
         "qs_pg:id":79596
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"28b12c2da8daafbdfeeb77e756de2b04",
+    "wof:geomhash":"2f7a34672e4902fe0b09dba65fa78c8e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404340087,
-    "wof:lastmodified":1582361661,
+    "wof:lastmodified":1684352402,
     "wof:name":"Ba\u00f1os De Molgas",
     "wof:parent_id":85682801,
     "wof:placetype":"localadmin",
+    "wof:population":1493,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

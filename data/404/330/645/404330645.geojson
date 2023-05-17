@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06128",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Talavera la Real",
+    "eurostat:nuts_2021_id":"06128",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06128",
+    "eurostat:population":5314,
+    "eurostat:population_year":2020,
     "geom:area":0.006382,
     "geom:area_square_m":61451647.427721,
     "geom:bbox":"-6.82350169,38.82079102,-6.66686603,38.91156759",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06128",
+        "eurostat:nuts_2021_id":"06128",
         "gn:id":6355993,
         "gp:id":12694447,
         "qs_pg:id":247736
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"952b3d76f84ed2040af028cbb4e4d14b",
+    "wof:geomhash":"7b223365458f13844898ee30d606e046",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330645,
-    "wof:lastmodified":1582361523,
+    "wof:lastmodified":1684352227,
     "wof:name":"Talavera La Real",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":5314,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_07001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alar\u00f3",
+    "eurostat:nuts_2021_id":"07001",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES53",
+    "eurostat:nuts_2021_level_3":"ES532",
+    "eurostat:nuts_2021_level_lau":"07001",
+    "eurostat:population":5617,
+    "eurostat:population_year":2020,
     "geom:area":0.004803,
-    "geom:area_square_m":45678774.292958,
+    "geom:area_square_m":45678774.29296,
     "geom:bbox":"2.75266577,39.6722651,2.85049561,39.77552549",
     "geom:latitude":39.723541,
     "geom:longitude":2.802406,
@@ -132,6 +144,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -140,6 +154,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_07001",
+        "eurostat:nuts_2021_id":"07001",
         "gn:id":6533927,
         "gp:id":12687706,
         "qs_pg:id":557359
@@ -148,7 +164,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"75090ec8cae5f921137840fec30a3c8d",
+    "wof:geomhash":"ffbd7afc8b7fa08fab060420a3439489",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,10 +175,12 @@
         }
     ],
     "wof:id":404330729,
-    "wof:lastmodified":1582361545,
+    "wof:lastmodified":1684352228,
     "wof:name":"Alar\u00f3",
     "wof:parent_id":85682647,
     "wof:placetype":"localadmin",
+    "wof:population":5617,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

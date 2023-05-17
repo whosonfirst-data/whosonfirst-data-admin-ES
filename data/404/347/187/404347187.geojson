@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50217",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pradilla de Ebro",
+    "eurostat:nuts_2021_id":"50217",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50217",
+    "eurostat:population":540,
+    "eurostat:population_year":2020,
     "geom:area":0.00276,
-    "geom:area_square_m":25412784.379673,
+    "geom:area_square_m":25412784.379672,
     "geom:bbox":"-1.28511029,41.8501807,-1.10058343,41.89053991",
     "geom:latitude":41.873543,
     "geom:longitude":-1.186264,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50217",
+        "eurostat:nuts_2021_id":"50217",
         "gn:id":6362904,
         "gp:id":12690044,
         "qs_pg:id":1263237
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6a9998e8af1ad558358f7ef58fb786d9",
+    "wof:geomhash":"60b2f61079095178c34488b326fef84c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404347187,
-    "wof:lastmodified":1582361671,
+    "wof:lastmodified":1684352508,
     "wof:name":"Pradilla De Ebro",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":540,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

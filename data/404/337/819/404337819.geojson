@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25101,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Granadella, La",
+    "eurostat:nuts_2021_id":"25101",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25101",
+    "eurostat:population":716,
+    "eurostat:population_year":2020,
     "geom:area":0.008928,
-    "geom:area_square_m":82857287.469692,
+    "geom:area_square_m":82857558.779821,
     "geom:bbox":"0.580855,41.307183,0.723185,41.420023",
     "geom:latitude":41.365843,
     "geom:longitude":0.650643,
@@ -115,6 +127,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -123,7 +137,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25101",
         "esp-icgc:la_lc":"025101",
+        "eurostat:nuts_2021_id":"25101",
         "gn:id":6358849,
         "gp:id":12693997,
         "qs_pg:id":1149565
@@ -133,7 +149,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"02d6a82fa4828d81631420d5142b0544",
+    "wof:geomhash":"ea2a3d67693543479641da08944849ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404337819,
-    "wof:lastmodified":1669903022,
+    "wof:lastmodified":1684352361,
     "wof:name":"La Granadella",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":716,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

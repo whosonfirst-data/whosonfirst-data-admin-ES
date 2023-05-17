@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31141",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lapoblaci\u00f3n",
+    "eurostat:nuts_2021_id":"31141",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31141",
+    "eurostat:population":122,
+    "eurostat:population_year":2020,
     "geom:area":0.002265,
-    "geom:area_square_m":20618950.277311,
+    "geom:area_square_m":20618950.27731,
     "geom:bbox":"-2.5000827,42.56710779,-2.41854814,42.62731965",
     "geom:latitude":42.600352,
     "geom:longitude":-2.460611,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31141",
+        "eurostat:nuts_2021_id":"31141",
         "gn:id":6359689,
         "gp:id":12688317,
         "qs_pg:id":1019400
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a8232dcd4411a21e1ce97b40e89f9ae0",
+    "wof:geomhash":"3851e5e753f7c98c8d4c42d666112b3d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404339773,
-    "wof:lastmodified":1582361597,
+    "wof:lastmodified":1684352398,
     "wof:name":"Lapoblaci\u00f3n",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":122,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

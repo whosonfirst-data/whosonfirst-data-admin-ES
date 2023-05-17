@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_39024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Comillas",
+    "eurostat:nuts_2021_id":"39024",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES13",
+    "eurostat:nuts_2021_level_3":"ES130",
+    "eurostat:nuts_2021_level_lau":"39024",
+    "eurostat:population":2124,
+    "eurostat:population_year":2020,
     "geom:area":0.002079,
     "geom:area_square_m":18686904.701079,
     "geom:bbox":"-4.32259267,43.33956803,-4.25413425,43.39502605",
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_39024",
+        "eurostat:nuts_2021_id":"39024",
         "gn:id":6360671,
         "gp:id":12688545,
         "qs_pg:id":1252268
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"08a87532047a134f5d4d0c36d30d4c47",
+    "wof:geomhash":"08f5133cd01e259001d8126678165645",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404342095,
-    "wof:lastmodified":1582361820,
+    "wof:lastmodified":1684352435,
     "wof:name":"Comillas",
     "wof:parent_id":85682833,
     "wof:placetype":"localadmin",
+    "wof:population":2124,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

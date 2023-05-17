@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31115",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Garralda",
+    "eurostat:nuts_2021_id":"31115",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31115",
+    "eurostat:population":191,
+    "eurostat:population_year":2020,
     "geom:area":0.002373,
     "geom:area_square_m":21474940.763888,
     "geom:bbox":"-1.33537241,42.92376832,-1.27412403,42.99494103",
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31115",
+        "eurostat:nuts_2021_id":"31115",
         "gn:id":6359663,
         "gp:id":12688290,
         "qs_pg:id":977118
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2357cceaf07c9240a5565b12a37918b1",
+    "wof:geomhash":"9c7a8e59d30b22d5b745e1dd1fae4290",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404339705,
-    "wof:lastmodified":1582361589,
+    "wof:lastmodified":1684352397,
     "wof:name":"Garralda",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":191,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

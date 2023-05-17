@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31061",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Busto, El",
+    "eurostat:nuts_2021_id":"31061",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31061",
+    "eurostat:population":54,
+    "eurostat:population_year":2020,
     "geom:area":0.000787,
-    "geom:area_square_m":7167783.631173,
+    "geom:area_square_m":7167783.631172,
     "geom:bbox":"-2.25392305,42.51414394,-2.2238763,42.55892204",
     "geom:latitude":42.539667,
     "geom:longitude":-2.238128,
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31061",
+        "eurostat:nuts_2021_id":"31061",
         "gn:id":6359609,
         "gp:id":12688237,
         "qs_pg:id":621765
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"be4466c78b3ec5143dc0513d5651aaf7",
+    "wof:geomhash":"70272bbf583c378db4198a21e881b9ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404339581,
-    "wof:lastmodified":1582361588,
+    "wof:lastmodified":1684352396,
     "wof:name":"El Busto",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":54,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

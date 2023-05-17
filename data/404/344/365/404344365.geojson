@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Almendral de la Ca\u00f1ada",
+    "eurostat:nuts_2021_id":"45011",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45011",
+    "eurostat:population":323,
+    "eurostat:population_year":2020,
     "geom:area":0.003557,
-    "geom:area_square_m":33604459.279089,
+    "geom:area_square_m":33604459.279088,
     "geom:bbox":"-4.86007017,40.1503523,-4.69546392,40.21628315",
     "geom:latitude":40.186344,
     "geom:longitude":-4.748143,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45011",
+        "eurostat:nuts_2021_id":"45011",
         "gn:id":6361672,
         "gp:id":12690933,
         "qs_pg:id":51666
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e1181ca4bd2438daf93ad3ad59a6c9e6",
+    "wof:geomhash":"b9120ebea2137180befafb9c2243d7b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404344365,
-    "wof:lastmodified":1582361843,
+    "wof:lastmodified":1684352473,
     "wof:name":"Almendral De La Ca\u00f1ada",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":323,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

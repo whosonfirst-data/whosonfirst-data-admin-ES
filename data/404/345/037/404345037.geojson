@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chelva",
+    "eurostat:nuts_2021_id":"46106",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46106",
+    "eurostat:population":1531,
+    "eurostat:population_year":2020,
     "geom:area":0.020023,
-    "geom:area_square_m":190376769.920511,
+    "geom:area_square_m":190376769.92051,
     "geom:bbox":"-1.14683391,39.61343396,-0.88338048,39.84947001",
     "geom:latitude":39.742711,
     "geom:longitude":-1.017024,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46106",
+        "eurostat:nuts_2021_id":"46106",
         "gn:id":6361971,
         "gp:id":12695640,
         "qs_pg:id":48590
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"da5f31c7914d919bf968427d39de0004",
+    "wof:geomhash":"4338842b15c4872749673a2365ed6fba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404345037,
-    "wof:lastmodified":1582361830,
+    "wof:lastmodified":1684352481,
     "wof:name":"Chelva",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":1531,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

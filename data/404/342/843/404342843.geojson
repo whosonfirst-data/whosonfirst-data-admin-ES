@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_41045",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gerena",
+    "eurostat:nuts_2021_id":"41045",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES618",
+    "eurostat:nuts_2021_level_lau":"41045",
+    "eurostat:population":7674,
+    "eurostat:population_year":2020,
     "geom:area":0.013244,
-    "geom:area_square_m":129836912.568082,
+    "geom:area_square_m":129836912.568083,
     "geom:bbox":"-6.25721606,37.47402218,-6.08634002,37.63634197",
     "geom:latitude":37.548835,
     "geom:longitude":-6.168266,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_41045",
+        "eurostat:nuts_2021_id":"41045",
         "gn:id":6361000,
         "gp:id":12689337,
         "qs_pg:id":1197728
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"acdac81bb9cc477351376abdfd72ff04",
+    "wof:geomhash":"c4f3fd25403402026d720c6a7764186c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404342843,
-    "wof:lastmodified":1582361810,
+    "wof:lastmodified":1684352444,
     "wof:name":"Gerena",
     "wof:parent_id":85682841,
     "wof:placetype":"localadmin",
+    "wof:population":7674,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

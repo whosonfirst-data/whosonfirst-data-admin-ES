@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50266",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trasobares",
+    "eurostat:nuts_2021_id":"50266",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50266",
+    "eurostat:population":115,
+    "eurostat:population_year":2020,
     "geom:area":0.007757,
     "geom:area_square_m":71660549.499654,
     "geom:bbox":"-1.69231552,41.60752362,-1.54754518,41.71725285",
@@ -99,6 +111,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -106,9 +120,12 @@
         404227363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_50266",
+        "eurostat:nuts_2021_id":"50266"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"4abe193d868622073a74d805240e7d13",
+    "wof:geomhash":"ff8ae1f169b1fe1182e521c658f5f470",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +136,12 @@
         }
     ],
     "wof:id":404347295,
-    "wof:lastmodified":1566590453,
+    "wof:lastmodified":1684352509,
     "wof:name":"Trasobares",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":115,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

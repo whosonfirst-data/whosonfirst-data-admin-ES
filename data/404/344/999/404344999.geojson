@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46089",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casinos",
+    "eurostat:nuts_2021_id":"46089",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46089",
+    "eurostat:population":2780,
+    "eurostat:population_year":2020,
     "geom:area":0.004357,
-    "geom:area_square_m":41446476.454819,
+    "geom:area_square_m":41446476.454821,
     "geom:bbox":"-0.79330952,39.6667624,-0.68766752,39.73621788",
     "geom:latitude":39.703453,
     "geom:longitude":-0.743426,
@@ -45,6 +57,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -53,6 +67,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46089",
+        "eurostat:nuts_2021_id":"46089",
         "gn:id":6361954,
         "gp:id":12695630,
         "qs_pg:id":491928
@@ -61,7 +77,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b837794db5721a43d421434927768e9b",
+    "wof:geomhash":"3f853dd878c41573dd7b435bbbc257e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
         }
     ],
     "wof:id":404344999,
-    "wof:lastmodified":1582361845,
+    "wof:lastmodified":1684352481,
     "wof:name":"Casinos",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":2780,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

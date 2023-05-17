@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43093,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43093",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"M\u00f3ra d'Ebre",
+    "eurostat:nuts_2021_id":"43093",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43093",
+    "eurostat:population":5695,
+    "eurostat:population_year":2020,
     "geom:area":0.004858,
-    "geom:area_square_m":45270643.763379,
+    "geom:area_square_m":45270606.052343,
     "geom:bbox":"0.53301,41.064746,0.659331,41.135534",
     "geom:latitude":41.098127,
     "geom:longitude":0.597248,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43093",
         "esp-icgc:la_lc":"043093",
+        "eurostat:nuts_2021_id":"43093",
         "gn:id":6361335,
         "gp:id":12694230,
         "qs_pg:id":885951
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"d14fdc81fbf449200f9475714b5f6026",
+    "wof:geomhash":"9aa37b3ba1f21407d326d97fb7dd54a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404343599,
-    "wof:lastmodified":1669903065,
+    "wof:lastmodified":1684352457,
     "wof:name":"M\u00f3ra d'Ebre",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":5695,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

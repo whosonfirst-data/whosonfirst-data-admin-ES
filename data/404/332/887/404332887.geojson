@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10169",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santiago de Alc\u00e1ntara",
+    "eurostat:nuts_2021_id":"10169",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10169",
+    "eurostat:population":507,
+    "eurostat:population_year":2020,
     "geom:area":0.010035,
     "geom:area_square_m":95581661.05512,
     "geom:bbox":"-7.32507513,39.54964582,-7.17868778,39.66729262",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10169",
+        "eurostat:nuts_2021_id":"10169",
         "gn:id":6356864,
         "gp:id":12694651,
         "qs_pg:id":1102901
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c862c14fe2bf3c30720fd4b50a9e4b46",
+    "wof:geomhash":"39547c2a686ca8f4711cec423b829ec6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332887,
-    "wof:lastmodified":1582361679,
+    "wof:lastmodified":1684352270,
     "wof:name":"Santiago De Alc\u00e1ntara",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":507,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

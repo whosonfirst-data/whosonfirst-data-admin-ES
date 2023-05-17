@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16128",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monreal del Llano",
+    "eurostat:nuts_2021_id":"16128",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16128",
+    "eurostat:population":53,
+    "eurostat:population_year":2020,
     "geom:area":0.00409,
-    "geom:area_square_m":38988175.613165,
+    "geom:area_square_m":38988175.613166,
     "geom:bbox":"-2.8057341,39.50906843,-2.74280161,39.61127082",
     "geom:latitude":39.56071,
     "geom:longitude":-2.772843,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16128",
+        "eurostat:nuts_2021_id":"16128",
         "gn:id":6357473,
         "gp:id":12690513,
         "qs_pg:id":270580
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6b591b067ffd7dae12ab02b21126193b",
+    "wof:geomhash":"9986970f69f319fa7e3ef5862896aa77",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404334273,
-    "wof:lastmodified":1582361722,
+    "wof:lastmodified":1684352295,
     "wof:name":"Monreal Del Llano",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":53,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Abades",
+    "eurostat:nuts_2021_id":"40001",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40001",
+    "eurostat:population":857,
+    "eurostat:population_year":2020,
     "geom:area":0.003418,
-    "geom:area_square_m":31941591.23668,
+    "geom:area_square_m":31941591.236679,
     "geom:bbox":"-4.33550282,40.88665442,-4.22235179,40.94226975",
     "geom:latitude":40.914147,
     "geom:longitude":-4.276958,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_40001",
+        "eurostat:nuts_2021_id":"40001",
         "gn:id":6360747,
         "gp:id":12692512,
         "qs_pg:id":1003804
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"02d368a02f31f88e21c94eb43c09e3d0",
+    "wof:geomhash":"a0f93a5db81cda9a0f992cba85fb55e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404342273,
-    "wof:lastmodified":1582361808,
+    "wof:lastmodified":1684352438,
     "wof:name":"Abades",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":857,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

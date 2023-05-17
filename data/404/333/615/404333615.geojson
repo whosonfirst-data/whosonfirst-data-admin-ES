@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_13091",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villamayor de Calatrava",
+    "eurostat:nuts_2021_id":"13091",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES422",
+    "eurostat:nuts_2021_level_lau":"13091",
+    "eurostat:population":620,
+    "eurostat:population_year":2020,
     "geom:area":0.015015,
     "geom:area_square_m":144702494.144327,
     "geom:bbox":"-4.33533306,38.74515743,-4.06472852,38.83461617",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227375
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_13091",
+        "eurostat:nuts_2021_id":"13091"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"1889812a0a3c19a370e5d96dad923570",
+    "wof:geomhash":"6898df02972e9e4e81024a5deaf8239d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404333615,
-    "wof:lastmodified":1566590813,
+    "wof:lastmodified":1684352281,
     "wof:name":"Villamayor De Calatrava",
     "wof:parent_id":85682689,
     "wof:placetype":"localadmin",
+    "wof:population":620,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

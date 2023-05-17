@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_32074",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Amaro",
+    "eurostat:nuts_2021_id":"32074",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES113",
+    "eurostat:nuts_2021_level_lau":"32074",
+    "eurostat:population":1052,
+    "eurostat:population_year":2020,
     "geom:area":0.003173,
-    "geom:area_square_m":28990135.347593,
+    "geom:area_square_m":28990135.34759,
     "geom:bbox":"-8.10710175,42.33455542,-8.02563901,42.40022948",
     "geom:latitude":42.371162,
     "geom:longitude":-8.062611,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_32074",
+        "eurostat:nuts_2021_id":"32074",
         "gn:id":6359891,
         "gp:id":12694932,
         "qs_pg:id":968791
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"358a463796acd0cf493794050b0b0788",
+    "wof:geomhash":"5f17f4e7a6b1782073b23fb5903d8a20",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404340239,
-    "wof:lastmodified":1582361663,
+    "wof:lastmodified":1684352404,
     "wof:name":"San Amaro",
     "wof:parent_id":85682801,
     "wof:placetype":"localadmin",
+    "wof:population":1052,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

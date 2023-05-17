@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28062",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Garganta de los Montes",
+    "eurostat:nuts_2021_id":"28062",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28062",
+    "eurostat:population":377,
+    "eurostat:population_year":2020,
     "geom:area":0.004315,
-    "geom:area_square_m":40311715.994436,
+    "geom:area_square_m":40311715.994437,
     "geom:bbox":"-3.7253031,40.88044737,-3.64446074,40.97870101",
     "geom:latitude":40.929154,
     "geom:longitude":-3.684101,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28062",
+        "eurostat:nuts_2021_id":"28062",
         "gn:id":6359288,
         "gp:id":12688007,
         "qs_pg:id":209530
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"deec5a6fcae51d29def7947b16dd3a0f",
+    "wof:geomhash":"b7b66f4f906a52f58e9e0e84486d9d58",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404338827,
-    "wof:lastmodified":1582361432,
+    "wof:lastmodified":1684352383,
     "wof:name":"Garganta De Los Montes",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":377,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12036",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Canet lo Roig",
+    "eurostat:nuts_2021_id":"12036",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12036",
+    "eurostat:population":676,
+    "eurostat:population_year":2020,
     "geom:area":0.007302,
-    "geom:area_square_m":68598907.977632,
+    "geom:area_square_m":68598907.977631,
     "geom:bbox":"0.16318442,40.51565089,0.31104358,40.61695028",
     "geom:latitude":40.561591,
     "geom:longitude":0.233551,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12036",
+        "eurostat:nuts_2021_id":"12036",
         "gn:id":6356991,
         "gp:id":12695439,
         "qs_pg:id":48472
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a421a1c32c359e1d6656a265b8893874",
+    "wof:geomhash":"70efca7b292d5c5e9065cbd970cb55ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404333177,
-    "wof:lastmodified":1582361784,
+    "wof:lastmodified":1684352275,
     "wof:name":"Canet Lo Roig",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":676,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17199,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17199",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torroella de Montgr\u00ed",
+    "eurostat:nuts_2021_id":"17199",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17199",
+    "eurostat:population":11836,
+    "eurostat:population_year":2020,
     "geom:area":0.007164,
-    "geom:area_square_m":65771664.549543,
+    "geom:area_square_m":65771626.511877,
     "geom:bbox":"3.099616,42.002876,3.228777,42.108904",
     "geom:latitude":42.057259,
     "geom:longitude":3.160765,
@@ -70,6 +82,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -78,7 +92,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17199",
         "esp-icgc:la_lc":"017199",
+        "eurostat:nuts_2021_id":"17199",
         "gn:id":6534154,
         "gp:id":12693873,
         "qs_pg:id":1188748
@@ -88,7 +104,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"f763b5c8ebc6855d8121767e4dfdd754",
+    "wof:geomhash":"d1ab2f8692f5802b9f8b682eaf49b8c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,10 +115,12 @@
         }
     ],
     "wof:id":404334973,
-    "wof:lastmodified":1669903054,
+    "wof:lastmodified":1684352317,
     "wof:name":"Torroella de Montgr\u00ed",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":11836,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

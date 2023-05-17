@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8172,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08172",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Premi\u00e0 de Mar",
+    "eurostat:nuts_2021_id":"08172",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08172",
+    "eurostat:population":28531,
+    "eurostat:population_year":2020,
     "geom:area":0.000227,
-    "geom:area_square_m":2104949.469263,
+    "geom:area_square_m":2104963.283139,
     "geom:bbox":"2.344083,41.485064,2.376835,41.498661",
     "geom:latitude":41.492105,
     "geom:longitude":2.358898,
@@ -74,6 +86,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -82,7 +96,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08172",
         "esp-icgc:la_lc":"08172",
+        "eurostat:nuts_2021_id":"08172",
         "gn:id":6356198,
         "gp:id":12693553,
         "qs_pg:id":201794
@@ -92,7 +108,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"5a91190d407644646e94a03469c0f003",
+    "wof:geomhash":"1553cc9dbfcdf96b847293fc71318559",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,10 +119,12 @@
         }
     ],
     "wof:id":404331265,
-    "wof:lastmodified":1669903011,
+    "wof:lastmodified":1684352246,
     "wof:name":"Premi\u00e0 de Mar",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":28531,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

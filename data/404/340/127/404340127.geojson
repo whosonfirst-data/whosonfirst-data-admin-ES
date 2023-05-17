@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_32025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cenlle",
+    "eurostat:nuts_2021_id":"32025",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES113",
+    "eurostat:nuts_2021_level_lau":"32025",
+    "eurostat:population":1100,
+    "eurostat:population_year":2020,
     "geom:area":0.003172,
-    "geom:area_square_m":28989856.879429,
+    "geom:area_square_m":28989856.879432,
     "geom:bbox":"-8.1243513,42.30235769,-8.0057418,42.38111254",
     "geom:latitude":42.339494,
     "geom:longitude":-8.077202,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_32025",
+        "eurostat:nuts_2021_id":"32025",
         "gn:id":6359843,
         "gp:id":12694887,
         "qs_pg:id":48196
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b72b9ce99fe5b79060fee2219faad609",
+    "wof:geomhash":"ea241e92e374c599cca8513757e42437",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404340127,
-    "wof:lastmodified":1582361654,
+    "wof:lastmodified":1684352402,
     "wof:name":"Cenlle",
     "wof:parent_id":85682801,
     "wof:placetype":"localadmin",
+    "wof:population":1100,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

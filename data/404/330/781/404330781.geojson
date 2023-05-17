@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_07024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Formentera",
+    "eurostat:nuts_2021_id":"07024",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES53",
+    "eurostat:nuts_2021_level_3":"ES531",
+    "eurostat:nuts_2021_level_lau":"07024",
+    "eurostat:population":11904,
+    "eurostat:population_year":2020,
     "geom:area":0.008571,
-    "geom:area_square_m":82725283.446781,
+    "geom:area_square_m":82725283.446776,
     "geom:bbox":"1.38013601,38.64038758,1.58475104,38.80710203",
     "geom:latitude":38.691983,
     "geom:longitude":1.458946,
@@ -201,6 +213,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -209,6 +223,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_07024",
+        "eurostat:nuts_2021_id":"07024",
         "gp:id":12687731,
         "qs_pg:id":898680
     },
@@ -216,7 +232,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4514d8fb8f01c20f9368411b23875c01",
+    "wof:geomhash":"22d45c8e8b5531e00ad7fefd64698aca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -227,10 +243,12 @@
         }
     ],
     "wof:id":404330781,
-    "wof:lastmodified":1582361542,
+    "wof:lastmodified":1684352230,
     "wof:name":"Formentera",
     "wof:parent_id":85682647,
     "wof:placetype":"localadmin",
+    "wof:population":11904,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

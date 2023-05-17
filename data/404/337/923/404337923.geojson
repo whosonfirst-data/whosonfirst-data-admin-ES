@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25154,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25154",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Omells de na Gaia, Els",
+    "eurostat:nuts_2021_id":"25154",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25154",
+    "eurostat:population":130,
+    "eurostat:population_year":2020,
     "geom:area":0.001403,
-    "geom:area_square_m":12992352.531706,
+    "geom:area_square_m":12992365.204976,
     "geom:bbox":"1.036455,41.476332,1.105859,41.513346",
     "geom:latitude":41.496878,
     "geom:longitude":1.076608,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25154",
         "esp-icgc:la_lc":"025154",
+        "eurostat:nuts_2021_id":"25154",
         "gn:id":6358894,
         "gp:id":12694046,
         "qs_pg:id":47622
@@ -67,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e6e4f8eb1fcbbefe7b6977cee37bddc3",
+    "wof:geomhash":"3ec605a8fce935161226a967bb93afb6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404337923,
-    "wof:lastmodified":1669903024,
+    "wof:lastmodified":1684352365,
     "wof:name":"Els Omells de na Gaia",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":130,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

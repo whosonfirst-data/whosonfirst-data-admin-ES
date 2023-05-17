@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31098",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Esteribar",
+    "eurostat:nuts_2021_id":"31098",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31098",
+    "eurostat:population":2726,
+    "eurostat:population_year":2020,
     "geom:area":0.016187,
-    "geom:area_square_m":146520326.01968,
+    "geom:area_square_m":146520326.019679,
     "geom:bbox":"-1.5976094,42.8349384,-1.46888383,43.06432367",
     "geom:latitude":42.944441,
     "geom:longitude":-1.527061,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31098",
+        "eurostat:nuts_2021_id":"31098",
         "gp:id":12688269,
         "qs_pg:id":62643
     },
@@ -114,7 +130,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9d01d38abcda2c93887b42e538fc265f",
+    "wof:geomhash":"0be73fa6fc694cf525fde208ec978d0a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +141,12 @@
         }
     ],
     "wof:id":404339665,
-    "wof:lastmodified":1582361595,
+    "wof:lastmodified":1684352397,
     "wof:name":"Esteribar",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":2726,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

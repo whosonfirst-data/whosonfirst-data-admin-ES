@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17068,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17068",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Foix\u00e0",
+    "eurostat:nuts_2021_id":"17068",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17068",
+    "eurostat:population":303,
+    "eurostat:population_year":2020,
     "geom:area":0.001997,
-    "geom:area_square_m":18332644.321635,
+    "geom:area_square_m":18332563.523888,
     "geom:bbox":"2.972677,42.02427,3.043785,42.08503",
     "geom:latitude":42.050743,
     "geom:longitude":3.000901,
@@ -127,6 +139,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -135,7 +149,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17068",
         "esp-icgc:la_lc":"017068",
+        "eurostat:nuts_2021_id":"17068",
         "gn:id":6534058,
         "gp:id":12693749,
         "qs_pg:id":267079
@@ -145,7 +161,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"ba68bb6a70e96c604149d008c0aad905",
+    "wof:geomhash":"18f6b8bf6385160341bdb626945871d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404334699,
-    "wof:lastmodified":1669903053,
+    "wof:lastmodified":1684352306,
     "wof:name":"Foix\u00e0",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":303,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03081",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Xal\u00f3",
+    "eurostat:nuts_2021_id":"03081",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03081",
+    "eurostat:population":2868,
+    "eurostat:population_year":2020,
     "geom:area":0.003582,
-    "geom:area_square_m":34561953.533837,
+    "geom:area_square_m":34561953.533839,
     "geom:bbox":"-0.06491964,38.65863202,0.00630511,38.76926732",
     "geom:latitude":38.712526,
     "geom:longitude":-0.031086,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227381
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_03081",
+        "eurostat:nuts_2021_id":"03081"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"f159658b488e73d60a1ae7c3687057aa",
+    "wof:geomhash":"120339223a10dc9ccde3bcf29ea8e502",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404329433,
-    "wof:lastmodified":1566590897,
+    "wof:lastmodified":1684352209,
     "wof:name":"Xal\u00f3",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":2868,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

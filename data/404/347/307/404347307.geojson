@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50272",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Utebo",
+    "eurostat:nuts_2021_id":"50272",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50272",
+    "eurostat:population":18822,
+    "eurostat:population_year":2020,
     "geom:area":0.001917,
     "geom:area_square_m":17696876.074346,
     "geom:bbox":"-1.04095713,41.6906458,-0.96548503,41.74468194",
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50272",
+        "eurostat:nuts_2021_id":"50272",
         "gn:id":6362958,
         "gp:id":12690098,
         "qs_pg:id":212323
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c08b6fb2997c752e3532eed0bf7b80ef",
+    "wof:geomhash":"9577f405b3383a9a03acc4a56a78b41c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404347307,
-    "wof:lastmodified":1582361669,
+    "wof:lastmodified":1684352510,
     "wof:name":"Utebo",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":18822,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

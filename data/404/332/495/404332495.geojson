@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09902",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valle de Santib\u00e1\u00f1ez",
+    "eurostat:nuts_2021_id":"09902",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09902",
+    "eurostat:population":483,
+    "eurostat:population_year":2020,
     "geom:area":0.01159,
-    "geom:area_square_m":105694015.742549,
+    "geom:area_square_m":105694015.742548,
     "geom:bbox":"-3.90991543,42.42800915,-3.73655108,42.5384065",
     "geom:latitude":42.48006,
     "geom:longitude":-3.817915,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_09902",
+        "eurostat:nuts_2021_id":"09902"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"d72b775f5d215e0c02249357cf928087",
+    "wof:geomhash":"999122e156727d40c2c644c3c04412f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404332495,
-    "wof:lastmodified":1566590529,
+    "wof:lastmodified":1684352265,
     "wof:name":"Valle De Santib\u00e1\u00f1ez",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":483,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aldeanueva del Camino",
+    "eurostat:nuts_2021_id":"10015",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10015",
+    "eurostat:population":727,
+    "eurostat:population_year":2020,
     "geom:area":0.002123,
-    "geom:area_square_m":20031930.532564,
+    "geom:area_square_m":20031930.532567,
     "geom:bbox":"-5.97213418,40.23041046,-5.88164807,40.2914882",
     "geom:latitude":40.262582,
     "geom:longitude":-5.937701,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10015",
+        "eurostat:nuts_2021_id":"10015",
         "gn:id":6356712,
         "gp:id":12694497,
         "qs_pg:id":1102859
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d5ae98fff185489ccd4127fd6d8e02e6",
+    "wof:geomhash":"3f1301a4b0a234b9d5a317f5a4198836",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332543,
-    "wof:lastmodified":1582361683,
+    "wof:lastmodified":1684352265,
     "wof:name":"Aldeanueva Del Camino",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":727,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_35033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vega de San Mateo",
+    "eurostat:nuts_2021_id":"35033",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES7",
+    "eurostat:nuts_2021_level_2":"ES70",
+    "eurostat:nuts_2021_level_3":"ES705",
+    "eurostat:nuts_2021_level_lau":"35033",
+    "eurostat:population":7569,
+    "eurostat:population_year":2020,
     "geom:area":0.003477,
-    "geom:area_square_m":37958425.629274,
+    "geom:area_square_m":37958425.629264,
     "geom:bbox":"-15.60005528,27.95595977,-15.51346624,28.03751877",
     "geom:latitude":28.000241,
     "geom:longitude":-15.559745,
@@ -42,6 +54,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -50,6 +64,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_35033",
+        "eurostat:nuts_2021_id":"35033",
         "gn:id":6360203,
         "gp:id":12690157,
         "qs_pg:id":248542
@@ -58,7 +74,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f840e289bc53343c657a7264eb37dfa6",
+    "wof:geomhash":"705322a700c28218da1091fc3be32837",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +85,12 @@
         }
     ],
     "wof:id":404340959,
-    "wof:lastmodified":1582361658,
+    "wof:lastmodified":1684352417,
     "wof:name":"Vega De San Mateo",
     "wof:parent_id":85682821,
     "wof:placetype":"localadmin",
+    "wof:population":7569,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

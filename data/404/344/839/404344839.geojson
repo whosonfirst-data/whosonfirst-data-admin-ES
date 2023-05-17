@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alcublas",
+    "eurostat:nuts_2021_id":"46018",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46018",
+    "eurostat:population":611,
+    "eurostat:population_year":2020,
     "geom:area":0.004576,
-    "geom:area_square_m":43471567.502046,
+    "geom:area_square_m":43471567.502049,
     "geom:bbox":"-0.71254981,39.7540844,-0.64470751,39.85246341",
     "geom:latitude":39.803861,
     "geom:longitude":-0.678713,
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46018",
+        "eurostat:nuts_2021_id":"46018",
         "gn:id":6361883,
         "gp:id":12695559,
         "qs_pg:id":1149678
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"77402830db8d1c7afcc8ec47923a5a83",
+    "wof:geomhash":"17f939d733c84820597a87137e73e09b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404344839,
-    "wof:lastmodified":1582361857,
+    "wof:lastmodified":1684352479,
     "wof:name":"Alcublas",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":611,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

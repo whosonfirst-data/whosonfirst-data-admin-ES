@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25193,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25193",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Lloren\u00e7 de Morunys",
+    "eurostat:nuts_2021_id":"25193",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25193",
+    "eurostat:population":960,
+    "eurostat:population_year":2020,
     "geom:area":0.0005,
-    "geom:area_square_m":4589437.875727,
+    "geom:area_square_m":4589423.927466,
     "geom:bbox":"1.570351,42.111748,1.607252,42.149739",
     "geom:latitude":42.13232,
     "geom:longitude":1.587447,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25193",
         "esp-icgc:la_lc":"025193",
+        "eurostat:nuts_2021_id":"25193",
         "gn:id":6358926,
         "gp:id":12694081,
         "qs_pg:id":905061
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"bf645bdee2d6d6c420d71720d6facf0b",
+    "wof:geomhash":"7668ac669e04197746fd3dfd859485d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404337995,
-    "wof:lastmodified":1669903025,
+    "wof:lastmodified":1684352367,
     "wof:name":"Sant Lloren\u00e7 de Morunys",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":960,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

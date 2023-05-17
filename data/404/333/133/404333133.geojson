@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Altura",
+    "eurostat:nuts_2021_id":"12012",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12012",
+    "eurostat:population":3601,
+    "eurostat:population_year":2020,
     "geom:area":0.013629,
-    "geom:area_square_m":129447790.733754,
+    "geom:area_square_m":129447790.733755,
     "geom:bbox":"-0.65615128,39.74168829,-0.4939531,39.87338313",
     "geom:latitude":39.814894,
     "geom:longitude":-0.584557,
@@ -66,6 +78,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -74,6 +88,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12012",
+        "eurostat:nuts_2021_id":"12012",
         "gn:id":6356971,
         "gp:id":12695418,
         "qs_pg:id":907062
@@ -82,7 +98,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"47f064a7391a51e3ea6ce8319ce3fac8",
+    "wof:geomhash":"91a3a6fef6751519ddffcfe1c7f5e527",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,10 +109,12 @@
         }
     ],
     "wof:id":404333133,
-    "wof:lastmodified":1582361760,
+    "wof:lastmodified":1684352274,
     "wof:name":"Altura",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":3601,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

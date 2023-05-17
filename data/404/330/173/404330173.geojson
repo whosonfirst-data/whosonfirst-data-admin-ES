@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05185",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pe\u00f1alba de \u00c1vila",
+    "eurostat:nuts_2021_id":"05185",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05185",
+    "eurostat:population":105,
+    "eurostat:population_year":2020,
     "geom:area":0.00251,
-    "geom:area_square_m":23495706.881948,
+    "geom:area_square_m":23495706.881949,
     "geom:bbox":"-4.76538181,40.7588881,-4.67550239,40.83578826",
     "geom:latitude":40.795991,
     "geom:longitude":-4.721861,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05185",
+        "eurostat:nuts_2021_id":"05185",
         "gn:id":6355785,
         "qs_pg:id":621546
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"070e0cae346effc9020fc3893f69d10b",
+    "wof:geomhash":"f7650b846e2b1e8d1af9ee62c56606a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404330173,
-    "wof:lastmodified":1582361528,
+    "wof:lastmodified":1684352220,
     "wof:name":"Pe\u00f1alba De \u00c1vila",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":105,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

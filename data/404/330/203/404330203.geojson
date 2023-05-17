@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05198",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Salvadi\u00f3s",
+    "eurostat:nuts_2021_id":"05198",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05198",
+    "eurostat:population":69,
+    "eurostat:population_year":2020,
     "geom:area":0.002178,
-    "geom:area_square_m":20359824.969124,
+    "geom:area_square_m":20359824.969122,
     "geom:bbox":"-5.11412891,40.85737171,-5.0397656,40.91215381",
     "geom:latitude":40.88797,
     "geom:longitude":-5.080004,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05198",
+        "eurostat:nuts_2021_id":"05198",
         "gn:id":6355798,
         "gp:id":12691307,
         "qs_pg:id":46185
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2b626f41c44737c3e61f7252478c0aa4",
+    "wof:geomhash":"59307ada1bf38bd05ef1926a0f2a3778",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404330203,
-    "wof:lastmodified":1582361526,
+    "wof:lastmodified":1684352220,
     "wof:name":"Salvadi\u00f3s",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":69,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

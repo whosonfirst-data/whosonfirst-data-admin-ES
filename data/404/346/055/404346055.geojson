@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48067",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Muxika",
+    "eurostat:nuts_2021_id":"48067",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48067",
+    "eurostat:population":1468,
+    "eurostat:population_year":2020,
     "geom:area":0.005529,
-    "geom:area_square_m":49787830.474855,
+    "geom:area_square_m":49787830.474857,
     "geom:bbox":"-2.74098707,43.20367422,-2.6119643,43.3077949",
     "geom:latitude":43.258857,
     "geom:longitude":-2.686,
@@ -99,6 +111,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -106,9 +120,12 @@
         404227393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_48067",
+        "eurostat:nuts_2021_id":"48067"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"94c8ee2d61c9bbd0ec58a0bbd94a9a75",
+    "wof:geomhash":"5f2ab42d9ba1daeec03f6b6b617309b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +136,12 @@
         }
     ],
     "wof:id":404346055,
-    "wof:lastmodified":1566590241,
+    "wof:lastmodified":1684352494,
     "wof:name":"Muxika",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":1468,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

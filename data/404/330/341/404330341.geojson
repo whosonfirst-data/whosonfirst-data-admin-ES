@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05265",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vita",
+    "eurostat:nuts_2021_id":"05265",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05265",
+    "eurostat:population":83,
+    "eurostat:population_year":2020,
     "geom:area":0.001771,
     "geom:area_square_m":16575575.695357,
     "geom:bbox":"-5.02655418,40.78617898,-4.96849006,40.84669019",
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05265",
+        "eurostat:nuts_2021_id":"05265",
         "gn:id":6355859,
         "gp:id":12691372,
         "qs_pg:id":46211
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1ffb958c964b1b82b52bf39c04ad3e81",
+    "wof:geomhash":"7af98b1890c9d6e053a7a7a1878b07ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404330341,
-    "wof:lastmodified":1582361528,
+    "wof:lastmodified":1684352222,
     "wof:name":"Vita",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":83,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

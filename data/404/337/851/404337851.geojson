@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25120,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25120",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lleida",
+    "eurostat:nuts_2021_id":"25120",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25120",
+    "eurostat:population":140403,
+    "eurostat:population_year":2020,
     "geom:area":0.022916,
-    "geom:area_square_m":211795691.934314,
+    "geom:area_square_m":211795778.167715,
     "geom:bbox":"0.363557,41.510122,0.742513,41.739616",
     "geom:latitude":41.631316,
     "geom:longitude":0.581205,
@@ -259,6 +271,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -267,7 +281,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25120",
         "esp-icgc:la_lc":"025120",
+        "eurostat:nuts_2021_id":"25120",
         "gn:id":6358863,
         "gp:id":12694019,
         "qs_pg:id":1069415
@@ -277,7 +293,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"90babc2d33a1e2ee79772df2dd05489e",
+    "wof:geomhash":"7d37ce8132fcb17654fbae41ae9b6e8b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -288,10 +304,12 @@
         }
     ],
     "wof:id":404337851,
-    "wof:lastmodified":1669903023,
+    "wof:lastmodified":1684352362,
     "wof:name":"Lleida",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":140403,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

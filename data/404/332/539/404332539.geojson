@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aldea del Obispo, La",
+    "eurostat:nuts_2021_id":"10013",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10013",
+    "eurostat:population":298,
+    "eurostat:population_year":2020,
     "geom:area":0.003967,
     "geom:area_square_m":37812308.271883,
     "geom:bbox":"-5.96197039,39.52408411,-5.8893598,39.60880537",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10013",
+        "eurostat:nuts_2021_id":"10013",
         "gn:id":6356710,
         "qs_pg:id":621574
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5de50dc2d91f7d59bf5489784c3208bb",
+    "wof:geomhash":"a2bf1cf89187054ccdbe17312b62b8ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404332539,
-    "wof:lastmodified":1582361684,
+    "wof:lastmodified":1684352265,
     "wof:name":"La Aldea Del Obispo",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":298,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

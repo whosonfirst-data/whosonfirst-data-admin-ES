@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17035,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cam\u00f3s",
+    "eurostat:nuts_2021_id":"17035",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17035",
+    "eurostat:population":677,
+    "eurostat:population_year":2020,
     "geom:area":0.001695,
-    "geom:area_square_m":15555057.7277,
+    "geom:area_square_m":15555057.727702,
     "geom:bbox":"2.72925260166,42.0586202433,2.79796959768,42.1031811949",
     "geom:latitude":42.084425,
     "geom:longitude":2.762074,
@@ -121,6 +133,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -129,7 +143,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17035",
         "esp-icgc:la_lc":"017035",
+        "eurostat:nuts_2021_id":"17035",
         "gn:id":6534032,
         "gp:id":12693718,
         "qs_pg:id":49354
@@ -139,7 +155,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6cfec2e8770c4e38c59d369fa45cf199",
+    "wof:geomhash":"81fb34ce3cafa6efec30458eb1edd53a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404334631,
-    "wof:lastmodified":1582361751,
+    "wof:lastmodified":1684352303,
     "wof:name":"Cam\u00f3s",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":677,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

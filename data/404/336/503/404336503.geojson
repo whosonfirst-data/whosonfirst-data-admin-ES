@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Almunia de San Juan",
+    "eurostat:nuts_2021_id":"22022",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22022",
+    "eurostat:population":666,
+    "eurostat:population_year":2020,
     "geom:area":0.003872,
-    "geom:area_square_m":35605989.730348,
+    "geom:area_square_m":35605989.730347,
     "geom:bbox":"0.17336551,41.91218526,0.28842429,41.98015593",
     "geom:latitude":41.950251,
     "geom:longitude":0.236588,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_22022",
+        "eurostat:nuts_2021_id":"22022"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"f3ccc36021d09ba9c24a70673691c733",
+    "wof:geomhash":"c26b4e210ec1bdf037b4e1489120cdbb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404336503,
-    "wof:lastmodified":1566589677,
+    "wof:lastmodified":1684352339,
     "wof:name":"Almunia De San Juan",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":666,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

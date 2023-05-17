@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8033,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caldes de Montbui",
+    "eurostat:nuts_2021_id":"08033",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08033",
+    "eurostat:population":17812,
+    "eurostat:population_year":2020,
     "geom:area":0.004057,
-    "geom:area_square_m":37486632.113417,
+    "geom:area_square_m":37486677.62014,
     "geom:bbox":"2.096114,41.601193,2.203941,41.68983",
     "geom:latitude":41.644657,
     "geom:longitude":2.157253,
@@ -71,6 +83,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -79,7 +93,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08033",
         "esp-icgc:la_lc":"08033",
+        "eurostat:nuts_2021_id":"08033",
         "gn:id":6356068,
         "gp:id":12693411,
         "qs_pg:id":1188725
@@ -89,7 +105,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"06d591d6e92d13949adead821b5aafaf",
+    "wof:geomhash":"89b352019a9c02ed781b75886a8f46a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,10 +116,12 @@
         }
     ],
     "wof:id":404330953,
-    "wof:lastmodified":1669903014,
+    "wof:lastmodified":1684352236,
     "wof:name":"Caldes de Montbui",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":17812,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

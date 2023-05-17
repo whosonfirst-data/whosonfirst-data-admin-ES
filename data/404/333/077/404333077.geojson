@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_11031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Fernando",
+    "eurostat:nuts_2021_id":"11031",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES612",
+    "eurostat:nuts_2021_level_lau":"11031",
+    "eurostat:population":95001,
+    "eurostat:population_year":2020,
     "geom:area":0.003081,
-    "geom:area_square_m":30642046.122228,
+    "geom:area_square_m":30641855.586841,
     "geom:bbox":"-6.242606,36.378854,-6.16823,36.507973",
     "geom:latitude":36.452705,
     "geom:longitude":-6.2046,
@@ -147,6 +159,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -155,6 +169,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_11031",
+        "eurostat:nuts_2021_id":"11031",
         "gn:id":6356946,
         "gp:id":12688758,
         "qs_pg:id":44895
@@ -163,7 +179,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"418ff82216fa88c74adc5444c5da92cb",
+    "wof:geomhash":"93dd378b5b57b803e90813ccb837c395",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -174,10 +190,12 @@
         }
     ],
     "wof:id":404333077,
-    "wof:lastmodified":1636503325,
+    "wof:lastmodified":1684352274,
     "wof:name":"San Fernando",
     "wof:parent_id":85682679,
     "wof:placetype":"localadmin",
+    "wof:population":95001,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

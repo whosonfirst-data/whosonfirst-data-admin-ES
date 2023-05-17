@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25039,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Baix Pallars",
+    "eurostat:nuts_2021_id":"25039",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25039",
+    "eurostat:population":331,
+    "eurostat:population_year":2020,
     "geom:area":0.01413,
-    "geom:area_square_m":129188568.247891,
+    "geom:area_square_m":129188568.247896,
     "geom:bbox":"0.952306167709,42.2590463169,1.17590507481,42.4176290386",
     "geom:latitude":42.321471,
     "geom:longitude":1.060809,
@@ -109,6 +121,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -117,7 +131,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25039",
         "esp-icgc:la_lc":"025039",
+        "eurostat:nuts_2021_id":"25039",
         "gp:id":12693939,
         "qs_pg:id":64519
     },
@@ -126,7 +142,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"ad482a20fed7ab82cdfcd0217cdba748",
+    "wof:geomhash":"c0cedfed659077b1795842cfcabb6956",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404337701,
-    "wof:lastmodified":1582361548,
+    "wof:lastmodified":1684352357,
     "wof:name":"Baix Pallars",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":331,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

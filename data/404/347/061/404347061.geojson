@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50161",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Manchones",
+    "eurostat:nuts_2021_id":"50161",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50161",
+    "eurostat:population":106,
+    "eurostat:population_year":2020,
     "geom:area":0.002878,
-    "geom:area_square_m":26791739.45856,
+    "geom:area_square_m":26791739.458561,
     "geom:bbox":"-1.52629127,41.12559837,-1.40150718,41.18608568",
     "geom:latitude":41.154624,
     "geom:longitude":-1.454616,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50161",
+        "eurostat:nuts_2021_id":"50161",
         "gn:id":6362848,
         "gp:id":12689988,
         "qs_pg:id":45549
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2b80f6031d3d0a4821c86034a1d1f8dc",
+    "wof:geomhash":"0f79d614e888512396163c665dbb83f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404347061,
-    "wof:lastmodified":1582361674,
+    "wof:lastmodified":1684352506,
     "wof:name":"Manchones",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":106,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

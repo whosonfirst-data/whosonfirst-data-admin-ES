@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09173",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Huerta de Arriba",
+    "eurostat:nuts_2021_id":"09173",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09173",
+    "eurostat:population":125,
+    "eurostat:population_year":2020,
     "geom:area":0.003611,
-    "geom:area_square_m":33131070.39946,
+    "geom:area_square_m":33131070.399461,
     "geom:bbox":"-3.11243078,42.05041627,-3.03437345,42.13584989",
     "geom:latitude":42.097036,
     "geom:longitude":-3.069949,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09173",
+        "eurostat:nuts_2021_id":"09173",
         "gn:id":6356462,
         "gp:id":12691509,
         "qs_pg:id":1147656
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f62265f38db18387375baa2df8ce8c9c",
+    "wof:geomhash":"bfefd9cb99e65dd0e6df962f4e0e1515",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404331941,
-    "wof:lastmodified":1582361495,
+    "wof:lastmodified":1684352259,
     "wof:name":"Huerta De Arriba",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":125,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49151",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Perdig\u00f3n, El",
+    "eurostat:nuts_2021_id":"49151",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49151",
+    "eurostat:population":673,
+    "eurostat:population_year":2020,
     "geom:area":0.005516,
-    "geom:area_square_m":51152580.766417,
+    "geom:area_square_m":51152580.766411,
     "geom:bbox":"-5.83962465,41.36769522,-5.73030068,41.46355176",
     "geom:latitude":41.415631,
     "geom:longitude":-5.787147,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_49151",
+        "eurostat:nuts_2021_id":"49151",
         "gn:id":6362586,
         "gp:id":12693265,
         "qs_pg:id":1171646
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"58c28a7f7932f491da84ba83c854f5ce",
+    "wof:geomhash":"f81e42a67801250d6c9738e4a59cdbb3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404346467,
-    "wof:lastmodified":1582361618,
+    "wof:lastmodified":1684352499,
     "wof:name":"El Perdig\u00f3n",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":673,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

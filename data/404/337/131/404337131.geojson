@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_23904",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santiago-Pontones",
+    "eurostat:nuts_2021_id":"23904",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES616",
+    "eurostat:nuts_2021_level_lau":"23904",
+    "eurostat:population":2911,
+    "eurostat:population_year":2020,
     "geom:area":0.070134,
-    "geom:area_square_m":682466781.305326,
+    "geom:area_square_m":682466781.305322,
     "geom:bbox":"-2.90412744,37.91933777,-2.44551232,38.27816931",
     "geom:latitude":38.097904,
     "geom:longitude":-2.674219,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_23904",
+        "eurostat:nuts_2021_id":"23904",
         "gp:id":12689168,
         "qs_pg:id":1306573
     },
@@ -123,7 +139,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ddd1775903f4ba7ff04ac5e159e7dfab",
+    "wof:geomhash":"23a19f7ec6f2bed604614a2c630e79e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404337131,
-    "wof:lastmodified":1582361565,
+    "wof:lastmodified":1684352349,
     "wof:name":"Santiago-Pontones",
     "wof:parent_id":85682757,
     "wof:placetype":"localadmin",
+    "wof:population":2911,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

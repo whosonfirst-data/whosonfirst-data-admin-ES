@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19181",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Miedes de Atienza",
+    "eurostat:nuts_2021_id":"19181",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19181",
+    "eurostat:population":53,
+    "eurostat:population_year":2020,
     "geom:area":0.004619,
     "geom:area_square_m":42934382.742117,
     "geom:bbox":"-3.00669272,41.1957865,-2.89812281,41.29322833",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19181",
+        "eurostat:nuts_2021_id":"19181",
         "gn:id":6357953,
         "gp:id":12690783,
         "qs_pg:id":1248490
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2503d3be45e4f32f8a54a582f38a8704",
+    "wof:geomhash":"ace219bd705376e7183122d95d88bde5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404335767,
-    "wof:lastmodified":1582361703,
+    "wof:lastmodified":1684352329,
     "wof:name":"Miedes De Atienza",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":53,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

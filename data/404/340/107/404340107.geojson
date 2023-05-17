@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_32016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calvos de Rand\u00edn",
+    "eurostat:nuts_2021_id":"32016",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES113",
+    "eurostat:nuts_2021_level_lau":"32016",
+    "eurostat:population":735,
+    "eurostat:population_year":2020,
     "geom:area":0.010625,
-    "geom:area_square_m":97732936.041597,
+    "geom:area_square_m":97732936.041595,
     "geom:bbox":"-7.91048738,41.84946858,-7.80196545,42.00645938",
     "geom:latitude":41.934711,
     "geom:longitude":-7.856417,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_32016",
+        "eurostat:nuts_2021_id":"32016",
         "gn:id":6359834,
         "gp:id":12694878,
         "qs_pg:id":1009396
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9b92c40ca19480963d0c95a3b13e303a",
+    "wof:geomhash":"823d1b842f033d4d51a7ef16a9586858",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404340107,
-    "wof:lastmodified":1582361658,
+    "wof:lastmodified":1684352402,
     "wof:name":"Calvos De Rand\u00edn",
     "wof:parent_id":85682801,
     "wof:placetype":"localadmin",
+    "wof:population":735,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

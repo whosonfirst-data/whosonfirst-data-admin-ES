@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_39059",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Reinosa",
+    "eurostat:nuts_2021_id":"39059",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES13",
+    "eurostat:nuts_2021_level_3":"ES130",
+    "eurostat:nuts_2021_level_lau":"39059",
+    "eurostat:population":8946,
+    "eurostat:population_year":2020,
     "geom:area":0.000455,
-    "geom:area_square_m":4112425.169778,
+    "geom:area_square_m":4112425.169779,
     "geom:bbox":"-4.150392,42.985613,-4.120015,43.015463",
     "geom:latitude":43.000497,
     "geom:longitude":-4.136442,
@@ -129,14 +141,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
-        404227371,
-        85682833
+        85682833,
+        404227371
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_39059",
+        "eurostat:nuts_2021_id":"39059",
         "gn:id":6360704,
         "gp:id":12688580,
         "qs_pg:id":1297403
@@ -148,7 +164,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f68128b56fb110bf7cf62a58278aa7f1",
+    "wof:geomhash":"7fdd2c278c50d4b04d22887d95601039",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,10 +175,12 @@
         }
     ],
     "wof:id":404342173,
-    "wof:lastmodified":1607989164,
+    "wof:lastmodified":1684352436,
     "wof:name":"Reinosa",
     "wof:parent_id":85682833,
     "wof:placetype":"localadmin",
+    "wof:population":8946,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

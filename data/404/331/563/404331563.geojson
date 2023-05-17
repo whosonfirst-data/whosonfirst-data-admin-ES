@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8306,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08306",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vilalba Sasserra",
+    "eurostat:nuts_2021_id":"08306",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08306",
+    "eurostat:population":753,
+    "eurostat:population_year":2020,
     "geom:area":0.000632,
-    "geom:area_square_m":5838909.587479,
+    "geom:area_square_m":5838880.34095,
     "geom:bbox":"2.435047,41.628388,2.488777,41.658864",
     "geom:latitude":41.640333,
     "geom:longitude":2.463123,
@@ -127,6 +139,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -135,7 +149,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08306",
         "esp-icgc:la_lc":"08306",
+        "eurostat:nuts_2021_id":"08306",
         "gn:id":6356323,
         "gp:id":12693677,
         "qs_pg:id":260466
@@ -145,7 +161,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"405db402816efe59e382ba81a82e8ccf",
+    "wof:geomhash":"0dd68252f19f71c3000fbd207d55a263",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404331563,
-    "wof:lastmodified":1669903006,
+    "wof:lastmodified":1684352256,
     "wof:name":"Vilalba Sasserra",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":753,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

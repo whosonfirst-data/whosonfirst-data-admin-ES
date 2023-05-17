@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03133",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torrevieja",
+    "eurostat:nuts_2021_id":"03133",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03133",
+    "eurostat:population":84667,
+    "eurostat:population_year":2020,
     "geom:area":0.007326,
-    "geom:area_square_m":71381766.42704,
+    "geom:area_square_m":71381766.427041,
     "geom:bbox":"-0.76188128,37.94106385,-0.64734713,38.04815604",
     "geom:latitude":38.000228,
     "geom:longitude":-0.704734,
@@ -168,6 +180,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -176,6 +190,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03133",
+        "eurostat:nuts_2021_id":"03133",
         "gn:id":6355506,
         "gp:id":12695399,
         "qs_pg:id":1198397
@@ -184,7 +200,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0f6c893efee037cdd2fbf0ab67ca490a",
+    "wof:geomhash":"91654b5ff62443dc7c6ba9ee33848305",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -195,10 +211,12 @@
         }
     ],
     "wof:id":404329543,
-    "wof:lastmodified":1582361794,
+    "wof:lastmodified":1684352211,
     "wof:name":"Torrevieja",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":84667,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

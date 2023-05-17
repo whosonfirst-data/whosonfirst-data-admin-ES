@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47071",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Geria",
+    "eurostat:nuts_2021_id":"47071",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47071",
+    "eurostat:population":506,
+    "eurostat:population_year":2020,
     "geom:area":0.001963,
-    "geom:area_square_m":18155949.951535,
+    "geom:area_square_m":18155949.951534,
     "geom:bbox":"-4.91130287,41.54744713,-4.86143212,41.61668289",
     "geom:latitude":41.57553,
     "geom:longitude":-4.884846,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_47071",
+        "eurostat:nuts_2021_id":"47071",
         "gn:id":6362199,
         "gp:id":12692973,
         "qs_pg:id":1298249
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8a63be2fa6330b220b98d98641ca7fac",
+    "wof:geomhash":"0f1a5ef4e1f6522864909f673eefecaa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404345557,
-    "wof:lastmodified":1582361826,
+    "wof:lastmodified":1684352487,
     "wof:name":"Geria",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":506,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

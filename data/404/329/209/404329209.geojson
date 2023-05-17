@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_02069",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Roda, La",
+    "eurostat:nuts_2021_id":"02069",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES421",
+    "eurostat:nuts_2021_level_lau":"02069",
+    "eurostat:population":15527,
+    "eurostat:population_year":2020,
     "geom:area":0.041567,
     "geom:area_square_m":398465100.304619,
     "geom:bbox":"-2.38175757,39.0571312,-2.00585439,39.28107374",
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_02069",
+        "eurostat:nuts_2021_id":"02069",
         "gn:id":2515555,
         "gp:id":12690280,
         "qs_pg:id":930141
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9b0e55649eebcfdda9fc63c0deb8da5f",
+    "wof:geomhash":"f63223486ac72c7e7a9ceef72c99ce9b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404329209,
-    "wof:lastmodified":1582361800,
+    "wof:lastmodified":1684352206,
     "wof:name":"La Roda",
     "wof:parent_id":85682621,
     "wof:placetype":"localadmin",
+    "wof:population":15527,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

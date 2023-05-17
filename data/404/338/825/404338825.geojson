@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28061",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Galapagar",
+    "eurostat:nuts_2021_id":"28061",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28061",
+    "eurostat:population":34497,
+    "eurostat:population_year":2020,
     "geom:area":0.006939,
-    "geom:area_square_m":65168468.111665,
+    "geom:area_square_m":65168468.111664,
     "geom:bbox":"-4.04455651,40.5078912,-3.93743715,40.63302478",
     "geom:latitude":40.574926,
     "geom:longitude":-3.985979,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28061",
+        "eurostat:nuts_2021_id":"28061",
         "gn:id":6359287,
         "gp:id":12688006,
         "qs_pg:id":1163615
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8a2fb6b75868fb5ba014bc74e3824780",
+    "wof:geomhash":"85d80eff565f80031efcbce7da0c6e28",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404338825,
-    "wof:lastmodified":1582361449,
+    "wof:lastmodified":1684352382,
     "wof:name":"Galapagar",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":34497,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

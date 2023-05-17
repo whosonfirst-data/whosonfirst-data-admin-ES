@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_39008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Astillero, El",
+    "eurostat:nuts_2021_id":"39008",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES13",
+    "eurostat:nuts_2021_level_3":"ES130",
+    "eurostat:nuts_2021_level_lau":"39008",
+    "eurostat:population":18134,
+    "eurostat:population_year":2020,
     "geom:area":0.000728,
     "geom:area_square_m":6543684.042336,
     "geom:bbox":"-3.86107036,43.38584137,-3.80965716,43.41322243",
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_39008",
+        "eurostat:nuts_2021_id":"39008",
         "gn:id":6360655,
         "gp:id":12688529,
         "qs_pg:id":621856
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3983d807f2fa8ed6d8e5e632e6e8e888",
+    "wof:geomhash":"3adced093090d31a070ae87c17af7932",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404342057,
-    "wof:lastmodified":1582361821,
+    "wof:lastmodified":1684352435,
     "wof:name":"El Astillero",
     "wof:parent_id":85682833,
     "wof:placetype":"localadmin",
+    "wof:population":18134,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

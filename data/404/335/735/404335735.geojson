@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19166",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"M\u00e1laga del Fresno",
+    "eurostat:nuts_2021_id":"19166",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19166",
+    "eurostat:population":185,
+    "eurostat:population_year":2020,
     "geom:area":0.002542,
-    "geom:area_square_m":23800161.943071,
+    "geom:area_square_m":23800161.94307,
     "geom:bbox":"-3.28190052,40.75645292,-3.19904045,40.81587848",
     "geom:latitude":40.785453,
     "geom:longitude":-3.246528,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19166",
+        "eurostat:nuts_2021_id":"19166",
         "gn:id":6357940,
         "gp:id":12690770,
         "qs_pg:id":1196445
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"594fd0ebbcdbbadf23b0b160ef46a658",
+    "wof:geomhash":"6008934b788279d831365b5dd85c202f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404335735,
-    "wof:lastmodified":1582361704,
+    "wof:lastmodified":1684352329,
     "wof:name":"M\u00e1laga Del Fresno",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":185,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

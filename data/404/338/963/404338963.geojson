@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28127",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rozas de Madrid, Las",
+    "eurostat:nuts_2021_id":"28127",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28127",
+    "eurostat:population":96113,
+    "eurostat:population_year":2020,
     "geom:area":0.006201,
     "geom:area_square_m":58286375.185463,
     "geom:bbox":"-3.94978198,40.47512291,-3.83317224,40.57445562",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28127",
+        "eurostat:nuts_2021_id":"28127",
         "gn:id":6359348,
         "gp:id":12688069,
         "qs_pg:id":325213
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6fadc3af756215563b7e823ce7c5bff8",
+    "wof:geomhash":"4fc3062f5afdf5210a358d831c0b8285",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404338963,
-    "wof:lastmodified":1582361432,
+    "wof:lastmodified":1684352385,
     "wof:name":"Las Rozas De Madrid",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":96113,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

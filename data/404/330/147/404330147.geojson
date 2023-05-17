@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05173",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ojos-Albos",
+    "eurostat:nuts_2021_id":"05173",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05173",
+    "eurostat:population":76,
+    "eurostat:population_year":2020,
     "geom:area":0.004597,
     "geom:area_square_m":43080031.348603,
     "geom:bbox":"-4.55561625,40.68826219,-4.45674858,40.77519189",
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05173",
+        "eurostat:nuts_2021_id":"05173",
         "gn:id":6355773,
         "gp:id":12691282,
         "qs_pg:id":1102597
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6127b670b37f00b774420509a359c0ca",
+    "wof:geomhash":"ed67e4df29799c7ec3ab64911de94e75",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404330147,
-    "wof:lastmodified":1582361545,
+    "wof:lastmodified":1684352220,
     "wof:name":"Ojos-Albos",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":76,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Figueroles",
+    "eurostat:nuts_2021_id":"12060",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12060",
+    "eurostat:population":523,
+    "eurostat:population_year":2020,
     "geom:area":0.001277,
-    "geom:area_square_m":12075740.2013,
+    "geom:area_square_m":12075740.201298,
     "geom:bbox":"-0.255826,40.10601541,-0.18557115,40.14487817",
     "geom:latitude":40.126398,
     "geom:longitude":-0.222378,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12060",
+        "eurostat:nuts_2021_id":"12060",
         "gn:id":6357013,
         "gp:id":12695461,
         "qs_pg:id":204867
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5ce2bc254277f3ed14ba17543fe196d7",
+    "wof:geomhash":"26e9809b6c789feff415f3b547375a2e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404333227,
-    "wof:lastmodified":1582361761,
+    "wof:lastmodified":1684352276,
     "wof:name":"Figueroles",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":523,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

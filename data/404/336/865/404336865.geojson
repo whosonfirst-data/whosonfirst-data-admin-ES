@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22242",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valfarta",
+    "eurostat:nuts_2021_id":"22242",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22242",
+    "eurostat:population":63,
+    "eurostat:population_year":2020,
     "geom:area":0.003583,
-    "geom:area_square_m":33159612.958178,
+    "geom:area_square_m":33159612.958177,
     "geom:bbox":"-0.16735451,41.52238607,-0.05317898,41.58532006",
     "geom:latitude":41.550002,
     "geom:longitude":-0.120226,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22242",
+        "eurostat:nuts_2021_id":"22242",
         "gn:id":6358434,
         "gp:id":12689583,
         "qs_pg:id":45388
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"679882cf62dee3765e189888b5e7cf54",
+    "wof:geomhash":"ed58e249a20d0d2401d0536aeb8c9c50",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404336865,
-    "wof:lastmodified":1582361474,
+    "wof:lastmodified":1684352344,
     "wof:name":"Valfarta",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":63,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

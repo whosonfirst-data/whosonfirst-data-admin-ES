@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_38027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Paso, El",
+    "eurostat:nuts_2021_id":"38027",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES7",
+    "eurostat:nuts_2021_level_2":"ES70",
+    "eurostat:nuts_2021_level_3":"ES707",
+    "eurostat:nuts_2021_level_lau":"38027",
+    "eurostat:population":7623,
+    "eurostat:population_year":2020,
     "geom:area":0.012548,
-    "geom:area_square_m":136139197.292922,
+    "geom:area_square_m":136139197.29293,
     "geom:bbox":"-17.92824052,28.55384875,-17.82461495,28.76255692",
     "geom:latitude":28.665064,
     "geom:longitude":-17.86759,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_38027",
+        "eurostat:nuts_2021_id":"38027",
         "gn:id":6534190,
         "gp:id":12690184,
         "qs_pg:id":1120684
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c853f519ba3f62dbbc6af85b9603170f",
+    "wof:geomhash":"53dc232d644e02950ec0e99e5a2d0fca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404341977,
-    "wof:lastmodified":1582361630,
+    "wof:lastmodified":1684352432,
     "wof:name":"El Paso",
     "wof:parent_id":85682831,
     "wof:placetype":"localadmin",
+    "wof:population":7623,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

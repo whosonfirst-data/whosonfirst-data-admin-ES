@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_01014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Berantevilla",
+    "eurostat:nuts_2021_id":"01014",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES211",
+    "eurostat:nuts_2021_level_lau":"01014",
+    "eurostat:population":463,
+    "eurostat:population_year":2020,
     "geom:area":0.003925,
-    "geom:area_square_m":35673761.295395,
+    "geom:area_square_m":35673761.295396,
     "geom:bbox":"-2.89688858,42.64270284,-2.76789985,42.72149219",
     "geom:latitude":42.686984,
     "geom:longitude":-2.833232,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_01014",
+        "eurostat:nuts_2021_id":"01014",
         "gn:id":6355253,
         "gp:id":12695027,
         "qs_pg:id":48266
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d86d73c08cdb43513a290e1f31c96f03",
+    "wof:geomhash":"e72189637c6fbf2e28a9d4e32beb9a3e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404328957,
-    "wof:lastmodified":1582361842,
+    "wof:lastmodified":1684352202,
     "wof:name":"Berantevilla",
     "wof:parent_id":85682615,
     "wof:placetype":"localadmin",
+    "wof:population":463,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

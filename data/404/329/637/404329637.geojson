@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cantoria",
+    "eurostat:nuts_2021_id":"04031",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04031",
+    "eurostat:population":3365,
+    "eurostat:population_year":2020,
     "geom:area":0.008035,
     "geom:area_square_m":78990570.246335,
     "geom:bbox":"-2.25204754,37.28015028,-2.10666724,37.38533452",
@@ -126,6 +138,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -134,6 +148,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_04031",
+        "eurostat:nuts_2021_id":"04031",
         "gn:id":6355546,
         "gp:id":12688653,
         "qs_pg:id":373772
@@ -142,7 +158,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6ff73abce96254cfe9a5f901182445ae",
+    "wof:geomhash":"d0761e3bef21d9dcb7a624482d666095",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,10 +169,12 @@
         }
     ],
     "wof:id":404329637,
-    "wof:lastmodified":1582361800,
+    "wof:lastmodified":1684352213,
     "wof:name":"Cantoria",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":3365,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

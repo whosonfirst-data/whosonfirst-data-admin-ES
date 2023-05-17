@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49082",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fuentes de Ropel",
+    "eurostat:nuts_2021_id":"49082",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49082",
+    "eurostat:population":376,
+    "eurostat:population_year":2020,
     "geom:area":0.005296,
     "geom:area_square_m":48658248.571072,
     "geom:bbox":"-5.61456174,41.96540638,-5.50767418,42.06544762",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_49082",
+        "eurostat:nuts_2021_id":"49082"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"891b6b043fdc295d0db0a58843150284",
+    "wof:geomhash":"6c3cb168a1c76efa87f59e35e296ef54",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404346319,
-    "wof:lastmodified":1566590284,
+    "wof:lastmodified":1684352498,
     "wof:name":"Fuentes De Ropel",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":376,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

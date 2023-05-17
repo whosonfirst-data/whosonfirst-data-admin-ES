@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_20015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ataun",
+    "eurostat:nuts_2021_id":"20015",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES212",
+    "eurostat:nuts_2021_level_lau":"20015",
+    "eurostat:population":1696,
+    "eurostat:population_year":2020,
     "geom:area":0.006481,
     "geom:area_square_m":58632447.283951,
     "geom:bbox":"-2.21940803,42.93511106,-2.0952354,43.02024056",
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_20015",
+        "eurostat:nuts_2021_id":"20015",
         "gn:id":3129203,
         "gp:id":12695085,
         "qs_pg:id":1163745
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2a6d6af71d908f5f779d1100b9fe54de",
+    "wof:geomhash":"08e170d22fce6e3cad94e1db8391e3fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404336117,
-    "wof:lastmodified":1582361468,
+    "wof:lastmodified":1684352333,
     "wof:name":"Ataun",
     "wof:parent_id":85682741,
     "wof:placetype":"localadmin",
+    "wof:population":1696,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

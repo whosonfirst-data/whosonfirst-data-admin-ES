@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25128,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25128",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Llimiana",
+    "eurostat:nuts_2021_id":"25128",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25128",
+    "eurostat:population":146,
+    "eurostat:population_year":2020,
     "geom:area":0.004523,
-    "geom:area_square_m":41528029.486345,
+    "geom:area_square_m":41528029.486347,
     "geom:bbox":"0.885721074063,42.0209282542,0.993778088808,42.1002318118",
     "geom:latitude":42.058538,
     "geom:longitude":0.928655,
@@ -112,6 +124,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -120,7 +134,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25128",
         "esp-icgc:la_lc":"025128",
+        "eurostat:nuts_2021_id":"25128",
         "gn:id":6358870,
         "gp:id":12694021,
         "qs_pg:id":1149571
@@ -130,7 +146,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4f3b2d7056af87b0648c679a583d2e0b",
+    "wof:geomhash":"65ff1e8fd02845f185e5d6028b670ada",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404337869,
-    "wof:lastmodified":1582361558,
+    "wof:lastmodified":1684352363,
     "wof:name":"Llimiana",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":146,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

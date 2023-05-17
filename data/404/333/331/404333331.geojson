@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12109",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tales",
+    "eurostat:nuts_2021_id":"12109",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12109",
+    "eurostat:population":801,
+    "eurostat:population_year":2020,
     "geom:area":0.001531,
-    "geom:area_square_m":14510895.866425,
+    "geom:area_square_m":14510895.866424,
     "geom:bbox":"-0.32997523,39.92135837,-0.2608372,39.97535191",
     "geom:latitude":39.945242,
     "geom:longitude":-0.300619,
@@ -69,6 +81,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -77,6 +91,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12109",
+        "eurostat:nuts_2021_id":"12109",
         "gn:id":6357059,
         "gp:id":12695508,
         "qs_pg:id":1149670
@@ -85,7 +101,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b8f79503185e43c54bb1e554c701af39",
+    "wof:geomhash":"b9d31945c14a59df6b833477ada84d72",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,10 +112,12 @@
         }
     ],
     "wof:id":404333331,
-    "wof:lastmodified":1582361759,
+    "wof:lastmodified":1684352277,
     "wof:name":"Tales",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":801,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

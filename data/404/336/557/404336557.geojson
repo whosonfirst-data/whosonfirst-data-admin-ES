@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"B\u00e1rcabo",
+    "eurostat:nuts_2021_id":"22051",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22051",
+    "eurostat:population":102,
+    "eurostat:population_year":2020,
     "geom:area":0.009591,
-    "geom:area_square_m":87788483.133271,
+    "geom:area_square_m":87788483.13327,
     "geom:bbox":"-0.00940573,42.18837396,0.14690191,42.30703253",
     "geom:latitude":42.24937,
     "geom:longitude":0.063664,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22051",
+        "eurostat:nuts_2021_id":"22051",
         "gn:id":6358298,
         "gp:id":12689439,
         "qs_pg:id":209584
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"31de6b0a6c990d2ca893b0f638e79c83",
+    "wof:geomhash":"3db9cae5762aec4bab6057e2839d9a18",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404336557,
-    "wof:lastmodified":1582361460,
+    "wof:lastmodified":1684352340,
     "wof:name":"B\u00e1rcabo",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":102,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

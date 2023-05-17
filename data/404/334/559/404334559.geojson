@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":17002,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aiguaviva",
+    "eurostat:nuts_2021_id":"17002",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17002",
+    "eurostat:population":765,
+    "eurostat:population_year":2020,
     "geom:area":0.001518,
     "geom:area_square_m":13964019.36339,
     "geom:bbox":"2.74737058289,41.9033629847,2.79395347738,41.9495858674",
@@ -126,6 +138,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -134,13 +148,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"017002"
+        "eg:gisco_id":"ES_17002",
+        "esp-icgc:la_lc":"017002",
+        "eurostat:nuts_2021_id":"17002"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"76eec09e3b99219925e0fee61e58af94",
+    "wof:geomhash":"3a16ff2d277adfe71cf77144d1e06220",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +167,12 @@
         }
     ],
     "wof:id":404334559,
-    "wof:lastmodified":1582361718,
+    "wof:lastmodified":1684352299,
     "wof:name":"Aiguaviva",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":765,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

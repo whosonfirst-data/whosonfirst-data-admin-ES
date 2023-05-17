@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"1",
+    "eurostat:country_code":"ES",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"2",
+    "eurostat:name_latin":"M\u00e1laga",
+    "eurostat:name_local":"M\u00e1laga",
+    "eurostat:nuts_2021_id":"ES617",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES617",
+    "eurostat:population":1711829,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"1",
     "geom:area":0.738084,
-    "geom:area_square_m":7306546438.515872,
+    "geom:area_square_m":7306546402.297716,
     "geom:bbox":"-5.611777,36.310281,-3.765967,37.282403",
     "geom:latitude":36.813916,
     "geom:longitude":-4.725863,
@@ -141,6 +155,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "unlc:subdivision":"ES-MA",
     "wof:belongsto":[
         102191581,
@@ -150,6 +166,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":23996,
+        "eurostat:nuts_2021_id":"ES617",
         "fips:code":"SP80",
         "gn:id":2514254,
         "gp:id":12602102,
@@ -157,7 +174,7 @@
         "unlc:id":"ES-MA"
     },
     "wof:country":"ES",
-    "wof:geomhash":"a697dd23e7403f769ad0755cef00e6bd",
+    "wof:geomhash":"c029ccfc84be6e5cf3443a3aaa2ac4ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,10 +194,12 @@
         "eus",
         "ast"
     ],
-    "wof:lastmodified":1583882757,
+    "wof:lastmodified":1684351559,
     "wof:name":"Malaga",
     "wof:parent_id":404227361,
     "wof:placetype":"region",
+    "wof:population":1711829,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:shortcode":"AN",
     "wof:subdivision":"ES-MA",

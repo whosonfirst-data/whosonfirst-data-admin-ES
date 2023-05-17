@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44052",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calomarde",
+    "eurostat:nuts_2021_id":"44052",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44052",
+    "eurostat:population":74,
+    "eurostat:population_year":2020,
     "geom:area":0.002988,
-    "geom:area_square_m":28146487.009545,
+    "geom:area_square_m":28146487.009544,
     "geom:bbox":"-1.61622709,40.33370746,-1.53840417,40.39845181",
     "geom:latitude":40.370482,
     "geom:longitude":-1.574627,
@@ -36,6 +48,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -44,6 +58,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44052",
+        "eurostat:nuts_2021_id":"44052",
         "gn:id":6361476,
         "gp:id":12689647,
         "qs_pg:id":968732
@@ -52,7 +68,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cff34ed344fd16ff25d6d31600dcae31",
+    "wof:geomhash":"693c8c0d542b67b2a4b695426674bf0a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +79,12 @@
         }
     ],
     "wof:id":404343919,
-    "wof:lastmodified":1582361894,
+    "wof:lastmodified":1684352467,
     "wof:name":"Calomarde",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":74,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

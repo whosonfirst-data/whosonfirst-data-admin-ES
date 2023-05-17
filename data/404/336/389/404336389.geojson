@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_21048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marines, Los",
+    "eurostat:nuts_2021_id":"21048",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES615",
+    "eurostat:nuts_2021_level_lau":"21048",
+    "eurostat:population":399,
+    "eurostat:population_year":2020,
     "geom:area":0.001023,
     "geom:area_square_m":9976861.552141,
     "geom:bbox":"-6.64787912,37.88598441,-6.58767149,37.92304731",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_21048",
+        "eurostat:nuts_2021_id":"21048",
         "gn:id":2514623,
         "gp:id":12689062,
         "qs_pg:id":1248486
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fddb85c6ab78c07ccaffaf68b8a03050",
+    "wof:geomhash":"75713294ed4f26d2eec9694aa5bfba4f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404336389,
-    "wof:lastmodified":1582361477,
+    "wof:lastmodified":1684352338,
     "wof:name":"Los Marines",
     "wof:parent_id":85682749,
     "wof:placetype":"localadmin",
+    "wof:population":399,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

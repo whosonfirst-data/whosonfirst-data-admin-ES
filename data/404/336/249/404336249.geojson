@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_20074",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bergara",
+    "eurostat:nuts_2021_id":"20074",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES212",
+    "eurostat:nuts_2021_level_lau":"20074",
+    "eurostat:population":14659,
+    "eurostat:population_year":2020,
     "geom:area":0.008403,
-    "geom:area_square_m":75840138.891047,
+    "geom:area_square_m":75840138.891046,
     "geom:bbox":"-2.50515759,43.07305565,-2.35003806,43.17673155",
     "geom:latitude":43.124673,
     "geom:longitude":-2.428895,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_20074",
+        "eurostat:nuts_2021_id":"20074",
         "gn:id":6358162,
         "gp:id":12695093,
         "qs_pg:id":621696
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"525cbad510fae6d2e9fdb1bc13176e69",
+    "wof:geomhash":"52c63bbf1687767cdc3e5c3a7e17808d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404336249,
-    "wof:lastmodified":1582361472,
+    "wof:lastmodified":1684352335,
     "wof:name":"Bergara",
     "wof:parent_id":85682741,
     "wof:placetype":"localadmin",
+    "wof:population":14659,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

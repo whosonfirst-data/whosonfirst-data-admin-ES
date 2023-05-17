@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Markina-Xemein",
+    "eurostat:nuts_2021_id":"48060",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48060",
+    "eurostat:population":5068,
+    "eurostat:population_year":2020,
     "geom:area":0.005039,
-    "geom:area_square_m":45369335.370839,
+    "geom:area_square_m":45369335.37084,
     "geom:bbox":"-2.5351864,43.21195356,-2.4180612,43.30712851",
     "geom:latitude":43.264841,
     "geom:longitude":-2.487774,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_48060",
+        "eurostat:nuts_2021_id":"48060",
         "gn:id":6362403,
         "gp:id":12695228,
         "qs_pg:id":354822
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"12a9c5157b46078dde65903f979999b7",
+    "wof:geomhash":"af6f53561be60fa70fc3130e1b51ed7d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404346039,
-    "wof:lastmodified":1582361612,
+    "wof:lastmodified":1684352494,
     "wof:name":"Markina-Xemein",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":5068,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

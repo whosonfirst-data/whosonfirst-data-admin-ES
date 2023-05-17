@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16038",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Buciegas",
+    "eurostat:nuts_2021_id":"16038",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16038",
+    "eurostat:population":32,
+    "eurostat:population_year":2020,
     "geom:area":0.000955,
-    "geom:area_square_m":8996235.926684,
+    "geom:area_square_m":8996235.926683,
     "geom:bbox":"-2.50112755,40.32793498,-2.44237989,40.3577771",
     "geom:latitude":40.339172,
     "geom:longitude":-2.46531,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16038",
+        "eurostat:nuts_2021_id":"16038",
         "gn:id":6357396,
         "gp:id":12690432,
         "qs_pg:id":265257
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a8eadec24d15cfe341edd492d8ec5fb4",
+    "wof:geomhash":"5997f09e3eac457036d6a02200980d65",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404334097,
-    "wof:lastmodified":1582361729,
+    "wof:lastmodified":1684352293,
     "wof:name":"Buciegas",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":32,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

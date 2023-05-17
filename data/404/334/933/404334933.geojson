@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17181,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17181",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Cristina d'Aro",
+    "eurostat:nuts_2021_id":"17181",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17181",
+    "eurostat:population":5287,
+    "eurostat:population_year":2020,
     "geom:area":0.007349,
-    "geom:area_square_m":67717023.655735,
+    "geom:area_square_m":67716647.006827,
     "geom:bbox":"2.929735,41.752712,3.033794,41.884848",
     "geom:latitude":41.827568,
     "geom:longitude":2.981666,
@@ -80,6 +92,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -88,7 +102,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17181",
         "esp-icgc:la_lc":"017181",
+        "eurostat:nuts_2021_id":"17181",
         "gn:id":6534140,
         "gp:id":12693857,
         "qs_pg:id":1073109
@@ -98,7 +114,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"238028d0e69680f4130427d466f199c3",
+    "wof:geomhash":"3d6c35e17b430ab6e0932e40652f6f7e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,10 +125,12 @@
         }
     ],
     "wof:id":404334933,
-    "wof:lastmodified":1669903050,
+    "wof:lastmodified":1684352315,
     "wof:name":"Santa Cristina d'Aro",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":5287,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

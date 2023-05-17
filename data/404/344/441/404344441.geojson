@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cebolla",
+    "eurostat:nuts_2021_id":"45046",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45046",
+    "eurostat:population":3209,
+    "eurostat:population_year":2020,
     "geom:area":0.003875,
     "geom:area_square_m":36734504.545257,
     "geom:bbox":"-4.6231445,39.90493625,-4.50994901,39.9632084",
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45046",
+        "eurostat:nuts_2021_id":"45046",
         "gn:id":6361706,
         "gp:id":12690967,
         "qs_pg:id":1158717
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2e88c45c5909d46344d0887644af136a",
+    "wof:geomhash":"e6432b08eb9a8cb028128471b35292a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404344441,
-    "wof:lastmodified":1582361847,
+    "wof:lastmodified":1684352474,
     "wof:name":"Cebolla",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":3209,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

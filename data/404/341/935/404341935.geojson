@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_38008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bre\u00f1a Alta",
+    "eurostat:nuts_2021_id":"38008",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES7",
+    "eurostat:nuts_2021_level_2":"ES70",
+    "eurostat:nuts_2021_level_3":"ES707",
+    "eurostat:nuts_2021_level_lau":"38008",
+    "eurostat:population":7247,
+    "eurostat:population_year":2020,
     "geom:area":0.002848,
-    "geom:area_square_m":30902772.447966,
+    "geom:area_square_m":30902772.447957,
     "geom:bbox":"-17.83504944,28.61458619,-17.76616999,28.68795515",
     "geom:latitude":28.656471,
     "geom:longitude":-17.803219,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_38008",
+        "eurostat:nuts_2021_id":"38008",
         "gn:id":6534183,
         "gp:id":12690166,
         "qs_pg:id":1317355
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"511d5b81d4a000b1d2abff2fad673131",
+    "wof:geomhash":"da24109a4699c2f89e8feb611c347e25",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404341935,
-    "wof:lastmodified":1582361634,
+    "wof:lastmodified":1684352431,
     "wof:name":"Bre\u00f1a Alta",
     "wof:parent_id":85682831,
     "wof:placetype":"localadmin",
+    "wof:population":7247,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

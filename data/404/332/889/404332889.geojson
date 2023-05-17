@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10170",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santiago del Campo",
+    "eurostat:nuts_2021_id":"10170",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10170",
+    "eurostat:population":237,
+    "eurostat:population_year":2020,
     "geom:area":0.007695,
-    "geom:area_square_m":73266551.780771,
+    "geom:area_square_m":73266551.780772,
     "geom:bbox":"-6.4616648,39.59341483,-6.31511744,39.6931171",
     "geom:latitude":39.645922,
     "geom:longitude":-6.382148,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10170",
+        "eurostat:nuts_2021_id":"10170",
         "gn:id":6356865,
         "gp:id":12694652,
         "qs_pg:id":497306
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"227b5d276a6457da9298494d503cc4a2",
+    "wof:geomhash":"bbc53e024d97cc827a3800983bc25641",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332889,
-    "wof:lastmodified":1582361679,
+    "wof:lastmodified":1684352270,
     "wof:name":"Santiago Del Campo",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":237,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

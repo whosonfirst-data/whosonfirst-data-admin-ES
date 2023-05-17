@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05263",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villatoro",
+    "eurostat:nuts_2021_id":"05263",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05263",
+    "eurostat:population":157,
+    "eurostat:population_year":2020,
     "geom:area":0.005954,
-    "geom:area_square_m":55959330.697127,
+    "geom:area_square_m":55959330.697129,
     "geom:bbox":"-5.16743348,40.47733416,-5.01874938,40.58550184",
     "geom:latitude":40.529755,
     "geom:longitude":-5.098942,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05263",
+        "eurostat:nuts_2021_id":"05263",
         "gn:id":6355857,
         "gp:id":12691370,
         "qs_pg:id":988775
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"73ef84f03374d2369511dab17cf12f01",
+    "wof:geomhash":"1bd9b2a553ce205669fac25cc5faaf60",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404330335,
-    "wof:lastmodified":1582361533,
+    "wof:lastmodified":1684352222,
     "wof:name":"Villatoro",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":157,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

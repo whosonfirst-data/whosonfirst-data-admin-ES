@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03059",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Crevillent",
+    "eurostat:nuts_2021_id":"03059",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03059",
+    "eurostat:population":29536,
+    "eurostat:population_year":2020,
     "geom:area":0.010759,
     "geom:area_square_m":104494234.07021,
     "geom:bbox":"-0.8959419,38.15594137,-0.75190277,38.29484362",
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03059",
+        "eurostat:nuts_2021_id":"03059",
         "gn:id":6355435,
         "gp:id":12695324,
         "qs_pg:id":290511
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"535249a4f587afd30566c1e58cebd343",
+    "wof:geomhash":"505bab7c8e2beb5cc5965e9039088bf8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404329385,
-    "wof:lastmodified":1582361794,
+    "wof:lastmodified":1684352209,
     "wof:name":"Crevillent",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":29536,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

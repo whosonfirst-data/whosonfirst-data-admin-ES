@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18059",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chauchina",
+    "eurostat:nuts_2021_id":"18059",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18059",
+    "eurostat:population":5552,
+    "eurostat:population_year":2020,
     "geom:area":0.002152,
-    "geom:area_square_m":21203670.700471,
+    "geom:area_square_m":21203670.700472,
     "geom:bbox":"-3.81046184,37.13712797,-3.75300834,37.2103388",
     "geom:latitude":37.178299,
     "geom:longitude":-3.78718,
@@ -138,6 +150,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -146,6 +160,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18059",
+        "eurostat:nuts_2021_id":"18059",
         "gn:id":6357688,
         "gp:id":12688890,
         "qs_pg:id":191171
@@ -154,7 +170,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0b909ba30e3ad8ee73674d7461b2931c",
+    "wof:geomhash":"99e4d69a8ed42bdd122dd51ea3871345",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -165,10 +181,12 @@
         }
     ],
     "wof:id":404335165,
-    "wof:lastmodified":1582361703,
+    "wof:lastmodified":1684352321,
     "wof:name":"Chauchina",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":5552,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

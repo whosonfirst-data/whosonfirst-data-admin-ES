@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09091",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castrojeriz",
+    "eurostat:nuts_2021_id":"09091",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09091",
+    "eurostat:population":782,
+    "eurostat:population_year":2020,
     "geom:area":0.014849,
-    "geom:area_square_m":135860317.925324,
+    "geom:area_square_m":135860317.925327,
     "geom:bbox":"-4.21528522,42.1264215,-4.05931514,42.37279457",
     "geom:latitude":42.275698,
     "geom:longitude":-4.142494,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09091",
+        "eurostat:nuts_2021_id":"09091",
         "gn:id":6356404,
         "gp:id":12691450,
         "qs_pg:id":1293565
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f7414d66416dc14518fff24a9e780c1a",
+    "wof:geomhash":"4fa5e0eac1ab00a8a359f9a4198efbd2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404331793,
-    "wof:lastmodified":1582361500,
+    "wof:lastmodified":1684352258,
     "wof:name":"Castrojeriz",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":782,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

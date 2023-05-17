@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31129",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ituren",
+    "eurostat:nuts_2021_id":"31129",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31129",
+    "eurostat:population":507,
+    "eurostat:population_year":2020,
     "geom:area":0.001716,
-    "geom:area_square_m":15482443.819652,
+    "geom:area_square_m":15482443.819651,
     "geom:bbox":"-1.75000726,43.10583501,-1.69409347,43.16137535",
     "geom:latitude":43.135663,
     "geom:longitude":-1.720616,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31129",
+        "eurostat:nuts_2021_id":"31129",
         "gn:id":6359677,
         "gp:id":12688306,
         "qs_pg:id":1013004
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3e5b4e46f29b79155adc7379d0b3143e",
+    "wof:geomhash":"b8e93b9aded0ceb0c7c018339157abde",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404339741,
-    "wof:lastmodified":1582361589,
+    "wof:lastmodified":1684352398,
     "wof:name":"Ituren",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":507,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

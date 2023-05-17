@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42113",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Medinaceli",
+    "eurostat:nuts_2021_id":"42113",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42113",
+    "eurostat:population":682,
+    "eurostat:population_year":2020,
     "geom:area":0.022033,
-    "geom:area_square_m":205113352.025105,
+    "geom:area_square_m":205113352.025103,
     "geom:bbox":"-2.51740115,41.05770555,-2.34688752,41.26898896",
     "geom:latitude":41.16075,
     "geom:longitude":-2.429392,
@@ -195,6 +207,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -203,6 +217,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42113",
+        "eurostat:nuts_2021_id":"42113",
         "gn:id":6361157,
         "gp:id":12692816,
         "qs_pg:id":1317359
@@ -211,7 +227,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4dbde1ca14b6b66821236d2bbdb5aa79",
+    "wof:geomhash":"e3b6aef6008bbcc0fc6aff795a395cd1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -222,10 +238,12 @@
         }
     ],
     "wof:id":404343199,
-    "wof:lastmodified":1582361882,
+    "wof:lastmodified":1684352448,
     "wof:name":"Medinaceli",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":682,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

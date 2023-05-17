@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8163,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08163",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pineda de Mar",
+    "eurostat:nuts_2021_id":"08163",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08163",
+    "eurostat:population":27984,
+    "eurostat:population_year":2020,
     "geom:area":0.001101,
-    "geom:area_square_m":10173186.635512,
+    "geom:area_square_m":10173098.399917,
     "geom:bbox":"2.627347,41.615008,2.702428,41.649554",
     "geom:latitude":41.632477,
     "geom:longitude":2.672607,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08163",
         "esp-icgc:la_lc":"08163",
+        "eurostat:nuts_2021_id":"08163",
         "gn:id":6533993,
         "gp:id":12693542,
         "qs_pg:id":1095348
@@ -67,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f4e3aea833ba7f6b774367553d5d62a5",
+    "wof:geomhash":"667da19b82cb0df411c7210b528106fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404331245,
-    "wof:lastmodified":1669902999,
+    "wof:lastmodified":1684352246,
     "wof:name":"Pineda de Mar",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":27984,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

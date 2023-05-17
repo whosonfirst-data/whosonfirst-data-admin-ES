@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19319",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villanueva de la Torre",
+    "eurostat:nuts_2021_id":"19319",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19319",
+    "eurostat:population":6631,
+    "eurostat:population_year":2020,
     "geom:area":0.001189,
-    "geom:area_square_m":11160718.56578,
+    "geom:area_square_m":11160718.565781,
     "geom:bbox":"-3.33141635,40.57215807,-3.273628,40.61260962",
     "geom:latitude":40.592056,
     "geom:longitude":-3.304352,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227375
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_19319",
+        "eurostat:nuts_2021_id":"19319"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"e98526f1a4a22572e837405da7fd4987",
+    "wof:geomhash":"059e208d2e82e2f76e23ab4e9e294b1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404336047,
-    "wof:lastmodified":1566589687,
+    "wof:lastmodified":1684352333,
     "wof:name":"Villanueva De La Torre",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":6631,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

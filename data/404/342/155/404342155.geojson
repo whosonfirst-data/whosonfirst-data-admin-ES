@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_39051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pesquera",
+    "eurostat:nuts_2021_id":"39051",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES13",
+    "eurostat:nuts_2021_level_3":"ES130",
+    "eurostat:nuts_2021_level_lau":"39051",
+    "eurostat:population":79,
+    "eurostat:population_year":2020,
     "geom:area":0.000988,
-    "geom:area_square_m":8918939.119286,
+    "geom:area_square_m":8918939.119285,
     "geom:bbox":"-4.09028241,43.06716664,-4.04065467,43.10180144",
     "geom:latitude":43.08694,
     "geom:longitude":-4.067602,
@@ -42,6 +54,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -50,6 +64,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_39051",
+        "eurostat:nuts_2021_id":"39051",
         "gn:id":6360697,
         "gp:id":12688572,
         "qs_pg:id":1003591
@@ -58,7 +74,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c0ce18b0afc4ff8470c11cd52df26714",
+    "wof:geomhash":"f4061321a34436c13953069fac23b424",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +85,12 @@
         }
     ],
     "wof:id":404342155,
-    "wof:lastmodified":1582361816,
+    "wof:lastmodified":1684352436,
     "wof:name":"Pesquera",
     "wof:parent_id":85682833,
     "wof:placetype":"localadmin",
+    "wof:population":79,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

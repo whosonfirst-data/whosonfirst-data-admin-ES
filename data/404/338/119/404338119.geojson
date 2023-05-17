@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25904,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25904",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castell de Mur",
+    "eurostat:nuts_2021_id":"25904",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25904",
+    "eurostat:population":173,
+    "eurostat:population_year":2020,
     "geom:area":0.006818,
-    "geom:area_square_m":62557533.296849,
+    "geom:area_square_m":62557441.534008,
     "geom:bbox":"0.774026,42.035683,0.900908,42.14286",
     "geom:latitude":42.098154,
     "geom:longitude":0.850427,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25904",
         "esp-icgc:la_lc":"025904",
+        "eurostat:nuts_2021_id":"25904",
         "gp:id":12693964,
         "qs_pg:id":1084496
     },
@@ -66,7 +82,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"960b64b6b0e67f02fd760836bc466667",
+    "wof:geomhash":"313fa7cbde3bf173c9b0fe70d04baae6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,10 +93,12 @@
         }
     ],
     "wof:id":404338119,
-    "wof:lastmodified":1669902993,
+    "wof:lastmodified":1684352371,
     "wof:name":"Castell de Mur",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":173,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

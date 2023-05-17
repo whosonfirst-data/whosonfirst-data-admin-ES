@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09283",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Quintana\u00e9lez",
+    "eurostat:nuts_2021_id":"09283",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09283",
+    "eurostat:population":44,
+    "eurostat:population_year":2020,
     "geom:area":0.001919,
-    "geom:area_square_m":17442152.275546,
+    "geom:area_square_m":17442152.275545,
     "geom:bbox":"-3.325483,42.64190583,-3.26748897,42.70249895",
     "geom:latitude":42.674817,
     "geom:longitude":-3.297601,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09283",
+        "eurostat:nuts_2021_id":"09283",
         "gn:id":6356547,
         "gp:id":12691596,
         "qs_pg:id":1316792
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e7767bb0e2e282fbe842dc1cdf670663",
+    "wof:geomhash":"7bfb599d511c1bb4d8d8e97994c38f92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404332145,
-    "wof:lastmodified":1582361682,
+    "wof:lastmodified":1684352261,
     "wof:name":"Quintana\u00e9lez",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":44,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

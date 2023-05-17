@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06070",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jerez de los Caballeros",
+    "eurostat:nuts_2021_id":"06070",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06070",
+    "eurostat:population":9196,
+    "eurostat:population_year":2020,
     "geom:area":0.076221,
-    "geom:area_square_m":739337116.892108,
+    "geom:area_square_m":739337116.892121,
     "geom:bbox":"-6.98859393,38.17381818,-6.60111884,38.48079448",
     "geom:latitude":38.329591,
     "geom:longitude":-6.799096,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06070",
+        "eurostat:nuts_2021_id":"06070",
         "gn:id":6355935,
         "gp:id":12694389,
         "qs_pg:id":248796
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6c0bd21bf08b3e5e1b1768ddb06b45e3",
+    "wof:geomhash":"9e3169b41106e82c946e46fa3a348d8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330513,
-    "wof:lastmodified":1582361543,
+    "wof:lastmodified":1684352225,
     "wof:name":"Jerez De Los Caballeros",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":9196,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

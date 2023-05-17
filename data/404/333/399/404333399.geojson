@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12139",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vistabella del Maestrat",
+    "eurostat:nuts_2021_id":"12139",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12139",
+    "eurostat:population":333,
+    "eurostat:population_year":2020,
     "geom:area":0.015996,
     "geom:area_square_m":150833750.91012,
     "geom:bbox":"-0.40040778,40.2227125,-0.19750994,40.37570723",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12139",
+        "eurostat:nuts_2021_id":"12139",
         "gn:id":6357089,
         "gp:id":12695538,
         "qs_pg:id":1102920
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f9ba5085bb75839dbbccac42e0e5a09c",
+    "wof:geomhash":"e7ddb0a1a67c73e68a6c9b162bed3333",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404333399,
-    "wof:lastmodified":1582361760,
+    "wof:lastmodified":1684352278,
     "wof:name":"Vistabella Del Maestrazgo",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":333,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

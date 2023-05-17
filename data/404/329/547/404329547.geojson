@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03134",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vall d'Alcal\u00e0, la",
+    "eurostat:nuts_2021_id":"03134",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03134",
+    "eurostat:population":160,
+    "eurostat:population_year":2020,
     "geom:area":0.002369,
-    "geom:area_square_m":22834078.932489,
+    "geom:area_square_m":22834078.932488,
     "geom:bbox":"-0.29200436,38.76424665,-0.19962435,38.80966435",
     "geom:latitude":38.788324,
     "geom:longitude":-0.253745,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03134",
+        "eurostat:nuts_2021_id":"03134",
         "gn:id":6355507,
         "qs_pg:id":103349
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3e64982917dad5bd22ee5afa2562144b",
+    "wof:geomhash":"f5e3960e59e358c6f642d73896bfeaa3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404329547,
-    "wof:lastmodified":1582361802,
+    "wof:lastmodified":1684352211,
     "wof:name":"La Vall D'Alcal\u00e0",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":160,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

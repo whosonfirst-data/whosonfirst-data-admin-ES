@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45102",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mocej\u00f3n",
+    "eurostat:nuts_2021_id":"45102",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45102",
+    "eurostat:population":4963,
+    "eurostat:population_year":2020,
     "geom:area":0.003231,
     "geom:area_square_m":30636172.6461,
     "geom:bbox":"-3.95088677,39.88688495,-3.86738857,39.95465981",
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45102",
+        "eurostat:nuts_2021_id":"45102",
         "gn:id":6361762,
         "gp:id":12691023,
         "qs_pg:id":1263249
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"be460eff22f8ba69836c1220125e6cbe",
+    "wof:geomhash":"18f0f2417501e257c9e0d05d05372233",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404344567,
-    "wof:lastmodified":1582361843,
+    "wof:lastmodified":1684352475,
     "wof:name":"Mocej\u00f3n",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":4963,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

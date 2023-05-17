@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18907",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valle del Zalab\u00ed",
+    "eurostat:nuts_2021_id":"18907",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18907",
+    "eurostat:population":2105,
+    "eurostat:population_year":2020,
     "geom:area":0.011043,
     "geom:area_square_m":108643058.771507,
     "geom:bbox":"-3.13369594,37.22446623,-2.86729414,37.3260035",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227361
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_18907",
+        "eurostat:nuts_2021_id":"18907"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"21b9d7102091c348fc32504e414a6716",
+    "wof:geomhash":"fd6a1e8a8c5b815df76a84dcd79efa56",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404335417,
-    "wof:lastmodified":1566590593,
+    "wof:lastmodified":1684352325,
     "wof:name":"Valle Del Zalab\u00ed",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":2105,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

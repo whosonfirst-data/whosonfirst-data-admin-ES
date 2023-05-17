@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_29041",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casares",
+    "eurostat:nuts_2021_id":"29041",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES617",
+    "eurostat:nuts_2021_level_lau":"29041",
+    "eurostat:population":6883,
+    "eurostat:population_year":2020,
     "geom:area":0.016316,
-    "geom:area_square_m":162315176.902612,
+    "geom:area_square_m":162315176.902608,
     "geom:bbox":"-5.35805138,36.3250709,-5.20528006,36.52062064",
     "geom:latitude":36.432509,
     "geom:longitude":-5.275531,
@@ -57,6 +69,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -65,6 +79,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_29041",
+        "eurostat:nuts_2021_id":"29041",
         "gn:id":6359446,
         "gp:id":12689230,
         "qs_pg:id":907181
@@ -73,7 +89,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"34761f3c4aba678dc06a245f1f147934",
+    "wof:geomhash":"0ddfa58670c9d6a2372bb39de2ec4968",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +100,12 @@
         }
     ],
     "wof:id":404339183,
-    "wof:lastmodified":1582361597,
+    "wof:lastmodified":1684352390,
     "wof:name":"Casares",
     "wof:parent_id":85682787,
     "wof:placetype":"localadmin",
+    "wof:population":6883,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

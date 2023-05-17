@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43133,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43133",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Roquetes",
+    "eurostat:nuts_2021_id":"43133",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43133",
+    "eurostat:population":8079,
+    "eurostat:population_year":2020,
     "geom:area":0.014622,
-    "geom:area_square_m":136891271.767255,
+    "geom:area_square_m":136890910.476935,
     "geom:bbox":"0.270104,40.736106,0.510542,40.845842",
     "geom:latitude":40.787787,
     "geom:longitude":0.401851,
@@ -55,6 +67,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -63,7 +77,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43133",
         "esp-icgc:la_lc":"043133",
+        "eurostat:nuts_2021_id":"43133",
         "gn:id":6361375,
         "gp:id":12694270,
         "qs_pg:id":1198205
@@ -73,7 +89,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"06349f3b23b5c3f784993df38982ddd3",
+    "wof:geomhash":"d28a13164907be92f35b5b40de0aad95",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +100,12 @@
         }
     ],
     "wof:id":404343689,
-    "wof:lastmodified":1669903062,
+    "wof:lastmodified":1684352460,
     "wof:name":"Roquetes",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":8079,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

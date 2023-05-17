@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09403",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valdeande",
+    "eurostat:nuts_2021_id":"09403",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09403",
+    "eurostat:population":104,
+    "eurostat:population_year":2020,
     "geom:area":0.003359,
-    "geom:area_square_m":30942993.815204,
+    "geom:area_square_m":30942993.815205,
     "geom:bbox":"-3.57054338,41.79605788,-3.48697993,41.87431858",
     "geom:latitude":41.835203,
     "geom:longitude":-3.528761,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09403",
+        "eurostat:nuts_2021_id":"09403",
         "gn:id":6356630,
         "gp:id":12691680,
         "qs_pg:id":46346
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"07e46dd37780e63a9349ae91689af2bf",
+    "wof:geomhash":"afc68afddf32515b95a35fa762aac8ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404332351,
-    "wof:lastmodified":1582361685,
+    "wof:lastmodified":1684352263,
     "wof:name":"Valdeande",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":104,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

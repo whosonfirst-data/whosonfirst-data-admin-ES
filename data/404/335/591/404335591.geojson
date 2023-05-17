@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19090",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cobeta",
+    "eurostat:nuts_2021_id":"19090",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19090",
+    "eurostat:population":106,
+    "eurostat:population_year":2020,
     "geom:area":0.004656,
-    "geom:area_square_m":43536030.754312,
+    "geom:area_square_m":43536030.754311,
     "geom:bbox":"-2.18307939,40.83029375,-2.08705468,40.92232505",
     "geom:latitude":40.875979,
     "geom:longitude":-2.13804,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19090",
+        "eurostat:nuts_2021_id":"19090",
         "gn:id":6357877,
         "gp:id":12690711,
         "qs_pg:id":1014692
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e8edef3764cee999a90515df02b4f315",
+    "wof:geomhash":"18f1e58dffa21a224a54064fce9caf90",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404335591,
-    "wof:lastmodified":1582361705,
+    "wof:lastmodified":1684352327,
     "wof:name":"Cobeta",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":106,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

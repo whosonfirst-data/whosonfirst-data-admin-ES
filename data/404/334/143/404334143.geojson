@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casas de Ben\u00edtez",
+    "eurostat:nuts_2021_id":"16060",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16060",
+    "eurostat:population":823,
+    "eurostat:population_year":2020,
     "geom:area":0.004883,
-    "geom:area_square_m":46721535.82564,
+    "geom:area_square_m":46721535.825641,
     "geom:bbox":"-2.15468948,39.26576574,-2.05096293,39.38439039",
     "geom:latitude":39.304858,
     "geom:longitude":-2.11227,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16060",
+        "eurostat:nuts_2021_id":"16060",
         "gn:id":6357415,
         "gp:id":12690453,
         "qs_pg:id":400372
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bb6f21dddc06fa44b9b2a7db9139c5fb",
+    "wof:geomhash":"3b90be731edbf65e950383419dc1eaeb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404334143,
-    "wof:lastmodified":1582361733,
+    "wof:lastmodified":1684352294,
     "wof:name":"Casas De Ben\u00edtez",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":823,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

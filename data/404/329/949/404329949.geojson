@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05079",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gallegos de Altamiros",
+    "eurostat:nuts_2021_id":"05079",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05079",
+    "eurostat:population":66,
+    "eurostat:population_year":2020,
     "geom:area":0.002181,
-    "geom:area_square_m":20446073.380604,
+    "geom:area_square_m":20446073.3806,
     "geom:bbox":"-4.94627903,40.67433909,-4.87961849,40.7283366",
     "geom:latitude":40.702039,
     "geom:longitude":-4.91197,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05079",
+        "eurostat:nuts_2021_id":"05079",
         "gn:id":6355685,
         "gp:id":12691194,
         "qs_pg:id":46140
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2b4bbca60a8c35272749abf8fd92b142",
+    "wof:geomhash":"866facdac7a09a0be33e59f0b7516c5b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404329949,
-    "wof:lastmodified":1582361794,
+    "wof:lastmodified":1684352217,
     "wof:name":"Gallegos De Altamiros",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":66,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alcocero de Mola",
+    "eurostat:nuts_2021_id":"09010",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09010",
+    "eurostat:population":32,
+    "eurostat:population_year":2020,
     "geom:area":0.000912,
     "geom:area_square_m":8320763.103986,
     "geom:bbox":"-3.37858791,42.44034695,-3.31834563,42.49455506",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09010",
+        "eurostat:nuts_2021_id":"09010",
         "gn:id":6356336,
         "gp:id":12691380,
         "qs_pg:id":46216
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a10832cbce738a217ac87daa937ae1c4",
+    "wof:geomhash":"19b9755d1b8b06043dc28bddd181dc63",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404331591,
-    "wof:lastmodified":1582361503,
+    "wof:lastmodified":1684352256,
     "wof:name":"Alcocero De Mola",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":32,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

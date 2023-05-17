@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43018,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arnes",
+    "eurostat:nuts_2021_id":"43018",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43018",
+    "eurostat:population":444,
+    "eurostat:population_year":2020,
     "geom:area":0.004565,
-    "geom:area_square_m":42683818.251364,
+    "geom:area_square_m":42683774.97646,
     "geom:bbox":"0.238614,40.815704,0.3106,40.936321",
     "geom:latitude":40.876101,
     "geom:longitude":0.275594,
@@ -70,6 +82,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -78,7 +92,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43018",
         "esp-icgc:la_lc":"043018",
+        "eurostat:nuts_2021_id":"43018",
         "gn:id":6361261,
         "gp:id":12694156,
         "qs_pg:id":891496
@@ -88,7 +104,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"b14c255532c9c4f77aca097e0a973028",
+    "wof:geomhash":"b880bd568a6b92c6ca5712b1efc4fe76",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,10 +115,12 @@
         }
     ],
     "wof:id":404343433,
-    "wof:lastmodified":1669903070,
+    "wof:lastmodified":1684352453,
     "wof:name":"Arnes",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":444,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10162",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Salorino",
+    "eurostat:nuts_2021_id":"10162",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10162",
+    "eurostat:population":560,
+    "eurostat:population_year":2020,
     "geom:area":0.016501,
-    "geom:area_square_m":157507480.800257,
+    "geom:area_square_m":157507480.800262,
     "geom:bbox":"-7.12683899,39.39684187,-6.91256468,39.55281192",
     "geom:latitude":39.470886,
     "geom:longitude":-7.004202,
@@ -33,6 +45,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -40,9 +54,12 @@
         404227383
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_10162",
+        "eurostat:nuts_2021_id":"10162"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"6eaf6c9968a676997ddde6c0862e8b2f",
+    "wof:geomhash":"e31a51c8f4c8b8c4f13a6115f4be642b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,10 +70,12 @@
         }
     ],
     "wof:id":404332871,
-    "wof:lastmodified":1566590521,
+    "wof:lastmodified":1684352270,
     "wof:name":"Salorino",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":560,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19294",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ujados",
+    "eurostat:nuts_2021_id":"19294",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19294",
+    "eurostat:population":30,
+    "eurostat:population_year":2020,
     "geom:area":0.001271,
     "geom:area_square_m":11820249.703241,
     "geom:bbox":"-3.03155957,41.20268705,-2.98953148,41.24914539",
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19294",
+        "eurostat:nuts_2021_id":"19294",
         "gn:id":6358057,
         "gp:id":12690888,
         "qs_pg:id":1293551
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"affa4fbebe44c3b50dfc76581de0033e",
+    "wof:geomhash":"1eefe9c5ee341d30b86708c7658f2b45",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404336001,
-    "wof:lastmodified":1582361465,
+    "wof:lastmodified":1684352332,
     "wof:name":"Ujados",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":30,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

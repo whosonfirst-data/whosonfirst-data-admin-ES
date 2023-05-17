@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37204",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Morasverdes",
+    "eurostat:nuts_2021_id":"37204",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37204",
+    "eurostat:population":252,
+    "eurostat:population_year":2020,
     "geom:area":0.005519,
-    "geom:area_square_m":51815384.375228,
+    "geom:area_square_m":51815384.375226,
     "geom:bbox":"-6.33351974,40.55201931,-6.23953901,40.6457968",
     "geom:latitude":40.596132,
     "geom:longitude":-6.283951,
@@ -93,6 +105,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -100,9 +114,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_37204",
+        "eurostat:nuts_2021_id":"37204"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"33988e10c9fc7e105353438ad75df68d",
+    "wof:geomhash":"b95ef71fe24cd6f58a4bcbc367e97362",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,10 +130,12 @@
         }
     ],
     "wof:id":404341527,
-    "wof:lastmodified":1566590322,
+    "wof:lastmodified":1684352425,
     "wof:name":"Morasverdes",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":252,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

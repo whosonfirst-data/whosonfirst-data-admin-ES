@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_29080",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pizarra",
+    "eurostat:nuts_2021_id":"29080",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES617",
+    "eurostat:nuts_2021_level_lau":"29080",
+    "eurostat:population":9444,
+    "eurostat:population_year":2020,
     "geom:area":0.00642,
-    "geom:area_square_m":63594389.170024,
+    "geom:area_square_m":63594389.170023,
     "geom:bbox":"-4.77638095,36.72333029,-4.64539108,36.80214907",
     "geom:latitude":36.765907,
     "geom:longitude":-4.707154,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_29080",
+        "eurostat:nuts_2021_id":"29080",
         "gn:id":6359484,
         "gp:id":12689268,
         "qs_pg:id":1079242
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"94cfe6149835b90aa078c531e6446571",
+    "wof:geomhash":"b1000db632748b1b57dbe7e7cf15019a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404339269,
-    "wof:lastmodified":1582361586,
+    "wof:lastmodified":1684352391,
     "wof:name":"Pizarra",
     "wof:parent_id":85682787,
     "wof:placetype":"localadmin",
+    "wof:population":9444,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

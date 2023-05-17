@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31183",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Obanos",
+    "eurostat:nuts_2021_id":"31183",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31183",
+    "eurostat:population":940,
+    "eurostat:population_year":2020,
     "geom:area":0.002179,
-    "geom:area_square_m":19815312.507963,
+    "geom:area_square_m":19815312.507964,
     "geom:bbox":"-1.80854401,42.62419192,-1.76338085,42.70131282",
     "geom:latitude":42.661631,
     "geom:longitude":-1.785409,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31183",
+        "eurostat:nuts_2021_id":"31183",
         "gn:id":6359731,
         "gp:id":12688362,
         "qs_pg:id":539319
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"76c1729c4577e5b816665e7f17b042f5",
+    "wof:geomhash":"04c9771d1a1695eb19c62b108fff23ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404339869,
-    "wof:lastmodified":1582361586,
+    "wof:lastmodified":1684352399,
     "wof:name":"Obanos",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":940,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

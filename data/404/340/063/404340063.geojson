@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31904",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Irurtzun",
+    "eurostat:nuts_2021_id":"31904",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31904",
+    "eurostat:population":2247,
+    "eurostat:population_year":2020,
     "geom:area":0.000413,
     "geom:area_square_m":3738094.842713,
     "geom:bbox":"-1.83705749,42.90967946,-1.8105897,42.94020605",
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31904",
+        "eurostat:nuts_2021_id":"31904",
         "gn:id":6534179,
         "gp:id":23388481,
         "qs_pg:id":1062368
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e199674326c80179c6eb4b81296d2eab",
+    "wof:geomhash":"91d55b661915930988f051a83b635d00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404340063,
-    "wof:lastmodified":1582361652,
+    "wof:lastmodified":1684352402,
     "wof:name":"Irurtzun",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":2247,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

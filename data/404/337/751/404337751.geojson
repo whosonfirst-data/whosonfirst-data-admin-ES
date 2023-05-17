@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25063,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25063",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Canejan",
+    "eurostat:nuts_2021_id":"25063",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25063",
+    "eurostat:population":89,
+    "eurostat:population_year":2020,
     "geom:area":0.00531,
-    "geom:area_square_m":48164379.27021,
+    "geom:area_square_m":48164379.270209,
     "geom:bbox":"0.728138998949,42.7880089672,0.878166992109,42.8488701404",
     "geom:latitude":42.816312,
     "geom:longitude":0.796136,
@@ -115,6 +127,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -123,7 +137,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25063",
         "esp-icgc:la_lc":"025063",
+        "eurostat:nuts_2021_id":"25063",
         "gn:id":6358819,
         "gp:id":12693963,
         "qs_pg:id":238817
@@ -133,7 +149,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"88934fbea721e3ea062664209fac06cc",
+    "wof:geomhash":"6250e2d55161298908e80468118d711d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404337751,
-    "wof:lastmodified":1582361566,
+    "wof:lastmodified":1684352359,
     "wof:name":"Canejan",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":89,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

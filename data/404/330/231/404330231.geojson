@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05212",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Juan del Molinillo",
+    "eurostat:nuts_2021_id":"05212",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05212",
+    "eurostat:population":196,
+    "eurostat:population_year":2020,
     "geom:area":0.0038,
     "geom:area_square_m":35748101.460444,
     "geom:bbox":"-4.90507985,40.43222185,-4.78254629,40.49392336",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05212",
+        "eurostat:nuts_2021_id":"05212",
         "gn:id":6355810,
         "gp:id":12691318,
         "qs_pg:id":540525
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0d4476b031b08d8d659e0ecc03480d5c",
+    "wof:geomhash":"6f599eae7c6def69be8a29fa5ca27e69",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330231,
-    "wof:lastmodified":1582361538,
+    "wof:lastmodified":1684352221,
     "wof:name":"San Juan Del Molinillo",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":196,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

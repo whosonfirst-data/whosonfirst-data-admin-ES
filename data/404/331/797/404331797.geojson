@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09093",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cayuela",
+    "eurostat:nuts_2021_id":"09093",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09093",
+    "eurostat:population":183,
+    "eurostat:population_year":2020,
     "geom:area":0.00147,
-    "geom:area_square_m":13453187.628474,
+    "geom:area_square_m":13453187.628473,
     "geom:bbox":"-3.83331149,42.24129376,-3.76930928,42.28517169",
     "geom:latitude":42.26247,
     "geom:longitude":-3.802033,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09093",
+        "eurostat:nuts_2021_id":"09093",
         "gn:id":6356405,
         "gp:id":12691451,
         "qs_pg:id":1162742
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"30477dc910220dae44b50edd8db1e414",
+    "wof:geomhash":"2dee6cc6d238d0ca2fd5477176904d32",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404331797,
-    "wof:lastmodified":1582361480,
+    "wof:lastmodified":1684352258,
     "wof:name":"Cayuela",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":183,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

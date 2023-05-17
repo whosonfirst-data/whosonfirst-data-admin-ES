@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50185",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Murillo de G\u00e1llego",
+    "eurostat:nuts_2021_id":"50185",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50185",
+    "eurostat:population":191,
+    "eurostat:population_year":2020,
     "geom:area":0.005972,
-    "geom:area_square_m":54629633.336018,
+    "geom:area_square_m":54629633.33602,
     "geom:bbox":"-0.83844687,42.1644216,-0.72886472,42.39125653",
     "geom:latitude":42.286461,
     "geom:longitude":-0.775928,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50185",
+        "eurostat:nuts_2021_id":"50185",
         "gp:id":12690012,
         "qs_pg:id":326019
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c091293ba89884ff460156c413424529",
+    "wof:geomhash":"6651062727681497ae81f9e71af77234",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404347115,
-    "wof:lastmodified":1582361675,
+    "wof:lastmodified":1684352507,
     "wof:name":"Murillo De G\u00e1llego",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":191,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

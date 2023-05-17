@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42159",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rollamienta",
+    "eurostat:nuts_2021_id":"42159",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42159",
+    "eurostat:population":40,
+    "eurostat:population_year":2020,
     "geom:area":0.002021,
     "geom:area_square_m":18589342.951619,
     "geom:bbox":"-2.55205471,41.90300223,-2.50820239,41.97443642",
@@ -177,6 +189,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -185,6 +199,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42159",
+        "eurostat:nuts_2021_id":"42159",
         "gn:id":6361192,
         "gp:id":12692851,
         "qs_pg:id":1025478
@@ -193,7 +209,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e8a41810c502763ebb602bd4f1a10be1",
+    "wof:geomhash":"6cfbf55e930258ad10d28020c013ea20",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -204,10 +220,12 @@
         }
     ],
     "wof:id":404343277,
-    "wof:lastmodified":1582361884,
+    "wof:lastmodified":1684352449,
     "wof:name":"Rollamienta",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":40,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

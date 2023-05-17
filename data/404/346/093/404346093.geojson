@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48084",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sestao",
+    "eurostat:nuts_2021_id":"48084",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48084",
+    "eurostat:population":27452,
+    "eurostat:population_year":2020,
     "geom:area":0.000391,
     "geom:area_square_m":3516305.108371,
     "geom:bbox":"-3.01443403,43.29740981,-2.97814772,43.31794551",
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_48084",
+        "eurostat:nuts_2021_id":"48084",
         "gn:id":6362424,
         "gp:id":12695249,
         "qs_pg:id":1317302
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"532d9856d25ed7e0d974b1acab65676d",
+    "wof:geomhash":"e13803a726cf10002175b1e46d73d99c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404346093,
-    "wof:lastmodified":1582361620,
+    "wof:lastmodified":1684352494,
     "wof:name":"Sestao",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":27452,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

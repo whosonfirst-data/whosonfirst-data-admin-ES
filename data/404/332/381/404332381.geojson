@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09417",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vallejera",
+    "eurostat:nuts_2021_id":"09417",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09417",
+    "eurostat:population":42,
+    "eurostat:population_year":2020,
     "geom:area":0.001997,
-    "geom:area_square_m":18298786.185643,
+    "geom:area_square_m":18298786.185644,
     "geom:bbox":"-4.18947059,42.15794952,-4.12255596,42.21372196",
     "geom:latitude":42.185749,
     "geom:longitude":-4.155403,
@@ -105,6 +117,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -112,9 +126,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_09417",
+        "eurostat:nuts_2021_id":"09417"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"9413402ebc41233f8d83a358d544dcf2",
+    "wof:geomhash":"2f37e70f62245327b57bb7a0b2a7cfd8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +142,12 @@
         }
     ],
     "wof:id":404332381,
-    "wof:lastmodified":1566590541,
+    "wof:lastmodified":1684352264,
     "wof:name":"Vallejera",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":42,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

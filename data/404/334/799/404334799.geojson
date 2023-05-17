@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17117,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17117",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Palafrugell",
+    "eurostat:nuts_2021_id":"17117",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17117",
+    "eurostat:population":23244,
+    "eurostat:population_year":2020,
     "geom:area":0.002921,
-    "geom:area_square_m":26876455.699616,
+    "geom:area_square_m":26876455.69962,
     "geom:bbox":"3.11722119103,41.8608204257,3.22034957351,41.9442649441",
     "geom:latitude":41.913719,
     "geom:longitude":3.168797,
@@ -145,6 +157,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -153,7 +167,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17117",
         "esp-icgc:la_lc":"017117",
+        "eurostat:nuts_2021_id":"17117",
         "gn:id":6534091,
         "gp:id":12693795,
         "qs_pg:id":1298401
@@ -163,7 +179,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"86988fba286730a0f9767627590220ea",
+    "wof:geomhash":"4be637a57b0daf4e7cd82ed74077f48f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -174,10 +190,12 @@
         }
     ],
     "wof:id":404334799,
-    "wof:lastmodified":1582361716,
+    "wof:lastmodified":1684352309,
     "wof:name":"Palafrugell",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":23244,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

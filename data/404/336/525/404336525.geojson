@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22036",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Argavieso",
+    "eurostat:nuts_2021_id":"22036",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22036",
+    "eurostat:population":95,
+    "eurostat:population_year":2020,
     "geom:area":0.001056,
     "geom:area_square_m":9700009.809265,
     "geom:bbox":"-0.31130003,42.03938124,-0.23572823,42.06507792",
@@ -36,6 +48,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -44,6 +58,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22036",
+        "eurostat:nuts_2021_id":"22036",
         "gn:id":6358284,
         "gp:id":12689425,
         "qs_pg:id":45301
@@ -52,7 +68,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"92709a68d83a93000d15560a13060c5a",
+    "wof:geomhash":"c235a7795e7a97f2ef3ef31d09848948",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +79,12 @@
         }
     ],
     "wof:id":404336525,
-    "wof:lastmodified":1582361477,
+    "wof:lastmodified":1684352340,
     "wof:name":"Argavieso",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":95,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

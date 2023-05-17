@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_32010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Beade",
+    "eurostat:nuts_2021_id":"32010",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES113",
+    "eurostat:nuts_2021_level_lau":"32010",
+    "eurostat:population":384,
+    "eurostat:population_year":2020,
     "geom:area":0.000699,
     "geom:area_square_m":6388696.824276,
     "geom:bbox":"-8.15195897,42.30618978,-8.11950017,42.34257445",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_32010",
+        "eurostat:nuts_2021_id":"32010",
         "gn:id":6359828,
         "gp:id":12694872,
         "qs_pg:id":466281
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7d6b32d9f0395d34be0a54652a2ed6c9",
+    "wof:geomhash":"bd6cbc6a2017e31db28f768f8f968453",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404340095,
-    "wof:lastmodified":1582361663,
+    "wof:lastmodified":1684352402,
     "wof:name":"Beade",
     "wof:parent_id":85682801,
     "wof:placetype":"localadmin",
+    "wof:population":384,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

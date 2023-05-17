@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24137",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sabero",
+    "eurostat:nuts_2021_id":"24137",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24137",
+    "eurostat:population":1123,
+    "eurostat:population_year":2020,
     "geom:area":0.002746,
-    "geom:area_square_m":24900219.560937,
+    "geom:area_square_m":24900219.560938,
     "geom:bbox":"-5.22240704,42.8173063,-5.11977878,42.86149194",
     "geom:latitude":42.837868,
     "geom:longitude":-5.166829,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_24137",
+        "eurostat:nuts_2021_id":"24137",
         "gn:id":6358675,
         "gp:id":12691873,
         "qs_pg:id":1189069
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"075a06040b2adead36b391ef18e4bc2f",
+    "wof:geomhash":"ee6f68c9a27cd0c6f47b55ac5498ff5c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404337421,
-    "wof:lastmodified":1582361568,
+    "wof:lastmodified":1684352352,
     "wof:name":"Sabero",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":1123,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

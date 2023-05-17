@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_23082",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Siles",
+    "eurostat:nuts_2021_id":"23082",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES616",
+    "eurostat:nuts_2021_level_lau":"23082",
+    "eurostat:population":2220,
+    "eurostat:population_year":2020,
     "geom:area":0.018337,
-    "geom:area_square_m":177736897.666303,
+    "geom:area_square_m":177736897.666301,
     "geom:bbox":"-2.80851048,38.2776773,-2.4789539,38.51564899",
     "geom:latitude":38.381562,
     "geom:longitude":-2.575546,
@@ -39,6 +51,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -47,6 +61,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_23082",
+        "eurostat:nuts_2021_id":"23082",
         "gn:id":6358530,
         "gp:id":12689172,
         "qs_pg:id":907182
@@ -55,7 +71,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a24c5bd974649e303499a683284f8fe8",
+    "wof:geomhash":"7781aeca7da5d6b8acdae9f0e6c0bbfb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +82,12 @@
         }
     ],
     "wof:id":404337085,
-    "wof:lastmodified":1582361555,
+    "wof:lastmodified":1684352348,
     "wof:name":"Siles",
     "wof:parent_id":85682757,
     "wof:placetype":"localadmin",
+    "wof:population":2220,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

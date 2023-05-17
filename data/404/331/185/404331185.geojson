@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8136,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08136",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montorn\u00e8s del Vall\u00e8s",
+    "eurostat:nuts_2021_id":"08136",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08136",
+    "eurostat:population":16644,
+    "eurostat:population_year":2020,
     "geom:area":0.00111,
-    "geom:area_square_m":10271552.072523,
+    "geom:area_square_m":10271509.789218,
     "geom:bbox":"2.232444,41.521709,2.284677,41.573231",
     "geom:latitude":41.544763,
     "geom:longitude":2.265525,
@@ -68,6 +80,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -76,7 +90,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08136",
         "esp-icgc:la_lc":"08136",
+        "eurostat:nuts_2021_id":"08136",
         "gn:id":6356165,
         "gp:id":12693516,
         "qs_pg:id":248343
@@ -86,7 +102,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"c186578634aedd6ecc56a3b2ccb7be1d",
+    "wof:geomhash":"df7c176f6d146942798566432189497f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,10 +113,12 @@
         }
     ],
     "wof:id":404331185,
-    "wof:lastmodified":1669903014,
+    "wof:lastmodified":1684352244,
     "wof:name":"Montorn\u00e8s del Vall\u00e8s",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":16644,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

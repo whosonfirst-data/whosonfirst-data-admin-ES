@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31090",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Eratsun",
+    "eurostat:nuts_2021_id":"31090",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31090",
+    "eurostat:population":150,
+    "eurostat:population_year":2020,
     "geom:area":0.002841,
-    "geom:area_square_m":25647632.654415,
+    "geom:area_square_m":25647632.654416,
     "geom:bbox":"-1.83697652,43.05634488,-1.77745594,43.15010558",
     "geom:latitude":43.105426,
     "geom:longitude":-1.804313,
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31090",
+        "eurostat:nuts_2021_id":"31090",
         "gn:id":6359638,
         "gp:id":12688262,
         "qs_pg:id":44597
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"846237c55a90cbb29d188d5244297d6e",
+    "wof:geomhash":"24e35523abab54e16e5a5a795c05d11f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404339647,
-    "wof:lastmodified":1582361592,
+    "wof:lastmodified":1684352397,
     "wof:name":"Eratsun",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":150,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8042,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"C\u00e0noves i Samal\u00fas",
+    "eurostat:nuts_2021_id":"08042",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08042",
+    "eurostat:population":3156,
+    "eurostat:population_year":2020,
     "geom:area":0.003154,
-    "geom:area_square_m":29118556.259011,
+    "geom:area_square_m":29118492.008524,
     "geom:bbox":"2.300019,41.669721,2.370934,41.745774",
     "geom:latitude":41.702513,
     "geom:longitude":2.337709,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08042",
         "esp-icgc:la_lc":"08042",
+        "eurostat:nuts_2021_id":"08042",
         "gn:id":6356075,
         "gp:id":12693419,
         "qs_pg:id":47212
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"9da5b0ddb7f26e883111b5053ae203d8",
+    "wof:geomhash":"5531095949ab26747e0db85540164ae0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404330973,
-    "wof:lastmodified":1669903018,
+    "wof:lastmodified":1684352237,
     "wof:name":"C\u00e0noves i Samal\u00fas",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":3156,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

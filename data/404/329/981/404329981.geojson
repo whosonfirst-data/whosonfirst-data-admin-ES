@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05094",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Herreros de Suso",
+    "eurostat:nuts_2021_id":"05094",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05094",
+    "eurostat:population":129,
+    "eurostat:population_year":2020,
     "geom:area":0.002298,
-    "geom:area_square_m":21506707.089419,
+    "geom:area_square_m":21506707.089417,
     "geom:bbox":"-5.08412535,40.77040846,-5.01145876,40.8314494",
     "geom:latitude":40.803518,
     "geom:longitude":-5.043846,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05094",
+        "eurostat:nuts_2021_id":"05094",
         "gn:id":6355699,
         "gp:id":12691208,
         "qs_pg:id":46144
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"41c4c046adc626b3092f6386ec675157",
+    "wof:geomhash":"c423d2cf55e68962226109ea5f158b9b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404329981,
-    "wof:lastmodified":1582361804,
+    "wof:lastmodified":1684352218,
     "wof:name":"Herreros De Suso",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":129,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

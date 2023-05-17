@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alm\u00e0ssera",
+    "eurostat:nuts_2021_id":"46032",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46032",
+    "eurostat:population":7438,
+    "eurostat:population_year":2020,
     "geom:area":0.000287,
-    "geom:area_square_m":2736885.413833,
+    "geom:area_square_m":2736885.413832,
     "geom:bbox":"-0.36428535,39.50571283,-0.3356058,39.5226655",
     "geom:latitude":39.514136,
     "geom:longitude":-0.350269,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46032",
+        "eurostat:nuts_2021_id":"46032",
         "gn:id":6361897,
         "gp:id":12695573,
         "qs_pg:id":1078688
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"78620e137e348353137e29655ae14c99",
+    "wof:geomhash":"c3c26605649393c3743a1755837d3359",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404344871,
-    "wof:lastmodified":1582361855,
+    "wof:lastmodified":1684352479,
     "wof:name":"Alm\u00e0ssera",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":7438,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

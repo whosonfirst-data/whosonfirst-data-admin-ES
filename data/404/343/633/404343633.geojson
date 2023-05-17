@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43108,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43108",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pla de Santa Maria, El",
+    "eurostat:nuts_2021_id":"43108",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43108",
+    "eurostat:population":2348,
+    "eurostat:population_year":2020,
     "geom:area":0.003771,
-    "geom:area_square_m":35003466.107513,
+    "geom:area_square_m":35003512.998136,
     "geom:bbox":"1.270655,41.30399,1.355631,41.383298",
     "geom:latitude":41.346712,
     "geom:longitude":1.311257,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43108",
         "esp-icgc:la_lc":"043108",
+        "eurostat:nuts_2021_id":"43108",
         "gn:id":6361350,
         "gp:id":12694245,
         "qs_pg:id":259323
@@ -67,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5c02c09c4ead8d8cd0e0d180eb691414",
+    "wof:geomhash":"ad8d490051ac53c7fbce55195fd44122",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404343633,
-    "wof:lastmodified":1669903062,
+    "wof:lastmodified":1684352458,
     "wof:name":"El Pla de Santa Maria",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":2348,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

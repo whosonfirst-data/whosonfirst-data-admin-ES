@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Armenteros",
+    "eurostat:nuts_2021_id":"37035",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37035",
+    "eurostat:population":194,
+    "eurostat:population_year":2020,
     "geom:area":0.004142,
-    "geom:area_square_m":38885590.885608,
+    "geom:area_square_m":38885590.885607,
     "geom:bbox":"-5.52680598,40.57736126,-5.41434553,40.63969371",
     "geom:latitude":40.609077,
     "geom:longitude":-5.473577,
@@ -96,6 +108,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -103,9 +117,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_37035",
+        "eurostat:nuts_2021_id":"37035"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"a1c78e01c0fea3a3fc30e7fff926a885",
+    "wof:geomhash":"5134a56c5d1ed388d8726ecd528048c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +133,12 @@
         }
     ],
     "wof:id":404341179,
-    "wof:lastmodified":1566590363,
+    "wof:lastmodified":1684352421,
     "wof:name":"Armenteros",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":194,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

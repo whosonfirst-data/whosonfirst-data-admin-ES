@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44230",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torrevelilla",
+    "eurostat:nuts_2021_id":"44230",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44230",
+    "eurostat:population":170,
+    "eurostat:population_year":2020,
     "geom:area":0.003575,
     "geom:area_square_m":33402367.443004,
     "geom:bbox":"-0.15505244,40.87911045,-0.0841563,40.95071414",
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44230",
+        "eurostat:nuts_2021_id":"44230",
         "gn:id":6361630,
         "gp:id":12689802,
         "qs_pg:id":539807
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f4ed9c272136628281028fca9bcbfc9f",
+    "wof:geomhash":"6c699a8fb5a05c13149ddc43d6c900e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404344271,
-    "wof:lastmodified":1582361855,
+    "wof:lastmodified":1684352471,
     "wof:name":"Torrevelilla",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":170,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_36050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Salvaterra de Mi\u00f1o",
+    "eurostat:nuts_2021_id":"36050",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES114",
+    "eurostat:nuts_2021_level_lau":"36050",
+    "eurostat:population":9990,
+    "eurostat:population_year":2020,
     "geom:area":0.006808,
-    "geom:area_square_m":62444364.561091,
+    "geom:area_square_m":62444364.561093,
     "geom:bbox":"-8.55762237,42.05290489,-8.39007918,42.18397882",
     "geom:latitude":42.113352,
     "geom:longitude":-8.484931,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_36050",
+        "eurostat:nuts_2021_id":"36050",
         "gp:id":12695004,
         "qs_pg:id":1084541
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"64354e21e467ac86d9dd71ef98440e39",
+    "wof:geomhash":"ac03dbf787962fb061cf7a248279e120",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404341073,
-    "wof:lastmodified":1582361636,
+    "wof:lastmodified":1684352419,
     "wof:name":"Salvaterra De Mi\u00f1o",
     "wof:parent_id":85682825,
     "wof:placetype":"localadmin",
+    "wof:population":9990,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

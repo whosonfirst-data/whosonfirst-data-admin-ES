@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04097",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Velefique",
+    "eurostat:nuts_2021_id":"04097",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04097",
+    "eurostat:population":230,
+    "eurostat:population_year":2020,
     "geom:area":0.006734,
     "geom:area_square_m":66325914.595017,
     "geom:bbox":"-2.45634138,37.13644444,-2.36224235,37.26456302",
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_04097",
+        "eurostat:nuts_2021_id":"04097",
         "gn:id":6355609,
         "gp:id":12688720,
         "qs_pg:id":44878
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9d82c093d8f28095cbe78c83da18bf48",
+    "wof:geomhash":"40bd0c4d49824d5b56b02f542f5cfe72",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404329777,
-    "wof:lastmodified":1582361795,
+    "wof:lastmodified":1684352215,
     "wof:name":"Velefique",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":230,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

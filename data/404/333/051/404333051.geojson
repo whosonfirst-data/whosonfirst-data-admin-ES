@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_11020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jerez de la Frontera",
+    "eurostat:nuts_2021_id":"11020",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES612",
+    "eurostat:nuts_2021_level_lau":"11020",
+    "eurostat:population":213105,
+    "eurostat:population_year":2020,
     "geom:area":0.119783,
-    "geom:area_square_m":1187816727.455601,
+    "geom:area_square_m":1187816727.455598,
     "geom:bbox":"-6.30612254,36.51620959,-5.45579036,36.86378952",
     "geom:latitude":36.681969,
     "geom:longitude":-5.966688,
@@ -39,6 +51,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -47,6 +61,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_11020",
+        "eurostat:nuts_2021_id":"11020",
         "gn:id":6356935,
         "gp:id":12688747,
         "qs_pg:id":902568
@@ -55,7 +71,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d6c160f7e88e5d6c53fbe6a3640acec8",
+    "wof:geomhash":"957b20604e75c6c04304a38aa4b344d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +82,12 @@
         }
     ],
     "wof:id":404333051,
-    "wof:lastmodified":1582361782,
+    "wof:lastmodified":1684352273,
     "wof:name":"Jerez De La Frontera",
     "wof:parent_id":85682679,
     "wof:placetype":"localadmin",
+    "wof:population":213105,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_41010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Almensilla",
+    "eurostat:nuts_2021_id":"41010",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES618",
+    "eurostat:nuts_2021_level_lau":"41010",
+    "eurostat:population":6175,
+    "eurostat:population_year":2020,
     "geom:area":0.001455,
     "geom:area_square_m":14306063.040676,
     "geom:bbox":"-6.14792749,37.28562406,-6.0778642,37.32479857",
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_41010",
+        "eurostat:nuts_2021_id":"41010",
         "gn:id":6360965,
         "gp:id":12689300,
         "qs_pg:id":45234
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0c9389dcc0dd7a57f999d64d26bdfd0b",
+    "wof:geomhash":"724a16d3f38d304920762a52ceff6159",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404342765,
-    "wof:lastmodified":1582361806,
+    "wof:lastmodified":1684352443,
     "wof:name":"Almensilla",
     "wof:parent_id":85682841,
     "wof:placetype":"localadmin",
+    "wof:population":6175,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

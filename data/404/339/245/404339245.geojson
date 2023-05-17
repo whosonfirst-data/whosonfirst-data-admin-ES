@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_29069",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marbella",
+    "eurostat:nuts_2021_id":"29069",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES617",
+    "eurostat:nuts_2021_level_lau":"29069",
+    "eurostat:population":147633,
+    "eurostat:population_year":2020,
     "geom:area":0.011753,
-    "geom:area_square_m":116799603.701862,
+    "geom:area_square_m":116799603.701866,
     "geom:bbox":"-5.01486709,36.45954416,-4.73065874,36.55483148",
     "geom:latitude":36.514253,
     "geom:longitude":-4.876094,
@@ -210,6 +222,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -218,6 +232,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_29069",
+        "eurostat:nuts_2021_id":"29069",
         "gn:id":6359474,
         "gp:id":12689258,
         "qs_pg:id":242119
@@ -226,7 +242,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d863b015f6c0f37ad8976774da01ccd2",
+    "wof:geomhash":"7bde60387aa2cb8c49bdbaf8caa5fc01",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -237,10 +253,12 @@
         }
     ],
     "wof:id":404339245,
-    "wof:lastmodified":1582361583,
+    "wof:lastmodified":1684352391,
     "wof:name":"Marbella",
     "wof:parent_id":85682787,
     "wof:placetype":"localadmin",
+    "wof:population":147633,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

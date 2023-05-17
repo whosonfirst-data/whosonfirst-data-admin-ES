@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16149",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Palomera",
+    "eurostat:nuts_2021_id":"16149",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16149",
+    "eurostat:population":160,
+    "eurostat:population_year":2020,
     "geom:area":0.005286,
-    "geom:area_square_m":50013715.396765,
+    "geom:area_square_m":50013715.396766,
     "geom:bbox":"-2.09036957,40.03569382,-1.95511659,40.1029469",
     "geom:latitude":40.07175,
     "geom:longitude":-2.023572,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16149",
+        "eurostat:nuts_2021_id":"16149",
         "gn:id":7577089,
         "gp:id":12690531,
         "qs_pg:id":238929
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"459221aa019ff8246730736a7041e227",
+    "wof:geomhash":"0bbfc5a0d81a27386521c649abb214a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404334313,
-    "wof:lastmodified":1582361734,
+    "wof:lastmodified":1684352296,
     "wof:name":"Palomera",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":160,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

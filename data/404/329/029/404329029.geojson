@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_01055",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valdegov\u00eda / Gaubea",
+    "eurostat:nuts_2021_id":"01055",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES211",
+    "eurostat:nuts_2021_level_lau":"01055",
+    "eurostat:population":986,
+    "eurostat:population_year":2020,
     "geom:area":0.026246,
-    "geom:area_square_m":237879074.02217,
+    "geom:area_square_m":237879074.022168,
     "geom:bbox":"-3.28676695,42.76008744,-2.99296309,42.94969174",
     "geom:latitude":42.864052,
     "geom:longitude":-3.12832,
@@ -108,6 +120,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -115,9 +129,12 @@
         404227393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_01055",
+        "eurostat:nuts_2021_id":"01055"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"56045aa39e25cf865f35c1fba580c535",
+    "wof:geomhash":"337ad6e7e4af60c1b1b2fe42d5f03cb9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +145,12 @@
         }
     ],
     "wof:id":404329029,
-    "wof:lastmodified":1566590886,
+    "wof:lastmodified":1684352203,
     "wof:name":"Valdegov\u00eda/Gaubea",
     "wof:parent_id":85682615,
     "wof:placetype":"localadmin",
+    "wof:population":986,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

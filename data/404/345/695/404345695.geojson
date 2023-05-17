@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47137",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Roturas",
+    "eurostat:nuts_2021_id":"47137",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47137",
+    "eurostat:population":28,
+    "eurostat:population_year":2020,
     "geom:area":0.001243,
-    "geom:area_square_m":11477594.630273,
+    "geom:area_square_m":11477594.630272,
     "geom:bbox":"-4.14791795,41.65106867,-4.05430021,41.69347039",
     "geom:latitude":41.669486,
     "geom:longitude":-4.114226,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_47137",
+        "eurostat:nuts_2021_id":"47137",
         "gn:id":6362260,
         "gp:id":12693034,
         "qs_pg:id":46198
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fb1c016176f6753b6d549d7044ba06a1",
+    "wof:geomhash":"90c88afd864e258c6e59a3145e0a7d6f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404345695,
-    "wof:lastmodified":1582361830,
+    "wof:lastmodified":1684352489,
     "wof:name":"Roturas",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":28,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

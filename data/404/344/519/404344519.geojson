@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45081",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Illescas",
+    "eurostat:nuts_2021_id":"45081",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45081",
+    "eurostat:population":29558,
+    "eurostat:population_year":2020,
     "geom:area":0.006049,
-    "geom:area_square_m":57186534.135969,
+    "geom:area_square_m":57186534.135971,
     "geom:bbox":"-3.91457202,40.09076254,-3.77143274,40.17722231",
     "geom:latitude":40.134497,
     "geom:longitude":-3.844836,
@@ -45,6 +57,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -53,6 +67,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45081",
+        "eurostat:nuts_2021_id":"45081",
         "gn:id":6361741,
         "gp:id":12691002,
         "qs_pg:id":78672
@@ -61,7 +77,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"61da4d1623e394ced77665797c165423",
+    "wof:geomhash":"f5276ce13ff8b9dfd5f283f2f7b6f5e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
         }
     ],
     "wof:id":404344519,
-    "wof:lastmodified":1582361850,
+    "wof:lastmodified":1684352475,
     "wof:name":"Illescas",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":29558,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

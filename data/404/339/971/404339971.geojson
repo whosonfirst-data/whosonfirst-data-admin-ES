@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31229",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tirapu",
+    "eurostat:nuts_2021_id":"31229",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31229",
+    "eurostat:population":42,
+    "eurostat:population_year":2020,
     "geom:area":0.000619,
-    "geom:area_square_m":5632540.229835,
+    "geom:area_square_m":5632540.229834,
     "geom:bbox":"-1.70757242,42.62386303,-1.6806518,42.66618395",
     "geom:latitude":42.64749,
     "geom:longitude":-1.693311,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31229",
+        "eurostat:nuts_2021_id":"31229",
         "gn:id":6359776,
         "gp:id":12688407,
         "qs_pg:id":44671
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f7815ec1164abeadb2d399480852097d",
+    "wof:geomhash":"da43ba0991b0a1260f772090147a3f9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404339971,
-    "wof:lastmodified":1582361589,
+    "wof:lastmodified":1684352401,
     "wof:name":"Tirapu",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":42,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

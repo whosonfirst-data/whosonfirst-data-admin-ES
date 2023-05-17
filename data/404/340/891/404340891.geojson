@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_35003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Antigua",
+    "eurostat:nuts_2021_id":"35003",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES7",
+    "eurostat:nuts_2021_level_2":"ES70",
+    "eurostat:nuts_2021_level_3":"ES704",
+    "eurostat:nuts_2021_level_lau":"35003",
+    "eurostat:population":12972,
+    "eurostat:population_year":2020,
     "geom:area":0.02301,
-    "geom:area_square_m":250329434.205945,
+    "geom:area_square_m":250329487.912664,
     "geom:bbox":"-14.060166,28.250528,-13.849012,28.454847",
     "geom:latitude":28.37785,
     "geom:longitude":-13.950353,
@@ -192,6 +204,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -200,6 +214,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_35003",
+        "eurostat:nuts_2021_id":"35003",
         "gn:id":6360173,
         "gp:id":12690127,
         "qs_pg:id":1109661
@@ -208,7 +224,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d6431318ba6d1b3d5ef371467d52ff00",
+    "wof:geomhash":"3e589f07f59f6163a3674b7e0993ed97",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -219,10 +235,12 @@
         }
     ],
     "wof:id":404340891,
-    "wof:lastmodified":1636503322,
+    "wof:lastmodified":1684352413,
     "wof:name":"Antigua",
     "wof:parent_id":85682821,
     "wof:placetype":"localadmin",
+    "wof:population":12972,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

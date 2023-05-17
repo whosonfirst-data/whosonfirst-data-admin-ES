@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_39070",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Miguel de Aguayo",
+    "eurostat:nuts_2021_id":"39070",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES13",
+    "eurostat:nuts_2021_level_3":"ES130",
+    "eurostat:nuts_2021_level_lau":"39070",
+    "eurostat:population":145,
+    "eurostat:population_year":2020,
     "geom:area":0.003977,
-    "geom:area_square_m":35926643.833829,
+    "geom:area_square_m":35926643.833828,
     "geom:bbox":"-4.05609617,43.03884397,-3.958343,43.10224508",
     "geom:latitude":43.071636,
     "geom:longitude":-4.010476,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_39070",
+        "eurostat:nuts_2021_id":"39070",
         "gn:id":6360715,
         "gp:id":12688591,
         "qs_pg:id":539431
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5a68da351af7685fbd2b8a2a7ad943a2",
+    "wof:geomhash":"9c26046d06e1d92e0a47945ebd67818b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404342197,
-    "wof:lastmodified":1582361816,
+    "wof:lastmodified":1684352437,
     "wof:name":"San Miguel De Aguayo",
     "wof:parent_id":85682833,
     "wof:placetype":"localadmin",
+    "wof:population":145,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

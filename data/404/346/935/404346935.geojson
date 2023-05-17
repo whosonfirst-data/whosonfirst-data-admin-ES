@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50100",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Erla",
+    "eurostat:nuts_2021_id":"50100",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50100",
+    "eurostat:population":341,
+    "eurostat:population_year":2020,
     "geom:area":0.002064,
-    "geom:area_square_m":18928775.483919,
+    "geom:area_square_m":18928775.483918,
     "geom:bbox":"-1.03018269,42.09571397,-0.93379722,42.13180324",
     "geom:latitude":42.110847,
     "geom:longitude":-0.978008,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50100",
+        "eurostat:nuts_2021_id":"50100",
         "gn:id":6362792,
         "gp:id":12689932,
         "qs_pg:id":954141
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2b7153f4508b1ae901835d001ca2aeae",
+    "wof:geomhash":"cdeeb2647564141f5adc93b744b2fca3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404346935,
-    "wof:lastmodified":1582361615,
+    "wof:lastmodified":1684352505,
     "wof:name":"Erla",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":341,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

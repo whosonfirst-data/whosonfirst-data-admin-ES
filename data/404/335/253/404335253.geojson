@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18111",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jun",
+    "eurostat:nuts_2021_id":"18111",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18111",
+    "eurostat:population":3853,
+    "eurostat:population_year":2020,
     "geom:area":0.000374,
-    "geom:area_square_m":3687030.272534,
+    "geom:area_square_m":3687030.272533,
     "geom:bbox":"-3.60290071,37.20825764,-3.57039993,37.22738283",
     "geom:latitude":37.216478,
     "geom:longitude":-3.588574,
@@ -42,6 +54,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -50,6 +64,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18111",
+        "eurostat:nuts_2021_id":"18111",
         "gn:id":6357727,
         "gp:id":12688940,
         "qs_pg:id":1196642
@@ -58,7 +74,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f2e4e7c1b71db3ec5ae6ad819d69c3d9",
+    "wof:geomhash":"f5b8fd08e5277d3f514eaa3ecd0b020e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +85,12 @@
         }
     ],
     "wof:id":404335253,
-    "wof:lastmodified":1582361709,
+    "wof:lastmodified":1684352323,
     "wof:name":"Jun",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":3853,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

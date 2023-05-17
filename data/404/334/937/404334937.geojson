@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17183,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17183",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Aniol de Finestres",
+    "eurostat:nuts_2021_id":"17183",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17183",
+    "eurostat:population":345,
+    "eurostat:population_year":2020,
     "geom:area":0.005277,
-    "geom:area_square_m":48429861.367309,
+    "geom:area_square_m":48429803.993479,
     "geom:bbox":"2.545266,42.011932,2.662051,42.126076",
     "geom:latitude":42.074569,
     "geom:longitude":2.602196,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17183",
         "esp-icgc:la_lc":"017183",
+        "eurostat:nuts_2021_id":"17183",
         "gn:id":6534120,
         "gp:id":12693833,
         "qs_pg:id":1188747
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"a0f64ea8c6c79e553e189f3b4a059f96",
+    "wof:geomhash":"129abceb2efe8735fed9e125becbf5a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404334937,
-    "wof:lastmodified":1669903041,
+    "wof:lastmodified":1684352316,
     "wof:name":"Sant Aniol de Finestres",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":345,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

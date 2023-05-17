@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50901",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Biel",
+    "eurostat:nuts_2021_id":"50901",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50901",
+    "eurostat:population":155,
+    "eurostat:population_year":2020,
     "geom:area":0.014287,
-    "geom:area_square_m":130524447.286917,
+    "geom:area_square_m":130524388.620634,
     "geom:bbox":"-0.991937,42.302619,-0.815314,42.43747",
     "geom:latitude":42.369125,
     "geom:longitude":-0.912651,
@@ -42,6 +54,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -50,6 +64,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50901",
+        "eurostat:nuts_2021_id":"50901",
         "gn:id":6362985,
         "gp:id":12689882,
         "qs_pg:id":1146835
@@ -58,7 +74,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bff860b30bf42bdae97a388d9689b3fd",
+    "wof:geomhash":"db944b9d83adb4036da3833a2685b724",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +85,12 @@
         }
     ],
     "wof:id":404347369,
-    "wof:lastmodified":1636503323,
+    "wof:lastmodified":1684352510,
     "wof:name":"Biel",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":155,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

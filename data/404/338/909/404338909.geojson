@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Olmeda de las Fuentes",
+    "eurostat:nuts_2021_id":"28101",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28101",
+    "eurostat:population":346,
+    "eurostat:population_year":2020,
     "geom:area":0.001753,
     "geom:area_square_m":16519174.430015,
     "geom:bbox":"-3.23421882,40.3440225,-3.17555209,40.39129657",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28101",
+        "eurostat:nuts_2021_id":"28101",
         "gp:id":12688044,
         "qs_pg:id":511762
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"df309c0da717549ddc83453e88d45f09",
+    "wof:geomhash":"b4bc232cb14feb8cc5a0b45a6eb87f32",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404338909,
-    "wof:lastmodified":1582361429,
+    "wof:lastmodified":1684352384,
     "wof:name":"Olmeda De Las Fuentes",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":346,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

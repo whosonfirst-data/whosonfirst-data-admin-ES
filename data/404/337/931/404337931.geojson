@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25158,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25158",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Palau d'Anglesola, El",
+    "eurostat:nuts_2021_id":"25158",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25158",
+    "eurostat:population":2166,
+    "eurostat:population_year":2020,
     "geom:area":0.001334,
-    "geom:area_square_m":12326286.400147,
+    "geom:area_square_m":12326234.823476,
     "geom:bbox":"0.819039,41.635772,0.894126,41.671325",
     "geom:latitude":41.649735,
     "geom:longitude":0.862367,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25158",
         "esp-icgc:la_lc":"025158",
+        "eurostat:nuts_2021_id":"25158",
         "gn:id":6358898,
         "gp:id":12694050,
         "qs_pg:id":47625
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"6455e1f699a249eaf38461d14c88bb59",
+    "wof:geomhash":"ed962d71ab10f2e689c1809ffbbd9970",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404337931,
-    "wof:lastmodified":1669903018,
+    "wof:lastmodified":1684352365,
     "wof:name":"El Palau d'Anglesola",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":2166,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

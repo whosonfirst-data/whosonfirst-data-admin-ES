@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_13050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Labores, Las",
+    "eurostat:nuts_2021_id":"13050",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES422",
+    "eurostat:nuts_2021_level_lau":"13050",
+    "eurostat:population":558,
+    "eurostat:population_year":2020,
     "geom:area":0.003561,
-    "geom:area_square_m":34111574.715577,
+    "geom:area_square_m":34111574.715576,
     "geom:bbox":"-3.56684949,39.142961,-3.44986338,39.29122313",
     "geom:latitude":39.21869,
     "geom:longitude":-3.513277,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_13050",
+        "eurostat:nuts_2021_id":"13050",
         "gn:id":6357144,
         "gp:id":12690347,
         "qs_pg:id":103356
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"05c85216eec7d1c789bb51d5d2b95466",
+    "wof:geomhash":"9c394c25cee7f69e1ed03ed16df3c989",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404333521,
-    "wof:lastmodified":1582361769,
+    "wof:lastmodified":1684352280,
     "wof:name":"Las Labores",
     "wof:parent_id":85682689,
     "wof:placetype":"localadmin",
+    "wof:population":558,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

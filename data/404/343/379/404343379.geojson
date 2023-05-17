@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42212",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villasayas",
+    "eurostat:nuts_2021_id":"42212",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42212",
+    "eurostat:population":66,
+    "eurostat:population_year":2020,
     "geom:area":0.006646,
     "geom:area_square_m":61678389.398694,
     "geom:bbox":"-2.69528883,41.31878061,-2.56439136,41.39330565",
@@ -183,6 +195,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -191,6 +205,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42212",
+        "eurostat:nuts_2021_id":"42212",
         "gn:id":6361237,
         "gp:id":12692896,
         "qs_pg:id":932371
@@ -199,7 +215,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"98fc054287b2a259887b727a8b14ad0c",
+    "wof:geomhash":"6a0e0581d71361579368e3d5560f5024",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -210,10 +226,12 @@
         }
     ],
     "wof:id":404343379,
-    "wof:lastmodified":1582361874,
+    "wof:lastmodified":1684352450,
     "wof:name":"Villasayas",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":66,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50087",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Contamina",
+    "eurostat:nuts_2021_id":"50087",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50087",
+    "eurostat:population":32,
+    "eurostat:population_year":2020,
     "geom:area":0.001507,
-    "geom:area_square_m":13999337.218282,
+    "geom:area_square_m":13999337.218281,
     "geom:bbox":"-1.94408633,41.23337468,-1.90714863,41.32868219",
     "geom:latitude":41.280448,
     "geom:longitude":-1.927529,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50087",
+        "eurostat:nuts_2021_id":"50087",
         "gn:id":6362780,
         "gp:id":12689922,
         "qs_pg:id":496930
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a44ed747e49304f4bc65a2efffb57422",
+    "wof:geomhash":"ee58fc4a5257300d9bf6e5d1474a958b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404346907,
-    "wof:lastmodified":1582361606,
+    "wof:lastmodified":1684352504,
     "wof:name":"Contamina",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":32,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

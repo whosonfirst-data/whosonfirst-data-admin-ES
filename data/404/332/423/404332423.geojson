@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09439",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villalbilla de Burgos",
+    "eurostat:nuts_2021_id":"09439",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09439",
+    "eurostat:population":1423,
+    "eurostat:population_year":2020,
     "geom:area":0.001578,
     "geom:area_square_m":14423383.006321,
     "geom:bbox":"-3.79769862,42.29717064,-3.74320581,42.35645934",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09439",
+        "eurostat:nuts_2021_id":"09439",
         "gn:id":6356661,
         "gp:id":12691713,
         "qs_pg:id":1147710
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"67f9bfb78c0c69b7c15ff99a57890fbb",
+    "wof:geomhash":"435a08291da8a6c41279bcc61628d481",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332423,
-    "wof:lastmodified":1582361680,
+    "wof:lastmodified":1684352264,
     "wof:name":"Villalbilla De Burgos",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":1423,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

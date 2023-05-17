@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_34154",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Revilla de Collazos",
+    "eurostat:nuts_2021_id":"34154",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES414",
+    "eurostat:nuts_2021_level_lau":"34154",
+    "eurostat:population":75,
+    "eurostat:population_year":2020,
     "geom:area":0.002256,
     "geom:area_square_m":20525740.936261,
     "geom:bbox":"-4.55585829,42.608788,-4.48453405,42.66067095",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_34154",
+        "eurostat:nuts_2021_id":"34154",
         "gn:id":6360098,
         "gp:id":12692078,
         "qs_pg:id":1095074
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e5624fa032902b3d138ec3d5dd9c7a25",
+    "wof:geomhash":"27ce870f56d6fd9f35312b2e2479fd1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404340721,
-    "wof:lastmodified":1582361666,
+    "wof:lastmodified":1684352411,
     "wof:name":"Revilla De Collazos",
     "wof:parent_id":85682815,
     "wof:placetype":"localadmin",
+    "wof:population":75,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

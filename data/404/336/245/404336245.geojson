@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_20072",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Urnieta",
+    "eurostat:nuts_2021_id":"20072",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES212",
+    "eurostat:nuts_2021_level_lau":"20072",
+    "eurostat:population":6185,
+    "eurostat:population_year":2020,
     "geom:area":0.002482,
-    "geom:area_square_m":22359927.647369,
+    "geom:area_square_m":22359927.64737,
     "geom:bbox":"-2.00906831,43.18925282,-1.92643364,43.26102686",
     "geom:latitude":43.226928,
     "geom:longitude":-1.971276,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_20072",
+        "eurostat:nuts_2021_id":"20072",
         "gn:id":6358160,
         "qs_pg:id":378195
     },
@@ -120,7 +136,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"baddf9593c922faa03ab7530269f7739",
+    "wof:geomhash":"ecb9ef35c6af74e4d74d1f1a277eca19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404336245,
-    "wof:lastmodified":1582361462,
+    "wof:lastmodified":1684352335,
     "wof:name":"Urnieta",
     "wof:parent_id":85682741,
     "wof:placetype":"localadmin",
+    "wof:population":6185,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44117",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gea de Albarrac\u00edn",
+    "eurostat:nuts_2021_id":"44117",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44117",
+    "eurostat:population":370,
+    "eurostat:population_year":2020,
     "geom:area":0.0061,
-    "geom:area_square_m":57441643.941623,
+    "geom:area_square_m":57441643.941624,
     "geom:bbox":"-1.40109694,40.35995763,-1.27538424,40.44447103",
     "geom:latitude":40.394004,
     "geom:longitude":-1.337586,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44117",
+        "eurostat:nuts_2021_id":"44117",
         "gn:id":6361528,
         "gp:id":12689699,
         "qs_pg:id":539714
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6a6a6bd5b084b49d5ea14763e58a27da",
+    "wof:geomhash":"337a7ce135580e07d16afa1367bf675f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404344037,
-    "wof:lastmodified":1582361849,
+    "wof:lastmodified":1684352469,
     "wof:name":"Gea De Albarrac\u00edn",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":370,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

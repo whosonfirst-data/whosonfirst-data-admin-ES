@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22064",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Blecua y Torres",
+    "eurostat:nuts_2021_id":"22064",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22064",
+    "eurostat:population":173,
+    "eurostat:population_year":2020,
     "geom:area":0.003939,
-    "geom:area_square_m":36151252.615635,
+    "geom:area_square_m":36151252.615636,
     "geom:bbox":"-0.24308222,42.02747505,-0.15750994,42.10973415",
     "geom:latitude":42.071426,
     "geom:longitude":-0.200574,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_22064",
+        "eurostat:nuts_2021_id":"22064"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"9a84bc764a1cbb61b3ee222b436c0bd5",
+    "wof:geomhash":"2adf26bcfce859861014bd0941e19375",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404336585,
-    "wof:lastmodified":1566589729,
+    "wof:lastmodified":1684352341,
     "wof:name":"Blecua Y Torres",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":173,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

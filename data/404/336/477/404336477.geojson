@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Albelda",
+    "eurostat:nuts_2021_id":"22009",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22009",
+    "eurostat:population":708,
+    "eurostat:population_year":2020,
     "geom:area":0.005628,
-    "geom:area_square_m":51842508.85661,
+    "geom:area_square_m":51842508.856609,
     "geom:bbox":"0.44753243,41.80448581,0.55360014,41.90134899",
     "geom:latitude":41.848626,
     "geom:longitude":0.493981,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22009",
+        "eurostat:nuts_2021_id":"22009",
         "gn:id":6358263,
         "gp:id":12689404,
         "qs_pg:id":400358
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8ff2336ccbeec5311a8aad0c0fde86e8",
+    "wof:geomhash":"668f0800aeb9739700ec4898c9a558e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404336477,
-    "wof:lastmodified":1582361462,
+    "wof:lastmodified":1684352339,
     "wof:name":"Albelda",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":708,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

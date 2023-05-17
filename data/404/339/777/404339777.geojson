@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31143",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Larraona",
+    "eurostat:nuts_2021_id":"31143",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31143",
+    "eurostat:population":96,
+    "eurostat:population_year":2020,
     "geom:area":0.000848,
     "geom:area_square_m":7697354.483268,
     "geom:bbox":"-2.28101136,42.759619,-2.23702139,42.79118491",
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31143",
+        "eurostat:nuts_2021_id":"31143",
         "gn:id":6359691,
         "gp:id":12688319,
         "qs_pg:id":1146032
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cc1f540c700434a315adbbf503437796",
+    "wof:geomhash":"a144b0fb2c7612855ba065b41bdccfa9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404339777,
-    "wof:lastmodified":1582361589,
+    "wof:lastmodified":1684352398,
     "wof:name":"Larraona",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":96,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

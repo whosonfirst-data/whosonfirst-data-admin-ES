@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18047",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cenes de la Vega",
+    "eurostat:nuts_2021_id":"18047",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18047",
+    "eurostat:population":8153,
+    "eurostat:population_year":2020,
     "geom:area":0.000658,
     "geom:area_square_m":6486140.932887,
     "geom:bbox":"-3.56004589,37.14048253,-3.51922218,37.17142024",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18047",
+        "eurostat:nuts_2021_id":"18047",
         "gn:id":6357679,
         "gp:id":12688889,
         "qs_pg:id":248793
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fff40857aa7b5d1ed37275f664c4b5e3",
+    "wof:geomhash":"425854a6249722f48ce3c50cb5315ed6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404335145,
-    "wof:lastmodified":1582361701,
+    "wof:lastmodified":1684352321,
     "wof:name":"Cenes De La Vega",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":8153,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

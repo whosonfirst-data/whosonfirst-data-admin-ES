@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22067",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bonansa",
+    "eurostat:nuts_2021_id":"22067",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22067",
+    "eurostat:population":87,
+    "eurostat:population_year":2020,
     "geom:area":0.004078,
-    "geom:area_square_m":37231048.579462,
+    "geom:area_square_m":37231048.579461,
     "geom:bbox":"0.63370996,42.37616079,0.74609672,42.44998279",
     "geom:latitude":42.41166,
     "geom:longitude":0.691205,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22067",
+        "eurostat:nuts_2021_id":"22067",
         "gn:id":6358312,
         "gp:id":12689453,
         "qs_pg:id":51584
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7d56a515ec5252ec9690ed03bfbdeec8",
+    "wof:geomhash":"f71ed1eb25d9be2b7c9290505a70a3bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404336589,
-    "wof:lastmodified":1582361468,
+    "wof:lastmodified":1684352341,
     "wof:name":"Bonansa",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":87,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

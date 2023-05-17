@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40080",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fresno de la Fuente",
+    "eurostat:nuts_2021_id":"40080",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40080",
+    "eurostat:population":79,
+    "eurostat:population_year":2020,
     "geom:area":0.001898,
-    "geom:area_square_m":17603942.195772,
+    "geom:area_square_m":17603942.195774,
     "geom:bbox":"-3.67431811,41.37163113,-3.61126278,41.430145",
     "geom:latitude":41.399124,
     "geom:longitude":-3.645721,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_40080",
+        "eurostat:nuts_2021_id":"40080",
         "gn:id":6360817,
         "gp:id":12692584,
         "qs_pg:id":400551
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b2b837ddc30b2645d1c777c0683576b5",
+    "wof:geomhash":"8268d9883c9387e7e02d09258e2a063d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404342429,
-    "wof:lastmodified":1582361818,
+    "wof:lastmodified":1684352439,
     "wof:name":"Fresno De La Fuente",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":79,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

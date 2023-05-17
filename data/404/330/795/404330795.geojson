@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_07030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Llub\u00ed",
+    "eurostat:nuts_2021_id":"07030",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES53",
+    "eurostat:nuts_2021_level_3":"ES532",
+    "eurostat:nuts_2021_level_lau":"07030",
+    "eurostat:population":2298,
+    "eurostat:population_year":2020,
     "geom:area":0.003667,
-    "geom:area_square_m":34887712.50005,
+    "geom:area_square_m":34887712.500051,
     "geom:bbox":"2.98221495,39.65988804,3.07023242,39.74035343",
     "geom:latitude":39.699959,
     "geom:longitude":3.023931,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_07030",
+        "eurostat:nuts_2021_id":"07030",
         "gp:id":12687736,
         "qs_pg:id":208373
     },
@@ -117,7 +133,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"042ba30d8f5f8055a1aa7653f687533f",
+    "wof:geomhash":"1aa9dc4306638c428c4e457064c7f4cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +144,12 @@
         }
     ],
     "wof:id":404330795,
-    "wof:lastmodified":1582361535,
+    "wof:lastmodified":1684352231,
     "wof:name":"Llub\u00ed",
     "wof:parent_id":85682647,
     "wof:placetype":"localadmin",
+    "wof:population":2298,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

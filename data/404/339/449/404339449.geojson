@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Adi\u00f3s",
+    "eurostat:nuts_2021_id":"31007",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31007",
+    "eurostat:population":152,
+    "eurostat:population_year":2020,
     "geom:area":0.000849,
-    "geom:area_square_m":7712558.336868,
+    "geom:area_square_m":7712558.336867,
     "geom:bbox":"-1.75689751,42.67619937,-1.71837394,42.7173017",
     "geom:latitude":42.693964,
     "geom:longitude":-1.735688,
@@ -63,6 +75,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -71,6 +85,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31007",
+        "eurostat:nuts_2021_id":"31007",
         "gn:id":6359556,
         "gp:id":12688176,
         "qs_pg:id":961800
@@ -79,7 +95,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2564c7f700c477ed914cd34aced9358d",
+    "wof:geomhash":"353c9f4a790106ce41c3553845393bf7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,10 +106,12 @@
         }
     ],
     "wof:id":404339449,
-    "wof:lastmodified":1582361583,
+    "wof:lastmodified":1684352394,
     "wof:name":"Adi\u00f3s",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":152,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

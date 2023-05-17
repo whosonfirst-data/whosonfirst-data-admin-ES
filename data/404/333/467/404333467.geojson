@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_13026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cabezarrubias del Puerto",
+    "eurostat:nuts_2021_id":"13026",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES422",
+    "eurostat:nuts_2021_level_lau":"13026",
+    "eurostat:population":473,
+    "eurostat:population_year":2020,
     "geom:area":0.010396,
-    "geom:area_square_m":100520511.648171,
+    "geom:area_square_m":100520511.648176,
     "geom:bbox":"-4.36864066,38.48259866,-4.15085467,38.63335627",
     "geom:latitude":38.561561,
     "geom:longitude":-4.249324,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_13026",
+        "eurostat:nuts_2021_id":"13026",
         "gn:id":6357120,
         "gp:id":12690323,
         "qs_pg:id":45716
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ac999a2e943996e753b2efe267b9c2aa",
+    "wof:geomhash":"246bd82c12d7ede9ee788bdcf5bc27d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404333467,
-    "wof:lastmodified":1582361779,
+    "wof:lastmodified":1684352279,
     "wof:name":"Cabezarrubias Del Puerto",
     "wof:parent_id":85682689,
     "wof:placetype":"localadmin",
+    "wof:population":473,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45061",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Escalona",
+    "eurostat:nuts_2021_id":"45061",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45061",
+    "eurostat:population":3276,
+    "eurostat:population_year":2020,
     "geom:area":0.007732,
-    "geom:area_square_m":73076165.440229,
+    "geom:area_square_m":73076165.44023,
     "geom:bbox":"-4.46095991,40.10239892,-4.31434748,40.20333263",
     "geom:latitude":40.150008,
     "geom:longitude":-4.390357,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45061",
+        "eurostat:nuts_2021_id":"45061",
         "gn:id":6361721,
         "gp:id":12690982,
         "qs_pg:id":1172569
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"34ecac04943d89cfd0578c81d7aba2da",
+    "wof:geomhash":"67274e5d8e847196f743b6e29dc71c88",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404344475,
-    "wof:lastmodified":1582361854,
+    "wof:lastmodified":1684352474,
     "wof:name":"Escalona",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":3276,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

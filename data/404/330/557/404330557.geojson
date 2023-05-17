@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06089",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Morera, La",
+    "eurostat:nuts_2021_id":"06089",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06089",
+    "eurostat:population":714,
+    "eurostat:population_year":2020,
     "geom:area":0.004485,
-    "geom:area_square_m":43361631.931076,
+    "geom:area_square_m":43361631.931075,
     "geom:bbox":"-6.72666091,38.52825967,-6.61385485,38.60671007",
     "geom:latitude":38.568474,
     "geom:longitude":-6.672366,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06089",
+        "eurostat:nuts_2021_id":"06089",
         "gn:id":2515745,
         "gp:id":12694408,
         "qs_pg:id":47897
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"564d45f5928419a855c50def6d9b558e",
+    "wof:geomhash":"fdfc64906a324c068984f9ca30cdc4ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404330557,
-    "wof:lastmodified":1582361520,
+    "wof:lastmodified":1684352226,
     "wof:name":"La Morera",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":714,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

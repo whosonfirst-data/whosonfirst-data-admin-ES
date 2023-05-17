@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45177",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Urda",
+    "eurostat:nuts_2021_id":"45177",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45177",
+    "eurostat:population":2477,
+    "eurostat:population_year":2020,
     "geom:area":0.022765,
-    "geom:area_square_m":217628662.936049,
+    "geom:area_square_m":217628662.936052,
     "geom:bbox":"-3.81352776,39.2696071,-3.65457878,39.46435602",
     "geom:latitude":39.364679,
     "geom:longitude":-3.72989,
@@ -57,6 +69,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -65,6 +79,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45177",
+        "eurostat:nuts_2021_id":"45177",
         "gn:id":6361837,
         "gp:id":12691099,
         "qs_pg:id":345303
@@ -73,7 +89,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2645aa46b930c0fa17b7180f226fcd3d",
+    "wof:geomhash":"c122167e236a8305cafb5ace777bd115",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +100,12 @@
         }
     ],
     "wof:id":404344735,
-    "wof:lastmodified":1582361853,
+    "wof:lastmodified":1684352478,
     "wof:name":"Urda",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":2477,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

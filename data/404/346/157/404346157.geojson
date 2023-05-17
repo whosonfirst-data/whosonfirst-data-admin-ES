@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Abezames",
+    "eurostat:nuts_2021_id":"49002",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49002",
+    "eurostat:population":59,
+    "eurostat:population_year":2020,
     "geom:area":0.002514,
-    "geom:area_square_m":23233225.449786,
+    "geom:area_square_m":23233225.449785,
     "geom:bbox":"-5.4609794,41.61122688,-5.38617007,41.66568963",
     "geom:latitude":41.635972,
     "geom:longitude":-5.426406,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_49002",
+        "eurostat:nuts_2021_id":"49002",
         "gn:id":6362449,
         "gp:id":12693128,
         "qs_pg:id":1149331
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"373efc522f32055d4c05b0b83ca3d06d",
+    "wof:geomhash":"f73353e88436b716df146c2f86b75c47",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404346157,
-    "wof:lastmodified":1582361607,
+    "wof:lastmodified":1684352496,
     "wof:name":"Abezames",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":59,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

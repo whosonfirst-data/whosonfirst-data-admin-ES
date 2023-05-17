@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_29018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ardales",
+    "eurostat:nuts_2021_id":"29018",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES617",
+    "eurostat:nuts_2021_level_lau":"29018",
+    "eurostat:population":2506,
+    "eurostat:population_year":2020,
     "geom:area":0.010768,
-    "geom:area_square_m":106489685.248543,
+    "geom:area_square_m":106489685.248542,
     "geom:bbox":"-4.93903666,36.84226665,-4.76267252,36.93970391",
     "geom:latitude":36.892671,
     "geom:longitude":-4.847326,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_29018",
+        "eurostat:nuts_2021_id":"29018",
         "gn:id":6359423,
         "gp:id":12689207,
         "qs_pg:id":1197719
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"01a48b4c757965f087fd6e7ba0a993fd",
+    "wof:geomhash":"8b82d455354cd6ca048d47e42d6e373f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404339131,
-    "wof:lastmodified":1582361590,
+    "wof:lastmodified":1684352389,
     "wof:name":"Ardales",
     "wof:parent_id":85682787,
     "wof:placetype":"localadmin",
+    "wof:population":2506,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

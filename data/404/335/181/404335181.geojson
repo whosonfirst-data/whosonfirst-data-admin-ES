@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18068",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"D\u00edlar",
+    "eurostat:nuts_2021_id":"18068",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18068",
+    "eurostat:population":2092,
+    "eurostat:population_year":2020,
     "geom:area":0.008032,
     "geom:area_square_m":79252866.933624,
     "geom:bbox":"-3.65066596,37.03946929,-3.36568044,37.08874405",
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18068",
+        "eurostat:nuts_2021_id":"18068",
         "gn:id":6357695,
         "gp:id":12688906,
         "qs_pg:id":289880
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"102bddf74a72eb17285d5ffd38674e04",
+    "wof:geomhash":"fae6e3be777e6025f9dd56a333e11fe6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404335181,
-    "wof:lastmodified":1582361702,
+    "wof:lastmodified":1684352321,
     "wof:name":"D\u00edlar",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":2092,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

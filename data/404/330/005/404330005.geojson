@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hoyos de Miguel Mu\u00f1oz",
+    "eurostat:nuts_2021_id":"05106",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05106",
+    "eurostat:population":27,
+    "eurostat:population_year":2020,
     "geom:area":0.001259,
-    "geom:area_square_m":11856539.001976,
+    "geom:area_square_m":11856539.001977,
     "geom:bbox":"-5.10369104,40.37032991,-5.03268396,40.41043243",
     "geom:latitude":40.39101,
     "geom:longitude":-5.066656,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05106",
+        "eurostat:nuts_2021_id":"05106",
         "gn:id":6355710,
         "gp:id":12691217,
         "qs_pg:id":46149
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3a856f62fe236db91c7c0176f9a9e323",
+    "wof:geomhash":"6f5bef7328e6de1bf644ea2ed4f2dc6a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330005,
-    "wof:lastmodified":1582361539,
+    "wof:lastmodified":1684352218,
     "wof:name":"Hoyos De Miguel Mu\u00f1oz",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":27,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

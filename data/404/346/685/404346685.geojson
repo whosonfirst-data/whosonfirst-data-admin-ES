@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49261",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villaralbo",
+    "eurostat:nuts_2021_id":"49261",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49261",
+    "eurostat:population":1810,
+    "eurostat:population_year":2020,
     "geom:area":0.002377,
     "geom:area_square_m":22017525.236746,
     "geom:bbox":"-5.70826899,41.47498778,-5.62697212,41.52311225",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_49261",
+        "eurostat:nuts_2021_id":"49261",
         "gn:id":6362682,
         "gp:id":12693364,
         "qs_pg:id":1188727
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4c98d5b1609feb3bd62cb2530bcb9e2a",
+    "wof:geomhash":"ca220bfba3e269e5f5e472d45835c691",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404346685,
-    "wof:lastmodified":1582361616,
+    "wof:lastmodified":1684352502,
     "wof:name":"Villaralbo",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":1810,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

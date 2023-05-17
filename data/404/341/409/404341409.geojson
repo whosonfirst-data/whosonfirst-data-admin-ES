@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37150",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gejuelo del Barro",
+    "eurostat:nuts_2021_id":"37150",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37150",
+    "eurostat:population":35,
+    "eurostat:population_year":2020,
     "geom:area":0.004642,
-    "geom:area_square_m":43279349.439474,
+    "geom:area_square_m":43279349.439476,
     "geom:bbox":"-6.1718747,41.03059676,-6.03024704,41.09191217",
     "geom:latitude":41.064925,
     "geom:longitude":-6.109865,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37150",
+        "eurostat:nuts_2021_id":"37150",
         "gn:id":6360393,
         "gp:id":12692286,
         "qs_pg:id":46668
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0d1009cd4a73e94cf760eb8064e4d0ef",
+    "wof:geomhash":"2ef20bcbd316c07726184452b5d302f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404341409,
-    "wof:lastmodified":1582361629,
+    "wof:lastmodified":1684352424,
     "wof:name":"Gejuelo Del Barro",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":35,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

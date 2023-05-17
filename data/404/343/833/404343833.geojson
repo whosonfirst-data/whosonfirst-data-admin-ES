@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alcal\u00e1 de la Selva",
+    "eurostat:nuts_2021_id":"44012",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44012",
+    "eurostat:population":331,
+    "eurostat:population_year":2020,
     "geom:area":0.011128,
-    "geom:area_square_m":104839495.71355,
+    "geom:area_square_m":104839495.713552,
     "geom:bbox":"-0.79119747,40.30827049,-0.63418534,40.41489151",
     "geom:latitude":40.364236,
     "geom:longitude":-0.713486,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44012",
+        "eurostat:nuts_2021_id":"44012",
         "gn:id":6361438,
         "gp:id":12689609,
         "qs_pg:id":1163658
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e5f5e0de7611c73b13fc7d50bdddd651",
+    "wof:geomhash":"29127283cf50edd91ce93ed05c5d0cd7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404343833,
-    "wof:lastmodified":1582361873,
+    "wof:lastmodified":1684352466,
     "wof:name":"Alcal\u00e1 De La Selva",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":331,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

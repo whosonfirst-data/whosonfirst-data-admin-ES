@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44195",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rillo",
+    "eurostat:nuts_2021_id":"44195",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44195",
+    "eurostat:population":85,
+    "eurostat:population_year":2020,
     "geom:area":0.005682,
-    "geom:area_square_m":53244118.197255,
+    "geom:area_square_m":53244118.197254,
     "geom:bbox":"-1.04945984,40.67723525,-0.90128085,40.77691482",
     "geom:latitude":40.731665,
     "geom:longitude":-0.974682,
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44195",
+        "eurostat:nuts_2021_id":"44195",
         "gn:id":6361597,
         "gp:id":12689769,
         "qs_pg:id":45469
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f56e22d0a076705100a34cbccaad35f5",
+    "wof:geomhash":"9faf8f6f05172975db4707efb50c40c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404344193,
-    "wof:lastmodified":1582361845,
+    "wof:lastmodified":1684352471,
     "wof:name":"Rillo",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":85,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

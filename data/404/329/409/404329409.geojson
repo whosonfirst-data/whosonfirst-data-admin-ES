@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03070",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Formentera del Segura",
+    "eurostat:nuts_2021_id":"03070",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03070",
+    "eurostat:population":4268,
+    "eurostat:population_year":2020,
     "geom:area":0.000445,
     "geom:area_square_m":4329829.872983,
     "geom:bbox":"-0.75322465,38.08198851,-0.7134165,38.11239335",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03070",
+        "eurostat:nuts_2021_id":"03070",
         "gn:id":6355446,
         "gp:id":12695334,
         "qs_pg:id":303535
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"caf7eafa32b817040a4ff021fb56caf6",
+    "wof:geomhash":"d9c74791c3d118ba73b2bb23e067bade",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404329409,
-    "wof:lastmodified":1582361792,
+    "wof:lastmodified":1684352209,
     "wof:name":"Formentera Del Segura",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":4268,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

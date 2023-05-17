@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46120",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Estivella",
+    "eurostat:nuts_2021_id":"46120",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46120",
+    "eurostat:population":1441,
+    "eurostat:population_year":2020,
     "geom:area":0.002197,
-    "geom:area_square_m":20898391.362556,
+    "geom:area_square_m":20898391.362555,
     "geom:bbox":"-0.40834741,39.69021699,-0.32312868,39.7342103",
     "geom:latitude":39.71448,
     "geom:longitude":-0.368795,
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46120",
+        "eurostat:nuts_2021_id":"46120",
         "gn:id":6361985,
         "gp:id":12695657,
         "qs_pg:id":1234491
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f827153cc4ff17cdfb230b91a0c544a9",
+    "wof:geomhash":"71d987e9ce345a88bac2d59e745f7858",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404345069,
-    "wof:lastmodified":1582361839,
+    "wof:lastmodified":1684352482,
     "wof:name":"Estivella",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":1441,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

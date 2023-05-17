@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_39063",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rionansa",
+    "eurostat:nuts_2021_id":"39063",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES13",
+    "eurostat:nuts_2021_level_3":"ES130",
+    "eurostat:nuts_2021_level_lau":"39063",
+    "eurostat:population":1029,
+    "eurostat:population_year":2020,
     "geom:area":0.013075,
-    "geom:area_square_m":117817951.175091,
+    "geom:area_square_m":117817951.175094,
     "geom:bbox":"-4.48406104,43.13709435,-4.33825062,43.30121042",
     "geom:latitude":43.220194,
     "geom:longitude":-4.420428,
@@ -108,6 +120,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -115,9 +129,12 @@
         404227371
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_39063",
+        "eurostat:nuts_2021_id":"39063"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"977c1ec6ad92e592b192dbdc1bf81341",
+    "wof:geomhash":"8876519ea5029682046e96ebbe8cc526",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +145,12 @@
         }
     ],
     "wof:id":404342183,
-    "wof:lastmodified":1566590981,
+    "wof:lastmodified":1684352436,
     "wof:name":"Rionansa",
     "wof:parent_id":85682833,
     "wof:placetype":"localadmin",
+    "wof:population":1029,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

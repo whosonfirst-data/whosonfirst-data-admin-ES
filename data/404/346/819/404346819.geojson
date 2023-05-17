@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50047",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Berdejo",
+    "eurostat:nuts_2021_id":"50047",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50047",
+    "eurostat:population":40,
+    "eurostat:population_year":2020,
     "geom:area":0.002093,
-    "geom:area_square_m":19360208.804743,
+    "geom:area_square_m":19360208.804745,
     "geom:bbox":"-1.99502978,41.542955,-1.90777533,41.60013271",
     "geom:latitude":41.567907,
     "geom:longitude":-1.957936,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50047",
+        "eurostat:nuts_2021_id":"50047",
         "gn:id":6362741,
         "gp:id":12689880,
         "qs_pg:id":45514
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0865f42e4c3da87ed4e15ef29abcd26d",
+    "wof:geomhash":"22071317d42bafdfd22d88517fa43ed8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404346819,
-    "wof:lastmodified":1582361609,
+    "wof:lastmodified":1684352503,
     "wof:name":"Berdejo",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":40,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

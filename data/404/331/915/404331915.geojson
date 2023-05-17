@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09159",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hontanas",
+    "eurostat:nuts_2021_id":"09159",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09159",
+    "eurostat:population":74,
+    "eurostat:population_year":2020,
     "geom:area":0.001116,
     "geom:area_square_m":10202294.583085,
     "geom:bbox":"-4.07265125,42.29185964,-4.01590416,42.32552872",
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09159",
+        "eurostat:nuts_2021_id":"09159",
         "gn:id":6356451,
         "gp:id":12691498,
         "qs_pg:id":1188423
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e8e2f1c3109bd43b62d6b1230e9bea72",
+    "wof:geomhash":"852199e8bec09130dcb2cbec7a24c47d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404331915,
-    "wof:lastmodified":1582361496,
+    "wof:lastmodified":1684352259,
     "wof:name":"Hontanas",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":74,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

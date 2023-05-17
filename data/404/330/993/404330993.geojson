@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8051,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castellar del Vall\u00e8s",
+    "eurostat:nuts_2021_id":"08051",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08051",
+    "eurostat:population":24488,
+    "eurostat:population_year":2020,
     "geom:area":0.004872,
-    "geom:area_square_m":45038383.758526,
+    "geom:area_square_m":45038314.402211,
     "geom:bbox":"2.025208,41.580317,2.118423,41.666569",
     "geom:latitude":41.622552,
     "geom:longitude":2.074319,
@@ -74,6 +86,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -82,7 +96,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08051",
         "esp-icgc:la_lc":"08051",
+        "eurostat:nuts_2021_id":"08051",
         "gn:id":3125908,
         "gp:id":12693430,
         "qs_pg:id":1310845
@@ -92,7 +108,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6f1ac5ecdeb9ba657dd3848efad93bef",
+    "wof:geomhash":"9b0df687f57aaa513f76cccc4123657b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,10 +119,12 @@
         }
     ],
     "wof:id":404330993,
-    "wof:lastmodified":1669903016,
+    "wof:lastmodified":1684352237,
     "wof:name":"Castellar del Vall\u00e8s",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":24488,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

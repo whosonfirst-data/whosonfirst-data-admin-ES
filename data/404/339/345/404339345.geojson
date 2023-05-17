@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_30012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bullas",
+    "eurostat:nuts_2021_id":"30012",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES62",
+    "eurostat:nuts_2021_level_3":"ES620",
+    "eurostat:nuts_2021_level_lau":"30012",
+    "eurostat:population":11553,
+    "eurostat:population_year":2020,
     "geom:area":0.008433,
-    "geom:area_square_m":82123497.023031,
+    "geom:area_square_m":82123497.023032,
     "geom:bbox":"-1.72245479,37.96551557,-1.61517995,38.09591674",
     "geom:latitude":38.041546,
     "geom:longitude":-1.673193,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_30012",
+        "eurostat:nuts_2021_id":"30012",
         "gn:id":6359517,
         "gp:id":12688137,
         "qs_pg:id":198733
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"04c54e163545c89254f9adc0666474c6",
+    "wof:geomhash":"0ba2a3578ec498ee58d8b7bee142ce56",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404339345,
-    "wof:lastmodified":1582361597,
+    "wof:lastmodified":1684352392,
     "wof:name":"Bullas",
     "wof:parent_id":85682791,
     "wof:placetype":"localadmin",
+    "wof:population":11553,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

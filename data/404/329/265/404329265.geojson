@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alcocer de Planes",
+    "eurostat:nuts_2021_id":"03007",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03007",
+    "eurostat:population":226,
+    "eurostat:population_year":2020,
     "geom:area":0.000455,
     "geom:area_square_m":4384216.988387,
     "geom:bbox":"-0.41824267,38.78599367,-0.38454027,38.80618797",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227381
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_03007",
+        "eurostat:nuts_2021_id":"03007"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"08373102140a287c75bedbb70bff6bd0",
+    "wof:geomhash":"c2b45b9260efa77e063225cdad617b64",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404329265,
-    "wof:lastmodified":1566590896,
+    "wof:lastmodified":1684352207,
     "wof:name":"Alcocer De Planes",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":226,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_21031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Encinasola",
+    "eurostat:nuts_2021_id":"21031",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES615",
+    "eurostat:nuts_2021_level_lau":"21031",
+    "eurostat:population":1310,
+    "eurostat:population_year":2020,
     "geom:area":0.018264,
-    "geom:area_square_m":177652354.155669,
+    "geom:area_square_m":177652354.155663,
     "geom:bbox":"-6.98984432,38.02402926,-6.79282796,38.20831687",
     "geom:latitude":38.127952,
     "geom:longitude":-6.896842,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_21031",
+        "eurostat:nuts_2021_id":"21031",
         "gn:id":6358207,
         "gp:id":12689045,
         "qs_pg:id":1109570
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6080303f5502bb99606c17683b0f6fe8",
+    "wof:geomhash":"4d3f40c16ed39f25668ee4120ca4b115",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404336351,
-    "wof:lastmodified":1582361470,
+    "wof:lastmodified":1684352337,
     "wof:name":"Encinasola",
     "wof:parent_id":85682749,
     "wof:placetype":"localadmin",
+    "wof:population":1310,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

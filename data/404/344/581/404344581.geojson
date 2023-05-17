@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45108",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nava de Ricomalillo, La",
+    "eurostat:nuts_2021_id":"45108",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45108",
+    "eurostat:population":519,
+    "eurostat:population_year":2020,
     "geom:area":0.004148,
     "geom:area_square_m":39490424.949892,
     "geom:bbox":"-5.03987931,39.61431783,-4.93803976,39.67808044",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45108",
+        "eurostat:nuts_2021_id":"45108",
         "gn:id":6361768,
         "gp:id":12691029,
         "qs_pg:id":63537
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cc0451c66965b733be784592587dd34b",
+    "wof:geomhash":"5e88602277728424e0172d5bb66e281f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404344581,
-    "wof:lastmodified":1582361850,
+    "wof:lastmodified":1684352476,
     "wof:name":"La Nava De Ricomalillo",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":519,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

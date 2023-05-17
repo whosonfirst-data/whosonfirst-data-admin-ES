@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ma\u00f1\u00f3n",
+    "eurostat:nuts_2021_id":"15044",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15044",
+    "eurostat:population":1319,
+    "eurostat:population_year":2020,
     "geom:area":0.009174,
-    "geom:area_square_m":82079583.63648,
+    "geom:area_square_m":82079583.636463,
     "geom:bbox":"-7.80535864,43.54880719,-7.66172124,43.79237957",
     "geom:latitude":43.652426,
     "geom:longitude":-7.734236,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_15044",
+        "eurostat:nuts_2021_id":"15044",
         "gn:id":6357313,
         "gp:id":12694746,
         "qs_pg:id":1293624
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a36f3bc7af4b121cba7d3968637f6aae",
+    "wof:geomhash":"77b550716e893a02b62ae98177d726a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404333907,
-    "wof:lastmodified":1582361758,
+    "wof:lastmodified":1684352288,
     "wof:name":"Ma\u00f1\u00f3n",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":1319,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

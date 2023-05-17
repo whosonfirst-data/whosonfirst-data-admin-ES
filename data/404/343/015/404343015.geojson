@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Almaluez",
+    "eurostat:nuts_2021_id":"42018",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42018",
+    "eurostat:population":130,
+    "eurostat:population_year":2020,
     "geom:area":0.01711,
-    "geom:area_square_m":158901149.924976,
+    "geom:area_square_m":158901149.924974,
     "geom:bbox":"-2.42289062,41.24358673,-2.19721516,41.40417808",
     "geom:latitude":41.317852,
     "geom:longitude":-2.306889,
@@ -198,6 +210,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -206,6 +220,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42018",
+        "eurostat:nuts_2021_id":"42018",
         "gn:id":6361076,
         "gp:id":12692735,
         "qs_pg:id":1148897
@@ -214,7 +230,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"11828da5b409c2877dc248aa756f6ad5",
+    "wof:geomhash":"7e5afa7852c0d12739dde95103413e54",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -225,10 +241,12 @@
         }
     ],
     "wof:id":404343015,
-    "wof:lastmodified":1582361866,
+    "wof:lastmodified":1684352446,
     "wof:name":"Almaluez",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":130,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

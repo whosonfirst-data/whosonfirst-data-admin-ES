@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alcantud",
+    "eurostat:nuts_2021_id":"16009",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16009",
+    "eurostat:population":48,
+    "eurostat:population_year":2020,
     "geom:area":0.006126,
     "geom:area_square_m":57567069.060886,
     "geom:bbox":"-2.38139515,40.49590042,-2.26331466,40.57540868",
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16009",
+        "eurostat:nuts_2021_id":"16009",
         "gn:id":6357370,
         "gp:id":12690406,
         "qs_pg:id":1009377
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"28945c1635682f6a6057cc2f16339d14",
+    "wof:geomhash":"205f51358fe644b7d71b27f843ae6970",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404334039,
-    "wof:lastmodified":1582361730,
+    "wof:lastmodified":1684352292,
     "wof:name":"Alcantud",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":48,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

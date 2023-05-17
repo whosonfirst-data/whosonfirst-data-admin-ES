@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40142",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Navares de Ayuso",
+    "eurostat:nuts_2021_id":"40142",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40142",
+    "eurostat:population":53,
+    "eurostat:population_year":2020,
     "geom:area":0.001598,
-    "geom:area_square_m":14824537.295918,
+    "geom:area_square_m":14824537.295917,
     "geom:bbox":"-3.72117143,41.33930249,-3.68041484,41.40745849",
     "geom:latitude":41.3729,
     "geom:longitude":-3.699436,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_40142",
+        "eurostat:nuts_2021_id":"40142",
         "gn:id":6360869,
         "gp:id":12692637,
         "qs_pg:id":46800
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fe716b3886db7e22e9003bef125871ff",
+    "wof:geomhash":"9d6cbf4d9d285748e47b40a330d1746a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404342547,
-    "wof:lastmodified":1582361822,
+    "wof:lastmodified":1684352440,
     "wof:name":"Navares De Ayuso",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":53,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

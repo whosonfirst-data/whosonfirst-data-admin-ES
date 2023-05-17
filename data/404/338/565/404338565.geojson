@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_27014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Corgo, O",
+    "eurostat:nuts_2021_id":"27014",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES112",
+    "eurostat:nuts_2021_level_lau":"27014",
+    "eurostat:population":3422,
+    "eurostat:population_year":2020,
     "geom:area":0.017349,
-    "geom:area_square_m":157066832.786407,
+    "geom:area_square_m":157066832.786404,
     "geom:bbox":"-7.53616824,42.8581453,-7.31424275,43.00665059",
     "geom:latitude":42.930645,
     "geom:longitude":-7.434534,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_27014",
+        "eurostat:nuts_2021_id":"27014",
         "gn:id":6359175,
         "qs_pg:id":621741
     },
@@ -111,7 +127,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ef76af89cb03ea0bb579596930fc5f09",
+    "wof:geomhash":"8e5d41d95ddfadc541262270e11b9057",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +138,12 @@
         }
     ],
     "wof:id":404338565,
-    "wof:lastmodified":1582361446,
+    "wof:lastmodified":1684352377,
     "wof:name":"O Corgo",
     "wof:parent_id":85682775,
     "wof:placetype":"localadmin",
+    "wof:population":3422,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

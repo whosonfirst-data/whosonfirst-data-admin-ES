@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_29068",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Manilva",
+    "eurostat:nuts_2021_id":"29068",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES617",
+    "eurostat:nuts_2021_level_lau":"29068",
+    "eurostat:population":16439,
+    "eurostat:population_year":2020,
     "geom:area":0.003572,
-    "geom:area_square_m":35575912.012882,
+    "geom:area_square_m":35575912.012885,
     "geom:bbox":"-5.3200847,36.31028059,-5.22104574,36.38959098",
     "geom:latitude":36.352725,
     "geom:longitude":-5.261741,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_29068",
+        "eurostat:nuts_2021_id":"29068",
         "gn:id":6359473,
         "gp:id":12689257,
         "qs_pg:id":1314273
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"50599ab7cc39e1a667ea8cb5ac70a693",
+    "wof:geomhash":"241aec73b578784a503a4db671a8e34c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404339243,
-    "wof:lastmodified":1582361584,
+    "wof:lastmodified":1684352391,
     "wof:name":"Manilva",
     "wof:parent_id":85682787,
     "wof:placetype":"localadmin",
+    "wof:population":16439,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

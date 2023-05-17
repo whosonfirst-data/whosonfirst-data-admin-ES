@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_01016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bernedo",
+    "eurostat:nuts_2021_id":"01016",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES211",
+    "eurostat:nuts_2021_level_lau":"01016",
+    "eurostat:population":507,
+    "eurostat:population_year":2020,
     "geom:area":0.01433,
-    "geom:area_square_m":130233616.834425,
+    "geom:area_square_m":130233616.834427,
     "geom:bbox":"-2.60897902,42.60829307,-2.41729824,42.78837981",
     "geom:latitude":42.693997,
     "geom:longitude":-2.523634,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_01016",
+        "eurostat:nuts_2021_id":"01016",
         "gn:id":6355254,
         "gp:id":12695028,
         "qs_pg:id":48268
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a5eb6c4f33be1e306a6b5daea82ef265",
+    "wof:geomhash":"b457febddd1bd12220970abbb2fcc04e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404328959,
-    "wof:lastmodified":1582361842,
+    "wof:lastmodified":1684352202,
     "wof:name":"Bernedo",
     "wof:parent_id":85682615,
     "wof:placetype":"localadmin",
+    "wof:population":507,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

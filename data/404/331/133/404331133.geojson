@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8113,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08113",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Manresa",
+    "eurostat:nuts_2021_id":"08113",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08113",
+    "eurostat:population":78245,
+    "eurostat:population_year":2020,
     "geom:area":0.004508,
-    "geom:area_square_m":41604711.957533,
+    "geom:area_square_m":41604711.957534,
     "geom:bbox":"1.76925609072,41.6881613529,1.87473274412,41.7582395977",
     "geom:latitude":41.720598,
     "geom:longitude":1.825809,
@@ -172,6 +184,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -180,7 +194,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08113",
         "esp-icgc:la_lc":"08113",
+        "eurostat:nuts_2021_id":"08113",
         "gn:id":6356142,
         "gp:id":12693493,
         "qs_pg:id":47247
@@ -190,7 +206,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8eb7d4a79250a4bdfd2f0138fea275d8",
+    "wof:geomhash":"db13a4e13724426eca0ed987a03b0bf1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -201,10 +217,12 @@
         }
     ],
     "wof:id":404331133,
-    "wof:lastmodified":1582361483,
+    "wof:lastmodified":1684352242,
     "wof:name":"Manresa",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":78245,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

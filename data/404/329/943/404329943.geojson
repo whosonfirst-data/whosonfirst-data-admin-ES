@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05076",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fresno, El",
+    "eurostat:nuts_2021_id":"05076",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05076",
+    "eurostat:population":582,
+    "eurostat:population_year":2020,
     "geom:area":0.001344,
     "geom:area_square_m":12613707.987073,
     "geom:bbox":"-4.78924598,40.60299757,-4.71332742,40.64296994",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05076",
+        "eurostat:nuts_2021_id":"05076",
         "gn:id":6355682,
         "gp:id":12691191,
         "qs_pg:id":621535
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c9e28b5e96813eb14a1cb9b3c69adc31",
+    "wof:geomhash":"fbf720caf33478cf24f92750e159f01c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404329943,
-    "wof:lastmodified":1582361804,
+    "wof:lastmodified":1684352217,
     "wof:name":"El Fresno",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":582,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

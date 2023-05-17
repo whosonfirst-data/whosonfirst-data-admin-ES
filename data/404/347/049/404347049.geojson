@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50155",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Malanquilla",
+    "eurostat:nuts_2021_id":"50155",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50155",
+    "eurostat:population":89,
+    "eurostat:population_year":2020,
     "geom:area":0.003955,
-    "geom:area_square_m":36579408.103516,
+    "geom:area_square_m":36579408.103515,
     "geom:bbox":"-1.92310041,41.53626775,-1.8323035,41.62158823",
     "geom:latitude":41.582299,
     "geom:longitude":-1.879322,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50155",
+        "eurostat:nuts_2021_id":"50155",
         "gn:id":6362843,
         "gp:id":12689983,
         "qs_pg:id":265252
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2338af84e79256907e477177c0dc733e",
+    "wof:geomhash":"fd0fdbd7139954a9c968ab33c7fe029a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404347049,
-    "wof:lastmodified":1582361670,
+    "wof:lastmodified":1684352506,
     "wof:name":"Malanquilla",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":89,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

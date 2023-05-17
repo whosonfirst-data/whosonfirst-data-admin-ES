@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03095",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ondara",
+    "eurostat:nuts_2021_id":"03095",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03095",
+    "eurostat:population":7076,
+    "eurostat:population_year":2020,
     "geom:area":0.00108,
-    "geom:area_square_m":10406079.438018,
+    "geom:area_square_m":10406079.438019,
     "geom:bbox":"-0.0192755,38.80792889,0.03987668,38.84490819",
     "geom:latitude":38.826978,
     "geom:longitude":0.015075,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03095",
+        "eurostat:nuts_2021_id":"03095",
         "gn:id":6355470,
         "gp:id":12695359,
         "qs_pg:id":48430
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"38f6fb06d685be0a606753a9249d4e14",
+    "wof:geomhash":"a5030c17170cddef781e459e0729d359",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404329463,
-    "wof:lastmodified":1582361791,
+    "wof:lastmodified":1684352210,
     "wof:name":"Ondara",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":7076,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28143",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Somosierra",
+    "eurostat:nuts_2021_id":"28143",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28143",
+    "eurostat:population":87,
+    "eurostat:population_year":2020,
     "geom:area":0.002189,
-    "geom:area_square_m":20387676.782325,
+    "geom:area_square_m":20387676.782326,
     "geom:bbox":"-3.61370266,41.11389201,-3.53670457,41.16584476",
     "geom:latitude":41.141611,
     "geom:longitude":-3.568576,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28143",
+        "eurostat:nuts_2021_id":"28143",
         "gn:id":6359362,
         "gp:id":12688083,
         "qs_pg:id":247905
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2a1da8f88c9620c4ba568d7c089092c2",
+    "wof:geomhash":"8131c42bd006eda79a51cb1c256a4e87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404338993,
-    "wof:lastmodified":1582361445,
+    "wof:lastmodified":1684352386,
     "wof:name":"Somosierra",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":87,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

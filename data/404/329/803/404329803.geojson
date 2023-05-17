@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Adrada, La",
+    "eurostat:nuts_2021_id":"05002",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05002",
+    "eurostat:population":2539,
+    "eurostat:population_year":2020,
     "geom:area":0.006216,
-    "geom:area_square_m":58612484.279806,
+    "geom:area_square_m":58612484.279808,
     "geom:bbox":"-4.70304575,40.2489391,-4.61066254,40.36661665",
     "geom:latitude":40.308193,
     "geom:longitude":-4.653871,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05002",
+        "eurostat:nuts_2021_id":"05002",
         "gn:id":6355620,
         "gp:id":12691128,
         "qs_pg:id":621527
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"761fbe5a4911de8b2111b3df3299dca9",
+    "wof:geomhash":"85890113e609b50541baee55aeaa3096",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404329803,
-    "wof:lastmodified":1582361792,
+    "wof:lastmodified":1684352216,
     "wof:name":"La Adrada",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":2539,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

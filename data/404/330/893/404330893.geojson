@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8007,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arenys de Munt",
+    "eurostat:nuts_2021_id":"08007",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08007",
+    "eurostat:population":9121,
+    "eurostat:population_year":2020,
     "geom:area":0.002344,
-    "geom:area_square_m":21668305.136229,
+    "geom:area_square_m":21668250.164974,
     "geom:bbox":"2.493704,41.58105,2.5678,41.641438",
     "geom:latitude":41.610129,
     "geom:longitude":2.530685,
@@ -64,6 +76,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -72,7 +86,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08007",
         "esp-icgc:la_lc":"08007",
+        "eurostat:nuts_2021_id":"08007",
         "gn:id":6533986,
         "gp:id":12693383,
         "qs_pg:id":1032124
@@ -82,7 +98,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"66f8a425a1ae7af7a9fd6a2924c9c9af",
+    "wof:geomhash":"dae931383f965bba03c723705b90cc8f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,10 +109,12 @@
         }
     ],
     "wof:id":404330893,
-    "wof:lastmodified":1669903015,
+    "wof:lastmodified":1684352234,
     "wof:name":"Arenys de Munt",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":9121,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40228",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villaverde de \u00cdscar",
+    "eurostat:nuts_2021_id":"40228",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40228",
+    "eurostat:population":591,
+    "eurostat:population_year":2020,
     "geom:area":0.002988,
-    "geom:area_square_m":27758563.499814,
+    "geom:area_square_m":27758563.499816,
     "geom:bbox":"-4.60514961,41.26922811,-4.50006438,41.32109922",
     "geom:latitude":41.296867,
     "geom:longitude":-4.549857,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_40228",
+        "eurostat:nuts_2021_id":"40228"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"513577a4ee2d608b4def97a40f735ecd",
+    "wof:geomhash":"45077c590a309203d1a16886a5e68420",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404342717,
-    "wof:lastmodified":1566590981,
+    "wof:lastmodified":1684352442,
     "wof:name":"Villaverde De \u00cdscar",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":591,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

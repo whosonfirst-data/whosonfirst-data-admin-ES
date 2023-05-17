@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castrej\u00f3n de Trabancos",
+    "eurostat:nuts_2021_id":"47037",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47037",
+    "eurostat:population":177,
+    "eurostat:population_year":2020,
     "geom:area":0.003244,
-    "geom:area_square_m":30160134.427582,
+    "geom:area_square_m":30160134.427581,
     "geom:bbox":"-5.22267608,41.22367855,-5.13105151,41.27870365",
     "geom:latitude":41.250972,
     "geom:longitude":-5.178682,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_47037",
+        "eurostat:nuts_2021_id":"47037"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"6537f93da4937964a83ffce5fbb00328",
+    "wof:geomhash":"6910e35350bd556ca351113450460241",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404345481,
-    "wof:lastmodified":1566591034,
+    "wof:lastmodified":1684352486,
     "wof:name":"Castrej\u00f3n De Trabancos",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":177,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

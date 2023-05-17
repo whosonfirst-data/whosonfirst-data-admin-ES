@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43169,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43169",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vilaplana",
+    "eurostat:nuts_2021_id":"43169",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43169",
+    "eurostat:population":555,
+    "eurostat:population_year":2020,
     "geom:area":0.002482,
-    "geom:area_square_m":23077260.16472,
+    "geom:area_square_m":23077260.164719,
     "geom:bbox":"0.992731587357,41.2216311188,1.08844898206,41.2750864425",
     "geom:latitude":41.249633,
     "geom:longitude":1.035507,
@@ -121,6 +133,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -129,7 +143,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43169",
         "esp-icgc:la_lc":"043169",
+        "eurostat:nuts_2021_id":"43169",
         "gn:id":6361411,
         "gp:id":12694312,
         "qs_pg:id":894182
@@ -139,7 +155,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"e4cf9e8e3871dbca6433314daa443bdb",
+    "wof:geomhash":"842c1703c256f2ccd3649f6987d2425f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404343771,
-    "wof:lastmodified":1582361875,
+    "wof:lastmodified":1684352464,
     "wof:name":"Vilaplana",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":555,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

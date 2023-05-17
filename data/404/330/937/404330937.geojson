@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8026,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brull, El",
+    "eurostat:nuts_2021_id":"08026",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08026",
+    "eurostat:population":258,
+    "eurostat:population_year":2020,
     "geom:area":0.004462,
-    "geom:area_square_m":41127371.962914,
+    "geom:area_square_m":41127459.867867,
     "geom:bbox":"2.240995,41.763199,2.382679,41.837962",
     "geom:latitude":41.804054,
     "geom:longitude":2.316688,
@@ -127,6 +139,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -135,7 +149,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08026",
         "esp-icgc:la_lc":"08026",
+        "eurostat:nuts_2021_id":"08026",
         "gn:id":6356062,
         "gp:id":12693403,
         "qs_pg:id":1123032
@@ -145,7 +161,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"402be3f35707e6954df9534389b5ce7b",
+    "wof:geomhash":"5c783bf66cd5177b2dec7213294636c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404330937,
-    "wof:lastmodified":1669903015,
+    "wof:lastmodified":1684352236,
     "wof:name":"El Brull",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":258,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

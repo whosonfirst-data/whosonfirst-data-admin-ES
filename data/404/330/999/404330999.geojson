@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8054,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08054",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castellbisbal",
+    "eurostat:nuts_2021_id":"08054",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08054",
+    "eurostat:population":12539,
+    "eurostat:population_year":2020,
     "geom:area":0.00334,
-    "geom:area_square_m":30942183.838369,
+    "geom:area_square_m":30942183.83837,
     "geom:bbox":"1.92154025503,41.4355876552,2.00587561103,41.5232468955",
     "geom:latitude":41.482796,
     "geom:longitude":1.968185,
@@ -124,6 +136,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -132,7 +146,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08054",
         "esp-icgc:la_lc":"08054",
+        "eurostat:nuts_2021_id":"08054",
         "gn:id":6356086,
         "gp:id":12693432,
         "qs_pg:id":242316
@@ -142,7 +158,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"2520cbf3105f7e85c00f6f7e5831028e",
+    "wof:geomhash":"685e1a70083e1cad470d8bb8b09c0e8b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,10 +169,12 @@
         }
     ],
     "wof:id":404330999,
-    "wof:lastmodified":1582361521,
+    "wof:lastmodified":1684352238,
     "wof:name":"Castellbisbal",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":12539,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alfondeguilla",
+    "eurostat:nuts_2021_id":"12007",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12007",
+    "eurostat:population":862,
+    "eurostat:population_year":2020,
     "geom:area":0.002981,
-    "geom:area_square_m":28300559.56289,
+    "geom:area_square_m":28300559.562889,
     "geom:bbox":"-0.31628977,39.79699107,-0.23901965,39.87155262",
     "geom:latitude":39.838554,
     "geom:longitude":-0.281527,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12007",
+        "eurostat:nuts_2021_id":"12007",
         "gn:id":6356966,
         "gp:id":12695412,
         "qs_pg:id":1149675
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a1504b717930c9628081dfa03221b895",
+    "wof:geomhash":"fa11d14974c7ee1cd4cc4ac7a1309e35",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404333121,
-    "wof:lastmodified":1582361771,
+    "wof:lastmodified":1684352274,
     "wof:name":"Alfondeguilla",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":862,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

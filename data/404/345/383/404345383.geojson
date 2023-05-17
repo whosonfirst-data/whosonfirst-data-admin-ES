@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46260",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vinalesa",
+    "eurostat:nuts_2021_id":"46260",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46260",
+    "eurostat:population":3412,
+    "eurostat:population_year":2020,
     "geom:area":0.00016,
     "geom:area_square_m":1527221.909691,
     "geom:bbox":"-0.37688422,39.52366818,-0.36132742,39.54329466",
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46260",
+        "eurostat:nuts_2021_id":"46260",
         "gn:id":6362124,
         "gp:id":12695798,
         "qs_pg:id":1012870
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c26a6d35f9ebad7aa205eaeb8280b649",
+    "wof:geomhash":"88646b1b54033eb31fda979b47dd09e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404345383,
-    "wof:lastmodified":1582361831,
+    "wof:lastmodified":1684352485,
     "wof:name":"Vinalesa",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":3412,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

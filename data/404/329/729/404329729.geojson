@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04075",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pulp\u00ed",
+    "eurostat:nuts_2021_id":"04075",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04075",
+    "eurostat:population":10358,
+    "eurostat:population_year":2020,
     "geom:area":0.009633,
     "geom:area_square_m":94628961.216717,
     "geom:bbox":"-1.82484541,37.33521044,-1.63012374,37.45219297",
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_04075",
+        "eurostat:nuts_2021_id":"04075",
         "gn:id":6355587,
         "gp:id":12688697,
         "qs_pg:id":213843
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0cb8ecbb01eeeddcb4a0c90ee5b2a044",
+    "wof:geomhash":"25583bca5cdb27d188a8753ba2c9136b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404329729,
-    "wof:lastmodified":1582361804,
+    "wof:lastmodified":1684352214,
     "wof:name":"Pulp\u00ed",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":10358,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

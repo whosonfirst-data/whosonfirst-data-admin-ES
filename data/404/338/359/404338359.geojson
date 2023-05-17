@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_26101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Muro en Cameros",
+    "eurostat:nuts_2021_id":"26101",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES23",
+    "eurostat:nuts_2021_level_3":"ES230",
+    "eurostat:nuts_2021_level_lau":"26101",
+    "eurostat:population":35,
+    "eurostat:population_year":2020,
     "geom:area":0.001743,
-    "geom:area_square_m":15960954.656586,
+    "geom:area_square_m":15960954.656587,
     "geom:bbox":"-2.57308028,42.20035646,-2.50941985,42.24365428",
     "geom:latitude":42.221996,
     "geom:longitude":-2.545215,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_26101",
+        "eurostat:nuts_2021_id":"26101",
         "gn:id":6359088,
         "gp:id":12687869,
         "qs_pg:id":44357
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f2be0d7b24758e49bcbd49d660e3572e",
+    "wof:geomhash":"60bdd19d523c79b33d440dcf2203a594",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404338359,
-    "wof:lastmodified":1582361444,
+    "wof:lastmodified":1684352375,
     "wof:name":"Muro En Cameros",
     "wof:parent_id":85682773,
     "wof:placetype":"localadmin",
+    "wof:population":35,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_13081",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Terrinches",
+    "eurostat:nuts_2021_id":"13081",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES422",
+    "eurostat:nuts_2021_level_lau":"13081",
+    "eurostat:population":653,
+    "eurostat:population_year":2020,
     "geom:area":0.00574,
-    "geom:area_square_m":55486016.683378,
+    "geom:area_square_m":55486016.683376,
     "geom:bbox":"-2.90273122,38.53813178,-2.80801996,38.63460446",
     "geom:latitude":38.582262,
     "geom:longitude":-2.851599,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_13081",
+        "eurostat:nuts_2021_id":"13081",
         "gn:id":6357175,
         "gp:id":12690380,
         "qs_pg:id":1165211
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c6002fe13ba4bb1d8457d78b85d7be67",
+    "wof:geomhash":"d98632c183d9c0154fbdb3b5d4366c17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404333591,
-    "wof:lastmodified":1582361775,
+    "wof:lastmodified":1684352281,
     "wof:name":"Terrinches",
     "wof:parent_id":85682689,
     "wof:placetype":"localadmin",
+    "wof:population":653,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aberin",
+    "eurostat:nuts_2021_id":"31005",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31005",
+    "eurostat:population":340,
+    "eurostat:population_year":2020,
     "geom:area":0.002331,
     "geom:area_square_m":21213293.418593,
     "geom:bbox":"-2.04521614,42.58061189,-1.93931384,42.64441674",
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31005",
+        "eurostat:nuts_2021_id":"31005",
         "gn:id":6359554,
         "gp:id":12688174,
         "qs_pg:id":44555
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"39ff8dccd36fbe0caf8002ffd3aedbd5",
+    "wof:geomhash":"17e1ced23db372d105721e0a57cb0bbb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404339443,
-    "wof:lastmodified":1582361592,
+    "wof:lastmodified":1684352394,
     "wof:name":"Aberin",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":340,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10102",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ibahernando",
+    "eurostat:nuts_2021_id":"10102",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10102",
+    "eurostat:population":538,
+    "eurostat:population_year":2020,
     "geom:area":0.008039,
-    "geom:area_square_m":76887215.285615,
+    "geom:area_square_m":76887215.285617,
     "geom:bbox":"-5.95903372,39.24326248,-5.86888754,39.40436999",
     "geom:latitude":39.331405,
     "geom:longitude":-5.917307,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10102",
+        "eurostat:nuts_2021_id":"10102",
         "gn:id":6356798,
         "gp:id":12694583,
         "qs_pg:id":48015
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ba3c9dd628bca8cbca24b077a20b67bb",
+    "wof:geomhash":"df3bac7f4411306680c98627019953e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404332737,
-    "wof:lastmodified":1582361677,
+    "wof:lastmodified":1684352268,
     "wof:name":"Ibahernando",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":538,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

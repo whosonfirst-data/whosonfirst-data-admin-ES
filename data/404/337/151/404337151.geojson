@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Astorga",
+    "eurostat:nuts_2021_id":"24008",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24008",
+    "eurostat:population":10741,
+    "eurostat:population_year":2020,
     "geom:area":0.00512,
     "geom:area_square_m":46705432.488243,
     "geom:bbox":"-6.20632026,42.43744756,-6.03008897,42.48957981",
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_24008",
+        "eurostat:nuts_2021_id":"24008",
         "gn:id":6358559,
         "gp:id":12691754,
         "qs_pg:id":1000045
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"93e114806dbd8b1a977d1fec95b315c6",
+    "wof:geomhash":"0ca44e8868bbd425f050143589ccbe06",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404337151,
-    "wof:lastmodified":1582361551,
+    "wof:lastmodified":1684352349,
     "wof:name":"Astorga",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":10741,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44263",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villastar",
+    "eurostat:nuts_2021_id":"44263",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44263",
+    "eurostat:population":507,
+    "eurostat:population_year":2020,
     "geom:area":0.004134,
-    "geom:area_square_m":39004356.095126,
+    "geom:area_square_m":39004356.095125,
     "geom:bbox":"-1.24579716,40.22589187,-1.11655948,40.30199328",
     "geom:latitude":40.268561,
     "geom:longitude":-1.167261,
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44263",
+        "eurostat:nuts_2021_id":"44263",
         "gn:id":6361656,
         "gp:id":12689828,
         "qs_pg:id":45499
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0f7f2013c8aaab7f47d2860d6c6c347f",
+    "wof:geomhash":"0eca1423d5a2ab75090ea2172c15f7e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404344329,
-    "wof:lastmodified":1582361859,
+    "wof:lastmodified":1684352472,
     "wof:name":"Villastar",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":507,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

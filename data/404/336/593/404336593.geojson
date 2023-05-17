@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22069",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Broto",
+    "eurostat:nuts_2021_id":"22069",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22069",
+    "eurostat:population":538,
+    "eurostat:population_year":2020,
     "geom:area":0.014039,
-    "geom:area_square_m":127847057.538969,
+    "geom:area_square_m":127847057.538968,
     "geom:bbox":"-0.24618933,42.50181417,-0.04856369,42.63284786",
     "geom:latitude":42.567245,
     "geom:longitude":-0.14057,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22069",
+        "eurostat:nuts_2021_id":"22069",
         "gn:id":6358314,
         "gp:id":12689455,
         "qs_pg:id":1102467
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ab586c4138038956b7e0e8999943f924",
+    "wof:geomhash":"c4f38db43efdf8f78ed191e247d5d741",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404336593,
-    "wof:lastmodified":1582361459,
+    "wof:lastmodified":1684352341,
     "wof:name":"Broto",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":538,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

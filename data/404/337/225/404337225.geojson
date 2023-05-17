@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castrillo de Cabrera",
+    "eurostat:nuts_2021_id":"24043",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24043",
+    "eurostat:population":111,
+    "eurostat:population_year":2020,
     "geom:area":0.01266,
-    "geom:area_square_m":115696439.838525,
+    "geom:area_square_m":115696439.838523,
     "geom:bbox":"-6.62628228,42.27478119,-6.47357538,42.41142772",
     "geom:latitude":42.348392,
     "geom:longitude":-6.545956,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_24043",
+        "eurostat:nuts_2021_id":"24043",
         "gn:id":6358592,
         "gp:id":12691787,
         "qs_pg:id":908085
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4ab1451673d07b12b5f723991c915417",
+    "wof:geomhash":"f57ee0900c53e632ac3fd6eba9f59313",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404337225,
-    "wof:lastmodified":1582361570,
+    "wof:lastmodified":1684352350,
     "wof:name":"Castrillo De Cabrera",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":111,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18128",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marchal",
+    "eurostat:nuts_2021_id":"18128",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18128",
+    "eurostat:population":414,
+    "eurostat:population_year":2020,
     "geom:area":0.000797,
-    "geom:area_square_m":7838588.224166,
+    "geom:area_square_m":7838588.224167,
     "geom:bbox":"-3.23158027,37.27853115,-3.17292078,37.31674791",
     "geom:latitude":37.29891,
     "geom:longitude":-3.196444,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18128",
+        "eurostat:nuts_2021_id":"18128",
         "gn:id":6357741,
         "gp:id":12688953,
         "qs_pg:id":910630
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"86f06f729c0ac21e2340d3f8ac9b9fcc",
+    "wof:geomhash":"3f3562a12fb4d25e2a41483aaa35b1b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404335283,
-    "wof:lastmodified":1582361705,
+    "wof:lastmodified":1684352323,
     "wof:name":"Marchal",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":414,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

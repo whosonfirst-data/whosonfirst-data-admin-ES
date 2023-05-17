@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aldealpozo",
+    "eurostat:nuts_2021_id":"42011",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42011",
+    "eurostat:population":15,
+    "eurostat:population_year":2020,
     "geom:area":0.001285,
-    "geom:area_square_m":11850567.817486,
+    "geom:area_square_m":11850567.817485,
     "geom:bbox":"-2.22920291,41.76721604,-2.16825371,41.80681755",
     "geom:latitude":41.785417,
     "geom:longitude":-2.19655,
@@ -222,6 +234,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -230,6 +244,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42011",
+        "eurostat:nuts_2021_id":"42011",
         "gn:id":6361069,
         "gp:id":12692728,
         "qs_pg:id":1102736
@@ -238,7 +254,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"56131ba5524dd1c501aabed1205870b4",
+    "wof:geomhash":"fe0e9b6a1d652cb95226fed78075f8e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -249,10 +265,12 @@
         }
     ],
     "wof:id":404342999,
-    "wof:lastmodified":1582361807,
+    "wof:lastmodified":1684352446,
     "wof:name":"Aldealpozo",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":15,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

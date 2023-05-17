@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15092",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vimianzo",
+    "eurostat:nuts_2021_id":"15092",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15092",
+    "eurostat:population":6963,
+    "eurostat:population_year":2020,
     "geom:area":0.020703,
-    "geom:area_square_m":186934441.264047,
+    "geom:area_square_m":186934441.264049,
     "geom:bbox":"-9.14449805,43.00549294,-8.94403549,43.18247079",
     "geom:latitude":43.095736,
     "geom:longitude":-9.037207,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_15092",
+        "eurostat:nuts_2021_id":"15092",
         "gn:id":6357359,
         "gp:id":12694794,
         "qs_pg:id":423388
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"146993fba7900f748356383599835f5c",
+    "wof:geomhash":"4b74e90eef54b982e6214c29cd1a77aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404334015,
-    "wof:lastmodified":1582361720,
+    "wof:lastmodified":1684352292,
     "wof:name":"Vimianzo",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":6963,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

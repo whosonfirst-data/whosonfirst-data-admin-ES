@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_02022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casas de L\u00e1zaro",
+    "eurostat:nuts_2021_id":"02022",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES421",
+    "eurostat:nuts_2021_level_lau":"02022",
+    "eurostat:population":348,
+    "eurostat:population_year":2020,
     "geom:area":0.01164,
     "geom:area_square_m":112237557.826311,
     "geom:bbox":"-2.30971351,38.67554064,-2.13604872,38.87222307",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_02022",
+        "eurostat:nuts_2021_id":"02022",
         "gn:id":6355314,
         "gp:id":12690233,
         "qs_pg:id":204617
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"385eb8644d1872ecf231ab32a2270d3f",
+    "wof:geomhash":"7bb1e7302bc73173b2b68e937322ce6f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404329101,
-    "wof:lastmodified":1582361797,
+    "wof:lastmodified":1684352204,
     "wof:name":"Casas De L\u00e1zaro",
     "wof:parent_id":85682621,
     "wof:placetype":"localadmin",
+    "wof:population":348,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

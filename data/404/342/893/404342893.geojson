@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_41067",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Olivares",
+    "eurostat:nuts_2021_id":"41067",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES618",
+    "eurostat:nuts_2021_level_lau":"41067",
+    "eurostat:population":9466,
+    "eurostat:population_year":2020,
     "geom:area":0.004637,
-    "geom:area_square_m":45515642.748802,
+    "geom:area_square_m":45515642.748801,
     "geom:bbox":"-6.21957014,37.40327158,-6.12184287,37.50108964",
     "geom:latitude":37.45879,
     "geom:longitude":-6.169096,
@@ -54,6 +66,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -61,9 +75,12 @@
         404227361
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_41067",
+        "eurostat:nuts_2021_id":"41067"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"0b17c49cacabdb3df500d78207183882",
+    "wof:geomhash":"1bc5e3e6b202e67ee9cef18f2ab7e1c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,10 +91,12 @@
         }
     ],
     "wof:id":404342893,
-    "wof:lastmodified":1566590937,
+    "wof:lastmodified":1684352445,
     "wof:name":"Olivares",
     "wof:parent_id":85682841,
     "wof:placetype":"localadmin",
+    "wof:population":9466,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

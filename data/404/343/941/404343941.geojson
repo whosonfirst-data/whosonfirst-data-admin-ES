@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44064",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cascante del R\u00edo",
+    "eurostat:nuts_2021_id":"44064",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44064",
+    "eurostat:population":67,
+    "eurostat:population_year":2020,
     "geom:area":0.003425,
-    "geom:area_square_m":32348939.902852,
+    "geom:area_square_m":32348939.902853,
     "geom:bbox":"-1.17038891,40.15610925,-1.09652804,40.22589187",
     "geom:latitude":40.195218,
     "geom:longitude":-1.13278,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44064",
+        "eurostat:nuts_2021_id":"44064",
         "gn:id":6361486,
         "gp:id":12689657,
         "qs_pg:id":45425
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6e48b36e5fd665d3de48c8d7b3a30121",
+    "wof:geomhash":"57f412eaa7000bc0ea7c236d61daec41",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404343941,
-    "wof:lastmodified":1582361875,
+    "wof:lastmodified":1684352467,
     "wof:name":"Cascante Del R\u00edo",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":67,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

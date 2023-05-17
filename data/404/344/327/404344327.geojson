@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44262",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villarroya de los Pinares",
+    "eurostat:nuts_2021_id":"44262",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44262",
+    "eurostat:population":161,
+    "eurostat:population_year":2020,
     "geom:area":0.007057,
     "geom:area_square_m":66339138.798508,
     "geom:bbox":"-0.70837079,40.4660015,-0.58915004,40.57603525",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44262",
+        "eurostat:nuts_2021_id":"44262",
         "gn:id":6361655,
         "gp:id":12689827,
         "qs_pg:id":1188260
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"965b19029b3f8c254ae28e4360e75e93",
+    "wof:geomhash":"cc0d19c43dea0faaf0451422eab6e067",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404344327,
-    "wof:lastmodified":1582361858,
+    "wof:lastmodified":1684352472,
     "wof:name":"Villarroya De Los Pinares",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":161,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

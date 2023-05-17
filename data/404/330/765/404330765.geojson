@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_07017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Costitx",
+    "eurostat:nuts_2021_id":"07017",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES53",
+    "eurostat:nuts_2021_level_3":"ES532",
+    "eurostat:nuts_2021_level_lau":"07017",
+    "eurostat:population":1329,
+    "eurostat:population_year":2020,
     "geom:area":0.001613,
-    "geom:area_square_m":15352482.290928,
+    "geom:area_square_m":15352482.290927,
     "geom:bbox":"2.91865277,39.62775193,2.97785986,39.67933442",
     "geom:latitude":39.655431,
     "geom:longitude":2.949319,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_07017",
+        "eurostat:nuts_2021_id":"07017",
         "gn:id":6533941,
         "gp:id":12687723,
         "qs_pg:id":1093401
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f981a5211f55f8e13f0f1d98cf75ce88",
+    "wof:geomhash":"7f60cd80358ecc625db26dbeebdf1f99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404330765,
-    "wof:lastmodified":1582361520,
+    "wof:lastmodified":1684352230,
     "wof:name":"Costitx",
     "wof:parent_id":85682647,
     "wof:placetype":"localadmin",
+    "wof:population":1329,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

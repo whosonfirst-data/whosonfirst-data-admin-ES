@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alconaba",
+    "eurostat:nuts_2021_id":"42006",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42006",
+    "eurostat:population":179,
+    "eurostat:population_year":2020,
     "geom:area":0.005676,
     "geom:area_square_m":52378190.563729,
     "geom:bbox":"-2.45357579,41.69243923,-2.33183413,41.78108917",
@@ -231,6 +243,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -239,6 +253,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42006",
+        "eurostat:nuts_2021_id":"42006",
         "gn:id":6361064,
         "gp:id":12692723,
         "qs_pg:id":272234
@@ -247,7 +263,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ed2f0a20cff6861a9dc825b95277da1c",
+    "wof:geomhash":"1041577c3646d54935afbf14a1e556f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -258,10 +274,12 @@
         }
     ],
     "wof:id":404342987,
-    "wof:lastmodified":1582361823,
+    "wof:lastmodified":1684352446,
     "wof:name":"Alconaba",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":179,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

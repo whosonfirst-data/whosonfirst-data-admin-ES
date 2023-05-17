@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25221,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25221",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"T\u00edrvia",
+    "eurostat:nuts_2021_id":"25221",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25221",
+    "eurostat:population":134,
+    "eurostat:population_year":2020,
     "geom:area":0.000934,
-    "geom:area_square_m":8509420.288518,
+    "geom:area_square_m":8509399.902895,
     "geom:bbox":"1.211859,42.49909,1.260841,42.532147",
     "geom:latitude":42.518227,
     "geom:longitude":1.234196,
@@ -112,6 +124,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -120,7 +134,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25221",
         "esp-icgc:la_lc":"025221",
+        "eurostat:nuts_2021_id":"25221",
         "gn:id":6358949,
         "gp:id":12694104,
         "qs_pg:id":1209019
@@ -130,7 +146,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"01290258f4b6203d74b3ca91e9a4f619",
+    "wof:geomhash":"8e00dd14b3e57428f0c694e7181fe882",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404338047,
-    "wof:lastmodified":1669902992,
+    "wof:lastmodified":1684352369,
     "wof:name":"T\u00edrvia",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":134,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

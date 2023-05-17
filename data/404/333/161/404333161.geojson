@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Benicarl\u00f3",
+    "eurostat:nuts_2021_id":"12027",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12027",
+    "eurostat:population":27363,
+    "eurostat:population_year":2020,
     "geom:area":0.005077,
-    "geom:area_square_m":47780670.188378,
+    "geom:area_square_m":47780670.188379,
     "geom:bbox":"0.35492595,40.39956927,0.45350672,40.49194798",
     "geom:latitude":40.443733,
     "geom:longitude":0.402636,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12027",
+        "eurostat:nuts_2021_id":"12027",
         "gn:id":6356984,
         "gp:id":12695431,
         "qs_pg:id":1290872
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"18c3aa60e92b956b4ff0c99b131fa042",
+    "wof:geomhash":"d77b07abb4203a316e4d8169600a7ba6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404333161,
-    "wof:lastmodified":1582361759,
+    "wof:lastmodified":1684352275,
     "wof:name":"Benicarl\u00f3",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":27363,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_32009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Barco de Valdeorras, O",
+    "eurostat:nuts_2021_id":"32009",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES113",
+    "eurostat:nuts_2021_level_lau":"32009",
+    "eurostat:population":13431,
+    "eurostat:population_year":2020,
     "geom:area":0.009372,
-    "geom:area_square_m":85554217.932212,
+    "geom:area_square_m":85554217.932207,
     "geom:bbox":"-7.04309422,42.35455131,-6.90498655,42.50569863",
     "geom:latitude":42.415428,
     "geom:longitude":-6.982334,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_32009",
+        "eurostat:nuts_2021_id":"32009",
         "gn:id":6359827,
         "gp:id":12694871,
         "qs_pg:id":103396
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b6f6b787b2f6d42b8508aac5f639eba6",
+    "wof:geomhash":"78cae63ac6f8384297019e0ccbf802fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404340091,
-    "wof:lastmodified":1582361651,
+    "wof:lastmodified":1684352402,
     "wof:name":"O Barco De Valdeorras",
     "wof:parent_id":85682801,
     "wof:placetype":"localadmin",
+    "wof:population":13431,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

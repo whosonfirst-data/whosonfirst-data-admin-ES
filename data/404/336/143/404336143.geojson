@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_20027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zestoa",
+    "eurostat:nuts_2021_id":"20027",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES212",
+    "eurostat:nuts_2021_level_lau":"20027",
+    "eurostat:population":3772,
+    "eurostat:population_year":2020,
     "geom:area":0.004841,
-    "geom:area_square_m":43614329.022455,
+    "geom:area_square_m":43614329.022454,
     "geom:bbox":"-2.29604084,43.19739113,-2.1725526,43.2899822",
     "geom:latitude":43.236269,
     "geom:longitude":-2.242377,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_20027",
+        "eurostat:nuts_2021_id":"20027",
         "gn:id":3125273,
         "gp:id":12695151,
         "qs_pg:id":499466
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0fdc42ba354c7c5e62a2b3ca3c8a771b",
+    "wof:geomhash":"274fefc56b5f356e12247d7f4fc967ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404336143,
-    "wof:lastmodified":1582361467,
+    "wof:lastmodified":1684352334,
     "wof:name":"Zestoa",
     "wof:parent_id":85682741,
     "wof:placetype":"localadmin",
+    "wof:population":3772,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

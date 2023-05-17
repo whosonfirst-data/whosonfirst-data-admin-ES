@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19284",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torremochuela",
+    "eurostat:nuts_2021_id":"19284",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19284",
+    "eurostat:population":9,
+    "eurostat:population_year":2020,
     "geom:area":0.0019,
-    "geom:area_square_m":17800711.226769,
+    "geom:area_square_m":17800711.226768,
     "geom:bbox":"-1.88829695,40.72937411,-1.8182156,40.78051208",
     "geom:latitude":40.755819,
     "geom:longitude":-1.851411,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19284",
+        "eurostat:nuts_2021_id":"19284",
         "gn:id":6358048,
         "gp:id":12690879,
         "qs_pg:id":496998
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c9da4b6aa9662448818a00cbca41fbd4",
+    "wof:geomhash":"661714e6399b37bddea69bb83670954c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404335981,
-    "wof:lastmodified":1582361713,
+    "wof:lastmodified":1684352332,
     "wof:name":"Torremochuela",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":9,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

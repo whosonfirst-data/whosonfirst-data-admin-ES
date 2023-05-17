@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12079",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montanejos",
+    "eurostat:nuts_2021_id":"12079",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12079",
+    "eurostat:population":564,
+    "eurostat:population_year":2020,
     "geom:area":0.003991,
-    "geom:area_square_m":37760955.134993,
+    "geom:area_square_m":37760955.134992,
     "geom:bbox":"-0.58301448,40.0287568,-0.49222618,40.11041636",
     "geom:latitude":40.069367,
     "geom:longitude":-0.535098,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12079",
+        "eurostat:nuts_2021_id":"12079",
         "gn:id":6357030,
         "gp:id":12695478,
         "qs_pg:id":191380
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a2de66d1e644980086059528091a57bf",
+    "wof:geomhash":"eb4fb30a6ad6295dac1d36daccf02b5c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404333265,
-    "wof:lastmodified":1582361780,
+    "wof:lastmodified":1684352276,
     "wof:name":"Montanejos",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":564,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17061,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17061",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Das",
+    "eurostat:nuts_2021_id":"17061",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17061",
+    "eurostat:population":234,
+    "eurostat:population_year":2020,
     "geom:area":0.001599,
-    "geom:area_square_m":14612158.829726,
+    "geom:area_square_m":14612113.365494,
     "geom:bbox":"1.833125,42.32057,1.902185,42.397046",
     "geom:latitude":42.362087,
     "geom:longitude":1.867631,
@@ -94,6 +106,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -102,7 +116,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17061",
         "esp-icgc:la_lc":"017061",
+        "eurostat:nuts_2021_id":"17061",
         "gn:id":6357602,
         "gp:id":12693741,
         "qs_pg:id":47435
@@ -112,7 +128,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"86c38dc15d9c6157280c3784cfc7da1f",
+    "wof:geomhash":"0b01fa43ec793eb4039de7707c91948f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404334683,
-    "wof:lastmodified":1669903052,
+    "wof:lastmodified":1684352305,
     "wof:name":"Das",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":234,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

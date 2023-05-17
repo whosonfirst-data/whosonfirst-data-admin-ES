@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17203,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17203",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ultramort",
+    "eurostat:nuts_2021_id":"17203",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17203",
+    "eurostat:population":225,
+    "eurostat:population_year":2020,
     "geom:area":0.000477,
-    "geom:area_square_m":4377494.466656,
+    "geom:area_square_m":4377494.466655,
     "geom:bbox":"3.02401261618,42.0276337929,3.0493928352,42.0535558219",
     "geom:latitude":42.039802,
     "geom:longitude":3.037401,
@@ -115,6 +127,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -123,7 +137,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17203",
         "esp-icgc:la_lc":"017203",
+        "eurostat:nuts_2021_id":"17203",
         "gn:id":6534159,
         "gp:id":12693879,
         "qs_pg:id":47516
@@ -133,7 +149,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"b4daab2dfd74be588637f7cc1201491b",
+    "wof:geomhash":"631be6f19c9788f40a388545b0f5c1a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404334983,
-    "wof:lastmodified":1582361731,
+    "wof:lastmodified":1684352318,
     "wof:name":"Ultramort",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":225,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

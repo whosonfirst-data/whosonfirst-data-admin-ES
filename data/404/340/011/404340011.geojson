@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31247",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Uzt\u00e1rroz / Uztarroze",
+    "eurostat:nuts_2021_id":"31247",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31247",
+    "eurostat:population":144,
+    "eurostat:population_year":2020,
     "geom:area":0.006432,
-    "geom:area_square_m":58245845.490737,
+    "geom:area_square_m":58245845.490736,
     "geom:bbox":"-1.01276674,42.86505056,-0.89738415,42.96447947",
     "geom:latitude":42.914824,
     "geom:longitude":-0.959327,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227391
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_31247",
+        "eurostat:nuts_2021_id":"31247"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"b610fc39c83b7d44c69b561e443c61ac",
+    "wof:geomhash":"6175ee4c038ff0798bd44302403e717e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404340011,
-    "wof:lastmodified":1566590421,
+    "wof:lastmodified":1684352401,
     "wof:name":"Uzt\u00e1rroz/Uztarroze",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":144,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

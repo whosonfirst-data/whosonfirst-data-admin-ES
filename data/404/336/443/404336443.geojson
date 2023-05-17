@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_21072",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valverde del Camino",
+    "eurostat:nuts_2021_id":"21072",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES615",
+    "eurostat:nuts_2021_level_lau":"21072",
+    "eurostat:population":12750,
+    "eurostat:population_year":2020,
     "geom:area":0.022299,
-    "geom:area_square_m":218577345.144303,
+    "geom:area_square_m":218577345.144298,
     "geom:bbox":"-6.86212545,37.49445104,-6.58038474,37.63126586",
     "geom:latitude":37.559125,
     "geom:longitude":-6.739931,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_21072",
+        "eurostat:nuts_2021_id":"21072",
         "gn:id":6358248,
         "gp:id":12689086,
         "qs_pg:id":891490
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a2c228ea631b09716b8f87218ec5f66a",
+    "wof:geomhash":"371e8847e8a5af3d86240d37f65e68ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404336443,
-    "wof:lastmodified":1582361472,
+    "wof:lastmodified":1684352339,
     "wof:name":"Valverde Del Camino",
     "wof:parent_id":85682749,
     "wof:placetype":"localadmin",
+    "wof:population":12750,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

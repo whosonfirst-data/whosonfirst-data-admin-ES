@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22088",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castillazuelo",
+    "eurostat:nuts_2021_id":"22088",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22088",
+    "eurostat:population":153,
+    "eurostat:population_year":2020,
     "geom:area":0.001667,
     "geom:area_square_m":15302385.934024,
     "geom:bbox":"0.01551203,42.03251533,0.08307669,42.08262938",
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22088",
+        "eurostat:nuts_2021_id":"22088",
         "gn:id":6358329,
         "gp:id":12689471,
         "qs_pg:id":1291859
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"29dd99bee24a01468c4301969286a2f8",
+    "wof:geomhash":"2d3c43dc3f2a8f673634becb9bd1c3e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404336629,
-    "wof:lastmodified":1582361463,
+    "wof:lastmodified":1684352341,
     "wof:name":"Castillazuelo",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":153,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

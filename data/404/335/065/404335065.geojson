@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Albu\u00f1ol",
+    "eurostat:nuts_2021_id":"18006",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18006",
+    "eurostat:population":7353,
+    "eurostat:population_year":2020,
     "geom:area":0.006374,
-    "geom:area_square_m":63127459.606969,
+    "geom:area_square_m":63127459.606972,
     "geom:bbox":"-3.24236175,36.74394731,-3.12868288,36.83502706",
     "geom:latitude":36.780648,
     "geom:longitude":-3.187863,
@@ -120,6 +132,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -127,9 +141,12 @@
         404227361
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_18006",
+        "eurostat:nuts_2021_id":"18006"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"b3b3e8e7407420b4bd818e5072e69e12",
+    "wof:geomhash":"13d51657107c6420843ac4e15523bd90",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +157,12 @@
         }
     ],
     "wof:id":404335065,
-    "wof:lastmodified":1566590563,
+    "wof:lastmodified":1684352320,
     "wof:name":"Albu\u00f1ol",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":7353,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

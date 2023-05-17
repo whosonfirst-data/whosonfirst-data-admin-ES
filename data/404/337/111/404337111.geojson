@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_23095",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villacarrillo",
+    "eurostat:nuts_2021_id":"23095",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES616",
+    "eurostat:nuts_2021_level_lau":"23095",
+    "eurostat:population":10673,
+    "eurostat:population_year":2020,
     "geom:area":0.024601,
-    "geom:area_square_m":239424381.28589,
+    "geom:area_square_m":239424381.285889,
     "geom:bbox":"-3.20038017,38.01681468,-2.84587195,38.16778158",
     "geom:latitude":38.086,
     "geom:longitude":-3.040814,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_23095",
+        "eurostat:nuts_2021_id":"23095",
         "gn:id":6358541,
         "gp:id":12689183,
         "qs_pg:id":1146439
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ce5c2c076332371dc1c2906dad9a41e7",
+    "wof:geomhash":"af29ed5d49adea3da69588115220e3f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404337111,
-    "wof:lastmodified":1582361561,
+    "wof:lastmodified":1684352348,
     "wof:name":"Villacarrillo",
     "wof:parent_id":85682757,
     "wof:placetype":"localadmin",
+    "wof:population":10673,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

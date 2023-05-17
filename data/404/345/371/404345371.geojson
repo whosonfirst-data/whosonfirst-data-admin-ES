@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46254",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Venta del Moro",
+    "eurostat:nuts_2021_id":"46254",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46254",
+    "eurostat:population":1198,
+    "eurostat:population_year":2020,
     "geom:area":0.028526,
-    "geom:area_square_m":272348239.42569,
+    "geom:area_square_m":272348239.425686,
     "geom:bbox":"-1.52894478,39.36084878,-1.27130916,39.54997504",
     "geom:latitude":39.455327,
     "geom:longitude":-1.391559,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46254",
+        "eurostat:nuts_2021_id":"46254",
         "gn:id":6362118,
         "gp:id":12695793,
         "qs_pg:id":832365
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8bd186b7220afc8879dc5282c4ab92c3",
+    "wof:geomhash":"df3b69dfd556506db7097806bec31497",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404345371,
-    "wof:lastmodified":1582361832,
+    "wof:lastmodified":1684352485,
     "wof:name":"Venta Del Moro",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":1198,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

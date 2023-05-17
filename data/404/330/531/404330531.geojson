@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06078",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Malpartida de la Serena",
+    "eurostat:nuts_2021_id":"06078",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06078",
+    "eurostat:population":543,
+    "eurostat:population_year":2020,
     "geom:area":0.002727,
-    "geom:area_square_m":26313543.391701,
+    "geom:area_square_m":26313543.3917,
     "geom:bbox":"-5.65405225,38.66054006,-5.59343339,38.74098581",
     "geom:latitude":38.694318,
     "geom:longitude":-5.623914,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06078",
+        "eurostat:nuts_2021_id":"06078",
         "gn:id":6355943,
         "gp:id":12694397,
         "qs_pg:id":47889
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"84843fab44fa376114741949b2830d00",
+    "wof:geomhash":"f59a341bade904de27beca9aa5a2e51e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330531,
-    "wof:lastmodified":1582361534,
+    "wof:lastmodified":1684352225,
     "wof:name":"Malpartida De La Serena",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":543,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

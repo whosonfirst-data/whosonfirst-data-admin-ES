@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09063",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cavia",
+    "eurostat:nuts_2021_id":"09063",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09063",
+    "eurostat:population":238,
+    "eurostat:population_year":2020,
     "geom:area":0.001417,
     "geom:area_square_m":12965125.52884,
     "geom:bbox":"-3.87766986,42.26306971,-3.80786122,42.29720213",
@@ -147,6 +159,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -155,6 +169,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09063",
+        "eurostat:nuts_2021_id":"09063",
         "gn:id":6356381,
         "gp:id":12691427,
         "qs_pg:id":46247
@@ -163,7 +179,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"269d1a905f9567e520efc8c91d298324",
+    "wof:geomhash":"b851abfe8156b2c50b40ece79a2e95e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -174,10 +190,12 @@
         }
     ],
     "wof:id":404331725,
-    "wof:lastmodified":1582361495,
+    "wof:lastmodified":1684352258,
     "wof:name":"Cavia",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":238,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

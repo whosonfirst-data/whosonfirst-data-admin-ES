@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05078",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fuentes de A\u00f1o",
+    "eurostat:nuts_2021_id":"05078",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05078",
+    "eurostat:population":95,
+    "eurostat:population_year":2020,
     "geom:area":0.002142,
     "geom:area_square_m":19982281.431193,
     "geom:bbox":"-4.94380643,41.00098019,-4.87330651,41.0491405",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05078",
+        "eurostat:nuts_2021_id":"05078",
         "gn:id":6355684,
         "gp:id":12691193,
         "qs_pg:id":46139
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"88040cfa94cfac2e92f28c171ca4114d",
+    "wof:geomhash":"05b4606d8bbe3e86685611c52b130195",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404329947,
-    "wof:lastmodified":1582361794,
+    "wof:lastmodified":1684352217,
     "wof:name":"Fuentes De A\u00f1o",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":95,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

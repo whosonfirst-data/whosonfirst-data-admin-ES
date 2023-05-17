@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45160",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Segurilla",
+    "eurostat:nuts_2021_id":"45160",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45160",
+    "eurostat:population":1349,
+    "eurostat:population_year":2020,
     "geom:area":0.002406,
     "geom:area_square_m":22778379.65011,
     "geom:bbox":"-4.91664586,39.99800328,-4.83410708,40.0671406",
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45160",
+        "eurostat:nuts_2021_id":"45160",
         "gn:id":6361820,
         "gp:id":12691082,
         "qs_pg:id":1015713
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5d50dcdf311c5b1eeb5c081640d173a8",
+    "wof:geomhash":"509cb1065f6cd001f8b1f185b5bb62d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404344697,
-    "wof:lastmodified":1582361856,
+    "wof:lastmodified":1684352477,
     "wof:name":"Segurilla",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":1349,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

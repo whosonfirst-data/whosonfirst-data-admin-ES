@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8300,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08300",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Viladecavalls",
+    "eurostat:nuts_2021_id":"08300",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08300",
+    "eurostat:population":7545,
+    "eurostat:population_year":2020,
     "geom:area":0.002163,
-    "geom:area_square_m":20017859.149023,
+    "geom:area_square_m":20017853.016236,
     "geom:bbox":"1.918795,41.528089,1.987676,41.580948",
     "geom:latitude":41.557688,
     "geom:longitude":1.951606,
@@ -136,6 +148,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -144,7 +158,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08300",
         "esp-icgc:la_lc":"08300",
+        "eurostat:nuts_2021_id":"08300",
         "gn:id":6356317,
         "gp:id":12693675,
         "qs_pg:id":217666
@@ -154,7 +170,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"491c8a5f15b8274bf45bb82399611411",
+    "wof:geomhash":"3cfd93cc2d360b96c31ccd1a96fe2f30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -165,10 +181,12 @@
         }
     ],
     "wof:id":404331549,
-    "wof:lastmodified":1669903012,
+    "wof:lastmodified":1684352255,
     "wof:name":"Viladecavalls",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":7545,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

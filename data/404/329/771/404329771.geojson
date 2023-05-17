@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04094",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Turrillas",
+    "eurostat:nuts_2021_id":"04094",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04094",
+    "eurostat:population":248,
+    "eurostat:population_year":2020,
     "geom:area":0.003965,
     "geom:area_square_m":39138095.652896,
     "geom:bbox":"-2.30354355,36.9890353,-2.21102554,37.06389579",
@@ -129,6 +141,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -137,6 +151,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_04094",
+        "eurostat:nuts_2021_id":"04094",
         "gn:id":6355606,
         "gp:id":12688717,
         "qs_pg:id":44880
@@ -145,7 +161,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"01c9670f65db5a7f99ff1c8e0ccdc7be",
+    "wof:geomhash":"7115cd95d15978679a8816fb77ba3a49",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404329771,
-    "wof:lastmodified":1582361794,
+    "wof:lastmodified":1684352215,
     "wof:name":"Turrillas",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":248,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

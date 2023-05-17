@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ausines, Los",
+    "eurostat:nuts_2021_id":"09030",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09030",
+    "eurostat:population":133,
+    "eurostat:population_year":2020,
     "geom:area":0.004544,
-    "geom:area_square_m":41620159.036138,
+    "geom:area_square_m":41620159.036137,
     "geom:bbox":"-3.63870848,42.13437297,-3.52153479,42.25016817",
     "geom:latitude":42.201955,
     "geom:longitude":-3.581518,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09030",
+        "eurostat:nuts_2021_id":"09030",
         "gn:id":3118053,
         "gp:id":12691399,
         "qs_pg:id":819847
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8ac6b1be32354a21895bf8bc0fafe8e6",
+    "wof:geomhash":"e928922999a98d4ead8294077d81bd27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404331635,
-    "wof:lastmodified":1582361493,
+    "wof:lastmodified":1684352257,
     "wof:name":"Los Ausines",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":133,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

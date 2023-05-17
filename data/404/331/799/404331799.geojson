@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09094",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cebrecos",
+    "eurostat:nuts_2021_id":"09094",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09094",
+    "eurostat:population":52,
+    "eurostat:population_year":2020,
     "geom:area":0.002532,
-    "geom:area_square_m":23267350.135247,
+    "geom:area_square_m":23267350.135248,
     "geom:bbox":"-3.63501045,41.96621922,-3.55559718,42.03079774",
     "geom:latitude":41.992842,
     "geom:longitude":-3.589787,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09094",
+        "eurostat:nuts_2021_id":"09094",
         "gn:id":6356406,
         "gp:id":12691452,
         "qs_pg:id":269135
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8611c069d93592bfd33e9bdc2b924930",
+    "wof:geomhash":"2d2bff58b4a58a8cb71235758d237fed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404331799,
-    "wof:lastmodified":1582361481,
+    "wof:lastmodified":1684352258,
     "wof:name":"Cebrecos",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":52,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

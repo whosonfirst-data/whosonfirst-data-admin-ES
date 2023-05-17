@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09175",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Humada",
+    "eurostat:nuts_2021_id":"09175",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09175",
+    "eurostat:population":118,
+    "eurostat:population_year":2020,
     "geom:area":0.009353,
     "geom:area_square_m":85055278.295918,
     "geom:bbox":"-4.16680626,42.60910805,-3.98484282,42.70670367",
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09175",
+        "eurostat:nuts_2021_id":"09175",
         "gn:id":6356464,
         "gp:id":12691511,
         "qs_pg:id":1147657
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f54e8e8b75744696ee238668635a7c4e",
+    "wof:geomhash":"2b40381fe168602032a4ff17f860002f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404331945,
-    "wof:lastmodified":1582361514,
+    "wof:lastmodified":1684352259,
     "wof:name":"Humada",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":118,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

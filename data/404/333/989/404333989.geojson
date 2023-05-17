@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15081",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Somozas, As",
+    "eurostat:nuts_2021_id":"15081",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15081",
+    "eurostat:population":1083,
+    "eurostat:population_year":2020,
     "geom:area":0.007907,
-    "geom:area_square_m":70889235.071482,
+    "geom:area_square_m":70889235.071484,
     "geom:bbox":"-7.98789512,43.47567409,-7.85116536,43.57940238",
     "geom:latitude":43.524892,
     "geom:longitude":-7.920273,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_15081",
+        "eurostat:nuts_2021_id":"15081",
         "gn:id":6357349,
         "qs_pg:id":621618
     },
@@ -132,7 +148,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ecdd60933533fcef63728872e747e085",
+    "wof:geomhash":"6e2a01df487cc5946e1487fab91cf13a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404333989,
-    "wof:lastmodified":1582361784,
+    "wof:lastmodified":1684352291,
     "wof:name":"As Somozas",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":1083,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

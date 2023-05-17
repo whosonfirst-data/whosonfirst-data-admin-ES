@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17213,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17213",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vidreres",
+    "eurostat:nuts_2021_id":"17213",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17213",
+    "eurostat:population":7951,
+    "eurostat:population_year":2020,
     "geom:area":0.005223,
-    "geom:area_square_m":48163241.259257,
+    "geom:area_square_m":48163039.838732,
     "geom:bbox":"2.753086,41.738865,2.886016,41.808115",
     "geom:latitude":41.774576,
     "geom:longitude":2.811723,
@@ -130,6 +142,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -138,7 +152,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17213",
         "esp-icgc:la_lc":"017213",
+        "eurostat:nuts_2021_id":"17213",
         "gn:id":6534163,
         "gp:id":12693889,
         "qs_pg:id":212985
@@ -148,7 +164,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"f04e15d4be193c394dcf6018ec1aa1f7",
+    "wof:geomhash":"349746b80b3eb97902e50f4808fa3741",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,10 +175,12 @@
         }
     ],
     "wof:id":404335005,
-    "wof:lastmodified":1669903039,
+    "wof:lastmodified":1684352318,
     "wof:name":"Vidreres",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":7951,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_34080",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Guardo",
+    "eurostat:nuts_2021_id":"34080",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES414",
+    "eurostat:nuts_2021_level_lau":"34080",
+    "eurostat:population":5872,
+    "eurostat:population_year":2020,
     "geom:area":0.006912,
-    "geom:area_square_m":62725281.249698,
+    "geom:area_square_m":62725281.2497,
     "geom:bbox":"-4.93636008,42.71878601,-4.78185876,42.83300228",
     "geom:latitude":42.786049,
     "geom:longitude":-4.852255,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_34080",
+        "eurostat:nuts_2021_id":"34080",
         "gn:id":6360042,
         "gp:id":12692020,
         "qs_pg:id":1102680
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"001276b4cc6269441b70008f9cd4e8a5",
+    "wof:geomhash":"186acafc7d2fbaaabf4535d3b2616af0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404340595,
-    "wof:lastmodified":1582361646,
+    "wof:lastmodified":1684352410,
     "wof:name":"Guardo",
     "wof:parent_id":85682815,
     "wof:placetype":"localadmin",
+    "wof:population":5872,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

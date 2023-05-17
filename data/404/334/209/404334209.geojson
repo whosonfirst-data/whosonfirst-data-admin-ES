@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16095",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Graja de Campalbo",
+    "eurostat:nuts_2021_id":"16095",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16095",
+    "eurostat:population":91,
+    "eurostat:population_year":2020,
     "geom:area":0.002348,
-    "geom:area_square_m":22273809.295151,
+    "geom:area_square_m":22273809.29515,
     "geom:bbox":"-1.31769048,39.87765464,-1.23198045,39.91684153",
     "geom:latitude":39.896132,
     "geom:longitude":-1.273383,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16095",
+        "eurostat:nuts_2021_id":"16095",
         "gn:id":6357444,
         "gp:id":12690484,
         "qs_pg:id":45816
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"05d0781fa21216196d414ae662bbd252",
+    "wof:geomhash":"3da0c86e9f19ce699ee90d61f589441f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404334209,
-    "wof:lastmodified":1582361749,
+    "wof:lastmodified":1684352295,
     "wof:name":"Graja De Campalbo",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":91,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_26021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Autol",
+    "eurostat:nuts_2021_id":"26021",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES23",
+    "eurostat:nuts_2021_level_3":"ES230",
+    "eurostat:nuts_2021_level_lau":"26021",
+    "eurostat:population":4623,
+    "eurostat:population_year":2020,
     "geom:area":0.009296,
-    "geom:area_square_m":85157258.158391,
+    "geom:area_square_m":85157258.158392,
     "geom:bbox":"-2.03541904,42.13310719,-1.91974086,42.27364368",
     "geom:latitude":42.196607,
     "geom:longitude":-1.985039,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_26021",
+        "eurostat:nuts_2021_id":"26021",
         "gn:id":6359011,
         "gp:id":12687792,
         "qs_pg:id":1102383
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1a5405376fccbe0fa467c2970f91890d",
+    "wof:geomhash":"f8859a719994e169a3950f975eca6c65",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404338187,
-    "wof:lastmodified":1582361440,
+    "wof:lastmodified":1684352373,
     "wof:name":"Autol",
     "wof:parent_id":85682773,
     "wof:placetype":"localadmin",
+    "wof:population":4623,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

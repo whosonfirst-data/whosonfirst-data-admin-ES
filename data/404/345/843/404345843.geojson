@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47205",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villafrech\u00f3s",
+    "eurostat:nuts_2021_id":"47205",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47205",
+    "eurostat:population":480,
+    "eurostat:population_year":2020,
     "geom:area":0.006562,
-    "geom:area_square_m":60400322.707032,
+    "geom:area_square_m":60400322.707034,
     "geom:bbox":"-5.2677452,41.84679106,-5.13799648,41.95285983",
     "geom:latitude":41.896288,
     "geom:longitude":-5.212538,
@@ -96,6 +108,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -103,9 +117,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_47205",
+        "eurostat:nuts_2021_id":"47205"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"24e41f6a92930657584f7ce82a700dc7",
+    "wof:geomhash":"1e397d9cf8de8e04cf74cddb13dcd124",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +133,12 @@
         }
     ],
     "wof:id":404345843,
-    "wof:lastmodified":1566591003,
+    "wof:lastmodified":1684352490,
     "wof:name":"Villafrech\u00f3s",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":480,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

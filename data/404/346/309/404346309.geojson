@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49077",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fresno de Sayago",
+    "eurostat:nuts_2021_id":"49077",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49077",
+    "eurostat:population":161,
+    "eurostat:population_year":2020,
     "geom:area":0.006938,
-    "geom:area_square_m":64425621.764972,
+    "geom:area_square_m":64425621.764971,
     "geom:bbox":"-6.03729715,41.25940646,-5.88568193,41.37166546",
     "geom:latitude":41.322685,
     "geom:longitude":-5.968821,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_49077",
+        "eurostat:nuts_2021_id":"49077"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"d8c89639d48bd403583b2172170bea54",
+    "wof:geomhash":"18610974b0b4da57f6aea332fc237b58",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404346309,
-    "wof:lastmodified":1566590219,
+    "wof:lastmodified":1684352498,
     "wof:name":"Fresno De Sayago",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":161,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

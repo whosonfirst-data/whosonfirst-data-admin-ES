@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_02038",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Herrera, La",
+    "eurostat:nuts_2021_id":"02038",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES421",
+    "eurostat:nuts_2021_level_lau":"02038",
+    "eurostat:population":322,
+    "eurostat:population_year":2020,
     "geom:area":0.006588,
-    "geom:area_square_m":63353502.836876,
+    "geom:area_square_m":63353502.836874,
     "geom:bbox":"-2.16420926,38.87556658,-2.04873151,39.00082167",
     "geom:latitude":38.944742,
     "geom:longitude":-2.103141,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_02038",
+        "eurostat:nuts_2021_id":"02038",
         "gn:id":6355329,
         "qs_pg:id":621506
     },
@@ -111,7 +127,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"60754c4cd64c5608ee00adcdd6ed23e7",
+    "wof:geomhash":"22f9477609945621840ea45760226cd0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +138,12 @@
         }
     ],
     "wof:id":404329139,
-    "wof:lastmodified":1582361797,
+    "wof:lastmodified":1684352205,
     "wof:name":"La Herrera",
     "wof:parent_id":85682621,
     "wof:placetype":"localadmin",
+    "wof:population":322,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

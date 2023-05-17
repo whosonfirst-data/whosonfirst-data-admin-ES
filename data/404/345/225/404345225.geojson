@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46189",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Palomar, el",
+    "eurostat:nuts_2021_id":"46189",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46189",
+    "eurostat:population":567,
+    "eurostat:population_year":2020,
     "geom:area":0.000805,
-    "geom:area_square_m":7753511.689665,
+    "geom:area_square_m":7753511.689664,
     "geom:bbox":"-0.51945971,38.81046327,-0.453542,38.89587779",
     "geom:latitude":38.853297,
     "geom:longitude":-0.490844,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46189",
+        "eurostat:nuts_2021_id":"46189",
         "gn:id":6362054,
         "qs_pg:id":103407
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"023f09874340730a2f599766217d14eb",
+    "wof:geomhash":"488248b625b0a779bd8079a4a56fae4a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404345225,
-    "wof:lastmodified":1582361837,
+    "wof:lastmodified":1684352483,
     "wof:name":"El Palomar",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":567,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

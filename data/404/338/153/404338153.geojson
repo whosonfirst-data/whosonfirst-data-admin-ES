@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_26006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alberite",
+    "eurostat:nuts_2021_id":"26006",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES23",
+    "eurostat:nuts_2021_level_3":"ES230",
+    "eurostat:nuts_2021_level_lau":"26006",
+    "eurostat:population":2457,
+    "eurostat:population_year":2020,
     "geom:area":0.002213,
-    "geom:area_square_m":20202973.332443,
+    "geom:area_square_m":20202973.332445,
     "geom:bbox":"-2.46016912,42.38330241,-2.36407216,42.42722504",
     "geom:latitude":42.400683,
     "geom:longitude":-2.410643,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_26006",
+        "eurostat:nuts_2021_id":"26006",
         "gn:id":6358996,
         "gp:id":12687777,
         "qs_pg:id":1164941
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"71e18a6c2f9212f4c28016aba5dc859b",
+    "wof:geomhash":"96ea6d3c7e395229d750bf304e73ba5c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404338153,
-    "wof:lastmodified":1582361443,
+    "wof:lastmodified":1684352372,
     "wof:name":"Alberite",
     "wof:parent_id":85682773,
     "wof:placetype":"localadmin",
+    "wof:population":2457,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

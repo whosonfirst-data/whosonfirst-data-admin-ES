@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18185",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ventas de Huelma",
+    "eurostat:nuts_2021_id":"18185",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18185",
+    "eurostat:population":657,
+    "eurostat:population_year":2020,
     "geom:area":0.0043,
-    "geom:area_square_m":42423497.383297,
+    "geom:area_square_m":42423497.383298,
     "geom:bbox":"-3.88488003,37.03092827,-3.77819182,37.10889932",
     "geom:latitude":37.068683,
     "geom:longitude":-3.834339,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18185",
+        "eurostat:nuts_2021_id":"18185",
         "gn:id":6357787,
         "gp:id":12689006,
         "qs_pg:id":1000248
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b2a496382cc010fbc865e22893e57b36",
+    "wof:geomhash":"8092b1cf598de5017ef3a256016b62be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404335387,
-    "wof:lastmodified":1582361712,
+    "wof:lastmodified":1684352325,
     "wof:name":"Ventas De Huelma",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":657,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

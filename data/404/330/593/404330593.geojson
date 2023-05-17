@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Puebla del Maestre",
+    "eurostat:nuts_2021_id":"06105",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06105",
+    "eurostat:population":670,
+    "eurostat:population_year":2020,
     "geom:area":0.008129,
-    "geom:area_square_m":79122678.336839,
+    "geom:area_square_m":79122678.336843,
     "geom:bbox":"-6.14667974,38.03099143,-5.99695305,38.13367388",
     "geom:latitude":38.081479,
     "geom:longitude":-6.069499,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06105",
+        "eurostat:nuts_2021_id":"06105",
         "gn:id":6355970,
         "gp:id":12694426,
         "qs_pg:id":47899
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bf21aeb30c1378bc4d0fc3c4bfa07ebd",
+    "wof:geomhash":"b2330c04905660361f4e826ed587de70",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330593,
-    "wof:lastmodified":1582361518,
+    "wof:lastmodified":1684352226,
     "wof:name":"Puebla Del Maestre",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":670,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Barrika",
+    "eurostat:nuts_2021_id":"48014",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48014",
+    "eurostat:population":1533,
+    "eurostat:population_year":2020,
     "geom:area":0.000862,
-    "geom:area_square_m":7744255.834448,
+    "geom:area_square_m":7744255.834449,
     "geom:bbox":"-2.98659482,43.38250071,-2.94104543,43.41589831",
     "geom:latitude":43.397913,
     "geom:longitude":-2.962098,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_48014",
+        "eurostat:nuts_2021_id":"48014",
         "gp:id":12695175,
         "qs_pg:id":328673
     },
@@ -120,7 +136,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f6801d64a3880a34e070f98736bc1298",
+    "wof:geomhash":"b9cd8c41fe5d400979e300c82cb53c39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404345935,
-    "wof:lastmodified":1582361834,
+    "wof:lastmodified":1684352492,
     "wof:name":"Barrika",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":1533,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

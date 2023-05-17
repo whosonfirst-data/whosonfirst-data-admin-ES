@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25011,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alcarr\u00e0s",
+    "eurostat:nuts_2021_id":"25011",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25011",
+    "eurostat:population":9707,
+    "eurostat:population_year":2020,
     "geom:area":0.012402,
-    "geom:area_square_m":114659484.695128,
+    "geom:area_square_m":114659469.636244,
     "geom:bbox":"0.345715,41.543333,0.564922,41.657846",
     "geom:latitude":41.609254,
     "geom:longitude":0.465956,
@@ -118,6 +130,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -126,7 +140,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25011",
         "esp-icgc:la_lc":"025011",
+        "eurostat:nuts_2021_id":"25011",
         "gn:id":6358771,
         "gp:id":12693918,
         "qs_pg:id":905058
@@ -136,7 +152,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"2e82fdbef1a1fdc502d5eaa03f54d35d",
+    "wof:geomhash":"f1f7c5dd32a9f2075649350c05b03d55",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404337641,
-    "wof:lastmodified":1669903027,
+    "wof:lastmodified":1684352355,
     "wof:name":"Alcarr\u00e0s",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":9707,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

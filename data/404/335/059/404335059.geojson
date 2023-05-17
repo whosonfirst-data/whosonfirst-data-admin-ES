@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Albolote",
+    "eurostat:nuts_2021_id":"18003",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18003",
+    "eurostat:population":18962,
+    "eurostat:population_year":2020,
     "geom:area":0.007987,
-    "geom:area_square_m":78556040.427349,
+    "geom:area_square_m":78556040.42735,
     "geom:bbox":"-3.70699525,37.21000229,-3.61960241,37.40049004",
     "geom:latitude":37.305085,
     "geom:longitude":-3.658989,
@@ -129,6 +141,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -137,6 +151,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18003",
+        "eurostat:nuts_2021_id":"18003",
         "gn:id":6357641,
         "gp:id":12688849,
         "qs_pg:id":1315860
@@ -145,7 +161,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7d8f3d716c3fe030eee23876aa36fec4",
+    "wof:geomhash":"12458695e2ffedae328f57b1801693ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404335059,
-    "wof:lastmodified":1582361709,
+    "wof:lastmodified":1684352319,
     "wof:name":"Albolote",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":18962,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

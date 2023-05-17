@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05041",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Burgohondo",
+    "eurostat:nuts_2021_id":"05041",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05041",
+    "eurostat:population":1180,
+    "eurostat:population_year":2020,
     "geom:area":0.005869,
-    "geom:area_square_m":55277053.632038,
+    "geom:area_square_m":55277053.632036,
     "geom:bbox":"-4.82867459,40.32741475,-4.72755993,40.43493091",
     "geom:latitude":40.388055,
     "geom:longitude":-4.777987,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05041",
+        "eurostat:nuts_2021_id":"05041",
         "gn:id":6355650,
         "gp:id":12691158,
         "qs_pg:id":497031
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bb491cb0c64d727207c3f57c3361147e",
+    "wof:geomhash":"ce66a1d1172c0e8f5dcaa91be3b4e6e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404329871,
-    "wof:lastmodified":1582361799,
+    "wof:lastmodified":1684352216,
     "wof:name":"Burgohondo",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":1180,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

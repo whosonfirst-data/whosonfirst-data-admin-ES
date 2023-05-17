@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09298",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Quintanilla San Garc\u00eda",
+    "eurostat:nuts_2021_id":"09298",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09298",
+    "eurostat:population":79,
+    "eurostat:population_year":2020,
     "geom:area":0.005015,
     "geom:area_square_m":45680097.731953,
     "geom:bbox":"-3.26222037,42.51098233,-3.13427139,42.59752404",
@@ -105,6 +117,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -112,9 +126,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_09298",
+        "eurostat:nuts_2021_id":"09298"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"07fc77f119a86e0b151d56c21bb82aa4",
+    "wof:geomhash":"e6f2c89992cd1fc845cc1d91f4a77681",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +142,12 @@
         }
     ],
     "wof:id":404332169,
-    "wof:lastmodified":1566590483,
+    "wof:lastmodified":1684352262,
     "wof:name":"Quintanilla San Garc\u00eda",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":79,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

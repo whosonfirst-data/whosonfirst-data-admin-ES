@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17076,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17076",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Garrigoles",
+    "eurostat:nuts_2021_id":"17076",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17076",
+    "eurostat:population":167,
+    "eurostat:population_year":2020,
     "geom:area":0.000973,
-    "geom:area_square_m":8923787.380679,
+    "geom:area_square_m":8923790.011559,
     "geom:bbox":"3.003208,42.086989,3.045056,42.127651",
     "geom:latitude":42.105882,
     "geom:longitude":3.024019,
@@ -124,6 +136,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -132,7 +146,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17076",
         "esp-icgc:la_lc":"017076",
+        "eurostat:nuts_2021_id":"17076",
         "gn:id":6534065,
         "gp:id":12693757,
         "qs_pg:id":1016870
@@ -142,7 +158,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"5364350ee0e33dba7860ccf025b5f10c",
+    "wof:geomhash":"cf340eea42db5ec002f66097fcdd5fdb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,10 +169,12 @@
         }
     ],
     "wof:id":404334715,
-    "wof:lastmodified":1669903047,
+    "wof:lastmodified":1684352306,
     "wof:name":"Garrigoles",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":167,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

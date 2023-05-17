@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Abrucena",
+    "eurostat:nuts_2021_id":"04002",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04002",
+    "eurostat:population":1183,
+    "eurostat:population_year":2020,
     "geom:area":0.008485,
-    "geom:area_square_m":83649201.872254,
+    "geom:area_square_m":83649201.872253,
     "geom:bbox":"-2.89643839,37.07941889,-2.76912218,37.23835093",
     "geom:latitude":37.130608,
     "geom:longitude":-2.826158,
@@ -126,6 +138,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -134,6 +148,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_04002",
+        "eurostat:nuts_2021_id":"04002",
         "gn:id":6355519,
         "gp:id":12688625,
         "qs_pg:id":1322819
@@ -142,7 +158,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f224d128e812b94729be0769b0ea6983",
+    "wof:geomhash":"016e44c026511bca7b0f705ace8792d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,10 +169,12 @@
         }
     ],
     "wof:id":404329573,
-    "wof:lastmodified":1582361795,
+    "wof:lastmodified":1684352211,
     "wof:name":"Abrucena",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":1183,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

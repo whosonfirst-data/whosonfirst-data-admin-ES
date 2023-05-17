@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ciadoncha",
+    "eurostat:nuts_2021_id":"09101",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09101",
+    "eurostat:population":80,
+    "eurostat:population_year":2020,
     "geom:area":0.001665,
-    "geom:area_square_m":15263152.298761,
+    "geom:area_square_m":15263152.29876,
     "geom:bbox":"-3.96483518,42.14244257,-3.90792015,42.18365339",
     "geom:latitude":42.163596,
     "geom:longitude":-3.93695,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09101",
+        "eurostat:nuts_2021_id":"09101",
         "gn:id":6356410,
         "gp:id":12691456,
         "qs_pg:id":46252
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bbb59abdac236f2519a9fedeb2d4c617",
+    "wof:geomhash":"5891f157c06a49cd053d5d08e7131a2d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404331807,
-    "wof:lastmodified":1582361508,
+    "wof:lastmodified":1684352258,
     "wof:name":"Ciadoncha",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":80,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

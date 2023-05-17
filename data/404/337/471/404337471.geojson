@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24161",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santiago Millas",
+    "eurostat:nuts_2021_id":"24161",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24161",
+    "eurostat:population":330,
+    "eurostat:population_year":2020,
     "geom:area":0.00434,
     "geom:area_square_m":39630434.743707,
     "geom:bbox":"-6.18927967,42.36259659,-6.0488075,42.44158804",
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_24161",
+        "eurostat:nuts_2021_id":"24161",
         "gn:id":6358696,
         "gp:id":12691894,
         "qs_pg:id":1147974
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d2072035ba1626d3f7670daa5df111ed",
+    "wof:geomhash":"d5afe46b79bfcd1e4d638ee1994a33c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404337471,
-    "wof:lastmodified":1582361552,
+    "wof:lastmodified":1684352353,
     "wof:name":"Santiago Millas",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":330,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

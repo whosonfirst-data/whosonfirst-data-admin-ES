@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17182,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17182",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Llogaia d'\u00c0lguema",
+    "eurostat:nuts_2021_id":"17182",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17182",
+    "eurostat:population":368,
+    "eurostat:population_year":2020,
     "geom:area":0.000213,
-    "geom:area_square_m":1950247.930094,
+    "geom:area_square_m":1950222.301663,
     "geom:bbox":"2.939416,42.225303,2.969074,42.238888",
     "geom:latitude":42.233,
     "geom:longitude":2.952468,
@@ -48,6 +60,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -56,13 +70,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"017182"
+        "eg:gisco_id":"ES_17182",
+        "esp-icgc:la_lc":"017182",
+        "eurostat:nuts_2021_id":"17182"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"39f7b35e126cc840701681eeac200881",
+    "wof:geomhash":"c01c40b0d1165817db4c7214fcc8cb5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,10 +89,12 @@
         }
     ],
     "wof:id":404334935,
-    "wof:lastmodified":1669903048,
+    "wof:lastmodified":1684352316,
     "wof:name":"Santa Llogaia d'\u00c0lguema",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":368,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

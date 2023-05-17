@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17209,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17209",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vall-llobrega",
+    "eurostat:nuts_2021_id":"17209",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17209",
+    "eurostat:population":897,
+    "eurostat:population_year":2020,
     "geom:area":0.000595,
-    "geom:area_square_m":5478428.703079,
+    "geom:area_square_m":5478549.512326,
     "geom:bbox":"3.098461,41.870173,3.147227,41.899383",
     "geom:latitude":41.886005,
     "geom:longitude":3.124334,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17209",
         "esp-icgc:la_lc":"017209",
+        "eurostat:nuts_2021_id":"17209",
         "gn:id":6534160,
         "gp:id":12693884,
         "qs_pg:id":272150
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"136292d1a268b07a21ac5fdef9e5ef24",
+    "wof:geomhash":"142b11446136542a06942fb88859f3d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404334995,
-    "wof:lastmodified":1669903048,
+    "wof:lastmodified":1684352318,
     "wof:name":"Vall-llobrega",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":897,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

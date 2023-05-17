@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arauzo de Torre",
+    "eurostat:nuts_2021_id":"09022",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09022",
+    "eurostat:population":77,
+    "eurostat:population_year":2020,
     "geom:area":0.001472,
     "geom:area_square_m":13570274.541046,
     "geom:bbox":"-3.46253025,41.77064663,-3.3978587,41.81398753",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09022",
+        "eurostat:nuts_2021_id":"09022",
         "gn:id":6356347,
         "gp:id":12691392,
         "qs_pg:id":1147607
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"67c35b48fbb18e135c2390dfa6e1562e",
+    "wof:geomhash":"71246c7ac695e4435fadb53f8f4d92c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404331619,
-    "wof:lastmodified":1582361487,
+    "wof:lastmodified":1684352257,
     "wof:name":"Arauzo De Torre",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":77,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

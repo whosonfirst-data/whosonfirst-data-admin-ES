@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8307,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08307",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vilanova i la Geltr\u00fa",
+    "eurostat:nuts_2021_id":"08307",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08307",
+    "eurostat:population":67733,
+    "eurostat:population_year":2020,
     "geom:area":0.003658,
-    "geom:area_square_m":34016904.140512,
+    "geom:area_square_m":34017029.841594,
     "geom:bbox":"1.6683,41.201776,1.75141,41.271755",
     "geom:latitude":41.237013,
     "geom:longitude":1.704913,
@@ -71,6 +83,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -79,7 +93,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08307",
         "esp-icgc:la_lc":"08307",
+        "eurostat:nuts_2021_id":"08307",
         "gn:id":6356324,
         "gp:id":12693681,
         "qs_pg:id":1085758
@@ -89,7 +105,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"e6d27ceea0ee3c0ed34fd7461363d141",
+    "wof:geomhash":"cf4444c53cd7166bea0d26bc7c905f92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,10 +116,12 @@
         }
     ],
     "wof:id":404331565,
-    "wof:lastmodified":1669903007,
+    "wof:lastmodified":1684352256,
     "wof:name":"Vilanova i la Geltr\u00fa",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":67733,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

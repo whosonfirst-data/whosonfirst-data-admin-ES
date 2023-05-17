@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22206",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sangarr\u00e9n",
+    "eurostat:nuts_2021_id":"22206",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22206",
+    "eurostat:population":221,
+    "eurostat:population_year":2020,
     "geom:area":0.003502,
     "geom:area_square_m":32176934.438567,
     "geom:bbox":"-0.50628104,41.98325086,-0.4068265,42.03758009",
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22206",
+        "eurostat:nuts_2021_id":"22206",
         "gn:id":6358408,
         "gp:id":12689556,
         "qs_pg:id":45356
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a87008595f66815f5d80d561c96eeb30",
+    "wof:geomhash":"11f2638305b4117d567bbd9e56c97a71",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404336807,
-    "wof:lastmodified":1582361473,
+    "wof:lastmodified":1684352344,
     "wof:name":"Sangarr\u00e9n",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":221,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

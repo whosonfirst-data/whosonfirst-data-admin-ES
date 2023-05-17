@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25044,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bassella",
+    "eurostat:nuts_2021_id":"25044",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25044",
+    "eurostat:population":217,
+    "eurostat:population_year":2020,
     "geom:area":0.0077,
-    "geom:area_square_m":70745596.06506,
+    "geom:area_square_m":70745506.899171,
     "geom:bbox":"1.236058,41.93917,1.364101,42.077486",
     "geom:latitude":42.010837,
     "geom:longitude":1.302848,
@@ -124,6 +136,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -132,7 +146,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25044",
         "esp-icgc:la_lc":"025044",
+        "eurostat:nuts_2021_id":"25044",
         "gn:id":6358801,
         "gp:id":12693944,
         "qs_pg:id":124838
@@ -142,7 +158,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0465a904b121ca042c6e2bb4bb83b996",
+    "wof:geomhash":"c6e1e6e8e2e3a1fcbd3bdfd63933abdd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,10 +169,12 @@
         }
     ],
     "wof:id":404337711,
-    "wof:lastmodified":1669903030,
+    "wof:lastmodified":1684352357,
     "wof:name":"Bassella",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":217,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

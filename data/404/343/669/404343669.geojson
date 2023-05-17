@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":43124,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43124",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Riba, La",
+    "eurostat:nuts_2021_id":"43124",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43124",
+    "eurostat:population":585,
+    "eurostat:population_year":2020,
     "geom:area":0.000865,
     "geom:area_square_m":8034033.456383,
     "geom:bbox":"1.14370129063,41.2896540592,1.19412936825,41.3204109582",
@@ -121,6 +133,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -129,7 +143,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43124",
         "esp-icgc:la_lc":"043124",
+        "eurostat:nuts_2021_id":"43124",
         "gn:id":6361366,
         "gp:id":12694261,
         "qs_pg:id":396688
@@ -139,7 +155,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"4c66c62620b482c794d6ccfdfc4ee32a",
+    "wof:geomhash":"da6a6a9539065f26365947bd633f9b28",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404343669,
-    "wof:lastmodified":1582361871,
+    "wof:lastmodified":1684352460,
     "wof:name":"La Riba",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":585,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

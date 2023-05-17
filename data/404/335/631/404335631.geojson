@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19110",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Escamilla",
+    "eurostat:nuts_2021_id":"19110",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19110",
+    "eurostat:population":56,
+    "eurostat:population_year":2020,
     "geom:area":0.004175,
-    "geom:area_square_m":39228517.65778,
+    "geom:area_square_m":39228517.657779,
     "geom:bbox":"-2.6077388,40.51614398,-2.52151561,40.59941868",
     "geom:latitude":40.553898,
     "geom:longitude":-2.566404,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19110",
+        "eurostat:nuts_2021_id":"19110",
         "gn:id":6357893,
         "gp:id":12690723,
         "qs_pg:id":954297
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"50123d3ac3795feb567b4b1a59235a72",
+    "wof:geomhash":"e287e1d052e92cd59e9ecf359464e987",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404335631,
-    "wof:lastmodified":1582361710,
+    "wof:lastmodified":1684352328,
     "wof:name":"Escamilla",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":56,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

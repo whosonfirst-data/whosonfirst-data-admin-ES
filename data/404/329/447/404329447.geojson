@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03088",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monforte del Cid",
+    "eurostat:nuts_2021_id":"03088",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03088",
+    "eurostat:population":8346,
+    "eurostat:population_year":2020,
     "geom:area":0.008196,
-    "geom:area_square_m":79437055.532495,
+    "geom:area_square_m":79437055.532499,
     "geom:bbox":"-0.74491025,38.32681679,-0.63630519,38.45368976",
     "geom:latitude":38.384956,
     "geom:longitude":-0.695001,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03088",
+        "eurostat:nuts_2021_id":"03088",
         "gn:id":6355463,
         "gp:id":12695351,
         "qs_pg:id":345847
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"079bb1054bb342ab91b98bf72d23cf74",
+    "wof:geomhash":"ae48679466c27a467aac482abeb01cb3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404329447,
-    "wof:lastmodified":1582361789,
+    "wof:lastmodified":1684352210,
     "wof:name":"Monforte Del Cid",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":8346,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

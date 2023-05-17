@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24073",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fresno de la Vega",
+    "eurostat:nuts_2021_id":"24073",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24073",
+    "eurostat:population":479,
+    "eurostat:population_year":2020,
     "geom:area":0.001654,
     "geom:area_square_m":15115223.098459,
     "geom:bbox":"-5.55913098,42.31387435,-5.51015459,42.37360515",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_24073",
+        "eurostat:nuts_2021_id":"24073",
         "gn:id":6358618,
         "gp:id":12691814,
         "qs_pg:id":1147899
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"91a611d8bbb5ddd7e67fbb85b279ba86",
+    "wof:geomhash":"f905cf712968c92bf9f4c1d94daa333d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404337287,
-    "wof:lastmodified":1582361553,
+    "wof:lastmodified":1684352351,
     "wof:name":"Fresno De La Vega",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":479,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

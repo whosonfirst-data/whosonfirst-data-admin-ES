@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8181,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08181",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Roca del Vall\u00e8s, La",
+    "eurostat:nuts_2021_id":"08181",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08181",
+    "eurostat:population":10754,
+    "eurostat:population_year":2020,
     "geom:area":0.003988,
-    "geom:area_square_m":36880570.026704,
+    "geom:area_square_m":36880613.62237,
     "geom:bbox":"2.291387,41.560658,2.382898,41.636387",
     "geom:latitude":41.596108,
     "geom:longitude":2.334798,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08181",
         "esp-icgc:la_lc":"08181",
+        "eurostat:nuts_2021_id":"08181",
         "gn:id":6356206,
         "gp:id":12693561,
         "qs_pg:id":891406
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"e31f5a4f6a4db01158717c4612485c1c",
+    "wof:geomhash":"090c6eafe9ff56d7d1899f73d116691a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404331283,
-    "wof:lastmodified":1669903008,
+    "wof:lastmodified":1684352247,
     "wof:name":"La Roca del Vall\u00e8s",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":10754,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

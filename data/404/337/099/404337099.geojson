@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_23090",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torres",
+    "eurostat:nuts_2021_id":"23090",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES616",
+    "eurostat:nuts_2021_level_lau":"23090",
+    "eurostat:population":1372,
+    "eurostat:population_year":2020,
     "geom:area":0.008186,
-    "geom:area_square_m":80000122.707866,
+    "geom:area_square_m":80000122.707867,
     "geom:bbox":"-3.59191582,37.73414771,-3.47180037,37.84250852",
     "geom:latitude":37.781929,
     "geom:longitude":-3.529811,
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_23090",
+        "eurostat:nuts_2021_id":"23090",
         "gn:id":6358536,
         "gp:id":12689178,
         "qs_pg:id":1012050
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5465a9290b4f4f02a9247f19aef45e1f",
+    "wof:geomhash":"ef4331389df1e0bd99974138a9b5d99b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404337099,
-    "wof:lastmodified":1582361558,
+    "wof:lastmodified":1684352348,
     "wof:name":"Torres",
     "wof:parent_id":85682757,
     "wof:placetype":"localadmin",
+    "wof:population":1372,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

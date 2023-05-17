@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_23099",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villares, Los",
+    "eurostat:nuts_2021_id":"23099",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES616",
+    "eurostat:nuts_2021_level_lau":"23099",
+    "eurostat:population":6020,
+    "eurostat:population_year":2020,
     "geom:area":0.009051,
-    "geom:area_square_m":88567236.472831,
+    "geom:area_square_m":88567236.472829,
     "geom:bbox":"-3.89318019,37.6337679,-3.77529076,37.7387909",
     "geom:latitude":37.684783,
     "geom:longitude":-3.837543,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_23099",
+        "eurostat:nuts_2021_id":"23099",
         "gn:id":6358545,
         "gp:id":12689187,
         "qs_pg:id":621727
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9773642aff22b2413002c2998fbae5b6",
+    "wof:geomhash":"38618982ca1928a5f880bcfcbbe732c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404337119,
-    "wof:lastmodified":1582361564,
+    "wof:lastmodified":1684352349,
     "wof:name":"Los Villares",
     "wof:parent_id":85682757,
     "wof:placetype":"localadmin",
+    "wof:population":6020,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Don Benito",
+    "eurostat:nuts_2021_id":"06044",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06044",
+    "eurostat:population":37284,
+    "eurostat:population_year":2020,
     "geom:area":0.05836,
-    "geom:area_square_m":561263726.38057,
+    "geom:area_square_m":561263726.380562,
     "geom:bbox":"-6.12046795,38.72343201,-5.6001283,39.12935378",
     "geom:latitude":38.942721,
     "geom:longitude":-5.892642,
@@ -138,6 +150,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -146,6 +160,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06044",
+        "eurostat:nuts_2021_id":"06044",
         "gn:id":6355909,
         "gp:id":12694363,
         "qs_pg:id":892913
@@ -154,7 +170,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"17cd1b38b0dd8db0847d8f702d0415f8",
+    "wof:geomhash":"c856513993cd8bca8f4beb1c8eb8e93b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -165,10 +181,12 @@
         }
     ],
     "wof:id":404330455,
-    "wof:lastmodified":1582361526,
+    "wof:lastmodified":1684352224,
     "wof:name":"Don Benito",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":37284,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

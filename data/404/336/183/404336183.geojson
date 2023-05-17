@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_20045",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Irun",
+    "eurostat:nuts_2021_id":"20045",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES212",
+    "eurostat:nuts_2021_level_lau":"20045",
+    "eurostat:population":62910,
+    "eurostat:population_year":2020,
     "geom:area":0.004633,
-    "geom:area_square_m":41676129.948105,
+    "geom:area_square_m":41676129.948103,
     "geom:bbox":"-1.85225858,43.28642293,-1.72934347,43.35333557",
     "geom:latitude":43.318774,
     "geom:longitude":-1.784485,
@@ -177,6 +189,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -185,6 +199,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_20045",
+        "eurostat:nuts_2021_id":"20045",
         "gn:id":6358134,
         "gp:id":12695115,
         "qs_pg:id":103370
@@ -193,7 +209,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ff694798aa473cc71793acef56a934b9",
+    "wof:geomhash":"9fcf5e5c023e6ab709a8ae7052b5ad89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -204,10 +220,12 @@
         }
     ],
     "wof:id":404336183,
-    "wof:lastmodified":1582361477,
+    "wof:lastmodified":1684352334,
     "wof:name":"Irun",
     "wof:parent_id":85682741,
     "wof:placetype":"localadmin",
+    "wof:population":62910,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

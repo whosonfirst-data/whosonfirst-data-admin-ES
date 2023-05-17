@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16064",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casas de Haro",
+    "eurostat:nuts_2021_id":"16064",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16064",
+    "eurostat:population":827,
+    "eurostat:population_year":2020,
     "geom:area":0.011576,
     "geom:area_square_m":110780797.141152,
     "geom:bbox":"-2.34572045,39.22666115,-2.17862689,39.36238652",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16064",
+        "eurostat:nuts_2021_id":"16064",
         "gn:id":6357419,
         "gp:id":12690457,
         "qs_pg:id":199759
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"11ca02422d1f109e22088717853902aa",
+    "wof:geomhash":"336f7ecb3fca900c5ab6777b37475b1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404334151,
-    "wof:lastmodified":1582361719,
+    "wof:lastmodified":1684352294,
     "wof:name":"Casas De Haro",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":827,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

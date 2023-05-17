@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8291,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08291",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vacarisses",
+    "eurostat:nuts_2021_id":"08291",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08291",
+    "eurostat:population":6832,
+    "eurostat:population_year":2020,
     "geom:area":0.004391,
-    "geom:area_square_m":40595443.225672,
+    "geom:area_square_m":40595422.797555,
     "geom:bbox":"1.860628,41.570419,1.976361,41.648832",
     "geom:latitude":41.603867,
     "geom:longitude":1.917489,
@@ -124,6 +136,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -132,7 +146,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08291",
         "esp-icgc:la_lc":"08291",
+        "eurostat:nuts_2021_id":"08291",
         "gn:id":6356308,
         "gp:id":12693665,
         "qs_pg:id":1059726
@@ -142,7 +158,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"2607eb1ad37cb028fa3c36317aa08f66",
+    "wof:geomhash":"0729b4897b621eff7b91adf2ff06fd5c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,10 +169,12 @@
         }
     ],
     "wof:id":404331529,
-    "wof:lastmodified":1669903004,
+    "wof:lastmodified":1684352254,
     "wof:name":"Vacarisses",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":6832,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43142,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43142",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sarral",
+    "eurostat:nuts_2021_id":"43142",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43142",
+    "eurostat:population":1538,
+    "eurostat:population_year":2020,
     "geom:area":0.005654,
-    "geom:area_square_m":52401808.74953,
+    "geom:area_square_m":52401776.542619,
     "geom:bbox":"1.207862,41.415113,1.328437,41.495451",
     "geom:latitude":41.453237,
     "geom:longitude":1.271882,
@@ -46,6 +58,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -54,7 +68,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43142",
         "esp-icgc:la_lc":"043142",
+        "eurostat:nuts_2021_id":"43142",
         "gn:id":6361384,
         "gp:id":12694281,
         "qs_pg:id":317720
@@ -64,7 +80,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"4eab9570352c3376bc95dbc76f30b2ae",
+    "wof:geomhash":"49c304408a6f08142acbdb41db5b9738",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,10 +91,12 @@
         }
     ],
     "wof:id":404343709,
-    "wof:lastmodified":1669903061,
+    "wof:lastmodified":1684352461,
     "wof:name":"Sarral",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":1538,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

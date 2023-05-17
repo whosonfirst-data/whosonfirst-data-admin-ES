@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44239",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valacloche",
+    "eurostat:nuts_2021_id":"44239",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44239",
+    "eurostat:population":20,
+    "eurostat:population_year":2020,
     "geom:area":0.001588,
     "geom:area_square_m":15003352.633852,
     "geom:bbox":"-1.11155032,40.15942658,-1.04271936,40.20258371",
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44239",
+        "eurostat:nuts_2021_id":"44239",
         "gn:id":6361638,
         "gp:id":12689810,
         "qs_pg:id":45497
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"006755b1f5d23f48d57453f56c075ad2",
+    "wof:geomhash":"c9e043e4fe4cf5e536fc3a9b45ac86ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404344289,
-    "wof:lastmodified":1582361846,
+    "wof:lastmodified":1684352472,
     "wof:name":"Valacloche",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":20,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

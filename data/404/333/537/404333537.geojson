@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_13057",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montiel",
+    "eurostat:nuts_2021_id":"13057",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES422",
+    "eurostat:nuts_2021_level_lau":"13057",
+    "eurostat:population":1294,
+    "eurostat:population_year":2020,
     "geom:area":0.028077,
     "geom:area_square_m":271110281.592934,
     "geom:bbox":"-3.24912162,38.47377492,-2.73363656,38.82911468",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_13057",
+        "eurostat:nuts_2021_id":"13057",
         "gn:id":6357151,
         "gp:id":12690354,
         "qs_pg:id":124785
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b51d4b2c8be3256113368af7f196cc06",
+    "wof:geomhash":"6bbed2fc2d64b20c6c137dbaf8611de5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404333537,
-    "wof:lastmodified":1582361772,
+    "wof:lastmodified":1684352280,
     "wof:name":"Montiel",
     "wof:parent_id":85682689,
     "wof:placetype":"localadmin",
+    "wof:population":1294,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

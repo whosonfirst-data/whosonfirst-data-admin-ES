@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alb\u00e1nchez",
+    "eurostat:nuts_2021_id":"04004",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04004",
+    "eurostat:population":687,
+    "eurostat:population_year":2020,
     "geom:area":0.00357,
     "geom:area_square_m":35120898.90738,
     "geom:bbox":"-2.20217567,37.25093106,-2.11823577,37.31841332",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_04004",
+        "eurostat:nuts_2021_id":"04004",
         "gn:id":6355521,
         "gp:id":12688627,
         "qs_pg:id":204519
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5e6034fdbab70d53247c98811be4df60",
+    "wof:geomhash":"449f9e0a80ee38ef8fe989625bdc6f0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404329577,
-    "wof:lastmodified":1582361804,
+    "wof:lastmodified":1684352212,
     "wof:name":"Alb\u00e1nchez",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":687,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

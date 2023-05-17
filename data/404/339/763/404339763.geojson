@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31137",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Beintza-Labaien",
+    "eurostat:nuts_2021_id":"31137",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31137",
+    "eurostat:population":217,
+    "eurostat:population_year":2020,
     "geom:area":0.00311,
-    "geom:area_square_m":28081025.123656,
+    "geom:area_square_m":28081025.123655,
     "geom:bbox":"-1.81580445,43.054237,-1.71537774,43.15813208",
     "geom:latitude":43.098336,
     "geom:longitude":-1.756296,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31137",
+        "eurostat:nuts_2021_id":"31137",
         "gn:id":6359685,
         "qs_pg:id":621770
     },
@@ -111,7 +127,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"87cd544e155f6998a730d0b9743d842f",
+    "wof:geomhash":"c088979f92d5210562c16d23a4147732",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +138,12 @@
         }
     ],
     "wof:id":404339763,
-    "wof:lastmodified":1582361580,
+    "wof:lastmodified":1684352398,
     "wof:name":"Beintza-Labaien",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":217,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

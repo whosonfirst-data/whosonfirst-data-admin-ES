@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_38017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Granadilla de Abona",
+    "eurostat:nuts_2021_id":"38017",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES7",
+    "eurostat:nuts_2021_level_2":"ES70",
+    "eurostat:nuts_2021_level_3":"ES709",
+    "eurostat:nuts_2021_level_lau":"38017",
+    "eurostat:population":51233,
+    "eurostat:population_year":2020,
     "geom:area":0.014915,
-    "geom:area_square_m":162665733.541215,
+    "geom:area_square_m":162665733.541187,
     "geom:bbox":"-16.62153589,28.02483993,-16.48173043,28.21818393",
     "geom:latitude":28.112067,
     "geom:longitude":-16.564003,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_38017",
+        "eurostat:nuts_2021_id":"38017",
         "gn:id":6360627,
         "gp:id":12690175,
         "qs_pg:id":902581
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7ab54f28914983def365db388fc8e694",
+    "wof:geomhash":"1f6c3474bae804873f2804072a4d2de3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404341955,
-    "wof:lastmodified":1582361625,
+    "wof:lastmodified":1684352431,
     "wof:name":"Granadilla De Abona",
     "wof:parent_id":85682831,
     "wof:placetype":"localadmin",
+    "wof:population":51233,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

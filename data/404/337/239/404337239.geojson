@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cea",
+    "eurostat:nuts_2021_id":"24051",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24051",
+    "eurostat:population":403,
+    "eurostat:population_year":2020,
     "geom:area":0.012308,
-    "geom:area_square_m":112166610.642299,
+    "geom:area_square_m":112166610.642297,
     "geom:bbox":"-5.08288268,42.42896441,-4.87166874,42.72437311",
     "geom:latitude":42.524838,
     "geom:longitude":-4.973776,
@@ -42,6 +54,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -50,6 +64,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_24051",
+        "eurostat:nuts_2021_id":"24051",
         "gn:id":6362995,
         "gp:id":12691793,
         "qs_pg:id":200580
@@ -58,7 +74,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9c3db7580fa20838bb8f245f2d6348a3",
+    "wof:geomhash":"e17fc3d7c0a77e7a60c6f1d375e6fbfb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +85,12 @@
         }
     ],
     "wof:id":404337239,
-    "wof:lastmodified":1582361573,
+    "wof:lastmodified":1684352350,
     "wof:name":"Cea",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":403,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

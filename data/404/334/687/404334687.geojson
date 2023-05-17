@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17063,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17063",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Espinelves",
+    "eurostat:nuts_2021_id":"17063",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17063",
+    "eurostat:population":221,
+    "eurostat:population_year":2020,
     "geom:area":0.001898,
-    "geom:area_square_m":17473501.872276,
+    "geom:area_square_m":17473611.074763,
     "geom:bbox":"2.389654,41.849414,2.453754,41.896484",
     "geom:latitude":41.873752,
     "geom:longitude":2.423013,
@@ -121,6 +133,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -129,7 +143,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17063",
         "esp-icgc:la_lc":"017063",
+        "eurostat:nuts_2021_id":"17063",
         "gn:id":6357603,
         "gp:id":12693743,
         "qs_pg:id":1314290
@@ -139,7 +155,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"e4862fe92e85a9f5c2bbcae306e027cb",
+    "wof:geomhash":"7019c214b1908e82d5ef0bf1555dcda1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404334687,
-    "wof:lastmodified":1669903043,
+    "wof:lastmodified":1684352305,
     "wof:name":"Espinelves",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":221,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

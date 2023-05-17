@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37343",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vallejera de Riofr\u00edo",
+    "eurostat:nuts_2021_id":"37343",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37343",
+    "eurostat:population":72,
+    "eurostat:population_year":2020,
     "geom:area":0.000771,
-    "geom:area_square_m":7254321.786863,
+    "geom:area_square_m":7254321.786864,
     "geom:bbox":"-5.74186856,40.3997862,-5.69448929,40.42901816",
     "geom:latitude":40.414487,
     "geom:longitude":-5.72252,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_37343",
+        "eurostat:nuts_2021_id":"37343"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"0a4a6918f187a96191d483ce046c6372",
+    "wof:geomhash":"8ea62c2905022a472863e4455f6e5cd2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404341829,
-    "wof:lastmodified":1566590300,
+    "wof:lastmodified":1684352429,
     "wof:name":"Vallejera De Riofr\u00edo",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":72,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

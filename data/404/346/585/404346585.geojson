@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49209",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Vitero",
+    "eurostat:nuts_2021_id":"49209",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49209",
+    "eurostat:population":492,
+    "eurostat:population_year":2020,
     "geom:area":0.006956,
-    "geom:area_square_m":64137374.034875,
+    "geom:area_square_m":64137374.034881,
     "geom:bbox":"-6.43861514,41.72891126,-6.29490158,41.82665371",
     "geom:latitude":41.782229,
     "geom:longitude":-6.358831,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_49209",
+        "eurostat:nuts_2021_id":"49209",
         "gn:id":6362638,
         "gp:id":12693308,
         "qs_pg:id":1003876
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f9f469be5787001a7559ff77ea1cf29a",
+    "wof:geomhash":"a594c14b78d9918d2399e27cc1594638",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404346585,
-    "wof:lastmodified":1582361620,
+    "wof:lastmodified":1684352501,
     "wof:name":"San Vitero",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":492,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

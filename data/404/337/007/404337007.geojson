@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_23045",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Huesa",
+    "eurostat:nuts_2021_id":"23045",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES616",
+    "eurostat:nuts_2021_level_lau":"23045",
+    "eurostat:population":2490,
+    "eurostat:population_year":2020,
     "geom:area":0.014142,
-    "geom:area_square_m":138363478.781189,
+    "geom:area_square_m":138363478.781194,
     "geom:bbox":"-3.13752929,37.5955134,-2.994646,37.79172356",
     "geom:latitude":37.696593,
     "geom:longitude":-3.065602,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_23045",
+        "eurostat:nuts_2021_id":"23045",
         "gn:id":6358495,
         "gp:id":12689136,
         "qs_pg:id":258994
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"50a358543cc60734c889a79ffa098300",
+    "wof:geomhash":"7d4bfaa25f431e89f5501dda4cde6b82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404337007,
-    "wof:lastmodified":1582361557,
+    "wof:lastmodified":1684352347,
     "wof:name":"Huesa",
     "wof:parent_id":85682757,
     "wof:placetype":"localadmin",
+    "wof:population":2490,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

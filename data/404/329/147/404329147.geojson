@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_02042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Letur",
+    "eurostat:nuts_2021_id":"02042",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES421",
+    "eurostat:nuts_2021_level_lau":"02042",
+    "eurostat:population":892,
+    "eurostat:population_year":2020,
     "geom:area":0.027151,
-    "geom:area_square_m":263403144.644277,
+    "geom:area_square_m":263403144.644275,
     "geom:bbox":"-2.23431403,38.2018095,-1.9961173,38.41379775",
     "geom:latitude":38.319511,
     "geom:longitude":-2.130863,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_02042",
+        "eurostat:nuts_2021_id":"02042",
         "gn:id":6355333,
         "gp:id":12690253,
         "qs_pg:id":238925
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7c2ed4348258381db7eebf6721e8d76d",
+    "wof:geomhash":"b55089bd34a181a1a056bf4e26f61e3b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404329147,
-    "wof:lastmodified":1582361804,
+    "wof:lastmodified":1684352205,
     "wof:name":"Letur",
     "wof:parent_id":85682621,
     "wof:placetype":"localadmin",
+    "wof:population":892,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

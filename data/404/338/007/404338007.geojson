@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25201,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sarroca de Bellera",
+    "eurostat:nuts_2021_id":"25201",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25201",
+    "eurostat:population":116,
+    "eurostat:population_year":2020,
     "geom:area":0.009574,
-    "geom:area_square_m":87414444.872484,
+    "geom:area_square_m":87414524.526992,
     "geom:bbox":"0.822298,42.335641,0.936257,42.485139",
     "geom:latitude":42.408244,
     "geom:longitude":0.886502,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25201",
         "esp-icgc:la_lc":"025201",
+        "eurostat:nuts_2021_id":"25201",
         "gp:id":12694084,
         "qs_pg:id":1018682
     },
@@ -66,7 +82,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"588c214cf5ab70172654c1130668b0a7",
+    "wof:geomhash":"f96601488c3002498d8a3c0134cfc626",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,10 +93,12 @@
         }
     ],
     "wof:id":404338007,
-    "wof:lastmodified":1669902992,
+    "wof:lastmodified":1684352368,
     "wof:name":"Sarroca de Bellera",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":116,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

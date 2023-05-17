@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42029",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Baraona",
+    "eurostat:nuts_2021_id":"42029",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42029",
+    "eurostat:population":133,
+    "eurostat:population_year":2020,
     "geom:area":0.012533,
     "geom:area_square_m":116432278.262713,
     "geom:bbox":"-2.72049991,41.21943556,-2.52103165,41.37785139",
@@ -198,6 +210,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -206,6 +220,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42029",
+        "eurostat:nuts_2021_id":"42029",
         "gp:id":12692746,
         "qs_pg:id":4857
     },
@@ -213,7 +229,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1b11e3139fe6f1410b8129e478541e5d",
+    "wof:geomhash":"1a5483f71b1a250f61cb445403a00fec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -224,10 +240,12 @@
         }
     ],
     "wof:id":404343039,
-    "wof:lastmodified":1582361873,
+    "wof:lastmodified":1684352447,
     "wof:name":"Baraona",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":133,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

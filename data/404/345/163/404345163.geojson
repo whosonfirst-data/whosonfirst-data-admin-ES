@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46162",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Massalav\u00e9s",
+    "eurostat:nuts_2021_id":"46162",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46162",
+    "eurostat:population":1610,
+    "eurostat:population_year":2020,
     "geom:area":0.00078,
-    "geom:area_square_m":7476922.877275,
+    "geom:area_square_m":7476922.877276,
     "geom:bbox":"-0.53519492,39.13596449,-0.49578512,39.17009976",
     "geom:latitude":39.15389,
     "geom:longitude":-0.517949,
@@ -84,6 +96,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -91,9 +105,12 @@
         404227381
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_46162",
+        "eurostat:nuts_2021_id":"46162"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"99d6610645e64cf9b2969fa786a94a7f",
+    "wof:geomhash":"64b35736d084dbb90ea22dba584d5924",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +121,12 @@
         }
     ],
     "wof:id":404345163,
-    "wof:lastmodified":1566591028,
+    "wof:lastmodified":1684352483,
     "wof:name":"Massalav\u00e9s",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":1610,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

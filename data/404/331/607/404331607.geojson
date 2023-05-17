@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aranda de Duero",
+    "eurostat:nuts_2021_id":"09018",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09018",
+    "eurostat:population":33187,
+    "eurostat:population_year":2020,
     "geom:area":0.013765,
-    "geom:area_square_m":127098424.887752,
+    "geom:area_square_m":127098424.887751,
     "geom:bbox":"-3.80927648,41.63127604,-3.57364716,41.74827706",
     "geom:latitude":41.689946,
     "geom:longitude":-3.684838,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09018",
+        "eurostat:nuts_2021_id":"09018",
         "gn:id":6356343,
         "gp:id":12691388,
         "qs_pg:id":248516
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b143d02e195cd7deea394568b4d2110d",
+    "wof:geomhash":"966d9f5d6aafeb9143258e5bf17c9493",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404331607,
-    "wof:lastmodified":1582361511,
+    "wof:lastmodified":1684352257,
     "wof:name":"Aranda De Duero",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":33187,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

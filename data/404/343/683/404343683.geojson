@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43130,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43130",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rocafort de Queralt",
+    "eurostat:nuts_2021_id":"43130",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43130",
+    "eurostat:population":211,
+    "eurostat:population_year":2020,
     "geom:area":0.00091,
-    "geom:area_square_m":8429299.113198,
+    "geom:area_square_m":8429325.563561,
     "geom:bbox":"1.250354,41.458367,1.29192,41.500258",
     "geom:latitude":41.480088,
     "geom:longitude":1.269654,
@@ -48,6 +60,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -56,13 +70,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"043130"
+        "eg:gisco_id":"ES_43130",
+        "esp-icgc:la_lc":"043130",
+        "eurostat:nuts_2021_id":"43130"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"edcee1d9dc98a93190fd92004ac22327",
+    "wof:geomhash":"c1b744e259b2bca2b94027f1b943f807",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,10 +89,12 @@
         }
     ],
     "wof:id":404343683,
-    "wof:lastmodified":1669903068,
+    "wof:lastmodified":1684352460,
     "wof:name":"Rocafort de Queralt",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":211,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

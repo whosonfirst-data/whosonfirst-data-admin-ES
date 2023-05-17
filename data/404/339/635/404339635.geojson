@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31085",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Etxauri",
+    "eurostat:nuts_2021_id":"31085",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31085",
+    "eurostat:population":649,
+    "eurostat:population_year":2020,
     "geom:area":0.001552,
-    "geom:area_square_m":14081927.84197,
+    "geom:area_square_m":14081927.841969,
     "geom:bbox":"-1.85302264,42.7790173,-1.76098166,42.82089422",
     "geom:latitude":42.800661,
     "geom:longitude":-1.80915,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31085",
+        "eurostat:nuts_2021_id":"31085",
         "gn:id":6359633,
         "gp:id":12688273,
         "qs_pg:id":539299
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bffde72db05c78270469d4ba28324840",
+    "wof:geomhash":"328d16c558631ba6b807f4466a4d6d5c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404339635,
-    "wof:lastmodified":1582361586,
+    "wof:lastmodified":1684352397,
     "wof:name":"Etxauri",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":649,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

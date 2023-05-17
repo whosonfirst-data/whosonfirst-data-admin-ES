@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05187",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Piedralaves",
+    "eurostat:nuts_2021_id":"05187",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05187",
+    "eurostat:population":2070,
+    "eurostat:population_year":2020,
     "geom:area":0.005854,
-    "geom:area_square_m":55191665.253317,
+    "geom:area_square_m":55191665.253315,
     "geom:bbox":"-4.77143631,40.27353296,-4.66005773,40.3615208",
     "geom:latitude":40.321153,
     "geom:longitude":-4.711351,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05187",
+        "eurostat:nuts_2021_id":"05187",
         "gn:id":6355787,
         "gp:id":12691296,
         "qs_pg:id":1163601
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"618e6fda94dc582214feba06c380fa8d",
+    "wof:geomhash":"cb51880db887df91c0e51fb6f773d14f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404330179,
-    "wof:lastmodified":1582361544,
+    "wof:lastmodified":1684352220,
     "wof:name":"Piedralaves",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":2070,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

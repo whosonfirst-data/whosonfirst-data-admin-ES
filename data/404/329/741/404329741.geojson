@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04081",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Fe de Mond\u00fajar",
+    "eurostat:nuts_2021_id":"04081",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04081",
+    "eurostat:population":461,
+    "eurostat:population_year":2020,
     "geom:area":0.00353,
     "geom:area_square_m":34858928.224151,
     "geom:bbox":"-2.57764477,36.91726592,-2.48932353,37.04500922",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_04081",
+        "eurostat:nuts_2021_id":"04081",
         "gn:id":6355593,
         "gp:id":12688703,
         "qs_pg:id":1095263
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e837f315e9b752aefbcd8090d09d25e0",
+    "wof:geomhash":"7e1663a2d283df06a99e5c6ec84e57f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404329741,
-    "wof:lastmodified":1582361795,
+    "wof:lastmodified":1684352215,
     "wof:name":"Santa Fe De Mond\u00fajar",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":461,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

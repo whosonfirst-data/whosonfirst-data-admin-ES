@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37128",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Espino de la Orbada",
+    "eurostat:nuts_2021_id":"37128",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37128",
+    "eurostat:population":250,
+    "eurostat:population_year":2020,
     "geom:area":0.002514,
-    "geom:area_square_m":23422845.303277,
+    "geom:area_square_m":23422845.303276,
     "geom:bbox":"-5.45214501,41.09259098,-5.37713797,41.14702522",
     "geom:latitude":41.119743,
     "geom:longitude":-5.414803,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37128",
+        "eurostat:nuts_2021_id":"37128",
         "gn:id":6360371,
         "gp:id":12692264,
         "qs_pg:id":491894
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"07cd56919bbd3409bffd82953e5393e6",
+    "wof:geomhash":"0f63fd68f0acdea484cff78722694099",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404341359,
-    "wof:lastmodified":1582361633,
+    "wof:lastmodified":1684352423,
     "wof:name":"Espino De La Orbada",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":250,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

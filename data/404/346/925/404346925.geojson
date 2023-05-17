@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50095",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ejea de los Caballeros",
+    "eurostat:nuts_2021_id":"50095",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50095",
+    "eurostat:population":16984,
+    "eurostat:population_year":2020,
     "geom:area":0.066408,
-    "geom:area_square_m":609011428.784905,
+    "geom:area_square_m":609011428.784903,
     "geom:bbox":"-1.41337469,41.99042763,-1.01438004,42.27689108",
     "geom:latitude":42.127035,
     "geom:longitude":-1.195683,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50095",
+        "eurostat:nuts_2021_id":"50095",
         "gn:id":6362788,
         "gp:id":12689928,
         "qs_pg:id":1146837
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d9f9bbb2c1343891d14945432cd3dd17",
+    "wof:geomhash":"d64cc9052d4503dde556e30059192e15",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404346925,
-    "wof:lastmodified":1582361614,
+    "wof:lastmodified":1684352505,
     "wof:name":"Ejea De Los Caballeros",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":16984,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

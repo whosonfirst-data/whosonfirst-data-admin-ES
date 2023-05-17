@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31172",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monreal / Elo",
+    "eurostat:nuts_2021_id":"31172",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31172",
+    "eurostat:population":472,
+    "eurostat:population_year":2020,
     "geom:area":0.002484,
-    "geom:area_square_m":22569329.513657,
+    "geom:area_square_m":22569329.513655,
     "geom:bbox":"-1.57261891,42.67699075,-1.47350821,42.73502206",
     "geom:latitude":42.704605,
     "geom:longitude":-1.5267,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227391
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_31172",
+        "eurostat:nuts_2021_id":"31172"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"1f6185729b694865b94d248926ac9897",
+    "wof:geomhash":"8e41b7a54210c0f54d1ec3c6ae8fd351",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404339845,
-    "wof:lastmodified":1566590082,
+    "wof:lastmodified":1684352399,
     "wof:name":"Monreal/Elo",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":472,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

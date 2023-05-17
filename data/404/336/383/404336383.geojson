@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_21046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lucena del Puerto",
+    "eurostat:nuts_2021_id":"21046",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES615",
+    "eurostat:nuts_2021_level_lau":"21046",
+    "eurostat:population":3261,
+    "eurostat:population_year":2020,
     "geom:area":0.007035,
-    "geom:area_square_m":69240792.247007,
+    "geom:area_square_m":69240792.247006,
     "geom:bbox":"-6.77945883,37.09032857,-6.69765696,37.32884116",
     "geom:latitude":37.25098,
     "geom:longitude":-6.736695,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_21046",
+        "eurostat:nuts_2021_id":"21046",
         "gn:id":6358222,
         "gp:id":12689060,
         "qs_pg:id":1019702
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"af66b8ac73e58c752b582ccef743869a",
+    "wof:geomhash":"fe2f7807cdd0fd9cd9b14a2b482f1d39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404336383,
-    "wof:lastmodified":1582361466,
+    "wof:lastmodified":1684352338,
     "wof:name":"Lucena Del Puerto",
     "wof:parent_id":85682749,
     "wof:placetype":"localadmin",
+    "wof:population":3261,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

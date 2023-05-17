@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49191",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Miguel de la Ribera",
+    "eurostat:nuts_2021_id":"49191",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49191",
+    "eurostat:population":290,
+    "eurostat:population_year":2020,
     "geom:area":0.002824,
-    "geom:area_square_m":26216749.270013,
+    "geom:area_square_m":26216749.270014,
     "geom:bbox":"-5.60336606,41.30466514,-5.50764701,41.36396484",
     "geom:latitude":41.332739,
     "geom:longitude":-5.555985,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_49191",
+        "eurostat:nuts_2021_id":"49191",
         "gn:id":6362624,
         "gp:id":12693303,
         "qs_pg:id":47150
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e48fb389b6ee674fc7b28156d359da0b",
+    "wof:geomhash":"f0915e27689576ad552b93c401118171",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404346551,
-    "wof:lastmodified":1582361606,
+    "wof:lastmodified":1684352500,
     "wof:name":"San Miguel De La Ribera",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":290,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

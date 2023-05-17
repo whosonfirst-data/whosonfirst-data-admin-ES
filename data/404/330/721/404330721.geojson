@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06162",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zarza, La",
+    "eurostat:nuts_2021_id":"06162",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06162",
+    "eurostat:population":3402,
+    "eurostat:population_year":2020,
     "geom:area":0.006552,
-    "geom:area_square_m":63139207.524581,
+    "geom:area_square_m":63139207.524579,
     "geom:bbox":"-6.3579281,38.75316704,-6.18221262,38.8437573",
     "geom:latitude":38.804813,
     "geom:longitude":-6.263093,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06162",
+        "eurostat:nuts_2021_id":"06162",
         "gn:id":6356027,
         "qs_pg:id":621561
     },
@@ -126,7 +142,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6230c29dd96eaa298e4be7d2dc08e8fa",
+    "wof:geomhash":"f08d13612d9a59f1ba4cfc2236d64690",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404330721,
-    "wof:lastmodified":1582361543,
+    "wof:lastmodified":1684352228,
     "wof:name":"La Zarza",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":3402,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8256,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08256",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Maria de Martorelles",
+    "eurostat:nuts_2021_id":"08256",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08256",
+    "eurostat:population":890,
+    "eurostat:population_year":2020,
     "geom:area":0.000481,
-    "geom:area_square_m":4451711.466949,
+    "geom:area_square_m":4451716.375875,
     "geom:bbox":"2.242618,41.503968,2.282154,41.531705",
     "geom:latitude":41.517869,
     "geom:longitude":2.261518,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08256",
         "esp-icgc:la_lc":"08256",
+        "eurostat:nuts_2021_id":"08256",
         "gn:id":6356277,
         "gp:id":12693635,
         "qs_pg:id":1149540
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"7069b8f84a91cd1667a7959b3f72fb57",
+    "wof:geomhash":"d5973c06160bf4e1b9d9571046dab60e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404331449,
-    "wof:lastmodified":1669902999,
+    "wof:lastmodified":1684352252,
     "wof:name":"Santa Maria de Martorelles",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":890,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

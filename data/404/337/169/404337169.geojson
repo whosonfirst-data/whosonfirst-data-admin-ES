@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bercianos del P\u00e1ramo",
+    "eurostat:nuts_2021_id":"24017",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24017",
+    "eurostat:population":554,
+    "eurostat:population_year":2020,
     "geom:area":0.003834,
-    "geom:area_square_m":35035821.582803,
+    "geom:area_square_m":35035821.582802,
     "geom:bbox":"-5.72692323,42.31516908,-5.64578375,42.39349756",
     "geom:latitude":42.35102,
     "geom:longitude":-5.687841,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_24017",
+        "eurostat:nuts_2021_id":"24017",
         "gn:id":6358567,
         "gp:id":12691762,
         "qs_pg:id":497110
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0ff0670407ebb08ff0cf08b701406e15",
+    "wof:geomhash":"b6e55644fecc9c9bc767454bcd2326ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404337169,
-    "wof:lastmodified":1582361552,
+    "wof:lastmodified":1684352349,
     "wof:name":"Bercianos Del P\u00e1ramo",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":554,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

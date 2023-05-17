@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09460",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villasandino",
+    "eurostat:nuts_2021_id":"09460",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09460",
+    "eurostat:population":180,
+    "eurostat:population_year":2020,
     "geom:area":0.004779,
-    "geom:area_square_m":43647093.836511,
+    "geom:area_square_m":43647093.836512,
     "geom:bbox":"-4.17325997,42.34544433,-4.05923095,42.41639508",
     "geom:latitude":42.380801,
     "geom:longitude":-4.115424,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09460",
+        "eurostat:nuts_2021_id":"09460",
         "gn:id":6356678,
         "gp:id":12691731,
         "qs_pg:id":1016845
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"effb12f1ce384501ddff31856d6d48d1",
+    "wof:geomhash":"39cdc688b0f58a5a918d9a38308281e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404332463,
-    "wof:lastmodified":1582361681,
+    "wof:lastmodified":1684352264,
     "wof:name":"Villasandino",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":180,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

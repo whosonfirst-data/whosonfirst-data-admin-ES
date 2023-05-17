@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"ES",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"2",
+    "eurostat:name_latin":"Zaragoza",
+    "eurostat:name_local":"Zaragoza",
+    "eurostat:nuts_2021_id":"ES243",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:population":958833,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"1",
     "geom:area":1.866275,
-    "geom:area_square_m":17250969509.347923,
+    "geom:area_square_m":17250969854.526199,
     "geom:bbox":"-2.173671,40.936216,0.385664,42.744052",
     "geom:latitude":41.620439,
     "geom:longitude":-1.064565,
@@ -434,6 +448,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "unlc:subdivision":"ES-Z",
     "wof:belongsto":[
         102191581,
@@ -443,6 +459,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":11469,
+        "eurostat:nuts_2021_id":"ES243",
         "fips:code":"SP81",
         "gn:id":3104323,
         "gp:id":12602107,
@@ -450,7 +467,7 @@
         "unlc:id":"ES-Z"
     },
     "wof:country":"ES",
-    "wof:geomhash":"35152748b552e53bd6ac8b176654c134",
+    "wof:geomhash":"fce5d912caf10e060d5df697e7c8a059",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -470,10 +487,12 @@
         "eus",
         "ast"
     ],
-    "wof:lastmodified":1583882774,
+    "wof:lastmodified":1684351572,
     "wof:name":"Zaragoza",
     "wof:parent_id":404227363,
     "wof:placetype":"region",
+    "wof:population":958833,
+    "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:shortcode":"AR",
     "wof:subdivision":"ES-Z",

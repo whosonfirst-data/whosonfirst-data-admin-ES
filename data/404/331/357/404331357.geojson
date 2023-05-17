@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8215,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08215",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Hip\u00f2lit de Voltreg\u00e0",
+    "eurostat:nuts_2021_id":"08215",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08215",
+    "eurostat:population":3540,
+    "eurostat:population_year":2020,
     "geom:area":0.0001,
-    "geom:area_square_m":918674.452522,
+    "geom:area_square_m":918679.594041,
     "geom:bbox":"2.229065,42.010653,2.245289,42.020071",
     "geom:latitude":42.015387,
     "geom:longitude":2.237724,
@@ -65,6 +77,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -73,7 +87,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08215",
         "esp-icgc:la_lc":"08215",
+        "eurostat:nuts_2021_id":"08215",
         "gn:id":6356237,
         "gp:id":12693590,
         "qs_pg:id":204720
@@ -83,7 +99,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"9cca35b325e1656d739f2658153870d4",
+    "wof:geomhash":"516ac660a4db6c0ea9339a105d433734",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,10 +110,12 @@
         }
     ],
     "wof:id":404331357,
-    "wof:lastmodified":1669903006,
+    "wof:lastmodified":1684352249,
     "wof:name":"Sant Hip\u00f2lit de Voltreg\u00e0",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":3540,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

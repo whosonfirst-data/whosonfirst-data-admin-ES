@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12090",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pina de Montalgrao",
+    "eurostat:nuts_2021_id":"12090",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12090",
+    "eurostat:population":110,
+    "eurostat:population_year":2020,
     "geom:area":0.003334,
-    "geom:area_square_m":31571954.004609,
+    "geom:area_square_m":31571954.004608,
     "geom:bbox":"-0.71594926,39.97995315,-0.60929268,40.04660357",
     "geom:latitude":40.014171,
     "geom:longitude":-0.649408,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12090",
+        "eurostat:nuts_2021_id":"12090",
         "gn:id":6357040,
         "gp:id":12695488,
         "qs_pg:id":204866
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6a120c360e320df097e6485292928c56",
+    "wof:geomhash":"b885342bd8b51724edbbd9033a1483e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404333287,
-    "wof:lastmodified":1582361762,
+    "wof:lastmodified":1684352277,
     "wof:name":"Pina De Montalgrao",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":110,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

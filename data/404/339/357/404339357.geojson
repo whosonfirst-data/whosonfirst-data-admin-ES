@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_30017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ceheg\u00edn",
+    "eurostat:nuts_2021_id":"30017",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES62",
+    "eurostat:nuts_2021_level_3":"ES620",
+    "eurostat:nuts_2021_level_lau":"30017",
+    "eurostat:population":14769,
+    "eurostat:population_year":2020,
     "geom:area":0.030731,
     "geom:area_square_m":299129827.478843,
     "geom:bbox":"-1.83329194,37.94497336,-1.62568073,38.18583545",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_30017",
+        "eurostat:nuts_2021_id":"30017",
         "gn:id":6359522,
         "gp:id":12688142,
         "qs_pg:id":1102421
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9439322b2dcdb2f89bab2ffd65e79717",
+    "wof:geomhash":"6e7236b0053f2e8d67c1720bfea8657a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404339357,
-    "wof:lastmodified":1582361590,
+    "wof:lastmodified":1684352393,
     "wof:name":"Ceheg\u00edn",
     "wof:parent_id":85682791,
     "wof:placetype":"localadmin",
+    "wof:population":14769,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

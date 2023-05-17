@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caba\u00f1as de Polendos",
+    "eurostat:nuts_2021_id":"40035",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40035",
+    "eurostat:population":171,
+    "eurostat:population_year":2020,
     "geom:area":0.002829,
-    "geom:area_square_m":26376233.398641,
+    "geom:area_square_m":26376233.39864,
     "geom:bbox":"-4.13783784,41.01519788,-4.07350395,41.08367548",
     "geom:latitude":41.050845,
     "geom:longitude":-4.105374,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_40035",
+        "eurostat:nuts_2021_id":"40035",
         "gn:id":6360778,
         "gp:id":12692543,
         "qs_pg:id":1009384
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"86a755a63fa83a6dc64b26572bf274a3",
+    "wof:geomhash":"058acc533a525b6f6ccf55822b885d6b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404342341,
-    "wof:lastmodified":1582361813,
+    "wof:lastmodified":1684352438,
     "wof:name":"Caba\u00f1as De Polendos",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":171,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

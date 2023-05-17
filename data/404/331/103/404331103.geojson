@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8100,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08100",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gurb",
+    "eurostat:nuts_2021_id":"08100",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08100",
+    "eurostat:population":2713,
+    "eurostat:population_year":2020,
     "geom:area":0.005557,
-    "geom:area_square_m":51090798.677085,
+    "geom:area_square_m":51090798.677087,
     "geom:bbox":"2.16623132608,41.9262323608,2.29979795619,41.9976940627",
     "geom:latitude":41.961997,
     "geom:longitude":2.225904,
@@ -127,6 +139,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -135,7 +149,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08100",
         "esp-icgc:la_lc":"08100",
+        "eurostat:nuts_2021_id":"08100",
         "gn:id":6356130,
         "gp:id":12693479,
         "qs_pg:id":191242
@@ -145,7 +161,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"05a09389623cc7f8c2ec15a4ef14d1bf",
+    "wof:geomhash":"e6f57770d72533c392846a763615132d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404331103,
-    "wof:lastmodified":1582361481,
+    "wof:lastmodified":1684352241,
     "wof:name":"Gurb",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":2713,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

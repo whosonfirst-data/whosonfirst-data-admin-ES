@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15074",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rois",
+    "eurostat:nuts_2021_id":"15074",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15074",
+    "eurostat:population":4505,
+    "eurostat:population_year":2020,
     "geom:area":0.010205,
-    "geom:area_square_m":92606257.715643,
+    "geom:area_square_m":92606257.715644,
     "geom:bbox":"-8.79703263,42.7342368,-8.62698997,42.84314426",
     "geom:latitude":42.788371,
     "geom:longitude":-8.725281,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_15074",
+        "eurostat:nuts_2021_id":"15074",
         "gn:id":6357342,
         "gp:id":12694776,
         "qs_pg:id":191329
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"846bc766edd57a8390212d47ce942ab6",
+    "wof:geomhash":"49473df15e67b16c5f5b031a73ddf4b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404333975,
-    "wof:lastmodified":1582361785,
+    "wof:lastmodified":1684352291,
     "wof:name":"Rois",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":4505,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

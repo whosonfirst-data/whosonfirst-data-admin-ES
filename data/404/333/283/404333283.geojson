@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12088",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pav\u00edas",
+    "eurostat:nuts_2021_id":"12088",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12088",
+    "eurostat:population":68,
+    "eurostat:population_year":2020,
     "geom:area":0.001519,
     "geom:area_square_m":14397208.015812,
     "geom:bbox":"-0.51582368,39.95487497,-0.44754046,39.99245994",
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12088",
+        "eurostat:nuts_2021_id":"12088",
         "gn:id":6357038,
         "gp:id":12695486,
         "qs_pg:id":48495
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"12da978d29c2cf0d338e7b5ef1d0bbbe",
+    "wof:geomhash":"7c95d4d95c85f6a70faa2b7d1127023a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404333283,
-    "wof:lastmodified":1582361776,
+    "wof:lastmodified":1684352276,
     "wof:name":"Pav\u00edas",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":68,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

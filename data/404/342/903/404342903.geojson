@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_41071",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Paradas",
+    "eurostat:nuts_2021_id":"41071",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES618",
+    "eurostat:nuts_2021_level_lau":"41071",
+    "eurostat:population":6857,
+    "eurostat:population_year":2020,
     "geom:area":0.01112,
-    "geom:area_square_m":109388041.561012,
+    "geom:area_square_m":109388041.561013,
     "geom:bbox":"-5.57939483,37.22926697,-5.42147755,37.35709023",
     "geom:latitude":37.291229,
     "geom:longitude":-5.497589,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_41071",
+        "eurostat:nuts_2021_id":"41071",
         "gn:id":6361026,
         "gp:id":12689363,
         "qs_pg:id":1297428
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9271715d0b9b45314f29068e404d1290",
+    "wof:geomhash":"29323e375c8260a372ce91b63d456843",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404342903,
-    "wof:lastmodified":1582361815,
+    "wof:lastmodified":1684352445,
     "wof:name":"Paradas",
     "wof:parent_id":85682841,
     "wof:placetype":"localadmin",
+    "wof:population":6857,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_35014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oliva, La",
+    "eurostat:nuts_2021_id":"35014",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES7",
+    "eurostat:nuts_2021_level_2":"ES70",
+    "eurostat:nuts_2021_level_3":"ES704",
+    "eurostat:nuts_2021_level_lau":"35014",
+    "eurostat:population":27234,
+    "eurostat:population_year":2020,
     "geom:area":0.032791,
-    "geom:area_square_m":355819081.646261,
+    "geom:area_square_m":355819081.646298,
     "geom:bbox":"-14.04485764,28.56452297,-13.81051043,28.76574769",
     "geom:latitude":28.652074,
     "geom:longitude":-13.924765,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_35014",
+        "eurostat:nuts_2021_id":"35014",
         "gn:id":6360184,
         "gp:id":12690138,
         "qs_pg:id":898691
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1065c0fff01501afa6fa157ad61f7749",
+    "wof:geomhash":"06e0bf11c9191450460f1f55f8fb5a34",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404340915,
-    "wof:lastmodified":1582361654,
+    "wof:lastmodified":1684352415,
     "wof:name":"La Oliva",
     "wof:parent_id":85682821,
     "wof:placetype":"localadmin",
+    "wof:population":27234,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

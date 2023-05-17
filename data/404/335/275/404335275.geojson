@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18123",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lugros",
+    "eurostat:nuts_2021_id":"18123",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18123",
+    "eurostat:population":310,
+    "eurostat:population_year":2020,
     "geom:area":0.006423,
-    "geom:area_square_m":63261184.407651,
+    "geom:area_square_m":63261184.407653,
     "geom:bbox":"-3.30111782,37.14175167,-3.19695315,37.25739325",
     "geom:latitude":37.204399,
     "geom:longitude":-3.248925,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18123",
+        "eurostat:nuts_2021_id":"18123",
         "gn:id":6357737,
         "gp:id":12688949,
         "qs_pg:id":1073106
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7c2b4c8986de001d9e16e6490ef273e4",
+    "wof:geomhash":"3392aa0822a095efa72511a3152439bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404335275,
-    "wof:lastmodified":1582361699,
+    "wof:lastmodified":1684352323,
     "wof:name":"Lugros",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":310,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

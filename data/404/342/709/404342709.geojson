@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40222",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Veganzones",
+    "eurostat:nuts_2021_id":"40222",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40222",
+    "eurostat:population":219,
+    "eurostat:population_year":2020,
     "geom:area":0.002357,
-    "geom:area_square_m":21932473.29413,
+    "geom:area_square_m":21932473.294129,
     "geom:bbox":"-4.03099146,41.17399244,-3.96257297,41.23467597",
     "geom:latitude":41.201197,
     "geom:longitude":-3.998646,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_40222",
+        "eurostat:nuts_2021_id":"40222",
         "gn:id":6360940,
         "gp:id":12692710,
         "qs_pg:id":1102734
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"abeed82724e747ea997c683f109d6862",
+    "wof:geomhash":"190c9241844b85cfc5cfbbdc9accbc21",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404342709,
-    "wof:lastmodified":1582361807,
+    "wof:lastmodified":1684352442,
     "wof:name":"Veganzones",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":219,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

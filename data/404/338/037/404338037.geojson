@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25217,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25217",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"T\u00e0rrega",
+    "eurostat:nuts_2021_id":"25217",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25217",
+    "eurostat:population":17445,
+    "eurostat:population_year":2020,
     "geom:area":0.009511,
-    "geom:area_square_m":87843670.870376,
+    "geom:area_square_m":87843849.415139,
     "geom:bbox":"1.058292,41.609553,1.207868,41.740952",
     "geom:latitude":41.672671,
     "geom:longitude":1.141666,
@@ -127,6 +139,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -135,7 +149,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25217",
         "esp-icgc:la_lc":"025217",
+        "eurostat:nuts_2021_id":"25217",
         "gn:id":6358945,
         "gp:id":12694100,
         "qs_pg:id":1118841
@@ -145,7 +161,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cf856170f177e40847c65554c476d516",
+    "wof:geomhash":"43c845f210e23bea058843c505fb9626",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404338037,
-    "wof:lastmodified":1669902992,
+    "wof:lastmodified":1684352368,
     "wof:name":"T\u00e0rrega",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":17445,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

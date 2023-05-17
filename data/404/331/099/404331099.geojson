@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8098,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08098",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Salvador de Guardiola",
+    "eurostat:nuts_2021_id":"08098",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08098",
+    "eurostat:population":3221,
+    "eurostat:population_year":2020,
     "geom:area":0.004013,
-    "geom:area_square_m":37062361.143577,
+    "geom:area_square_m":37062343.076525,
     "geom:bbox":"1.702915,41.641641,1.815449,41.713398",
     "geom:latitude":41.676275,
     "geom:longitude":1.762103,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08098",
         "esp-icgc:la_lc":"08098",
+        "eurostat:nuts_2021_id":"08098",
         "gn:id":6356128,
         "gp:id":12693618,
         "qs_pg:id":352159
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"b3123b60ae5a979df0278a4bc8b76af9",
+    "wof:geomhash":"ec7fc19121a7c393b95bea3a52c8bbc2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404331099,
-    "wof:lastmodified":1669903002,
+    "wof:lastmodified":1684352241,
     "wof:name":"Sant Salvador de Guardiola",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":3221,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

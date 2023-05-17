@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_11029",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Puerto Serrano",
+    "eurostat:nuts_2021_id":"11029",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES612",
+    "eurostat:nuts_2021_level_lau":"11029",
+    "eurostat:population":6942,
+    "eurostat:population_year":2020,
     "geom:area":0.008081,
-    "geom:area_square_m":79828393.724503,
+    "geom:area_square_m":79828393.724509,
     "geom:bbox":"-5.55085415,36.89344979,-5.4200851,37.05244528",
     "geom:latitude":36.978938,
     "geom:longitude":-5.476255,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_11029",
+        "eurostat:nuts_2021_id":"11029",
         "gn:id":6356944,
         "gp:id":12688756,
         "qs_pg:id":44897
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dca880b46445a79b913a9dc5ee7dcb52",
+    "wof:geomhash":"24b88d70865f9e4e90ece98156c6d6c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404333071,
-    "wof:lastmodified":1582361764,
+    "wof:lastmodified":1684352273,
     "wof:name":"Puerto Serrano",
     "wof:parent_id":85682841,
     "wof:placetype":"localadmin",
+    "wof:population":6942,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

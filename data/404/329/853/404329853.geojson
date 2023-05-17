@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Blascomill\u00e1n",
+    "eurostat:nuts_2021_id":"05033",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05033",
+    "eurostat:population":181,
+    "eurostat:population_year":2020,
     "geom:area":0.004227,
     "geom:area_square_m":39557106.907304,
     "geom:bbox":"-5.16895755,40.77911577,-5.05089335,40.86633715",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05033",
+        "eurostat:nuts_2021_id":"05033",
         "gn:id":6355642,
         "gp:id":12691150,
         "qs_pg:id":46132
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9ea037999d4449e40bf99a2019224ff2",
+    "wof:geomhash":"2413e9a1cb8c2f546b37f8a2181e6424",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404329853,
-    "wof:lastmodified":1582361801,
+    "wof:lastmodified":1684352216,
     "wof:name":"Blascomill\u00e1n",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":181,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

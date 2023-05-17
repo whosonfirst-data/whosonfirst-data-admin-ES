@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ay\u00f3dar",
+    "eurostat:nuts_2021_id":"12017",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12017",
+    "eurostat:population":153,
+    "eurostat:population_year":2020,
     "geom:area":0.002569,
-    "geom:area_square_m":24340059.68068,
+    "geom:area_square_m":24340059.680681,
     "geom:bbox":"-0.42220045,39.96908387,-0.34130699,40.01994188",
     "geom:latitude":39.992037,
     "geom:longitude":-0.384962,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12017",
+        "eurostat:nuts_2021_id":"12017",
         "gn:id":6356976,
         "gp:id":12695424,
         "qs_pg:id":265426
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7ebc9a17905a5c07c5ad43d703b33ef5",
+    "wof:geomhash":"685c0eda994bc637afc01b05622f2bd2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404333143,
-    "wof:lastmodified":1582361770,
+    "wof:lastmodified":1684352275,
     "wof:name":"Ay\u00f3dar",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":153,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

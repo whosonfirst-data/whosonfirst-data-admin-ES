@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_11037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trebujena",
+    "eurostat:nuts_2021_id":"11037",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES612",
+    "eurostat:nuts_2021_level_lau":"11037",
+    "eurostat:population":7016,
+    "eurostat:population_year":2020,
     "geom:area":0.007075,
-    "geom:area_square_m":69984671.284325,
+    "geom:area_square_m":69984671.284323,
     "geom:bbox":"-6.29695304,36.82922197,-6.1219923,36.91084841",
     "geom:latitude":36.870847,
     "geom:longitude":-6.215256,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_11037",
+        "eurostat:nuts_2021_id":"11037",
         "gn:id":6356952,
         "gp:id":12688765,
         "qs_pg:id":248758
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"86305e1d1941e20228e7909b10708d9d",
+    "wof:geomhash":"36b9b2896358409ace5eb74ce4562d29",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404333089,
-    "wof:lastmodified":1582361776,
+    "wof:lastmodified":1684352274,
     "wof:name":"Trebujena",
     "wof:parent_id":85682679,
     "wof:placetype":"localadmin",
+    "wof:population":7016,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

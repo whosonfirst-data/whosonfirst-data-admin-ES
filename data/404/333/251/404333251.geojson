@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12073",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ludiente",
+    "eurostat:nuts_2021_id":"12073",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12073",
+    "eurostat:population":149,
+    "eurostat:population_year":2020,
     "geom:area":0.003311,
-    "geom:area_square_m":31318914.936432,
+    "geom:area_square_m":31318914.936431,
     "geom:bbox":"-0.45653988,40.07431648,-0.31820999,40.11757762",
     "geom:latitude":40.09564,
     "geom:longitude":-0.377317,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12073",
+        "eurostat:nuts_2021_id":"12073",
         "gn:id":6357024,
         "gp:id":12695473,
         "qs_pg:id":48490
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3362e0658e914f83f0845b18d0932b6a",
+    "wof:geomhash":"301058bbbb033f41f7a8d710cd9ef510",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404333251,
-    "wof:lastmodified":1582361768,
+    "wof:lastmodified":1684352276,
     "wof:name":"Ludiente",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":149,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

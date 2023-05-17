@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_21061",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rociana del Condado",
+    "eurostat:nuts_2021_id":"21061",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES615",
+    "eurostat:nuts_2021_level_lau":"21061",
+    "eurostat:population":7939,
+    "eurostat:population_year":2020,
     "geom:area":0.007311,
-    "geom:area_square_m":71918488.073811,
+    "geom:area_square_m":71918488.073809,
     "geom:bbox":"-6.67223048,37.23375349,-6.55936011,37.34940931",
     "geom:latitude":37.290834,
     "geom:longitude":-6.617431,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_21061",
+        "eurostat:nuts_2021_id":"21061",
         "gn:id":6358237,
         "gp:id":12689075,
         "qs_pg:id":1173813
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a4451d88586e7f4011cac38b87914d25",
+    "wof:geomhash":"ca4244390bc19ed5f582d90e452f8222",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404336417,
-    "wof:lastmodified":1582361471,
+    "wof:lastmodified":1684352338,
     "wof:name":"Rociana Del Condado",
     "wof:parent_id":85682749,
     "wof:placetype":"localadmin",
+    "wof:population":7939,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

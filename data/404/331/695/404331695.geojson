@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Belorado",
+    "eurostat:nuts_2021_id":"09048",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09048",
+    "eurostat:population":1780,
+    "eurostat:population_year":2020,
     "geom:area":0.014593,
-    "geom:area_square_m":133205823.523959,
+    "geom:area_square_m":133205823.523962,
     "geom:bbox":"-3.28487105,42.33597826,-3.06328617,42.517835",
     "geom:latitude":42.422845,
     "geom:longitude":-3.194663,
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09048",
+        "eurostat:nuts_2021_id":"09048",
         "gn:id":6356368,
         "gp:id":12691414,
         "qs_pg:id":540610
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"276479127a57d527bb401d096db54cf7",
+    "wof:geomhash":"fd00fc2f4675422a78cf5eb248dcae02",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404331695,
-    "wof:lastmodified":1582361494,
+    "wof:lastmodified":1684352257,
     "wof:name":"Belorado",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":1780,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

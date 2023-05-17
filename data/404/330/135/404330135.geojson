@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05168",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Navas del Marqu\u00e9s, Las",
+    "eurostat:nuts_2021_id":"05168",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05168",
+    "eurostat:population":5146,
+    "eurostat:population_year":2020,
     "geom:area":0.010444,
-    "geom:area_square_m":98063708.652945,
+    "geom:area_square_m":98063708.652943,
     "geom:bbox":"-4.422837,40.54494168,-4.27857245,40.63926602",
     "geom:latitude":40.593237,
     "geom:longitude":-4.349176,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05168",
+        "eurostat:nuts_2021_id":"05168",
         "gn:id":6355768,
         "gp:id":12691277,
         "qs_pg:id":898705
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"25abd5ef0aa537dd23fe30e6c981cae9",
+    "wof:geomhash":"9a1eb7f25fac1f0a2ae400d61b76acd4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330135,
-    "wof:lastmodified":1582361517,
+    "wof:lastmodified":1684352220,
     "wof:name":"Las Navas Del Marqu\u00e9s",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":5146,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

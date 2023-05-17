@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03136",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vall de Gallinera",
+    "eurostat:nuts_2021_id":"03136",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03136",
+    "eurostat:population":527,
+    "eurostat:population_year":2020,
     "geom:area":0.005564,
     "geom:area_square_m":53595147.099551,
     "geom:bbox":"-0.30723219,38.7910489,-0.16099237,38.86057429",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227381
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_03136",
+        "eurostat:nuts_2021_id":"03136"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"d8a3ba81103befd42dc35b39e8170bae",
+    "wof:geomhash":"61499dee429773e7b41bb45666e5a44b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404329551,
-    "wof:lastmodified":1566590837,
+    "wof:lastmodified":1684352211,
     "wof:name":"Vall De Gallinera",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":527,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

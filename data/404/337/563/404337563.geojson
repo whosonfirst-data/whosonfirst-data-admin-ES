@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24206",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Toral de los Vados",
+    "eurostat:nuts_2021_id":"24206",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24206",
+    "eurostat:population":1812,
+    "eurostat:population_year":2020,
     "geom:area":0.002645,
-    "geom:area_square_m":24091283.062888,
+    "geom:area_square_m":24091283.062885,
     "geom:bbox":"-6.8192728,42.50781118,-6.72852823,42.6001871",
     "geom:latitude":42.553715,
     "geom:longitude":-6.775469,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_24206",
+        "eurostat:nuts_2021_id":"24206"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"85526d556cf1a165a7ce9881da4f8547",
+    "wof:geomhash":"905335d216818b17eb36af7418d58aa2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404337563,
-    "wof:lastmodified":1566590027,
+    "wof:lastmodified":1684352354,
     "wof:name":"Toral De Los Vados",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":1812,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

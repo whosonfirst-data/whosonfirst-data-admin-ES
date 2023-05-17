@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42176",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tajahuerce",
+    "eurostat:nuts_2021_id":"42176",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42176",
+    "eurostat:population":26,
+    "eurostat:population_year":2020,
     "geom:area":0.002259,
-    "geom:area_square_m":20837794.324253,
+    "geom:area_square_m":20837794.324252,
     "geom:bbox":"-2.21278013,41.71715984,-2.1245137,41.78470967",
     "geom:latitude":41.74978,
     "geom:longitude":-2.164659,
@@ -168,6 +180,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -176,6 +190,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42176",
+        "eurostat:nuts_2021_id":"42176",
         "gn:id":6361207,
         "gp:id":12692866,
         "qs_pg:id":1188628
@@ -184,7 +200,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"256e20a6f7cc6697e4214e56c7bbc29a",
+    "wof:geomhash":"aae6bd7ed608bf875dd39d62b92d8aa7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -195,10 +211,12 @@
         }
     ],
     "wof:id":404343311,
-    "wof:lastmodified":1582361893,
+    "wof:lastmodified":1684352450,
     "wof:name":"Tajahuerce",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":26,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

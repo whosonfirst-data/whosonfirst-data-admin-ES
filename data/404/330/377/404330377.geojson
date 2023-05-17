@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aljuc\u00e9n",
+    "eurostat:nuts_2021_id":"06009",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06009",
+    "eurostat:population":250,
+    "eurostat:population_year":2020,
     "geom:area":0.001984,
-    "geom:area_square_m":19051517.005935,
+    "geom:area_square_m":19051517.005936,
     "geom:bbox":"-6.36766257,39.03380047,-6.30554624,39.07762758",
     "geom:latitude":39.056649,
     "geom:longitude":-6.333692,
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06009",
+        "eurostat:nuts_2021_id":"06009",
         "gn:id":6355874,
         "gp:id":12694328,
         "qs_pg:id":259332
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c78c7033e5a2a8987efd681ee3cfa980",
+    "wof:geomhash":"086da9d4e74008eb5a1388697791d9c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404330377,
-    "wof:lastmodified":1582361529,
+    "wof:lastmodified":1684352223,
     "wof:name":"Aljuc\u00e9n",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":250,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

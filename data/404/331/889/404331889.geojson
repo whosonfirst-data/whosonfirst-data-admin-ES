@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09141",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fuentespina",
+    "eurostat:nuts_2021_id":"09141",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09141",
+    "eurostat:population":785,
+    "eurostat:population_year":2020,
     "geom:area":0.001299,
     "geom:area_square_m":12010625.589192,
     "geom:bbox":"-3.72373946,41.61124643,-3.65248617,41.64665683",
@@ -108,6 +120,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -115,9 +129,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_09141",
+        "eurostat:nuts_2021_id":"09141"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"eecdce240eda8a957becf6d660e63c83",
+    "wof:geomhash":"fe04845b0edeb7df73ad9e26687d27e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +145,12 @@
         }
     ],
     "wof:id":404331889,
-    "wof:lastmodified":1566589756,
+    "wof:lastmodified":1684352259,
     "wof:name":"Fuentespina",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":785,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

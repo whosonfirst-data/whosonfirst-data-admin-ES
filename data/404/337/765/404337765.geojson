@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25071,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25071",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cava",
+    "eurostat:nuts_2021_id":"25071",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25071",
+    "eurostat:population":45,
+    "eurostat:population_year":2020,
     "geom:area":0.004469,
-    "geom:area_square_m":40863132.203797,
+    "geom:area_square_m":40863132.203798,
     "geom:bbox":"1.56549845844,42.2855887438,1.65889650115,42.3476498085",
     "geom:latitude":42.314936,
     "geom:longitude":1.612988,
@@ -88,6 +100,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -96,7 +110,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25071",
         "esp-icgc:la_lc":"025071",
+        "eurostat:nuts_2021_id":"25071",
         "gp:id":12693970,
         "qs_pg:id":1084497
     },
@@ -105,7 +121,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"14d053568e2a0496f23434e5429fb401",
+    "wof:geomhash":"08f47debe8f41e8ce8284ce553df6236",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +132,12 @@
         }
     ],
     "wof:id":404337765,
-    "wof:lastmodified":1582361550,
+    "wof:lastmodified":1684352359,
     "wof:name":"Cava",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":45,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

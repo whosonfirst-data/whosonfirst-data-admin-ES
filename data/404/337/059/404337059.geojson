@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_23069",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Porcuna",
+    "eurostat:nuts_2021_id":"23069",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES616",
+    "eurostat:nuts_2021_level_lau":"23069",
+    "eurostat:population":6156,
+    "eurostat:population_year":2020,
     "geom:area":0.017974,
-    "geom:area_square_m":175483008.533347,
+    "geom:area_square_m":175483008.533349,
     "geom:bbox":"-4.28764043,37.78273943,-4.10630858,37.92586814",
     "geom:latitude":37.856893,
     "geom:longitude":-4.205377,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_23069",
+        "eurostat:nuts_2021_id":"23069",
         "gn:id":6358518,
         "gp:id":12689159,
         "qs_pg:id":232091
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"72753e4c9d78166cf4ecb936da977481",
+    "wof:geomhash":"62c2331d717b7030139d6a36d6c94f8c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404337059,
-    "wof:lastmodified":1582361572,
+    "wof:lastmodified":1684352347,
     "wof:name":"Porcuna",
     "wof:parent_id":85682757,
     "wof:placetype":"localadmin",
+    "wof:population":6156,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

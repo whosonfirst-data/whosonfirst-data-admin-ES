@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_13034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ciudad Real",
+    "eurostat:nuts_2021_id":"13034",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES422",
+    "eurostat:nuts_2021_level_lau":"13034",
+    "eurostat:population":75504,
+    "eurostat:population_year":2020,
     "geom:area":0.029622,
-    "geom:area_square_m":284766454.728587,
+    "geom:area_square_m":284766454.728585,
     "geom:bbox":"-4.09205919,38.84196199,-3.86538448,39.08112632",
     "geom:latitude":38.97093,
     "geom:longitude":-3.973572,
@@ -183,6 +195,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -191,6 +205,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_13034",
+        "eurostat:nuts_2021_id":"13034",
         "gn:id":6357128,
         "gp:id":12690332,
         "qs_pg:id":1315873
@@ -199,7 +215,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a101b4a8acdd8afee64567db0d05a085",
+    "wof:geomhash":"c87c2ca247b5e9f9d8954a4c59ae7078",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -210,10 +226,12 @@
         }
     ],
     "wof:id":404333485,
-    "wof:lastmodified":1582361762,
+    "wof:lastmodified":1684352279,
     "wof:name":"Ciudad Real",
     "wof:parent_id":85682689,
     "wof:placetype":"localadmin",
+    "wof:population":75504,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

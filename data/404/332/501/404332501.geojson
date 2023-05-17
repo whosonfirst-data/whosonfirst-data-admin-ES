@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09904",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valle de las Navas",
+    "eurostat:nuts_2021_id":"09904",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09904",
+    "eurostat:population":509,
+    "eurostat:population_year":2020,
     "geom:area":0.012242,
-    "geom:area_square_m":111656254.07408,
+    "geom:area_square_m":111656254.074078,
     "geom:bbox":"-3.66387977,42.40968896,-3.51763785,42.5554079",
     "geom:latitude":42.472672,
     "geom:longitude":-3.583373,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09904",
+        "eurostat:nuts_2021_id":"09904",
         "gn:id":6356694,
         "gp:id":12691684,
         "qs_pg:id":954498
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8141944c5204fc43292e5dc8cfc60855",
+    "wof:geomhash":"4bb0eae67f5b2cf1c4fe7932a4b60ffa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332501,
-    "wof:lastmodified":1582361684,
+    "wof:lastmodified":1684352265,
     "wof:name":"Valle De Las Navas",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":509,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

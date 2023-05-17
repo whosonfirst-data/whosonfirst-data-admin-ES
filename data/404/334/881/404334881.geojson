@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17157,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17157",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Andreu Salou",
+    "eurostat:nuts_2021_id":"17157",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17157",
+    "eurostat:population":160,
+    "eurostat:population_year":2020,
     "geom:area":0.000631,
-    "geom:area_square_m":5811769.086563,
+    "geom:area_square_m":5811769.278148,
     "geom:bbox":"2.809791,41.85022,2.840263,41.889631",
     "geom:latitude":41.869583,
     "geom:longitude":2.823234,
@@ -121,6 +133,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -129,7 +143,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17157",
         "esp-icgc:la_lc":"017157",
+        "eurostat:nuts_2021_id":"17157",
         "gn:id":6534119,
         "gp:id":12693832,
         "qs_pg:id":288026
@@ -139,7 +155,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"8b0b978c4038cc625e9c54d3b0702abd",
+    "wof:geomhash":"575deb84f9531882b568060665bb5730",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404334881,
-    "wof:lastmodified":1669903043,
+    "wof:lastmodified":1684352314,
     "wof:name":"Sant Andreu Salou",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":160,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

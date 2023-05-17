@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8034,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calders",
+    "eurostat:nuts_2021_id":"08034",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08034",
+    "eurostat:population":1045,
+    "eurostat:population_year":2020,
     "geom:area":0.003575,
-    "geom:area_square_m":32965399.709909,
+    "geom:area_square_m":32965399.70991,
     "geom:bbox":"1.9038611653,41.7439787159,2.03441638495,41.8025699709",
     "geom:latitude":41.772609,
     "geom:longitude":1.969976,
@@ -124,6 +136,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -132,7 +146,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08034",
         "esp-icgc:la_lc":"08034",
+        "eurostat:nuts_2021_id":"08034",
         "gn:id":6356069,
         "gp:id":12693409,
         "qs_pg:id":354974
@@ -142,7 +158,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"1f6359e3bd665571cadc174be9de97fa",
+    "wof:geomhash":"4c7e8ba79d27e48c77fa1ef64ee1559e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,10 +169,12 @@
         }
     ],
     "wof:id":404330955,
-    "wof:lastmodified":1582361521,
+    "wof:lastmodified":1684352236,
     "wof:name":"Calders",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":1045,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

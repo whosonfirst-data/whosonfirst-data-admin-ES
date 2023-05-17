@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8132,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08132",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montmajor",
+    "eurostat:nuts_2021_id":"08132",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08132",
+    "eurostat:population":469,
+    "eurostat:population_year":2020,
     "geom:area":0.008303,
-    "geom:area_square_m":76286073.577553,
+    "geom:area_square_m":76285993.113558,
     "geom:bbox":"1.644101,41.937314,1.764984,42.158942",
     "geom:latitude":42.007221,
     "geom:longitude":1.707329,
@@ -127,6 +139,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -135,7 +149,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08132",
         "esp-icgc:la_lc":"08132",
+        "eurostat:nuts_2021_id":"08132",
         "gn:id":6356161,
         "gp:id":12693513,
         "qs_pg:id":1123025
@@ -145,7 +161,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"79416edbd9532f56537d24993b071f01",
+    "wof:geomhash":"ef8918f69e1e5960a39d0070d474f115",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404331175,
-    "wof:lastmodified":1669903005,
+    "wof:lastmodified":1684352243,
     "wof:name":"Montmajor",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":469,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

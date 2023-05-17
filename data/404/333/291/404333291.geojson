@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12091",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Portell de Morella",
+    "eurostat:nuts_2021_id":"12091",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12091",
+    "eurostat:population":188,
+    "eurostat:population_year":2020,
     "geom:area":0.005251,
-    "geom:area_square_m":49340034.295963,
+    "geom:area_square_m":49340034.295962,
     "geom:bbox":"-0.30186217,40.47364416,-0.22611731,40.6007156",
     "geom:latitude":40.539491,
     "geom:longitude":-0.268011,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12091",
+        "eurostat:nuts_2021_id":"12091",
         "gn:id":6357041,
         "gp:id":12695490,
         "qs_pg:id":49356
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8721487abd1adf5c6f22fa4121a63bcd",
+    "wof:geomhash":"8aaef492af09ce8125846cfc34086b81",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404333291,
-    "wof:lastmodified":1582361780,
+    "wof:lastmodified":1684352277,
     "wof:name":"Portell De Morella",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":188,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

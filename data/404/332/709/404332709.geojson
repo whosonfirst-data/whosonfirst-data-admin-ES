@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10090",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Guijo de Granadilla",
+    "eurostat:nuts_2021_id":"10090",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10090",
+    "eurostat:population":522,
+    "eurostat:population_year":2020,
     "geom:area":0.007935,
-    "geom:area_square_m":74948969.301734,
+    "geom:area_square_m":74948969.301736,
     "geom:bbox":"-6.20954081,40.13105625,-6.06483102,40.24470933",
     "geom:latitude":40.19477,
     "geom:longitude":-6.141515,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227383
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_10090",
+        "eurostat:nuts_2021_id":"10090"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"7677cfc9b4e5cec3ecace18e5a2ea1f3",
+    "wof:geomhash":"a83e4e347dba042ebedc9c703f91b06c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404332709,
-    "wof:lastmodified":1566590480,
+    "wof:lastmodified":1684352268,
     "wof:name":"Guijo De Granadilla",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":522,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

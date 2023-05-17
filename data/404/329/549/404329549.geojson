@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03135",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vall d'Ebo, la",
+    "eurostat:nuts_2021_id":"03135",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03135",
+    "eurostat:population":218,
+    "eurostat:population_year":2020,
     "geom:area":0.003362,
     "geom:area_square_m":32402764.730051,
     "geom:bbox":"-0.21302909,38.76968354,-0.12371625,38.83448924",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227381
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_03135",
+        "eurostat:nuts_2021_id":"03135"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"7624e92d62c163648b77b3774f8a906d",
+    "wof:geomhash":"60adc708b48960e53d07b086f6c5395c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404329549,
-    "wof:lastmodified":1566590902,
+    "wof:lastmodified":1684352211,
     "wof:name":"La Vall D'Ebo",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":218,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

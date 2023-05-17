@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03058",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cox",
+    "eurostat:nuts_2021_id":"03058",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03058",
+    "eurostat:population":7386,
+    "eurostat:population_year":2020,
     "geom:area":0.001723,
-    "geom:area_square_m":16756471.72249,
+    "geom:area_square_m":16756471.722492,
     "geom:bbox":"-0.93052987,38.12134988,-0.85840767,38.16620254",
     "geom:latitude":38.143753,
     "geom:longitude":-0.899867,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03058",
+        "eurostat:nuts_2021_id":"03058",
         "gn:id":6355434,
         "gp:id":12695323,
         "qs_pg:id":1056522
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a15d991ba02edcbe5314658f09aee0f2",
+    "wof:geomhash":"2aef45a8a2494571071b9ac834033b64",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404329381,
-    "wof:lastmodified":1582361804,
+    "wof:lastmodified":1684352209,
     "wof:name":"Cox",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":7386,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

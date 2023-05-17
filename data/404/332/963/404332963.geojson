@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10203",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valencia de Alc\u00e1ntara",
+    "eurostat:nuts_2021_id":"10203",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10203",
+    "eurostat:population":5373,
+    "eurostat:population_year":2020,
     "geom:area":0.062237,
-    "geom:area_square_m":594318251.597158,
+    "geom:area_square_m":594318251.597175,
     "geom:bbox":"-7.39213896,39.26569821,-7.00926691,39.62230667",
     "geom:latitude":39.441261,
     "geom:longitude":-7.215404,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10203",
+        "eurostat:nuts_2021_id":"10203",
         "gn:id":6356898,
         "gp:id":12694685,
         "qs_pg:id":1068523
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1277ff4719dcfb3eb61b2fce461dc9c8",
+    "wof:geomhash":"be7bc93228bc82dd824c0ca1cdc8707c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332963,
-    "wof:lastmodified":1582361677,
+    "wof:lastmodified":1684352271,
     "wof:name":"Valencia De Alc\u00e1ntara",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":5373,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

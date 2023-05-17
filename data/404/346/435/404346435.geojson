@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49135",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Muelas del Pan",
+    "eurostat:nuts_2021_id":"49135",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49135",
+    "eurostat:population":615,
+    "eurostat:population_year":2020,
     "geom:area":0.007835,
-    "geom:area_square_m":72510812.615858,
+    "geom:area_square_m":72510812.615854,
     "geom:bbox":"-6.08581979,41.49061477,-5.91068447,41.60323272",
     "geom:latitude":41.547235,
     "geom:longitude":-5.994689,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_49135",
+        "eurostat:nuts_2021_id":"49135",
         "gn:id":6362572,
         "gp:id":12693251,
         "qs_pg:id":238812
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e93346a0d6414d4f74a9b86c8cd7cc30",
+    "wof:geomhash":"12579b7f6619ae62ab844e4ae249383d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404346435,
-    "wof:lastmodified":1582361619,
+    "wof:lastmodified":1684352499,
     "wof:name":"Muelas Del Pan",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":615,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

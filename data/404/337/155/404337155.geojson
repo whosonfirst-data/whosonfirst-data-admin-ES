@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ba\u00f1eza, La",
+    "eurostat:nuts_2021_id":"24010",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24010",
+    "eurostat:population":10290,
+    "eurostat:population_year":2020,
     "geom:area":0.002152,
-    "geom:area_square_m":19684760.615977,
+    "geom:area_square_m":19684760.615978,
     "geom:bbox":"-5.93920486,42.26771808,-5.87204512,42.31989597",
     "geom:latitude":42.292747,
     "geom:longitude":-5.906278,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_24010",
+        "eurostat:nuts_2021_id":"24010",
         "gn:id":6358561,
         "gp:id":12691756,
         "qs_pg:id":621729
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3f0216fff2b68b3d1640009287d56948",
+    "wof:geomhash":"baed5004087c98eb58b92c94b413d538",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404337155,
-    "wof:lastmodified":1582361567,
+    "wof:lastmodified":1684352349,
     "wof:name":"La Ba\u00f1eza",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":10290,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

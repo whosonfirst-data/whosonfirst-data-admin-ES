@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10155",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Riolobos",
+    "eurostat:nuts_2021_id":"10155",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10155",
+    "eurostat:population":1201,
+    "eurostat:population_year":2020,
     "geom:area":0.005213,
-    "geom:area_square_m":49438662.032545,
+    "geom:area_square_m":49438662.032542,
     "geom:bbox":"-6.40518632,39.8786099,-6.26960201,39.95708351",
     "geom:latitude":39.924034,
     "geom:longitude":-6.333064,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10155",
+        "eurostat:nuts_2021_id":"10155",
         "gn:id":6356850,
         "gp:id":12694636,
         "qs_pg:id":242553
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ec8d1999044bcb6397f2a5f27dda7263",
+    "wof:geomhash":"11bbf78363eceed538ae609b8c1689ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404332855,
-    "wof:lastmodified":1582361690,
+    "wof:lastmodified":1684352270,
     "wof:name":"Riolobos",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":1201,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

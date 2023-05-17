@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":43045,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43045",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Colldejou",
+    "eurostat:nuts_2021_id":"43045",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43045",
+    "eurostat:population":168,
+    "eurostat:population_year":2020,
     "geom:area":0.001545,
     "geom:area_square_m":14399758.176413,
     "geom:bbox":"0.826597913284,41.082046019,0.913154721252,41.1222711499",
@@ -115,6 +127,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -123,7 +137,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43045",
         "esp-icgc:la_lc":"043045",
+        "eurostat:nuts_2021_id":"43045",
         "gn:id":6361288,
         "gp:id":12694183,
         "qs_pg:id":47709
@@ -133,7 +149,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f8031add9b9375b08e0217b571eab1c1",
+    "wof:geomhash":"1dcc9eb7aa728772a8119358fe425221",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404343493,
-    "wof:lastmodified":1582361888,
+    "wof:lastmodified":1684352454,
     "wof:name":"Colldejou",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":168,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

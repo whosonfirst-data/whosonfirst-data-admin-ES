@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47191",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Velliza",
+    "eurostat:nuts_2021_id":"47191",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47191",
+    "eurostat:population":112,
+    "eurostat:population_year":2020,
     "geom:area":0.002445,
-    "geom:area_square_m":22614624.664208,
+    "geom:area_square_m":22614624.664207,
     "geom:bbox":"-4.9874893,41.55146313,-4.90829042,41.6175818",
     "geom:latitude":41.582812,
     "geom:longitude":-4.949692,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_47191",
+        "eurostat:nuts_2021_id":"47191",
         "gn:id":6362313,
         "gp:id":12693088,
         "qs_pg:id":1149334
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d8cef0f54258465f2ea7be1d1e485d90",
+    "wof:geomhash":"abc69c5de7f4789be4e8f05818e4bcd7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404345815,
-    "wof:lastmodified":1582361836,
+    "wof:lastmodified":1684352490,
     "wof:name":"Velliza",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":112,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

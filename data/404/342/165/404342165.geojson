@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_39055",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Potes",
+    "eurostat:nuts_2021_id":"39055",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES13",
+    "eurostat:nuts_2021_level_3":"ES130",
+    "eurostat:nuts_2021_level_lau":"39055",
+    "eurostat:population":1332,
+    "eurostat:population_year":2020,
     "geom:area":0.000842,
     "geom:area_square_m":7595102.803524,
     "geom:bbox":"-4.644889,43.13238059,-4.6086465,43.17234241",
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_39055",
+        "eurostat:nuts_2021_id":"39055",
         "gn:id":6360700,
         "gp:id":12688576,
         "qs_pg:id":1055720
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"74a0f7214f63c225e595c89eee01f1a3",
+    "wof:geomhash":"f36061a511a2225654ddd22fe2477325",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404342165,
-    "wof:lastmodified":1582361815,
+    "wof:lastmodified":1684352436,
     "wof:name":"Potes",
     "wof:parent_id":85682833,
     "wof:placetype":"localadmin",
+    "wof:population":1332,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

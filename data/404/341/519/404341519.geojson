@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37200",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montejo",
+    "eurostat:nuts_2021_id":"37200",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37200",
+    "eurostat:population":205,
+    "eurostat:population_year":2020,
     "geom:area":0.003099,
-    "geom:area_square_m":29075331.946923,
+    "geom:area_square_m":29075331.946924,
     "geom:bbox":"-5.67612843,40.6142994,-5.58349462,40.68710388",
     "geom:latitude":40.645511,
     "geom:longitude":-5.62321,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37200",
+        "eurostat:nuts_2021_id":"37200",
         "gn:id":6360442,
         "gp:id":12692334,
         "qs_pg:id":1148751
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1ace7590ff116b1d2181aa3fad40195d",
+    "wof:geomhash":"743042d8ab6dccba0ae984639f254bb8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404341519,
-    "wof:lastmodified":1582361631,
+    "wof:lastmodified":1684352425,
     "wof:name":"Montejo",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":205,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

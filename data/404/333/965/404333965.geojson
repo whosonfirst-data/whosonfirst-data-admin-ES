@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15070",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pontes de Garc\u00eda Rodr\u00edguez, As",
+    "eurostat:nuts_2021_id":"15070",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15070",
+    "eurostat:population":10068,
+    "eurostat:population_year":2020,
     "geom:area":0.027787,
-    "geom:area_square_m":249385944.104081,
+    "geom:area_square_m":249385944.104082,
     "geom:bbox":"-8.01358547,43.37025482,-7.74353541,43.5705121",
     "geom:latitude":43.463755,
     "geom:longitude":-7.873094,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_15070",
+        "eurostat:nuts_2021_id":"15070",
         "gn:id":6357338,
         "gp:id":12694772,
         "qs_pg:id":621617
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3463f5b7f9c9f4ed442b76f8404815ab",
+    "wof:geomhash":"068a99241883453218beac5a172c807e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404333965,
-    "wof:lastmodified":1582361759,
+    "wof:lastmodified":1684352290,
     "wof:name":"As Pontes De Garc\u00eda Rodr\u00edguez",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":10068,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

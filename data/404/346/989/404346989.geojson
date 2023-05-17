@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50126",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Illueca",
+    "eurostat:nuts_2021_id":"50126",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50126",
+    "eurostat:population":2809,
+    "eurostat:population_year":2020,
     "geom:area":0.002682,
-    "geom:area_square_m":24826323.434031,
+    "geom:area_square_m":24826323.43403,
     "geom:bbox":"-1.67718996,41.50601057,-1.59106805,41.57294556",
     "geom:latitude":41.536427,
     "geom:longitude":-1.629353,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50126",
+        "eurostat:nuts_2021_id":"50126",
         "gn:id":6362816,
         "gp:id":12689956,
         "qs_pg:id":199680
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"576821a552d6d3452d53354da004a990",
+    "wof:geomhash":"18df63f39d86e0e31452149c69756bca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404346989,
-    "wof:lastmodified":1582361621,
+    "wof:lastmodified":1684352505,
     "wof:name":"Illueca",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":2809,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

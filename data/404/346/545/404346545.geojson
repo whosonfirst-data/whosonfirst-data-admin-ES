@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49188",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Esteban del Molar",
+    "eurostat:nuts_2021_id":"49188",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49188",
+    "eurostat:population":122,
+    "eurostat:population_year":2020,
     "geom:area":0.002717,
-    "geom:area_square_m":24992231.430156,
+    "geom:area_square_m":24992231.430155,
     "geom:bbox":"-5.60779141,41.90984101,-5.51688961,41.97052298",
     "geom:latitude":41.938452,
     "geom:longitude":-5.557162,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_49188",
+        "eurostat:nuts_2021_id":"49188"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"84ce45f2dac22b50190144f8ff8ebc7c",
+    "wof:geomhash":"b384176e59f8d337e0ee3be36f81c56b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404346545,
-    "wof:lastmodified":1566590253,
+    "wof:lastmodified":1684352500,
     "wof:name":"San Esteban Del Molar",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":122,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

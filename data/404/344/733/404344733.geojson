@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45176",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ugena",
+    "eurostat:nuts_2021_id":"45176",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45176",
+    "eurostat:population":5467,
+    "eurostat:population_year":2020,
     "geom:area":0.001598,
-    "geom:area_square_m":15099257.978913,
+    "geom:area_square_m":15099257.978914,
     "geom:bbox":"-3.90353477,40.14234615,-3.84083801,40.19122187",
     "geom:latitude":40.165885,
     "geom:longitude":-3.873968,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45176",
+        "eurostat:nuts_2021_id":"45176",
         "gn:id":6361836,
         "gp:id":12691098,
         "qs_pg:id":905395
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c1dc1d52b60ee177af7e591fcc91fc34",
+    "wof:geomhash":"6d81c5943423db18d160f2bc12aa4581",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404344733,
-    "wof:lastmodified":1582361852,
+    "wof:lastmodified":1684352478,
     "wof:name":"Ugena",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":5467,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

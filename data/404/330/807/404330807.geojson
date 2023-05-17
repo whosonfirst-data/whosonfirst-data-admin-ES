@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_07035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Maria de la Salut",
+    "eurostat:nuts_2021_id":"07035",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES53",
+    "eurostat:nuts_2021_level_3":"ES532",
+    "eurostat:nuts_2021_level_lau":"07035",
+    "eurostat:population":2245,
+    "eurostat:population_year":2020,
     "geom:area":0.003204,
-    "geom:area_square_m":30493319.530716,
+    "geom:area_square_m":30493319.530715,
     "geom:bbox":"3.036557,39.65422703,3.16611911,39.70293237",
     "geom:latitude":39.674458,
     "geom:longitude":3.094527,
@@ -42,6 +54,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -50,6 +64,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_07035",
+        "eurostat:nuts_2021_id":"07035",
         "gn:id":6533956,
         "gp:id":12687741,
         "qs_pg:id":204457
@@ -58,7 +74,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"10adfc26828dfbf0193f64d03a83c28b",
+    "wof:geomhash":"054073418716dd95b30856900a4a8dbf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +85,12 @@
         }
     ],
     "wof:id":404330807,
-    "wof:lastmodified":1582361538,
+    "wof:lastmodified":1684352231,
     "wof:name":"Maria De La Salut",
     "wof:parent_id":85682647,
     "wof:placetype":"localadmin",
+    "wof:population":2245,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Avellaneda",
+    "eurostat:nuts_2021_id":"05018",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05018",
+    "eurostat:population":26,
+    "eurostat:population_year":2020,
     "geom:area":0.001085,
     "geom:area_square_m":10221609.368759,
     "geom:bbox":"-5.41589772,40.37293462,-5.35889315,40.40153956",
@@ -132,6 +144,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -140,6 +154,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05018",
+        "eurostat:nuts_2021_id":"05018",
         "gn:id":6355631,
         "gp:id":12691139,
         "qs_pg:id":46125
@@ -148,7 +164,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"70baccd87f99f6fa316f9ad63a4f2b8a",
+    "wof:geomhash":"04f5acd1e11cf46d35d22cde0dcb124d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,10 +175,12 @@
         }
     ],
     "wof:id":404329827,
-    "wof:lastmodified":1582361789,
+    "wof:lastmodified":1684352216,
     "wof:name":"Avellaneda",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":26,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

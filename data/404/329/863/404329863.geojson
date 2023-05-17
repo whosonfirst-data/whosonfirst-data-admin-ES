@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05038",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bonilla de la Sierra",
+    "eurostat:nuts_2021_id":"05038",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05038",
+    "eurostat:population":125,
+    "eurostat:population_year":2020,
     "geom:area":0.005853,
-    "geom:area_square_m":54994975.180474,
+    "geom:area_square_m":54994975.180469,
     "geom:bbox":"-5.30309756,40.49753796,-5.18621625,40.62586675",
     "geom:latitude":40.548504,
     "geom:longitude":-5.250079,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05038",
+        "eurostat:nuts_2021_id":"05038",
         "gn:id":6355647,
         "gp:id":12691155,
         "qs_pg:id":1165478
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9493c038d9f100f1498d86492319bf78",
+    "wof:geomhash":"27f1af2802465dc2faadf2ff0b0a0a78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404329863,
-    "wof:lastmodified":1582361802,
+    "wof:lastmodified":1684352216,
     "wof:name":"Bonilla De La Sierra",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":125,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

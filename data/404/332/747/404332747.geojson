@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10107",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jerte",
+    "eurostat:nuts_2021_id":"10107",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10107",
+    "eurostat:population":1260,
+    "eurostat:population_year":2020,
     "geom:area":0.006237,
-    "geom:area_square_m":58887137.072854,
+    "geom:area_square_m":58887137.072857,
     "geom:bbox":"-5.80034867,40.17057819,-5.68992771,40.28898096",
     "geom:latitude":40.222454,
     "geom:longitude":-5.743297,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10107",
+        "eurostat:nuts_2021_id":"10107",
         "gn:id":6356802,
         "gp:id":12694588,
         "qs_pg:id":1102840
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f2df25ab0f0eade9e823c76033f1ed40",
+    "wof:geomhash":"bba080d33d0d5bf4f83fb9b09e7cd183",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404332747,
-    "wof:lastmodified":1582361683,
+    "wof:lastmodified":1684352268,
     "wof:name":"Jerte",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":1260,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

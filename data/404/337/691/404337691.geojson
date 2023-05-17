@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25035,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sentiu de Si\u00f3, La",
+    "eurostat:nuts_2021_id":"25035",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25035",
+    "eurostat:population":414,
+    "eurostat:population_year":2020,
     "geom:area":0.003201,
-    "geom:area_square_m":29503658.126205,
+    "geom:area_square_m":29503621.368373,
     "geom:bbox":"0.826699,41.768542,0.927357,41.831315",
     "geom:latitude":41.803615,
     "geom:longitude":0.878361,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25035",
         "esp-icgc:la_lc":"025035",
+        "eurostat:nuts_2021_id":"25035",
         "gn:id":6358792,
         "gp:id":12694087,
         "qs_pg:id":245413
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"d1ccc0e453c27d3f2d2f96bf4ce5b589",
+    "wof:geomhash":"b8874e57e39c7af965d045e6223432fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404337691,
-    "wof:lastmodified":1669903028,
+    "wof:lastmodified":1684352356,
     "wof:name":"La Sentiu de Si\u00f3",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":414,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

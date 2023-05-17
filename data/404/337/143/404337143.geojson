@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Almanza",
+    "eurostat:nuts_2021_id":"24004",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24004",
+    "eurostat:population":581,
+    "eurostat:population_year":2020,
     "geom:area":0.015593,
-    "geom:area_square_m":141762664.522606,
+    "geom:area_square_m":141762664.522604,
     "geom:bbox":"-5.11130317,42.59110373,-4.91103786,42.75785948",
     "geom:latitude":42.671723,
     "geom:longitude":-5.00996,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_24004",
+        "eurostat:nuts_2021_id":"24004",
         "gn:id":6358555,
         "gp:id":12691750,
         "qs_pg:id":1147721
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9eae3a314b5a40b1e24659db5d9eb4aa",
+    "wof:geomhash":"161013145d8ce7e44407bf013c0b7c38",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404337143,
-    "wof:lastmodified":1582361562,
+    "wof:lastmodified":1684352349,
     "wof:name":"Almanza",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":581,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

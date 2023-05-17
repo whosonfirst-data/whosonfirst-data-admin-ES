@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43009,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alforja",
+    "eurostat:nuts_2021_id":"43009",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43009",
+    "eurostat:population":1783,
+    "eurostat:population_year":2020,
     "geom:area":0.004126,
-    "geom:area_square_m":38385114.282701,
+    "geom:area_square_m":38385114.282699,
     "geom:bbox":"0.876967403783,41.1782470715,1.01738639263,41.2401025709",
     "geom:latitude":41.205227,
     "geom:longitude":0.961335,
@@ -118,6 +130,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -126,7 +140,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43009",
         "esp-icgc:la_lc":"043009",
+        "eurostat:nuts_2021_id":"43009",
         "gn:id":6361252,
         "gp:id":12694146,
         "qs_pg:id":1198010
@@ -136,7 +152,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f0db96c520b5fc50a1db70b4cd832d01",
+    "wof:geomhash":"b648e97fadc4021f537749807f4c107b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404343413,
-    "wof:lastmodified":1582361867,
+    "wof:lastmodified":1684352451,
     "wof:name":"Alforja",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":1783,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_36031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mondariz-Balneario",
+    "eurostat:nuts_2021_id":"36031",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES114",
+    "eurostat:nuts_2021_level_lau":"36031",
+    "eurostat:population":637,
+    "eurostat:population_year":2020,
     "geom:area":0.000252,
     "geom:area_square_m":2303405.834583,
     "geom:bbox":"-8.48526502,42.21064157,-8.45773796,42.22876822",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_36031",
+        "eurostat:nuts_2021_id":"36031",
         "gn:id":6360232,
         "gp:id":12694985,
         "qs_pg:id":1315512
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9899ab5c35a4f0b7b5b16ddadaca40aa",
+    "wof:geomhash":"8de3d600df9e7a4d30d801fe25822bd4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404341031,
-    "wof:lastmodified":1582361629,
+    "wof:lastmodified":1684352419,
     "wof:name":"Mondariz-Balneario",
     "wof:parent_id":85682825,
     "wof:placetype":"localadmin",
+    "wof:population":637,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

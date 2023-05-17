@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19247",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Salmer\u00f3n",
+    "eurostat:nuts_2021_id":"19247",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19247",
+    "eurostat:population":140,
+    "eurostat:population_year":2020,
     "geom:area":0.003869,
     "geom:area_square_m":36351394.472731,
     "geom:bbox":"-2.52723534,40.50881005,-2.43536984,40.57843484",
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19247",
+        "eurostat:nuts_2021_id":"19247",
         "gn:id":6358015,
         "gp:id":12690845,
         "qs_pg:id":45988
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a7dfa25e4ca2e31afd873bf0e2da2d83",
+    "wof:geomhash":"19a2a96ab441b2bb3d3ea3d8e211cb57",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404335907,
-    "wof:lastmodified":1582361694,
+    "wof:lastmodified":1684352331,
     "wof:name":"Salmer\u00f3n",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":140,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17007,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Amer",
+    "eurostat:nuts_2021_id":"17007",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17007",
+    "eurostat:population":2332,
+    "eurostat:population_year":2020,
     "geom:area":0.00434,
-    "geom:area_square_m":39869690.896513,
+    "geom:area_square_m":39869747.470744,
     "geom:bbox":"2.544178,41.975853,2.664068,42.050005",
     "geom:latitude":42.010457,
     "geom:longitude":2.601697,
@@ -64,6 +76,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -72,7 +86,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17007",
         "esp-icgc:la_lc":"017007",
+        "eurostat:nuts_2021_id":"17007",
         "gn:id":6534007,
         "gp:id":12693691,
         "qs_pg:id":191269
@@ -82,7 +98,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c7a284ac84875a71d5c270c408683663",
+    "wof:geomhash":"2770220087200b5a007e237d34859648",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,10 +109,12 @@
         }
     ],
     "wof:id":404334571,
-    "wof:lastmodified":1669903054,
+    "wof:lastmodified":1684352299,
     "wof:name":"Amer",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":2332,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25250,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25250",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vilanova de Mei\u00e0",
+    "eurostat:nuts_2021_id":"25250",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25250",
+    "eurostat:population":415,
+    "eurostat:population_year":2020,
     "geom:area":0.011382,
-    "geom:area_square_m":104601109.933996,
+    "geom:area_square_m":104601096.307939,
     "geom:bbox":"0.868449,41.9307,1.102324,42.036373",
     "geom:latitude":41.993006,
     "geom:longitude":1.007554,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25250",
         "esp-icgc:la_lc":"025250",
+        "eurostat:nuts_2021_id":"25250",
         "gn:id":6358972,
         "gp:id":12694133,
         "qs_pg:id":47674
@@ -67,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"71e2259d66558a983bc2528871712100",
+    "wof:geomhash":"ff5404f8aaa82770afbdf652976433ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404338099,
-    "wof:lastmodified":1669902992,
+    "wof:lastmodified":1684352370,
     "wof:name":"Vilanova de Mei\u00e0",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":415,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

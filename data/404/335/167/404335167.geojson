@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18061",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chimeneas",
+    "eurostat:nuts_2021_id":"18061",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18061",
+    "eurostat:population":1251,
+    "eurostat:population_year":2020,
     "geom:area":0.009159,
-    "geom:area_square_m":90297413.452034,
+    "geom:area_square_m":90297413.452036,
     "geom:bbox":"-3.93841078,37.06965105,-3.74766198,37.1601834",
     "geom:latitude":37.122071,
     "geom:longitude":-3.844572,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18061",
+        "eurostat:nuts_2021_id":"18061",
         "gn:id":6357689,
         "gp:id":12688891,
         "qs_pg:id":289875
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"450b11044a758ad6648b6bb99daf61b1",
+    "wof:geomhash":"9bd4f8cea7d1db33aa6dcef9cc0d4498",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404335167,
-    "wof:lastmodified":1582361695,
+    "wof:lastmodified":1684352321,
     "wof:name":"Chimeneas",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":1251,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

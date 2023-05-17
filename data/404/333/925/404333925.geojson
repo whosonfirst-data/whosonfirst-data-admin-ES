@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15052",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mux\u00eda",
+    "eurostat:nuts_2021_id":"15052",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15052",
+    "eurostat:population":4596,
+    "eurostat:population_year":2020,
     "geom:area":0.013512,
-    "geom:area_square_m":122078142.266883,
+    "geom:area_square_m":122078142.26686,
     "geom:bbox":"-9.30151567,43.00182734,-9.09272198,43.12988583",
     "geom:latitude":43.057841,
     "geom:longitude":-9.193044,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_15052",
+        "eurostat:nuts_2021_id":"15052",
         "gn:id":6357321,
         "gp:id":12694755,
         "qs_pg:id":1198251
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0891c207167ba2b2ee853ba2d5d8a7bd",
+    "wof:geomhash":"1961c28bd6998fd575912da8bb51ddf3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404333925,
-    "wof:lastmodified":1582361772,
+    "wof:lastmodified":1684352289,
     "wof:name":"Mux\u00eda",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":4596,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

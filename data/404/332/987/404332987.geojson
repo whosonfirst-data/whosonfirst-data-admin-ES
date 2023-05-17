@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10213",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villar del Pedroso",
+    "eurostat:nuts_2021_id":"10213",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10213",
+    "eurostat:population":582,
+    "eurostat:population_year":2020,
     "geom:area":0.025438,
-    "geom:area_square_m":242181419.035817,
+    "geom:area_square_m":242181419.035806,
     "geom:bbox":"-5.40302939,39.47599811,-5.1377938,39.79994952",
     "geom:latitude":39.650572,
     "geom:longitude":-5.256939,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10213",
+        "eurostat:nuts_2021_id":"10213",
         "gn:id":6356908,
         "gp:id":12694696,
         "qs_pg:id":1095268
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bf13b36f09d71f60b61eb0077c1c1f5b",
+    "wof:geomhash":"5e81e6a7968c356ae82fa4dff1eac5be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332987,
-    "wof:lastmodified":1582361691,
+    "wof:lastmodified":1684352272,
     "wof:name":"Villar Del Pedroso",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":582,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

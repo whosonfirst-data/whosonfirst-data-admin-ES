@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48913",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zierbena",
+    "eurostat:nuts_2021_id":"48913",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48913",
+    "eurostat:population":1520,
+    "eurostat:population_year":2020,
     "geom:area":0.001092,
-    "geom:area_square_m":9821601.921388,
+    "geom:area_square_m":9821601.921387,
     "geom:bbox":"-3.11735072,43.33066001,-3.04759258,43.37793059",
     "geom:latitude":43.348463,
     "geom:longitude":-3.091525,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_48913",
+        "eurostat:nuts_2021_id":"48913",
         "gn:id":6362447,
         "gp:id":12695265,
         "qs_pg:id":48377
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"28278f7938d12b30bd4c7fcdd9a596d9",
+    "wof:geomhash":"71b062b4e15f3e042b3e5acc37e6c4b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404346151,
-    "wof:lastmodified":1582361608,
+    "wof:lastmodified":1684352496,
     "wof:name":"Zierbena",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":1520,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

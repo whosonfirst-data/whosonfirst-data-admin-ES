@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25248,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25248",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vilanova de Bellpuig",
+    "eurostat:nuts_2021_id":"25248",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25248",
+    "eurostat:population":1183,
+    "eurostat:population_year":2020,
     "geom:area":0.001502,
-    "geom:area_square_m":13887297.94891,
+    "geom:area_square_m":13887318.582108,
     "geom:bbox":"0.922822,41.579363,0.978224,41.6296",
     "geom:latitude":41.60169,
     "geom:longitude":0.955161,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25248",
         "esp-icgc:la_lc":"025248",
+        "eurostat:nuts_2021_id":"25248",
         "gn:id":6358970,
         "gp:id":12694130,
         "qs_pg:id":30321
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"6452953573a3942f12d3730e347f3245",
+    "wof:geomhash":"2a210aacac00ab4d01051b420e817dfa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404338093,
-    "wof:lastmodified":1669902995,
+    "wof:lastmodified":1684352370,
     "wof:name":"Vilanova de Bellpuig",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":1183,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

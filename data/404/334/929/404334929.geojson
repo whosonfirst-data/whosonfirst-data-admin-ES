@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17178,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17178",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Pere Pescador",
+    "eurostat:nuts_2021_id":"17178",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17178",
+    "eurostat:population":2090,
+    "eurostat:population_year":2020,
     "geom:area":0.001999,
-    "geom:area_square_m":18310892.474475,
+    "geom:area_square_m":18310869.594446,
     "geom:bbox":"3.060613,42.141348,3.116656,42.218226",
     "geom:latitude":42.186575,
     "geom:longitude":3.091676,
@@ -133,6 +145,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -141,7 +155,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17178",
         "esp-icgc:la_lc":"017178",
+        "eurostat:nuts_2021_id":"17178",
         "gn:id":6534138,
         "gp:id":12693855,
         "qs_pg:id":1317400
@@ -151,7 +167,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"a140be9a8f08971eb89c126d117edcfe",
+    "wof:geomhash":"430b51071de59cff76387c1391de5dee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -162,10 +178,12 @@
         }
     ],
     "wof:id":404334929,
-    "wof:lastmodified":1669903054,
+    "wof:lastmodified":1684352315,
     "wof:name":"Sant Pere Pescador",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":2090,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45119",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Numancia de la Sagra",
+    "eurostat:nuts_2021_id":"45119",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45119",
+    "eurostat:population":4985,
+    "eurostat:population_year":2020,
     "geom:area":0.003128,
-    "geom:area_square_m":29599421.268933,
+    "geom:area_square_m":29599421.268931,
     "geom:bbox":"-3.87899538,40.05282775,-3.76445262,40.10123701",
     "geom:latitude":40.077342,
     "geom:longitude":-3.828236,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45119",
+        "eurostat:nuts_2021_id":"45119",
         "gn:id":6361779,
         "gp:id":12691040,
         "qs_pg:id":204645
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c5e33d7719ac797461ebc9dde68af93b",
+    "wof:geomhash":"5c69a087947c8f8ca93cf05c7aac5017",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404344605,
-    "wof:lastmodified":1582361848,
+    "wof:lastmodified":1684352476,
     "wof:name":"Numancia De La Sagra",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":4985,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

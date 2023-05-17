@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_14067",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villafranca de C\u00f3rdoba",
+    "eurostat:nuts_2021_id":"14067",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES613",
+    "eurostat:nuts_2021_level_lau":"14067",
+    "eurostat:population":4860,
+    "eurostat:population_year":2020,
     "geom:area":0.005994,
-    "geom:area_square_m":58436489.059771,
+    "geom:area_square_m":58436489.05977,
     "geom:bbox":"-4.60147448,37.89615441,-4.5118075,38.006163",
     "geom:latitude":37.95476,
     "geom:longitude":-4.556505,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227361
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_14067",
+        "eurostat:nuts_2021_id":"14067"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"34875a6d2ea3f3c7646a0319cea68587",
+    "wof:geomhash":"4b40df29be3b42e017aab1164528dc01",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404333789,
-    "wof:lastmodified":1566590833,
+    "wof:lastmodified":1684352284,
     "wof:name":"Villafranca De C\u00f3rdoba",
     "wof:parent_id":85682697,
     "wof:placetype":"localadmin",
+    "wof:population":4860,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

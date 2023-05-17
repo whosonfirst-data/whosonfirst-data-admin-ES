@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43095,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43095",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Morell, El",
+    "eurostat:nuts_2021_id":"43095",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43095",
+    "eurostat:population":3742,
+    "eurostat:population_year":2020,
     "geom:area":0.000638,
-    "geom:area_square_m":5936304.216583,
+    "geom:area_square_m":5936354.371153,
     "geom:bbox":"1.173209,41.188779,1.233831,41.218755",
     "geom:latitude":41.200681,
     "geom:longitude":1.215944,
@@ -128,6 +140,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -136,7 +150,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43095",
         "esp-icgc:la_lc":"043095",
+        "eurostat:nuts_2021_id":"43095",
         "gn:id":6361337,
         "gp:id":12694232,
         "qs_pg:id":491915
@@ -146,7 +162,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"02656eb9a6d960b263fd748316146274",
+    "wof:geomhash":"e81113d03069a1cae7596a9599d52cfb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +173,12 @@
         }
     ],
     "wof:id":404343605,
-    "wof:lastmodified":1669903063,
+    "wof:lastmodified":1684352458,
     "wof:name":"El Morell",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":3742,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

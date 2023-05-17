@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46243",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torrella",
+    "eurostat:nuts_2021_id":"46243",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46243",
+    "eurostat:population":145,
+    "eurostat:population_year":2020,
     "geom:area":0.000119,
-    "geom:area_square_m":1143593.346197,
+    "geom:area_square_m":1143593.346198,
     "geom:bbox":"-0.6084849,38.97804161,-0.55509474,38.99347257",
     "geom:latitude":38.987339,
     "geom:longitude":-0.57375,
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46243",
+        "eurostat:nuts_2021_id":"46243",
         "gn:id":6362108,
         "gp:id":12695782,
         "qs_pg:id":48642
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b0e3cc260f1fc488be8c6305eca74dfa",
+    "wof:geomhash":"a6e30728e0e4a1862c2f24546602803c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404345345,
-    "wof:lastmodified":1582361840,
+    "wof:lastmodified":1684352485,
     "wof:name":"Torrella",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":145,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

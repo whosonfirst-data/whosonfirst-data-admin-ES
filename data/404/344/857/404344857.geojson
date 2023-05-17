@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alfarp",
+    "eurostat:nuts_2021_id":"46026",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46026",
+    "eurostat:population":1571,
+    "eurostat:population_year":2020,
     "geom:area":0.002148,
-    "geom:area_square_m":20560959.043694,
+    "geom:area_square_m":20560959.043693,
     "geom:bbox":"-0.56652872,39.25961304,-0.4828014,39.31093956",
     "geom:latitude":39.282572,
     "geom:longitude":-0.523109,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46026",
+        "eurostat:nuts_2021_id":"46026",
         "gn:id":6361891,
         "gp:id":12695566,
         "qs_pg:id":270566
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"14e74b7f0a492eb53982ce4f154c8be5",
+    "wof:geomhash":"85d0007a0f4125eccaaab6014fb68ea4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404344857,
-    "wof:lastmodified":1582361847,
+    "wof:lastmodified":1684352479,
     "wof:name":"Alfarp",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":1571,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

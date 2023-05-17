@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arganda del Rey",
+    "eurostat:nuts_2021_id":"28014",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28014",
+    "eurostat:population":56678,
+    "eurostat:population_year":2020,
     "geom:area":0.008507,
-    "geom:area_square_m":80238138.270238,
+    "geom:area_square_m":80238138.270241,
     "geom:bbox":"-3.51979788,40.24837789,-3.36974588,40.35228874",
     "geom:latitude":40.292369,
     "geom:longitude":-3.445494,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28014",
+        "eurostat:nuts_2021_id":"28014",
         "gn:id":6359240,
         "gp:id":12687959,
         "qs_pg:id":901114
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9c1dc9b370fb6bdeec4f875131080953",
+    "wof:geomhash":"a16d37c9d4878e6160198bbcb71a0189",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404338715,
-    "wof:lastmodified":1582361441,
+    "wof:lastmodified":1684352380,
     "wof:name":"Arganda Del Rey",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":56678,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

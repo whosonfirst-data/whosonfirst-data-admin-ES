@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Amorebieta-Etxano",
+    "eurostat:nuts_2021_id":"48003",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48003",
+    "eurostat:population":19529,
+    "eurostat:population_year":2020,
     "geom:area":0.006519,
     "geom:area_square_m":58742588.106394,
     "geom:bbox":"-2.78246671,43.15624877,-2.66626489,43.27537641",
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_48003",
+        "eurostat:nuts_2021_id":"48003",
         "gn:id":6362354,
         "gp:id":12695159,
         "qs_pg:id":240820
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9587f59a7ad9e24b21a3a92638e65517",
+    "wof:geomhash":"ce480438a74904e628118908eeac31a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404345911,
-    "wof:lastmodified":1582361839,
+    "wof:lastmodified":1684352491,
     "wof:name":"Amorebieta-Etxano",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":19529,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

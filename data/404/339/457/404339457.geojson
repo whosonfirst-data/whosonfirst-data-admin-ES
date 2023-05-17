@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"All\u00edn / Allin",
+    "eurostat:nuts_2021_id":"31011",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31011",
+    "eurostat:population":874,
+    "eurostat:population_year":2020,
     "geom:area":0.004599,
-    "geom:area_square_m":41783420.456741,
+    "geom:area_square_m":41783420.456739,
     "geom:bbox":"-2.12641971,42.65762108,-2.04348206,42.75745709",
     "geom:latitude":42.711714,
     "geom:longitude":-2.082316,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227391
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_31011",
+        "eurostat:nuts_2021_id":"31011"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"b501688589df17a5f2fefc36253f39e0",
+    "wof:geomhash":"6a37308b23b4ac168974c07fa2749fb7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404339457,
-    "wof:lastmodified":1566590133,
+    "wof:lastmodified":1684352395,
     "wof:name":"All\u00edn/Allin",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":874,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

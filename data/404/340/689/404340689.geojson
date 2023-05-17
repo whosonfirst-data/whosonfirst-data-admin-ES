@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_34132",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Poblaci\u00f3n de Campos",
+    "eurostat:nuts_2021_id":"34132",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES414",
+    "eurostat:nuts_2021_level_lau":"34132",
+    "eurostat:population":131,
+    "eurostat:population_year":2020,
     "geom:area":0.002538,
-    "geom:area_square_m":23222981.161287,
+    "geom:area_square_m":23222981.161289,
     "geom:bbox":"-4.50116905,42.22339719,-4.41643798,42.3116493",
     "geom:latitude":42.265073,
     "geom:longitude":-4.457135,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_34132",
+        "eurostat:nuts_2021_id":"34132",
         "gn:id":6360083,
         "gp:id":12692063,
         "qs_pg:id":1188549
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dcc02ad2428b2233e60f3b7213eefd1b",
+    "wof:geomhash":"3025054bc9697fcf36239c21d9318c54",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404340689,
-    "wof:lastmodified":1582361649,
+    "wof:lastmodified":1684352411,
     "wof:name":"Poblaci\u00f3n De Campos",
     "wof:parent_id":85682815,
     "wof:placetype":"localadmin",
+    "wof:population":131,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arroyo de la Encomienda",
+    "eurostat:nuts_2021_id":"47010",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47010",
+    "eurostat:population":20537,
+    "eurostat:population_year":2020,
     "geom:area":0.001288,
-    "geom:area_square_m":11909073.645428,
+    "geom:area_square_m":11909073.645429,
     "geom:bbox":"-4.82903622,41.6050209,-4.76168868,41.63651119",
     "geom:latitude":41.622121,
     "geom:longitude":-4.796943,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_47010",
+        "eurostat:nuts_2021_id":"47010",
         "gp:id":12692912,
         "qs_pg:id":1084413
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7d89072b57f495f0d636597a1d62ff3f",
+    "wof:geomhash":"f90f551fa5c13ec633c39c0bc8ba7cf7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404345419,
-    "wof:lastmodified":1582361835,
+    "wof:lastmodified":1684352486,
     "wof:name":"Arroyo De La Encomienda",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":20537,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

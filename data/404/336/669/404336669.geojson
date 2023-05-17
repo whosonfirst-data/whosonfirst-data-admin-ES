@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22116",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gra\u00f1\u00e9n",
+    "eurostat:nuts_2021_id":"22116",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22116",
+    "eurostat:population":1738,
+    "eurostat:population_year":2020,
     "geom:area":0.013456,
-    "geom:area_square_m":123798666.919544,
+    "geom:area_square_m":123798666.919542,
     "geom:bbox":"-0.42802531,41.84258912,-0.24766047,42.01121997",
     "geom:latitude":41.923539,
     "geom:longitude":-0.354544,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22116",
+        "eurostat:nuts_2021_id":"22116",
         "gn:id":6358348,
         "gp:id":12689490,
         "qs_pg:id":45327
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"978e7e22bca4c4fb33e242d85966df3f",
+    "wof:geomhash":"5473384c3e4edc6a0d154c0d93d10de8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404336669,
-    "wof:lastmodified":1582361464,
+    "wof:lastmodified":1684352342,
     "wof:name":"Gra\u00f1\u00e9n",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":1738,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

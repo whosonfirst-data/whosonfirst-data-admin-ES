@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8182,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08182",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pont de Vilomara i Rocafort, El",
+    "eurostat:nuts_2021_id":"08182",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08182",
+    "eurostat:population":3907,
+    "eurostat:population_year":2020,
     "geom:area":0.002961,
-    "geom:area_square_m":27336801.045424,
+    "geom:area_square_m":27336755.371637,
     "geom:bbox":"1.867337,41.677162,1.94935,41.732679",
     "geom:latitude":41.704142,
     "geom:longitude":1.907039,
@@ -48,6 +60,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -56,13 +70,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"08182"
+        "eg:gisco_id":"ES_08182",
+        "esp-icgc:la_lc":"08182",
+        "eurostat:nuts_2021_id":"08182"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"76e4d8b2fa7fc527ebba475809582f2b",
+    "wof:geomhash":"6ba720df2242b454c47ac7f6b57ee388",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,10 +89,12 @@
         }
     ],
     "wof:id":404331285,
-    "wof:lastmodified":1669903009,
+    "wof:lastmodified":1684352247,
     "wof:name":"El Pont de Vilomara i Rocafort",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":3907,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

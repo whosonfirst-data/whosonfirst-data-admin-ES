@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17098,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17098",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mai\u00e0 de Montcal",
+    "eurostat:nuts_2021_id":"17098",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17098",
+    "eurostat:population":463,
+    "eurostat:population_year":2020,
     "geom:area":0.001879,
-    "geom:area_square_m":17208221.22287,
+    "geom:area_square_m":17208188.810498,
     "geom:bbox":"2.718211,42.186502,2.779181,42.23474",
     "geom:latitude":42.210977,
     "geom:longitude":2.749062,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17098",
         "esp-icgc:la_lc":"017098",
+        "eurostat:nuts_2021_id":"17098",
         "gn:id":6534082,
         "gp:id":12693781,
         "qs_pg:id":1149544
@@ -67,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b647557b65f0bd57c0cc6c5c3134cffb",
+    "wof:geomhash":"d800c8710e08d1cb3c341d03b6873b08",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404334763,
-    "wof:lastmodified":1669903039,
+    "wof:lastmodified":1684352308,
     "wof:name":"Mai\u00e0 de Montcal",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":463,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

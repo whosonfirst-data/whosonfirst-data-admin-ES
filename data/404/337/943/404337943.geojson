@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25166,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25166",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pinell de Solson\u00e8s",
+    "eurostat:nuts_2021_id":"25166",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25166",
+    "eurostat:population":193,
+    "eurostat:population_year":2020,
     "geom:area":0.009837,
-    "geom:area_square_m":90464120.728245,
+    "geom:area_square_m":90464195.951819,
     "geom:bbox":"1.290196,41.889232,1.46789,41.994844",
     "geom:latitude":41.951701,
     "geom:longitude":1.368561,
@@ -48,6 +60,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -56,13 +70,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"025166"
+        "eg:gisco_id":"ES_25166",
+        "esp-icgc:la_lc":"025166",
+        "eurostat:nuts_2021_id":"25166"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a194de98e5787318eb93d20e11e7270d",
+    "wof:geomhash":"6aba2f17b7a9e2bd8cf69218d489590f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,10 +89,12 @@
         }
     ],
     "wof:id":404337943,
-    "wof:lastmodified":1669903030,
+    "wof:lastmodified":1684352365,
     "wof:name":"Pinell de Solson\u00e8s",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":193,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

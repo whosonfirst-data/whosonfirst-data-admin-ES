@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10083",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Garv\u00edn",
+    "eurostat:nuts_2021_id":"10083",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10083",
+    "eurostat:population":104,
+    "eurostat:population_year":2020,
     "geom:area":0.00402,
-    "geom:area_square_m":38232021.445559,
+    "geom:area_square_m":38232021.445561,
     "geom:bbox":"-5.40926901,39.67061041,-5.3155665,39.77121808",
     "geom:latitude":39.715923,
     "geom:longitude":-5.350176,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10083",
+        "eurostat:nuts_2021_id":"10083",
         "gn:id":6356779,
         "gp:id":12694564,
         "qs_pg:id":47999
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"97852cd4ee4b1b5098cfcb8c9760a05d",
+    "wof:geomhash":"966428d2d647a3a37bc97c621f8b766d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332693,
-    "wof:lastmodified":1582361681,
+    "wof:lastmodified":1684352268,
     "wof:name":"Garv\u00edn",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":104,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

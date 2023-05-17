@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_30026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mazarr\u00f3n",
+    "eurostat:nuts_2021_id":"30026",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES62",
+    "eurostat:nuts_2021_level_3":"ES620",
+    "eurostat:nuts_2021_level_lau":"30026",
+    "eurostat:population":32839,
+    "eurostat:population_year":2020,
     "geom:area":0.032514,
-    "geom:area_square_m":318444640.778816,
+    "geom:area_square_m":318444640.778819,
     "geom:bbox":"-1.4757606,37.51763143,-1.20861042,37.72412177",
     "geom:latitude":37.620993,
     "geom:longitude":-1.352172,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_30026",
+        "eurostat:nuts_2021_id":"30026",
         "gn:id":6359531,
         "gp:id":12688151,
         "qs_pg:id":539256
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5057c5e89538e9c03c4fb9d3c472720d",
+    "wof:geomhash":"4ad97d5f329fe07c8556b062ecf18288",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404339377,
-    "wof:lastmodified":1582361587,
+    "wof:lastmodified":1684352393,
     "wof:name":"Mazarr\u00f3n",
     "wof:parent_id":85682791,
     "wof:placetype":"localadmin",
+    "wof:population":32839,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09306",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rebolledo de la Torre",
+    "eurostat:nuts_2021_id":"09306",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09306",
+    "eurostat:population":106,
+    "eurostat:population_year":2020,
     "geom:area":0.005548,
     "geom:area_square_m":50428897.021244,
     "geom:bbox":"-4.29317137,42.65169957,-4.14780257,42.7388912",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09306",
+        "eurostat:nuts_2021_id":"09306",
         "gn:id":6356560,
         "gp:id":12691610,
         "qs_pg:id":1311042
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"318d0f7dfc976aa9e6a51cc56b4fdad1",
+    "wof:geomhash":"dd3a43ef7c767aa6885fe461f4816061",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332185,
-    "wof:lastmodified":1582361693,
+    "wof:lastmodified":1684352262,
     "wof:name":"Rebolledo De La Torre",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":106,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

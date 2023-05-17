@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25104,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Granyena de Segarra",
+    "eurostat:nuts_2021_id":"25104",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25104",
+    "eurostat:population":151,
+    "eurostat:population_year":2020,
     "geom:area":0.001791,
-    "geom:area_square_m":16560216.735038,
+    "geom:area_square_m":16560218.242235,
     "geom:bbox":"1.165435,41.604578,1.261024,41.638755",
     "geom:latitude":41.620071,
     "geom:longitude":1.22052,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25104",
         "esp-icgc:la_lc":"025104",
+        "eurostat:nuts_2021_id":"25104",
         "gn:id":6358852,
         "gp:id":12694001,
         "qs_pg:id":955122
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"538eebbebb3e1ae05e48127e5976d035",
+    "wof:geomhash":"46a7987acc9a890053253cdfa5145fc5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404337827,
-    "wof:lastmodified":1669903020,
+    "wof:lastmodified":1684352361,
     "wof:name":"Granyena de Segarra",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":151,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

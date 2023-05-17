@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_34068",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dehesa de Romanos",
+    "eurostat:nuts_2021_id":"34068",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES414",
+    "eurostat:nuts_2021_level_lau":"34068",
+    "eurostat:population":61,
+    "eurostat:population_year":2020,
     "geom:area":0.002299,
-    "geom:area_square_m":20912428.128503,
+    "geom:area_square_m":20912428.128502,
     "geom:bbox":"-4.48666548,42.61991518,-4.39802983,42.65582428",
     "geom:latitude":42.638227,
     "geom:longitude":-4.44232,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_34068",
+        "eurostat:nuts_2021_id":"34068",
         "gn:id":6360032,
         "gp:id":12692010,
         "qs_pg:id":1148183
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7bbcd134580f0cdcf75fc13fdf158b3e",
+    "wof:geomhash":"b195aeb3af5ceeb434bf7349eec9197b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404340573,
-    "wof:lastmodified":1582361656,
+    "wof:lastmodified":1684352410,
     "wof:name":"Dehesa De Romanos",
     "wof:parent_id":85682815,
     "wof:placetype":"localadmin",
+    "wof:population":61,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

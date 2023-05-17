@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Felix",
+    "eurostat:nuts_2021_id":"04043",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04043",
+    "eurostat:population":636,
+    "eurostat:population_year":2020,
     "geom:area":0.008213,
-    "geom:area_square_m":81239575.864898,
+    "geom:area_square_m":81239575.864902,
     "geom:bbox":"-2.77656698,36.81883611,-2.63063194,36.92442114",
     "geom:latitude":36.876317,
     "geom:longitude":-2.698803,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_04043",
+        "eurostat:nuts_2021_id":"04043",
         "gn:id":6355555,
         "gp:id":12688664,
         "qs_pg:id":209517
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"09c233130e0ab9bf2c09592daa06840b",
+    "wof:geomhash":"d536224c6e576fb2819e40d79a73741b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404329657,
-    "wof:lastmodified":1582361793,
+    "wof:lastmodified":1684352213,
     "wof:name":"Felix",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":636,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

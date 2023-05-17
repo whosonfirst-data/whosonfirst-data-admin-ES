@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19176",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mazuecos",
+    "eurostat:nuts_2021_id":"19176",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19176",
+    "eurostat:population":266,
+    "eurostat:population_year":2020,
     "geom:area":0.002517,
-    "geom:area_square_m":23749928.224998,
+    "geom:area_square_m":23749928.224997,
     "geom:bbox":"-3.08360959,40.23184848,-2.97555131,40.29943814",
     "geom:latitude":40.262231,
     "geom:longitude":-3.019648,
@@ -96,6 +108,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -103,9 +117,12 @@
         404227375
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_19176",
+        "eurostat:nuts_2021_id":"19176"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"396180dcae9e50b388f06e222f961ee5",
+    "wof:geomhash":"5e0e39995ab7a7bbc4984548aacc5b42",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +133,12 @@
         }
     ],
     "wof:id":404335759,
-    "wof:lastmodified":1566590591,
+    "wof:lastmodified":1684352329,
     "wof:name":"Mazuecos",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":266,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19222",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pobo de Due\u00f1as, El",
+    "eurostat:nuts_2021_id":"19222",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19222",
+    "eurostat:population":108,
+    "eurostat:population_year":2020,
     "geom:area":0.005899,
     "geom:area_square_m":55219999.136112,
     "geom:bbox":"-1.68559345,40.74579455,-1.55335476,40.84986169",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19222",
+        "eurostat:nuts_2021_id":"19222",
         "gn:id":6357991,
         "gp:id":12690821,
         "qs_pg:id":621654
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c7ec58bae9969211ca615be59d115546",
+    "wof:geomhash":"01d297abca9ab9f04304beafe634af5d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404335853,
-    "wof:lastmodified":1582361709,
+    "wof:lastmodified":1684352330,
     "wof:name":"El Pobo De Due\u00f1as",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":108,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

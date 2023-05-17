@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31213",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sald\u00edas",
+    "eurostat:nuts_2021_id":"31213",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31213",
+    "eurostat:population":116,
+    "eurostat:population_year":2020,
     "geom:area":0.000989,
     "geom:area_square_m":8934333.526151,
     "geom:bbox":"-1.79483406,43.05984631,-1.75450222,43.11380081",
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31213",
+        "eurostat:nuts_2021_id":"31213",
         "gn:id":6359761,
         "gp:id":12688393,
         "qs_pg:id":496853
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c7998fde2a1cd4fd0c400825b868ed43",
+    "wof:geomhash":"f7bedcd4cba9f04a2448e4b82499cc08",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404339937,
-    "wof:lastmodified":1582361581,
+    "wof:lastmodified":1684352400,
     "wof:name":"Sald\u00edas",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":116,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

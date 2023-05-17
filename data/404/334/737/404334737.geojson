@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17086,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17086",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jonquera, La",
+    "eurostat:nuts_2021_id":"17086",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17086",
+    "eurostat:population":3320,
+    "eurostat:population_year":2020,
     "geom:area":0.006306,
-    "geom:area_square_m":57548441.789401,
+    "geom:area_square_m":57548441.7894,
     "geom:bbox":"2.81748907208,42.3861476371,2.98831847556,42.4821193327",
     "geom:latitude":42.439584,
     "geom:longitude":2.903272,
@@ -148,6 +160,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -156,7 +170,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17086",
         "esp-icgc:la_lc":"017086",
+        "eurostat:nuts_2021_id":"17086",
         "gn:id":6534071,
         "gp:id":12693767,
         "qs_pg:id":1197881
@@ -166,7 +182,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"258f38fd09892bed5e7dbd5a6b202fbd",
+    "wof:geomhash":"d1793e7840def26916228b4569de40f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,10 +193,12 @@
         }
     ],
     "wof:id":404334737,
-    "wof:lastmodified":1582361717,
+    "wof:lastmodified":1684352306,
     "wof:name":"La Jonquera",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":3320,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

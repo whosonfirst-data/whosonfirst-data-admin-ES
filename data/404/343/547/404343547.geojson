@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43069,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43069",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gratallops",
+    "eurostat:nuts_2021_id":"43069",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43069",
+    "eurostat:population":237,
+    "eurostat:population_year":2020,
     "geom:area":0.001448,
-    "geom:area_square_m":13476197.807551,
+    "geom:area_square_m":13476197.807552,
     "geom:bbox":"0.745678632252,41.1691436198,0.804635424677,41.218002296",
     "geom:latitude":41.19128,
     "geom:longitude":0.772465,
@@ -118,6 +130,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -126,7 +140,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43069",
         "esp-icgc:la_lc":"043069",
+        "eurostat:nuts_2021_id":"43069",
         "gn:id":6361312,
         "gp:id":12694207,
         "qs_pg:id":891503
@@ -136,7 +152,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3e9dfa2052784951dc7391e881fccd7e",
+    "wof:geomhash":"e061af857f1ababfa80c8bf9ac0d6d6b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404343547,
-    "wof:lastmodified":1582361893,
+    "wof:lastmodified":1684352456,
     "wof:name":"Gratallops",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":237,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

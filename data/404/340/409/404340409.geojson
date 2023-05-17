@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_33058",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Riosa",
+    "eurostat:nuts_2021_id":"33058",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES12",
+    "eurostat:nuts_2021_level_3":"ES120",
+    "eurostat:nuts_2021_level_lau":"33058",
+    "eurostat:population":1848,
+    "eurostat:population_year":2020,
     "geom:area":0.00515,
-    "geom:area_square_m":46406596.277448,
+    "geom:area_square_m":46406596.277447,
     "geom:bbox":"-5.94792142,43.16704939,-5.84267402,43.25075993",
     "geom:latitude":43.213948,
     "geom:longitude":-5.891961,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_33058",
+        "eurostat:nuts_2021_id":"33058",
         "gp:id":12688500,
         "qs_pg:id":325402
     },
@@ -126,7 +142,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1dc03aa94ca2299e1dd800d68bdfeeed",
+    "wof:geomhash":"a93a7ddaefeb28065e1143717d7acde0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404340409,
-    "wof:lastmodified":1582361652,
+    "wof:lastmodified":1684352408,
     "wof:name":"Riosa",
     "wof:parent_id":85682805,
     "wof:placetype":"localadmin",
+    "wof:population":1848,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

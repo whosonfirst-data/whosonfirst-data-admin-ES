@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40170",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Riaza",
+    "eurostat:nuts_2021_id":"40170",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40170",
+    "eurostat:population":2117,
+    "eurostat:population_year":2020,
     "geom:area":0.016072,
-    "geom:area_square_m":149299764.341127,
+    "geom:area_square_m":149299764.341123,
     "geom:bbox":"-3.59383684,41.21562403,-3.27526439,41.36530682",
     "geom:latitude":41.298935,
     "geom:longitude":-3.395987,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_40170",
+        "eurostat:nuts_2021_id":"40170",
         "gn:id":6360893,
         "gp:id":12692663,
         "qs_pg:id":499371
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1b7f99cab13ac6242a071afde633eb09",
+    "wof:geomhash":"6af554ad3b1bce8915b2142162174ee2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404342601,
-    "wof:lastmodified":1582361821,
+    "wof:lastmodified":1684352441,
     "wof:name":"Riaza",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":2117,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

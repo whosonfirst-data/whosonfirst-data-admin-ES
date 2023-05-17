@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bernuy de Porreros",
+    "eurostat:nuts_2021_id":"40031",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40031",
+    "eurostat:population":766,
+    "eurostat:population_year":2020,
     "geom:area":0.000992,
     "geom:area_square_m":9259604.771101,
     "geom:bbox":"-4.13268443,40.97810017,-4.09586942,41.02191666",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_40031",
+        "eurostat:nuts_2021_id":"40031"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"cc5adecbff24993fa15aca66abc2a334",
+    "wof:geomhash":"9b74161db7bb07f47a676b1357533129",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404342333,
-    "wof:lastmodified":1566590956,
+    "wof:lastmodified":1684352438,
     "wof:name":"Bernuy De Porreros",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":766,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

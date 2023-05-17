@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25069,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25069",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castell\u00f3 de Farfanya",
+    "eurostat:nuts_2021_id":"25069",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25069",
+    "eurostat:population":539,
+    "eurostat:population_year":2020,
     "geom:area":0.005702,
-    "geom:area_square_m":52548728.651788,
+    "geom:area_square_m":52548765.836907,
     "geom:bbox":"0.670934,41.767167,0.768914,41.852812",
     "geom:latitude":41.813764,
     "geom:longitude":0.717364,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25069",
         "esp-icgc:la_lc":"025069",
+        "eurostat:nuts_2021_id":"25069",
         "gn:id":6358823,
         "gp:id":12693968,
         "qs_pg:id":499435
@@ -67,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1bec7d50fceba6e331969f7330bf8777",
+    "wof:geomhash":"8743f247e2d1a78bc35d6d1c76ef68d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404337761,
-    "wof:lastmodified":1669903026,
+    "wof:lastmodified":1684352359,
     "wof:name":"Castell\u00f3 de Farfanya",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":539,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

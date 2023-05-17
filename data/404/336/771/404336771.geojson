@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22184",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pole\u00f1ino",
+    "eurostat:nuts_2021_id":"22184",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22184",
+    "eurostat:population":210,
+    "eurostat:population_year":2020,
     "geom:area":0.00358,
-    "geom:area_square_m":32969539.642935,
+    "geom:area_square_m":32969539.642936,
     "geom:bbox":"-0.3639223,41.81603407,-0.277534,41.88990649",
     "geom:latitude":41.856042,
     "geom:longitude":-0.322774,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22184",
+        "eurostat:nuts_2021_id":"22184",
         "gn:id":6358392,
         "gp:id":12689537,
         "qs_pg:id":953905
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"345f9f0e7af9c74a0534652098711374",
+    "wof:geomhash":"b0335c2e17aa43742c4e6c691d03125b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404336771,
-    "wof:lastmodified":1582361467,
+    "wof:lastmodified":1684352343,
     "wof:name":"Pole\u00f1ino",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":210,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

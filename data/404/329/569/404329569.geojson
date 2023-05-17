@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03904",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Isidro",
+    "eurostat:nuts_2021_id":"03904",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03904",
+    "eurostat:population":2103,
+    "eurostat:population_year":2020,
     "geom:area":0.000698,
     "geom:area_square_m":6781119.426251,
     "geom:bbox":"-0.85897734,38.16303119,-0.82048737,38.19988441",
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03904",
+        "eurostat:nuts_2021_id":"03904",
         "gn:id":6355517,
         "qs_pg:id":1037066
     },
@@ -108,7 +124,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7de593cb3e907e17aaadf7538b513e22",
+    "wof:geomhash":"b2e2f972dfe3af1474be36aca4dbbe6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +135,12 @@
         }
     ],
     "wof:id":404329569,
-    "wof:lastmodified":1582361787,
+    "wof:lastmodified":1684352211,
     "wof:name":"San Isidro",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":2103,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

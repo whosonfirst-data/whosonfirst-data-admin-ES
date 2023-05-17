@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46135",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Godella",
+    "eurostat:nuts_2021_id":"46135",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46135",
+    "eurostat:population":13131,
+    "eurostat:population_year":2020,
     "geom:area":0.00088,
-    "geom:area_square_m":8395707.432291,
+    "geom:area_square_m":8395707.432292,
     "geom:bbox":"-0.45000252,39.51058823,-0.39919572,39.56113582",
     "geom:latitude":39.535666,
     "geom:longitude":-0.426775,
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46135",
+        "eurostat:nuts_2021_id":"46135",
         "gn:id":6362000,
         "gp:id":12695673,
         "qs_pg:id":1163753
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"282093a5dd705ef57acbb080bae02bf6",
+    "wof:geomhash":"2c4a8cb0750138b407b43115f3416396",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404345103,
-    "wof:lastmodified":1582361825,
+    "wof:lastmodified":1684352482,
     "wof:name":"Godella",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":13131,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

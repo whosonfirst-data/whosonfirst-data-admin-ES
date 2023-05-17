@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45073",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Herreruela de Oropesa",
+    "eurostat:nuts_2021_id":"45073",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45073",
+    "eurostat:population":327,
+    "eurostat:population_year":2020,
     "geom:area":0.00111,
-    "geom:area_square_m":10533119.740088,
+    "geom:area_square_m":10533119.740087,
     "geom:bbox":"-5.25941682,39.86046738,-5.22203954,39.92754245",
     "geom:latitude":39.896215,
     "geom:longitude":-5.241209,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45073",
+        "eurostat:nuts_2021_id":"45073",
         "gn:id":6361733,
         "gp:id":12690994,
         "qs_pg:id":1172570
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8311e5235afd553f43537c0287dd8403",
+    "wof:geomhash":"75b9e23e12018061dc770fd395fdc9bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404344501,
-    "wof:lastmodified":1582361852,
+    "wof:lastmodified":1684352474,
     "wof:name":"Herreruela De Oropesa",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":327,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

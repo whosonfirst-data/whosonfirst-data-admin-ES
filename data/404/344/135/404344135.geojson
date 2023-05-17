@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44165",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nogueruelas",
+    "eurostat:nuts_2021_id":"44165",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44165",
+    "eurostat:population":210,
+    "eurostat:population_year":2020,
     "geom:area":0.010531,
-    "geom:area_square_m":99384290.416213,
+    "geom:area_square_m":99384290.416212,
     "geom:bbox":"-0.69319522,40.18147386,-0.54789883,40.31809936",
     "geom:latitude":40.254309,
     "geom:longitude":-0.617051,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44165",
+        "eurostat:nuts_2021_id":"44165",
         "gn:id":6361571,
         "gp:id":12689743,
         "qs_pg:id":1315234
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8864301d0fc4ab3368bf4efb034d0544",
+    "wof:geomhash":"e0a6e988b66bdced4bc1248a1061adca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404344135,
-    "wof:lastmodified":1582361843,
+    "wof:lastmodified":1684352470,
     "wof:name":"Nogueruelas",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":210,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aldaia",
+    "eurostat:nuts_2021_id":"46021",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46021",
+    "eurostat:population":32204,
+    "eurostat:population_year":2020,
     "geom:area":0.00168,
     "geom:area_square_m":16036685.27145,
     "geom:bbox":"-0.55092865,39.44195405,-0.43977637,39.47790364",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46021",
+        "eurostat:nuts_2021_id":"46021",
         "gn:id":6361886,
         "gp:id":12695562,
         "qs_pg:id":1311135
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5832547a52d8ac91cb7071dbaf8906a2",
+    "wof:geomhash":"e5fc8450de13e5584f8e10061273f16e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404344847,
-    "wof:lastmodified":1582361855,
+    "wof:lastmodified":1684352479,
     "wof:name":"Aldaia",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":32204,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

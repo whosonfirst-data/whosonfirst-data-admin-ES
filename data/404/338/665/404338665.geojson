@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_27060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Taboada",
+    "eurostat:nuts_2021_id":"27060",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES112",
+    "eurostat:nuts_2021_level_lau":"27060",
+    "eurostat:population":2716,
+    "eurostat:population_year":2020,
     "geom:area":0.016118,
-    "geom:area_square_m":146431353.426489,
+    "geom:area_square_m":146431353.426493,
     "geom:bbox":"-7.87688226,42.6555249,-7.65324123,42.78568188",
     "geom:latitude":42.718235,
     "geom:longitude":-7.760081,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_27060",
+        "eurostat:nuts_2021_id":"27060",
         "gn:id":6359218,
         "gp:id":12694854,
         "qs_pg:id":332800
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2023ffcdae6b107d520595e5c0a282cd",
+    "wof:geomhash":"57e21da75e239fc82c76e5112ee50b8f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404338665,
-    "wof:lastmodified":1582361452,
+    "wof:lastmodified":1684352379,
     "wof:name":"Taboada",
     "wof:parent_id":85682775,
     "wof:placetype":"localadmin",
+    "wof:population":2716,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

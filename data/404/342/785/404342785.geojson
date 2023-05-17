@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_41019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Burguillos",
+    "eurostat:nuts_2021_id":"41019",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES618",
+    "eurostat:nuts_2021_level_lau":"41019",
+    "eurostat:population":6766,
+    "eurostat:population_year":2020,
     "geom:area":0.004402,
-    "geom:area_square_m":43123338.531844,
+    "geom:area_square_m":43123338.531846,
     "geom:bbox":"-6.00220677,37.55651162,-5.91871361,37.63884569",
     "geom:latitude":37.600393,
     "geom:longitude":-5.959031,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_41019",
+        "eurostat:nuts_2021_id":"41019",
         "gn:id":6360974,
         "gp:id":12689309,
         "qs_pg:id":204586
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"61cef7903ed4a671c2c3d6f39f0c7e80",
+    "wof:geomhash":"897c09306742986f03afe8fdfbf59948",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404342785,
-    "wof:lastmodified":1582361813,
+    "wof:lastmodified":1684352443,
     "wof:name":"Burguillos",
     "wof:parent_id":85682841,
     "wof:placetype":"localadmin",
+    "wof:population":6766,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

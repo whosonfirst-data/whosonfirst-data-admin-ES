@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06052",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fuente de Cantos",
+    "eurostat:nuts_2021_id":"06052",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06052",
+    "eurostat:population":4687,
+    "eurostat:population_year":2020,
     "geom:area":0.025905,
-    "geom:area_square_m":251618561.636412,
+    "geom:area_square_m":251618561.636414,
     "geom:bbox":"-6.41355419,38.14314508,-6.11825309,38.30166859",
     "geom:latitude":38.231337,
     "geom:longitude":-6.291762,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06052",
+        "eurostat:nuts_2021_id":"06052",
         "gn:id":6355917,
         "gp:id":12694371,
         "qs_pg:id":491916
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ee387ebaafab16ca8b468344191bca38",
+    "wof:geomhash":"b11ad3f589ff7f704c1054246ae1021b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330473,
-    "wof:lastmodified":1582361537,
+    "wof:lastmodified":1684352224,
     "wof:name":"Fuente De Cantos",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":4687,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

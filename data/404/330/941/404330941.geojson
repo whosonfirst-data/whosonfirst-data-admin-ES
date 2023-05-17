@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8028,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cabrera d'Anoia",
+    "eurostat:nuts_2021_id":"08028",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08028",
+    "eurostat:population":1482,
+    "eurostat:population_year":2020,
     "geom:area":0.001843,
-    "geom:area_square_m":17068842.103392,
+    "geom:area_square_m":17068838.836125,
     "geom:bbox":"1.67944,41.458739,1.753257,41.523002",
     "geom:latitude":41.4889,
     "geom:longitude":1.710495,
@@ -56,6 +68,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -64,7 +78,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08028",
         "esp-icgc:la_lc":"08028",
+        "eurostat:nuts_2021_id":"08028",
         "gn:id":6356064,
         "qs_pg:id":355828
     },
@@ -73,7 +89,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f8f37d664bec95932ee6bd0370dfd1b2",
+    "wof:geomhash":"845c58007a3415960e0cc012882afacf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +100,12 @@
         }
     ],
     "wof:id":404330941,
-    "wof:lastmodified":1669903015,
+    "wof:lastmodified":1684352236,
     "wof:name":"Cabrera d'Anoia",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":1482,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

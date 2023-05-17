@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43038,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43038",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cambrils",
+    "eurostat:nuts_2021_id":"43038",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43038",
+    "eurostat:population":34734,
+    "eurostat:population_year":2020,
     "geom:area":0.003774,
-    "geom:area_square_m":35171535.745363,
+    "geom:area_square_m":35171535.745365,
     "geom:bbox":"0.985406002718,41.0518997745,1.11781338512,41.1152395905",
     "geom:latitude":41.08237,
     "geom:longitude":1.042042,
@@ -154,6 +166,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -162,7 +176,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43038",
         "esp-icgc:la_lc":"043038",
+        "eurostat:nuts_2021_id":"43038",
         "gn:id":6361281,
         "gp:id":12694177,
         "qs_pg:id":47708
@@ -172,7 +188,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"0994714ec6ec05e384adf531c32be86a",
+    "wof:geomhash":"9c3843d9a31474b08aec3bb898bd258e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -183,10 +199,12 @@
         }
     ],
     "wof:id":404343479,
-    "wof:lastmodified":1582361869,
+    "wof:lastmodified":1684352454,
     "wof:name":"Cambrils",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":34734,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

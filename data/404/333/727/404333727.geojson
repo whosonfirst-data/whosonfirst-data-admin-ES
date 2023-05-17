@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_14039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Luque",
+    "eurostat:nuts_2021_id":"14039",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES613",
+    "eurostat:nuts_2021_level_lau":"14039",
+    "eurostat:population":2976,
+    "eurostat:population_year":2020,
     "geom:area":0.014353,
-    "geom:area_square_m":140698298.689721,
+    "geom:area_square_m":140698298.689725,
     "geom:bbox":"-4.32349272,37.48501061,-4.15782441,37.6272258",
     "geom:latitude":37.556457,
     "geom:longitude":-4.238516,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_14039",
+        "eurostat:nuts_2021_id":"14039",
         "gn:id":6357234,
         "gp:id":12688810,
         "qs_pg:id":223867
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b8062fd365051bd791818d7f52a4e83b",
+    "wof:geomhash":"bfb5b4fcec0e00ebc559979bdb6625b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404333727,
-    "wof:lastmodified":1582361786,
+    "wof:lastmodified":1684352283,
     "wof:name":"Luque",
     "wof:parent_id":85682697,
     "wof:placetype":"localadmin",
+    "wof:population":2976,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

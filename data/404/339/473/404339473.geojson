@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Anue",
+    "eurostat:nuts_2021_id":"31017",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31017",
+    "eurostat:population":481,
+    "eurostat:population_year":2020,
     "geom:area":0.00678,
-    "geom:area_square_m":61343257.335891,
+    "geom:area_square_m":61343257.335889,
     "geom:bbox":"-1.65035944,42.91059773,-1.54975604,43.04343975",
     "geom:latitude":42.971218,
     "geom:longitude":-1.588785,
@@ -96,6 +108,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -103,9 +117,12 @@
         404227391
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_31017",
+        "eurostat:nuts_2021_id":"31017"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"2976bb832d0d941524ed4c26bffc64a0",
+    "wof:geomhash":"3ae56c51b78cbeff6dc2e7c5a8195e75",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +133,12 @@
         }
     ],
     "wof:id":404339473,
-    "wof:lastmodified":1566590124,
+    "wof:lastmodified":1684352395,
     "wof:name":"Anue",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":481,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

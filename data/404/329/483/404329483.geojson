@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Petrer",
+    "eurostat:nuts_2021_id":"03104",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03104",
+    "eurostat:population":34241,
+    "eurostat:population_year":2020,
     "geom:area":0.010759,
-    "geom:area_square_m":104129936.827668,
+    "geom:area_square_m":104129936.827665,
     "geom:bbox":"-0.80633221,38.43749469,-0.65325815,38.55174648",
     "geom:latitude":38.492165,
     "geom:longitude":-0.731557,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03104",
+        "eurostat:nuts_2021_id":"03104",
         "gn:id":6355479,
         "gp:id":12695368,
         "qs_pg:id":408797
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"727cf96e2291a44bd603c9042687495e",
+    "wof:geomhash":"8217a953642ea37bbdaff382561f23f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404329483,
-    "wof:lastmodified":1582361790,
+    "wof:lastmodified":1684352210,
     "wof:name":"Petrer",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":34241,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43024,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bellvei",
+    "eurostat:nuts_2021_id":"43024",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43024",
+    "eurostat:population":2237,
+    "eurostat:population_year":2020,
     "geom:area":0.000891,
-    "geom:area_square_m":8282829.282363,
+    "geom:area_square_m":8282902.403724,
     "geom:bbox":"1.544298,41.211234,1.5939,41.260656",
     "geom:latitude":41.234258,
     "geom:longitude":1.567802,
@@ -115,6 +127,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -123,7 +137,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43024",
         "esp-icgc:la_lc":"043024",
+        "eurostat:nuts_2021_id":"43024",
         "gn:id":6361267,
         "gp:id":12694162,
         "qs_pg:id":352674
@@ -133,7 +149,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dd0efb88ec884ccbdb6b1046fa4d7131",
+    "wof:geomhash":"039df3607e0a8b4b543e7e1f0b0cba98",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404343447,
-    "wof:lastmodified":1669903061,
+    "wof:lastmodified":1684352453,
     "wof:name":"Bellvei",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":2237,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

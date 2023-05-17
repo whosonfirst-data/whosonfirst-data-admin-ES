@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Almoguera",
+    "eurostat:nuts_2021_id":"19021",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19021",
+    "eurostat:population":1300,
+    "eurostat:population_year":2020,
     "geom:area":0.012611,
-    "geom:area_square_m":118974954.684235,
+    "geom:area_square_m":118974954.684233,
     "geom:bbox":"-3.19720539,40.15791415,-2.90355425,40.36276085",
     "geom:latitude":40.272246,
     "geom:longitude":-3.038081,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19021",
+        "eurostat:nuts_2021_id":"19021",
         "gn:id":6357824,
         "gp:id":12690654,
         "qs_pg:id":905987
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c17f908c0ab17a9b27f00fa489090c7f",
+    "wof:geomhash":"ee1896cf2d696e1e9f961fe654df5c76",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404335473,
-    "wof:lastmodified":1582361707,
+    "wof:lastmodified":1684352326,
     "wof:name":"Almoguera",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":1300,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

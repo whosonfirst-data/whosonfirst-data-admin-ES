@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25913,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25913",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Riu de Cerdanya",
+    "eurostat:nuts_2021_id":"25913",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25913",
+    "eurostat:population":93,
+    "eurostat:population_year":2020,
     "geom:area":0.001349,
-    "geom:area_square_m":12330745.081207,
+    "geom:area_square_m":12330762.720635,
     "geom:bbox":"1.802278,42.299411,1.842486,42.355146",
     "geom:latitude":42.323918,
     "geom:longitude":1.82372,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25913",
         "esp-icgc:la_lc":"025913",
+        "eurostat:nuts_2021_id":"25913",
         "gn:id":6358990,
         "gp:id":24544632,
         "qs_pg:id":923452
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"a9191afa1ba22b782a45afdc9b6192a0",
+    "wof:geomhash":"ada218e4fca783987ac6c9f47c7e3f96",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404338139,
-    "wof:lastmodified":1669902994,
+    "wof:lastmodified":1684352372,
     "wof:name":"Riu de Cerdanya",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":93,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

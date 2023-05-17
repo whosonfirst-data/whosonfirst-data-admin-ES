@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45145",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Recas",
+    "eurostat:nuts_2021_id":"45145",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45145",
+    "eurostat:population":4504,
+    "eurostat:population_year":2020,
     "geom:area":0.003277,
-    "geom:area_square_m":31015464.532093,
+    "geom:area_square_m":31015464.532091,
     "geom:bbox":"-4.06884843,40.0015155,-3.95253885,40.08454281",
     "geom:latitude":40.049355,
     "geom:longitude":-4.014036,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45145",
+        "eurostat:nuts_2021_id":"45145",
         "gn:id":6361805,
         "gp:id":12691066,
         "qs_pg:id":1321626
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7c579b9ff1fb14d2f20223609adea3e8",
+    "wof:geomhash":"ba2a4cab20b499d7ab8ddddf181e27f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404344663,
-    "wof:lastmodified":1582361856,
+    "wof:lastmodified":1684352477,
     "wof:name":"Recas",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":4504,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

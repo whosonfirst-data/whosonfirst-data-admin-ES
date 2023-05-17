@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jara\u00edz de la Vera",
+    "eurostat:nuts_2021_id":"10104",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10104",
+    "eurostat:population":6503,
+    "eurostat:population_year":2020,
     "geom:area":0.006597,
-    "geom:area_square_m":62466114.239447,
+    "geom:area_square_m":62466114.239444,
     "geom:bbox":"-5.80963394,39.9669818,-5.69176158,40.08278815",
     "geom:latitude":40.021824,
     "geom:longitude":-5.750257,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227383
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_10104",
+        "eurostat:nuts_2021_id":"10104"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"a54123eb78b97838cbdbcaf41e5dd180",
+    "wof:geomhash":"059f5ebcd5930f8b6d4fc575b93d02f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404332741,
-    "wof:lastmodified":1566590507,
+    "wof:lastmodified":1684352268,
     "wof:name":"Jara\u00edz De La Vera",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":6503,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

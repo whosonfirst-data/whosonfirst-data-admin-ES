@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Busto de Bureba",
+    "eurostat:nuts_2021_id":"09060",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09060",
+    "eurostat:population":133,
+    "eurostat:population_year":2020,
     "geom:area":0.002038,
-    "geom:area_square_m":18532142.354495,
+    "geom:area_square_m":18532142.354494,
     "geom:bbox":"-3.2950668,42.6355224,-3.21412415,42.69135425",
     "geom:latitude":42.658879,
     "geom:longitude":-3.259881,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09060",
+        "eurostat:nuts_2021_id":"09060",
         "gn:id":6356378,
         "gp:id":12691424,
         "qs_pg:id":265301
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c3e649834ff50a1e20e7dff526967704",
+    "wof:geomhash":"509b39fc1a048c44690c7770904dd2c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404331717,
-    "wof:lastmodified":1582361513,
+    "wof:lastmodified":1684352257,
     "wof:name":"Busto De Bureba",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":133,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15066",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pino, O",
+    "eurostat:nuts_2021_id":"15066",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15066",
+    "eurostat:population":4652,
+    "eurostat:population_year":2020,
     "geom:area":0.014551,
-    "geom:area_square_m":131717335.196791,
+    "geom:area_square_m":131717335.196787,
     "geom:bbox":"-8.41956065,42.87343397,-8.22200053,43.0181635",
     "geom:latitude":42.938219,
     "geom:longitude":-8.323086,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_15066",
+        "eurostat:nuts_2021_id":"15066",
         "gn:id":6357334,
         "gp:id":12694768,
         "qs_pg:id":621616
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1d437f84dee171cb3059187ae423eaf9",
+    "wof:geomhash":"4a8f186ba3dd3b4a72979d0fb8dd5755",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404333957,
-    "wof:lastmodified":1582361772,
+    "wof:lastmodified":1684352290,
     "wof:name":"O Pino",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":4652,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_33071",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Taramundi",
+    "eurostat:nuts_2021_id":"33071",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES12",
+    "eurostat:nuts_2021_level_3":"ES120",
+    "eurostat:nuts_2021_level_lau":"33071",
+    "eurostat:population":602,
+    "eurostat:population_year":2020,
     "geom:area":0.009123,
-    "geom:area_square_m":82018735.013924,
+    "geom:area_square_m":82018735.013923,
     "geom:bbox":"-7.13436528,43.29981165,-7.02041354,43.42696808",
     "geom:latitude":43.359423,
     "geom:longitude":-7.076474,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_33071",
+        "eurostat:nuts_2021_id":"33071",
         "gn:id":6359972,
         "gp:id":12688513,
         "qs_pg:id":539352
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b35aafbc82429090ce0e4fc0d9ab6618",
+    "wof:geomhash":"7e416015e385ed51dc83f877a8ab46ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404340439,
-    "wof:lastmodified":1582361651,
+    "wof:lastmodified":1684352408,
     "wof:name":"Taramundi",
     "wof:parent_id":85682805,
     "wof:placetype":"localadmin",
+    "wof:population":602,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

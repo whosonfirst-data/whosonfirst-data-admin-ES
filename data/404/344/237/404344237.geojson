@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44215",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Terriente",
+    "eurostat:nuts_2021_id":"44215",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44215",
+    "eurostat:population":180,
+    "eurostat:population_year":2020,
     "geom:area":0.005082,
-    "geom:area_square_m":47933056.154469,
+    "geom:area_square_m":47933056.15447,
     "geom:bbox":"-1.54707127,40.24967289,-1.45403889,40.33330103",
     "geom:latitude":40.289202,
     "geom:longitude":-1.503337,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44215",
+        "eurostat:nuts_2021_id":"44215",
         "gn:id":6361615,
         "gp:id":12689787,
         "qs_pg:id":1206077
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"95ef258cdf49627f07ffe1abf9f47a8f",
+    "wof:geomhash":"75cbdd10364573e3f2f0116458cbc122",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404344237,
-    "wof:lastmodified":1582361857,
+    "wof:lastmodified":1684352471,
     "wof:name":"Terriente",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":180,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":8150,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08150",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Or\u00eds",
+    "eurostat:nuts_2021_id":"08150",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08150",
+    "eurostat:population":322,
+    "eurostat:population_year":2020,
     "geom:area":0.002942,
     "geom:area_square_m":27000674.352872,
     "geom:bbox":"2.18054341071,42.0330894686,2.28064738733,42.0978319994",
@@ -118,6 +130,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -126,7 +140,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08150",
         "esp-icgc:la_lc":"08150",
+        "eurostat:nuts_2021_id":"08150",
         "gn:id":6356178,
         "gp:id":12693530,
         "qs_pg:id":201798
@@ -136,7 +152,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"8b07dff04c1b7c390cadc5056200f811",
+    "wof:geomhash":"0bc6a4578736917e94dfc777375598a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404331215,
-    "wof:lastmodified":1582361505,
+    "wof:lastmodified":1684352245,
     "wof:name":"Or\u00eds",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":322,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

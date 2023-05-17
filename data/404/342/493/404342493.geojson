@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40113",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Losa, La",
+    "eurostat:nuts_2021_id":"40113",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40113",
+    "eurostat:population":519,
+    "eurostat:population_year":2020,
     "geom:area":0.00299,
-    "geom:area_square_m":27969623.932607,
+    "geom:area_square_m":27969623.932608,
     "geom:bbox":"-4.19291712,40.78934728,-4.09843311,40.88051348",
     "geom:latitude":40.835924,
     "geom:longitude":-4.142802,
@@ -84,6 +96,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -92,6 +106,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_40113",
+        "eurostat:nuts_2021_id":"40113",
         "gn:id":6360845,
         "gp:id":12692612,
         "qs_pg:id":1326540
@@ -100,7 +116,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c6e38c080cefd265f81986196ca42213",
+    "wof:geomhash":"b2a17f21c79a6ae63747ff3b05e797ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,10 +127,12 @@
         }
     ],
     "wof:id":404342493,
-    "wof:lastmodified":1582361819,
+    "wof:lastmodified":1684352440,
     "wof:name":"La Losa",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":519,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

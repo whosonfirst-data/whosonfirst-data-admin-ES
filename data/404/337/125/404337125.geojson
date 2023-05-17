@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_23901",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"C\u00e1rcheles",
+    "eurostat:nuts_2021_id":"23901",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES616",
+    "eurostat:nuts_2021_level_lau":"23901",
+    "eurostat:population":1332,
+    "eurostat:population_year":2020,
     "geom:area":0.004135,
     "geom:area_square_m":40487025.816614,
     "geom:bbox":"-3.67460881,37.60023541,-3.59973618,37.6889521",
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_23901",
+        "eurostat:nuts_2021_id":"23901",
         "gn:id":6358547,
         "gp:id":12689115,
         "qs_pg:id":265226
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8319c4a8a7c8d6d3ae11622abedab207",
+    "wof:geomhash":"20305e5c6680ff8266093407216cdafd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404337125,
-    "wof:lastmodified":1582361577,
+    "wof:lastmodified":1684352349,
     "wof:name":"C\u00e1rcheles",
     "wof:parent_id":85682757,
     "wof:placetype":"localadmin",
+    "wof:population":1332,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

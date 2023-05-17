@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_38033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Andr\u00e9s y Sauces",
+    "eurostat:nuts_2021_id":"38033",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES7",
+    "eurostat:nuts_2021_level_2":"ES70",
+    "eurostat:nuts_2021_level_3":"ES707",
+    "eurostat:nuts_2021_level_lau":"38033",
+    "eurostat:population":4182,
+    "eurostat:population_year":2020,
     "geom:area":0.003957,
-    "geom:area_square_m":42889067.50032,
+    "geom:area_square_m":42889067.500341,
     "geom:bbox":"-17.85333982,28.74361472,-17.7536285,28.81918904",
     "geom:latitude":28.776495,
     "geom:longitude":-17.799245,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_38033",
+        "eurostat:nuts_2021_id":"38033",
         "gn:id":6534193,
         "gp:id":12690190,
         "qs_pg:id":191203
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"500fc949f9934ef330ac49c0e27452e2",
+    "wof:geomhash":"f93d0757412bc6e1b543adc10cdebc7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404341991,
-    "wof:lastmodified":1582361624,
+    "wof:lastmodified":1684352433,
     "wof:name":"San Andr\u00e9s Y Sauces",
     "wof:parent_id":85682831,
     "wof:placetype":"localadmin",
+    "wof:population":4182,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

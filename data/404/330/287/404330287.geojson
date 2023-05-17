@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05238",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Solosancho",
+    "eurostat:nuts_2021_id":"05238",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05238",
+    "eurostat:population":820,
+    "eurostat:population_year":2020,
     "geom:area":0.005529,
-    "geom:area_square_m":51951970.24132,
+    "geom:area_square_m":51951970.241321,
     "geom:bbox":"-4.95632326,40.49841643,-4.86549728,40.59132133",
     "geom:latitude":40.540494,
     "geom:longitude":-4.914594,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05238",
+        "eurostat:nuts_2021_id":"05238",
         "gn:id":6355835,
         "gp:id":12691347,
         "qs_pg:id":954446
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e119d06d3d97a0c3de8aed3c27c5f0bf",
+    "wof:geomhash":"6af15f1dd8159d50ec71e88799d10e66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404330287,
-    "wof:lastmodified":1582361523,
+    "wof:lastmodified":1684352221,
     "wof:name":"Solosancho",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":820,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

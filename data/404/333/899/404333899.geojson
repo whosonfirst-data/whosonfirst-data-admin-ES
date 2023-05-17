@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15041",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Laracha, A",
+    "eurostat:nuts_2021_id":"15041",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15041",
+    "eurostat:population":11406,
+    "eurostat:population_year":2020,
     "geom:area":0.013961,
-    "geom:area_square_m":125773753.815181,
+    "geom:area_square_m":125773753.815178,
     "geom:bbox":"-8.66580689,43.16496088,-8.43588959,43.32313779",
     "geom:latitude":43.232345,
     "geom:longitude":-8.553654,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_15041",
+        "eurostat:nuts_2021_id":"15041",
         "gn:id":6357310,
         "gp:id":12694742,
         "qs_pg:id":621615
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f4dc668f5ee791bd2f13411e0fe1236f",
+    "wof:geomhash":"e536d30c3e8d67b11745667463524b5b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404333899,
-    "wof:lastmodified":1582361781,
+    "wof:lastmodified":1684352288,
     "wof:name":"A Laracha",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":11406,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

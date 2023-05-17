@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04090",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tahal",
+    "eurostat:nuts_2021_id":"04090",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04090",
+    "eurostat:population":336,
+    "eurostat:population_year":2020,
     "geom:area":0.009623,
     "geom:area_square_m":94788826.918705,
     "geom:bbox":"-2.36301271,37.10853799,-2.20969451,37.27639431",
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_04090",
+        "eurostat:nuts_2021_id":"04090",
         "gn:id":6355602,
         "gp:id":12688712,
         "qs_pg:id":44875
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1db3e5e0791a9778359ecc28adb9299a",
+    "wof:geomhash":"52c13ac03e5fb7515a357fd07671aef0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404329763,
-    "wof:lastmodified":1582361786,
+    "wof:lastmodified":1684352215,
     "wof:name":"Tahal",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":336,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

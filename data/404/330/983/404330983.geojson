@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8047,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08047",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cardona",
+    "eurostat:nuts_2021_id":"08047",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08047",
+    "eurostat:population":4639,
+    "eurostat:population_year":2020,
     "geom:area":0.007208,
-    "geom:area_square_m":66330100.592304,
+    "geom:area_square_m":66330100.592305,
     "geom:bbox":"1.56853545851,41.8673598044,1.72416879305,41.9623530012",
     "geom:latitude":41.907039,
     "geom:longitude":1.660042,
@@ -100,6 +112,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -108,7 +122,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08047",
         "esp-icgc:la_lc":"08047",
+        "eurostat:nuts_2021_id":"08047",
         "gn:id":6356080,
         "gp:id":12693424,
         "qs_pg:id":242315
@@ -118,7 +134,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7c420d8331e60c7a1c8d46b141dab131",
+    "wof:geomhash":"ff0b780c264c6dfbee2de99dec1b3d39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404330983,
-    "wof:lastmodified":1582361528,
+    "wof:lastmodified":1684352237,
     "wof:name":"Cardona",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":4639,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

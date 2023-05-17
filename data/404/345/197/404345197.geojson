@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46177",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Museros",
+    "eurostat:nuts_2021_id":"46177",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46177",
+    "eurostat:population":6596,
+    "eurostat:population_year":2020,
     "geom:area":0.001305,
-    "geom:area_square_m":12442437.590396,
+    "geom:area_square_m":12442437.590395,
     "geom:bbox":"-0.38477897,39.55082469,-0.32656429,39.60004767",
     "geom:latitude":39.574433,
     "geom:longitude":-0.359366,
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46177",
+        "eurostat:nuts_2021_id":"46177",
         "gn:id":6362042,
         "gp:id":12695712,
         "qs_pg:id":1070810
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3503f5cf186ef9612a8ae56e49c19c22",
+    "wof:geomhash":"20cedec56436c6dbd8a62e3a3c28f1cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404345197,
-    "wof:lastmodified":1582361834,
+    "wof:lastmodified":1684352483,
     "wof:name":"Museros",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":6596,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28140",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Serranillos del Valle",
+    "eurostat:nuts_2021_id":"28140",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28140",
+    "eurostat:population":4291,
+    "eurostat:population_year":2020,
     "geom:area":0.001406,
-    "geom:area_square_m":13277144.245341,
+    "geom:area_square_m":13277144.245342,
     "geom:bbox":"-3.95178804,40.18866973,-3.86534092,40.23472678",
     "geom:latitude":40.207139,
     "geom:longitude":-3.894079,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28140",
+        "eurostat:nuts_2021_id":"28140",
         "gn:id":6359360,
         "gp:id":12688081,
         "qs_pg:id":204485
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ddb9837667abe4d3608b956172cf684d",
+    "wof:geomhash":"cf7fedb0ed8a404f83cebc5f0104ec85",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404338989,
-    "wof:lastmodified":1582361455,
+    "wof:lastmodified":1684352386,
     "wof:name":"Serranillos Del Valle",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":4291,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

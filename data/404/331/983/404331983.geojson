@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09196",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Madrigal del Monte",
+    "eurostat:nuts_2021_id":"09196",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09196",
+    "eurostat:population":147,
+    "eurostat:population_year":2020,
     "geom:area":0.002927,
     "geom:area_square_m":26837115.809698,
     "geom:bbox":"-3.70206482,42.11794508,-3.60738182,42.16382602",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_09196",
+        "eurostat:nuts_2021_id":"09196"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"51c4043b42769a781b7876b28bc4d5f2",
+    "wof:geomhash":"a8f3a0bdd95f2c9ddaffb9e4996839ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404331983,
-    "wof:lastmodified":1566589785,
+    "wof:lastmodified":1684352260,
     "wof:name":"Madrigal Del Monte",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":147,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

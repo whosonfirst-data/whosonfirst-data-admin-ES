@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ang\u00f3n",
+    "eurostat:nuts_2021_id":"19031",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19031",
+    "eurostat:population":7,
+    "eurostat:population_year":2020,
     "geom:area":0.002186,
-    "geom:area_square_m":20382094.418107,
+    "geom:area_square_m":20382094.418106,
     "geom:bbox":"-2.89865425,41.04363181,-2.82174496,41.09663673",
     "geom:latitude":41.067269,
     "geom:longitude":-2.858714,
@@ -99,6 +111,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -106,9 +120,12 @@
         404227375
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_19031",
+        "eurostat:nuts_2021_id":"19031"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"19b36043986590b8575fd1bc14156650",
+    "wof:geomhash":"13bc5652f802adfc81c8cfdff43dd7df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +136,12 @@
         }
     ],
     "wof:id":404335483,
-    "wof:lastmodified":1566590558,
+    "wof:lastmodified":1684352326,
     "wof:name":"Ang\u00f3n",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":7,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

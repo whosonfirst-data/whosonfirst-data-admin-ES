@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_30003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u00c1guilas",
+    "eurostat:nuts_2021_id":"30003",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES62",
+    "eurostat:nuts_2021_level_3":"ES620",
+    "eurostat:nuts_2021_level_lau":"30003",
+    "eurostat:population":35722,
+    "eurostat:population_year":2020,
     "geom:area":0.025653,
     "geom:area_square_m":251764728.524472,
     "geom:bbox":"-1.70501611,37.37375254,-1.46778331,37.56658516",
@@ -117,6 +129,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -124,9 +138,12 @@
         404227389
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_30003",
+        "eurostat:nuts_2021_id":"30003"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"ef353a030602931a84ba3e573e9b202a",
+    "wof:geomhash":"2ace0a5071ec98685efd5a289db59a6e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +154,12 @@
         }
     ],
     "wof:id":404339325,
-    "wof:lastmodified":1566590108,
+    "wof:lastmodified":1684352392,
     "wof:name":"\u00c1guilas",
     "wof:parent_id":85682791,
     "wof:placetype":"localadmin",
+    "wof:population":35722,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

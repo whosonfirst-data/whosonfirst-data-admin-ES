@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_35001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Agaete",
+    "eurostat:nuts_2021_id":"35001",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES7",
+    "eurostat:nuts_2021_level_2":"ES70",
+    "eurostat:nuts_2021_level_3":"ES705",
+    "eurostat:nuts_2021_level_lau":"35001",
+    "eurostat:population":5599,
+    "eurostat:population_year":2020,
     "geom:area":0.004132,
-    "geom:area_square_m":45086704.515534,
+    "geom:area_square_m":45086704.515503,
     "geom:bbox":"-15.74874745,28.02898815,-15.64886886,28.11756184",
     "geom:latitude":28.069474,
     "geom:longitude":-15.697895,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_35001",
+        "eurostat:nuts_2021_id":"35001",
         "gn:id":6360171,
         "gp:id":12690125,
         "qs_pg:id":45609
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cc93b016267ffb3fc99bf49568065331",
+    "wof:geomhash":"e90321becab10c059d025cae6fc0b3ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404340887,
-    "wof:lastmodified":1582361649,
+    "wof:lastmodified":1684352413,
     "wof:name":"Agaete",
     "wof:parent_id":85682821,
     "wof:placetype":"localadmin",
+    "wof:population":5599,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

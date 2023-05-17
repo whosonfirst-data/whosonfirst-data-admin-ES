@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_33009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cabranes",
+    "eurostat:nuts_2021_id":"33009",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES12",
+    "eurostat:nuts_2021_level_3":"ES120",
+    "eurostat:nuts_2021_level_lau":"33009",
+    "eurostat:population":1057,
+    "eurostat:population_year":2020,
     "geom:area":0.004257,
-    "geom:area_square_m":38246297.997572,
+    "geom:area_square_m":38246297.997573,
     "geom:bbox":"-5.49648057,43.37621606,-5.36615249,43.4379242",
     "geom:latitude":43.404893,
     "geom:longitude":-5.421605,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_33009",
+        "eurostat:nuts_2021_id":"33009",
         "gn:id":6359916,
         "gp:id":12688452,
         "qs_pg:id":1123016
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6a856c5858bd867a97d13af6cf427201",
+    "wof:geomhash":"1ed053d0e3a3030bb9f4e478036be048",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404340299,
-    "wof:lastmodified":1582361664,
+    "wof:lastmodified":1684352405,
     "wof:name":"Cabranes",
     "wof:parent_id":85682805,
     "wof:placetype":"localadmin",
+    "wof:population":1057,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

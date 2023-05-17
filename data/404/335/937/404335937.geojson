@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19261",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sotodosos",
+    "eurostat:nuts_2021_id":"19261",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19261",
+    "eurostat:population":33,
+    "eurostat:population_year":2020,
     "geom:area":0.003094,
     "geom:area_square_m":28913300.563368,
     "geom:bbox":"-2.43804337,40.88391247,-2.36043704,40.94656491",
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19261",
+        "eurostat:nuts_2021_id":"19261",
         "gn:id":6358028,
         "gp:id":12690859,
         "qs_pg:id":45993
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"53dc88f311f9f2d2ff273aab1147f674",
+    "wof:geomhash":"6f9f1a0d40e576a24d571f104dd13946",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404335937,
-    "wof:lastmodified":1582361695,
+    "wof:lastmodified":1684352331,
     "wof:name":"Sotodosos",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":33,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

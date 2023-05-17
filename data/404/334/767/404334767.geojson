@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17099,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17099",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Meranges",
+    "eurostat:nuts_2021_id":"17099",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17099",
+    "eurostat:population":100,
+    "eurostat:population_year":2020,
     "geom:area":0.004154,
-    "geom:area_square_m":37891820.794908,
+    "geom:area_square_m":37891853.369984,
     "geom:bbox":"1.724297,42.418082,1.813413,42.495488",
     "geom:latitude":42.457738,
     "geom:longitude":1.765918,
@@ -124,6 +136,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -132,7 +146,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17099",
         "esp-icgc:la_lc":"017099",
+        "eurostat:nuts_2021_id":"17099",
         "gn:id":6357612,
         "gp:id":12693784,
         "qs_pg:id":112727
@@ -142,7 +158,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"7faed0d1b0af260b164ad529e192a850",
+    "wof:geomhash":"51e4979dbf4cc7f33cade9e3b31ca29d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,10 +169,12 @@
         }
     ],
     "wof:id":404334767,
-    "wof:lastmodified":1669903048,
+    "wof:lastmodified":1684352308,
     "wof:name":"Meranges",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":100,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

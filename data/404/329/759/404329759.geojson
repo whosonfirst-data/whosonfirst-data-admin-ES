@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04089",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Taberno",
+    "eurostat:nuts_2021_id":"04089",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04089",
+    "eurostat:population":974,
+    "eurostat:population_year":2020,
     "geom:area":0.004492,
     "geom:area_square_m":44076003.095285,
     "geom:bbox":"-2.10217556,37.42899763,-2.01498486,37.53330578",
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_04089",
+        "eurostat:nuts_2021_id":"04089",
         "gn:id":6355601,
         "gp:id":12688711,
         "qs_pg:id":886905
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f874a8b93ca512bfa1cbddbe96c19666",
+    "wof:geomhash":"42f0edabc8e158f7f09ec093c128da6b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404329759,
-    "wof:lastmodified":1582361798,
+    "wof:lastmodified":1684352215,
     "wof:name":"Taberno",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":974,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

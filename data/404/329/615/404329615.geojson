@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bayarque",
+    "eurostat:nuts_2021_id":"04021",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04021",
+    "eurostat:population":216,
+    "eurostat:population_year":2020,
     "geom:area":0.00268,
     "geom:area_square_m":26358928.34061,
     "geom:bbox":"-2.48181565,37.28760215,-2.41004751,37.34182502",
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_04021",
+        "eurostat:nuts_2021_id":"04021",
         "gn:id":6355537,
         "gp:id":12688644,
         "qs_pg:id":44832
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7b7e9536792c38ad4f6c8dd5ff6a8b17",
+    "wof:geomhash":"1d16254e3df0fdb0913f3e748a9c56bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404329615,
-    "wof:lastmodified":1582361799,
+    "wof:lastmodified":1684352212,
     "wof:name":"Bayarque",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":216,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

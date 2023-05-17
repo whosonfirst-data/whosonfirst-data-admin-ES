@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50084",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Clar\u00e9s de Ribota",
+    "eurostat:nuts_2021_id":"50084",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50084",
+    "eurostat:population":67,
+    "eurostat:population_year":2020,
     "geom:area":0.002017,
-    "geom:area_square_m":18672360.201946,
+    "geom:area_square_m":18672360.201947,
     "geom:bbox":"-1.86653877,41.50472681,-1.79977386,41.55893355",
     "geom:latitude":41.535612,
     "geom:longitude":-1.835834,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50084",
+        "eurostat:nuts_2021_id":"50084",
         "gn:id":6362777,
         "gp:id":12689919,
         "qs_pg:id":496928
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5bd63502f816cf6c514575fec8bbc55c",
+    "wof:geomhash":"4cfd5fd24155120f48d2c13b9790ac9c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404346901,
-    "wof:lastmodified":1582361607,
+    "wof:lastmodified":1684352504,
     "wof:name":"Clar\u00e9s De Ribota",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":67,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

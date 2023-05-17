@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Agost",
+    "eurostat:nuts_2021_id":"03002",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03002",
+    "eurostat:population":4794,
+    "eurostat:population_year":2020,
     "geom:area":0.006876,
     "geom:area_square_m":66595841.263863,
     "geom:bbox":"-0.70575712,38.39637886,-0.57746041,38.50226114",
@@ -126,6 +138,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -134,6 +148,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03002",
+        "eurostat:nuts_2021_id":"03002",
         "gn:id":6355378,
         "gp:id":12695267,
         "qs_pg:id":48374
@@ -142,7 +158,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"478ec44b4957adf1178442410687390f",
+    "wof:geomhash":"87a3bad2a8468f56472e32bb9f98a9f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,10 +169,12 @@
         }
     ],
     "wof:id":404329253,
-    "wof:lastmodified":1582361800,
+    "wof:lastmodified":1684352207,
     "wof:name":"Agost",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":4794,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45118",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nov\u00e9s",
+    "eurostat:nuts_2021_id":"45118",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45118",
+    "eurostat:population":3019,
+    "eurostat:population_year":2020,
     "geom:area":0.004402,
-    "geom:area_square_m":41672937.05565,
+    "geom:area_square_m":41672937.055649,
     "geom:bbox":"-4.32605848,39.99740343,-4.22100163,40.06936735",
     "geom:latitude":40.036052,
     "geom:longitude":-4.265488,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45118",
+        "eurostat:nuts_2021_id":"45118",
         "gn:id":6361778,
         "gp:id":12691039,
         "qs_pg:id":1293560
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"471906b9b3e30592b1ffd62d0cc3da14",
+    "wof:geomhash":"6d4e19b0a5bd6ef1b9ecf09ee05d5407",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404344603,
-    "wof:lastmodified":1582361848,
+    "wof:lastmodified":1684352476,
     "wof:name":"Nov\u00e9s",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":3019,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

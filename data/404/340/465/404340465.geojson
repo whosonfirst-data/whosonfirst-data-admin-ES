@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_34006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alba de Cerrato",
+    "eurostat:nuts_2021_id":"34006",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES414",
+    "eurostat:nuts_2021_level_lau":"34006",
+    "eurostat:population":87,
+    "eurostat:population_year":2020,
     "geom:area":0.003814,
-    "geom:area_square_m":35157988.767959,
+    "geom:area_square_m":35157988.767958,
     "geom:bbox":"-4.41980999,41.76344393,-4.30679015,41.83913957",
     "geom:latitude":41.800582,
     "geom:longitude":-4.368521,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_34006",
+        "eurostat:nuts_2021_id":"34006",
         "gn:id":6359984,
         "gp:id":12691963,
         "qs_pg:id":954699
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a8096f5e8f1207ae88f98d4d4ada924f",
+    "wof:geomhash":"bb5ffe1dc4e517c8cd83051f0947eff8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404340465,
-    "wof:lastmodified":1582361653,
+    "wof:lastmodified":1684352409,
     "wof:name":"Alba De Cerrato",
     "wof:parent_id":85682815,
     "wof:placetype":"localadmin",
+    "wof:population":87,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

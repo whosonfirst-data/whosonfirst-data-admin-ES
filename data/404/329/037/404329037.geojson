@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_01059",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vitoria-Gasteiz",
+    "eurostat:nuts_2021_id":"01059",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES211",
+    "eurostat:nuts_2021_level_lau":"01059",
+    "eurostat:population":253996,
+    "eurostat:population_year":2020,
     "geom:area":0.030485,
-    "geom:area_square_m":276351728.075422,
+    "geom:area_square_m":276351728.07542,
     "geom:bbox":"-2.8548252,42.76471623,-2.54388301,42.93701618",
     "geom:latitude":42.850442,
     "geom:longitude":-2.687861,
@@ -288,6 +300,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -296,6 +310,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_01059",
+        "eurostat:nuts_2021_id":"01059",
         "gn:id":6355286,
         "gp:id":24548829,
         "qs_pg:id":240838
@@ -304,7 +320,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"95630c4c6b921d24935d3a0356d77c41",
+    "wof:geomhash":"65ecb2b0596381e13777e9665d46ea84",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -315,10 +331,12 @@
         }
     ],
     "wof:id":404329037,
-    "wof:lastmodified":1582361792,
+    "wof:lastmodified":1684352203,
     "wof:name":"Vitoria-Gasteiz",
     "wof:parent_id":85682615,
     "wof:placetype":"localadmin",
+    "wof:population":253996,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

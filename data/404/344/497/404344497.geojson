@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45071",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Guardia, La",
+    "eurostat:nuts_2021_id":"45071",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45071",
+    "eurostat:population":2213,
+    "eurostat:population_year":2020,
     "geom:area":0.020567,
-    "geom:area_square_m":195404932.867835,
+    "geom:area_square_m":195404932.867832,
     "geom:bbox":"-3.81812358,39.72369321,-3.34888858,39.86520584",
     "geom:latitude":39.793475,
     "geom:longitude":-3.530603,
@@ -72,6 +84,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -80,6 +94,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45071",
+        "eurostat:nuts_2021_id":"45071",
         "gn:id":6361731,
         "gp:id":12690992,
         "qs_pg:id":621915
@@ -88,7 +104,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9839a25759ca5f8edd7c2ae1663f2df9",
+    "wof:geomhash":"4c854ba1a8b7955c639842257a8116fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,10 +115,12 @@
         }
     ],
     "wof:id":404344497,
-    "wof:lastmodified":1582361848,
+    "wof:lastmodified":1684352474,
     "wof:name":"La Guardia",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":2213,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

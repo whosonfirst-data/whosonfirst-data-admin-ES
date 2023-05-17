@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05047",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Candeleda",
+    "eurostat:nuts_2021_id":"05047",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05047",
+    "eurostat:population":5025,
+    "eurostat:population_year":2020,
     "geom:area":0.022617,
-    "geom:area_square_m":213681208.193105,
+    "geom:area_square_m":213681208.1931,
     "geom:bbox":"-5.36994057,40.08245041,-5.17957274,40.26405241",
     "geom:latitude":40.175896,
     "geom:longitude":-5.278868,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05047",
+        "eurostat:nuts_2021_id":"05047",
         "gn:id":6355656,
         "gp:id":12691164,
         "qs_pg:id":885915
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f7176a4403ab02d3b0aa8dbf12142f4f",
+    "wof:geomhash":"5efc6e19527817b894ba973cba962c5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404329883,
-    "wof:lastmodified":1582361798,
+    "wof:lastmodified":1684352216,
     "wof:name":"Candeleda",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":5025,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

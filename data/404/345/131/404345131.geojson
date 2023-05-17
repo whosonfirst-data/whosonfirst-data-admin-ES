@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46148",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Loriguilla",
+    "eurostat:nuts_2021_id":"46148",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46148",
+    "eurostat:population":2035,
+    "eurostat:population_year":2020,
     "geom:area":0.007598,
-    "geom:area_square_m":72355230.236179,
+    "geom:area_square_m":72355230.236178,
     "geom:bbox":"-1.06717993,39.48422644,-0.53574865,39.69921658",
     "geom:latitude":39.631933,
     "geom:longitude":-0.949246,
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46148",
+        "eurostat:nuts_2021_id":"46148",
         "gn:id":6362013,
         "gp:id":12695689,
         "qs_pg:id":1153099
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5b07c09fb31ccf4c5c88c648ccf89557",
+    "wof:geomhash":"20cadd2d2fa0590df28433c22640ba21",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404345131,
-    "wof:lastmodified":1582361834,
+    "wof:lastmodified":1684352482,
     "wof:name":"Loriguilla",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":2035,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

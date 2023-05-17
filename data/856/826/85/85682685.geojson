@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"1",
+    "eurostat:country_code":"ES",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"2",
+    "eurostat:name_latin":"Castell\u00f3n/Castell\u00f3",
+    "eurostat:name_local":"Castell\u00f3n/Castell\u00f3",
+    "eurostat:nuts_2021_id":"ES522",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:population":578633,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"2",
     "geom:area":0.701939,
-    "geom:area_square_m":6625335046.482702,
+    "geom:area_square_m":6625335353.582892,
     "geom:bbox":"-0.846297,39.714698,0.691228,40.788631",
     "geom:latitude":40.241342,
     "geom:longitude":-0.146836,
@@ -165,6 +179,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "unlc:subdivision":"ES-CS",
     "wd:wordcount":82,
     "wof:belongsto":[
@@ -175,6 +191,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":24014,
+        "eurostat:nuts_2021_id":"ES522",
         "fips:code":"SP89",
         "gn:id":3125881,
         "gp:id":12602138,
@@ -182,7 +199,7 @@
         "unlc:id":"ES-CS"
     },
     "wof:country":"ES",
-    "wof:geomhash":"546e3b7395c76cd912d28139784fc329",
+    "wof:geomhash":"c03339f7f3e033bcc75f38f916ae68f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -202,10 +219,12 @@
         "eus",
         "ast"
     ],
-    "wof:lastmodified":1583882742,
+    "wof:lastmodified":1684351541,
     "wof:name":"Castellon",
     "wof:parent_id":404227381,
     "wof:placetype":"region",
+    "wof:population":578633,
+    "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:shortcode":"VC",
     "wof:subdivision":"ES-CS",

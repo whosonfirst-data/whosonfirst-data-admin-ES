@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Artieda",
+    "eurostat:nuts_2021_id":"50035",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50035",
+    "eurostat:population":80,
+    "eurostat:population_year":2020,
     "geom:area":0.001489,
-    "geom:area_square_m":13551816.222476,
+    "geom:area_square_m":13551816.222477,
     "geom:bbox":"-1.01881489,42.57372296,-0.96613067,42.61072688",
     "geom:latitude":42.589985,
     "geom:longitude":-0.992227,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50035",
+        "eurostat:nuts_2021_id":"50035",
         "gn:id":6362729,
         "gp:id":12689868,
         "qs_pg:id":247260
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1451c3a55f4bb5b48c177971b47a1938",
+    "wof:geomhash":"3611a3b5631498d5d9dec1faf7d48c3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404346793,
-    "wof:lastmodified":1582361615,
+    "wof:lastmodified":1684352503,
     "wof:name":"Artieda",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":80,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

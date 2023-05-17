@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50205",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pedrosas, Las",
+    "eurostat:nuts_2021_id":"50205",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50205",
+    "eurostat:population":86,
+    "eurostat:population_year":2020,
     "geom:area":0.001985,
     "geom:area_square_m":18228254.596039,
     "geom:bbox":"-0.90988786,42.00262515,-0.84861038,42.05397561",
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50205",
+        "eurostat:nuts_2021_id":"50205",
         "gn:id":3118875,
         "gp:id":12690032,
         "qs_pg:id":45570
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"27a0df717ef20d1cd397167c033032cd",
+    "wof:geomhash":"5f3fa78bde2fb25774018eccf8ae158a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404347159,
-    "wof:lastmodified":1582361669,
+    "wof:lastmodified":1684352508,
     "wof:name":"Las Pedrosas",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":86,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

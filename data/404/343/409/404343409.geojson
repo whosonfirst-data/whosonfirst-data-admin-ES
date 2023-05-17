@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43007,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aleixar, L'",
+    "eurostat:nuts_2021_id":"43007",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43007",
+    "eurostat:population":893,
+    "eurostat:population_year":2020,
     "geom:area":0.002804,
-    "geom:area_square_m":26084767.283128,
+    "geom:area_square_m":26084767.128117,
     "geom:bbox":"1.00939,41.176268,1.090676,41.238083",
     "geom:latitude":41.20834,
     "geom:longitude":1.050086,
@@ -118,6 +130,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -126,7 +140,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43007",
         "esp-icgc:la_lc":"043007",
+        "eurostat:nuts_2021_id":"43007",
         "gn:id":6361250,
         "gp:id":12694144,
         "qs_pg:id":1164951
@@ -136,7 +152,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e387be96a0af25fe94530210076d0938",
+    "wof:geomhash":"108c47121dadbfb91d61a8e160919b85",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404343409,
-    "wof:lastmodified":1669903063,
+    "wof:lastmodified":1684352451,
     "wof:name":"L'Aleixar",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":893,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12127",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vallibona",
+    "eurostat:nuts_2021_id":"12127",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12127",
+    "eurostat:population":66,
+    "eurostat:population_year":2020,
     "geom:area":0.009722,
-    "geom:area_square_m":91266282.54794,
+    "geom:area_square_m":91266282.547942,
     "geom:bbox":"0.00290318,40.56822834,0.18582958,40.65025803",
     "geom:latitude":40.608002,
     "geom:longitude":0.088609,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12127",
+        "eurostat:nuts_2021_id":"12127",
         "gn:id":6357077,
         "gp:id":12695526,
         "qs_pg:id":48510
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a4825fa1f205cf0f802508044746de40",
+    "wof:geomhash":"5fb0d1bb753df445451f03ceb0c6d6c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404333371,
-    "wof:lastmodified":1582361770,
+    "wof:lastmodified":1684352278,
     "wof:name":"Vallibona",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":66,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

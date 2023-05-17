@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19081",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cendejas de la Torre",
+    "eurostat:nuts_2021_id":"19081",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19081",
+    "eurostat:population":25,
+    "eurostat:population_year":2020,
     "geom:area":0.001526,
-    "geom:area_square_m":14248875.644492,
+    "geom:area_square_m":14248875.644491,
     "geom:bbox":"-2.86801643,40.95587363,-2.81279693,41.00331098",
     "geom:latitude":40.978389,
     "geom:longitude":-2.842558,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19081",
+        "eurostat:nuts_2021_id":"19081",
         "gn:id":6357871,
         "gp:id":12690701,
         "qs_pg:id":540299
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"60a0ca2ff6ce270654044a439a4196e7",
+    "wof:geomhash":"0dcc8c82a37f320f6562626f731618db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404335579,
-    "wof:lastmodified":1582361712,
+    "wof:lastmodified":1684352327,
     "wof:name":"Cendejas De La Torre",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":25,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

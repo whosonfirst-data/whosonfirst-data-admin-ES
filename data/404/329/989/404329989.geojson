@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05099",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Horcajo de las Torres",
+    "eurostat:nuts_2021_id":"05099",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05099",
+    "eurostat:population":496,
+    "eurostat:population_year":2020,
     "geom:area":0.00507,
-    "geom:area_square_m":47263330.681282,
+    "geom:area_square_m":47263330.681284,
     "geom:bbox":"-5.15299259,41.02949861,-5.05418044,41.10772906",
     "geom:latitude":41.070216,
     "geom:longitude":-5.11015,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05099",
+        "eurostat:nuts_2021_id":"05099",
         "gn:id":6355703,
         "gp:id":12691212,
         "qs_pg:id":46145
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a281a6e308098134aa5059de95e92288",
+    "wof:geomhash":"5d1c8664ebf8dd2e8396b3add492c281",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404329989,
-    "wof:lastmodified":1582361803,
+    "wof:lastmodified":1684352218,
     "wof:name":"Horcajo De Las Torres",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":496,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

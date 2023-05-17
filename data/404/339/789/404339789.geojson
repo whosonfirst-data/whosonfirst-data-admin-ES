@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31148",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Legaria",
+    "eurostat:nuts_2021_id":"31148",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31148",
+    "eurostat:population":115,
+    "eurostat:population_year":2020,
     "geom:area":0.00054,
-    "geom:area_square_m":4915511.018594,
+    "geom:area_square_m":4915511.018593,
     "geom:bbox":"-2.19887086,42.62658526,-2.16281607,42.65536628",
     "geom:latitude":42.642998,
     "geom:longitude":-2.180337,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31148",
+        "eurostat:nuts_2021_id":"31148",
         "gn:id":6359696,
         "gp:id":12688324,
         "qs_pg:id":44639
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b30831752b38b145cd0c192edb684546",
+    "wof:geomhash":"dfe77b33cc486f297c07ce497114892c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404339789,
-    "wof:lastmodified":1582361598,
+    "wof:lastmodified":1684352398,
     "wof:name":"Legaria",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":115,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

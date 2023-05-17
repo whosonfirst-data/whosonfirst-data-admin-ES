@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43161,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43161",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valls",
+    "eurostat:nuts_2021_id":"43161",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43161",
+    "eurostat:population":24477,
+    "eurostat:population_year":2020,
     "geom:area":0.005977,
-    "geom:area_square_m":55525144.54808,
+    "geom:area_square_m":55525144.548079,
     "geom:bbox":"1.19116155074,41.242067925,1.2895631893,41.3425617959",
     "geom:latitude":41.301671,
     "geom:longitude":1.239176,
@@ -135,6 +147,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -143,13 +157,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"043161"
+        "eg:gisco_id":"ES_43161",
+        "esp-icgc:la_lc":"043161",
+        "eurostat:nuts_2021_id":"43161"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"497fd746bb291719f9cbd2edff30e51a",
+    "wof:geomhash":"4af813a10bf611f5a8aac46d22e30938",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +176,12 @@
         }
     ],
     "wof:id":404343753,
-    "wof:lastmodified":1582361864,
+    "wof:lastmodified":1684352463,
     "wof:name":"Valls",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":24477,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

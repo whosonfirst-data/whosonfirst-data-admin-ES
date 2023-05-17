@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10052",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casas de Don Antonio",
+    "eurostat:nuts_2021_id":"10052",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10052",
+    "eurostat:population":170,
+    "eurostat:population_year":2020,
     "geom:area":0.003276,
-    "geom:area_square_m":31381641.6539,
+    "geom:area_square_m":31381641.653902,
     "geom:bbox":"-6.32155307,39.18444859,-6.24828318,39.28225471",
     "geom:latitude":39.232534,
     "geom:longitude":-6.280864,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10052",
+        "eurostat:nuts_2021_id":"10052",
         "gn:id":6356749,
         "gp:id":12694534,
         "qs_pg:id":1196805
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"00614d7c1ed2ac3d81fb99de24ef632a",
+    "wof:geomhash":"988d05e140db2609128a74d515f917e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332627,
-    "wof:lastmodified":1582361680,
+    "wof:lastmodified":1684352267,
     "wof:name":"Casas De Don Antonio",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":170,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09125",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Est\u00e9par",
+    "eurostat:nuts_2021_id":"09125",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09125",
+    "eurostat:population":596,
+    "eurostat:population_year":2020,
     "geom:area":0.011206,
     "geom:area_square_m":102541900.9421,
     "geom:bbox":"-3.96496587,42.1985709,-3.78856672,42.34174612",
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09125",
+        "eurostat:nuts_2021_id":"09125",
         "gn:id":6356427,
         "gp:id":12691474,
         "qs_pg:id":46262
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"49f00ae4aad9b4a0404dba415c70b0ee",
+    "wof:geomhash":"a5ae2692f633b56114193b41e8e5274a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404331855,
-    "wof:lastmodified":1582361511,
+    "wof:lastmodified":1684352259,
     "wof:name":"Est\u00e9par",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":596,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

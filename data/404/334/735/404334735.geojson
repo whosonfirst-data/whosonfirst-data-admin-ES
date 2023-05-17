@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":17085,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17085",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jafre",
+    "eurostat:nuts_2021_id":"17085",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17085",
+    "eurostat:population":387,
+    "eurostat:population_year":2020,
     "geom:area":0.000716,
     "geom:area_square_m":6574940.888713,
     "geom:bbox":"2.99926744706,42.0558380337,3.02814417474,42.0934453522",
@@ -118,6 +130,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -126,7 +140,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17085",
         "esp-icgc:la_lc":"017085",
+        "eurostat:nuts_2021_id":"17085",
         "gn:id":6534070,
         "gp:id":12693766,
         "qs_pg:id":204742
@@ -136,7 +152,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"ee2ea058cb854fe2455f26feb82dc3f3",
+    "wof:geomhash":"aec288dd55decdb9809c569b877fbbd9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404334735,
-    "wof:lastmodified":1582361738,
+    "wof:lastmodified":1684352306,
     "wof:name":"Jafre",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":387,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

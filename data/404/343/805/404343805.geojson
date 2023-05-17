@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43906,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43906",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ampolla, L'",
+    "eurostat:nuts_2021_id":"43906",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43906",
+    "eurostat:population":3277,
+    "eurostat:population_year":2020,
     "geom:area":0.003805,
-    "geom:area_square_m":35606558.214929,
+    "geom:area_square_m":35606580.885344,
     "geom:bbox":"0.642385,40.766318,0.736283,40.850532",
     "geom:latitude":40.812398,
     "geom:longitude":0.690399,
@@ -133,6 +145,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -141,7 +155,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43906",
         "esp-icgc:la_lc":"043906",
+        "eurostat:nuts_2021_id":"43906",
         "gn:id":6361426,
         "gp:id":12694151,
         "qs_pg:id":1198093
@@ -151,7 +167,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e2b9ca053e65d6560e63a5e83fec0759",
+    "wof:geomhash":"5ea92b096bdaeb0f04882e96db8d475e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -162,10 +178,12 @@
         }
     ],
     "wof:id":404343805,
-    "wof:lastmodified":1669903063,
+    "wof:lastmodified":1684352466,
     "wof:name":"L'Ampolla",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":3277,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

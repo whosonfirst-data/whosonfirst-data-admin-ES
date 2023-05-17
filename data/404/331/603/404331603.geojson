@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ameyugo",
+    "eurostat:nuts_2021_id":"09016",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09016",
+    "eurostat:population":113,
+    "eurostat:population_year":2020,
     "geom:area":0.001373,
-    "geom:area_square_m":12488912.254155,
+    "geom:area_square_m":12488912.254154,
     "geom:bbox":"-3.08415204,42.63877801,-3.030091,42.67589857",
     "geom:latitude":42.656439,
     "geom:longitude":-3.058866,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09016",
+        "eurostat:nuts_2021_id":"09016",
         "gn:id":6356341,
         "gp:id":12691386,
         "qs_pg:id":1147606
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fd28be90ddc9a57e7d19a06143d24795",
+    "wof:geomhash":"e52536860711bc9377168b0270ff0bb3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404331603,
-    "wof:lastmodified":1582361493,
+    "wof:lastmodified":1684352256,
     "wof:name":"Ameyugo",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":113,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

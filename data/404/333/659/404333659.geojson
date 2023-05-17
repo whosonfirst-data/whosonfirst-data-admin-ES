@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_14009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Belmez",
+    "eurostat:nuts_2021_id":"14009",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES613",
+    "eurostat:nuts_2021_level_lau":"14009",
+    "eurostat:population":2921,
+    "eurostat:population_year":2020,
     "geom:area":0.021349,
-    "geom:area_square_m":207262423.806258,
+    "geom:area_square_m":207262423.806263,
     "geom:bbox":"-5.30378713,38.1859548,-5.05203568,38.34445867",
     "geom:latitude":38.265586,
     "geom:longitude":-5.184071,
@@ -36,6 +48,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -44,6 +58,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_14009",
+        "eurostat:nuts_2021_id":"14009",
         "gn:id":6357204,
         "gp:id":12688780,
         "qs_pg:id":51528
@@ -52,7 +68,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c66f8b3dd6e86b57f749b0d72ab3996d",
+    "wof:geomhash":"5ca4de22c56e82eeb2cc6d762c7f32eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +79,12 @@
         }
     ],
     "wof:id":404333659,
-    "wof:lastmodified":1582361768,
+    "wof:lastmodified":1684352282,
     "wof:name":"Belmez",
     "wof:parent_id":85682697,
     "wof:placetype":"localadmin",
+    "wof:population":2921,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

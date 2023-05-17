@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Albu\u00f1uelas",
+    "eurostat:nuts_2021_id":"18007",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18007",
+    "eurostat:population":802,
+    "eurostat:population_year":2020,
     "geom:area":0.014164,
     "geom:area_square_m":140006559.471974,
     "geom:bbox":"-3.77006443,36.86124263,-3.60491118,36.99793712",
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18007",
+        "eurostat:nuts_2021_id":"18007",
         "gn:id":6357645,
         "gp:id":12688853,
         "qs_pg:id":1310992
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d79ff238b6e2de9ce709feb928b72621",
+    "wof:geomhash":"bbcdbf4e13ffe77aa088d91956d8bd67",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404335067,
-    "wof:lastmodified":1582361710,
+    "wof:lastmodified":1684352320,
     "wof:name":"Albu\u00f1uelas",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":802,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25191,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25191",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sana\u00fcja",
+    "eurostat:nuts_2021_id":"25191",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25191",
+    "eurostat:population":379,
+    "eurostat:population_year":2020,
     "geom:area":0.003573,
-    "geom:area_square_m":32898810.967437,
+    "geom:area_square_m":32898769.136851,
     "geom:bbox":"1.258145,41.826556,1.343573,41.900826",
     "geom:latitude":41.865248,
     "geom:longitude":1.308445,
@@ -112,6 +124,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -120,7 +134,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25191",
         "esp-icgc:la_lc":"025191",
+        "eurostat:nuts_2021_id":"25191",
         "gn:id":6358924,
         "gp:id":12694077,
         "qs_pg:id":1149581
@@ -130,7 +146,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"89f3e1cc4c13c4609c2977f9454a569f",
+    "wof:geomhash":"bdbd6b27da00192a8bfe1adaa0b95725",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404337991,
-    "wof:lastmodified":1669903019,
+    "wof:lastmodified":1684352367,
     "wof:name":"Sana\u00fcja",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":379,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

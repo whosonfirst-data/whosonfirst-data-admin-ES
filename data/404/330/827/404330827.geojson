@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_07044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pobla, Sa",
+    "eurostat:nuts_2021_id":"07044",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES53",
+    "eurostat:nuts_2021_level_3":"ES532",
+    "eurostat:nuts_2021_level_lau":"07044",
+    "eurostat:population":13764,
+    "eurostat:population_year":2020,
     "geom:area":0.005108,
     "geom:area_square_m":48539619.849417,
     "geom:bbox":"2.98514259,39.73060604,3.09244966,39.82579485",
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_07044",
+        "eurostat:nuts_2021_id":"07044",
         "gn:id":6533965,
         "gp:id":12687749,
         "qs_pg:id":213828
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4032b11571b3f5e06fef8752da3c404b",
+    "wof:geomhash":"fae752f5beb4a21e72692d4ce360f887",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404330827,
-    "wof:lastmodified":1582361521,
+    "wof:lastmodified":1684352232,
     "wof:name":"Sa Pobla",
     "wof:parent_id":85682647,
     "wof:placetype":"localadmin",
+    "wof:population":13764,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

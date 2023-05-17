@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8258,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08258",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Maria d'Ol\u00f3",
+    "eurostat:nuts_2021_id":"08258",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08258",
+    "eurostat:population":1024,
+    "eurostat:population_year":2020,
     "geom:area":0.007171,
-    "geom:area_square_m":66029799.940215,
+    "geom:area_square_m":66029827.617758,
     "geom:bbox":"1.975078,41.813176,2.143953,41.915278",
     "geom:latitude":41.86932,
     "geom:longitude":2.048845,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08258",
         "esp-icgc:la_lc":"08258",
+        "eurostat:nuts_2021_id":"08258",
         "gn:id":6356279,
         "gp:id":12693632,
         "qs_pg:id":1149534
@@ -67,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3ab63c3dd02ce98c311a8471200253c7",
+    "wof:geomhash":"d55afa592a3587950f59eaeb9386575a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404331455,
-    "wof:lastmodified":1669903002,
+    "wof:lastmodified":1684352252,
     "wof:name":"Santa Maria d'Ol\u00f3",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":1024,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

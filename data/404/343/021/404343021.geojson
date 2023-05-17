@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Almazul",
+    "eurostat:nuts_2021_id":"42021",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42021",
+    "eurostat:population":62,
+    "eurostat:population_year":2020,
     "geom:area":0.007324,
-    "geom:area_square_m":67766439.442873,
+    "geom:area_square_m":67766439.442875,
     "geom:bbox":"-2.21079373,41.49435267,-2.07954794,41.60144352",
     "geom:latitude":41.555949,
     "geom:longitude":-2.141694,
@@ -204,6 +216,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -212,6 +226,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42021",
+        "eurostat:nuts_2021_id":"42021",
         "gn:id":6361079,
         "gp:id":12692738,
         "qs_pg:id":1003820
@@ -220,7 +236,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"53eb542a057dd3f3a1d0f1ab28303be6",
+    "wof:geomhash":"4dd94dd70544111fa54a91f76c547a97",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -231,10 +247,12 @@
         }
     ],
     "wof:id":404343021,
-    "wof:lastmodified":1582361888,
+    "wof:lastmodified":1684352447,
     "wof:name":"Almazul",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":62,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

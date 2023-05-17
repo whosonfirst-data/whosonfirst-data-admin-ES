@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40219",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vallelado",
+    "eurostat:nuts_2021_id":"40219",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40219",
+    "eurostat:population":712,
+    "eurostat:population_year":2020,
     "geom:area":0.003967,
-    "geom:area_square_m":36795440.576286,
+    "geom:area_square_m":36795440.576287,
     "geom:bbox":"-4.46726516,41.36083496,-4.36832615,41.43269835",
     "geom:latitude":41.391802,
     "geom:longitude":-4.42255,
@@ -87,6 +99,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -95,6 +109,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_40219",
+        "eurostat:nuts_2021_id":"40219",
         "gn:id":6360937,
         "gp:id":12692704,
         "qs_pg:id":46833
@@ -103,7 +119,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"07d7ff5fea4ea87413f900702755e2dd",
+    "wof:geomhash":"7b77a21d822447a8ac5942a94de5bc0c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,10 +130,12 @@
         }
     ],
     "wof:id":404342701,
-    "wof:lastmodified":1582361806,
+    "wof:lastmodified":1684352442,
     "wof:name":"Vallelado",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":712,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_29057",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Genalguacil",
+    "eurostat:nuts_2021_id":"29057",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES617",
+    "eurostat:nuts_2021_level_lau":"29057",
+    "eurostat:population":393,
+    "eurostat:population_year":2020,
     "geom:area":0.003206,
-    "geom:area_square_m":31859428.260583,
+    "geom:area_square_m":31859428.260585,
     "geom:bbox":"-5.2727277,36.48430409,-5.18186486,36.55880985",
     "geom:latitude":36.524455,
     "geom:longitude":-5.224086,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_29057",
+        "eurostat:nuts_2021_id":"29057",
         "gn:id":6359462,
         "gp:id":12689246,
         "qs_pg:id":220769
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"32ca661e692348232162529d50433fcf",
+    "wof:geomhash":"33e8cf7e95094e3a8f491445a060afcd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404339219,
-    "wof:lastmodified":1582361584,
+    "wof:lastmodified":1684352390,
     "wof:name":"Genalguacil",
     "wof:parent_id":85682787,
     "wof:placetype":"localadmin",
+    "wof:population":393,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

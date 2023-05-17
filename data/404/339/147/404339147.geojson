@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_29025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Benalm\u00e1dena",
+    "eurostat:nuts_2021_id":"29025",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES617",
+    "eurostat:nuts_2021_level_lau":"29025",
+    "eurostat:population":69144,
+    "eurostat:population_year":2020,
     "geom:area":0.002707,
-    "geom:area_square_m":26871143.321665,
+    "geom:area_square_m":26871143.321664,
     "geom:bbox":"-4.59704097,36.57132256,-4.50777224,36.62271149",
     "geom:latitude":36.597335,
     "geom:longitude":-4.561598,
@@ -159,6 +171,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -167,6 +181,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_29025",
+        "eurostat:nuts_2021_id":"29025",
         "gn:id":6359430,
         "gp:id":12689214,
         "qs_pg:id":45174
@@ -175,7 +191,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a92b1b1d1dcf97bf71bf21b53aacda16",
+    "wof:geomhash":"791edbe52220338a883fd668ac5529e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -186,10 +202,12 @@
         }
     ],
     "wof:id":404339147,
-    "wof:lastmodified":1582361598,
+    "wof:lastmodified":1684352389,
     "wof:name":"Benalm\u00e1dena",
     "wof:parent_id":85682787,
     "wof:placetype":"localadmin",
+    "wof:population":69144,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

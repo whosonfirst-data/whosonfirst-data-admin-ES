@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8162,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08162",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hostalets de Pierola, Els",
+    "eurostat:nuts_2021_id":"08162",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08162",
+    "eurostat:population":2980,
+    "eurostat:population_year":2020,
     "geom:area":0.003605,
-    "geom:area_square_m":33360013.317581,
+    "geom:area_square_m":33359995.493645,
     "geom:bbox":"1.742624,41.506446,1.855747,41.576758",
     "geom:latitude":41.542415,
     "geom:longitude":1.795528,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08162",
         "esp-icgc:la_lc":"08162",
+        "eurostat:nuts_2021_id":"08162",
         "gn:id":6356189,
         "gp:id":12693481,
         "qs_pg:id":1197854
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"bd665d3d7c2e7bc7d6a70c5413e95704",
+    "wof:geomhash":"6688a1492260d8100d0eb422511f12d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404331243,
-    "wof:lastmodified":1669903000,
+    "wof:lastmodified":1684352246,
     "wof:name":"Els Hostalets de Pierola",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":2980,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8087,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08087",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gallifa",
+    "eurostat:nuts_2021_id":"08087",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08087",
+    "eurostat:population":167,
+    "eurostat:population_year":2020,
     "geom:area":0.001753,
-    "geom:area_square_m":16183907.810479,
+    "geom:area_square_m":16183907.81048,
     "geom:bbox":"2.08438341772,41.666920864,2.13975850636,41.7174170639",
     "geom:latitude":41.694271,
     "geom:longitude":2.114307,
@@ -127,6 +139,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -135,7 +149,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08087",
         "esp-icgc:la_lc":"08087",
+        "eurostat:nuts_2021_id":"08087",
         "gn:id":6356117,
         "gp:id":12693468,
         "qs_pg:id":201796
@@ -145,7 +161,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"748cc2b46176c048744835e821cfcaeb",
+    "wof:geomhash":"5b9b98566ee6cbca6e397cf6efe74424",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404331073,
-    "wof:lastmodified":1582361504,
+    "wof:lastmodified":1684352240,
     "wof:name":"Gallifa",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":167,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

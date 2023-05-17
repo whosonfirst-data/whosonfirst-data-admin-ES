@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09303",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"R\u00e1banos",
+    "eurostat:nuts_2021_id":"09303",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09303",
+    "eurostat:population":80,
+    "eurostat:population_year":2020,
     "geom:area":0.004437,
-    "geom:area_square_m":40573900.04731,
+    "geom:area_square_m":40573900.047309,
     "geom:bbox":"-3.33455845,42.25262245,-3.23403607,42.35421429",
     "geom:latitude":42.309525,
     "geom:longitude":-3.287258,
@@ -96,6 +108,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -103,9 +117,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_09303",
+        "eurostat:nuts_2021_id":"09303"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"4b8147c3626db4abb2c812983b6166b3",
+    "wof:geomhash":"d7774776eb93fa9e18f15344480c5b5d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +133,12 @@
         }
     ],
     "wof:id":404332179,
-    "wof:lastmodified":1566590537,
+    "wof:lastmodified":1684352262,
     "wof:name":"R\u00e1banos",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":80,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

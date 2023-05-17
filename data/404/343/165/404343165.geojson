@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42093",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fuentestr\u00fan",
+    "eurostat:nuts_2021_id":"42093",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42093",
+    "eurostat:population":44,
+    "eurostat:population_year":2020,
     "geom:area":0.000996,
-    "geom:area_square_m":9171759.224907,
+    "geom:area_square_m":9171759.224908,
     "geom:bbox":"-2.1195233,41.83610959,-2.07131933,41.90192433",
     "geom:latitude":41.868633,
     "geom:longitude":-2.089022,
@@ -177,6 +189,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -185,6 +199,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42093",
+        "eurostat:nuts_2021_id":"42093",
         "gn:id":6361143,
         "gp:id":12692802,
         "qs_pg:id":918618
@@ -193,7 +209,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a522a4c4217f86c9cbaab36ed974aa82",
+    "wof:geomhash":"fe5d1a91e340cc76fcc20fdc2540d6e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -204,10 +220,12 @@
         }
     ],
     "wof:id":404343165,
-    "wof:lastmodified":1582361879,
+    "wof:lastmodified":1684352448,
     "wof:name":"Fuentestr\u00fan",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":44,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

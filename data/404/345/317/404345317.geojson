@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46230",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Silla",
+    "eurostat:nuts_2021_id":"46230",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46230",
+    "eurostat:population":19078,
+    "eurostat:population_year":2020,
     "geom:area":0.002616,
-    "geom:area_square_m":25007186.706645,
+    "geom:area_square_m":25007186.706646,
     "geom:bbox":"-0.43429043,39.32542548,-0.3579836,39.3850678",
     "geom:latitude":39.356587,
     "geom:longitude":-0.402664,
@@ -186,6 +198,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -194,6 +208,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46230",
+        "eurostat:nuts_2021_id":"46230",
         "gn:id":6362095,
         "gp:id":12695769,
         "qs_pg:id":1102922
@@ -202,7 +218,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8d8d94bcbaa4243409a7e5dc3b5ea052",
+    "wof:geomhash":"fb104de833dfb700d3a83828421f681b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -213,10 +229,12 @@
         }
     ],
     "wof:id":404345317,
-    "wof:lastmodified":1582361840,
+    "wof:lastmodified":1684352485,
     "wof:name":"Silla",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":19078,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

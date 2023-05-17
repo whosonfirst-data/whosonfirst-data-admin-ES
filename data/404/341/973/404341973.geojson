@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_38025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Matanza de Acentejo, La",
+    "eurostat:nuts_2021_id":"38025",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES7",
+    "eurostat:nuts_2021_level_2":"ES70",
+    "eurostat:nuts_2021_level_3":"ES709",
+    "eurostat:nuts_2021_level_lau":"38025",
+    "eurostat:population":9059,
+    "eurostat:population_year":2020,
     "geom:area":0.0013,
-    "geom:area_square_m":14135163.919555,
+    "geom:area_square_m":14135163.919556,
     "geom:bbox":"-16.47493629,28.40909862,-16.40866867,28.46594394",
     "geom:latitude":28.440815,
     "geom:longitude":-16.442275,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_38025",
+        "eurostat:nuts_2021_id":"38025",
         "gn:id":6360632,
         "gp:id":12690182,
         "qs_pg:id":1311013
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"07f93398bb69d1dc1aa229f62289b1cf",
+    "wof:geomhash":"f02d28d9bb79b4142910da11304ce697",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404341973,
-    "wof:lastmodified":1582361641,
+    "wof:lastmodified":1684352432,
     "wof:name":"La Matanza De Acentejo",
     "wof:parent_id":85682831,
     "wof:placetype":"localadmin",
+    "wof:population":9059,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":43050,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Creixell",
+    "eurostat:nuts_2021_id":"43050",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43050",
+    "eurostat:population":3758,
+    "eurostat:population_year":2020,
     "geom:area":0.001112,
     "geom:area_square_m":10352914.346388,
     "geom:bbox":"1.41083327871,41.1552071687,1.45946974413,41.2121500476",
@@ -118,6 +130,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -126,7 +140,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43050",
         "esp-icgc:la_lc":"043050",
+        "eurostat:nuts_2021_id":"43050",
         "gn:id":6361293,
         "gp:id":12694188,
         "qs_pg:id":891502
@@ -136,7 +152,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"b204a9bfe7133a77ec9240031957e874",
+    "wof:geomhash":"881161802721d96d2bb6658a3a9b613f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404343505,
-    "wof:lastmodified":1582361864,
+    "wof:lastmodified":1684352455,
     "wof:name":"Creixell",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":3758,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

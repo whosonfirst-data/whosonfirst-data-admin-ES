@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Albalate de Cinca",
+    "eurostat:nuts_2021_id":"22007",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22007",
+    "eurostat:population":1099,
+    "eurostat:population_year":2020,
     "geom:area":0.004787,
-    "geom:area_square_m":44170428.363288,
+    "geom:area_square_m":44170428.363289,
     "geom:bbox":"0.1250718,41.68949268,0.21234372,41.77909257",
     "geom:latitude":41.739831,
     "geom:longitude":0.165478,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22007",
+        "eurostat:nuts_2021_id":"22007",
         "gn:id":6358261,
         "gp:id":12689402,
         "qs_pg:id":45293
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fda4388ebdfdbaf896de453c909cc2f5",
+    "wof:geomhash":"dece2710a68d331193b3e0b5807ac289",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404336471,
-    "wof:lastmodified":1582361461,
+    "wof:lastmodified":1684352339,
     "wof:name":"Albalate De Cinca",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":1099,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

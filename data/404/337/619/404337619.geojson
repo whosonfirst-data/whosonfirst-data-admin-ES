@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25001,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Abella de la Conca",
+    "eurostat:nuts_2021_id":"25001",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25001",
+    "eurostat:population":183,
+    "eurostat:population_year":2020,
     "geom:area":0.008498,
-    "geom:area_square_m":77869741.699012,
+    "geom:area_square_m":77869711.02791,
     "geom:bbox":"1.040127,42.127197,1.186527,42.230224",
     "geom:latitude":42.175804,
     "geom:longitude":1.118049,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25001",
         "esp-icgc:la_lc":"025001",
+        "eurostat:nuts_2021_id":"25001",
         "gn:id":6358761,
         "gp:id":12693907,
         "qs_pg:id":1149559
@@ -67,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"92d792d011675912d07e893394b48ed8",
+    "wof:geomhash":"594c8794ae27d0bb63fc64bf0b17e746",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404337619,
-    "wof:lastmodified":1669903021,
+    "wof:lastmodified":1684352354,
     "wof:name":"Abella de la Conca",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":183,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

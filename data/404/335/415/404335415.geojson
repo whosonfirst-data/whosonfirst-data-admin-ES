@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18906",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gu\u00e1jares, Los",
+    "eurostat:nuts_2021_id":"18906",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18906",
+    "eurostat:population":1053,
+    "eurostat:population_year":2020,
     "geom:area":0.009025,
-    "geom:area_square_m":89294071.018673,
+    "geom:area_square_m":89294071.018671,
     "geom:bbox":"-3.68165724,36.80053185,-3.53222068,36.89807047",
     "geom:latitude":36.85191,
     "geom:longitude":-3.60339,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18906",
+        "eurostat:nuts_2021_id":"18906",
         "gn:id":6357798,
         "qs_pg:id":621646
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7d2ac9f7aaf784c018d57236de6b40d0",
+    "wof:geomhash":"eab406831b30b9e67f0c5de1b273d3a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404335415,
-    "wof:lastmodified":1582361698,
+    "wof:lastmodified":1684352325,
     "wof:name":"Los Guajares",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":1053,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

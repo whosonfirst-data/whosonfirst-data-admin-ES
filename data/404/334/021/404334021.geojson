@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Abia de la Obispal\u00eda",
+    "eurostat:nuts_2021_id":"16001",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16001",
+    "eurostat:population":61,
+    "eurostat:population_year":2020,
     "geom:area":0.006656,
     "geom:area_square_m":63013865.124571,
     "geom:bbox":"-2.44865379,39.98870519,-2.32576742,40.09614594",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227375
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_16001",
+        "eurostat:nuts_2021_id":"16001"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"d0fdd07ce2c9043b4f94b443b82106da",
+    "wof:geomhash":"c103977b14e0459339d5dfbd3d3d4030",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404334021,
-    "wof:lastmodified":1566590719,
+    "wof:lastmodified":1684352292,
     "wof:name":"Abia De La Obispal\u00eda",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":61,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

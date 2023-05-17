@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_02015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Barrax",
+    "eurostat:nuts_2021_id":"02015",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES421",
+    "eurostat:nuts_2021_level_lau":"02015",
+    "eurostat:population":1799,
+    "eurostat:population_year":2020,
     "geom:area":0.019751,
-    "geom:area_square_m":189713865.747249,
+    "geom:area_square_m":189713865.74725,
     "geom:bbox":"-2.30040137,38.96454014,-2.09277606,39.11088937",
     "geom:latitude":39.033059,
     "geom:longitude":-2.204857,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_02015",
+        "eurostat:nuts_2021_id":"02015",
         "gn:id":6355307,
         "gp:id":12690226,
         "qs_pg:id":1102517
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9c83ea02c4ed671a92b8b246bfe472ee",
+    "wof:geomhash":"b4346686ab58a321164fe78166d0df97",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404329085,
-    "wof:lastmodified":1582361791,
+    "wof:lastmodified":1684352204,
     "wof:name":"Barrax",
     "wof:parent_id":85682621,
     "wof:placetype":"localadmin",
+    "wof:population":1799,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

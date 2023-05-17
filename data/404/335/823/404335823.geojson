@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19209",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pardos",
+    "eurostat:nuts_2021_id":"19209",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19209",
+    "eurostat:population":43,
+    "eurostat:population_year":2020,
     "geom:area":0.002476,
-    "geom:area_square_m":23124968.065281,
+    "geom:area_square_m":23124968.06528,
     "geom:bbox":"-1.96372811,40.91893388,-1.88390791,40.97086567",
     "geom:latitude":40.943827,
     "geom:longitude":-1.93081,
@@ -39,6 +51,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -47,6 +61,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19209",
+        "eurostat:nuts_2021_id":"19209",
         "gn:id":6357978,
         "gp:id":12690808,
         "qs_pg:id":45967
@@ -55,7 +71,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"de1ce951545eb9f858bdf8a4a5430a80",
+    "wof:geomhash":"930dd652b0da72f9ae84310c8df45089",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +82,12 @@
         }
     ],
     "wof:id":404335823,
-    "wof:lastmodified":1582361706,
+    "wof:lastmodified":1684352330,
     "wof:name":"Pardos",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":43,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

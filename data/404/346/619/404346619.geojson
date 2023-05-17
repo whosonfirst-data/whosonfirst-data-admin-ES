@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49230",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vallesa de la Guare\u00f1a",
+    "eurostat:nuts_2021_id":"49230",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49230",
+    "eurostat:population":81,
+    "eurostat:population_year":2020,
     "geom:area":0.003005,
-    "geom:area_square_m":27977736.705366,
+    "geom:area_square_m":27977736.705363,
     "geom:bbox":"-5.35738668,41.1171729,-5.28796124,41.18543444",
     "geom:latitude":41.150143,
     "geom:longitude":-5.319315,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_49230",
+        "eurostat:nuts_2021_id":"49230",
         "gn:id":6362653,
         "gp:id":12693333,
         "qs_pg:id":1196728
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1e63da88d515ff9fe10157dd858853ca",
+    "wof:geomhash":"adc398a724ff5937beec3262c7678cc2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404346619,
-    "wof:lastmodified":1582361609,
+    "wof:lastmodified":1684352501,
     "wof:name":"Vallesa De La Guare\u00f1a",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":81,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

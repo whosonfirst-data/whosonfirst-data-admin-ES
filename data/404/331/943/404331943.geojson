@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09174",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Huerta de Rey",
+    "eurostat:nuts_2021_id":"09174",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09174",
+    "eurostat:population":901,
+    "eurostat:population_year":2020,
     "geom:area":0.010598,
-    "geom:area_square_m":97681290.045643,
+    "geom:area_square_m":97681290.045638,
     "geom:bbox":"-3.41172006,41.74918494,-3.27538295,41.88499803",
     "geom:latitude":41.809512,
     "geom:longitude":-3.329848,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09174",
+        "eurostat:nuts_2021_id":"09174",
         "gn:id":6356463,
         "qs_pg:id":244660
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"258855010f6ac5590748d8a4019efa88",
+    "wof:geomhash":"bd9356f744beae50856d7e4df3af7bff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404331943,
-    "wof:lastmodified":1582361515,
+    "wof:lastmodified":1684352259,
     "wof:name":"Huerta De Rey",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":901,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

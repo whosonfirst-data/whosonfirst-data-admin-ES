@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Almed\u00edjar",
+    "eurostat:nuts_2021_id":"12010",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12010",
+    "eurostat:population":244,
+    "eurostat:population_year":2020,
     "geom:area":0.0022,
-    "geom:area_square_m":20877967.596869,
+    "geom:area_square_m":20877967.596867,
     "geom:bbox":"-0.44416855,39.83846473,-0.36770458,39.89472783",
     "geom:latitude":39.872342,
     "geom:longitude":-0.407953,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12010",
+        "eurostat:nuts_2021_id":"12010",
         "gn:id":6356969,
         "gp:id":12695415,
         "qs_pg:id":1149669
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d0c937e35426cdd7f4f6a4e81c63a954",
+    "wof:geomhash":"724f4911c7388491567a5747c9a2076f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404333129,
-    "wof:lastmodified":1582361769,
+    "wof:lastmodified":1684352274,
     "wof:name":"Almed\u00edjar",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":244,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

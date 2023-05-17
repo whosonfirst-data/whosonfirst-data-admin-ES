@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43078,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43078",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Masdenverge",
+    "eurostat:nuts_2021_id":"43078",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43078",
+    "eurostat:population":1071,
+    "eurostat:population_year":2020,
     "geom:area":0.001564,
-    "geom:area_square_m":14654704.082375,
+    "geom:area_square_m":14654704.082374,
     "geom:bbox":"0.502858013107,40.6791637559,0.552542449931,40.7460384485",
     "geom:latitude":40.713944,
     "geom:longitude":0.530613,
@@ -112,6 +124,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -120,7 +134,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43078",
         "esp-icgc:la_lc":"043078",
+        "eurostat:nuts_2021_id":"43078",
         "gn:id":6361321,
         "gp:id":12694216,
         "qs_pg:id":1164955
@@ -130,7 +146,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3aa723af86dbee14188f3c7f3feeea9c",
+    "wof:geomhash":"fa3228415496d88f68475ad8653e4d85",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404343569,
-    "wof:lastmodified":1582361862,
+    "wof:lastmodified":1684352457,
     "wof:name":"Masdenverge",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":1071,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

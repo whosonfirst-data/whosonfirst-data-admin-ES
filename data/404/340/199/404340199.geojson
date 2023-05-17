@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_32057",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Parada de Sil",
+    "eurostat:nuts_2021_id":"32057",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES113",
+    "eurostat:nuts_2021_level_lau":"32057",
+    "eurostat:population":546,
+    "eurostat:population_year":2020,
     "geom:area":0.006823,
-    "geom:area_square_m":62340298.019588,
+    "geom:area_square_m":62340298.01959,
     "geom:bbox":"-7.63353245,42.31714269,-7.49536149,42.40486847",
     "geom:latitude":42.362713,
     "geom:longitude":-7.562007,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_32057",
+        "eurostat:nuts_2021_id":"32057",
         "gp:id":12694916,
         "qs_pg:id":328489
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"75a576779c580deff5610a3df550396e",
+    "wof:geomhash":"d52356bae773282275e252d6758fede1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404340199,
-    "wof:lastmodified":1582361659,
+    "wof:lastmodified":1684352403,
     "wof:name":"Parada De Sil",
     "wof:parent_id":85682801,
     "wof:placetype":"localadmin",
+    "wof:population":546,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

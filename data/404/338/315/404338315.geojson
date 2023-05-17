@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_26078",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hornos de Moncalvillo",
+    "eurostat:nuts_2021_id":"26078",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES23",
+    "eurostat:nuts_2021_level_3":"ES230",
+    "eurostat:nuts_2021_level_lau":"26078",
+    "eurostat:population":94,
+    "eurostat:population_year":2020,
     "geom:area":0.00081,
     "geom:area_square_m":7392234.372876,
     "geom:bbox":"-2.5966251,42.37869401,-2.56124664,42.41510673",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_26078",
+        "eurostat:nuts_2021_id":"26078",
         "gn:id":6359068,
         "gp:id":12687849,
         "qs_pg:id":234817
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"58104d40a4217e90771cd70f9f4f864a",
+    "wof:geomhash":"866bccd11430926b9a809bbaa7ff38d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404338315,
-    "wof:lastmodified":1582361441,
+    "wof:lastmodified":1684352374,
     "wof:name":"Hornos De Moncalvillo",
     "wof:parent_id":85682773,
     "wof:placetype":"localadmin",
+    "wof:population":94,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

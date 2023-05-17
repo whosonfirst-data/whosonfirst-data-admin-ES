@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carbonero el Mayor",
+    "eurostat:nuts_2021_id":"40043",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40043",
+    "eurostat:population":2494,
+    "eurostat:population_year":2020,
     "geom:area":0.007117,
-    "geom:area_square_m":66268367.53336,
+    "geom:area_square_m":66268367.533361,
     "geom:bbox":"-4.36084789,41.09253295,-4.22409479,41.19504528",
     "geom:latitude":41.144523,
     "geom:longitude":-4.278896,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_40043",
+        "eurostat:nuts_2021_id":"40043"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"f54339337d9f13d68724f43800dbde03",
+    "wof:geomhash":"f6a78894ebe1be83d6c7ec7262e5efc4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404342355,
-    "wof:lastmodified":1566590919,
+    "wof:lastmodified":1684352438,
     "wof:name":"Carbonero El Mayor",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":2494,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42078",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Duruelo de la Sierra",
+    "eurostat:nuts_2021_id":"42078",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42078",
+    "eurostat:population":1088,
+    "eurostat:population_year":2020,
     "geom:area":0.00487,
-    "geom:area_square_m":44774423.100166,
+    "geom:area_square_m":44774423.100165,
     "geom:bbox":"-2.97079228,41.90963587,-2.87803807,42.02285214",
     "geom:latitude":41.972469,
     "geom:longitude":-2.930866,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42078",
+        "eurostat:nuts_2021_id":"42078",
         "gn:id":6361129,
         "gp:id":12692788,
         "qs_pg:id":238939
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b652b6d8329592c3b2ae6abd0ef72e07",
+    "wof:geomhash":"be7795d1d3f39bb510b68118b3784d7a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404343133,
-    "wof:lastmodified":1582361865,
+    "wof:lastmodified":1684352448,
     "wof:name":"Duruelo De La Sierra",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":1088,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

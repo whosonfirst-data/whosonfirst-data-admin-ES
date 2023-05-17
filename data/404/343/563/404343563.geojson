@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43076,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43076",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mar\u00e7\u00e0",
+    "eurostat:nuts_2021_id":"43076",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43076",
+    "eurostat:population":600,
+    "eurostat:population_year":2020,
     "geom:area":0.001725,
-    "geom:area_square_m":16064614.675232,
+    "geom:area_square_m":16064608.726505,
     "geom:bbox":"0.754321,41.102343,0.835742,41.143917",
     "geom:latitude":41.126668,
     "geom:longitude":0.801402,
@@ -112,6 +124,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -120,7 +134,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43076",
         "esp-icgc:la_lc":"043076",
+        "eurostat:nuts_2021_id":"43076",
         "gp:id":12694213,
         "qs_pg:id":328133
     },
@@ -129,7 +145,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"82628f753e3b46fb7b0b1d633a566eee",
+    "wof:geomhash":"25da617a72a4f6fb37d9a3e7e47eac4b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404343563,
-    "wof:lastmodified":1669903065,
+    "wof:lastmodified":1684352457,
     "wof:name":"Mar\u00e7\u00e0",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":600,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

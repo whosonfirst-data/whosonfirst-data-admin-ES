@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19264",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Taravilla",
+    "eurostat:nuts_2021_id":"19264",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19264",
+    "eurostat:population":36,
+    "eurostat:population_year":2020,
     "geom:area":0.006463,
-    "geom:area_square_m":60610099.489086,
+    "geom:area_square_m":60610099.489085,
     "geom:bbox":"-2.05001243,40.62253124,-1.91751685,40.71309695",
     "geom:latitude":40.673943,
     "geom:longitude":-1.977307,
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19264",
+        "eurostat:nuts_2021_id":"19264",
         "gn:id":6358031,
         "gp:id":12690862,
         "qs_pg:id":78651
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1d72c750a9d717aa0fae4af90ec64845",
+    "wof:geomhash":"baaecb2f29dc85f8abb34f1849ca8961",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404335943,
-    "wof:lastmodified":1582361712,
+    "wof:lastmodified":1684352331,
     "wof:name":"Taravilla",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":36,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

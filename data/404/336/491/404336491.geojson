@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alcolea de Cinca",
+    "eurostat:nuts_2021_id":"22017",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22017",
+    "eurostat:population":1177,
+    "eurostat:population_year":2020,
     "geom:area":0.009008,
-    "geom:area_square_m":83123908.932355,
+    "geom:area_square_m":83123908.932354,
     "geom:bbox":"-0.01276262,41.6768659,0.14912935,41.77685817",
     "geom:latitude":41.72863,
     "geom:longitude":0.077924,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22017",
+        "eurostat:nuts_2021_id":"22017",
         "gn:id":6358270,
         "gp:id":12689411,
         "qs_pg:id":396417
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"600b62aec806eb304ca83f93726a1c60",
+    "wof:geomhash":"250afb7ba6b71eebae28278fef055ce9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404336491,
-    "wof:lastmodified":1582361466,
+    "wof:lastmodified":1684352339,
     "wof:name":"Alcolea De Cinca",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":1177,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

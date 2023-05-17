@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43022,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Batea",
+    "eurostat:nuts_2021_id":"43022",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43022",
+    "eurostat:population":1901,
+    "eurostat:population_year":2020,
     "geom:area":0.013764,
-    "geom:area_square_m":128247152.810999,
+    "geom:area_square_m":128247152.811,
     "geom:bbox":"0.200457609673,41.0435629508,0.382113387013,41.168354267",
     "geom:latitude":41.104257,
     "geom:longitude":0.295474,
@@ -55,6 +67,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -63,7 +77,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43022",
         "esp-icgc:la_lc":"043022",
+        "eurostat:nuts_2021_id":"43022",
         "gn:id":6361265,
         "gp:id":12694160,
         "qs_pg:id":1291885
@@ -73,7 +89,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"01cc5f785c00276897e80bae51db6315",
+    "wof:geomhash":"35a22a7a3481b62d440ab979e9df66be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +100,12 @@
         }
     ],
     "wof:id":404343443,
-    "wof:lastmodified":1582361885,
+    "wof:lastmodified":1684352453,
     "wof:name":"Batea",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":1901,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

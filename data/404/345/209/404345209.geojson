@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46182",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Olocau",
+    "eurostat:nuts_2021_id":"46182",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46182",
+    "eurostat:population":1828,
+    "eurostat:population_year":2020,
     "geom:area":0.003926,
     "geom:area_square_m":37361573.07253,
     "geom:bbox":"-0.5693259,39.63530978,-0.48976354,39.72430651",
@@ -84,6 +96,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -92,6 +106,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46182",
+        "eurostat:nuts_2021_id":"46182",
         "gn:id":6362047,
         "gp:id":12695718,
         "qs_pg:id":1149695
@@ -100,7 +116,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"579d8608b1f9c4a5a66524b80efbb0bc",
+    "wof:geomhash":"684382cdf4e711042f720d9b8633aefb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,10 +127,12 @@
         }
     ],
     "wof:id":404345209,
-    "wof:lastmodified":1582361837,
+    "wof:lastmodified":1684352483,
     "wof:name":"Olocau",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":1828,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

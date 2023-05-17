@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24089",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Le\u00f3n",
+    "eurostat:nuts_2021_id":"24089",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24089",
+    "eurostat:population":124028,
+    "eurostat:population_year":2020,
     "geom:area":0.004281,
-    "geom:area_square_m":38973126.374259,
+    "geom:area_square_m":38973126.374256,
     "geom:bbox":"-5.63123998,42.54693411,-5.53365408,42.64033677",
     "geom:latitude":42.588551,
     "geom:longitude":-5.57626,
@@ -126,6 +138,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -134,6 +148,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_24089",
+        "eurostat:nuts_2021_id":"24089",
         "gn:id":6362996,
         "gp:id":12691828,
         "qs_pg:id":1293566
@@ -142,7 +158,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5685e4091417b4fa2db21d2fc2ec7b0a",
+    "wof:geomhash":"60f140ba28e2fa53db8093f21a1f6bb9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,10 +169,12 @@
         }
     ],
     "wof:id":404337317,
-    "wof:lastmodified":1582361576,
+    "wof:lastmodified":1684352351,
     "wof:name":"Le\u00f3n",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":124028,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

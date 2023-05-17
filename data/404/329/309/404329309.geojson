@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Beniarbeig",
+    "eurostat:nuts_2021_id":"03026",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03026",
+    "eurostat:population":2159,
+    "eurostat:population_year":2020,
     "geom:area":0.000768,
     "geom:area_square_m":7397612.98797,
     "geom:bbox":"-0.03465979,38.78680958,0.00921767,38.83888824",
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03026",
+        "eurostat:nuts_2021_id":"03026",
         "gn:id":6355402,
         "gp:id":12695291,
         "qs_pg:id":1023755
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"336386dc8eae3fcc80f34bb4337dd270",
+    "wof:geomhash":"c72ba12ddae1551e2a8c7abb40226092",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404329309,
-    "wof:lastmodified":1582361787,
+    "wof:lastmodified":1684352207,
     "wof:name":"Beniarbeig",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":2159,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

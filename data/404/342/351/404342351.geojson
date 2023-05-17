@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cantalejo",
+    "eurostat:nuts_2021_id":"40040",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40040",
+    "eurostat:population":3562,
+    "eurostat:population_year":2020,
     "geom:area":0.008535,
-    "geom:area_square_m":79334458.716691,
+    "geom:area_square_m":79334458.716692,
     "geom:bbox":"-4.03757938,41.21076433,-3.83089987,41.3087937",
     "geom:latitude":41.26056,
     "geom:longitude":-3.934256,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_40040",
+        "eurostat:nuts_2021_id":"40040",
         "gn:id":6360782,
         "gp:id":12692547,
         "qs_pg:id":51732
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2b0768dd9bc4aaec5f2abb9966207866",
+    "wof:geomhash":"ca638bcd1b99cc106478c86fd5fdb883",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404342351,
-    "wof:lastmodified":1582361816,
+    "wof:lastmodified":1684352438,
     "wof:name":"Cantalejo",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":3562,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_20052",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Legorreta",
+    "eurostat:nuts_2021_id":"20052",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES212",
+    "eurostat:nuts_2021_level_lau":"20052",
+    "eurostat:population":1421,
+    "eurostat:population_year":2020,
     "geom:area":0.000953,
-    "geom:area_square_m":8607195.538399,
+    "geom:area_square_m":8607195.538398,
     "geom:bbox":"-2.18058223,43.07265778,-2.12539465,43.10704788",
     "geom:latitude":43.089245,
     "geom:longitude":-2.152206,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_20052",
+        "eurostat:nuts_2021_id":"20052",
         "gn:id":6358141,
         "gp:id":12695123,
         "qs_pg:id":103374
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c9d312e5d2112d02769195fc5fea4022",
+    "wof:geomhash":"2c5384ce5c911dabd851eef41cb81a77",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404336199,
-    "wof:lastmodified":1582361470,
+    "wof:lastmodified":1684352334,
     "wof:name":"Legorreta",
     "wof:parent_id":85682741,
     "wof:placetype":"localadmin",
+    "wof:population":1421,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Almeg\u00edjar",
+    "eurostat:nuts_2021_id":"18016",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18016",
+    "eurostat:population":337,
+    "eurostat:population_year":2020,
     "geom:area":0.002975,
-    "geom:area_square_m":29411862.037779,
+    "geom:area_square_m":29411862.03778,
     "geom:bbox":"-3.33514392,36.87457076,-3.24250648,36.94112751",
     "geom:latitude":36.90236,
     "geom:longitude":-3.284487,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18016",
+        "eurostat:nuts_2021_id":"18016",
         "gn:id":6357652,
         "gp:id":12688860,
         "qs_pg:id":1146290
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"19f35ff38db9260779a86dc0ed7fadde",
+    "wof:geomhash":"dc040246a8bbdc83d77dd7f6c152c30c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404335083,
-    "wof:lastmodified":1582361697,
+    "wof:lastmodified":1684352320,
     "wof:name":"Almeg\u00edjar",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":337,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

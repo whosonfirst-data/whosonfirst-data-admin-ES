@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bretocino",
+    "eurostat:nuts_2021_id":"49026",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49026",
+    "eurostat:population":208,
+    "eurostat:population_year":2020,
     "geom:area":0.001403,
-    "geom:area_square_m":12917545.931522,
+    "geom:area_square_m":12917545.931521,
     "geom:bbox":"-5.82793694,41.86635596,-5.73319769,41.901474",
     "geom:latitude":41.88213,
     "geom:longitude":-5.777679,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_49026",
+        "eurostat:nuts_2021_id":"49026",
         "gn:id":6362473,
         "gp:id":12693152,
         "qs_pg:id":1149359
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"89b2ad79e71425e267c34a35e5c4cbe6",
+    "wof:geomhash":"7c5bf7c802ec91ba35c4522c33e9e0fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404346211,
-    "wof:lastmodified":1582361608,
+    "wof:lastmodified":1684352496,
     "wof:name":"Bretocino",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":208,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

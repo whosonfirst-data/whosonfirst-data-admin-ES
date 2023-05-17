@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03084",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lorcha / Orxa, l'",
+    "eurostat:nuts_2021_id":"03084",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03084",
+    "eurostat:population":582,
+    "eurostat:population_year":2020,
     "geom:area":0.003296,
-    "geom:area_square_m":31742495.807091,
+    "geom:area_square_m":31742495.807092,
     "geom:bbox":"-0.35517359,38.81437264,-0.26027359,38.88169493",
     "geom:latitude":38.849685,
     "geom:longitude":-0.308658,
@@ -96,6 +108,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -103,9 +117,12 @@
         404227381
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_03084",
+        "eurostat:nuts_2021_id":"03084"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"be8ed8bf68ecfe6357483f9164478c7d",
+    "wof:geomhash":"c90d743467e5e3f6f2fc85538477e6c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +133,12 @@
         }
     ],
     "wof:id":404329441,
-    "wof:lastmodified":1566590853,
+    "wof:lastmodified":1684352210,
     "wof:name":"Lorcha/L'Orxa",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":582,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

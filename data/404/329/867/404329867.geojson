@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bularros",
+    "eurostat:nuts_2021_id":"05040",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05040",
+    "eurostat:population":66,
+    "eurostat:population_year":2020,
     "geom:area":0.003279,
-    "geom:area_square_m":30723900.352687,
+    "geom:area_square_m":30723900.352688,
     "geom:bbox":"-4.89461829,40.68861443,-4.79060276,40.77242229",
     "geom:latitude":40.733513,
     "geom:longitude":-4.83688,
@@ -102,6 +114,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -109,9 +123,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_05040",
+        "eurostat:nuts_2021_id":"05040"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"5385c11ecf99dd4a641dbf01764a9d4b",
+    "wof:geomhash":"003d31ab6b6610d7132f1a6968c2db97",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +139,12 @@
         }
     ],
     "wof:id":404329867,
-    "wof:lastmodified":1566590863,
+    "wof:lastmodified":1684352216,
     "wof:name":"Bularros",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":66,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

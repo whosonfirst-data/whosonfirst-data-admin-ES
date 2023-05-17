@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05190",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pozanco",
+    "eurostat:nuts_2021_id":"05190",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05190",
+    "eurostat:population":53,
+    "eurostat:population_year":2020,
     "geom:area":0.001181,
-    "geom:area_square_m":11054379.602622,
+    "geom:area_square_m":11054379.602623,
     "geom:bbox":"-4.69036254,40.77428129,-4.63990644,40.82166173",
     "geom:latitude":40.802223,
     "geom:longitude":-4.66761,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05190",
+        "eurostat:nuts_2021_id":"05190",
         "gn:id":6355790,
         "gp:id":12691299,
         "qs_pg:id":497057
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5b6b9b7ee7f0faf2037c59807cbb1646",
+    "wof:geomhash":"f5fbe1e4e023a0ab3c8211ec606a5070",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404330185,
-    "wof:lastmodified":1582361545,
+    "wof:lastmodified":1684352220,
     "wof:name":"Pozanco",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":53,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

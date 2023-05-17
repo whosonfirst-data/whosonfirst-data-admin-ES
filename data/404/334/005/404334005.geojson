@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15088",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Val do Dubra",
+    "eurostat:nuts_2021_id":"15088",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15088",
+    "eurostat:population":3851,
+    "eurostat:population_year":2020,
     "geom:area":0.011999,
-    "geom:area_square_m":108474358.387427,
+    "geom:area_square_m":108474358.387431,
     "geom:bbox":"-8.72031122,42.94964083,-8.5916939,43.09533317",
     "geom:latitude":43.019641,
     "geom:longitude":-8.654029,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227385
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_15088",
+        "eurostat:nuts_2021_id":"15088"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"d14700c60367b95042ebbc6fd8c7497b",
+    "wof:geomhash":"b43ac54fb4d89e0a50dc753f8ceaad20",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404334005,
-    "wof:lastmodified":1566590727,
+    "wof:lastmodified":1684352291,
     "wof:name":"Val Do Dubra",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":3851,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

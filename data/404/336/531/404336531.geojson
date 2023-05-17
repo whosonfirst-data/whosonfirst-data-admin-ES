@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ayerbe",
+    "eurostat:nuts_2021_id":"22039",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22039",
+    "eurostat:population":1017,
+    "eurostat:population_year":2020,
     "geom:area":0.00697,
     "geom:area_square_m":63796888.061662,
     "geom:bbox":"-0.75254582,42.17732932,-0.65259249,42.29775029",
@@ -159,6 +171,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -167,6 +181,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22039",
+        "eurostat:nuts_2021_id":"22039",
         "gn:id":6358286,
         "gp:id":12689427,
         "qs_pg:id":288230
@@ -175,7 +191,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dfcaae299d7963377ca9dc2833b0673f",
+    "wof:geomhash":"c798272d15d3ce48e2f6d1a3aafe649f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -186,10 +202,12 @@
         }
     ],
     "wof:id":404336531,
-    "wof:lastmodified":1582361470,
+    "wof:lastmodified":1684352340,
     "wof:name":"Ayerbe",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":1017,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

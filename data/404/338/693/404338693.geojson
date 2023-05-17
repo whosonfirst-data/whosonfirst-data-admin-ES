@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u00c1lamo, El",
+    "eurostat:nuts_2021_id":"28004",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28004",
+    "eurostat:population":9862,
+    "eurostat:population_year":2020,
     "geom:area":0.00233,
-    "geom:area_square_m":21991730.269084,
+    "geom:area_square_m":21991730.269083,
     "geom:bbox":"-4.02681787,40.20947821,-3.94554409,40.25642616",
     "geom:latitude":40.232403,
     "geom:longitude":-3.989257,
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28004",
+        "eurostat:nuts_2021_id":"28004",
         "gn:id":6359230,
         "qs_pg:id":621751
     },
@@ -108,7 +124,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"82dc6fc955b664ba287426b924e49287",
+    "wof:geomhash":"2cc0e36198b21ec65844c4619bfcd750",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +135,12 @@
         }
     ],
     "wof:id":404338693,
-    "wof:lastmodified":1582361438,
+    "wof:lastmodified":1684352380,
     "wof:name":"El \u00c1lamo",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":9862,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

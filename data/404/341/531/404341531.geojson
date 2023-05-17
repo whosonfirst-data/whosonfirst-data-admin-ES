@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37206",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mor\u00ed\u00f1igo",
+    "eurostat:nuts_2021_id":"37206",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37206",
+    "eurostat:population":96,
+    "eurostat:population_year":2020,
     "geom:area":0.000894,
-    "geom:area_square_m":8347795.147176,
+    "geom:area_square_m":8347795.147177,
     "geom:bbox":"-5.42021472,40.9492001,-5.36671096,40.98390422",
     "geom:latitude":40.963977,
     "geom:longitude":-5.396116,
@@ -96,6 +108,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -103,9 +117,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_37206",
+        "eurostat:nuts_2021_id":"37206"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"38520d606f2620805a8ce174568af2eb",
+    "wof:geomhash":"124db8e2e6b7c9a511cf462dd6576316",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +133,12 @@
         }
     ],
     "wof:id":404341531,
-    "wof:lastmodified":1566590334,
+    "wof:lastmodified":1684352425,
     "wof:name":"Mor\u00ed\u00f1igo",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":96,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10068",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cuacos de Yuste",
+    "eurostat:nuts_2021_id":"10068",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10068",
+    "eurostat:population":851,
+    "eurostat:population_year":2020,
     "geom:area":0.005557,
-    "geom:area_square_m":52580893.535485,
+    "geom:area_square_m":52580893.535484,
     "geom:bbox":"-5.75703822,40.02265956,-5.58145754,40.12571124",
     "geom:latitude":40.072921,
     "geom:longitude":-5.681105,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10068",
+        "eurostat:nuts_2021_id":"10068",
         "gn:id":6356765,
         "gp:id":12694550,
         "qs_pg:id":1311119
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"34dabe12ff031ab3d09f12db7d86a334",
+    "wof:geomhash":"4b1bcd99e18b46d4f889eb5bffac6361",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332663,
-    "wof:lastmodified":1582361689,
+    "wof:lastmodified":1684352267,
     "wof:name":"Cuacos De Yuste",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":851,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

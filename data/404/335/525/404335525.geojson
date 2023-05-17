@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Barriopedro",
+    "eurostat:nuts_2021_id":"19050",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19050",
+    "eurostat:population":15,
+    "eurostat:population_year":2020,
     "geom:area":0.001139,
-    "geom:area_square_m":10668600.780259,
+    "geom:area_square_m":10668600.780258,
     "geom:bbox":"-2.7831943,40.76467585,-2.72731479,40.80494385",
     "geom:latitude":40.784799,
     "geom:longitude":-2.759659,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19050",
+        "eurostat:nuts_2021_id":"19050",
         "gn:id":6357847,
         "gp:id":12690677,
         "qs_pg:id":1196434
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5fcabcc8be363a219eb7a0f29386c956",
+    "wof:geomhash":"d8bcf693874341826624727b9aae5747",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404335525,
-    "wof:lastmodified":1582361711,
+    "wof:lastmodified":1684352327,
     "wof:name":"Barriopedro",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":15,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

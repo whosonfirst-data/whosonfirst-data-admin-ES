@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46059",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Benifair\u00f3 de la Valldigna",
+    "eurostat:nuts_2021_id":"46059",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46059",
+    "eurostat:population":1558,
+    "eurostat:population_year":2020,
     "geom:area":0.002102,
-    "geom:area_square_m":20182870.726715,
+    "geom:area_square_m":20182870.726716,
     "geom:bbox":"-0.33976038,39.02037648,-0.26552746,39.09817197",
     "geom:latitude":39.062519,
     "geom:longitude":-0.302017,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227381
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_46059",
+        "eurostat:nuts_2021_id":"46059"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"8b3963c2b7bc0351c5b4d4894a8efafb",
+    "wof:geomhash":"20e939b19e01183aa645953e70033959",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404344931,
-    "wof:lastmodified":1566591063,
+    "wof:lastmodified":1684352480,
     "wof:name":"Benifair\u00f3 De La Valldigna",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":1558,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

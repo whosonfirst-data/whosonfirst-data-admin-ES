@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arrieta",
+    "eurostat:nuts_2021_id":"48010",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48010",
+    "eurostat:population":580,
+    "eurostat:population_year":2020,
     "geom:area":0.001623,
-    "geom:area_square_m":14592339.364116,
+    "geom:area_square_m":14592339.364115,
     "geom:bbox":"-2.78962355,43.32329978,-2.73328437,43.37663603",
     "geom:latitude":43.346469,
     "geom:longitude":-2.763607,
@@ -105,6 +117,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -112,9 +126,12 @@
         404227393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_48010",
+        "eurostat:nuts_2021_id":"48010"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"c916c929f327a78e2ddb930e761b2dba",
+    "wof:geomhash":"97efb90fe6c67923266b1c59b359f7c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +142,12 @@
         }
     ],
     "wof:id":404345927,
-    "wof:lastmodified":1566591050,
+    "wof:lastmodified":1684352491,
     "wof:name":"Arrieta",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":580,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

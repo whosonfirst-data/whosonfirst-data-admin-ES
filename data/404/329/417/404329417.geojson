@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03074",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Granja de Rocamora",
+    "eurostat:nuts_2021_id":"03074",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03074",
+    "eurostat:population":2591,
+    "eurostat:population_year":2020,
     "geom:area":0.000737,
-    "geom:area_square_m":7168000.231484,
+    "geom:area_square_m":7168000.231483,
     "geom:bbox":"-0.9568459,38.13942628,-0.84391549,38.1715654",
     "geom:latitude":38.154702,
     "geom:longitude":-0.894591,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03074",
+        "eurostat:nuts_2021_id":"03074",
         "gn:id":6355450,
         "gp:id":12695338,
         "qs_pg:id":1056513
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"429353a4a49a4c93589c30549a43d0dc",
+    "wof:geomhash":"4b121ee63062b86549c1086a189cc8fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404329417,
-    "wof:lastmodified":1582361798,
+    "wof:lastmodified":1684352209,
     "wof:name":"Granja De Rocamora",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":2591,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

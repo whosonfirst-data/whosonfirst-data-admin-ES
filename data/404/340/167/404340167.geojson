@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_32042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lobios",
+    "eurostat:nuts_2021_id":"32042",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES113",
+    "eurostat:nuts_2021_level_lau":"32042",
+    "eurostat:population":1678,
+    "eurostat:population_year":2020,
     "geom:area":0.018263,
-    "geom:area_square_m":168149420.91269,
+    "geom:area_square_m":168149420.912691,
     "geom:bbox":"-8.21481017,41.80869812,-7.98086185,42.00086386",
     "geom:latitude":41.875486,
     "geom:longitude":-8.086854,
@@ -99,6 +111,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -106,9 +120,12 @@
         404227385
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_32042",
+        "eurostat:nuts_2021_id":"32042"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"12587184910dd1833d346ca51ed70676",
+    "wof:geomhash":"acd28960f5b4df3561bd14fcb4f79eff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +136,12 @@
         }
     ],
     "wof:id":404340167,
-    "wof:lastmodified":1566590377,
+    "wof:lastmodified":1684352403,
     "wof:name":"Lobios",
     "wof:parent_id":85682801,
     "wof:placetype":"localadmin",
+    "wof:population":1678,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

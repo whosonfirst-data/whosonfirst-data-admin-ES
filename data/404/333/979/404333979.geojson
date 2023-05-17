@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15076",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Sadurni\u00f1o",
+    "eurostat:nuts_2021_id":"15076",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15076",
+    "eurostat:population":2784,
+    "eurostat:population_year":2020,
     "geom:area":0.011094,
-    "geom:area_square_m":99459346.026777,
+    "geom:area_square_m":99459346.026774,
     "geom:bbox":"-8.11885001,43.46872833,-7.96775694,43.59344922",
     "geom:latitude":43.52855,
     "geom:longitude":-8.047532,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_15076",
+        "eurostat:nuts_2021_id":"15076",
         "gn:id":6357344,
         "gp:id":12694778,
         "qs_pg:id":191324
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f277c2a69715521937f95ad00d305e86",
+    "wof:geomhash":"d6705f12e45fa2fe066112bb373ab3c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404333979,
-    "wof:lastmodified":1582361769,
+    "wof:lastmodified":1684352291,
     "wof:name":"San Sadurni\u00f1o",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":2784,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

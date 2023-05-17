@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12084",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Onda",
+    "eurostat:nuts_2021_id":"12084",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12084",
+    "eurostat:population":24980,
+    "eurostat:population_year":2020,
     "geom:area":0.011432,
-    "geom:area_square_m":108314652.766842,
+    "geom:area_square_m":108314652.766846,
     "geom:bbox":"-0.31287815,39.92581433,-0.13461078,40.04859477",
     "geom:latitude":39.979803,
     "geom:longitude":-0.227857,
@@ -78,6 +90,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -86,6 +100,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12084",
+        "eurostat:nuts_2021_id":"12084",
         "gn:id":6357035,
         "gp:id":12695483,
         "qs_pg:id":1163744
@@ -94,7 +110,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c6a39cd9a7c2a4f57f2222a44d960fd3",
+    "wof:geomhash":"3b3c76b3819d1c37ad68441dfc91a364",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,10 +121,12 @@
         }
     ],
     "wof:id":404333277,
-    "wof:lastmodified":1582361776,
+    "wof:lastmodified":1684352276,
     "wof:name":"Onda",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":24980,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

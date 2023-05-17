@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10148",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Plasencia",
+    "eurostat:nuts_2021_id":"10148",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10148",
+    "eurostat:population":39860,
+    "eurostat:population_year":2020,
     "geom:area":0.02299,
-    "geom:area_square_m":217717418.86795,
+    "geom:area_square_m":217717418.867945,
     "geom:bbox":"-6.30529197,39.87003467,-5.97664966,40.09570235",
     "geom:latitude":40.014768,
     "geom:longitude":-6.140981,
@@ -159,6 +171,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -167,6 +181,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10148",
+        "eurostat:nuts_2021_id":"10148",
         "gn:id":6356843,
         "gp:id":12694629,
         "qs_pg:id":1085769
@@ -175,7 +191,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2af55f0114feedcfc0c884c3e4e28224",
+    "wof:geomhash":"34cd72cba1a7453988fe2e02f891c1d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -186,10 +202,12 @@
         }
     ],
     "wof:id":404332841,
-    "wof:lastmodified":1582361686,
+    "wof:lastmodified":1684352270,
     "wof:name":"Plasencia",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":39860,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

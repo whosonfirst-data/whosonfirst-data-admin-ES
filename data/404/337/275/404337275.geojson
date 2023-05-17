@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24067",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Encinedo",
+    "eurostat:nuts_2021_id":"24067",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24067",
+    "eurostat:population":690,
+    "eurostat:population_year":2020,
     "geom:area":0.021278,
     "geom:area_square_m":194716968.077122,
     "geom:bbox":"-6.78431846,42.20321482,-6.51133565,42.32395525",
@@ -105,6 +117,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -112,9 +126,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_24067",
+        "eurostat:nuts_2021_id":"24067"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"e3d3176a54480ecd35a76ea184f5b731",
+    "wof:geomhash":"48d25a0f1e0f03966b63369a860cfb62",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +142,12 @@
         }
     ],
     "wof:id":404337275,
-    "wof:lastmodified":1566589992,
+    "wof:lastmodified":1684352351,
     "wof:name":"Encinedo",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":690,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

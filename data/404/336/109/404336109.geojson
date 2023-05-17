@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_20012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arama",
+    "eurostat:nuts_2021_id":"20012",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES212",
+    "eurostat:nuts_2021_level_lau":"20012",
+    "eurostat:population":202,
+    "eurostat:population_year":2020,
     "geom:area":0.000146,
-    "geom:area_square_m":1319148.985707,
+    "geom:area_square_m":1319148.985706,
     "geom:bbox":"-2.17296859,43.05252957,-2.15462982,43.06613291",
     "geom:latitude":43.059168,
     "geom:longitude":-2.163259,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_20012",
+        "eurostat:nuts_2021_id":"20012",
         "gn:id":6358103,
         "gp:id":12695080,
         "qs_pg:id":621668
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2289bbe26a8f4e59351844e35e2f1ac1",
+    "wof:geomhash":"6c96744ad2accd87b49e291014cef264",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404336109,
-    "wof:lastmodified":1582361469,
+    "wof:lastmodified":1684352333,
     "wof:name":"Arama",
     "wof:parent_id":85682741,
     "wof:placetype":"localadmin",
+    "wof:population":202,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

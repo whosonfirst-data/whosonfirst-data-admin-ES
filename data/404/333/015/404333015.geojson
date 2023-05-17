@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_11004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Algeciras",
+    "eurostat:nuts_2021_id":"11004",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES612",
+    "eurostat:nuts_2021_level_lau":"11004",
+    "eurostat:population":123078,
+    "eurostat:population_year":2020,
     "geom:area":0.008588,
-    "geom:area_square_m":85792816.369565,
+    "geom:area_square_m":85792816.36956,
     "geom:bbox":"-5.55110324,36.0501924,-5.42334641,36.17549098",
     "geom:latitude":36.106544,
     "geom:longitude":-5.479392,
@@ -219,6 +231,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -227,6 +241,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_11004",
+        "eurostat:nuts_2021_id":"11004",
         "gn:id":6356919,
         "gp:id":12688730,
         "qs_pg:id":907213
@@ -235,7 +251,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ef7881e82a96f53f019dbe7e36889c60",
+    "wof:geomhash":"3c2a26825d13e90cb684694959d5840f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -246,10 +262,12 @@
         }
     ],
     "wof:id":404333015,
-    "wof:lastmodified":1582361761,
+    "wof:lastmodified":1684352272,
     "wof:name":"Algeciras",
     "wof:parent_id":85682679,
     "wof:placetype":"localadmin",
+    "wof:population":123078,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

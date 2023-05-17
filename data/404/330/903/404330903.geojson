@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8011,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Avi\u00e0",
+    "eurostat:nuts_2021_id":"08011",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08011",
+    "eurostat:population":2220,
+    "eurostat:population_year":2020,
     "geom:area":0.002957,
-    "geom:area_square_m":27144240.499814,
+    "geom:area_square_m":27144206.059365,
     "geom:bbox":"1.779259,42.039394,1.873321,42.090874",
     "geom:latitude":42.065622,
     "geom:longitude":1.830747,
@@ -136,6 +148,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -144,7 +158,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08011",
         "esp-icgc:la_lc":"08011",
+        "eurostat:nuts_2021_id":"08011",
         "gn:id":6356047,
         "gp:id":12693387,
         "qs_pg:id":290478
@@ -154,7 +170,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3a577dc2585171640fc7b253a20d984e",
+    "wof:geomhash":"2584694dbb2ca312c3daefb00252e99b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -165,10 +181,12 @@
         }
     ],
     "wof:id":404330903,
-    "wof:lastmodified":1669903016,
+    "wof:lastmodified":1684352235,
     "wof:name":"Avi\u00e0",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":2220,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

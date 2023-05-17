@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Corpa",
+    "eurostat:nuts_2021_id":"28048",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28048",
+    "eurostat:population":723,
+    "eurostat:population_year":2020,
     "geom:area":0.002755,
-    "geom:area_square_m":25934104.562804,
+    "geom:area_square_m":25934104.562803,
     "geom:bbox":"-3.28808292,40.39303063,-3.21115739,40.44435796",
     "geom:latitude":40.418877,
     "geom:longitude":-3.24815,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28048",
+        "eurostat:nuts_2021_id":"28048",
         "gn:id":6359274,
         "gp:id":12687995,
         "qs_pg:id":953320
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f619f1e32743711620ae6bda4e6ed661",
+    "wof:geomhash":"bb1ab127401f009ffac204f8bfcc29da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404338795,
-    "wof:lastmodified":1582361446,
+    "wof:lastmodified":1684352382,
     "wof:name":"Corpa",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":723,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

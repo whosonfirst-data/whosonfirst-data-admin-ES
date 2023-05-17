@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22160",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Naval",
+    "eurostat:nuts_2021_id":"22160",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22160",
+    "eurostat:population":265,
+    "eurostat:population_year":2020,
     "geom:area":0.005158,
-    "geom:area_square_m":47245618.995122,
+    "geom:area_square_m":47245618.995124,
     "geom:bbox":"0.12410362,42.16059003,0.22801325,42.23987115",
     "geom:latitude":42.198208,
     "geom:longitude":0.17517,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22160",
+        "eurostat:nuts_2021_id":"22160",
         "gn:id":6358375,
         "gp:id":12689520,
         "qs_pg:id":1146495
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a3c4a01472f80700f93331976f655649",
+    "wof:geomhash":"bc7bfaac63ddab6a34206e76209acc94",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404336733,
-    "wof:lastmodified":1582361469,
+    "wof:lastmodified":1684352343,
     "wof:name":"Naval",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":265,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

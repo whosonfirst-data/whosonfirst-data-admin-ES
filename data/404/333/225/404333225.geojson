@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12059",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fanzara",
+    "eurostat:nuts_2021_id":"12059",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12059",
+    "eurostat:population":273,
+    "eurostat:population_year":2020,
     "geom:area":0.003689,
     "geom:area_square_m":34939914.709977,
     "geom:bbox":"-0.3526309,39.96977056,-0.28131432,40.06581057",
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12059",
+        "eurostat:nuts_2021_id":"12059",
         "gn:id":6357012,
         "gp:id":12695460,
         "qs_pg:id":204865
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0c1460b501c5f136ba25af9d4d4a83bb",
+    "wof:geomhash":"9a6e78a546222e96b5a1dda280f2a3f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404333225,
-    "wof:lastmodified":1582361778,
+    "wof:lastmodified":1684352276,
     "wof:name":"Fanzara",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":273,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

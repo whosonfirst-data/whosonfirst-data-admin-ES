@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19175",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mazarete",
+    "eurostat:nuts_2021_id":"19175",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19175",
+    "eurostat:population":35,
+    "eurostat:population_year":2020,
     "geom:area":0.00601,
-    "geom:area_square_m":56103282.57654,
+    "geom:area_square_m":56103282.576538,
     "geom:bbox":"-2.26152805,40.91368649,-2.10064808,41.02345129",
     "geom:latitude":40.978401,
     "geom:longitude":-2.186038,
@@ -99,6 +111,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -106,9 +120,12 @@
         404227375
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_19175",
+        "eurostat:nuts_2021_id":"19175"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"3b6a5105d38e4783846e664ecaf3524e",
+    "wof:geomhash":"457e277abc0f2f4f1e038e6a11d98b6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +136,12 @@
         }
     ],
     "wof:id":404335757,
-    "wof:lastmodified":1566590589,
+    "wof:lastmodified":1684352329,
     "wof:name":"Mazarete",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":35,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

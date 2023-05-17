@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_01004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Artziniega",
+    "eurostat:nuts_2021_id":"01004",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES211",
+    "eurostat:nuts_2021_level_lau":"01004",
+    "eurostat:population":1800,
+    "eurostat:population_year":2020,
     "geom:area":0.003036,
     "geom:area_square_m":27399666.730458,
     "geom:bbox":"-3.18178638,43.09669619,-3.10561757,43.16318075",
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_01004",
+        "eurostat:nuts_2021_id":"01004",
         "gn:id":6355246,
         "gp:id":12695022,
         "qs_pg:id":204822
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"770f240ca66d92262dc1b9b5edcfb149",
+    "wof:geomhash":"9712e2d133e1a8e82022cfc70274643f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404328941,
-    "wof:lastmodified":1582361842,
+    "wof:lastmodified":1684352202,
     "wof:name":"Artziniega",
     "wof:parent_id":85682615,
     "wof:placetype":"localadmin",
+    "wof:population":1800,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

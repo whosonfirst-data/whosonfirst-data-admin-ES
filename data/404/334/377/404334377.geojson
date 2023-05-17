@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16185",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Saceda-Trasierra",
+    "eurostat:nuts_2021_id":"16185",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16185",
+    "eurostat:population":43,
+    "eurostat:population_year":2020,
     "geom:area":0.003269,
     "geom:area_square_m":30889251.937059,
     "geom:bbox":"-2.88758785,40.13139228,-2.82340619,40.2026348",
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16185",
+        "eurostat:nuts_2021_id":"16185",
         "gn:id":6357517,
         "gp:id":12690560,
         "qs_pg:id":45848
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9d8f28e611ffdd31b4aefbce5af9c329",
+    "wof:geomhash":"f1e0b6d2aecbcaef607f86e30c3c041f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404334377,
-    "wof:lastmodified":1582361732,
+    "wof:lastmodified":1684352296,
     "wof:name":"Saceda-Trasierra",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":43,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

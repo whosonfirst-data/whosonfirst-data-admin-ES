@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_01019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kripan",
+    "eurostat:nuts_2021_id":"01019",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES211",
+    "eurostat:nuts_2021_level_lau":"01019",
+    "eurostat:population":178,
+    "eurostat:population_year":2020,
     "geom:area":0.001373,
-    "geom:area_square_m":12497260.563475,
+    "geom:area_square_m":12497260.563476,
     "geom:bbox":"-2.53255577,42.57042855,-2.49063097,42.61726847",
     "geom:latitude":42.595191,
     "geom:longitude":-2.514512,
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_01019",
+        "eurostat:nuts_2021_id":"01019",
         "gn:id":6355257,
         "gp:id":12695030,
         "qs_pg:id":48269
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a38c0794a7ca42c5aa4fa96ac8de3194",
+    "wof:geomhash":"956602e1a4e40cf7c82628e07c0751ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404328965,
-    "wof:lastmodified":1582361841,
+    "wof:lastmodified":1684352202,
     "wof:name":"Kripan",
     "wof:parent_id":85682615,
     "wof:placetype":"localadmin",
+    "wof:population":178,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

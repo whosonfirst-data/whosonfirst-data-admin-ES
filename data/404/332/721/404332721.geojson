@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10095",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Herreruela",
+    "eurostat:nuts_2021_id":"10095",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10095",
+    "eurostat:population":330,
+    "eurostat:population_year":2020,
     "geom:area":0.011897,
-    "geom:area_square_m":113623693.356669,
+    "geom:area_square_m":113623693.356674,
     "geom:bbox":"-6.93840323,39.38239834,-6.76056371,39.50389782",
     "geom:latitude":39.43372,
     "geom:longitude":-6.86482,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10095",
+        "eurostat:nuts_2021_id":"10095",
         "gn:id":6356791,
         "gp:id":12694576,
         "qs_pg:id":1188849
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"959cf766cc4843300cb22a1867a3c437",
+    "wof:geomhash":"61052e784ff253235b5aa0bbcd2d0365",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404332721,
-    "wof:lastmodified":1582361691,
+    "wof:lastmodified":1684352268,
     "wof:name":"Herreruela",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":330,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

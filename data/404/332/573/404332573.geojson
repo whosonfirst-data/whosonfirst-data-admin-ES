@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Berrocalejo",
+    "eurostat:nuts_2021_id":"10028",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10028",
+    "eurostat:population":97,
+    "eurostat:population_year":2020,
     "geom:area":0.001502,
-    "geom:area_square_m":14265506.886373,
+    "geom:area_square_m":14265506.886372,
     "geom:bbox":"-5.37179168,39.78759234,-5.33267096,39.85408393",
     "geom:latitude":39.821709,
     "geom:longitude":-5.351744,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10028",
+        "eurostat:nuts_2021_id":"10028",
         "gn:id":6356725,
         "gp:id":12694510,
         "qs_pg:id":1311115
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8a3ee2964c97e30a7cc17a44bcecc1b9",
+    "wof:geomhash":"6fbbb1dc5eba3d7754ad9d30a62fe87a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404332573,
-    "wof:lastmodified":1582361684,
+    "wof:lastmodified":1684352266,
     "wof:name":"Berrocalejo",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":97,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

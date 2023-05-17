@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18122",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Loja",
+    "eurostat:nuts_2021_id":"18122",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18122",
+    "eurostat:population":20419,
+    "eurostat:population_year":2020,
     "geom:area":0.045395,
-    "geom:area_square_m":447377058.491452,
+    "geom:area_square_m":447376915.738183,
     "geom:bbox":"-4.327617,37.012336,-4.025231,37.292826",
     "geom:latitude":37.155012,
     "geom:longitude":-4.185588,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18122",
+        "eurostat:nuts_2021_id":"18122",
         "gn:id":6357736,
         "gp:id":12688948,
         "qs_pg:id":902571
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d8ed2281d0c166c0fe9ad1daba897e20",
+    "wof:geomhash":"84445e0db3fb7c22f54a2d91d375c8ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404335273,
-    "wof:lastmodified":1636503324,
+    "wof:lastmodified":1684352323,
     "wof:name":"Loja",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":20419,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

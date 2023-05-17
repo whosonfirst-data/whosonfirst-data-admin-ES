@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"ES",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"Valladolid",
+    "eurostat:name_local":"Valladolid",
+    "eurostat:nuts_2021_id":"ES418",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:population":517797,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"2",
     "geom:area":0.876404,
-    "geom:area_square_m":8099446062.03833,
+    "geom:area_square_m":8099445618.141275,
     "geom:bbox":"-5.520891,41.094015,-3.980442,42.311842",
     "geom:latitude":41.63412,
     "geom:longitude":-4.847186,
@@ -417,6 +431,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "unlc:subdivision":"ES-VA",
     "wof:belongsto":[
         102191581,
@@ -426,6 +442,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":11466,
+        "eurostat:nuts_2021_id":"ES418",
         "fips:code":"SP85",
         "gn:id":3106671,
         "gp:id":12602122,
@@ -433,7 +450,7 @@
         "unlc:id":"ES-VA"
     },
     "wof:country":"ES",
-    "wof:geomhash":"1f7b2e6e257677e4c34877ccc8d43851",
+    "wof:geomhash":"15f0f5739140410c71d92898e9441062",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -453,10 +470,12 @@
         "eus",
         "ast"
     ],
-    "wof:lastmodified":1636503246,
+    "wof:lastmodified":1684351571,
     "wof:name":"Valladolid",
     "wof:parent_id":404227373,
     "wof:placetype":"region",
+    "wof:population":517797,
+    "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:shortcode":"CL",
     "wof:subdivision":"ES-VA",

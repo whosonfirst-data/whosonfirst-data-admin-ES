@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Algadefe",
+    "eurostat:nuts_2021_id":"24002",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24002",
+    "eurostat:population":278,
+    "eurostat:population_year":2020,
     "geom:area":0.001671,
     "geom:area_square_m":15304999.597925,
     "geom:bbox":"-5.60951753,42.19195249,-5.54666899,42.22939631",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_24002",
+        "eurostat:nuts_2021_id":"24002",
         "gn:id":6358553,
         "gp:id":12691748,
         "qs_pg:id":46375
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a3b0f51479cbff9e6f8a32b4306a01c1",
+    "wof:geomhash":"1470041ed18f71c56345ea97d4e66e10",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404337137,
-    "wof:lastmodified":1582361567,
+    "wof:lastmodified":1684352349,
     "wof:name":"Algadefe",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":278,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

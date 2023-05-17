@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8287,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08287",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torrelavit",
+    "eurostat:nuts_2021_id":"08287",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08287",
+    "eurostat:population":1422,
+    "eurostat:population_year":2020,
     "geom:area":0.002561,
-    "geom:area_square_m":23737007.230592,
+    "geom:area_square_m":23737007.230591,
     "geom:bbox":"1.67655250257,41.4167684348,1.76907922426,41.4677456463",
     "geom:latitude":41.440567,
     "geom:longitude":1.722905,
@@ -120,6 +132,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,13 +142,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"08287"
+        "eg:gisco_id":"ES_08287",
+        "esp-icgc:la_lc":"08287",
+        "eurostat:nuts_2021_id":"08287"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2992461d225f07e65b822fa526292df0",
+    "wof:geomhash":"8b44fb4eab8a8a6bff331db07edfd3a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,10 +161,12 @@
         }
     ],
     "wof:id":404331519,
-    "wof:lastmodified":1582361495,
+    "wof:lastmodified":1684352254,
     "wof:name":"Torrelavit",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":1422,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_21005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Almonte",
+    "eurostat:nuts_2021_id":"21005",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES615",
+    "eurostat:nuts_2021_level_lau":"21005",
+    "eurostat:population":24507,
+    "eurostat:population_year":2020,
     "geom:area":0.087044,
-    "geom:area_square_m":858435351.909573,
+    "geom:area_square_m":858435351.909509,
     "geom:bbox":"-6.73846319,36.79497332,-6.33100881,37.33057321",
     "geom:latitude":37.101169,
     "geom:longitude":-6.533786,
@@ -51,6 +63,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -59,6 +73,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_21005",
+        "eurostat:nuts_2021_id":"21005",
         "gn:id":6358181,
         "gp:id":12689019,
         "qs_pg:id":1109571
@@ -67,7 +83,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d0fd311324639b6d124b0efae70c9ddc",
+    "wof:geomhash":"a8f4354737e59b22ea8b7e4c2c6b2cfb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404336291,
-    "wof:lastmodified":1582361474,
+    "wof:lastmodified":1684352336,
     "wof:name":"Almonte",
     "wof:parent_id":85682749,
     "wof:placetype":"localadmin",
+    "wof:population":24507,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

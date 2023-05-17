@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24096",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mara\u00f1a",
+    "eurostat:nuts_2021_id":"24096",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24096",
+    "eurostat:population":112,
+    "eurostat:population_year":2020,
     "geom:area":0.003709,
-    "geom:area_square_m":33510995.234948,
+    "geom:area_square_m":33510995.234947,
     "geom:bbox":"-5.24358701,43.02339976,-5.13980153,43.09238472",
     "geom:latitude":43.055782,
     "geom:longitude":-5.196329,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_24096",
+        "eurostat:nuts_2021_id":"24096",
         "gn:id":6358638,
         "gp:id":12691835,
         "qs_pg:id":512316
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b52463b472f93823523c1ce43aaa7875",
+    "wof:geomhash":"b7ba4e20e6616b29ed0bfc4307e04bc8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404337333,
-    "wof:lastmodified":1582361567,
+    "wof:lastmodified":1684352351,
     "wof:name":"Mara\u00f1a",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":112,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

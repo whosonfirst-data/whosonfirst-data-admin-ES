@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8175,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08175",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Puig-reig",
+    "eurostat:nuts_2021_id":"08175",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08175",
+    "eurostat:population":4295,
+    "eurostat:population_year":2020,
     "geom:area":0.004983,
-    "geom:area_square_m":45817179.327914,
+    "geom:area_square_m":45817220.809641,
     "geom:bbox":"1.82038,41.905748,1.925542,42.007881",
     "geom:latitude":41.965339,
     "geom:longitude":1.868849,
@@ -74,6 +86,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -82,7 +96,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08175",
         "esp-icgc:la_lc":"08175",
+        "eurostat:nuts_2021_id":"08175",
         "gn:id":6356200,
         "gp:id":12693554,
         "qs_pg:id":212984
@@ -92,7 +108,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"103dab39d39d21ee385b31dc3137b1be",
+    "wof:geomhash":"8eb2a21302b726ea73f76d321452af5b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,10 +119,12 @@
         }
     ],
     "wof:id":404331269,
-    "wof:lastmodified":1669903003,
+    "wof:lastmodified":1684352246,
     "wof:name":"Puig-reig",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":4295,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

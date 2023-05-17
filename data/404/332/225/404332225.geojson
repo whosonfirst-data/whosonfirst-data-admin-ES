@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09328",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rucandio",
+    "eurostat:nuts_2021_id":"09328",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09328",
+    "eurostat:population":69,
+    "eurostat:population_year":2020,
     "geom:area":0.003588,
-    "geom:area_square_m":32580081.056303,
+    "geom:area_square_m":32580081.056301,
     "geom:bbox":"-3.58271793,42.71519733,-3.4762079,42.78715766",
     "geom:latitude":42.75656,
     "geom:longitude":-3.533761,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09328",
+        "eurostat:nuts_2021_id":"09328",
         "gn:id":6356577,
         "gp:id":12691627,
         "qs_pg:id":1196508
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"090ab21851dcbaac6fd945d04309bbce",
+    "wof:geomhash":"70ce4196f93c905fd944d33ccf4cc9e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404332225,
-    "wof:lastmodified":1582361688,
+    "wof:lastmodified":1684352262,
     "wof:name":"Rucandio",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":69,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

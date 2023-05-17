@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Canales",
+    "eurostat:nuts_2021_id":"05046",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05046",
+    "eurostat:population":42,
+    "eurostat:population_year":2020,
     "geom:area":0.000714,
-    "geom:area_square_m":6663018.49878,
+    "geom:area_square_m":6663018.498781,
     "geom:bbox":"-4.93243054,40.98178749,-4.87912719,41.00843129",
     "geom:latitude":40.996496,
     "geom:longitude":-4.905369,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05046",
+        "eurostat:nuts_2021_id":"05046",
         "gn:id":6355655,
         "gp:id":12691163,
         "qs_pg:id":497026
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"90151b155a28e141f49ab7180c5c6748",
+    "wof:geomhash":"b324b6abcf7b25f173463f32d463f9ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404329881,
-    "wof:lastmodified":1582361791,
+    "wof:lastmodified":1684352216,
     "wof:name":"Canales",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":42,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

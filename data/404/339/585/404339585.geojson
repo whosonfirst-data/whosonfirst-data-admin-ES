@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31063",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cabredo",
+    "eurostat:nuts_2021_id":"31063",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31063",
+    "eurostat:population":87,
+    "eurostat:population_year":2020,
     "geom:area":0.001306,
     "geom:area_square_m":11882014.639543,
     "geom:bbox":"-2.45499742,42.61268729,-2.39834438,42.65425057",
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31063",
+        "eurostat:nuts_2021_id":"31063",
         "gn:id":6359611,
         "gp:id":12688239,
         "qs_pg:id":44575
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4d75935706abb2b63a59539dd8ebc6cc",
+    "wof:geomhash":"2fce3e31907420b48227067f0a4c6e1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404339585,
-    "wof:lastmodified":1582361596,
+    "wof:lastmodified":1684352396,
     "wof:name":"Cabredo",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":87,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

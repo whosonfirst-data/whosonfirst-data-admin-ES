@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43110,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43110",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pobla de Massaluca, La",
+    "eurostat:nuts_2021_id":"43110",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43110",
+    "eurostat:population":317,
+    "eurostat:population_year":2020,
     "geom:area":0.004634,
-    "geom:area_square_m":43115396.041914,
+    "geom:area_square_m":43115422.972806,
     "geom:bbox":"0.3004,41.149866,0.397277,41.238547",
     "geom:latitude":41.193027,
     "geom:longitude":0.347782,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43110",
         "esp-icgc:la_lc":"043110",
+        "eurostat:nuts_2021_id":"43110",
         "gn:id":6361352,
         "gp:id":12694247,
         "qs_pg:id":259325
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"d6ec5da801503ee9275840992742a7f1",
+    "wof:geomhash":"f67008a3670bc41cbb6de99017814e5e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404343637,
-    "wof:lastmodified":1669903069,
+    "wof:lastmodified":1684352459,
     "wof:name":"La Pobla de Massaluca",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":317,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

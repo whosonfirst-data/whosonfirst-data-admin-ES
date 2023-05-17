@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:level_code":"2",
+    "eurostat:name_latin":"Ciudad de Ceuta",
+    "eurostat:name_local":"Ciudad de Ceuta",
+    "eurostat:nuts_2021_id":"ES63",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES63",
+    "eurostat:population":82513,
+    "eurostat:population_year":2022,
     "geom:area":0.001974,
-    "geom:area_square_m":19777045.225022,
+    "geom:area_square_m":19777045.225021,
     "geom:bbox":"-5.420412,35.16815,-4.295426,35.917382",
     "geom:latitude":35.891936,
     "geom:longitude":-5.340531,
@@ -411,19 +421,22 @@
     "qs:source":"Spain IGN",
     "qs:type":"Comunidad Aut\u00f3noma",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "wof:belongsto":[
         102191581,
         85633129
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"ES63",
         "wd:id":"Q5823"
     },
     "wof:coterminous":[
         85682895
     ],
     "wof:country":"ES",
-    "wof:geomhash":"8787d88b9c7d459196978a4668d0431c",
+    "wof:geomhash":"2625b470ef9134f4d2558aa67f1a08c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -442,10 +455,12 @@
         "eus",
         "ast"
     ],
-    "wof:lastmodified":1607987490,
+    "wof:lastmodified":1684351425,
     "wof:name":"Ceuta",
     "wof:parent_id":85633129,
     "wof:placetype":"macroregion",
+    "wof:population":82513,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

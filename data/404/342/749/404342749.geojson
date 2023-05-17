@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_41003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Albaida del Aljarafe",
+    "eurostat:nuts_2021_id":"41003",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES618",
+    "eurostat:nuts_2021_level_lau":"41003",
+    "eurostat:population":3201,
+    "eurostat:population_year":2020,
     "geom:area":0.001113,
-    "geom:area_square_m":10924274.381527,
+    "geom:area_square_m":10924274.381526,
     "geom:bbox":"-6.19811492,37.41449452,-6.16046832,37.4660476",
     "geom:latitude":37.440261,
     "geom:longitude":-6.178376,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_41003",
+        "eurostat:nuts_2021_id":"41003",
         "gn:id":6360958,
         "gp:id":12689293,
         "qs_pg:id":45232
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dd1870e7386270ca93779772338da9b7",
+    "wof:geomhash":"6a39e6f0fe85dcfd94ba9752185d41db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404342749,
-    "wof:lastmodified":1582361813,
+    "wof:lastmodified":1684352442,
     "wof:name":"Albaida Del Aljarafe",
     "wof:parent_id":85682841,
     "wof:placetype":"localadmin",
+    "wof:population":3201,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

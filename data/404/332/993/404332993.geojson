@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10216",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zarza de Granadilla",
+    "eurostat:nuts_2021_id":"10216",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10216",
+    "eurostat:population":1800,
+    "eurostat:population_year":2020,
     "geom:area":0.014141,
-    "geom:area_square_m":133421259.58224,
+    "geom:area_square_m":133421259.582241,
     "geom:bbox":"-6.13482068,40.17709586,-5.98889337,40.35679537",
     "geom:latitude":40.266141,
     "geom:longitude":-6.072695,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10216",
+        "eurostat:nuts_2021_id":"10216",
         "gn:id":6356911,
         "gp:id":12694698,
         "qs_pg:id":1315894
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ab9f573620f4b00d4318ba0626c89c0c",
+    "wof:geomhash":"8d13694a0b9b7f20693202bd85f0c5b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332993,
-    "wof:lastmodified":1582361685,
+    "wof:lastmodified":1684352272,
     "wof:name":"Zarza De Granadilla",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":1800,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

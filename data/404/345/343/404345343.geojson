@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46242",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torrebaja",
+    "eurostat:nuts_2021_id":"46242",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46242",
+    "eurostat:population":402,
+    "eurostat:population_year":2020,
     "geom:area":0.000498,
-    "geom:area_square_m":4712296.779458,
+    "geom:area_square_m":4712296.779457,
     "geom:bbox":"-1.27324695,40.08533675,-1.24497001,40.12520842",
     "geom:latitude":40.10167,
     "geom:longitude":-1.259845,
@@ -84,6 +96,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -92,6 +106,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46242",
+        "eurostat:nuts_2021_id":"46242",
         "gn:id":6362107,
         "gp:id":12695781,
         "qs_pg:id":48641
@@ -100,7 +116,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0941ac23edded5f36ec88a284ab6344a",
+    "wof:geomhash":"0e33c9df3887107f619b5f44413ca415",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,10 +127,12 @@
         }
     ],
     "wof:id":404345343,
-    "wof:lastmodified":1582361841,
+    "wof:lastmodified":1684352485,
     "wof:name":"Torrebaja",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":402,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

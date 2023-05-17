@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25176,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25176",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Preixana",
+    "eurostat:nuts_2021_id":"25176",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25176",
+    "eurostat:population":387,
+    "eurostat:population_year":2020,
     "geom:area":0.002306,
-    "geom:area_square_m":21318541.317476,
+    "geom:area_square_m":21318541.317477,
     "geom:bbox":"1.00279331531,41.57806887,1.08513356466,41.6258761601",
     "geom:latitude":41.601466,
     "geom:longitude":1.046559,
@@ -106,6 +118,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -114,7 +128,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25176",
         "esp-icgc:la_lc":"025176",
+        "eurostat:nuts_2021_id":"25176",
         "gn:id":6358913,
         "gp:id":12694065,
         "qs_pg:id":47627
@@ -124,7 +140,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"f87cf1cd2c5022fa3f79bac1168579af",
+    "wof:geomhash":"900f6478bdfd1ecef4e5f4b1a7ffdd1f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404337965,
-    "wof:lastmodified":1582361549,
+    "wof:lastmodified":1684352366,
     "wof:name":"Preixana",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":387,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

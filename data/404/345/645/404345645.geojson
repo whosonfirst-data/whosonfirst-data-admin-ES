@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47113",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pedrosa del Rey",
+    "eurostat:nuts_2021_id":"47113",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47113",
+    "eurostat:population":158,
+    "eurostat:population_year":2020,
     "geom:area":0.005602,
-    "geom:area_square_m":51858276.036063,
+    "geom:area_square_m":51858276.036064,
     "geom:bbox":"-5.25393209,41.47847737,-5.16718902,41.5824214",
     "geom:latitude":41.529664,
     "geom:longitude":-5.209142,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_47113",
+        "eurostat:nuts_2021_id":"47113",
         "gn:id":6362238,
         "gp:id":12693012,
         "qs_pg:id":1149296
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c7114e70c9c4bdae3a2592a374269543",
+    "wof:geomhash":"e62be2d617b52d097848e9f69c50d955",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404345645,
-    "wof:lastmodified":1582361828,
+    "wof:lastmodified":1684352488,
     "wof:name":"Pedrosa Del Rey",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":158,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

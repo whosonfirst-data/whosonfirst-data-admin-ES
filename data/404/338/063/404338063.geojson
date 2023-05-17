@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25228,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25228",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torrefarrera",
+    "eurostat:nuts_2021_id":"25228",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25228",
+    "eurostat:population":4694,
+    "eurostat:population_year":2020,
     "geom:area":0.002535,
-    "geom:area_square_m":23406682.947703,
+    "geom:area_square_m":23406682.947704,
     "geom:bbox":"0.502896012329,41.6628527506,0.625784060623,41.7178440736",
     "geom:latitude":41.693424,
     "geom:longitude":0.556926,
@@ -118,6 +130,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -126,7 +140,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25228",
         "esp-icgc:la_lc":"025228",
+        "eurostat:nuts_2021_id":"25228",
         "gn:id":6358956,
         "gp:id":12694112,
         "qs_pg:id":1057086
@@ -136,7 +152,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ae9c5338c7cff6ef4eed73f4962d1fa3",
+    "wof:geomhash":"554de8276db983965a85d199627acbb8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404338063,
-    "wof:lastmodified":1582361438,
+    "wof:lastmodified":1684352369,
     "wof:name":"Torrefarrera",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":4694,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

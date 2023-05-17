@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Albox",
+    "eurostat:nuts_2021_id":"04006",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04006",
+    "eurostat:population":12083,
+    "eurostat:population_year":2020,
     "geom:area":0.017149,
     "geom:area_square_m":168348441.501855,
     "geom:bbox":"-2.21640507,37.35596098,-2.05704457,37.54575902",
@@ -129,6 +141,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -137,6 +151,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_04006",
+        "eurostat:nuts_2021_id":"04006",
         "gn:id":6355523,
         "gp:id":12688629,
         "qs_pg:id":1055419
@@ -145,7 +161,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"929c1d45fa7036fbdb8f1bb351668762",
+    "wof:geomhash":"72a4b7a4b25e09ede440488f55609184",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404329583,
-    "wof:lastmodified":1582361804,
+    "wof:lastmodified":1684352212,
     "wof:name":"Albox",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":12083,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

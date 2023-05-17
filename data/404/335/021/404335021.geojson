@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17221,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17221",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vilafant",
+    "eurostat:nuts_2021_id":"17221",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17221",
+    "eurostat:population":5421,
+    "eurostat:population_year":2020,
     "geom:area":0.000916,
-    "geom:area_square_m":8380560.637983,
+    "geom:area_square_m":8380585.650348,
     "geom:bbox":"2.927209,42.23328,2.971207,42.275345",
     "geom:latitude":42.249708,
     "geom:longitude":2.944918,
@@ -132,6 +144,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -140,13 +154,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"017221"
+        "eg:gisco_id":"ES_17221",
+        "esp-icgc:la_lc":"017221",
+        "eurostat:nuts_2021_id":"17221"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b92c5d05a8be31ee466f24693951364b",
+    "wof:geomhash":"b66f9bb66006b482b55318a2faecd7cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +173,12 @@
         }
     ],
     "wof:id":404335021,
-    "wof:lastmodified":1669903039,
+    "wof:lastmodified":1684352319,
     "wof:name":"Vilafant",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":5421,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

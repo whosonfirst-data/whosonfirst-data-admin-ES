@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_02004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Albatana",
+    "eurostat:nuts_2021_id":"02004",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES421",
+    "eurostat:nuts_2021_level_lau":"02004",
+    "eurostat:population":679,
+    "eurostat:population_year":2020,
     "geom:area":0.003155,
-    "geom:area_square_m":30502104.769727,
+    "geom:area_square_m":30502104.769726,
     "geom:bbox":"-1.55352268,38.54409424,-1.4666829,38.61065001",
     "geom:latitude":38.576168,
     "geom:longitude":-1.515862,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_02004",
+        "eurostat:nuts_2021_id":"02004",
         "gn:id":6355296,
         "gp:id":12690215,
         "qs_pg:id":45665
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0f16764c1548a9ed466d1416a95fb5b7",
+    "wof:geomhash":"b6ee6dc578fa32e2ec6c02d1a8404a82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404329061,
-    "wof:lastmodified":1582361800,
+    "wof:lastmodified":1684352203,
     "wof:name":"Albatana",
     "wof:parent_id":85682621,
     "wof:placetype":"localadmin",
+    "wof:population":679,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

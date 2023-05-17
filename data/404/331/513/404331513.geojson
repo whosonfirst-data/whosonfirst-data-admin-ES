@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8284,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08284",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tordera",
+    "eurostat:nuts_2021_id":"08284",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08284",
+    "eurostat:population":17519,
+    "eurostat:population_year":2020,
     "geom:area":0.00914,
-    "geom:area_square_m":84390175.945948,
+    "geom:area_square_m":84390175.945953,
     "geom:bbox":"2.59386638237,41.6417170387,2.7770647992,41.7444038458",
     "geom:latitude":41.692827,
     "geom:longitude":2.685995,
@@ -139,6 +151,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -147,7 +161,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08284",
         "esp-icgc:la_lc":"08284",
+        "eurostat:nuts_2021_id":"08284",
         "gn:id":6533999,
         "gp:id":12693658,
         "qs_pg:id":223885
@@ -157,7 +173,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"3d6b6f564516353813e00c0ab821ddfd",
+    "wof:geomhash":"dcb56b2a83d814c38862679777ab3055",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,10 +184,12 @@
         }
     ],
     "wof:id":404331513,
-    "wof:lastmodified":1582361513,
+    "wof:lastmodified":1684352254,
     "wof:name":"Tordera",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":17519,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

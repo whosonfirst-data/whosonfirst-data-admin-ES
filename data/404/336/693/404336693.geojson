@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22130",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jaca",
+    "eurostat:nuts_2021_id":"22130",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22130",
+    "eurostat:population":13129,
+    "eurostat:population_year":2020,
     "geom:area":0.044553,
-    "geom:area_square_m":405838188.886911,
+    "geom:area_square_m":405838188.886913,
     "geom:bbox":"-0.70158904,42.41502823,-0.39912433,42.82779604",
     "geom:latitude":42.550799,
     "geom:longitude":-0.551483,
@@ -153,6 +165,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -161,6 +175,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22130",
+        "eurostat:nuts_2021_id":"22130",
         "gn:id":6358357,
         "gp:id":12689501,
         "qs_pg:id":1102468
@@ -169,7 +185,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9732a5fae71762cac05dd5ffb860fb48",
+    "wof:geomhash":"9adf8866e33dd91361b5b971d360f426",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -180,10 +196,12 @@
         }
     ],
     "wof:id":404336693,
-    "wof:lastmodified":1582361464,
+    "wof:lastmodified":1684352342,
     "wof:name":"Jaca",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":13129,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

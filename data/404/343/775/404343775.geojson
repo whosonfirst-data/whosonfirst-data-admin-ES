@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43171,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43171",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vila-seca",
+    "eurostat:nuts_2021_id":"43171",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43171",
+    "eurostat:population":22555,
+    "eurostat:population_year":2020,
     "geom:area":0.002322,
-    "geom:area_square_m":21635050.034846,
+    "geom:area_square_m":21635008.036377,
     "geom:bbox":"1.093868,41.065748,1.206392,41.130786",
     "geom:latitude":41.101511,
     "geom:longitude":1.144463,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43171",
         "esp-icgc:la_lc":"043171",
+        "eurostat:nuts_2021_id":"43171",
         "gn:id":6361413,
         "gp:id":12694306,
         "qs_pg:id":47822
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"4e05c38face6f7ed0c8af1102a48e1d7",
+    "wof:geomhash":"00229b21be04b032f96663981589205c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404343775,
-    "wof:lastmodified":1669903070,
+    "wof:lastmodified":1684352464,
     "wof:name":"Vila-seca",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":22555,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

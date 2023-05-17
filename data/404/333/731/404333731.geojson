@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_14041",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montemayor",
+    "eurostat:nuts_2021_id":"14041",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES613",
+    "eurostat:nuts_2021_level_lau":"14041",
+    "eurostat:population":3856,
+    "eurostat:population_year":2020,
     "geom:area":0.00592,
     "geom:area_square_m":57955613.890734,
     "geom:bbox":"-4.72406916,37.61454927,-4.59191777,37.69998028",
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_14041",
+        "eurostat:nuts_2021_id":"14041",
         "gn:id":6357236,
         "gp:id":12688812,
         "qs_pg:id":1146261
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3545a4c7a20a0e535a3a67f44b6a0d3f",
+    "wof:geomhash":"cd3371695118e802c074064416835ee5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404333731,
-    "wof:lastmodified":1582361760,
+    "wof:lastmodified":1684352283,
     "wof:name":"Montemayor",
     "wof:parent_id":85682697,
     "wof:placetype":"localadmin",
+    "wof:population":3856,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

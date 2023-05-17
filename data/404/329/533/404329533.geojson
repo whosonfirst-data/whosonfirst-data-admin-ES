@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03128",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Teulada",
+    "eurostat:nuts_2021_id":"03128",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03128",
+    "eurostat:population":11278,
+    "eurostat:population_year":2020,
     "geom:area":0.003347,
-    "geom:area_square_m":32294623.947862,
+    "geom:area_square_m":32294623.947863,
     "geom:bbox":"0.07891063,38.6736948,0.15649901,38.74915497",
     "geom:latitude":38.711866,
     "geom:longitude":0.114471,
@@ -81,6 +93,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -88,9 +102,12 @@
         404227381
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_03128",
+        "eurostat:nuts_2021_id":"03128"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"f51ee34de680dbe5d192ce3c6d3aa069",
+    "wof:geomhash":"ba052473b319eb056a06295ffe093bfc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,10 +118,12 @@
         }
     ],
     "wof:id":404329533,
-    "wof:lastmodified":1566590839,
+    "wof:lastmodified":1684352211,
     "wof:name":"Teulada",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":11278,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28069",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hiruela, La",
+    "eurostat:nuts_2021_id":"28069",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28069",
+    "eurostat:population":65,
+    "eurostat:population_year":2020,
     "geom:area":0.00184,
-    "geom:area_square_m":17150503.892838,
+    "geom:area_square_m":17150503.89284,
     "geom:bbox":"-3.48575706,41.04266972,-3.42513506,41.09526688",
     "geom:latitude":41.069221,
     "geom:longitude":-3.454724,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28069",
+        "eurostat:nuts_2021_id":"28069",
         "gn:id":6359295,
         "qs_pg:id":103387
     },
@@ -114,7 +130,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3983e4ef0a4d567b55d0540ec1a7ac69",
+    "wof:geomhash":"4d4ad41eb7ee2b3374084b992bdcac7c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +141,12 @@
         }
     ],
     "wof:id":404338843,
-    "wof:lastmodified":1582361436,
+    "wof:lastmodified":1684352383,
     "wof:name":"La Hiruela",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":65,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

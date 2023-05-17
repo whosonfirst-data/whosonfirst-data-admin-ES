@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bercial de Zapardiel",
+    "eurostat:nuts_2021_id":"05026",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05026",
+    "eurostat:population":197,
+    "eurostat:population_year":2020,
     "geom:area":0.001853,
-    "geom:area_square_m":17285668.711525,
+    "geom:area_square_m":17285668.711523,
     "geom:bbox":"-5.00859637,41.01523164,-4.94519788,41.0709029",
     "geom:latitude":41.041248,
     "geom:longitude":-4.974607,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05026",
+        "eurostat:nuts_2021_id":"05026",
         "gn:id":6355638,
         "gp:id":12691146,
         "qs_pg:id":540413
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"092c3959dca524886bb0da255ecadfc0",
+    "wof:geomhash":"7cfa6aabed1457406265436e6ad56941",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404329843,
-    "wof:lastmodified":1582361791,
+    "wof:lastmodified":1684352216,
     "wof:name":"Bercial De Zapardiel",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":197,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

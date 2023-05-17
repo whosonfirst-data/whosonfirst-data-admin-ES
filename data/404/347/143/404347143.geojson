@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50198",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oseja",
+    "eurostat:nuts_2021_id":"50198",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50198",
+    "eurostat:population":47,
+    "eurostat:population_year":2020,
     "geom:area":0.00135,
-    "geom:area_square_m":12481644.911789,
+    "geom:area_square_m":12481644.911788,
     "geom:bbox":"-1.72992724,41.58554752,-1.6666419,41.62900215",
     "geom:latitude":41.606714,
     "geom:longitude":-1.699236,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50198",
+        "eurostat:nuts_2021_id":"50198",
         "gn:id":6362885,
         "gp:id":12690025,
         "qs_pg:id":1146874
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"41142123207c779509c3b54f1c91aa6c",
+    "wof:geomhash":"b0812387214019ba3e43505a148bfb9f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404347143,
-    "wof:lastmodified":1582361672,
+    "wof:lastmodified":1684352508,
     "wof:name":"Oseja",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":47,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

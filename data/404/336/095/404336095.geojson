@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_20007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Altzo",
+    "eurostat:nuts_2021_id":"20007",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES212",
+    "eurostat:nuts_2021_level_lau":"20007",
+    "eurostat:population":460,
+    "eurostat:population_year":2020,
     "geom:area":0.001081,
-    "geom:area_square_m":9756157.729933,
+    "geom:area_square_m":9756157.729932,
     "geom:bbox":"-2.09628839,43.07329163,-2.04029803,43.11425814",
     "geom:latitude":43.096868,
     "geom:longitude":-2.068122,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_20007",
+        "eurostat:nuts_2021_id":"20007",
         "gn:id":3130210,
         "qs_pg:id":277761
     },
@@ -120,7 +136,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8d49235fa65f379229711c705f363b3c",
+    "wof:geomhash":"e4cb073a5ede0d99d9d595b13bcdd73e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404336095,
-    "wof:lastmodified":1582361474,
+    "wof:lastmodified":1684352333,
     "wof:name":"Altzo",
     "wof:parent_id":85682741,
     "wof:placetype":"localadmin",
+    "wof:population":460,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

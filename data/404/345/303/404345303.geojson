@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46224",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Segart",
+    "eurostat:nuts_2021_id":"46224",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46224",
+    "eurostat:population":164,
+    "eurostat:population_year":2020,
     "geom:area":0.000697,
     "geom:area_square_m":6637895.073488,
     "geom:bbox":"-0.39904307,39.65919771,-0.36298042,39.69425546",
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46224",
+        "eurostat:nuts_2021_id":"46224",
         "gn:id":6362089,
         "gp:id":12695763,
         "qs_pg:id":892829
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c79b2609c35ffff28f21f8af041693a2",
+    "wof:geomhash":"f56a307dd2f0db02590ac9b28e4694ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404345303,
-    "wof:lastmodified":1582361834,
+    "wof:lastmodified":1684352484,
     "wof:name":"Segart",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":164,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

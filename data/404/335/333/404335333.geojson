@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18157",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pinos Genil",
+    "eurostat:nuts_2021_id":"18157",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18157",
+    "eurostat:population":1490,
+    "eurostat:population_year":2020,
     "geom:area":0.001419,
     "geom:area_square_m":13986766.513313,
     "geom:bbox":"-3.5301735,37.13769,-3.47499331,37.18220327",
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18157",
+        "eurostat:nuts_2021_id":"18157",
         "gn:id":6357763,
         "gp:id":12688979,
         "qs_pg:id":1020069
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5d222093a4a1d7ae7445584345932177",
+    "wof:geomhash":"22f45e3258c013c8da712e0286b3c409",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404335333,
-    "wof:lastmodified":1582361705,
+    "wof:lastmodified":1684352324,
     "wof:name":"Pinos Genil",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":1490,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

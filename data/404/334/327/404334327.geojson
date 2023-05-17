@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16155",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Peral, El",
+    "eurostat:nuts_2021_id":"16155",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16155",
+    "eurostat:population":640,
+    "eurostat:population_year":2020,
     "geom:area":0.008988,
-    "geom:area_square_m":85768181.853502,
+    "geom:area_square_m":85768181.853503,
     "geom:bbox":"-1.95675056,39.43231871,-1.82926331,39.53227897",
     "geom:latitude":39.491608,
     "geom:longitude":-1.884592,
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16155",
+        "eurostat:nuts_2021_id":"16155",
         "gn:id":2518265,
         "gp:id":12690537,
         "qs_pg:id":343378
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3df0c4125cf0eb27d5d1693cc032eefe",
+    "wof:geomhash":"af00b223a1ea49a1961dcdd01f900151",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404334327,
-    "wof:lastmodified":1582361752,
+    "wof:lastmodified":1684352296,
     "wof:name":"El Peral",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":640,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

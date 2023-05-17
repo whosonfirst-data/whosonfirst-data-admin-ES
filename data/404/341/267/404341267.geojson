@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37081",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cantalapiedra",
+    "eurostat:nuts_2021_id":"37081",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37081",
+    "eurostat:population":950,
+    "eurostat:population_year":2020,
     "geom:area":0.007629,
-    "geom:area_square_m":71056904.773038,
+    "geom:area_square_m":71056904.773037,
     "geom:bbox":"-5.29511387,41.08167101,-5.12492923,41.16729348",
     "geom:latitude":41.127743,
     "geom:longitude":-5.192186,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37081",
+        "eurostat:nuts_2021_id":"37081",
         "gn:id":6360331,
         "gp:id":12692222,
         "qs_pg:id":1019208
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"490fb9c58b40eb7f84808dc4ad560e19",
+    "wof:geomhash":"210b2dd485cbd2aefee72b2eb1c89553",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404341267,
-    "wof:lastmodified":1582361629,
+    "wof:lastmodified":1684352422,
     "wof:name":"Cantalapiedra",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":950,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

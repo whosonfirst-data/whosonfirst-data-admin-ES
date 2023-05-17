@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37123",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Encinasola de los Comendadores",
+    "eurostat:nuts_2021_id":"37123",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37123",
+    "eurostat:population":160,
+    "eurostat:population_year":2020,
     "geom:area":0.003612,
-    "geom:area_square_m":33696016.437153,
+    "geom:area_square_m":33696016.437154,
     "geom:bbox":"-6.57571879,40.98135914,-6.50529906,41.06430414",
     "geom:latitude":41.026243,
     "geom:longitude":-6.54386,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37123",
+        "eurostat:nuts_2021_id":"37123",
         "gn:id":6360366,
         "gp:id":12692259,
         "qs_pg:id":497140
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ad57ccac3a37048673e77e4b527b7d90",
+    "wof:geomhash":"d4d33208fb78ef2887ab3d9d0ca10140",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404341347,
-    "wof:lastmodified":1582361632,
+    "wof:lastmodified":1684352423,
     "wof:name":"Encinasola De Los Comendadores",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":160,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

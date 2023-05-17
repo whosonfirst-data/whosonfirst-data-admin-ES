@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09064",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caleruega",
+    "eurostat:nuts_2021_id":"09064",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09064",
+    "eurostat:population":420,
+    "eurostat:population_year":2020,
     "geom:area":0.005162,
-    "geom:area_square_m":47566295.375552,
+    "geom:area_square_m":47566295.375555,
     "geom:bbox":"-3.52561994,41.77740997,-3.43086196,41.87587222",
     "geom:latitude":41.823086,
     "geom:longitude":-3.474883,
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09064",
+        "eurostat:nuts_2021_id":"09064",
         "gn:id":6356382,
         "gp:id":12691428,
         "qs_pg:id":540612
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"327b7958701f82915d9e1201ece37646",
+    "wof:geomhash":"1001feaacce0dd919012f3f58fd5cc12",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404331727,
-    "wof:lastmodified":1582361515,
+    "wof:lastmodified":1684352258,
     "wof:name":"Caleruega",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":420,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

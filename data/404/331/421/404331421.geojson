@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8243,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08243",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Cec\u00edlia de Voltreg\u00e0",
+    "eurostat:nuts_2021_id":"08243",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08243",
+    "eurostat:population":182,
+    "eurostat:population_year":2020,
     "geom:area":0.000936,
-    "geom:area_square_m":8602293.808025,
+    "geom:area_square_m":8602425.157305,
     "geom:bbox":"2.183832,41.980633,2.238147,42.01528",
     "geom:latitude":41.997935,
     "geom:longitude":2.210771,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08243",
         "esp-icgc:la_lc":"08243",
+        "eurostat:nuts_2021_id":"08243",
         "gn:id":6356264,
         "gp:id":12693623,
         "qs_pg:id":47348
@@ -67,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c9e806efac27b3fc1c67877a8b423c53",
+    "wof:geomhash":"a31af01bc5f52b0e73951a5abf0e0c07",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404331421,
-    "wof:lastmodified":1669903008,
+    "wof:lastmodified":1684352251,
     "wof:name":"Santa Cec\u00edlia de Voltreg\u00e0",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":182,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

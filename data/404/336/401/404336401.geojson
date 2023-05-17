@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_21054",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Palma del Condado, La",
+    "eurostat:nuts_2021_id":"21054",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES615",
+    "eurostat:nuts_2021_level_lau":"21054",
+    "eurostat:population":10801,
+    "eurostat:population_year":2020,
     "geom:area":0.006146,
-    "geom:area_square_m":60368246.128104,
+    "geom:area_square_m":60368246.1281,
     "geom:bbox":"-6.60463659,37.35595952,-6.50372297,37.45997658",
     "geom:latitude":37.402874,
     "geom:longitude":-6.555692,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_21054",
+        "eurostat:nuts_2021_id":"21054",
         "gn:id":6358230,
         "gp:id":12689068,
         "qs_pg:id":62894
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4ca47c4adb2731fc24994455fb349fba",
+    "wof:geomhash":"20f45ca8ffc1c0b5e30adb257ffca763",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404336401,
-    "wof:lastmodified":1582361463,
+    "wof:lastmodified":1684352338,
     "wof:name":"La Palma Del Condado",
     "wof:parent_id":85682749,
     "wof:placetype":"localadmin",
+    "wof:population":10801,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

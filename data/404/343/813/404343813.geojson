@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aguat\u00f3n",
+    "eurostat:nuts_2021_id":"44003",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44003",
+    "eurostat:population":19,
+    "eurostat:population_year":2020,
     "geom:area":0.002304,
-    "geom:area_square_m":21612800.717741,
+    "geom:area_square_m":21612800.717742,
     "geom:bbox":"-1.26069301,40.62394147,-1.18572023,40.69928955",
     "geom:latitude":40.658537,
     "geom:longitude":-1.224701,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44003",
+        "eurostat:nuts_2021_id":"44003",
         "gn:id":6361429,
         "gp:id":12689600,
         "qs_pg:id":1003638
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3875f45f0a28e8fbaa151692aa1e8a39",
+    "wof:geomhash":"1332c47cb9fbff868c53a4c0eec841a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404343813,
-    "wof:lastmodified":1582361887,
+    "wof:lastmodified":1684352466,
     "wof:name":"Aguat\u00f3n",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":19,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

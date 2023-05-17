@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18143",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nig\u00fcelas",
+    "eurostat:nuts_2021_id":"18143",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18143",
+    "eurostat:population":1185,
+    "eurostat:population_year":2020,
     "geom:area":0.00313,
     "geom:area_square_m":30915576.263292,
     "geom:bbox":"-3.57348302,36.95830915,-3.43962315,37.01813239",
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18143",
+        "eurostat:nuts_2021_id":"18143",
         "gn:id":6357751,
         "gp:id":12688965,
         "qs_pg:id":1315231
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"692b9317239c36ba246239d237e2b81b",
+    "wof:geomhash":"ddee4e784dd292cca9af3bf342f75b54",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404335307,
-    "wof:lastmodified":1582361694,
+    "wof:lastmodified":1684352324,
     "wof:name":"Nig\u00fcelas",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":1185,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

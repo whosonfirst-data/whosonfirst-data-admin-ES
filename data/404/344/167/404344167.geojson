@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44181",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Peralejos",
+    "eurostat:nuts_2021_id":"44181",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44181",
+    "eurostat:population":83,
+    "eurostat:population_year":2020,
     "geom:area":0.003834,
-    "geom:area_square_m":36057793.919149,
+    "geom:area_square_m":36057793.91915,
     "geom:bbox":"-1.08444295,40.44952618,-0.91574107,40.50571612",
     "geom:latitude":40.479279,
     "geom:longitude":-0.99833,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44181",
+        "eurostat:nuts_2021_id":"44181",
         "gn:id":6361585,
         "gp:id":12689757,
         "qs_pg:id":45463
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"258ccc34bafcd1ed0b454e61a4b23b07",
+    "wof:geomhash":"8cb89e0aa9ccc18d495fbbf49f6e50dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404344167,
-    "wof:lastmodified":1582361845,
+    "wof:lastmodified":1684352470,
     "wof:name":"Peralejos",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":83,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

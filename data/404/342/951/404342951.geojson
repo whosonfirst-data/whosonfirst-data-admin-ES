@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_41093",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tomares",
+    "eurostat:nuts_2021_id":"41093",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES618",
+    "eurostat:nuts_2021_level_lau":"41093",
+    "eurostat:population":25455,
+    "eurostat:population_year":2020,
     "geom:area":0.000526,
     "geom:area_square_m":5166807.021579,
     "geom:bbox":"-6.06343571,37.35788054,-6.02179292,37.3816921",
@@ -114,6 +126,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -121,9 +135,12 @@
         404227361
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_41093",
+        "eurostat:nuts_2021_id":"41093"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"b372c643903b1decdcc233a2aaab4dbf",
+    "wof:geomhash":"f38b109502b56a558e115213542dc884",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +151,12 @@
         }
     ],
     "wof:id":404342951,
-    "wof:lastmodified":1566590955,
+    "wof:lastmodified":1684352446,
     "wof:name":"Tomares",
     "wof:parent_id":85682841,
     "wof:placetype":"localadmin",
+    "wof:population":25455,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

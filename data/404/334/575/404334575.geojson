@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17009,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arb\u00facies",
+    "eurostat:nuts_2021_id":"17009",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17009",
+    "eurostat:population":6608,
+    "eurostat:population_year":2020,
     "geom:area":0.009364,
-    "geom:area_square_m":86285893.112089,
+    "geom:area_square_m":86285941.090256,
     "geom:bbox":"2.407364,41.778936,2.5827,41.872653",
     "geom:latitude":41.82461,
     "geom:longitude":2.491047,
@@ -136,6 +148,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -144,7 +158,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17009",
         "esp-icgc:la_lc":"017009",
+        "eurostat:nuts_2021_id":"17009",
         "gn:id":6357596,
         "gp:id":12693693,
         "qs_pg:id":1317379
@@ -154,7 +170,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3c42568d5c21068efc0dbd28b854b1bd",
+    "wof:geomhash":"5e181b2a5f412e275c3ba440fdac9a96",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -165,10 +181,12 @@
         }
     ],
     "wof:id":404334575,
-    "wof:lastmodified":1669903046,
+    "wof:lastmodified":1684352299,
     "wof:name":"Arb\u00facies",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":6608,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

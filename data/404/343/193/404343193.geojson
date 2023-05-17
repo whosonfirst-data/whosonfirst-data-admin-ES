@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42108",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Maj\u00e1n",
+    "eurostat:nuts_2021_id":"42108",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42108",
+    "eurostat:population":9,
+    "eurostat:population_year":2020,
     "geom:area":0.003276,
     "geom:area_square_m":30352255.261214,
     "geom:bbox":"-2.34188776,41.43653656,-2.25513829,41.50208063",
@@ -183,6 +195,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -190,9 +204,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_42108",
+        "eurostat:nuts_2021_id":"42108"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"f8cf6dd8fea2d00b9b92697a7f3d08fe",
+    "wof:geomhash":"8d034e1bd5593e47c82efe965c159b79",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +220,12 @@
         }
     ],
     "wof:id":404343193,
-    "wof:lastmodified":1566591146,
+    "wof:lastmodified":1684352448,
     "wof:name":"Maj\u00e1n",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":9,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

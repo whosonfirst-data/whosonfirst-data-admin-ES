@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10062",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cedillo",
+    "eurostat:nuts_2021_id":"10062",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10062",
+    "eurostat:population":428,
+    "eurostat:population_year":2020,
     "geom:area":0.006458,
-    "geom:area_square_m":61502600.201252,
+    "geom:area_square_m":61502600.201248,
     "geom:bbox":"-7.5450249,39.57501391,-7.42568156,39.66781731",
     "geom:latitude":39.628081,
     "geom:longitude":-7.479947,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10062",
+        "eurostat:nuts_2021_id":"10062",
         "gn:id":6356759,
         "gp:id":12694544,
         "qs_pg:id":47989
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7a9195b17861f56499d3c4d4e8fad85a",
+    "wof:geomhash":"5d0ebb8cda627580ab04c594fd4efea3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404332649,
-    "wof:lastmodified":1582361687,
+    "wof:lastmodified":1684352267,
     "wof:name":"Cedillo",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":428,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

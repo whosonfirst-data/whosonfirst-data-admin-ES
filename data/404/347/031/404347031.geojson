@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50147",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Luceni",
+    "eurostat:nuts_2021_id":"50147",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50147",
+    "eurostat:population":955,
+    "eurostat:population_year":2020,
     "geom:area":0.002934,
-    "geom:area_square_m":27036772.597735,
+    "geom:area_square_m":27036772.597734,
     "geom:bbox":"-1.31805001,41.79080933,-1.19886262,41.84499323",
     "geom:latitude":41.818968,
     "geom:longitude":-1.260103,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50147",
+        "eurostat:nuts_2021_id":"50147",
         "gn:id":6362835,
         "gp:id":12689975,
         "qs_pg:id":1146864
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6bf4d071e0271191f442a3e0cf8ea990",
+    "wof:geomhash":"643bab7b3f79e22a3c345b4181c940f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404347031,
-    "wof:lastmodified":1582361671,
+    "wof:lastmodified":1684352506,
     "wof:name":"Luceni",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":955,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

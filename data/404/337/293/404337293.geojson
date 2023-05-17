@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24077",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gordaliza del Pino",
+    "eurostat:nuts_2021_id":"24077",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24077",
+    "eurostat:population":245,
+    "eurostat:population_year":2020,
     "geom:area":0.002984,
     "geom:area_square_m":27276934.215371,
     "geom:bbox":"-5.1880349,42.31125749,-5.09898992,42.36636603",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_24077",
+        "eurostat:nuts_2021_id":"24077"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"1a33b37069a0f379307fe74eb4cfbc1d",
+    "wof:geomhash":"c22c2b78cf1c5d7e278755ec4c156765",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404337293,
-    "wof:lastmodified":1566590003,
+    "wof:lastmodified":1684352351,
     "wof:name":"Gordaliza Del Pino",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":245,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

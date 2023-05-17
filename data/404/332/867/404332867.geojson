@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10160",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Romangordo",
+    "eurostat:nuts_2021_id":"10160",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10160",
+    "eurostat:population":263,
+    "eurostat:population_year":2020,
     "geom:area":0.004106,
     "geom:area_square_m":39029553.850945,
     "geom:bbox":"-5.75505466,39.7104349,-5.66745523,39.80592305",
@@ -96,6 +108,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -103,9 +117,12 @@
         404227383
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_10160",
+        "eurostat:nuts_2021_id":"10160"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"a7b35698fc951b0b4d773339470f2c7f",
+    "wof:geomhash":"e19c2f885fc115b93962cc9ae76e8e9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +133,12 @@
         }
     ],
     "wof:id":404332867,
-    "wof:lastmodified":1566590496,
+    "wof:lastmodified":1684352270,
     "wof:name":"Romangordo",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":263,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

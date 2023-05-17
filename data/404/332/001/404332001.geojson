@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09208",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mecerreyes",
+    "eurostat:nuts_2021_id":"09208",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09208",
+    "eurostat:population":193,
+    "eurostat:population_year":2020,
     "geom:area":0.00649,
-    "geom:area_square_m":59544685.976276,
+    "geom:area_square_m":59544685.976278,
     "geom:bbox":"-3.67789422,42.06244961,-3.50053995,42.12980292",
     "geom:latitude":42.097336,
     "geom:longitude":-3.592888,
@@ -105,6 +117,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -112,9 +126,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_09208",
+        "eurostat:nuts_2021_id":"09208"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"93e61beee6fe14f345676a27a53a00c0",
+    "wof:geomhash":"36b7884e197ad1d4384a9198713fa551",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +142,12 @@
         }
     ],
     "wof:id":404332001,
-    "wof:lastmodified":1566590497,
+    "wof:lastmodified":1684352260,
     "wof:name":"Mecerreyes",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":193,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

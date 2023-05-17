@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_30032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pliego",
+    "eurostat:nuts_2021_id":"30032",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES62",
+    "eurostat:nuts_2021_level_3":"ES620",
+    "eurostat:nuts_2021_level_lau":"30032",
+    "eurostat:population":3843,
+    "eurostat:population_year":2020,
     "geom:area":0.003018,
     "geom:area_square_m":29411636.023776,
     "geom:bbox":"-1.5395616,37.94644296,-1.46646711,38.01453956",
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_30032",
+        "eurostat:nuts_2021_id":"30032",
         "gn:id":6359536,
         "gp:id":12688157,
         "qs_pg:id":44553
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0c1d1c57124a85270085a774b3928f34",
+    "wof:geomhash":"ae41ba9e644dccc66fc45ccc1f3c6c02",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404339389,
-    "wof:lastmodified":1582361597,
+    "wof:lastmodified":1684352394,
     "wof:name":"Pliego",
     "wof:parent_id":85682791,
     "wof:placetype":"localadmin",
+    "wof:population":3843,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

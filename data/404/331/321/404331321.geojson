@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8199,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08199",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Bartomeu del Grau",
+    "eurostat:nuts_2021_id":"08199",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08199",
+    "eurostat:population":884,
+    "eurostat:population_year":2020,
     "geom:area":0.003764,
-    "geom:area_square_m":34606604.602934,
+    "geom:area_square_m":34606681.602736,
     "geom:bbox":"2.124355,41.910347,2.192702,42.011011",
     "geom:latitude":41.969313,
     "geom:longitude":2.154486,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08199",
         "esp-icgc:la_lc":"08199",
+        "eurostat:nuts_2021_id":"08199",
         "gn:id":6356222,
         "gp:id":12693575,
         "qs_pg:id":1163708
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"c59a7b2d8877777770f1cd7381ae1298",
+    "wof:geomhash":"9e007af21af44c564b381f785784f167",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404331321,
-    "wof:lastmodified":1669903013,
+    "wof:lastmodified":1684352248,
     "wof:name":"Sant Bartomeu del Grau",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":884,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

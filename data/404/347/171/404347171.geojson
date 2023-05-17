@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50210",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pintanos, Los",
+    "eurostat:nuts_2021_id":"50210",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50210",
+    "eurostat:population":39,
+    "eurostat:population_year":2020,
     "geom:area":0.008728,
     "geom:area_square_m":79510783.732997,
     "geom:bbox":"-1.10162483,42.50467071,-0.96159161,42.61328225",
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50210",
+        "eurostat:nuts_2021_id":"50210",
         "gn:id":6362897,
         "qs_pg:id":621974
     },
@@ -114,7 +130,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"97962df1f4ecbbadfa5fb0b86687d073",
+    "wof:geomhash":"57180fd120a3cb90f7fd406bd24dd6b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +141,12 @@
         }
     ],
     "wof:id":404347171,
-    "wof:lastmodified":1582361675,
+    "wof:lastmodified":1684352508,
     "wof:name":"Los Pintanos",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":39,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

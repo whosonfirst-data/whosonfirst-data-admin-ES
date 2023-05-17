@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10212",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villanueva de la Vera",
+    "eurostat:nuts_2021_id":"10212",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10212",
+    "eurostat:population":2062,
+    "eurostat:population_year":2020,
     "geom:area":0.013706,
-    "geom:area_square_m":129520766.783013,
+    "geom:area_square_m":129520766.783015,
     "geom:bbox":"-5.4880675,40.06922297,-5.35944471,40.25530159",
     "geom:latitude":40.160292,
     "geom:longitude":-5.42823,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10212",
+        "eurostat:nuts_2021_id":"10212",
         "gn:id":6356907,
         "gp:id":12694694,
         "qs_pg:id":265417
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"71de77c0007d18d32762ce064d5a1307",
+    "wof:geomhash":"a507bdec361514b10fc0a0a098ec478c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332985,
-    "wof:lastmodified":1582361683,
+    "wof:lastmodified":1684352272,
     "wof:name":"Villanueva De La Vera",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":2062,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

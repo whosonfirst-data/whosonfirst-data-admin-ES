@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_29902",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villanueva de la Concepci\u00f3n",
+    "eurostat:nuts_2021_id":"29902",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES617",
+    "eurostat:nuts_2021_level_lau":"29902",
+    "eurostat:population":3288,
+    "eurostat:population_year":2020,
     "geom:area":0.006814,
-    "geom:area_square_m":67352343.713291,
+    "geom:area_square_m":67352343.713287,
     "geom:bbox":"-4.60033769,36.89248245,-4.45181268,36.97666352",
     "geom:latitude":36.929209,
     "geom:longitude":-4.527831,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227361
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_29902",
+        "eurostat:nuts_2021_id":"29902"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"20984f6e21750ac7b76f8c7bd760bee2",
+    "wof:geomhash":"d58da452324e64f1bdffae028cc40e3f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404339317,
-    "wof:lastmodified":1566590141,
+    "wof:lastmodified":1684352392,
     "wof:name":"Villanueva De La Concepci\u00f3n",
     "wof:parent_id":85682787,
     "wof:placetype":"localadmin",
+    "wof:population":3288,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

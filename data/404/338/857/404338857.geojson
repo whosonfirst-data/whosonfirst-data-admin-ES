@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28075",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Loeches",
+    "eurostat:nuts_2021_id":"28075",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28075",
+    "eurostat:population":8897,
+    "eurostat:population_year":2020,
     "geom:area":0.004704,
-    "geom:area_square_m":44305248.482958,
+    "geom:area_square_m":44305248.482956,
     "geom:bbox":"-3.46582237,40.34313197,-3.35255025,40.43233811",
     "geom:latitude":40.382412,
     "geom:longitude":-3.41769,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28075",
+        "eurostat:nuts_2021_id":"28075",
         "gn:id":6359301,
         "gp:id":12688020,
         "qs_pg:id":1229588
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2bef453bc8af34e657b4464d9474c2df",
+    "wof:geomhash":"47bf081d5bb7147cb4ffac8785dfc484",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404338857,
-    "wof:lastmodified":1582361437,
+    "wof:lastmodified":1684352383,
     "wof:name":"Loeches",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":8897,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

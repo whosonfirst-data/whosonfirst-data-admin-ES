@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8264,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08264",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Vicen\u00e7 de Montalt",
+    "eurostat:nuts_2021_id":"08264",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08264",
+    "eurostat:population":6452,
+    "eurostat:population_year":2020,
     "geom:area":0.000861,
-    "geom:area_square_m":7963686.434235,
+    "geom:area_square_m":7963713.267706,
     "geom:bbox":"2.49261,41.559758,2.525291,41.605899",
     "geom:latitude":41.581436,
     "geom:longitude":2.508013,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08264",
         "esp-icgc:la_lc":"08264",
+        "eurostat:nuts_2021_id":"08264",
         "gn:id":6533998,
         "gp:id":12693620,
         "qs_pg:id":885925
@@ -67,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"821f592920a2b71bdde26bfb23cbdc2d",
+    "wof:geomhash":"54413fe078fb3764576dfaef32ed5d1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404331467,
-    "wof:lastmodified":1669903010,
+    "wof:lastmodified":1684352252,
     "wof:name":"Sant Vicen\u00e7 de Montalt",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":6452,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

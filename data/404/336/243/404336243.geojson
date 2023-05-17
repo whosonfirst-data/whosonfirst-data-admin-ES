@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_20071",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tolosa",
+    "eurostat:nuts_2021_id":"20071",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES212",
+    "eurostat:nuts_2021_level_lau":"20071",
+    "eurostat:population":19816,
+    "eurostat:population_year":2020,
     "geom:area":0.004134,
-    "geom:area_square_m":37324626.882094,
+    "geom:area_square_m":37324626.882096,
     "geom:bbox":"-2.16130533,43.02970048,-2.00923668,43.16276099",
     "geom:latitude":43.106292,
     "geom:longitude":-2.081027,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_20071",
+        "eurostat:nuts_2021_id":"20071",
         "gn:id":6358159,
         "gp:id":12695142,
         "qs_pg:id":621694
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"41d684f2c20dcdbd53b36eb87643104f",
+    "wof:geomhash":"2dd51d32ec06a4953dbf4d00a5fada55",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404336243,
-    "wof:lastmodified":1582361463,
+    "wof:lastmodified":1684352335,
     "wof:name":"Tolosa",
     "wof:parent_id":85682741,
     "wof:placetype":"localadmin",
+    "wof:population":19816,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

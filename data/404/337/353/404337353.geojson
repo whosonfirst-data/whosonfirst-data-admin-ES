@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Onzonilla",
+    "eurostat:nuts_2021_id":"24105",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24105",
+    "eurostat:population":1832,
+    "eurostat:population_year":2020,
     "geom:area":0.002386,
     "geom:area_square_m":21742294.50421,
     "geom:bbox":"-5.62978569,42.48453237,-5.54463413,42.55622482",
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_24105",
+        "eurostat:nuts_2021_id":"24105",
         "gn:id":6358647,
         "gp:id":12691844,
         "qs_pg:id":906196
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dfec5c8e81dff5c27cd3ed501126023c",
+    "wof:geomhash":"0712f37c5250a409c9b3514ffddf5af8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404337353,
-    "wof:lastmodified":1582361549,
+    "wof:lastmodified":1684352351,
     "wof:name":"Onzonilla",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":1832,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

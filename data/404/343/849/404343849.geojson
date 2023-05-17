@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alpe\u00f1\u00e9s",
+    "eurostat:nuts_2021_id":"44020",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44020",
+    "eurostat:population":21,
+    "eurostat:population_year":2020,
     "geom:area":0.003054,
-    "geom:area_square_m":28582199.606218,
+    "geom:area_square_m":28582199.606217,
     "geom:bbox":"-1.12291053,40.76406505,-1.02851797,40.8354261",
     "geom:latitude":40.802498,
     "geom:longitude":-1.073679,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44020",
+        "eurostat:nuts_2021_id":"44020",
         "gn:id":6361445,
         "gp:id":12689619,
         "qs_pg:id":1146731
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"48d538e6cd80c453658349788f9cde17",
+    "wof:geomhash":"1cfd8fb2ba17486b98f0b75a6cd75226",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404343849,
-    "wof:lastmodified":1582361886,
+    "wof:lastmodified":1684352466,
     "wof:name":"Alpe\u00f1\u00e9s",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":21,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

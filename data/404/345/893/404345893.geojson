@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47227",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villavellid",
+    "eurostat:nuts_2021_id":"47227",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47227",
+    "eurostat:population":50,
+    "eurostat:population_year":2020,
     "geom:area":0.00236,
     "geom:area_square_m":21787461.967364,
     "geom:bbox":"-5.31999081,41.67349981,-5.22662962,41.72182829",
@@ -99,6 +111,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -106,9 +120,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_47227",
+        "eurostat:nuts_2021_id":"47227"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"035c4ddfa7be0cf4a8c52199bbaf2ad0",
+    "wof:geomhash":"9d9b6ea57649b509f73fe3e38f258538",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +136,12 @@
         }
     ],
     "wof:id":404345893,
-    "wof:lastmodified":1566591011,
+    "wof:lastmodified":1684352491,
     "wof:name":"Villavellid",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":50,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

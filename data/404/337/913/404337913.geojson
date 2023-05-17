@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":25150,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25150",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oliola",
+    "eurostat:nuts_2021_id":"25150",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25150",
+    "eurostat:population":203,
+    "eurostat:population_year":2020,
     "geom:area":0.00934,
     "geom:area_square_m":86017650.430692,
     "geom:bbox":"1.09820149697,41.7811896343,1.2440826087,41.9434016965",
@@ -112,6 +124,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -120,7 +134,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25150",
         "esp-icgc:la_lc":"025150",
+        "eurostat:nuts_2021_id":"25150",
         "gn:id":6358890,
         "gp:id":12694042,
         "qs_pg:id":977868
@@ -130,7 +146,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dda312b539a8ea06f7387ac6e65799a4",
+    "wof:geomhash":"bd1e3ab399fa30b2084cc1229ac93d78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404337913,
-    "wof:lastmodified":1582361564,
+    "wof:lastmodified":1684352364,
     "wof:name":"Oliola",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":203,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

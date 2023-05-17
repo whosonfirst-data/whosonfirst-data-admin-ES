@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24093",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Magaz de Cepeda",
+    "eurostat:nuts_2021_id":"24093",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24093",
+    "eurostat:population":367,
+    "eurostat:population_year":2020,
     "geom:area":0.007964,
-    "geom:area_square_m":72527202.323629,
+    "geom:area_square_m":72527202.323624,
     "geom:bbox":"-6.17113491,42.52056976,-6.05107312,42.61615306",
     "geom:latitude":42.56823,
     "geom:longitude":-6.109144,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_24093",
+        "eurostat:nuts_2021_id":"24093",
         "gn:id":6358635,
         "gp:id":12691832,
         "qs_pg:id":46407
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"472221abc13cf06a178a0bd2f17b5911",
+    "wof:geomhash":"c25c6b79dec95e726ad0df3075a6448f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404337327,
-    "wof:lastmodified":1582361575,
+    "wof:lastmodified":1684352351,
     "wof:name":"Magaz De Cepeda",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":367,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

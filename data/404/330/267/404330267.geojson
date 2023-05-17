@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05229",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santo Domingo de las Posadas",
+    "eurostat:nuts_2021_id":"05229",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05229",
+    "eurostat:population":69,
+    "eurostat:population_year":2020,
     "geom:area":0.001424,
-    "geom:area_square_m":13328809.844694,
+    "geom:area_square_m":13328809.844695,
     "geom:bbox":"-4.66513532,40.76889962,-4.61342274,40.82322139",
     "geom:latitude":40.796894,
     "geom:longitude":-4.640344,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05229",
+        "eurostat:nuts_2021_id":"05229",
         "gn:id":6355826,
         "gp:id":12691339,
         "qs_pg:id":1016840
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2b10074d6ae019bd185a8ea5a1a0a2eb",
+    "wof:geomhash":"9c117eb358c679ff3724bd48fc370631",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330267,
-    "wof:lastmodified":1582361526,
+    "wof:lastmodified":1684352221,
     "wof:name":"Santo Domingo De Las Posadas",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":69,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

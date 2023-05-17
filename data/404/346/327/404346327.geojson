@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49085",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Galende",
+    "eurostat:nuts_2021_id":"49085",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49085",
+    "eurostat:population":982,
+    "eurostat:population_year":2020,
     "geom:area":0.009829,
-    "geom:area_square_m":90123410.2336,
+    "geom:area_square_m":90123410.233597,
     "geom:bbox":"-6.80707413,42.07516256,-6.63757298,42.20220496",
     "geom:latitude":42.138175,
     "geom:longitude":-6.730819,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_49085",
+        "eurostat:nuts_2021_id":"49085",
         "gn:id":6362524,
         "gp:id":12693203,
         "qs_pg:id":499381
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"625aba0ca4e6770257bdb0546675ff08",
+    "wof:geomhash":"a77bfbd44d1a0063b5bc7c550960a707",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404346327,
-    "wof:lastmodified":1582361620,
+    "wof:lastmodified":1684352498,
     "wof:name":"Galende",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":982,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

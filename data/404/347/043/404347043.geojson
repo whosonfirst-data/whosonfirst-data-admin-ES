@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50152",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Maella",
+    "eurostat:nuts_2021_id":"50152",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50152",
+    "eurostat:population":2008,
+    "eurostat:population_year":2020,
     "geom:area":0.018749,
-    "geom:area_square_m":174658513.024643,
+    "geom:area_square_m":174658513.024642,
     "geom:bbox":"-0.0122289,41.0465686,0.22074004,41.1830161",
     "geom:latitude":41.116049,
     "geom:longitude":0.101632,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50152",
+        "eurostat:nuts_2021_id":"50152",
         "gn:id":6362840,
         "gp:id":12689980,
         "qs_pg:id":265249
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2418e34aa79b220c2c7120a3b9a59445",
+    "wof:geomhash":"6aadd9320db468ce0a7785c93b7f74d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404347043,
-    "wof:lastmodified":1582361673,
+    "wof:lastmodified":1684352506,
     "wof:name":"Maella",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":2008,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

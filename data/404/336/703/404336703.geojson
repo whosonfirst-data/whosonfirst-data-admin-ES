@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22137",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lanaja",
+    "eurostat:nuts_2021_id":"22137",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22137",
+    "eurostat:population":1163,
+    "eurostat:population_year":2020,
     "geom:area":0.019883,
-    "geom:area_square_m":183440313.631974,
+    "geom:area_square_m":183440313.631973,
     "geom:bbox":"-0.46065303,41.63013697,-0.24631674,41.83716713",
     "geom:latitude":41.743816,
     "geom:longitude":-0.348871,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22137",
+        "eurostat:nuts_2021_id":"22137",
         "gn:id":6358362,
         "gp:id":12689506,
         "qs_pg:id":45343
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d5beee9ae2bc63ce94ebdd752cff1c1c",
+    "wof:geomhash":"ebda718b45aa909df5735e235241f0e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404336703,
-    "wof:lastmodified":1582361470,
+    "wof:lastmodified":1684352342,
     "wof:name":"Lanaja",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":1163,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_39095",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Val de San Vicente",
+    "eurostat:nuts_2021_id":"39095",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES13",
+    "eurostat:nuts_2021_level_3":"ES130",
+    "eurostat:nuts_2021_level_lau":"39095",
+    "eurostat:population":2758,
+    "eurostat:population_year":2020,
     "geom:area":0.005653,
-    "geom:area_square_m":50814784.836973,
+    "geom:area_square_m":50814784.836975,
     "geom:bbox":"-4.53945652,43.33155988,-4.4211353,43.39785009",
     "geom:latitude":43.363676,
     "geom:longitude":-4.477532,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_39095",
+        "eurostat:nuts_2021_id":"39095",
         "gn:id":6360739,
         "gp:id":12688612,
         "qs_pg:id":905046
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f7eeb84e604aa777acb546063f714e0a",
+    "wof:geomhash":"1f17305b5b80844a534ad0061b9196d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404342255,
-    "wof:lastmodified":1582361822,
+    "wof:lastmodified":1684352437,
     "wof:name":"Val De San Vicente",
     "wof:parent_id":85682833,
     "wof:placetype":"localadmin",
+    "wof:population":2758,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_36902",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cerdedo-Cotobade",
+    "eurostat:nuts_2021_id":"36902",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES114",
+    "eurostat:nuts_2021_level_lau":"36902",
+    "eurostat:population":5697,
+    "eurostat:population_year":2020,
     "geom:area":0.014744,
-    "geom:area_square_m":134476848.854926,
+    "geom:area_square_m":134476848.854929,
     "geom:bbox":"-8.58051254,42.41086463,-8.38285597,42.53677023",
     "geom:latitude":42.472615,
     "geom:longitude":-8.487146,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_36902",
+        "eurostat:nuts_2021_id":"36902",
         "gn:id":3124367,
         "gp:id":12694967,
         "qs_pg:id":1198253
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b6e51b859cc3690dcb592e8d408d0b3d",
+    "wof:geomhash":"33a14b748418e2368d3f5aa26c863830",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404340987,
-    "wof:lastmodified":1582361666,
+    "wof:lastmodified":1684352418,
     "wof:name":"Cotobade",
     "wof:parent_id":85682825,
     "wof:placetype":"localadmin",
+    "wof:population":5697,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

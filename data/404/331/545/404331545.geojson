@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8298,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08298",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vic",
+    "eurostat:nuts_2021_id":"08298",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08298",
+    "eurostat:population":47630,
+    "eurostat:population_year":2020,
     "geom:area":0.003357,
-    "geom:area_square_m":30885201.214938,
+    "geom:area_square_m":30885257.23176,
     "geom:bbox":"2.165997,41.881466,2.286565,41.959506",
     "geom:latitude":41.922405,
     "geom:longitude":2.236219,
@@ -172,6 +184,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -180,7 +194,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08298",
         "esp-icgc:la_lc":"08298",
+        "eurostat:nuts_2021_id":"08298",
         "gn:id":6356315,
         "gp:id":12693672,
         "qs_pg:id":47385
@@ -190,7 +206,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e82ee3ed394908287f17ac83caf99620",
+    "wof:geomhash":"2a73874334b10ce0409e7d997bbe82a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -201,10 +217,12 @@
         }
     ],
     "wof:id":404331545,
-    "wof:lastmodified":1669903005,
+    "wof:lastmodified":1684352255,
     "wof:name":"Vic",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":47630,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

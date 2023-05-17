@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aldeanueva de la Serrezuela",
+    "eurostat:nuts_2021_id":"40009",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40009",
+    "eurostat:population":40,
+    "eurostat:population_year":2020,
     "geom:area":0.002197,
-    "geom:area_square_m":20362025.258791,
+    "geom:area_square_m":20362025.258792,
     "geom:bbox":"-3.82482088,41.43183138,-3.73948309,41.48700925",
     "geom:latitude":41.462599,
     "geom:longitude":-3.785325,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_40009",
+        "eurostat:nuts_2021_id":"40009",
         "gn:id":6360755,
         "gp:id":12692521,
         "qs_pg:id":497211
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b980730f47fea483cb5f56354d9993c3",
+    "wof:geomhash":"8ed0f908619b7fa77519b12cf348583e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404342291,
-    "wof:lastmodified":1582361821,
+    "wof:lastmodified":1684352438,
     "wof:name":"Aldeanueva De La Serrezuela",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":40,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

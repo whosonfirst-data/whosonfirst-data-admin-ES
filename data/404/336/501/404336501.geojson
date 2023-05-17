@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Almud\u00e9var",
+    "eurostat:nuts_2021_id":"22021",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22021",
+    "eurostat:population":2377,
+    "eurostat:population_year":2020,
     "geom:area":0.021913,
-    "geom:area_square_m":201189881.748107,
+    "geom:area_square_m":201189881.74811,
     "geom:bbox":"-0.67273538,41.94737396,-0.49071597,42.15525987",
     "geom:latitude":42.055227,
     "geom:longitude":-0.583606,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22021",
+        "eurostat:nuts_2021_id":"22021",
         "gp:id":12689415,
         "qs_pg:id":1190769
     },
@@ -117,7 +133,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"aa0d3044b799103f367854c7602630de",
+    "wof:geomhash":"c24b63e9f08a2b3f23f6574d040d4fa9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +144,12 @@
         }
     ],
     "wof:id":404336501,
-    "wof:lastmodified":1582361468,
+    "wof:lastmodified":1684352339,
     "wof:name":"Almud\u00e9var",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":2377,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

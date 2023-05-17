@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bentarique",
+    "eurostat:nuts_2021_id":"04028",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04028",
+    "eurostat:population":240,
+    "eurostat:population_year":2020,
     "geom:area":0.001148,
-    "geom:area_square_m":11340306.486216,
+    "geom:area_square_m":11340306.486215,
     "geom:bbox":"-2.70043892,36.91411331,-2.61089639,37.01467232",
     "geom:latitude":36.963058,
     "geom:longitude":-2.65044,
@@ -120,6 +132,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -127,9 +141,12 @@
         404227361
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_04028",
+        "eurostat:nuts_2021_id":"04028"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"fcef4fc8314c94c5d0187d815203fe27",
+    "wof:geomhash":"a839e1afb5ad219f87c1919f508aaef6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +157,12 @@
         }
     ],
     "wof:id":404329629,
-    "wof:lastmodified":1566590855,
+    "wof:lastmodified":1684352213,
     "wof:name":"Bentarique",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":240,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49238",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villabr\u00e1zaro",
+    "eurostat:nuts_2021_id":"49238",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49238",
+    "eurostat:population":248,
+    "eurostat:population_year":2020,
     "geom:area":0.002532,
     "geom:area_square_m":23239555.557968,
     "geom:bbox":"-5.75120992,42.03940559,-5.67306,42.0870278",
@@ -93,6 +105,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -100,9 +114,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_49238",
+        "eurostat:nuts_2021_id":"49238"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"880e0fa88b673543709e6d6721c44ab2",
+    "wof:geomhash":"f2ab23c2452740100929e77406a670c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,10 +130,12 @@
         }
     ],
     "wof:id":404346637,
-    "wof:lastmodified":1566590272,
+    "wof:lastmodified":1684352501,
     "wof:name":"Villabr\u00e1zaro",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":248,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

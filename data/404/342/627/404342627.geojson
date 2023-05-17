@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40182",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Mart\u00edn y Mudri\u00e1n",
+    "eurostat:nuts_2021_id":"40182",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40182",
+    "eurostat:population":248,
+    "eurostat:population_year":2020,
     "geom:area":0.00457,
-    "geom:area_square_m":42502156.60717,
+    "geom:area_square_m":42502156.607173,
     "geom:bbox":"-4.40325576,41.18958903,-4.28354283,41.25677575",
     "geom:latitude":41.222641,
     "geom:longitude":-4.343644,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_40182",
+        "eurostat:nuts_2021_id":"40182"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"12d1e8ef3e8417c01ea9c2df288ce462",
+    "wof:geomhash":"9d4e64d957ee9d65398769849f1d7889",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404342627,
-    "wof:lastmodified":1566590928,
+    "wof:lastmodified":1684352441,
     "wof:name":"San Mart\u00edn Y Mudri\u00e1n",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":248,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

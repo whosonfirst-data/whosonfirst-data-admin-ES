@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16112",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Huete",
+    "eurostat:nuts_2021_id":"16112",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16112",
+    "eurostat:population":1748,
+    "eurostat:population_year":2020,
     "geom:area":0.039912,
     "geom:area_square_m":377179320.159059,
     "geom:bbox":"-2.76744713,39.8810683,-2.45927116,40.30404165",
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16112",
+        "eurostat:nuts_2021_id":"16112",
         "gn:id":6357460,
         "gp:id":12690500,
         "qs_pg:id":263641
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"200be993c30bfb204658779deaf0b81e",
+    "wof:geomhash":"0b91250c7a69c023b37df30a32ac5d8c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404334245,
-    "wof:lastmodified":1582361723,
+    "wof:lastmodified":1684352295,
     "wof:name":"Huete",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":1748,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alija del Infantado",
+    "eurostat:nuts_2021_id":"24003",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24003",
+    "eurostat:population":629,
+    "eurostat:population_year":2020,
     "geom:area":0.005698,
-    "geom:area_square_m":52236685.678653,
+    "geom:area_square_m":52236685.678652,
     "geom:bbox":"-5.90376883,42.11071557,-5.77844429,42.19851277",
     "geom:latitude":42.152997,
     "geom:longitude":-5.846708,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_24003",
+        "eurostat:nuts_2021_id":"24003"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"08ba04aa5f77beb53306648902862f93",
+    "wof:geomhash":"4daec54a55ae8225687ea33b6ed9fa41",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404337139,
-    "wof:lastmodified":1566590030,
+    "wof:lastmodified":1684352349,
     "wof:name":"Alija Del Infantado",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":629,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

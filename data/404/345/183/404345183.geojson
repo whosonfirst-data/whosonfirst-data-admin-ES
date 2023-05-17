@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46171",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Moncada",
+    "eurostat:nuts_2021_id":"46171",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46171",
+    "eurostat:population":22021,
+    "eurostat:population_year":2020,
     "geom:area":0.001659,
-    "geom:area_square_m":15814619.562374,
+    "geom:area_square_m":15814619.562375,
     "geom:bbox":"-0.42697784,39.52724017,-0.373198,39.59936332",
     "geom:latitude":39.562897,
     "geom:longitude":-0.396538,
@@ -81,6 +93,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -89,6 +103,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46171",
+        "eurostat:nuts_2021_id":"46171",
         "gn:id":6362036,
         "gp:id":12695706,
         "qs_pg:id":247909
@@ -97,7 +113,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"951d75287029a8edc4fd9d46091c5f4a",
+    "wof:geomhash":"b17295e9b9d7460c74358f44b6e4e8c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,10 +124,12 @@
         }
     ],
     "wof:id":404345183,
-    "wof:lastmodified":1582361840,
+    "wof:lastmodified":1684352483,
     "wof:name":"Moncada",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":22021,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

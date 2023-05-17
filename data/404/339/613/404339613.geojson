@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31075",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ciriza / Ziritza",
+    "eurostat:nuts_2021_id":"31075",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31075",
+    "eurostat:population":153,
+    "eurostat:population_year":2020,
     "geom:area":0.00048,
-    "geom:area_square_m":4356706.971075,
+    "geom:area_square_m":4356706.971077,
     "geom:bbox":"-1.84824192,42.7828013,-1.80270144,42.79892262",
     "geom:latitude":42.791698,
     "geom:longitude":-1.82513,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227391
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_31075",
+        "eurostat:nuts_2021_id":"31075"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"41f91a86d3ac13a11a1a598c1dc201f9",
+    "wof:geomhash":"f9894b9d35491dc73869e443b5af244a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404339613,
-    "wof:lastmodified":1566590118,
+    "wof:lastmodified":1684352396,
     "wof:name":"Ciriza/Ziritza",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":153,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

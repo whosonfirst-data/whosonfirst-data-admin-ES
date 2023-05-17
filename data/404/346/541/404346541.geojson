@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49186",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Cebri\u00e1n de Castro",
+    "eurostat:nuts_2021_id":"49186",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49186",
+    "eurostat:population":237,
+    "eurostat:population_year":2020,
     "geom:area":0.007157,
-    "geom:area_square_m":66058744.201043,
+    "geom:area_square_m":66058744.201039,
     "geom:bbox":"-5.86031452,41.66218641,-5.72167761,41.78769588",
     "geom:latitude":41.719418,
     "geom:longitude":-5.787206,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_49186",
+        "eurostat:nuts_2021_id":"49186"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"43468189561fd06521b5b4ed4d6c1e7d",
+    "wof:geomhash":"d9ae217bab231b510224eeef94df211a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404346541,
-    "wof:lastmodified":1566590282,
+    "wof:lastmodified":1684352500,
     "wof:name":"San Cebri\u00e1n De Castro",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":237,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Al\u00eda",
+    "eurostat:nuts_2021_id":"10017",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10017",
+    "eurostat:population":816,
+    "eurostat:population_year":2020,
     "geom:area":0.062724,
-    "geom:area_square_m":598994314.859389,
+    "geom:area_square_m":598994314.859384,
     "geom:bbox":"-5.38002194,39.30182372,-4.95251286,39.59202156",
     "geom:latitude":39.438432,
     "geom:longitude":-5.185965,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10017",
+        "eurostat:nuts_2021_id":"10017",
         "gn:id":6356714,
         "gp:id":12694499,
         "qs_pg:id":231440
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"251757385f835d0fe9682d1a95c6b0d8",
+    "wof:geomhash":"70b5fe378a7a15fcae9c89adf1d9394b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404332547,
-    "wof:lastmodified":1582361691,
+    "wof:lastmodified":1684352265,
     "wof:name":"Al\u00eda",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":816,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

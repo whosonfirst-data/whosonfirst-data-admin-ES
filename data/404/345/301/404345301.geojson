@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46223",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sedav\u00ed",
+    "eurostat:nuts_2021_id":"46223",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46223",
+    "eurostat:population":10391,
+    "eurostat:population_year":2020,
     "geom:area":0.000192,
-    "geom:area_square_m":1830947.418966,
+    "geom:area_square_m":1830947.418965,
     "geom:bbox":"-0.39120248,39.41483917,-0.35366329,39.43308871",
     "geom:latitude":39.423905,
     "geom:longitude":-0.375961,
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46223",
+        "eurostat:nuts_2021_id":"46223",
         "gn:id":6362088,
         "gp:id":12695762,
         "qs_pg:id":895708
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3c017229a655d4a4d83d75fd367c8b68",
+    "wof:geomhash":"477f252f0c39d083d2bb4abf92df314d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404345301,
-    "wof:lastmodified":1582361826,
+    "wof:lastmodified":1684352484,
     "wof:name":"Sedav\u00ed",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":10391,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

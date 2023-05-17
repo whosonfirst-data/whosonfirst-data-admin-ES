@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09088",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castrillo de Riopisuerga",
+    "eurostat:nuts_2021_id":"09088",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09088",
+    "eurostat:population":60,
+    "eurostat:population_year":2020,
     "geom:area":0.001912,
-    "geom:area_square_m":17417207.972126,
+    "geom:area_square_m":17417207.972127,
     "geom:bbox":"-4.30534615,42.49471561,-4.2378951,42.58166749",
     "geom:latitude":42.546469,
     "geom:longitude":-4.269805,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09088",
+        "eurostat:nuts_2021_id":"09088",
         "gn:id":6356402,
         "gp:id":12691447,
         "qs_pg:id":954467
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"274364962c19256f3d1fa975305e028a",
+    "wof:geomhash":"bcc9fb1aff8ec1899196f76a472f72c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404331789,
-    "wof:lastmodified":1582361514,
+    "wof:lastmodified":1684352258,
     "wof:name":"Castrillo De Riopisuerga",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":60,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

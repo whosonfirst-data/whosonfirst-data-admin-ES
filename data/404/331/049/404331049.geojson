@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8076,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08076",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Esparreguera",
+    "eurostat:nuts_2021_id":"08076",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08076",
+    "eurostat:population":22302,
+    "eurostat:population_year":2020,
     "geom:area":0.002948,
-    "geom:area_square_m":27280198.324161,
+    "geom:area_square_m":27280262.49654,
     "geom:bbox":"1.826676,41.514997,1.911706,41.59228",
     "geom:latitude":41.549763,
     "geom:longitude":1.862863,
@@ -145,6 +157,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -153,7 +167,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08076",
         "esp-icgc:la_lc":"08076",
+        "eurostat:nuts_2021_id":"08076",
         "gn:id":6356108,
         "gp:id":12693455,
         "qs_pg:id":1311099
@@ -163,7 +179,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"61eba85644bd0ee3ac4e3b2e7dc73815",
+    "wof:geomhash":"53c48d66f6a26991778b6fc8a5f2e1a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -174,10 +190,12 @@
         }
     ],
     "wof:id":404331049,
-    "wof:lastmodified":1669903000,
+    "wof:lastmodified":1684352240,
     "wof:name":"Esparreguera",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":22302,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22055",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Berbegal",
+    "eurostat:nuts_2021_id":"22055",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22055",
+    "eurostat:population":327,
+    "eurostat:population_year":2020,
     "geom:area":0.005325,
-    "geom:area_square_m":48960448.872772,
+    "geom:area_square_m":48960448.872773,
     "geom:bbox":"-0.06495875,41.9208807,0.05361027,42.01695079",
     "geom:latitude":41.964349,
     "geom:longitude":-0.003783,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22055",
+        "eurostat:nuts_2021_id":"22055",
         "gn:id":6358302,
         "gp:id":12689443,
         "qs_pg:id":45310
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5a2d2510e23441b28dbe275070240743",
+    "wof:geomhash":"385abcf885122717f6c8e289cda1da6b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404336567,
-    "wof:lastmodified":1582361459,
+    "wof:lastmodified":1684352340,
     "wof:name":"Berbegal",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":327,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

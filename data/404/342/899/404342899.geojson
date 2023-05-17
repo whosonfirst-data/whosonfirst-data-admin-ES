@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_41070",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Palomares del R\u00edo",
+    "eurostat:nuts_2021_id":"41070",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES618",
+    "eurostat:nuts_2021_level_lau":"41070",
+    "eurostat:population":8843,
+    "eurostat:population_year":2020,
     "geom:area":0.001321,
     "geom:area_square_m":12994024.499256,
     "geom:bbox":"-6.08981896,37.29651368,-6.0272713,37.33221673",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_41070",
+        "eurostat:nuts_2021_id":"41070",
         "gn:id":6361025,
         "gp:id":12689362,
         "qs_pg:id":245545
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b3ebfce35c698bfe7f768613666b343e",
+    "wof:geomhash":"afee0d3d886f23c3bac6ca3f8dc3db9b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404342899,
-    "wof:lastmodified":1582361821,
+    "wof:lastmodified":1684352445,
     "wof:name":"Palomares Del R\u00edo",
     "wof:parent_id":85682841,
     "wof:placetype":"localadmin",
+    "wof:population":8843,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

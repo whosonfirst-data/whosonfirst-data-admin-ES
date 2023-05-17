@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_41047",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gines",
+    "eurostat:nuts_2021_id":"41047",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES618",
+    "eurostat:nuts_2021_level_lau":"41047",
+    "eurostat:population":13428,
+    "eurostat:population_year":2020,
     "geom:area":0.000295,
     "geom:area_square_m":2893876.72944,
     "geom:bbox":"-6.08803709,37.3756275,-6.0640329,37.39517399",
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_41047",
+        "eurostat:nuts_2021_id":"41047",
         "gn:id":6361002,
         "gp:id":12689339,
         "qs_pg:id":1293533
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b20a3c3f4cbe72c26e50bacbf95e49b4",
+    "wof:geomhash":"bed3264f6635c441ce1b12e808700736",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404342849,
-    "wof:lastmodified":1582361818,
+    "wof:lastmodified":1684352444,
     "wof:name":"Gines",
     "wof:parent_id":85682841,
     "wof:placetype":"localadmin",
+    "wof:population":13428,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

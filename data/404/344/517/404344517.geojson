@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45080",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ill\u00e1n de Vacas",
+    "eurostat:nuts_2021_id":"45080",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45080",
+    "eurostat:population":3,
+    "eurostat:population_year":2020,
     "geom:area":0.000965,
-    "geom:area_square_m":9144141.161245,
+    "geom:area_square_m":9144141.161246,
     "geom:bbox":"-4.5921188,39.95772299,-4.53062696,39.98538437",
     "geom:latitude":39.970172,
     "geom:longitude":-4.555826,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45080",
+        "eurostat:nuts_2021_id":"45080",
         "gn:id":6361740,
         "gp:id":12691001,
         "qs_pg:id":46051
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"167d822696eb0bc3f28303051cf978ee",
+    "wof:geomhash":"6a09c422583f34077e75b0203670bfe3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404344517,
-    "wof:lastmodified":1582361849,
+    "wof:lastmodified":1684352475,
     "wof:name":"Ill\u00e1n De Vacas",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":3,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

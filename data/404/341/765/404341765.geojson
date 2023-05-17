@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37314",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tabera de Abajo",
+    "eurostat:nuts_2021_id":"37314",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37314",
+    "eurostat:population":103,
+    "eurostat:population_year":2020,
     "geom:area":0.006819,
     "geom:area_square_m":63703048.748014,
     "geom:bbox":"-6.07717884,40.88293708,-5.96168358,40.97862595",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_37314",
+        "eurostat:nuts_2021_id":"37314"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"b75c85ca61eaa177e18e14e0f6999f37",
+    "wof:geomhash":"90ab7c08d5e1d14f0e4df414e170a135",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404341765,
-    "wof:lastmodified":1566590294,
+    "wof:lastmodified":1684352428,
     "wof:name":"Tabera De Abajo",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":103,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

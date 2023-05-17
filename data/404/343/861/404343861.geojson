@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Andorra",
+    "eurostat:nuts_2021_id":"44025",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44025",
+    "eurostat:population":7345,
+    "eurostat:population_year":2020,
     "geom:area":0.015132,
-    "geom:area_square_m":141185510.121237,
+    "geom:area_square_m":141185510.121238,
     "geom:bbox":"-0.52735625,40.94301514,-0.34187656,41.08770646",
     "geom:latitude":41.013282,
     "geom:longitude":-0.430778,
@@ -756,6 +768,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -764,6 +778,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44025",
+        "eurostat:nuts_2021_id":"44025",
         "gn:id":6361450,
         "gp:id":12689621,
         "qs_pg:id":1188249
@@ -772,7 +788,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6b32dba3012da1f9f723b09fe8d5ab71",
+    "wof:geomhash":"cad326c86868e2026c43351bc310564e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -783,10 +799,12 @@
         }
     ],
     "wof:id":404343861,
-    "wof:lastmodified":1582361870,
+    "wof:lastmodified":1684352466,
     "wof:name":"Andorra",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":7345,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

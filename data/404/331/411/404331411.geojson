@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8239,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08239",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Quirze Safaja",
+    "eurostat:nuts_2021_id":"08239",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08239",
+    "eurostat:population":631,
+    "eurostat:population_year":2020,
     "geom:area":0.002802,
-    "geom:area_square_m":25861673.233093,
+    "geom:area_square_m":25861637.067142,
     "geom:bbox":"2.126055,41.70389,2.24387,41.761119",
     "geom:latitude":41.725914,
     "geom:longitude":2.185189,
@@ -124,6 +136,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -132,7 +146,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08239",
         "esp-icgc:la_lc":"08239",
+        "eurostat:nuts_2021_id":"08239",
         "gn:id":6356260,
         "gp:id":12693615,
         "qs_pg:id":499401
@@ -142,7 +158,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"338978b68fd89ccf16f514d12fec6f0e",
+    "wof:geomhash":"83db2696e3180e633c8bd782384a39b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,10 +169,12 @@
         }
     ],
     "wof:id":404331411,
-    "wof:lastmodified":1669903009,
+    "wof:lastmodified":1684352250,
     "wof:name":"Sant Quirze Safaja",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":631,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

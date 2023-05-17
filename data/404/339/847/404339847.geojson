@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31173",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monteagudo",
+    "eurostat:nuts_2021_id":"31173",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31173",
+    "eurostat:population":1093,
+    "eurostat:population_year":2020,
     "geom:area":0.001177,
-    "geom:area_square_m":10820664.525649,
+    "geom:area_square_m":10820664.52565,
     "geom:bbox":"-1.73975514,41.95285044,-1.6760741,41.98032099",
     "geom:latitude":41.96763,
     "geom:longitude":-1.704801,
@@ -66,6 +78,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -74,6 +88,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31173",
+        "eurostat:nuts_2021_id":"31173",
         "gn:id":6359721,
         "gp:id":12688351,
         "qs_pg:id":345745
@@ -82,7 +98,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"eb2410740f2370c18c6527fe99190909",
+    "wof:geomhash":"5da4a56f9f9b0cc056b548e85d42316b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,10 +109,12 @@
         }
     ],
     "wof:id":404339847,
-    "wof:lastmodified":1582361593,
+    "wof:lastmodified":1684352399,
     "wof:name":"Monteagudo",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":1093,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03901",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Poblets, els",
+    "eurostat:nuts_2021_id":"03901",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03901",
+    "eurostat:population":2714,
+    "eurostat:population_year":2020,
     "geom:area":0.000375,
     "geom:area_square_m":3610690.299074,
     "geom:bbox":"0.00377294,38.84428704,0.03233391,38.86509123",
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03901",
+        "eurostat:nuts_2021_id":"03901",
         "gn:id":6355514,
         "gp:id":12695372,
         "qs_pg:id":1019072
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cdb39a37fbfd8682c324603a1a88c46e",
+    "wof:geomhash":"e7c35f76fa37edd5c072f8d7c0300e3f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404329561,
-    "wof:lastmodified":1582361788,
+    "wof:lastmodified":1684352211,
     "wof:name":"Els Poblets",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":2714,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

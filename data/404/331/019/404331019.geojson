@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":8063,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08063",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castellol\u00ed",
+    "eurostat:nuts_2021_id":"08063",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08063",
+    "eurostat:population":626,
+    "eurostat:population_year":2020,
     "geom:area":0.002738,
     "geom:area_square_m":25317871.857677,
     "geom:bbox":"1.67077044463,41.5655922565,1.74592691551,41.6243896517",
@@ -124,6 +136,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -132,7 +146,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08063",
         "esp-icgc:la_lc":"08063",
+        "eurostat:nuts_2021_id":"08063",
         "gn:id":6356095,
         "gp:id":12693440,
         "qs_pg:id":47226
@@ -142,7 +158,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"99181bddbf7741e262a67d2e28d20cf0",
+    "wof:geomhash":"b1e584b79e862470cf3c95b65e228d6e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,10 +169,12 @@
         }
     ],
     "wof:id":404331019,
-    "wof:lastmodified":1582361508,
+    "wof:lastmodified":1684352238,
     "wof:name":"Castellol\u00ed",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":626,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

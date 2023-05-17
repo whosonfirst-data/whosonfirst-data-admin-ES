@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_21002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aljaraque",
+    "eurostat:nuts_2021_id":"21002",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES615",
+    "eurostat:nuts_2021_level_lau":"21002",
+    "eurostat:population":21474,
+    "eurostat:population_year":2020,
     "geom:area":0.003436,
-    "geom:area_square_m":33809310.72906,
+    "geom:area_square_m":33809310.729062,
     "geom:bbox":"-7.07772918,37.25343841,-6.97205171,37.30789517",
     "geom:latitude":37.281415,
     "geom:longitude":-7.020166,
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_21002",
+        "eurostat:nuts_2021_id":"21002",
         "gn:id":6358178,
         "gp:id":12689016,
         "qs_pg:id":242314
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2b549c6183f1724b38caf53937a0f633",
+    "wof:geomhash":"14af94244790ca94cb60ec671a253227",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404336285,
-    "wof:lastmodified":1582361472,
+    "wof:lastmodified":1684352336,
     "wof:name":"Aljaraque",
     "wof:parent_id":85682749,
     "wof:placetype":"localadmin",
+    "wof:population":21474,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

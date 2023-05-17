@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campo Lugar",
+    "eurostat:nuts_2021_id":"10043",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10043",
+    "eurostat:population":814,
+    "eurostat:population_year":2020,
     "geom:area":0.007614,
-    "geom:area_square_m":72996164.771967,
+    "geom:area_square_m":72996164.771966,
     "geom:bbox":"-5.82506018,39.11215718,-5.69527683,39.22129823",
     "geom:latitude":39.169636,
     "geom:longitude":-5.765106,
@@ -99,6 +111,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -106,9 +120,12 @@
         404227383
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_10043",
+        "eurostat:nuts_2021_id":"10043"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"a00df55920f0fbfa7fabb12e64207113",
+    "wof:geomhash":"1b9c3ea7505180f09d194d961824fdce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +136,12 @@
         }
     ],
     "wof:id":404332607,
-    "wof:lastmodified":1566590530,
+    "wof:lastmodified":1684352266,
     "wof:name":"Campo Lugar",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":814,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48096",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zalla",
+    "eurostat:nuts_2021_id":"48096",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48096",
+    "eurostat:population":8450,
+    "eurostat:population_year":2020,
     "geom:area":0.003415,
-    "geom:area_square_m":30780501.957058,
+    "geom:area_square_m":30780501.957057,
     "geom:bbox":"-3.18566105,43.17400108,-3.10743314,43.23907536",
     "geom:latitude":43.204388,
     "geom:longitude":-3.14617,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_48096",
+        "eurostat:nuts_2021_id":"48096",
         "gn:id":3104354,
         "gp:id":12695260,
         "qs_pg:id":335025
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"09676874c86672a651a7eeb3ff66dad0",
+    "wof:geomhash":"7dbc1142e214fa78c108842e15569e44",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404346119,
-    "wof:lastmodified":1582361614,
+    "wof:lastmodified":1684352495,
     "wof:name":"Zalla",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":8450,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

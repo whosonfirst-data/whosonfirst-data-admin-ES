@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":8046,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cardedeu",
+    "eurostat:nuts_2021_id":"08046",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08046",
+    "eurostat:population":18424,
+    "eurostat:population_year":2020,
     "geom:area":0.001327,
     "geom:area_square_m":12265555.2985,
     "geom:bbox":"2.33008397497,41.6165678775,2.3748373925,41.6750722721",
@@ -127,6 +139,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -135,7 +149,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08046",
         "esp-icgc:la_lc":"08046",
+        "eurostat:nuts_2021_id":"08046",
         "gn:id":6356079,
         "gp:id":12693423,
         "qs_pg:id":1317265
@@ -145,7 +161,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0f74c69db3da169c17c00ed419b0db6b",
+    "wof:geomhash":"ccc753df5c2125245b824f426726b2e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404330981,
-    "wof:lastmodified":1582361545,
+    "wof:lastmodified":1684352237,
     "wof:name":"Cardedeu",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":18424,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

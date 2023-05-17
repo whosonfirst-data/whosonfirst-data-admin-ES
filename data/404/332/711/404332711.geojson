@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10091",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Guijo de Santa B\u00e1rbara",
+    "eurostat:nuts_2021_id":"10091",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10091",
+    "eurostat:population":378,
+    "eurostat:population_year":2020,
     "geom:area":0.003652,
     "geom:area_square_m":34504461.946699,
     "geom:bbox":"-5.68541548,40.13113907,-5.61741555,40.21095578",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10091",
+        "eurostat:nuts_2021_id":"10091",
         "gn:id":6356787,
         "gp:id":12694572,
         "qs_pg:id":1149638
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"61fe97bf8c33ac82fbf0e2891dd0e367",
+    "wof:geomhash":"7ac6278e0bde355a689fb9e159f32eac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332711,
-    "wof:lastmodified":1582361692,
+    "wof:lastmodified":1684352268,
     "wof:name":"Guijo De Santa B\u00e1rbara",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":378,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

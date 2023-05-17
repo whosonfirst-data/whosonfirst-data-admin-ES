@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_38053",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villa de Mazo",
+    "eurostat:nuts_2021_id":"38053",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES7",
+    "eurostat:nuts_2021_level_2":"ES70",
+    "eurostat:nuts_2021_level_3":"ES707",
+    "eurostat:nuts_2021_level_lau":"38053",
+    "eurostat:population":4859,
+    "eurostat:population_year":2020,
     "geom:area":0.006522,
-    "geom:area_square_m":70823506.581736,
+    "geom:area_square_m":70823506.581729,
     "geom:bbox":"-17.84047937,28.51820891,-17.74985575,28.63350854",
     "geom:latitude":28.579659,
     "geom:longitude":-17.797244,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_38053",
+        "eurostat:nuts_2021_id":"38053",
         "gp:id":12690211,
         "qs_pg:id":1306817
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4240c1ba961dc60673223aa958e62499",
+    "wof:geomhash":"ae1bdb111ff0f743a034f450223256b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404342035,
-    "wof:lastmodified":1582361820,
+    "wof:lastmodified":1684352434,
     "wof:name":"Villa De Mazo",
     "wof:parent_id":85682831,
     "wof:placetype":"localadmin",
+    "wof:population":4859,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

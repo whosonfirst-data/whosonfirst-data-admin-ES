@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10153",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Puerto de Santa Cruz",
+    "eurostat:nuts_2021_id":"10153",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10153",
+    "eurostat:population":304,
+    "eurostat:population_year":2020,
     "geom:area":0.003521,
-    "geom:area_square_m":33693329.175919,
+    "geom:area_square_m":33693329.17592,
     "geom:bbox":"-5.90603709,39.25590797,-5.8183638,39.33234609",
     "geom:latitude":39.294155,
     "geom:longitude":-5.869034,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10153",
+        "eurostat:nuts_2021_id":"10153",
         "gn:id":6356848,
         "gp:id":12694634,
         "qs_pg:id":48038
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f9864f15a1465a744cfd5ac81d41438c",
+    "wof:geomhash":"6519706a66df62658b8f3d24f735df76",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332851,
-    "wof:lastmodified":1582361681,
+    "wof:lastmodified":1684352270,
     "wof:name":"Puerto De Santa Cruz",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":304,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

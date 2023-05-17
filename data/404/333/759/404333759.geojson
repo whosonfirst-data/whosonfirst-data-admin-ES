@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_14053",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Posadas",
+    "eurostat:nuts_2021_id":"14053",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES613",
+    "eurostat:nuts_2021_level_lau":"14053",
+    "eurostat:population":7318,
+    "eurostat:population_year":2020,
     "geom:area":0.016404,
-    "geom:area_square_m":160193030.250108,
+    "geom:area_square_m":160193030.250109,
     "geom:bbox":"-5.18998248,37.73567141,-5.06148367,37.92240754",
     "geom:latitude":37.837806,
     "geom:longitude":-5.117853,
@@ -78,6 +90,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -86,6 +100,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_14053",
+        "eurostat:nuts_2021_id":"14053",
         "gn:id":6357248,
         "gp:id":12688824,
         "qs_pg:id":953566
@@ -94,7 +110,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c82f852fa03da86f8fe2455476407b15",
+    "wof:geomhash":"cdcbe8047e07dfa979c760e97f6d8118",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,10 +121,12 @@
         }
     ],
     "wof:id":404333759,
-    "wof:lastmodified":1582361776,
+    "wof:lastmodified":1684352284,
     "wof:name":"Posadas",
     "wof:parent_id":85682697,
     "wof:placetype":"localadmin",
+    "wof:population":7318,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

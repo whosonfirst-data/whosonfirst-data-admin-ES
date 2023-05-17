@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campo de Mirra / Camp de Mirra, el",
+    "eurostat:nuts_2021_id":"03051",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03051",
+    "eurostat:population":417,
+    "eurostat:population_year":2020,
     "geom:area":0.002259,
-    "geom:area_square_m":21800609.370907,
+    "geom:area_square_m":21800609.370909,
     "geom:bbox":"-0.84265737,38.66189777,-0.76775412,38.73827267",
     "geom:latitude":38.703685,
     "geom:longitude":-0.801993,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03051",
+        "eurostat:nuts_2021_id":"03051",
         "gn:id":6355427,
         "qs_pg:id":621513
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"591e56c5d849c331922015384446cf5d",
+    "wof:geomhash":"bba4d66a0e5414c964e4f75a94ee1606",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404329367,
-    "wof:lastmodified":1582361797,
+    "wof:lastmodified":1684352208,
     "wof:name":"El Campo De Mirra/Camp De Mirra",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":417,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

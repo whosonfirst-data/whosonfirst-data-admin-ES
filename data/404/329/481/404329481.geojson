@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pen\u00e0guila",
+    "eurostat:nuts_2021_id":"03103",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03103",
+    "eurostat:population":269,
+    "eurostat:population_year":2020,
     "geom:area":0.005167,
-    "geom:area_square_m":49890508.658777,
+    "geom:area_square_m":49890508.658778,
     "geom:bbox":"-0.43769005,38.61222676,-0.31657719,38.71187108",
     "geom:latitude":38.658146,
     "geom:longitude":-0.373495,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03103",
+        "eurostat:nuts_2021_id":"03103",
         "gn:id":6355478,
         "gp:id":12695367,
         "qs_pg:id":248056
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"136c159645915abdf080e0bd693a5ae7",
+    "wof:geomhash":"25344c182a771ff714ccaff9cb602b67",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404329481,
-    "wof:lastmodified":1582361798,
+    "wof:lastmodified":1684352210,
     "wof:name":"Pen\u00e0guila",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":269,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18087",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Granada",
+    "eurostat:nuts_2021_id":"18087",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18087",
+    "eurostat:population":233648,
+    "eurostat:population_year":2020,
     "geom:area":0.008932,
-    "geom:area_square_m":87991253.201498,
+    "geom:area_square_m":87991426.481938,
     "geom:bbox":"-3.700362,37.136703,-3.496324,37.225017",
     "geom:latitude":37.18568,
     "geom:longitude":-3.591401,
@@ -348,6 +360,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -356,6 +370,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18087",
+        "eurostat:nuts_2021_id":"18087",
         "gn:id":6357709,
         "gp:id":12688921,
         "qs_pg:id":907043
@@ -364,7 +380,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e7f4f5fc64c9d36fd7dd7f6b335114a5",
+    "wof:geomhash":"f2698f0862e4f9bf15670fa9bdb686ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -375,10 +391,12 @@
         }
     ],
     "wof:id":404335211,
-    "wof:lastmodified":1636503324,
+    "wof:lastmodified":1684352322,
     "wof:name":"Granada",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":233648,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

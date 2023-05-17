@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45068",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Garciotum",
+    "eurostat:nuts_2021_id":"45068",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45068",
+    "eurostat:population":202,
+    "eurostat:population_year":2020,
     "geom:area":0.002397,
-    "geom:area_square_m":22665195.081332,
+    "geom:area_square_m":22665195.081335,
     "geom:bbox":"-4.66790297,40.07911119,-4.59120126,40.16688273",
     "geom:latitude":40.115211,
     "geom:longitude":-4.637916,
@@ -105,6 +117,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -112,9 +126,12 @@
         404227375
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_45068",
+        "eurostat:nuts_2021_id":"45068"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"67ea3d3841270e47958e09641f16da1b",
+    "wof:geomhash":"38c526ced65b4c5bbe67891174f1eda3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +142,12 @@
         }
     ],
     "wof:id":404344491,
-    "wof:lastmodified":1566591087,
+    "wof:lastmodified":1684352474,
     "wof:name":"Garciotum",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":202,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

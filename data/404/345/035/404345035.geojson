@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cullera",
+    "eurostat:nuts_2021_id":"46105",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46105",
+    "eurostat:population":22521,
+    "eurostat:population_year":2020,
     "geom:area":0.005607,
-    "geom:area_square_m":53755372.646044,
+    "geom:area_square_m":53755372.646042,
     "geom:bbox":"-0.30884203,39.10342447,-0.21625028,39.22537815",
     "geom:latitude":39.162892,
     "geom:longitude":-0.259416,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46105",
+        "eurostat:nuts_2021_id":"46105",
         "gn:id":6361970,
         "gp:id":12695649,
         "qs_pg:id":1293636
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"29cdfcf66803e2e2b58ff7c8294195db",
+    "wof:geomhash":"70bc4c5b2935f9372647df044c715984",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404345035,
-    "wof:lastmodified":1582361838,
+    "wof:lastmodified":1684352481,
     "wof:name":"Cullera",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":22521,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

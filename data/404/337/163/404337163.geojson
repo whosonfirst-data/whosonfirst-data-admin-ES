@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bembibre",
+    "eurostat:nuts_2021_id":"24014",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24014",
+    "eurostat:population":8598,
+    "eurostat:population_year":2020,
     "geom:area":0.006962,
     "geom:area_square_m":63317433.065854,
     "geom:bbox":"-6.49989294,42.59884713,-6.37171575,42.69031563",
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_24014",
+        "eurostat:nuts_2021_id":"24014",
         "gn:id":6358564,
         "gp:id":12691759,
         "qs_pg:id":1147727
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0dfe634a33103108adf5f04a530e20ee",
+    "wof:geomhash":"ccb667c4fab8a753a178dabe7277edf3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404337163,
-    "wof:lastmodified":1582361566,
+    "wof:lastmodified":1684352349,
     "wof:name":"Bembibre",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":8598,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

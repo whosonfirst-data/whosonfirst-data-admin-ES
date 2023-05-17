@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_29017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Archidona",
+    "eurostat:nuts_2021_id":"29017",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES617",
+    "eurostat:nuts_2021_level_lau":"29017",
+    "eurostat:population":8168,
+    "eurostat:population_year":2020,
     "geom:area":0.018813,
-    "geom:area_square_m":185527567.232038,
+    "geom:area_square_m":185527567.232032,
     "geom:bbox":"-4.49326566,37.02494487,-4.28283461,37.17270985",
     "geom:latitude":37.105885,
     "geom:longitude":-4.391718,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_29017",
+        "eurostat:nuts_2021_id":"29017",
         "gn:id":6359422,
         "gp:id":12689206,
         "qs_pg:id":45178
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"aae91f029af7bf3ec9c05b722ed69d58",
+    "wof:geomhash":"d3f79dd01b43fd5c49cbbbd73d3e8007",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404339129,
-    "wof:lastmodified":1582361588,
+    "wof:lastmodified":1684352389,
     "wof:name":"Archidona",
     "wof:parent_id":85682787,
     "wof:placetype":"localadmin",
+    "wof:population":8168,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

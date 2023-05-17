@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43163,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43163",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vendrell, El",
+    "eurostat:nuts_2021_id":"43163",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43163",
+    "eurostat:population":38373,
+    "eurostat:population_year":2020,
     "geom:area":0.003961,
-    "geom:area_square_m":36845206.237022,
+    "geom:area_square_m":36845187.822899,
     "geom:bbox":"1.476771,41.173168,1.567628,41.240628",
     "geom:latitude":41.205051,
     "geom:longitude":1.520018,
@@ -139,6 +151,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -147,7 +161,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43163",
         "esp-icgc:la_lc":"043163",
+        "eurostat:nuts_2021_id":"43163",
         "gn:id":6361405,
         "gp:id":12694303,
         "qs_pg:id":47821
@@ -157,7 +173,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"76be877d05008796a9c8b3bacd82d514",
+    "wof:geomhash":"6e5020df5a6a49e1e7fe6ea22cdb4ee4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,10 +184,12 @@
         }
     ],
     "wof:id":404343757,
-    "wof:lastmodified":1669903066,
+    "wof:lastmodified":1684352464,
     "wof:name":"El Vendrell",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":38373,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

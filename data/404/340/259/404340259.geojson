@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_32083",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Veiga, A",
+    "eurostat:nuts_2021_id":"32083",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES113",
+    "eurostat:nuts_2021_level_lau":"32083",
+    "eurostat:population":857,
+    "eurostat:population_year":2020,
     "geom:area":0.031697,
-    "geom:area_square_m":290050530.015298,
+    "geom:area_square_m":290050530.015301,
     "geom:bbox":"-7.10604575,42.17225904,-6.78713952,42.36344977",
     "geom:latitude":42.265216,
     "geom:longitude":-6.958879,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_32083",
+        "eurostat:nuts_2021_id":"32083",
         "gn:id":6359899,
         "gp:id":12694942,
         "qs_pg:id":894079
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"82729fffcd177fc1f0bdca22921b03ca",
+    "wof:geomhash":"48ca8958764728b1e8b8b4e4b9d33f53",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404340259,
-    "wof:lastmodified":1582361651,
+    "wof:lastmodified":1684352404,
     "wof:name":"A Veiga",
     "wof:parent_id":85682801,
     "wof:placetype":"localadmin",
+    "wof:population":857,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

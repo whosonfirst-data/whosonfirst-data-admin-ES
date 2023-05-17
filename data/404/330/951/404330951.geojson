@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8032,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caldes d'Estrac",
+    "eurostat:nuts_2021_id":"08032",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08032",
+    "eurostat:population":3021,
+    "eurostat:population_year":2020,
     "geom:area":0.000092,
-    "geom:area_square_m":848138.233467,
+    "geom:area_square_m":848124.720029,
     "geom:bbox":"2.517401,41.565529,2.531663,41.575912",
     "geom:latitude":41.571172,
     "geom:longitude":2.524025,
@@ -48,6 +60,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -56,13 +70,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"08032"
+        "eg:gisco_id":"ES_08032",
+        "esp-icgc:la_lc":"08032",
+        "eurostat:nuts_2021_id":"08032"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9165daa5113fed76479f7ef93fb25a21",
+    "wof:geomhash":"00153beafe833adaa800bf496e54735f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,10 +89,12 @@
         }
     ],
     "wof:id":404330951,
-    "wof:lastmodified":1669903017,
+    "wof:lastmodified":1684352236,
     "wof:name":"Caldes d'Estrac",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":3021,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

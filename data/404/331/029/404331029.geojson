@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8067,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08067",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Centelles",
+    "eurostat:nuts_2021_id":"08067",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08067",
+    "eurostat:population":7513,
+    "eurostat:population_year":2020,
     "geom:area":0.001663,
-    "geom:area_square_m":15328935.805041,
+    "geom:area_square_m":15328995.436594,
     "geom:bbox":"2.185625,41.757937,2.249807,41.810686",
     "geom:latitude":41.785387,
     "geom:longitude":2.221934,
@@ -127,6 +139,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -135,7 +149,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08067",
         "esp-icgc:la_lc":"08067",
+        "eurostat:nuts_2021_id":"08067",
         "gn:id":6356099,
         "gp:id":12693444,
         "qs_pg:id":242318
@@ -145,7 +161,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"054006a04e5d78cecbd5eaf996e0ba84",
+    "wof:geomhash":"413aa22b6105481cb890c083fef7877d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404331029,
-    "wof:lastmodified":1669903009,
+    "wof:lastmodified":1684352239,
     "wof:name":"Centelles",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":7513,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16085",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Frontera, La",
+    "eurostat:nuts_2021_id":"16085",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16085",
+    "eurostat:population":148,
+    "eurostat:population_year":2020,
     "geom:area":0.003667,
-    "geom:area_square_m":34531239.958677,
+    "geom:area_square_m":34531239.958678,
     "geom:bbox":"-2.25892131,40.36479043,-2.17680474,40.43306526",
     "geom:latitude":40.395915,
     "geom:longitude":-2.211378,
@@ -87,6 +99,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -95,6 +109,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16085",
+        "eurostat:nuts_2021_id":"16085",
         "gn:id":6357435,
         "gp:id":12690474,
         "qs_pg:id":263639
@@ -103,7 +119,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6c605b18281dd33a46dec7bb7be7b07b",
+    "wof:geomhash":"eb3fa691222e2964ad019195d15cd71d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,10 +130,12 @@
         }
     ],
     "wof:id":404334187,
-    "wof:lastmodified":1582361731,
+    "wof:lastmodified":1684352294,
     "wof:name":"La Frontera",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":148,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

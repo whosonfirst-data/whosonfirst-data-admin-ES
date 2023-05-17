@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25124,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25124",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lladurs",
+    "eurostat:nuts_2021_id":"25124",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25124",
+    "eurostat:population":180,
+    "eurostat:population_year":2020,
     "geom:area":0.013928,
-    "geom:area_square_m":127855761.773973,
+    "geom:area_square_m":127855761.773971,
     "geom:bbox":"1.36838006716,42.0093590921,1.58124013118,42.1116656013",
     "geom:latitude":42.062901,
     "geom:longitude":1.477023,
@@ -111,6 +123,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,13 +133,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"025124"
+        "eg:gisco_id":"ES_25124",
+        "esp-icgc:la_lc":"025124",
+        "eurostat:nuts_2021_id":"25124"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ed9e0dea42535ea9e8c1fc23eeb9633c",
+    "wof:geomhash":"d8b937aae55cd572aafdf0caf8793133",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,10 +152,12 @@
         }
     ],
     "wof:id":404337859,
-    "wof:lastmodified":1582361556,
+    "wof:lastmodified":1684352362,
     "wof:name":"Lladurs",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":180,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

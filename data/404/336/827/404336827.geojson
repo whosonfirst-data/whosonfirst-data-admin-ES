@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22218",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sen\u00e9s de Alcubierre",
+    "eurostat:nuts_2021_id":"22218",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22218",
+    "eurostat:population":40,
+    "eurostat:population_year":2020,
     "geom:area":0.002228,
-    "geom:area_square_m":20500506.901899,
+    "geom:area_square_m":20500506.9019,
     "geom:bbox":"-0.55285285,41.88170644,-0.4736744,41.92391692",
     "geom:latitude":41.903157,
     "geom:longitude":-0.510828,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22218",
+        "eurostat:nuts_2021_id":"22218",
         "gn:id":6358417,
         "gp:id":12689565,
         "qs_pg:id":45374
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"497485f7b40c7c1cce399621dd086b5a",
+    "wof:geomhash":"556b2f5b6d292bfd05472a2cef4b5a72",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404336827,
-    "wof:lastmodified":1582361461,
+    "wof:lastmodified":1684352344,
     "wof:name":"Sen\u00e9s De Alcubierre",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":40,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

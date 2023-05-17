@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31056",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Biurrun-Olcoz",
+    "eurostat:nuts_2021_id":"31056",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31056",
+    "eurostat:population":223,
+    "eurostat:population_year":2020,
     "geom:area":0.001723,
-    "geom:area_square_m":15662467.01255,
+    "geom:area_square_m":15662467.012551,
     "geom:bbox":"-1.69982687,42.62918765,-1.65007287,42.71148273",
     "geom:latitude":42.677228,
     "geom:longitude":-1.677627,
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31056",
+        "eurostat:nuts_2021_id":"31056",
         "gn:id":6359604,
         "gp:id":12688233,
         "qs_pg:id":1164144
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9c0dc05fc1619f98907f0c9d41d17f32",
+    "wof:geomhash":"c99506119148fc030413953bd35680ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404339569,
-    "wof:lastmodified":1582361580,
+    "wof:lastmodified":1684352396,
     "wof:name":"Biurrun-Olcoz",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":223,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49097",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Justel",
+    "eurostat:nuts_2021_id":"49097",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49097",
+    "eurostat:population":64,
+    "eurostat:population_year":2020,
     "geom:area":0.005544,
-    "geom:area_square_m":50828911.160602,
+    "geom:area_square_m":50828911.160598,
     "geom:bbox":"-6.33329771,42.1178632,-6.20200699,42.17895627",
     "geom:latitude":42.147577,
     "geom:longitude":-6.268678,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_49097",
+        "eurostat:nuts_2021_id":"49097",
         "gn:id":6362535,
         "gp:id":12693214,
         "qs_pg:id":499388
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cda15f7a2a943c0c5de7a0980c3e9be5",
+    "wof:geomhash":"be0bb1ffd5302dfc922e662a84043fdb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404346351,
-    "wof:lastmodified":1582361615,
+    "wof:lastmodified":1684352498,
     "wof:name":"Justel",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":64,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

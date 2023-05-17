@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_13004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Albaladejo",
+    "eurostat:nuts_2021_id":"13004",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES422",
+    "eurostat:nuts_2021_level_lau":"13004",
+    "eurostat:population":1108,
+    "eurostat:population_year":2020,
     "geom:area":0.005062,
     "geom:area_square_m":48909966.056114,
     "geom:bbox":"-2.83244281,38.56429967,-2.75009664,38.65805482",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_13004",
+        "eurostat:nuts_2021_id":"13004",
         "gn:id":6357098,
         "gp:id":12690301,
         "qs_pg:id":45705
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"647a8df5030c99a47afde623cdcf5ade",
+    "wof:geomhash":"fa77e590691bda36132ff86757e85e20",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404333419,
-    "wof:lastmodified":1582361776,
+    "wof:lastmodified":1684352278,
     "wof:name":"Albaladejo",
     "wof:parent_id":85682689,
     "wof:placetype":"localadmin",
+    "wof:population":1108,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

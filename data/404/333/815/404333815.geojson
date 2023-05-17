@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aranga",
+    "eurostat:nuts_2021_id":"15003",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15003",
+    "eurostat:population":1834,
+    "eurostat:population_year":2020,
     "geom:area":0.013249,
-    "geom:area_square_m":119382356.851463,
+    "geom:area_square_m":119382356.851471,
     "geom:bbox":"-8.11605318,43.16006029,-7.92185463,43.28602227",
     "geom:latitude":43.222815,
     "geom:longitude":-8.012838,
@@ -126,6 +138,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -134,6 +148,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_15003",
+        "eurostat:nuts_2021_id":"15003",
         "gn:id":6357273,
         "gp:id":12694704,
         "qs_pg:id":910848
@@ -142,7 +158,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ca4bd1fc0f8f3d2eb23355762e2c387d",
+    "wof:geomhash":"d95142d3363475f1abef8540451161d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,10 +169,12 @@
         }
     ],
     "wof:id":404333815,
-    "wof:lastmodified":1582361777,
+    "wof:lastmodified":1684352285,
     "wof:name":"Aranga",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":1834,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

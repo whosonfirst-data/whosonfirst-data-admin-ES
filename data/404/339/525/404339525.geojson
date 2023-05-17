@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31038",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Artajona",
+    "eurostat:nuts_2021_id":"31038",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31038",
+    "eurostat:population":1691,
+    "eurostat:population_year":2020,
     "geom:area":0.007362,
-    "geom:area_square_m":67029128.294102,
+    "geom:area_square_m":67029128.294101,
     "geom:bbox":"-1.81746763,42.54054679,-1.69955259,42.62600473",
     "geom:latitude":42.582781,
     "geom:longitude":-1.759297,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31038",
+        "eurostat:nuts_2021_id":"31038",
         "gn:id":6359587,
         "gp:id":12688207,
         "qs_pg:id":1102424
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d8d0ff839cb486719cbb9093e5bdc6d0",
+    "wof:geomhash":"6ba169e1ee3391c80c02035a081f8c2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404339525,
-    "wof:lastmodified":1582361597,
+    "wof:lastmodified":1684352395,
     "wof:name":"Artajona",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":1691,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

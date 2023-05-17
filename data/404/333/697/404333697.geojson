@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_14026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Espiel",
+    "eurostat:nuts_2021_id":"14026",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES613",
+    "eurostat:nuts_2021_level_lau":"14026",
+    "eurostat:population":2405,
+    "eurostat:population_year":2020,
     "geom:area":0.044931,
-    "geom:area_square_m":437012119.895909,
+    "geom:area_square_m":437012119.895904,
     "geom:bbox":"-5.31830652,37.97585241,-4.85155504,38.28339824",
     "geom:latitude":38.132756,
     "geom:longitude":-5.076437,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_14026",
+        "eurostat:nuts_2021_id":"14026",
         "gn:id":6357221,
         "gp:id":12688797,
         "qs_pg:id":1164431
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"72b050ca05f0664625293c803598b21c",
+    "wof:geomhash":"b71026fc8e0b01f918264b3aac3cbc43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404333697,
-    "wof:lastmodified":1582361779,
+    "wof:lastmodified":1684352283,
     "wof:name":"Espiel",
     "wof:parent_id":85682697,
     "wof:placetype":"localadmin",
+    "wof:population":2405,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

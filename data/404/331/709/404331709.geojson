@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09056",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Briviesca",
+    "eurostat:nuts_2021_id":"09056",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09056",
+    "eurostat:population":6582,
+    "eurostat:population_year":2020,
     "geom:area":0.008899,
     "geom:area_square_m":81075544.073016,
     "geom:bbox":"-3.42664004,42.48044603,-3.2216845,42.61326636",
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09056",
+        "eurostat:nuts_2021_id":"09056",
         "gn:id":6356374,
         "gp:id":12691420,
         "qs_pg:id":248470
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c9bd2508a88828501e9780c7e2b9dd1f",
+    "wof:geomhash":"4290bf46df7304e815e1e9e069f8c4b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404331709,
-    "wof:lastmodified":1582361483,
+    "wof:lastmodified":1684352257,
     "wof:name":"Briviesca",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":6582,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

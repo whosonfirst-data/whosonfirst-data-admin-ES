@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06118",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sancti-Sp\u00edritus",
+    "eurostat:nuts_2021_id":"06118",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06118",
+    "eurostat:population":165,
+    "eurostat:population_year":2020,
     "geom:area":0.003486,
     "geom:area_square_m":33537836.622755,
     "geom:bbox":"-5.21611674,38.88746059,-5.12782741,38.96137405",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06118",
+        "eurostat:nuts_2021_id":"06118",
         "gn:id":6355983,
         "gp:id":12694439,
         "qs_pg:id":51837
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0ce42ca4e68cada2ff4de5d478ff37f7",
+    "wof:geomhash":"f64f5a58ce3ed698ebc5747324ca30a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404330621,
-    "wof:lastmodified":1582361523,
+    "wof:lastmodified":1684352227,
     "wof:name":"Sancti-Sp\u00edritus",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":165,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

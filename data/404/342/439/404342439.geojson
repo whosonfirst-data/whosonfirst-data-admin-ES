@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40084",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fuente el Olmo de \u00cdscar",
+    "eurostat:nuts_2021_id":"40084",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40084",
+    "eurostat:population":55,
+    "eurostat:population_year":2020,
     "geom:area":0.000838,
-    "geom:area_square_m":7789144.470608,
+    "geom:area_square_m":7789144.470607,
     "geom:bbox":"-4.51852627,41.26801084,-4.47146282,41.30240329",
     "geom:latitude":41.286261,
     "geom:longitude":-4.492325,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_40084",
+        "eurostat:nuts_2021_id":"40084"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"f14c4dadc7c0100bb38600c2e526c290",
+    "wof:geomhash":"e9c49867d3123d10b8f5d91a1d079b5d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404342439,
-    "wof:lastmodified":1566590932,
+    "wof:lastmodified":1684352439,
     "wof:name":"Fuente El Olmo De \u00cdscar",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":55,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

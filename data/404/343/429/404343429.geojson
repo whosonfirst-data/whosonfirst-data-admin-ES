@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43016,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arbo\u00e7, L'",
+    "eurostat:nuts_2021_id":"43016",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43016",
+    "eurostat:population":5609,
+    "eurostat:population_year":2020,
     "geom:area":0.001537,
-    "geom:area_square_m":14286407.304423,
+    "geom:area_square_m":14286334.568389,
     "geom:bbox":"1.570118,41.249911,1.642427,41.313319",
     "geom:latitude":41.273007,
     "geom:longitude":1.606644,
@@ -112,6 +124,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -120,7 +134,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43016",
         "esp-icgc:la_lc":"043016",
+        "eurostat:nuts_2021_id":"43016",
         "gn:id":6361259,
         "gp:id":12694153,
         "qs_pg:id":1209017
@@ -130,7 +146,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"889e1439b97e152a889e23375f5717a3",
+    "wof:geomhash":"16ec91693901c337296fbc5d3f5b94fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404343429,
-    "wof:lastmodified":1669903068,
+    "wof:lastmodified":1684352452,
     "wof:name":"L'Arbo\u00e7",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":5609,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

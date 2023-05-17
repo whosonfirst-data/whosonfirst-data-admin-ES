@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Becedas",
+    "eurostat:nuts_2021_id":"05024",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05024",
+    "eurostat:population":191,
+    "eurostat:population_year":2020,
     "geom:area":0.003415,
     "geom:area_square_m":32168062.126995,
     "geom:bbox":"-5.67303128,40.34760893,-5.58213987,40.42534286",
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05024",
+        "eurostat:nuts_2021_id":"05024",
         "gn:id":6355636,
         "gp:id":12691144,
         "qs_pg:id":1165477
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"369499377ae72d81e88a2b7d965405ab",
+    "wof:geomhash":"868914dc7ee4203786e9aeed6501779f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404329839,
-    "wof:lastmodified":1582361801,
+    "wof:lastmodified":1684352216,
     "wof:name":"Becedas",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":191,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

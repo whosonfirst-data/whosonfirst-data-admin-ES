@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_38039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa \u00darsula",
+    "eurostat:nuts_2021_id":"38039",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES7",
+    "eurostat:nuts_2021_level_2":"ES70",
+    "eurostat:nuts_2021_level_3":"ES709",
+    "eurostat:nuts_2021_level_lau":"38039",
+    "eurostat:population":14953,
+    "eurostat:population_year":2020,
     "geom:area":0.002063,
-    "geom:area_square_m":22443157.928508,
+    "geom:area_square_m":22443157.928513,
     "geom:bbox":"-16.50894683,28.3720053,-16.44273895,28.4415414",
     "geom:latitude":28.406963,
     "geom:longitude":-16.477395,
@@ -102,6 +114,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -109,9 +123,12 @@
         404227369
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_38039",
+        "eurostat:nuts_2021_id":"38039"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"7be29869f2a100e40db7594254eaaeca",
+    "wof:geomhash":"f561332d9c953e41bd371d356b862457",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +139,12 @@
         }
     ],
     "wof:id":404342005,
-    "wof:lastmodified":1566590973,
+    "wof:lastmodified":1684352433,
     "wof:name":"Santa \u00darsula",
     "wof:parent_id":85682831,
     "wof:placetype":"localadmin",
+    "wof:population":14953,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

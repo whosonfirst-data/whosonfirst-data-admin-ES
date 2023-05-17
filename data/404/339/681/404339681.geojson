@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Falces",
+    "eurostat:nuts_2021_id":"31104",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31104",
+    "eurostat:population":2336,
+    "eurostat:population_year":2020,
     "geom:area":0.012567,
-    "geom:area_square_m":114712128.822883,
+    "geom:area_square_m":114712128.822882,
     "geom:bbox":"-1.90835053,42.37157119,-1.70778845,42.46506921",
     "geom:latitude":42.419879,
     "geom:longitude":-1.810036,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31104",
+        "eurostat:nuts_2021_id":"31104",
         "gn:id":6359652,
         "gp:id":12688279,
         "qs_pg:id":539300
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e701253c34925c78bdd0eefcd7c696b3",
+    "wof:geomhash":"87e0d055b880f967a0d2852b3d5a0f5e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404339681,
-    "wof:lastmodified":1582361583,
+    "wof:lastmodified":1684352397,
     "wof:name":"Falces",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":2336,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

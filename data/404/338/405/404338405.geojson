@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_26121",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rabanera",
+    "eurostat:nuts_2021_id":"26121",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES23",
+    "eurostat:nuts_2021_level_3":"ES230",
+    "eurostat:nuts_2021_level_lau":"26121",
+    "eurostat:population":32,
+    "eurostat:population_year":2020,
     "geom:area":0.001504,
-    "geom:area_square_m":13784226.121746,
+    "geom:area_square_m":13784226.121744,
     "geom:bbox":"-2.50805839,42.16250902,-2.44774203,42.20750252",
     "geom:latitude":42.185213,
     "geom:longitude":-2.477366,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_26121",
+        "eurostat:nuts_2021_id":"26121",
         "gn:id":6359107,
         "gp:id":12687888,
         "qs_pg:id":44378
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"06586c19d4d9265aba2a151f2b7ef7b8",
+    "wof:geomhash":"c21ff40801d8e8eafcc60b1a305a9a6b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404338405,
-    "wof:lastmodified":1582361451,
+    "wof:lastmodified":1684352375,
     "wof:name":"Rabanera",
     "wof:parent_id":85682773,
     "wof:placetype":"localadmin",
+    "wof:population":32,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

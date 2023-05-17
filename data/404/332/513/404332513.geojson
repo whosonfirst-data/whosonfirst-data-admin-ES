@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Abertura",
+    "eurostat:nuts_2021_id":"10002",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10002",
+    "eurostat:population":404,
+    "eurostat:population_year":2020,
     "geom:area":0.006544,
-    "geom:area_square_m":62656265.600426,
+    "geom:area_square_m":62656265.600423,
     "geom:bbox":"-5.84783176,39.19298981,-5.76386448,39.3246742",
     "geom:latitude":39.255096,
     "geom:longitude":-5.806534,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10002",
+        "eurostat:nuts_2021_id":"10002",
         "gn:id":6356699,
         "gp:id":12694484,
         "qs_pg:id":47945
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b09732f073f42b78af4632d75c4ca3bf",
+    "wof:geomhash":"92bb01d4090f5c6ded6dca0fe44faf13",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404332513,
-    "wof:lastmodified":1582361691,
+    "wof:lastmodified":1684352265,
     "wof:name":"Abertura",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":404,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

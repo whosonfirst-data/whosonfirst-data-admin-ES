@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Benimassot",
+    "eurostat:nuts_2021_id":"03039",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03039",
+    "eurostat:population":103,
+    "eurostat:population_year":2020,
     "geom:area":0.000986,
     "geom:area_square_m":9506437.072476,
     "geom:bbox":"-0.31676486,38.73488203,-0.27522642,38.77224712",
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03039",
+        "eurostat:nuts_2021_id":"03039",
         "gn:id":6355415,
         "gp:id":12695304,
         "qs_pg:id":1149667
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"37dbf71dc771567a23c48fdb21d9c609",
+    "wof:geomhash":"24e9a3a53698ad2ba0e669b3b9396045",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404329339,
-    "wof:lastmodified":1582361788,
+    "wof:lastmodified":1684352208,
     "wof:name":"Benimassot",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":103,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

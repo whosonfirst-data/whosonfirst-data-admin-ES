@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09127",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fontioso",
+    "eurostat:nuts_2021_id":"09127",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09127",
+    "eurostat:population":57,
+    "eurostat:population_year":2020,
     "geom:area":0.002696,
-    "geom:area_square_m":24802927.840373,
+    "geom:area_square_m":24802927.840371,
     "geom:bbox":"-3.77567893,41.88992366,-3.71147541,41.95933573",
     "geom:latitude":41.927689,
     "geom:longitude":-3.743414,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09127",
+        "eurostat:nuts_2021_id":"09127",
         "gn:id":6356428,
         "gp:id":12691475,
         "qs_pg:id":1196505
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3a5e1173453b9208ebeed48ae61e58e0",
+    "wof:geomhash":"1f48dca02cf57f97f52bbd0c7ff1987e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404331857,
-    "wof:lastmodified":1582361490,
+    "wof:lastmodified":1684352259,
     "wof:name":"Fontioso",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":57,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

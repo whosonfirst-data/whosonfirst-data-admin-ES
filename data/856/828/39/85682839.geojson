@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"ES",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"Segovia",
+    "eurostat:name_local":"Segovia",
+    "eurostat:nuts_2021_id":"ES416",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:population":153820,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"3",
     "geom:area":0.74281,
-    "geom:area_square_m":6913936386.190292,
+    "geom:area_square_m":6913936287.864256,
     "geom:bbox":"-4.724653,40.632985,-3.206929,41.586082",
     "geom:latitude":41.170999,
     "geom:longitude":-4.054168,
@@ -321,6 +335,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "unlc:subdivision":"ES-SG",
     "wof:belongsto":[
         102191581,
@@ -330,6 +346,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":14838,
+        "eurostat:nuts_2021_id":"ES416",
         "fips:code":"SP85",
         "gn:id":3109254,
         "gp:id":12602120,
@@ -337,7 +354,7 @@
         "unlc:id":"ES-SG"
     },
     "wof:country":"ES",
-    "wof:geomhash":"8d8d6bcadb56cc9b7e5d8c4ba13d08d6",
+    "wof:geomhash":"a62e1075039598822da144d2584b0ed0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -357,10 +374,12 @@
         "eus",
         "ast"
     ],
-    "wof:lastmodified":1636503251,
+    "wof:lastmodified":1684351565,
     "wof:name":"Segovia",
     "wof:parent_id":404227373,
     "wof:placetype":"region",
+    "wof:population":153820,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:shortcode":"CL",
     "wof:subdivision":"ES-SG",

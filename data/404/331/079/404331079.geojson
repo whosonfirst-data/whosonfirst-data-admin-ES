@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8089,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08089",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gav\u00e0",
+    "eurostat:nuts_2021_id":"08089",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08089",
+    "eurostat:population":47057,
+    "eurostat:population_year":2020,
     "geom:area":0.003298,
-    "geom:area_square_m":30636882.9181,
+    "geom:area_square_m":30636882.918098,
     "geom:bbox":"1.91487557874,41.2642665887,2.04561638893,41.323256538",
     "geom:latitude":41.294549,
     "geom:longitude":1.983335,
@@ -160,6 +172,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -168,7 +182,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08089",
         "esp-icgc:la_lc":"08089",
+        "eurostat:nuts_2021_id":"08089",
         "gn:id":6356119,
         "gp:id":12693470,
         "qs_pg:id":201785
@@ -178,7 +194,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"4cbdec5c3537de7d880417c0dd535c5d",
+    "wof:geomhash":"c106e23b909e66eedab38cc78a199c0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -189,10 +205,12 @@
         }
     ],
     "wof:id":404331079,
-    "wof:lastmodified":1582361485,
+    "wof:lastmodified":1684352240,
     "wof:name":"Gav\u00e0",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":47057,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

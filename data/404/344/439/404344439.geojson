@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45045",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cazalegas",
+    "eurostat:nuts_2021_id":"45045",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45045",
+    "eurostat:population":1813,
+    "eurostat:population_year":2020,
     "geom:area":0.00311,
-    "geom:area_square_m":29454845.597393,
+    "geom:area_square_m":29454845.597392,
     "geom:bbox":"-4.76322036,39.97123344,-4.6448044,40.03344909",
     "geom:latitude":40.000371,
     "geom:longitude":-4.702867,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45045",
+        "eurostat:nuts_2021_id":"45045",
         "gn:id":6361705,
         "gp:id":12690966,
         "qs_pg:id":289914
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"82085bcce957c602d33d2c94df86a7b2",
+    "wof:geomhash":"6c2933c27b34d745bbee44081171dae8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404344439,
-    "wof:lastmodified":1582361847,
+    "wof:lastmodified":1684352474,
     "wof:name":"Cazalegas",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":1813,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Anc\u00edn / Antzin",
+    "eurostat:nuts_2021_id":"31014",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31014",
+    "eurostat:population":338,
+    "eurostat:population_year":2020,
     "geom:area":0.001041,
-    "geom:area_square_m":9463539.21108,
+    "geom:area_square_m":9463539.211081,
     "geom:bbox":"-2.21923719,42.64681494,-2.16047845,42.68671604",
     "geom:latitude":42.664802,
     "geom:longitude":-2.187241,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227391
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_31014",
+        "eurostat:nuts_2021_id":"31014"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"b1029c2d9cd548a30fab3050c56f2d1f",
+    "wof:geomhash":"58ee0d6ecf8ea852b7561598ad2340b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404339465,
-    "wof:lastmodified":1566590097,
+    "wof:lastmodified":1684352395,
     "wof:name":"Anc\u00edn/Antzin",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":338,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

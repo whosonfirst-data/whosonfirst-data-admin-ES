@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44260",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villarluengo",
+    "eurostat:nuts_2021_id":"44260",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44260",
+    "eurostat:population":171,
+    "eurostat:population_year":2020,
     "geom:area":0.016812,
-    "geom:area_square_m":157710486.256037,
+    "geom:area_square_m":157710486.256035,
     "geom:bbox":"-0.62402086,40.55515487,-0.38090485,40.72584054",
     "geom:latitude":40.655987,
     "geom:longitude":-0.505062,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44260",
+        "eurostat:nuts_2021_id":"44260",
         "gn:id":6361653,
         "gp:id":12689825,
         "qs_pg:id":1118788
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"879a4c93fa8d3c189c929f15761f860b",
+    "wof:geomhash":"1bb6fc69e7428518f71260c8b6932ed8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404344321,
-    "wof:lastmodified":1582361859,
+    "wof:lastmodified":1684352472,
     "wof:name":"Villarluengo",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":171,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monfero",
+    "eurostat:nuts_2021_id":"15050",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15050",
+    "eurostat:population":1907,
+    "eurostat:population_year":2020,
     "geom:area":0.019121,
-    "geom:area_square_m":171935858.177516,
+    "geom:area_square_m":171935858.177513,
     "geom:bbox":"-8.12519684,43.27585425,-7.88171459,43.4166215",
     "geom:latitude":43.347725,
     "geom:longitude":-7.999352,
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_15050",
+        "eurostat:nuts_2021_id":"15050",
         "gn:id":6357319,
         "gp:id":12694752,
         "qs_pg:id":427992
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"789ab9cceb5c0701d74b9a02059462e6",
+    "wof:geomhash":"23c0daad5f7152909f4066fe6d4330e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404333921,
-    "wof:lastmodified":1582361785,
+    "wof:lastmodified":1684352288,
     "wof:name":"Monfero",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":1907,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

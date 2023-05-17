@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10038",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cachorrilla",
+    "eurostat:nuts_2021_id":"10038",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10038",
+    "eurostat:population":87,
+    "eurostat:population_year":2020,
     "geom:area":0.004357,
-    "geom:area_square_m":41336455.129237,
+    "geom:area_square_m":41336455.129236,
     "geom:bbox":"-6.7369622,39.85499184,-6.62273301,39.93580735",
     "geom:latitude":39.897065,
     "geom:longitude":-6.672462,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10038",
+        "eurostat:nuts_2021_id":"10038",
         "gn:id":6356735,
         "gp:id":12694520,
         "qs_pg:id":1188815
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b52fddb116012ff403f6e6fa3115c2b4",
+    "wof:geomhash":"20c89af99fa6c0c2dfd424278000620c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404332595,
-    "wof:lastmodified":1582361677,
+    "wof:lastmodified":1684352266,
     "wof:name":"Cachorrilla",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":87,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

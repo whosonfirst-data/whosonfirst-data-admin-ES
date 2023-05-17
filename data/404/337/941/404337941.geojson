@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25165,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25165",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Peramola",
+    "eurostat:nuts_2021_id":"25165",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25165",
+    "eurostat:population":347,
+    "eurostat:population_year":2020,
     "geom:area":0.006077,
-    "geom:area_square_m":55767462.547994,
+    "geom:area_square_m":55767462.547993,
     "geom:bbox":"1.20004003938,42.0321724373,1.31219804736,42.1295635661",
     "geom:latitude":42.080174,
     "geom:longitude":1.263485,
@@ -112,6 +124,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -120,7 +134,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25165",
         "esp-icgc:la_lc":"025165",
+        "eurostat:nuts_2021_id":"25165",
         "gn:id":6358902,
         "gp:id":12694053,
         "qs_pg:id":1189087
@@ -130,7 +146,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"bbd969ba220f794c461e72802c31d08b",
+    "wof:geomhash":"dc69d1867be16af29ad7cfcc7fa17cf6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404337941,
-    "wof:lastmodified":1582361561,
+    "wof:lastmodified":1684352365,
     "wof:name":"Peramola",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":347,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

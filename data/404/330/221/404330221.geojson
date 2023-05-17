@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05208",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Esteban de Zapardiel",
+    "eurostat:nuts_2021_id":"05208",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05208",
+    "eurostat:population":40,
+    "eurostat:population_year":2020,
     "geom:area":0.001392,
-    "geom:area_square_m":12970286.956447,
+    "geom:area_square_m":12970286.956448,
     "geom:bbox":"-4.92882498,41.07643269,-4.86367724,41.11976198",
     "geom:latitude":41.098106,
     "geom:longitude":-4.895199,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05208",
+        "eurostat:nuts_2021_id":"05208",
         "gn:id":6355806,
         "gp:id":12691312,
         "qs_pg:id":46186
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ab88dca27e8c3582cf896804abe54949",
+    "wof:geomhash":"c007df57a12fdc03c8e82383fb5eb29b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330221,
-    "wof:lastmodified":1582361523,
+    "wof:lastmodified":1684352221,
     "wof:name":"San Esteban De Zapardiel",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":40,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

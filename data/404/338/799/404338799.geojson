@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28049",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Coslada",
+    "eurostat:nuts_2021_id":"28049",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28049",
+    "eurostat:population":81391,
+    "eurostat:population_year":2020,
     "geom:area":0.001277,
-    "geom:area_square_m":12021787.827944,
+    "geom:area_square_m":12021787.827943,
     "geom:bbox":"-3.579532,40.410429,-3.526507,40.446873",
     "geom:latitude":40.426874,
     "geom:longitude":-3.553021,
@@ -150,14 +162,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
-        404227387,
-        85682783
+        85682783,
+        404227387
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28049",
+        "eurostat:nuts_2021_id":"28049",
         "gn:id":6359275,
         "gp:id":12687996,
         "qs_pg:id":1145983
@@ -169,7 +185,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f018f9da4f3161bd7717e3cc67571411",
+    "wof:geomhash":"292ac22616378e785c78e5f1f32930e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -180,10 +196,12 @@
         }
     ],
     "wof:id":404338799,
-    "wof:lastmodified":1607988293,
+    "wof:lastmodified":1684352382,
     "wof:name":"Coslada",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":81391,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

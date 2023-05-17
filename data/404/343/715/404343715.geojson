@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43144,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43144",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Secuita, La",
+    "eurostat:nuts_2021_id":"43144",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43144",
+    "eurostat:population":1708,
+    "eurostat:population_year":2020,
     "geom:area":0.001913,
-    "geom:area_square_m":17796819.949181,
+    "geom:area_square_m":17796819.949179,
     "geom:bbox":"1.24232887502,41.1754131712,1.31197831191,41.2370612577",
     "geom:latitude":41.209449,
     "geom:longitude":1.275943,
@@ -121,6 +133,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -129,7 +143,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43144",
         "esp-icgc:la_lc":"043144",
+        "eurostat:nuts_2021_id":"43144",
         "gn:id":6361386,
         "gp:id":12694283,
         "qs_pg:id":317721
@@ -139,7 +155,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"022b16930e83a091fe01d2d3857aa3df",
+    "wof:geomhash":"c81da0129f3589eb7a1fd466558e6dca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404343715,
-    "wof:lastmodified":1582361876,
+    "wof:lastmodified":1684352461,
     "wof:name":"La Secuita",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":1708,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

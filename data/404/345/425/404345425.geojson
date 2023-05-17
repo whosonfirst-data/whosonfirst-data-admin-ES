@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bahab\u00f3n",
+    "eurostat:nuts_2021_id":"47012",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47012",
+    "eurostat:population":103,
+    "eurostat:population_year":2020,
     "geom:area":0.002232,
     "geom:area_square_m":20679916.768667,
     "geom:bbox":"-4.30062994,41.45059134,-4.24317121,41.50977588",
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_47012",
+        "eurostat:nuts_2021_id":"47012",
         "gn:id":6362140,
         "gp:id":12692914,
         "qs_pg:id":1148968
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"88369e018768dd604139d7699f2bc1cc",
+    "wof:geomhash":"f5856d194e4114e05e23929d1733a278",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404345425,
-    "wof:lastmodified":1582361827,
+    "wof:lastmodified":1684352486,
     "wof:name":"Bahab\u00f3n",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":103,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42172",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Soliedra",
+    "eurostat:nuts_2021_id":"42172",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42172",
+    "eurostat:population":31,
+    "eurostat:population_year":2020,
     "geom:area":0.002099,
     "geom:area_square_m":19455693.459532,
     "geom:bbox":"-2.43326773,41.43477748,-2.34675255,41.48173436",
@@ -171,6 +183,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -179,6 +193,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42172",
+        "eurostat:nuts_2021_id":"42172",
         "gn:id":6361203,
         "gp:id":12692862,
         "qs_pg:id":1003828
@@ -187,7 +203,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d6a5caf9fdec93ca1571c8ea0cfcc5c4",
+    "wof:geomhash":"9980747f9a9e9ad7d003598d5bae833e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -198,10 +214,12 @@
         }
     ],
     "wof:id":404343303,
-    "wof:lastmodified":1582361879,
+    "wof:lastmodified":1684352449,
     "wof:name":"Soliedra",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":31,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

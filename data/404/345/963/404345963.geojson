@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dima",
+    "eurostat:nuts_2021_id":"48026",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48026",
+    "eurostat:population":1448,
+    "eurostat:population_year":2020,
     "geom:area":0.006903,
     "geom:area_square_m":62301412.23056,
     "geom:bbox":"-2.77882497,43.03343551,-2.66307837,43.18506556",
@@ -63,6 +75,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -71,6 +85,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_48026",
+        "eurostat:nuts_2021_id":"48026",
         "gp:id":12695187,
         "qs_pg:id":1308367
     },
@@ -78,7 +94,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"431809cc269a4241ee857098c624880b",
+    "wof:geomhash":"9ab7c6fb12c5dec76cede4334a79285e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,10 +105,12 @@
         }
     ],
     "wof:id":404345963,
-    "wof:lastmodified":1582361826,
+    "wof:lastmodified":1684352492,
     "wof:name":"Dima",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":1448,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

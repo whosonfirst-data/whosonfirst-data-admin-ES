@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gatika",
+    "eurostat:nuts_2021_id":"48040",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48040",
+    "eurostat:population":1665,
+    "eurostat:population_year":2020,
     "geom:area":0.001938,
     "geom:area_square_m":17422502.630546,
     "geom:bbox":"-2.93172679,43.3314445,-2.8564642,43.3892169",
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_48040",
+        "eurostat:nuts_2021_id":"48040",
         "gn:id":6362385,
         "gp:id":12695203,
         "qs_pg:id":1198322
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"821f29b3462bd209ef326cee73e2b058",
+    "wof:geomhash":"04828750a58f5c9bcffb3027a714c45e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404345993,
-    "wof:lastmodified":1582361834,
+    "wof:lastmodified":1684352493,
     "wof:name":"Gatika",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":1665,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

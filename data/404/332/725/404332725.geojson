@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10097",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Higuera",
+    "eurostat:nuts_2021_id":"10097",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10097",
+    "eurostat:population":110,
+    "eurostat:population_year":2020,
     "geom:area":0.004258,
-    "geom:area_square_m":40497918.450107,
+    "geom:area_square_m":40497918.450108,
     "geom:bbox":"-5.69638362,39.67323163,-5.62294648,39.78275588",
     "geom:latitude":39.723461,
     "geom:longitude":-5.658826,
@@ -72,6 +84,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -80,6 +94,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10097",
+        "eurostat:nuts_2021_id":"10097",
         "gn:id":6356793,
         "gp:id":12694578,
         "qs_pg:id":48002
@@ -88,7 +104,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1ca47bdb926db339b8d2b6e638313d3e",
+    "wof:geomhash":"a344e7d333da8a6418a10ccff1d0fd95",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,10 +115,12 @@
         }
     ],
     "wof:id":404332725,
-    "wof:lastmodified":1582361682,
+    "wof:lastmodified":1684352268,
     "wof:name":"Higuera",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":110,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

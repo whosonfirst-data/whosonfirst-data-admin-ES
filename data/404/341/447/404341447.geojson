@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37168",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lagunilla",
+    "eurostat:nuts_2021_id":"37168",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37168",
+    "eurostat:population":441,
+    "eurostat:population_year":2020,
     "geom:area":0.004506,
-    "geom:area_square_m":42473657.138544,
+    "geom:area_square_m":42473657.138542,
     "geom:bbox":"-6.01958437,40.28955993,-5.91520959,40.36469608",
     "geom:latitude":40.329761,
     "geom:longitude":-5.972871,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37168",
+        "eurostat:nuts_2021_id":"37168",
         "gn:id":6360410,
         "gp:id":12692303,
         "qs_pg:id":46677
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1e48516752f19a9db82d2c292514635c",
+    "wof:geomhash":"e260044070a7e6e755cff53201706afa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404341447,
-    "wof:lastmodified":1582361626,
+    "wof:lastmodified":1684352424,
     "wof:name":"Lagunilla",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":441,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

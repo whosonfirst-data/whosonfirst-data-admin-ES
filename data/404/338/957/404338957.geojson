@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28125",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Robledo de Chavela",
+    "eurostat:nuts_2021_id":"28125",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28125",
+    "eurostat:population":4364,
+    "eurostat:population_year":2020,
     "geom:area":0.010007,
-    "geom:area_square_m":94117201.701186,
+    "geom:area_square_m":94117201.70119,
     "geom:bbox":"-4.34125446,40.40530194,-4.13234601,40.55902513",
     "geom:latitude":40.480357,
     "geom:longitude":-4.242098,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28125",
+        "eurostat:nuts_2021_id":"28125",
         "gn:id":6359346,
         "gp:id":12688067,
         "qs_pg:id":809280
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d574c713e655200ceaa60f84baeebd30",
+    "wof:geomhash":"d26c6e25be557d2cdecd88083fd697a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404338957,
-    "wof:lastmodified":1582361444,
+    "wof:lastmodified":1684352385,
     "wof:name":"Robledo De Chavela",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":4364,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

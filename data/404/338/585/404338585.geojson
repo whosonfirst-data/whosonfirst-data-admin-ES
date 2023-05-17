@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_27023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gunt\u00edn",
+    "eurostat:nuts_2021_id":"27023",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES112",
+    "eurostat:nuts_2021_level_lau":"27023",
+    "eurostat:population":2628,
+    "eurostat:population_year":2020,
     "geom:area":0.01706,
-    "geom:area_square_m":154523500.835308,
+    "geom:area_square_m":154523500.835306,
     "geom:bbox":"-7.78933191,42.8229639,-7.51876276,42.97846468",
     "geom:latitude":42.90157,
     "geom:longitude":-7.657971,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_27023",
+        "eurostat:nuts_2021_id":"27023",
         "gn:id":6359184,
         "gp:id":12694819,
         "qs_pg:id":1118165
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"feace9daf5ce81d212d3c1f1e120c8e6",
+    "wof:geomhash":"e7e58eafb07b86cc498655c63618cb2c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404338585,
-    "wof:lastmodified":1582361454,
+    "wof:lastmodified":1684352378,
     "wof:name":"Gunt\u00edn",
     "wof:parent_id":85682775,
     "wof:placetype":"localadmin",
+    "wof:population":2628,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

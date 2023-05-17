@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40129",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montejo de Ar\u00e9valo",
+    "eurostat:nuts_2021_id":"40129",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40129",
+    "eurostat:population":171,
+    "eurostat:population_year":2020,
     "geom:area":0.003857,
-    "geom:area_square_m":35908155.503342,
+    "geom:area_square_m":35908155.503346,
     "geom:bbox":"-4.72239444,41.1246755,-4.6111613,41.18573652",
     "geom:latitude":41.154005,
     "geom:longitude":-4.674046,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_40129",
+        "eurostat:nuts_2021_id":"40129",
         "gn:id":6360858,
         "gp:id":12692626,
         "qs_pg:id":46792
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a6f97a24ae05f267b89406839303a511",
+    "wof:geomhash":"b195494cf330c5ef872009841a1b504e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404342521,
-    "wof:lastmodified":1582361813,
+    "wof:lastmodified":1684352440,
     "wof:name":"Montejo De Ar\u00e9valo",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":171,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

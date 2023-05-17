@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_13022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ballesteros de Calatrava",
+    "eurostat:nuts_2021_id":"13022",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES422",
+    "eurostat:nuts_2021_level_lau":"13022",
+    "eurostat:population":376,
+    "eurostat:population_year":2020,
     "geom:area":0.005998,
-    "geom:area_square_m":57791681.275392,
+    "geom:area_square_m":57791681.275391,
     "geom:bbox":"-4.00124146,38.77232947,-3.90042701,38.87136984",
     "geom:latitude":38.816906,
     "geom:longitude":-3.946882,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_13022",
+        "eurostat:nuts_2021_id":"13022",
         "gn:id":6357116,
         "gp:id":12690319,
         "qs_pg:id":1146924
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"31fb1ff423990d2d0361d10c7cfab167",
+    "wof:geomhash":"b0e1145a31dfbafce80ed98c2e1b543a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404333459,
-    "wof:lastmodified":1582361781,
+    "wof:lastmodified":1684352279,
     "wof:name":"Ballesteros De Calatrava",
     "wof:parent_id":85682689,
     "wof:placetype":"localadmin",
+    "wof:population":376,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

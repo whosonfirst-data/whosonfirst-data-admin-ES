@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alcubilla de Avellaneda",
+    "eurostat:nuts_2021_id":"42007",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42007",
+    "eurostat:population":105,
+    "eurostat:population_year":2020,
     "geom:area":0.006552,
-    "geom:area_square_m":60477579.432412,
+    "geom:area_square_m":60477579.432413,
     "geom:bbox":"-3.36180869,41.66398926,-3.23334301,41.76221891",
     "geom:latitude":41.715598,
     "geom:longitude":-3.295504,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42007",
+        "eurostat:nuts_2021_id":"42007",
         "gn:id":6361065,
         "gp:id":12692724,
         "qs_pg:id":1025476
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5cd710d2f30b74706a9b3162648478df",
+    "wof:geomhash":"9a086a7a3de905d4eb1429237557ebb2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404342989,
-    "wof:lastmodified":1582361823,
+    "wof:lastmodified":1684352446,
     "wof:name":"Alcubilla De Avellaneda",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":105,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

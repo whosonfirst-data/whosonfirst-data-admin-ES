@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8302,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08302",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vilanova del Cam\u00ed",
+    "eurostat:nuts_2021_id":"08302",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08302",
+    "eurostat:population":12596,
+    "eurostat:population_year":2020,
     "geom:area":0.001132,
-    "geom:area_square_m":10470210.280118,
+    "geom:area_square_m":10470260.387947,
     "geom:bbox":"1.585104,41.540565,1.671938,41.583602",
     "geom:latitude":41.56127,
     "geom:longitude":1.634033,
@@ -70,6 +82,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -78,7 +92,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08302",
         "esp-icgc:la_lc":"08302",
+        "eurostat:nuts_2021_id":"08302",
         "gn:id":6356319,
         "gp:id":12693679,
         "qs_pg:id":348394
@@ -88,7 +104,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1b7e6c42b31634223d08536b5441b66d",
+    "wof:geomhash":"bfbb72271ab456765a7868bcd2baaf8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,10 +115,12 @@
         }
     ],
     "wof:id":404331553,
-    "wof:lastmodified":1669903008,
+    "wof:lastmodified":1684352255,
     "wof:name":"Vilanova del Cam\u00ed",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":12596,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

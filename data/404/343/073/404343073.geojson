@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42045",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cabrejas del Pinar",
+    "eurostat:nuts_2021_id":"42045",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42045",
+    "eurostat:population":352,
+    "eurostat:population_year":2020,
     "geom:area":0.013445,
-    "geom:area_square_m":123970555.211172,
+    "geom:area_square_m":123970555.21117,
     "geom:bbox":"-2.97532632,41.71011866,-2.79346058,41.85240579",
     "geom:latitude":41.781784,
     "geom:longitude":-2.86789,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42045",
+        "eurostat:nuts_2021_id":"42045",
         "gn:id":6361102,
         "gp:id":12692761,
         "qs_pg:id":1188595
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9b2f3c98c005d077d6b2ab6c8e1520a6",
+    "wof:geomhash":"85d09730c45f79456bd41745c0235428",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404343073,
-    "wof:lastmodified":1582361884,
+    "wof:lastmodified":1684352447,
     "wof:name":"Cabrejas Del Pinar",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":352,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

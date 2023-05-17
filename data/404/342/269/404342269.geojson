@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_39102",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Voto",
+    "eurostat:nuts_2021_id":"39102",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES13",
+    "eurostat:nuts_2021_level_3":"ES130",
+    "eurostat:nuts_2021_level_lau":"39102",
+    "eurostat:population":2686,
+    "eurostat:population_year":2020,
     "geom:area":0.008639,
-    "geom:area_square_m":77679979.613619,
+    "geom:area_square_m":77679979.613622,
     "geom:bbox":"-3.57447429,43.30068359,-3.42739194,43.39064618",
     "geom:latitude":43.34639,
     "geom:longitude":-3.505313,
@@ -42,6 +54,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -49,9 +63,12 @@
         404227371
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_39102",
+        "eurostat:nuts_2021_id":"39102"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"17978e00272a470bd04765a5a40d9667",
+    "wof:geomhash":"df43d90037d022a5ebc06ce6c9334268",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,10 +79,12 @@
         }
     ],
     "wof:id":404342269,
-    "wof:lastmodified":1566590937,
+    "wof:lastmodified":1684352438,
     "wof:name":"Voto",
     "wof:parent_id":85682833,
     "wof:placetype":"localadmin",
+    "wof:population":2686,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

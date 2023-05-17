@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22141",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lascellas-Ponzano",
+    "eurostat:nuts_2021_id":"22141",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22141",
+    "eurostat:population":130,
+    "eurostat:population_year":2020,
     "geom:area":0.002973,
-    "geom:area_square_m":27291699.775391,
+    "geom:area_square_m":27291699.775392,
     "geom:bbox":"-0.119001,42.02684776,-0.04707516,42.09807036",
     "geom:latitude":42.065193,
     "geom:longitude":-0.079233,
@@ -93,6 +105,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -100,9 +114,12 @@
         404227363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_22141",
+        "eurostat:nuts_2021_id":"22141"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"1c90f9e7e503c3fe7f8133d110e196d9",
+    "wof:geomhash":"65b3eed43fdd875df8c752e5166bec4f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,10 +130,12 @@
         }
     ],
     "wof:id":404336707,
-    "wof:lastmodified":1566589678,
+    "wof:lastmodified":1684352342,
     "wof:name":"Lascellas-Ponzano",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":130,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

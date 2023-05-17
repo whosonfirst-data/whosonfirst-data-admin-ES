@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alpedrete",
+    "eurostat:nuts_2021_id":"28010",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28010",
+    "eurostat:population":14839,
+    "eurostat:population_year":2020,
     "geom:area":0.001349,
-    "geom:area_square_m":12654131.850221,
+    "geom:area_square_m":12654131.850222,
     "geom:bbox":"-4.04766302,40.63239925,-3.99526474,40.68418922",
     "geom:latitude":40.661842,
     "geom:longitude":-4.020814,
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28010",
+        "eurostat:nuts_2021_id":"28010",
         "gn:id":6359236,
         "gp:id":12687955,
         "qs_pg:id":1118756
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ceeb0e79b33e467b28326d0b8a3559ca",
+    "wof:geomhash":"c3d1aaa83a9c10c9c88b7e20d9296a05",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404338705,
-    "wof:lastmodified":1582361443,
+    "wof:lastmodified":1684352380,
     "wof:name":"Alpedrete",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":14839,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

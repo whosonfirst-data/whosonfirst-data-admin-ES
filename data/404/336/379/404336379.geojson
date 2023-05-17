@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_21044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lepe",
+    "eurostat:nuts_2021_id":"21044",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES615",
+    "eurostat:nuts_2021_level_lau":"21044",
+    "eurostat:population":27880,
+    "eurostat:population_year":2020,
     "geom:area":0.012951,
-    "geom:area_square_m":127420045.226824,
+    "geom:area_square_m":127420045.226841,
     "geom:bbox":"-7.30851139,37.20340945,-7.06362535,37.3878541",
     "geom:latitude":37.280191,
     "geom:longitude":-7.224579,
@@ -144,6 +156,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -152,6 +166,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_21044",
+        "eurostat:nuts_2021_id":"21044",
         "gn:id":6358220,
         "gp:id":12689058,
         "qs_pg:id":1197695
@@ -160,7 +176,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a579f42d0e87b0be24462fbbb015245a",
+    "wof:geomhash":"65435cc40643ce08763bd9acc3cf9e30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -171,10 +187,12 @@
         }
     ],
     "wof:id":404336379,
-    "wof:lastmodified":1582361466,
+    "wof:lastmodified":1684352337,
     "wof:name":"Lepe",
     "wof:parent_id":85682749,
     "wof:placetype":"localadmin",
+    "wof:population":27880,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

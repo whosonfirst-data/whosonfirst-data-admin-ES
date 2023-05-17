@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45195",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villarrubia de Santiago",
+    "eurostat:nuts_2021_id":"45195",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45195",
+    "eurostat:population":2514,
+    "eurostat:population_year":2020,
     "geom:area":0.016338,
     "geom:area_square_m":154749989.050257,
     "geom:bbox":"-3.3994476,39.93539929,-3.25046677,40.08105239",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45195",
+        "eurostat:nuts_2021_id":"45195",
         "gn:id":6361854,
         "gp:id":12691116,
         "qs_pg:id":1023727
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b5a130f442b8ab7217faa164e9cb65d2",
+    "wof:geomhash":"fe6534f054d1b3ee612f3992830053f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404344775,
-    "wof:lastmodified":1582361858,
+    "wof:lastmodified":1684352478,
     "wof:name":"Villarrubia De Santiago",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":2514,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

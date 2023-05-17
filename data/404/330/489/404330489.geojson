@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06059",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Granja de Torrehermosa",
+    "eurostat:nuts_2021_id":"06059",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06059",
+    "eurostat:population":1977,
+    "eurostat:population_year":2020,
     "geom:area":0.015629,
-    "geom:area_square_m":151595199.352848,
+    "geom:area_square_m":151595199.352854,
     "geom:bbox":"-5.66449378,38.20722174,-5.52037717,38.44316069",
     "geom:latitude":38.334075,
     "geom:longitude":-5.600659,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06059",
+        "eurostat:nuts_2021_id":"06059",
         "gn:id":6355924,
         "gp:id":12694378,
         "qs_pg:id":1149604
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5554281faa74dfad9a991cd896c329d8",
+    "wof:geomhash":"51bc841c0c8024c4421992f899c40705",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330489,
-    "wof:lastmodified":1582361538,
+    "wof:lastmodified":1684352225,
     "wof:name":"Granja De Torrehermosa",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":1977,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

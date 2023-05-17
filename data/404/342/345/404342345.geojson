@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40036",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cabezuela",
+    "eurostat:nuts_2021_id":"40036",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40036",
+    "eurostat:population":644,
+    "eurostat:population_year":2020,
     "geom:area":0.003786,
-    "geom:area_square_m":35209367.546731,
+    "geom:area_square_m":35209367.546732,
     "geom:bbox":"-4.04171676,41.1985823,-3.88587944,41.26288154",
     "geom:latitude":41.227974,
     "geom:longitude":-3.957662,
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_40036",
+        "eurostat:nuts_2021_id":"40036",
         "gn:id":6360779,
         "gp:id":12692544,
         "qs_pg:id":1162761
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"14e1f4844a077619581809b4f91d1ba4",
+    "wof:geomhash":"90066e1291fd42ba80f0b8e4b2a9fd73",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404342345,
-    "wof:lastmodified":1582361823,
+    "wof:lastmodified":1684352438,
     "wof:name":"Cabezuela",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":644,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

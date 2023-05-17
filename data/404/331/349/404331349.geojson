@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8211,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08211",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Feliu de Llobregat",
+    "eurostat:nuts_2021_id":"08211",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08211",
+    "eurostat:population":45467,
+    "eurostat:population_year":2020,
     "geom:area":0.001287,
-    "geom:area_square_m":11935908.771256,
+    "geom:area_square_m":11935903.628549,
     "geom:bbox":"2.021821,41.370173,2.078585,41.418812",
     "geom:latitude":41.395048,
     "geom:longitude":2.049414,
@@ -77,6 +89,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -85,7 +99,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08211",
         "esp-icgc:la_lc":"08211",
+        "eurostat:nuts_2021_id":"08211",
         "gn:id":6356233,
         "gp:id":12693586,
         "qs_pg:id":1163707
@@ -95,7 +111,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"47d9bfa867c46d4cb6b66ab889ce14f5",
+    "wof:geomhash":"5d840629e6d04cf1ac966eee8e8816d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,10 +122,12 @@
         }
     ],
     "wof:id":404331349,
-    "wof:lastmodified":1669903004,
+    "wof:lastmodified":1684352249,
     "wof:name":"Sant Feliu de Llobregat",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":45467,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

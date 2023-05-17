@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_34112",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nogal de las Huertas",
+    "eurostat:nuts_2021_id":"34112",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES414",
+    "eurostat:nuts_2021_level_lau":"34112",
+    "eurostat:population":41,
+    "eurostat:population_year":2020,
     "geom:area":0.001509,
-    "geom:area_square_m":13781210.926538,
+    "geom:area_square_m":13781210.926537,
     "geom:bbox":"-4.66398924,42.36368764,-4.60233403,42.41163628",
     "geom:latitude":42.389188,
     "geom:longitude":-4.633719,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_34112",
+        "eurostat:nuts_2021_id":"34112",
         "gn:id":6360068,
         "gp:id":12692046,
         "qs_pg:id":1148223
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9dfb098f2bd6acb23c3f4a7ae4802bbf",
+    "wof:geomhash":"db04a6bd061c08c5bacc1cbb09ba5cc4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404340655,
-    "wof:lastmodified":1582361662,
+    "wof:lastmodified":1684352411,
     "wof:name":"Nogal De Las Huertas",
     "wof:parent_id":85682815,
     "wof:placetype":"localadmin",
+    "wof:population":41,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

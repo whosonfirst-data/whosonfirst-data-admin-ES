@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_35005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Artenara",
+    "eurostat:nuts_2021_id":"35005",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES7",
+    "eurostat:nuts_2021_level_2":"ES70",
+    "eurostat:nuts_2021_level_3":"ES705",
+    "eurostat:nuts_2021_level_lau":"35005",
+    "eurostat:population":1049,
+    "eurostat:population_year":2020,
     "geom:area":0.006112,
-    "geom:area_square_m":66721207.408304,
+    "geom:area_square_m":66721207.408303,
     "geom:bbox":"-15.77267168,27.98022418,-15.61328285,28.05496987",
     "geom:latitude":28.018995,
     "geom:longitude":-15.697003,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_35005",
+        "eurostat:nuts_2021_id":"35005",
         "gn:id":6360175,
         "gp:id":12690129,
         "qs_pg:id":468041
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"027f457fd1d594d37d362f4f4fb9c8a4",
+    "wof:geomhash":"ed8e8eb7a410e1c6a98ff5b45e6015ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404340895,
-    "wof:lastmodified":1582361651,
+    "wof:lastmodified":1684352414,
     "wof:name":"Artenara",
     "wof:parent_id":85682821,
     "wof:placetype":"localadmin",
+    "wof:population":1049,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

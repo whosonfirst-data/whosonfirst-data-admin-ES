@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_36037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pazos de Borb\u00e9n",
+    "eurostat:nuts_2021_id":"36037",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES114",
+    "eurostat:nuts_2021_level_lau":"36037",
+    "eurostat:population":2965,
+    "eurostat:population_year":2020,
     "geom:area":0.005457,
-    "geom:area_square_m":49914819.222153,
+    "geom:area_square_m":49914819.222152,
     "geom:bbox":"-8.59502465,42.2391112,-8.48219091,42.33045838",
     "geom:latitude":42.286286,
     "geom:longitude":-8.535536,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227385
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_36037",
+        "eurostat:nuts_2021_id":"36037"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"4180a6e7da5addce111afee9d1edbac7",
+    "wof:geomhash":"bc0c2a58cf41c30f54103e22d6dcc364",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404341043,
-    "wof:lastmodified":1566590345,
+    "wof:lastmodified":1684352419,
     "wof:name":"Pazos De Borb\u00e9n",
     "wof:parent_id":85682825,
     "wof:placetype":"localadmin",
+    "wof:population":2965,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

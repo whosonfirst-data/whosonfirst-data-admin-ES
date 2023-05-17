@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05232",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Serrada, La",
+    "eurostat:nuts_2021_id":"05232",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05232",
+    "eurostat:population":118,
+    "eurostat:population_year":2020,
     "geom:area":0.000775,
     "geom:area_square_m":7270225.114718,
     "geom:bbox":"-4.80491946,40.61150681,-4.76843883,40.6470492",
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05232",
+        "eurostat:nuts_2021_id":"05232",
         "gn:id":6355829,
         "qs_pg:id":621547
     },
@@ -123,7 +139,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"67bca790f16c2907f9f07dff98b984d3",
+    "wof:geomhash":"6df8357db4c7b0c4fce36ef082b011f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404330273,
-    "wof:lastmodified":1582361522,
+    "wof:lastmodified":1684352221,
     "wof:name":"La Serrada",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":118,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

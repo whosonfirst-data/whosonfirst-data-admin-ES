@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calzada de Oropesa",
+    "eurostat:nuts_2021_id":"45030",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45030",
+    "eurostat:population":523,
+    "eurostat:population_year":2020,
     "geom:area":0.014995,
-    "geom:area_square_m":142076570.189955,
+    "geom:area_square_m":142076570.18995,
     "geom:bbox":"-5.36567098,39.86461007,-5.24092358,40.11012268",
     "geom:latitude":39.980731,
     "geom:longitude":-5.303176,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45030",
+        "eurostat:nuts_2021_id":"45030",
         "gp:id":12690952,
         "qs_pg:id":1306936
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7aee1dfe01c71bc9ed7969d2650e356f",
+    "wof:geomhash":"a188d7942fa701104e0f332f120b0a39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404344407,
-    "wof:lastmodified":1582361849,
+    "wof:lastmodified":1684352473,
     "wof:name":"Calzada De Oropesa",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":523,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

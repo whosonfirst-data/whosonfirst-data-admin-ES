@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05200",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Bartolom\u00e9 de Corneja",
+    "eurostat:nuts_2021_id":"05200",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05200",
+    "eurostat:population":44,
+    "eurostat:population_year":2020,
     "geom:area":0.000782,
-    "geom:area_square_m":7352341.212197,
+    "geom:area_square_m":7352341.212196,
     "geom:bbox":"-5.39652577,40.470455,-5.35195883,40.50578185",
     "geom:latitude":40.489724,
     "geom:longitude":-5.37635,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05200",
+        "eurostat:nuts_2021_id":"05200",
         "gn:id":6355800,
         "gp:id":12691309,
         "qs_pg:id":1025382
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bf3c178b6141a6dc06d1f5c587e5cec2",
+    "wof:geomhash":"8afa21905bb9bcacedd4209d8d0ea52d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330207,
-    "wof:lastmodified":1582361538,
+    "wof:lastmodified":1684352220,
     "wof:name":"San Bartolom\u00e9 De Corneja",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":44,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

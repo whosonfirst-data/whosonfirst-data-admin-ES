@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05174",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Orbita",
+    "eurostat:nuts_2021_id":"05174",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05174",
+    "eurostat:population":69,
+    "eurostat:population_year":2020,
     "geom:area":0.00154,
     "geom:area_square_m":14371030.909571,
     "geom:bbox":"-4.69727164,40.97004573,-4.6134849,41.01130302",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_05174",
+        "eurostat:nuts_2021_id":"05174"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"f73acbc3a5e28fa8e2e16b47707d4bae",
+    "wof:geomhash":"223ed3c3efc7f93fe7db978cc84e888a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404330149,
-    "wof:lastmodified":1566589959,
+    "wof:lastmodified":1684352220,
     "wof:name":"Orbita",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":69,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

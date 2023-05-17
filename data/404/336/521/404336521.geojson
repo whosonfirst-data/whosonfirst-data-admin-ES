@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arag\u00fc\u00e9s del Puerto",
+    "eurostat:nuts_2021_id":"22032",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22032",
+    "eurostat:population":111,
+    "eurostat:population_year":2020,
     "geom:area":0.007083,
-    "geom:area_square_m":64337033.073431,
+    "geom:area_square_m":64337033.073432,
     "geom:bbox":"-0.720854,42.65899927,-0.59844122,42.79642196",
     "geom:latitude":42.728043,
     "geom:longitude":-0.654546,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22032",
+        "eurostat:nuts_2021_id":"22032",
         "gn:id":6358282,
         "gp:id":12689423,
         "qs_pg:id":51586
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3642f86ca3bbbcb0db00a2a7915fa55e",
+    "wof:geomhash":"f391ae5b2aa7e3337b8844a945e152e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404336521,
-    "wof:lastmodified":1582361466,
+    "wof:lastmodified":1684352340,
     "wof:name":"Arag\u00fc\u00e9s Del Puerto",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":111,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

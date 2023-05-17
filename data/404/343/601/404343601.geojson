@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43094,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43094",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"M\u00f3ra la Nova",
+    "eurostat:nuts_2021_id":"43094",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43094",
+    "eurostat:population":3108,
+    "eurostat:population_year":2020,
     "geom:area":0.001685,
-    "geom:area_square_m":15704376.917197,
+    "geom:area_square_m":15704458.109158,
     "geom:bbox":"0.634669,41.066861,0.697761,41.120068",
     "geom:latitude":41.094888,
     "geom:longitude":0.6674,
@@ -62,6 +74,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -70,7 +84,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43094",
         "esp-icgc:la_lc":"043094",
+        "eurostat:nuts_2021_id":"43094",
         "gn:id":6361336,
         "gp:id":12694231,
         "qs_pg:id":491914
@@ -80,7 +96,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cb0f48863f80e31262e17703a7030c8c",
+    "wof:geomhash":"e34aa6ef86c7b63e30c9ee95497cb66c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,10 +107,12 @@
         }
     ],
     "wof:id":404343601,
-    "wof:lastmodified":1669903070,
+    "wof:lastmodified":1684352458,
     "wof:name":"M\u00f3ra la Nova",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":3108,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05180",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Parral, El",
+    "eurostat:nuts_2021_id":"05180",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05180",
+    "eurostat:population":62,
+    "eurostat:population_year":2020,
     "geom:area":0.001162,
-    "geom:area_square_m":10874278.152045,
+    "geom:area_square_m":10874278.152044,
     "geom:bbox":"-5.01419576,40.77463456,-4.97090664,40.81538582",
     "geom:latitude":40.793192,
     "geom:longitude":-4.990419,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05180",
+        "eurostat:nuts_2021_id":"05180",
         "gn:id":6355780,
         "qs_pg:id":621545
     },
@@ -114,7 +130,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"524de3a32a5edb8fb49b75a4a27d9f84",
+    "wof:geomhash":"8b4b0e09a56c70c872eacb6cf611a743",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +141,12 @@
         }
     ],
     "wof:id":404330163,
-    "wof:lastmodified":1582361533,
+    "wof:lastmodified":1684352220,
     "wof:name":"El Parral",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":62,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

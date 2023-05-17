@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48073",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ondarroa",
+    "eurostat:nuts_2021_id":"48073",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48073",
+    "eurostat:population":8395,
+    "eurostat:population_year":2020,
     "geom:area":0.000394,
     "geom:area_square_m":3542715.443066,
     "geom:bbox":"-2.44806789,43.30235699,-2.41548405,43.3344331",
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_48073",
+        "eurostat:nuts_2021_id":"48073",
         "gn:id":6362415,
         "gp:id":12695241,
         "qs_pg:id":248855
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9d801b29444628dafd8a2a395236e928",
+    "wof:geomhash":"ddbe223c7fcf3fe4c37f58eaf431b028",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404346067,
-    "wof:lastmodified":1582361620,
+    "wof:lastmodified":1684352494,
     "wof:name":"Ondarroa",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":8395,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

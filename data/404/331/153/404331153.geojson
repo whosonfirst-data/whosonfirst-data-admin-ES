@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8122,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08122",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mediona",
+    "eurostat:nuts_2021_id":"08122",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08122",
+    "eurostat:population":2369,
+    "eurostat:population_year":2020,
     "geom:area":0.005171,
-    "geom:area_square_m":47906850.723987,
+    "geom:area_square_m":47906850.723988,
     "geom:bbox":"1.57038169616,41.4436205468,1.70233973842,41.5133240738",
     "geom:latitude":41.481042,
     "geom:longitude":1.632192,
@@ -127,6 +139,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -135,7 +149,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08122",
         "esp-icgc:la_lc":"08122",
+        "eurostat:nuts_2021_id":"08122",
         "gn:id":6356151,
         "gp:id":12693503,
         "qs_pg:id":1188728
@@ -145,7 +161,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"1c574783937924f928a0eb2cb3b927e5",
+    "wof:geomhash":"1d0c382f2ac2160c65d6b6b2003e9012",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404331153,
-    "wof:lastmodified":1582361499,
+    "wof:lastmodified":1684352242,
     "wof:name":"Mediona",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":2369,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

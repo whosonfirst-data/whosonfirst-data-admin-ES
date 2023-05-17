@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40062",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cubillo",
+    "eurostat:nuts_2021_id":"40062",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40062",
+    "eurostat:population":74,
+    "eurostat:population_year":2020,
     "geom:area":0.002198,
     "geom:area_square_m":20478832.477211,
     "geom:bbox":"-3.94884109,41.08138736,-3.87891792,41.13584093",
@@ -87,6 +99,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -94,9 +108,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_40062",
+        "eurostat:nuts_2021_id":"40062"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"8c2efa347d76eb757f639262579efede",
+    "wof:geomhash":"50a98606f5baedd8110e1515f4d62893",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +124,12 @@
         }
     ],
     "wof:id":404342395,
-    "wof:lastmodified":1566590949,
+    "wof:lastmodified":1684352439,
     "wof:name":"Cubillo",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":74,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

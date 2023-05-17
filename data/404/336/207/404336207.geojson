@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_20055",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arrasate / Mondrag\u00f3n",
+    "eurostat:nuts_2021_id":"20055",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES212",
+    "eurostat:nuts_2021_level_lau":"20055",
+    "eurostat:population":22073,
+    "eurostat:population_year":2020,
     "geom:area":0.003404,
     "geom:area_square_m":30747337.103981,
     "geom:bbox":"-2.54811918,43.04454763,-2.44686389,43.09546131",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_20055",
+        "eurostat:nuts_2021_id":"20055"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"d1c3adf5acaa7fa5e628aac4a5bbc05e",
+    "wof:geomhash":"d9023aab4bcc0535cdcfbb15d8c906fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404336207,
-    "wof:lastmodified":1566589722,
+    "wof:lastmodified":1684352334,
     "wof:name":"Arrasate/Mondrag\u00f3n",
     "wof:parent_id":85682741,
     "wof:placetype":"localadmin",
+    "wof:population":22073,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

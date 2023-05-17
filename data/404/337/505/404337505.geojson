@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24175",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valdefresno",
+    "eurostat:nuts_2021_id":"24175",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24175",
+    "eurostat:population":2173,
+    "eurostat:population_year":2020,
     "geom:area":0.01125,
-    "geom:area_square_m":102379284.343236,
+    "geom:area_square_m":102379284.343239,
     "geom:bbox":"-5.53848446,42.5467003,-5.40284309,42.6964687",
     "geom:latitude":42.610317,
     "geom:longitude":-5.474482,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_24175",
+        "eurostat:nuts_2021_id":"24175",
         "gn:id":6358710,
         "gp:id":12691909,
         "qs_pg:id":248446
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5c34f9945d3f0a45b6baad4c58a2f7a2",
+    "wof:geomhash":"a75dcd2de9814b4ea23efd99bc6997b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404337505,
-    "wof:lastmodified":1582361549,
+    "wof:lastmodified":1684352353,
     "wof:name":"Valdefresno",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":2173,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Albentosa",
+    "eurostat:nuts_2021_id":"44010",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44010",
+    "eurostat:population":289,
+    "eurostat:population_year":2020,
     "geom:area":0.007182,
     "geom:area_square_m":67936470.876122,
     "geom:bbox":"-0.81542557,40.03787868,-0.71165117,40.14899306",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44010",
+        "eurostat:nuts_2021_id":"44010",
         "gp:id":12689607,
         "qs_pg:id":1264181
     },
@@ -120,7 +136,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"db37156d0823996adfa82078c9bd4848",
+    "wof:geomhash":"72aab8cb856c3823f2f98c31f5f6c541",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404343829,
-    "wof:lastmodified":1582361866,
+    "wof:lastmodified":1684352466,
     "wof:name":"Albentosa",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":289,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

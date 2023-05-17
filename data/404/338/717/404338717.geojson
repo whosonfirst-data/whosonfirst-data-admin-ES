@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arroyomolinos",
+    "eurostat:nuts_2021_id":"28015",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28015",
+    "eurostat:population":32935,
+    "eurostat:population_year":2020,
     "geom:area":0.002203,
     "geom:area_square_m":20784849.162975,
     "geom:bbox":"-3.9489445,40.25627464,-3.87607339,40.30482878",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28015",
+        "eurostat:nuts_2021_id":"28015",
         "gn:id":6359241,
         "gp:id":12687960,
         "qs_pg:id":1079243
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1bb9f72147535e8193648fdc18bdfa70",
+    "wof:geomhash":"09f73a5ace1a03999c511257fae72bc8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404338717,
-    "wof:lastmodified":1582361455,
+    "wof:lastmodified":1684352380,
     "wof:name":"Arroyomolinos",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":32935,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

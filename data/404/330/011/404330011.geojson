@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05109",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Langa",
+    "eurostat:nuts_2021_id":"05109",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05109",
+    "eurostat:population":480,
+    "eurostat:population_year":2020,
     "geom:area":0.002617,
-    "geom:area_square_m":24422085.470778,
+    "geom:area_square_m":24422085.470776,
     "geom:bbox":"-4.89067776,40.97527486,-4.81881021,41.02958909",
     "geom:latitude":41.003206,
     "geom:longitude":-4.853514,
@@ -87,6 +99,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -95,6 +109,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05109",
+        "eurostat:nuts_2021_id":"05109",
         "gn:id":6355713,
         "gp:id":12691222,
         "qs_pg:id":46151
@@ -103,7 +119,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"16d8ac106cc54943da3342059f90d3d9",
+    "wof:geomhash":"df0065a443cb462ccf07a621990d1502",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,10 +130,12 @@
         }
     ],
     "wof:id":404330011,
-    "wof:lastmodified":1582361536,
+    "wof:lastmodified":1684352218,
     "wof:name":"Langa",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":480,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

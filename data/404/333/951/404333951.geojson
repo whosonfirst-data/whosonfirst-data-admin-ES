@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15064",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Paderne",
+    "eurostat:nuts_2021_id":"15064",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15064",
+    "eurostat:population":2383,
+    "eurostat:population_year":2020,
     "geom:area":0.004419,
-    "geom:area_square_m":39772868.158483,
+    "geom:area_square_m":39772868.158478,
     "geom:bbox":"-8.21699219,43.25178609,-8.10542694,43.34053404",
     "geom:latitude":43.295178,
     "geom:longitude":-8.161411,
@@ -60,6 +72,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -68,6 +82,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_15064",
+        "eurostat:nuts_2021_id":"15064",
         "gn:id":6362992,
         "gp:id":12694766,
         "qs_pg:id":204802
@@ -76,7 +92,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"543cbccf4c1ed18d2858e392bef601a4",
+    "wof:geomhash":"e550054406e8a2568eb1cfa4601d6c49",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,10 +103,12 @@
         }
     ],
     "wof:id":404333951,
-    "wof:lastmodified":1582361775,
+    "wof:lastmodified":1684352290,
     "wof:name":"Paderne",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":2383,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

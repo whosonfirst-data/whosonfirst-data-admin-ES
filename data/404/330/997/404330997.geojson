@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8053,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08053",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castellbell i el Vilar",
+    "eurostat:nuts_2021_id":"08053",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08053",
+    "eurostat:population":3719,
+    "eurostat:population_year":2020,
     "geom:area":0.003078,
-    "geom:area_square_m":28443275.860522,
+    "geom:area_square_m":28443239.11787,
     "geom:bbox":"1.800636,41.61271,1.896923,41.667848",
     "geom:latitude":41.638773,
     "geom:longitude":1.853372,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08053",
         "esp-icgc:la_lc":"08053",
+        "eurostat:nuts_2021_id":"08053",
         "gn:id":6356085,
         "gp:id":12693431,
         "qs_pg:id":1164937
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"8caf945e7c30f6acf06d3682f52ecfde",
+    "wof:geomhash":"86578c031a02fbcca1e6e380c6dee41e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404330997,
-    "wof:lastmodified":1669903015,
+    "wof:lastmodified":1684352238,
     "wof:name":"Castellbell i el Vilar",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":3719,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

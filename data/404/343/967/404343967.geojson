@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44080",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Codo\u00f1era, La",
+    "eurostat:nuts_2021_id":"44080",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44080",
+    "eurostat:population":319,
+    "eurostat:population_year":2020,
     "geom:area":0.002242,
-    "geom:area_square_m":20941989.687897,
+    "geom:area_square_m":20941989.687895,
     "geom:bbox":"-0.09832013,40.90492146,-0.01719832,40.94867159",
     "geom:latitude":40.928352,
     "geom:longitude":-0.05891,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44080",
+        "eurostat:nuts_2021_id":"44080",
         "gn:id":6361497,
         "gp:id":12689668,
         "qs_pg:id":231533
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"322201a0958ce50afcd571221a459c20",
+    "wof:geomhash":"01185db06d5e9d8dd63da509860f6d06",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404343967,
-    "wof:lastmodified":1582361881,
+    "wof:lastmodified":1684352468,
     "wof:name":"La Codo\u00f1era",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":319,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

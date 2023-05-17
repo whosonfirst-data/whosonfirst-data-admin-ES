@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_38012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fasnia",
+    "eurostat:nuts_2021_id":"38012",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES7",
+    "eurostat:nuts_2021_level_2":"ES70",
+    "eurostat:nuts_2021_level_3":"ES709",
+    "eurostat:nuts_2021_level_lau":"38012",
+    "eurostat:population":2818,
+    "eurostat:population_year":2020,
     "geom:area":0.004163,
-    "geom:area_square_m":45340402.656517,
+    "geom:area_square_m":45340402.656456,
     "geom:bbox":"-16.53765463,28.19305393,-16.40704445,28.30406763",
     "geom:latitude":28.249616,
     "geom:longitude":-16.467014,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_38012",
+        "eurostat:nuts_2021_id":"38012",
         "gn:id":6360625,
         "gp:id":12690170,
         "qs_pg:id":1146912
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8ce27c4c2a33a572a43659d1fb9d76fa",
+    "wof:geomhash":"6ff362726e1344fb120ad23bbd69bedb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404341943,
-    "wof:lastmodified":1582361643,
+    "wof:lastmodified":1684352431,
     "wof:name":"Fasnia",
     "wof:parent_id":85682831,
     "wof:placetype":"localadmin",
+    "wof:population":2818,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

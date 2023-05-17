@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arauzo de Miel",
+    "eurostat:nuts_2021_id":"09020",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09020",
+    "eurostat:population":306,
+    "eurostat:population_year":2020,
     "geom:area":0.006193,
-    "geom:area_square_m":57022507.59373,
+    "geom:area_square_m":57022507.593731,
     "geom:bbox":"-3.44428173,41.83052437,-3.33076397,41.91164856",
     "geom:latitude":41.871614,
     "geom:longitude":-3.39176,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09020",
+        "eurostat:nuts_2021_id":"09020",
         "gn:id":6356345,
         "gp:id":12691390,
         "qs_pg:id":1147608
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e357599da2653c008334ea2a7e01aaa0",
+    "wof:geomhash":"e299005fbc4632f8a39671dec0456ff0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404331611,
-    "wof:lastmodified":1582361488,
+    "wof:lastmodified":1684352257,
     "wof:name":"Arauzo De Miel",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":306,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

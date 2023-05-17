@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24117",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pozuelo del P\u00e1ramo",
+    "eurostat:nuts_2021_id":"24117",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24117",
+    "eurostat:population":423,
+    "eurostat:population_year":2020,
     "geom:area":0.003947,
-    "geom:area_square_m":36178231.435527,
+    "geom:area_square_m":36178231.435531,
     "geom:bbox":"-5.8253834,42.13436052,-5.68701023,42.19577995",
     "geom:latitude":42.163501,
     "geom:longitude":-5.766951,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_24117",
+        "eurostat:nuts_2021_id":"24117",
         "gn:id":6358658,
         "gp:id":12691856,
         "qs_pg:id":1147944
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"784f22722599584506362cb92bc31557",
+    "wof:geomhash":"2faf8735dfab6b6c608ea296e3ca2745",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404337379,
-    "wof:lastmodified":1582361560,
+    "wof:lastmodified":1684352352,
     "wof:name":"Pozuelo Del P\u00e1ramo",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":423,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05228",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santiago del Collado",
+    "eurostat:nuts_2021_id":"05228",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05228",
+    "eurostat:population":170,
+    "eurostat:population_year":2020,
     "geom:area":0.00453,
     "geom:area_square_m":42639265.062333,
     "geom:bbox":"-5.39203465,40.39600816,-5.27816862,40.45886304",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05228",
+        "eurostat:nuts_2021_id":"05228",
         "gn:id":6355825,
         "gp:id":12691337,
         "qs_pg:id":400414
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d6009d74112c620f2fe85d149bdc350c",
+    "wof:geomhash":"3524bcb87ecb6118a64d23bf8b22be8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330263,
-    "wof:lastmodified":1582361540,
+    "wof:lastmodified":1684352221,
     "wof:name":"Santiago Del Collado",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":170,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

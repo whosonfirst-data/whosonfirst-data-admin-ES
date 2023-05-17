@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8260,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08260",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Perp\u00e8tua de Mogoda",
+    "eurostat:nuts_2021_id":"08260",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08260",
+    "eurostat:population":25999,
+    "eurostat:population_year":2020,
     "geom:area":0.001676,
-    "geom:area_square_m":15514549.728077,
+    "geom:area_square_m":15514594.570174,
     "geom:bbox":"2.138017,41.514798,2.206512,41.557303",
     "geom:latitude":41.533186,
     "geom:longitude":2.176642,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08260",
         "esp-icgc:la_lc":"08260",
+        "eurostat:nuts_2021_id":"08260",
         "gn:id":6356281,
         "gp:id":12693639,
         "qs_pg:id":1298380
@@ -67,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6874d4f0a57ed1d59eaab6c003de393b",
+    "wof:geomhash":"5f936aafc709fde17a6d1de647192b4b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404331459,
-    "wof:lastmodified":1669903011,
+    "wof:lastmodified":1684352252,
     "wof:name":"Santa Perp\u00e8tua de Mogoda",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":25999,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

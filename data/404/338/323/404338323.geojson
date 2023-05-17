@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_26082",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Laguna de Cameros",
+    "eurostat:nuts_2021_id":"26082",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES23",
+    "eurostat:nuts_2021_level_3":"ES230",
+    "eurostat:nuts_2021_level_lau":"26082",
+    "eurostat:population":106,
+    "eurostat:population_year":2020,
     "geom:area":0.004532,
-    "geom:area_square_m":41537602.875704,
+    "geom:area_square_m":41537602.875703,
     "geom:bbox":"-2.58901211,42.11454163,-2.50489321,42.20768843",
     "geom:latitude":42.157992,
     "geom:longitude":-2.547226,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_26082",
+        "eurostat:nuts_2021_id":"26082",
         "gn:id":6359072,
         "gp:id":12687853,
         "qs_pg:id":239986
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0268994e1262a358be57b4b69f581f2e",
+    "wof:geomhash":"971856610d12cd23f5b23c257f4e1cc8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404338323,
-    "wof:lastmodified":1582361440,
+    "wof:lastmodified":1684352374,
     "wof:name":"Laguna De Cameros",
     "wof:parent_id":85682773,
     "wof:placetype":"localadmin",
+    "wof:population":106,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

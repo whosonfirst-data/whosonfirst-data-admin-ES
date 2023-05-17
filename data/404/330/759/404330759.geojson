@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_07014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Capdepera",
+    "eurostat:nuts_2021_id":"07014",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES53",
+    "eurostat:nuts_2021_level_3":"ES532",
+    "eurostat:nuts_2021_level_lau":"07014",
+    "eurostat:population":12158,
+    "eurostat:population_year":2020,
     "geom:area":0.005776,
-    "geom:area_square_m":54949544.744367,
+    "geom:area_square_m":54949544.744361,
     "geom:bbox":"3.38110574,39.63445098,3.47868461,39.75186316",
     "geom:latitude":39.697072,
     "geom:longitude":3.427358,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_07014",
+        "eurostat:nuts_2021_id":"07014",
         "gn:id":6533938,
         "gp:id":12687719,
         "qs_pg:id":1293455
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b552b8e7e7dccc3cf1412f16a8c81ebc",
+    "wof:geomhash":"26f7ffe5935bda37a2bf772300120e3c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404330759,
-    "wof:lastmodified":1582361535,
+    "wof:lastmodified":1684352229,
     "wof:name":"Capdepera",
     "wof:parent_id":85682647,
     "wof:placetype":"localadmin",
+    "wof:population":12158,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

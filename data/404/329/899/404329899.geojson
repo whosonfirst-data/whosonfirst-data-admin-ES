@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05055",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casillas",
+    "eurostat:nuts_2021_id":"05055",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05055",
+    "eurostat:population":640,
+    "eurostat:population_year":2020,
     "geom:area":0.00127,
-    "geom:area_square_m":11975634.347879,
+    "geom:area_square_m":11975634.34788,
     "geom:bbox":"-4.60482398,40.31237149,-4.54299147,40.3469513",
     "geom:latitude":40.331717,
     "geom:longitude":-4.575525,
@@ -84,6 +96,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -92,6 +106,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05055",
+        "eurostat:nuts_2021_id":"05055",
         "gn:id":6355663,
         "gp:id":12691171,
         "qs_pg:id":1085728
@@ -100,7 +116,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ac228213e93801df9dd597d3fe383356",
+    "wof:geomhash":"cb845b2c3addaa862a287e16ddf5b507",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,10 +127,12 @@
         }
     ],
     "wof:id":404329899,
-    "wof:lastmodified":1582361801,
+    "wof:lastmodified":1684352217,
     "wof:name":"Casillas",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":640,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

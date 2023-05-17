@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carabantes",
+    "eurostat:nuts_2021_id":"42051",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42051",
+    "eurostat:population":14,
+    "eurostat:population_year":2020,
     "geom:area":0.00176,
     "geom:area_square_m":16289870.523226,
     "geom:bbox":"-2.02087292,41.52668989,-1.96733455,41.5770867",
@@ -174,6 +186,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -182,6 +196,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42051",
+        "eurostat:nuts_2021_id":"42051",
         "gn:id":6361107,
         "gp:id":12692766,
         "qs_pg:id":1019122
@@ -190,7 +206,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3f3cf1ae02f9acc7ca23cc8de2fdb57b",
+    "wof:geomhash":"0852c14b138c3dbc9c06dcb6670c2063",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -201,10 +217,12 @@
         }
     ],
     "wof:id":404343085,
-    "wof:lastmodified":1582361869,
+    "wof:lastmodified":1684352447,
     "wof:name":"Carabantes",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":14,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

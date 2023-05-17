@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05220",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Pedro del Arroyo",
+    "eurostat:nuts_2021_id":"05220",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05220",
+    "eurostat:population":422,
+    "eurostat:population_year":2020,
     "geom:area":0.001979,
-    "geom:area_square_m":18529745.977373,
+    "geom:area_square_m":18529745.977372,
     "geom:bbox":"-4.89998067,40.76230383,-4.84149537,40.82131236",
     "geom:latitude":40.793804,
     "geom:longitude":-4.869822,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05220",
+        "eurostat:nuts_2021_id":"05220",
         "gn:id":6355818,
         "gp:id":12691326,
         "qs_pg:id":245339
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ee2d77d9a81ec4f9fbe6bc4205ad5fff",
+    "wof:geomhash":"ef38e244201310cab6b300b3bb242959",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330249,
-    "wof:lastmodified":1582361537,
+    "wof:lastmodified":1684352221,
     "wof:name":"San Pedro Del Arroyo",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":422,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

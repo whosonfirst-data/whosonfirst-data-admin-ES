@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_21073",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villablanca",
+    "eurostat:nuts_2021_id":"21073",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES615",
+    "eurostat:nuts_2021_level_lau":"21073",
+    "eurostat:population":2885,
+    "eurostat:population_year":2020,
     "geom:area":0.009992,
-    "geom:area_square_m":98269438.857024,
+    "geom:area_square_m":98269438.857023,
     "geom:bbox":"-7.40538426,37.25895992,-7.25907916,37.35317652",
     "geom:latitude":37.307734,
     "geom:longitude":-7.33075,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_21073",
+        "eurostat:nuts_2021_id":"21073",
         "gn:id":6358249,
         "gp:id":12689087,
         "qs_pg:id":953615
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ac1fb1e35d3e1989a9a9dc7d6f4ea6a0",
+    "wof:geomhash":"8b79c6f4a21dfbbf2d6c7a550b67f17a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404336445,
-    "wof:lastmodified":1582361473,
+    "wof:lastmodified":1684352339,
     "wof:name":"Villablanca",
     "wof:parent_id":85682749,
     "wof:placetype":"localadmin",
+    "wof:population":2885,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

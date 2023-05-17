@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_02072",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Socovos",
+    "eurostat:nuts_2021_id":"02072",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES421",
+    "eurostat:nuts_2021_level_lau":"02072",
+    "eurostat:population":1778,
+    "eurostat:population_year":2020,
     "geom:area":0.014283,
-    "geom:area_square_m":138523383.452759,
+    "geom:area_square_m":138523383.452762,
     "geom:bbox":"-2.04934235,38.28137094,-1.78430308,38.42230911",
     "geom:latitude":38.339292,
     "geom:longitude":-1.908898,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_02072",
+        "eurostat:nuts_2021_id":"02072",
         "gn:id":6355362,
         "gp:id":12690283,
         "qs_pg:id":45697
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"08d9a317dc048edaf7811b0fcefdf0e9",
+    "wof:geomhash":"a056eee95d9598df1fe87df5b6992a4b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404329215,
-    "wof:lastmodified":1582361798,
+    "wof:lastmodified":1684352206,
     "wof:name":"Socovos",
     "wof:parent_id":85682621,
     "wof:placetype":"localadmin",
+    "wof:population":1778,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

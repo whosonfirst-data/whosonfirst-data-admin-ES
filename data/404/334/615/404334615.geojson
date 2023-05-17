@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17028,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brunyola",
+    "eurostat:nuts_2021_id":"17028",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17028",
+    "eurostat:population":389,
+    "eurostat:population_year":2020,
     "geom:area":0.003999,
-    "geom:area_square_m":36802431.948611,
+    "geom:area_square_m":36802354.001068,
     "geom:bbox":"2.613139,41.876854,2.718237,41.948966",
     "geom:latitude":41.912248,
     "geom:longitude":2.672087,
@@ -119,6 +131,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -127,7 +141,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17028",
         "esp-icgc:la_lc":"017028",
+        "eurostat:nuts_2021_id":"17028",
         "gn:id":6534025,
         "gp:id":12693712,
         "qs_pg:id":1003878
@@ -137,7 +153,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a70d069e201467a1b1e57f87a21eec6d",
+    "wof:geomhash":"e4644511089ff7707dae2143512280bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -148,10 +164,12 @@
         }
     ],
     "wof:id":404334615,
-    "wof:lastmodified":1669903052,
+    "wof:lastmodified":1684352301,
     "wof:name":"Brunyola i Sant Mart\u00ed Sapresa",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":389,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

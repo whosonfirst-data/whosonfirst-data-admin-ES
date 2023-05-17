@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_29031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Burgo, El",
+    "eurostat:nuts_2021_id":"29031",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES617",
+    "eurostat:nuts_2021_level_lau":"29031",
+    "eurostat:population":1792,
+    "eurostat:population_year":2020,
     "geom:area":0.01195,
-    "geom:area_square_m":118318454.038537,
+    "geom:area_square_m":118318454.038535,
     "geom:bbox":"-5.03651892,36.73117641,-4.88051577,36.88170622",
     "geom:latitude":36.803694,
     "geom:longitude":-4.954517,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_29031",
+        "eurostat:nuts_2021_id":"29031",
         "gn:id":6359436,
         "gp:id":12689220,
         "qs_pg:id":621755
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"62a4d7cfdc13dc4876707234978e1c6e",
+    "wof:geomhash":"770410f40e6941315a7a349f58b8270e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404339161,
-    "wof:lastmodified":1582361581,
+    "wof:lastmodified":1684352389,
     "wof:name":"El Burgo",
     "wof:parent_id":85682787,
     "wof:placetype":"localadmin",
+    "wof:population":1792,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

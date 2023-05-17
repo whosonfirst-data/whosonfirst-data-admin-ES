@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":25023,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alpicat",
+    "eurostat:nuts_2021_id":"25023",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25023",
+    "eurostat:population":6266,
+    "eurostat:population_year":2020,
     "geom:area":0.001654,
     "geom:area_square_m":15273460.804341,
     "geom:bbox":"0.524800941216,41.6451593937,0.586433166901,41.6952386666",
@@ -112,6 +124,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -120,7 +134,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25023",
         "esp-icgc:la_lc":"025023",
+        "eurostat:nuts_2021_id":"25023",
         "gn:id":6358782,
         "gp:id":12693929,
         "qs_pg:id":1255776
@@ -130,7 +146,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"f16f84aa8befbad3f00f1a28db3acc83",
+    "wof:geomhash":"741453e23c5be5e71a4ac376e0b4f8df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404337667,
-    "wof:lastmodified":1582361558,
+    "wof:lastmodified":1684352356,
     "wof:name":"Alpicat",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":6266,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

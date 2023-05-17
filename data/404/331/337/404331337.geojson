@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8206,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08206",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Cugat Sesgarrigues",
+    "eurostat:nuts_2021_id":"08206",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08206",
+    "eurostat:population":1009,
+    "eurostat:population_year":2020,
     "geom:area":0.000676,
-    "geom:area_square_m":6277338.974243,
+    "geom:area_square_m":6277334.450911,
     "geom:bbox":"1.73245,41.339352,1.772186,41.371208",
     "geom:latitude":41.355949,
     "geom:longitude":1.753458,
@@ -133,6 +145,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -141,7 +155,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08206",
         "esp-icgc:la_lc":"08206",
+        "eurostat:nuts_2021_id":"08206",
         "gn:id":6356228,
         "gp:id":12693582,
         "qs_pg:id":955115
@@ -151,7 +167,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6249b5a3620ebf6d0626f8df25cce489",
+    "wof:geomhash":"c0f07142090c19a2162a407dd169f785",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -162,10 +178,12 @@
         }
     ],
     "wof:id":404331337,
-    "wof:lastmodified":1669902998,
+    "wof:lastmodified":1684352249,
     "wof:name":"Sant Cugat Sesgarrigues",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":1009,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

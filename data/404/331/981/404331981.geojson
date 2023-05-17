@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09195",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Llano de Bureba",
+    "eurostat:nuts_2021_id":"09195",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09195",
+    "eurostat:population":57,
+    "eurostat:population_year":2020,
     "geom:area":0.001667,
     "geom:area_square_m":15165546.889436,
     "geom:bbox":"-3.48305071,42.60501698,-3.40422514,42.64512967",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09195",
+        "eurostat:nuts_2021_id":"09195",
         "gn:id":6356479,
         "gp:id":12691527,
         "qs_pg:id":977446
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3a31aff04dd61441b115c482b47b4a81",
+    "wof:geomhash":"187a3951896a5f84a0c6e4b3e73f799b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404331981,
-    "wof:lastmodified":1582361515,
+    "wof:lastmodified":1684352260,
     "wof:name":"Llano De Bureba",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":57,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

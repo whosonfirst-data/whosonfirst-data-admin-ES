@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Albond\u00f3n",
+    "eurostat:nuts_2021_id":"18004",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18004",
+    "eurostat:population":712,
+    "eurostat:population_year":2020,
     "geom:area":0.003483,
-    "geom:area_square_m":34468832.399103,
+    "geom:area_square_m":34468832.399104,
     "geom:bbox":"-3.24234083,36.8104835,-3.16958896,36.87831962",
     "geom:latitude":36.842911,
     "geom:longitude":-3.207282,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18004",
+        "eurostat:nuts_2021_id":"18004",
         "gn:id":6357642,
         "gp:id":12688850,
         "qs_pg:id":953577
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"38880ab752aca8efe36d928a898f030a",
+    "wof:geomhash":"a4e896d482b83b25c4afc531e76fa838",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404335061,
-    "wof:lastmodified":1582361709,
+    "wof:lastmodified":1684352320,
     "wof:name":"Albond\u00f3n",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":712,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

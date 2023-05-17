@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_41064",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montellano",
+    "eurostat:nuts_2021_id":"41064",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES618",
+    "eurostat:nuts_2021_level_lau":"41064",
+    "eurostat:population":7053,
+    "eurostat:population_year":2020,
     "geom:area":0.011816,
-    "geom:area_square_m":116674976.460733,
+    "geom:area_square_m":116674976.460735,
     "geom:bbox":"-5.60972985,36.92312253,-5.46914332,37.07456013",
     "geom:latitude":37.004475,
     "geom:longitude":-5.547164,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_41064",
+        "eurostat:nuts_2021_id":"41064",
         "gn:id":6361019,
         "gp:id":12689356,
         "qs_pg:id":1188237
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"99b581d278e09414d407fbd4a0f78d16",
+    "wof:geomhash":"d40bd2ec1e765d5eadc7b77d87c0f9ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404342887,
-    "wof:lastmodified":1582361808,
+    "wof:lastmodified":1684352445,
     "wof:name":"Montellano",
     "wof:parent_id":85682841,
     "wof:placetype":"localadmin",
+    "wof:population":7053,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

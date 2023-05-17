@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43092,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43092",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mont-roig del Camp",
+    "eurostat:nuts_2021_id":"43092",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43092",
+    "eurostat:population":12460,
+    "eurostat:population_year":2020,
     "geom:area":0.00678,
-    "geom:area_square_m":63214522.042927,
+    "geom:area_square_m":63214454.477337,
     "geom:bbox":"0.905907,40.991467,1.022977,41.119791",
     "geom:latitude":41.056605,
     "geom:longitude":0.955701,
@@ -68,6 +80,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -76,7 +90,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43092",
         "esp-icgc:la_lc":"043092",
+        "eurostat:nuts_2021_id":"43092",
         "gn:id":6361334,
         "gp:id":12694225,
         "qs_pg:id":1198105
@@ -86,7 +102,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"d8821db23cf231498e9e02dcbdc6448d",
+    "wof:geomhash":"e6952683ffe039e12f87096b68e3d5bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,10 +113,12 @@
         }
     ],
     "wof:id":404343597,
-    "wof:lastmodified":1669903065,
+    "wof:lastmodified":1684352457,
     "wof:name":"Mont-roig del Camp",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":12460,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

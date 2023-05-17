@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25133,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25133",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Maials",
+    "eurostat:nuts_2021_id":"25133",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25133",
+    "eurostat:population":909,
+    "eurostat:population_year":2020,
     "geom:area":0.006144,
-    "geom:area_square_m":57039294.626347,
+    "geom:area_square_m":57039409.433939,
     "geom:bbox":"0.460962,41.289768,0.555179,41.392048",
     "geom:latitude":41.343219,
     "geom:longitude":0.506388,
@@ -121,6 +133,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -129,7 +143,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25133",
         "esp-icgc:la_lc":"025133",
+        "eurostat:nuts_2021_id":"25133",
         "gn:id":6358875,
         "gp:id":12694023,
         "qs_pg:id":204759
@@ -139,7 +155,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5f06e0a5989c65721a6ec65977d84aab",
+    "wof:geomhash":"cab715a84b6b8988e3ec5b08e5431726",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404337881,
-    "wof:lastmodified":1669903022,
+    "wof:lastmodified":1684352363,
     "wof:name":"Maials",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":909,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

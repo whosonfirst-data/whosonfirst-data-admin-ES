@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_01031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Laguardia",
+    "eurostat:nuts_2021_id":"01031",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES211",
+    "eurostat:nuts_2021_level_lau":"01031",
+    "eurostat:population":1454,
+    "eurostat:population_year":2020,
     "geom:area":0.008887,
     "geom:area_square_m":80951893.660134,
     "geom:bbox":"-2.66875524,42.47225529,-2.47706799,42.61682319",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_01031",
+        "eurostat:nuts_2021_id":"01031",
         "gn:id":6355265,
         "gp:id":12695039,
         "qs_pg:id":1188918
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0a24db5feedf1b0b309f8118e21550c8",
+    "wof:geomhash":"e6ef19028f2fb0e2026b1de19356a864",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404328985,
-    "wof:lastmodified":1582361842,
+    "wof:lastmodified":1684352202,
     "wof:name":"Laguardia",
     "wof:parent_id":85682615,
     "wof:placetype":"localadmin",
+    "wof:population":1454,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37323",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Topas",
+    "eurostat:nuts_2021_id":"37323",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37323",
+    "eurostat:population":521,
+    "eurostat:population_year":2020,
     "geom:area":0.012052,
-    "geom:area_square_m":112159437.553856,
+    "geom:area_square_m":112159437.553855,
     "geom:bbox":"-5.73489723,41.10765204,-5.58642883,41.245809",
     "geom:latitude":41.183073,
     "geom:longitude":-5.661258,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37323",
+        "eurostat:nuts_2021_id":"37323",
         "gn:id":6360560,
         "gp:id":12692453,
         "qs_pg:id":892217
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3b05e109eded20850c17fc9741b1f07f",
+    "wof:geomhash":"c9afe7bd8cbaebb934d6cbef4de6afad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404341787,
-    "wof:lastmodified":1582361642,
+    "wof:lastmodified":1684352428,
     "wof:name":"Topas",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":521,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25081,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25081",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Espluga Calba, L'",
+    "eurostat:nuts_2021_id":"25081",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25081",
+    "eurostat:population":329,
+    "eurostat:population_year":2020,
     "geom:area":0.002313,
-    "geom:area_square_m":21421401.186429,
+    "geom:area_square_m":21421412.206758,
     "geom:bbox":"0.971402,41.465774,1.048506,41.51646",
     "geom:latitude":41.490939,
     "geom:longitude":1.005665,
@@ -112,6 +124,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -120,7 +134,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25081",
         "esp-icgc:la_lc":"025081",
+        "eurostat:nuts_2021_id":"25081",
         "gn:id":6358834,
         "gp:id":12693980,
         "qs_pg:id":201825
@@ -130,7 +146,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"eeb559e4ffb651f9846ba240388046bc",
+    "wof:geomhash":"15f1dcd05862ba78d1d720d434355817",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404337785,
-    "wof:lastmodified":1669903024,
+    "wof:lastmodified":1684352360,
     "wof:name":"L'Espluga Calba",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":329,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

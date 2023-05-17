@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10127",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montehermoso",
+    "eurostat:nuts_2021_id":"10127",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10127",
+    "eurostat:population":5718,
+    "eurostat:population_year":2020,
     "geom:area":0.01018,
-    "geom:area_square_m":96347305.834531,
+    "geom:area_square_m":96347305.834533,
     "geom:bbox":"-6.39167948,39.94085003,-6.24354888,40.11701337",
     "geom:latitude":40.054316,
     "geom:longitude":-6.336032,
@@ -231,6 +243,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -239,6 +253,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10127",
+        "eurostat:nuts_2021_id":"10127",
         "gn:id":6356822,
         "gp:id":12694608,
         "qs_pg:id":247801
@@ -247,7 +263,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f3a52fc36541e7f03ff1fad027272055",
+    "wof:geomhash":"59234592ecef39b7fd538f3e0e11d633",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -258,10 +274,12 @@
         }
     ],
     "wof:id":404332793,
-    "wof:lastmodified":1582361685,
+    "wof:lastmodified":1684352269,
     "wof:name":"Montehermoso",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":5718,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

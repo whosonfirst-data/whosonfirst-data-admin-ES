@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_07901",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ariany",
+    "eurostat:nuts_2021_id":"07901",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES53",
+    "eurostat:nuts_2021_level_3":"ES532",
+    "eurostat:nuts_2021_level_lau":"07901",
+    "eurostat:population":902,
+    "eurostat:population_year":2020,
     "geom:area":0.002428,
-    "geom:area_square_m":23115944.233799,
+    "geom:area_square_m":23115944.233797,
     "geom:bbox":"3.08187114,39.63059152,3.18814651,39.69569025",
     "geom:latitude":39.655884,
     "geom:longitude":3.132672,
@@ -48,6 +60,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -56,6 +70,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_07901",
+        "eurostat:nuts_2021_id":"07901",
         "gn:id":6533983,
         "gp:id":12687710,
         "qs_pg:id":258895
@@ -64,7 +80,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c672103fd07769b3eede9f0bf29b6d09",
+    "wof:geomhash":"5cb299e13ec337f5005b87a5b395544e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,10 +91,12 @@
         }
     ],
     "wof:id":404330875,
-    "wof:lastmodified":1582361524,
+    "wof:lastmodified":1684352234,
     "wof:name":"Ariany",
     "wof:parent_id":85682647,
     "wof:placetype":"localadmin",
+    "wof:population":902,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

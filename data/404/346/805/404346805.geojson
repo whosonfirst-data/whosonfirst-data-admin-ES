@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50041",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bag\u00fc\u00e9s",
+    "eurostat:nuts_2021_id":"50041",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50041",
+    "eurostat:population":16,
+    "eurostat:population_year":2020,
     "geom:area":0.003366,
     "geom:area_square_m":30669761.144119,
     "geom:bbox":"-0.97774373,42.50525379,-0.8950482,42.57164387",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50041",
+        "eurostat:nuts_2021_id":"50041",
         "gn:id":6362735,
         "gp:id":12689874,
         "qs_pg:id":902582
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"233cdbe04891d1ce54d6081c2274c9d7",
+    "wof:geomhash":"7c733f896b4307233209f29c7c8848e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404346805,
-    "wof:lastmodified":1582361612,
+    "wof:lastmodified":1684352503,
     "wof:name":"Bag\u00fc\u00e9s",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":16,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

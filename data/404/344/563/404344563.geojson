@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45100",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mesegar de Tajo",
+    "eurostat:nuts_2021_id":"45100",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45100",
+    "eurostat:population":215,
+    "eurostat:population_year":2020,
     "geom:area":0.00186,
-    "geom:area_square_m":17639665.792418,
+    "geom:area_square_m":17639665.792416,
     "geom:bbox":"-4.53294671,39.89609707,-4.46323283,39.94344577",
     "geom:latitude":39.921166,
     "geom:longitude":-4.50126,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45100",
+        "eurostat:nuts_2021_id":"45100",
         "gn:id":6361760,
         "gp:id":12691021,
         "qs_pg:id":204650
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4030d3005d0b34e8b41192a4b4850e4f",
+    "wof:geomhash":"2fedfd16adb25b314eaa45a150583c3f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404344563,
-    "wof:lastmodified":1582361852,
+    "wof:lastmodified":1684352475,
     "wof:name":"Mesegar De Tajo",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":215,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

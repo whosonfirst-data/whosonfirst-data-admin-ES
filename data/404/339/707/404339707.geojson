@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31116",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Genevilla",
+    "eurostat:nuts_2021_id":"31116",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31116",
+    "eurostat:population":66,
+    "eurostat:population_year":2020,
     "geom:area":0.000948,
-    "geom:area_square_m":8624244.735804,
+    "geom:area_square_m":8624244.735803,
     "geom:bbox":"-2.43048266,42.63025036,-2.37212453,42.66268015",
     "geom:latitude":42.648854,
     "geom:longitude":-2.39918,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31116",
+        "eurostat:nuts_2021_id":"31116",
         "gn:id":6359664,
         "gp:id":12688291,
         "qs_pg:id":44601
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f0cb72a4ae2621a339ca0518a2da491b",
+    "wof:geomhash":"e87b70a056edb76a9837e5e08d7e69b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404339707,
-    "wof:lastmodified":1582361582,
+    "wof:lastmodified":1684352397,
     "wof:name":"Genevilla",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":66,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

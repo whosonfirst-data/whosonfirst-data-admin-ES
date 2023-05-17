@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04901",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tres Villas, Las",
+    "eurostat:nuts_2021_id":"04901",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04901",
+    "eurostat:population":565,
+    "eurostat:population_year":2020,
     "geom:area":0.008659,
-    "geom:area_square_m":85325113.157058,
+    "geom:area_square_m":85325113.157059,
     "geom:bbox":"-2.76149942,37.07817421,-2.67784092,37.23732121",
     "geom:latitude":37.160001,
     "geom:longitude":-2.720879,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_04901",
+        "eurostat:nuts_2021_id":"04901",
         "gn:id":6355616,
         "qs_pg:id":621524
     },
@@ -135,7 +151,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"02aed0ecec3f8c6c5b96d72b859a5d8e",
+    "wof:geomhash":"fcf14213ccd78dc64eb74cfb40504740",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404329793,
-    "wof:lastmodified":1582361796,
+    "wof:lastmodified":1684352215,
     "wof:name":"Las Tres Villas",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":565,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45172",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torrico",
+    "eurostat:nuts_2021_id":"45172",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45172",
+    "eurostat:population":698,
+    "eurostat:population_year":2020,
     "geom:area":0.003527,
     "geom:area_square_m":33493683.503395,
     "geom:bbox":"-5.25914039,39.78993305,-5.15867354,39.86093171",
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45172",
+        "eurostat:nuts_2021_id":"45172",
         "gn:id":6361832,
         "gp:id":12691094,
         "qs_pg:id":1019300
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"97a10be2a789939c186c7a7d68334c63",
+    "wof:geomhash":"f40176ccd562c9c4d01ebd116c259f78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404344725,
-    "wof:lastmodified":1582361849,
+    "wof:lastmodified":1684352478,
     "wof:name":"Torrico",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":698,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

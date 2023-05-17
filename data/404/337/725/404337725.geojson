@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25050,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bellpuig",
+    "eurostat:nuts_2021_id":"25050",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25050",
+    "eurostat:population":5218,
+    "eurostat:population_year":2020,
     "geom:area":0.003784,
-    "geom:area_square_m":34973978.540044,
+    "geom:area_square_m":34973978.540045,
     "geom:bbox":"0.967035244696,41.5836429632,1.05723103436,41.6780515928",
     "geom:latitude":41.629867,
     "geom:longitude":1.006277,
@@ -109,6 +121,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -117,7 +131,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25050",
         "esp-icgc:la_lc":"025050",
+        "eurostat:nuts_2021_id":"25050",
         "gn:id":6358807,
         "gp:id":12693951,
         "qs_pg:id":1149566
@@ -127,7 +143,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"bee70f5538a93ae394a9d3a4e000644a",
+    "wof:geomhash":"576d1b2bb17374f9c6890ef5844c81d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404337725,
-    "wof:lastmodified":1582361560,
+    "wof:lastmodified":1684352358,
     "wof:name":"Bellpuig",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":5218,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

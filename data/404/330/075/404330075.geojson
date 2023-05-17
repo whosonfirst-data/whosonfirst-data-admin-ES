@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05139",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mu\u00f1ogrande",
+    "eurostat:nuts_2021_id":"05139",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05139",
+    "eurostat:population":70,
+    "eurostat:population_year":2020,
     "geom:area":0.001725,
-    "geom:area_square_m":16141174.565759,
+    "geom:area_square_m":16141174.56576,
     "geom:bbox":"-4.97586939,40.78913106,-4.89837181,40.8378619",
     "geom:latitude":40.815649,
     "geom:longitude":-4.940059,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05139",
+        "eurostat:nuts_2021_id":"05139",
         "gn:id":6355741,
         "gp:id":12691250,
         "qs_pg:id":497050
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"faefa7deffe34a6e6134ccc876ee115c",
+    "wof:geomhash":"cfc326c28129b662036e260706ec4cb5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404330075,
-    "wof:lastmodified":1582361537,
+    "wof:lastmodified":1684352219,
     "wof:name":"Mu\u00f1ogrande",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":70,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

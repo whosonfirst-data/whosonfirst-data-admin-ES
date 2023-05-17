@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06120",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Amalia",
+    "eurostat:nuts_2021_id":"06120",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06120",
+    "eurostat:population":3975,
+    "eurostat:population_year":2020,
     "geom:area":0.007655,
-    "geom:area_square_m":73536392.433096,
+    "geom:area_square_m":73536392.433094,
     "geom:bbox":"-6.14209846,38.95194661,-5.92400366,39.10209754",
     "geom:latitude":39.024329,
     "geom:longitude":-6.035037,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06120",
+        "eurostat:nuts_2021_id":"06120",
         "gn:id":6355985,
         "gp:id":12694440,
         "qs_pg:id":955138
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"476cba87e4adc3668041068bedc37977",
+    "wof:geomhash":"ce39e3bbb210baba2c9af05dc0c177da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404330627,
-    "wof:lastmodified":1582361524,
+    "wof:lastmodified":1684352227,
     "wof:name":"Santa Amalia",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":3975,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

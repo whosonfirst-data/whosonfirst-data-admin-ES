@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28147",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Titulcia",
+    "eurostat:nuts_2021_id":"28147",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28147",
+    "eurostat:population":1341,
+    "eurostat:population_year":2020,
     "geom:area":0.001072,
-    "geom:area_square_m":10129113.259969,
+    "geom:area_square_m":10129113.25997,
     "geom:bbox":"-3.58389494,40.12165201,-3.53562175,40.17124572",
     "geom:latitude":40.14595,
     "geom:longitude":-3.560751,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28147",
+        "eurostat:nuts_2021_id":"28147",
         "gn:id":6359366,
         "gp:id":12688087,
         "qs_pg:id":289857
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5cf991354c881ea9fe3fd09638bb7da7",
+    "wof:geomhash":"00023805a4208ac34da29ad57f25e9b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404339003,
-    "wof:lastmodified":1582361594,
+    "wof:lastmodified":1684352386,
     "wof:name":"Titulcia",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":1341,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

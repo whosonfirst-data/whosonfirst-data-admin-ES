@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05127",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mijares",
+    "eurostat:nuts_2021_id":"05127",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05127",
+    "eurostat:population":694,
+    "eurostat:population_year":2020,
     "geom:area":0.004973,
-    "geom:area_square_m":46912396.767398,
+    "geom:area_square_m":46912396.767401,
     "geom:bbox":"-4.87976837,40.21250453,-4.80259513,40.33799715",
     "geom:latitude":40.285372,
     "geom:longitude":-4.831985,
@@ -102,6 +114,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -109,9 +123,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_05127",
+        "eurostat:nuts_2021_id":"05127"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"c15c2677d8c231ccc0c0cfda5f3bd99c",
+    "wof:geomhash":"6efadf856dc576f80c34d18c23a00e4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +139,12 @@
         }
     ],
     "wof:id":404330051,
-    "wof:lastmodified":1566589943,
+    "wof:lastmodified":1684352218,
     "wof:name":"Mijares",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":694,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

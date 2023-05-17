@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25126,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25126",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Llavors\u00ed",
+    "eurostat:nuts_2021_id":"25126",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25126",
+    "eurostat:population":346,
+    "eurostat:population_year":2020,
     "geom:area":0.00751,
-    "geom:area_square_m":68478695.258554,
+    "geom:area_square_m":68478695.258555,
     "geom:bbox":"1.11218578615,42.4213086287,1.25617808955,42.5382565953",
     "geom:latitude":42.487185,
     "geom:longitude":1.190464,
@@ -106,6 +118,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -114,7 +128,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25126",
         "esp-icgc:la_lc":"025126",
+        "eurostat:nuts_2021_id":"25126",
         "gn:id":6358868,
         "gp:id":12694018,
         "qs_pg:id":51792
@@ -124,7 +140,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"43186723b14c9dbab354d22510cc2ef3",
+    "wof:geomhash":"128bb91ecf2305c57d600421545ab1f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404337865,
-    "wof:lastmodified":1582361572,
+    "wof:lastmodified":1684352362,
     "wof:name":"Llavors\u00ed",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":346,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45083",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Layos",
+    "eurostat:nuts_2021_id":"45083",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45083",
+    "eurostat:population":777,
+    "eurostat:population_year":2020,
     "geom:area":0.001933,
-    "geom:area_square_m":18374703.56185,
+    "geom:area_square_m":18374703.561851,
     "geom:bbox":"-4.09053828,39.73304438,-4.02541317,39.79435607",
     "geom:latitude":39.770429,
     "geom:longitude":-4.056318,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45083",
+        "eurostat:nuts_2021_id":"45083",
         "gn:id":6361743,
         "gp:id":12691004,
         "qs_pg:id":1252320
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cfa44a45e02c30151a4dc589d9cf632c",
+    "wof:geomhash":"b25b35e582b426c4d2a5f3532579220d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404344525,
-    "wof:lastmodified":1582361859,
+    "wof:lastmodified":1684352475,
     "wof:name":"Layos",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":777,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

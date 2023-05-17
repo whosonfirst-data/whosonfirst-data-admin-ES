@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_29014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alpandeire",
+    "eurostat:nuts_2021_id":"29014",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES617",
+    "eurostat:nuts_2021_level_lau":"29014",
+    "eurostat:population":263,
+    "eurostat:population_year":2020,
     "geom:area":0.003149,
-    "geom:area_square_m":31237534.030285,
+    "geom:area_square_m":31237534.030283,
     "geom:bbox":"-5.24767138,36.59870795,-5.18959326,36.69930268",
     "geom:latitude":36.655501,
     "geom:longitude":-5.217121,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_29014",
+        "eurostat:nuts_2021_id":"29014",
         "gn:id":6359419,
         "gp:id":12689203,
         "qs_pg:id":977204
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b39d80caead3dc6cea2712423a17446b",
+    "wof:geomhash":"a4eb5b60fb9a726876125d8dff092b08",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404339123,
-    "wof:lastmodified":1582361596,
+    "wof:lastmodified":1684352389,
     "wof:name":"Alpandeire",
     "wof:parent_id":85682787,
     "wof:placetype":"localadmin",
+    "wof:population":263,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

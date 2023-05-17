@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_41017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bormujos",
+    "eurostat:nuts_2021_id":"41017",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES618",
+    "eurostat:nuts_2021_level_lau":"41017",
+    "eurostat:population":22180,
+    "eurostat:population_year":2020,
     "geom:area":0.001238,
-    "geom:area_square_m":12168520.260607,
+    "geom:area_square_m":12168520.260608,
     "geom:bbox":"-6.11971934,37.34433943,-6.05607811,37.38472349",
     "geom:latitude":37.363747,
     "geom:longitude":-6.083189,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_41017",
+        "eurostat:nuts_2021_id":"41017",
         "gn:id":6360972,
         "gp:id":12689307,
         "qs_pg:id":191189
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2fa32b3d20c06dd15e422fa19f3851c6",
+    "wof:geomhash":"acd2a5f9ab204839e03bc4f0a8bc2f11",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404342781,
-    "wof:lastmodified":1582361822,
+    "wof:lastmodified":1684352443,
     "wof:name":"Bormujos",
     "wof:parent_id":85682841,
     "wof:placetype":"localadmin",
+    "wof:population":22180,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alba de Tormes",
+    "eurostat:nuts_2021_id":"37008",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37008",
+    "eurostat:population":5166,
+    "eurostat:population_year":2020,
     "geom:area":0.004965,
-    "geom:area_square_m":46454632.946063,
+    "geom:area_square_m":46454632.946065,
     "geom:bbox":"-5.55916128,40.78168485,-5.4577793,40.86615714",
     "geom:latitude":40.827989,
     "geom:longitude":-5.509414,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37008",
+        "eurostat:nuts_2021_id":"37008",
         "gn:id":6360266,
         "gp:id":12692157,
         "qs_pg:id":1309692
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"98b83c95fd5f5e141ac99b7b0b41f5b9",
+    "wof:geomhash":"9b7199da2e55813358035129844e944d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404341117,
-    "wof:lastmodified":1582361632,
+    "wof:lastmodified":1684352421,
     "wof:name":"Alba De Tormes",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":5166,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

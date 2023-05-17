@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8027,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cabanyes, Les",
+    "eurostat:nuts_2021_id":"08027",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08027",
+    "eurostat:population":979,
+    "eurostat:population_year":2020,
     "geom:area":0.000124,
-    "geom:area_square_m":1149494.054638,
+    "geom:area_square_m":1149485.339455,
     "geom:bbox":"1.679714,41.364353,1.697909,41.379032",
     "geom:latitude":41.371605,
     "geom:longitude":1.689963,
@@ -130,6 +142,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -138,7 +152,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08027",
         "esp-icgc:la_lc":"08027",
+        "eurostat:nuts_2021_id":"08027",
         "gn:id":6356063,
         "gp:id":12693404,
         "qs_pg:id":1112626
@@ -148,7 +164,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"539ae393fb1ed0a0d281dbe2fa07331e",
+    "wof:geomhash":"66b4aeef4e506844c438abf8e9f5dadd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,10 +175,12 @@
         }
     ],
     "wof:id":404330939,
-    "wof:lastmodified":1669903014,
+    "wof:lastmodified":1684352236,
     "wof:name":"Les Cabanyes",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":979,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

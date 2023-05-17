@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_29066",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Macharaviaya",
+    "eurostat:nuts_2021_id":"29066",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES617",
+    "eurostat:nuts_2021_level_lau":"29066",
+    "eurostat:population":513,
+    "eurostat:population_year":2020,
     "geom:area":0.000731,
-    "geom:area_square_m":7236948.376649,
+    "geom:area_square_m":7236948.37665,
     "geom:bbox":"-4.23818172,36.75215587,-4.20812247,36.79278151",
     "geom:latitude":36.76988,
     "geom:longitude":-4.222181,
@@ -102,6 +114,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -109,9 +123,12 @@
         404227361
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_29066",
+        "eurostat:nuts_2021_id":"29066"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"738ef8197a205e15637503f57771eec9",
+    "wof:geomhash":"d7b77ab0650a6e5cd82cfcd7aaa8b79c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +139,12 @@
         }
     ],
     "wof:id":404339239,
-    "wof:lastmodified":1566590132,
+    "wof:lastmodified":1684352390,
     "wof:name":"Macharaviaya",
     "wof:parent_id":85682787,
     "wof:placetype":"localadmin",
+    "wof:population":513,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

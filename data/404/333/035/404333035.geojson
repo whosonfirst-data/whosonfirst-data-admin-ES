@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_11013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castellar de la Frontera",
+    "eurostat:nuts_2021_id":"11013",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES612",
+    "eurostat:nuts_2021_level_lau":"11013",
+    "eurostat:population":3057,
+    "eurostat:population_year":2020,
     "geom:area":0.017946,
-    "geom:area_square_m":178817982.750992,
+    "geom:area_square_m":178817982.750993,
     "geom:bbox":"-5.58000921,36.24052391,-5.3539634,36.37307243",
     "geom:latitude":36.311679,
     "geom:longitude":-5.465104,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_11013",
+        "eurostat:nuts_2021_id":"11013",
         "gn:id":6356928,
         "gp:id":12688740,
         "qs_pg:id":240015
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3f7697fb48108e9684cd51ec5f5053bc",
+    "wof:geomhash":"575d71261b756cdf6ffcbcfe8e449906",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404333035,
-    "wof:lastmodified":1582361779,
+    "wof:lastmodified":1684352273,
     "wof:name":"Castellar De La Frontera",
     "wof:parent_id":85682679,
     "wof:placetype":"localadmin",
+    "wof:population":3057,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

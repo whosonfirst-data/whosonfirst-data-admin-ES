@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_02016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bienservida",
+    "eurostat:nuts_2021_id":"02016",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES421",
+    "eurostat:nuts_2021_level_lau":"02016",
+    "eurostat:population":579,
+    "eurostat:population_year":2020,
     "geom:area":0.009374,
-    "geom:area_square_m":90677206.757858,
+    "geom:area_square_m":90677206.757855,
     "geom:bbox":"-2.75862556,38.48966397,-2.52392108,38.57413084",
     "geom:latitude":38.530103,
     "geom:longitude":-2.647558,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_02016",
+        "eurostat:nuts_2021_id":"02016",
         "gn:id":6355308,
         "gp:id":12690227,
         "qs_pg:id":45664
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c4a1655e251a0d9806f35f87e0a16fdf",
+    "wof:geomhash":"4ad40f7aaf22016059cc1592d9dd8cea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404329087,
-    "wof:lastmodified":1582361798,
+    "wof:lastmodified":1684352204,
     "wof:name":"Bienservida",
     "wof:parent_id":85682621,
     "wof:placetype":"localadmin",
+    "wof:population":579,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

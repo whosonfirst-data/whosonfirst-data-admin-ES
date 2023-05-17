@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Armu\u00f1a de Almanzora",
+    "eurostat:nuts_2021_id":"04018",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04018",
+    "eurostat:population":300,
+    "eurostat:population_year":2020,
     "geom:area":0.000808,
-    "geom:area_square_m":7946127.587247,
+    "geom:area_square_m":7946127.587248,
     "geom:bbox":"-2.44066755,37.33424356,-2.39641979,37.37279917",
     "geom:latitude":37.356647,
     "geom:longitude":-2.416141,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_04018",
+        "eurostat:nuts_2021_id":"04018",
         "gn:id":6355534,
         "gp:id":12688641,
         "qs_pg:id":44831
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"30811e42609b8b160c2809efcd427c7e",
+    "wof:geomhash":"490242c26064f5001f0dea508182a83b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404329609,
-    "wof:lastmodified":1582361802,
+    "wof:lastmodified":1684352212,
     "wof:name":"Armu\u00f1a De Almanzora",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":300,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

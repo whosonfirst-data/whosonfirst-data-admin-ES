@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_39003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Anievas",
+    "eurostat:nuts_2021_id":"39003",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES13",
+    "eurostat:nuts_2021_level_3":"ES130",
+    "eurostat:nuts_2021_level_lau":"39003",
+    "eurostat:population":274,
+    "eurostat:population_year":2020,
     "geom:area":0.002315,
-    "geom:area_square_m":20867149.058491,
+    "geom:area_square_m":20867149.058492,
     "geom:bbox":"-4.03228923,43.17304919,-3.9766735,43.23284624",
     "geom:latitude":43.201306,
     "geom:longitude":-4.004054,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_39003",
+        "eurostat:nuts_2021_id":"39003",
         "gn:id":6360650,
         "gp:id":12688524,
         "qs_pg:id":953362
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e54093673c9f11d1c140ab7090704fa8",
+    "wof:geomhash":"f1f85d2df62ec15620fc439b4d01aa4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404342045,
-    "wof:lastmodified":1582361817,
+    "wof:lastmodified":1684352434,
     "wof:name":"Anievas",
     "wof:parent_id":85682833,
     "wof:placetype":"localadmin",
+    "wof:population":274,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

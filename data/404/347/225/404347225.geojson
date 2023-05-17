@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50235",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Mateo de G\u00e1llego",
+    "eurostat:nuts_2021_id":"50235",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50235",
+    "eurostat:population":3269,
+    "eurostat:population_year":2020,
     "geom:area":0.007763,
-    "geom:area_square_m":71519415.242417,
+    "geom:area_square_m":71519415.242413,
     "geom:bbox":"-0.79676603,41.77979327,-0.64442078,41.91226306",
     "geom:latitude":41.835984,
     "geom:longitude":-0.7314,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50235",
+        "eurostat:nuts_2021_id":"50235",
         "gn:id":6362921,
         "gp:id":12690062,
         "qs_pg:id":954155
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9249f7d9ba3f0f970476c2e68d1c5c4c",
+    "wof:geomhash":"7103d2da38ea881fbd557c176df1b17c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404347225,
-    "wof:lastmodified":1582361674,
+    "wof:lastmodified":1684352509,
     "wof:name":"San Mateo De G\u00e1llego",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":3269,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

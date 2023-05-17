@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_38038",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Cruz de Tenerife",
+    "eurostat:nuts_2021_id":"38038",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES7",
+    "eurostat:nuts_2021_level_2":"ES70",
+    "eurostat:nuts_2021_level_3":"ES709",
+    "eurostat:nuts_2021_level_lau":"38038",
+    "eurostat:population":209194,
+    "eurostat:population_year":2020,
     "geom:area":0.013873,
-    "geom:area_square_m":150734189.840379,
+    "geom:area_square_m":150734189.840319,
     "geom:bbox":"-16.34532474,28.40968739,-16.1185202,28.60530369",
     "geom:latitude":28.517644,
     "geom:longitude":-16.225831,
@@ -45,6 +57,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -53,6 +67,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_38038",
+        "eurostat:nuts_2021_id":"38038",
         "gn:id":6360638,
         "gp:id":12690196,
         "qs_pg:id":45646
@@ -61,7 +77,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"734d91b29d6dafe3044f56a1adce573b",
+    "wof:geomhash":"f9c55a0feb7a06bcfd1723839ba7205a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
         }
     ],
     "wof:id":404342003,
-    "wof:lastmodified":1582361819,
+    "wof:lastmodified":1684352433,
     "wof:name":"Santa Cruz De Tenerife",
     "wof:parent_id":85682831,
     "wof:placetype":"localadmin",
+    "wof:population":209194,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

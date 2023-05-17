@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_07033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Manacor",
+    "eurostat:nuts_2021_id":"07033",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES53",
+    "eurostat:nuts_2021_level_3":"ES532",
+    "eurostat:nuts_2021_level_lau":"07033",
+    "eurostat:population":44527,
+    "eurostat:population_year":2020,
     "geom:area":0.027274,
-    "geom:area_square_m":260019539.457107,
+    "geom:area_square_m":260019539.457109,
     "geom:bbox":"3.12263745,39.43885138,3.37594711,39.67889642",
     "geom:latitude":39.554844,
     "geom:longitude":3.235437,
@@ -150,6 +162,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -158,6 +172,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_07033",
+        "eurostat:nuts_2021_id":"07033",
         "gn:id":6533954,
         "gp:id":12687739,
         "qs_pg:id":511710
@@ -166,7 +182,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5e5a1ee33f78af41abcb5af68fda2149",
+    "wof:geomhash":"057262beb4de79ac1f9ca3a3e97b4813",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,10 +193,12 @@
         }
     ],
     "wof:id":404330801,
-    "wof:lastmodified":1582361540,
+    "wof:lastmodified":1684352231,
     "wof:name":"Manacor",
     "wof:parent_id":85682647,
     "wof:placetype":"localadmin",
+    "wof:population":44527,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

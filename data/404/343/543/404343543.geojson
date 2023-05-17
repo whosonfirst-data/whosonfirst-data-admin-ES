@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43067,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43067",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ginestar",
+    "eurostat:nuts_2021_id":"43067",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43067",
+    "eurostat:population":764,
+    "eurostat:population_year":2020,
     "geom:area":0.001674,
-    "geom:area_square_m":15615595.70323,
+    "geom:area_square_m":15615595.703231,
     "geom:bbox":"0.600062794281,41.00325229,0.6630522523,41.0522256827",
     "geom:latitude":41.029134,
     "geom:longitude":0.63722,
@@ -103,6 +115,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -111,7 +125,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43067",
         "esp-icgc:la_lc":"043067",
+        "eurostat:nuts_2021_id":"43067",
         "gn:id":6361310,
         "gp:id":12694205,
         "qs_pg:id":1149591
@@ -121,7 +137,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"d2f9eff79f6de0befdea91d46afad591",
+    "wof:geomhash":"9843a1a1646027fc5792efa37314d926",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404343543,
-    "wof:lastmodified":1582361875,
+    "wof:lastmodified":1684352456,
     "wof:name":"Ginestar",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":764,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

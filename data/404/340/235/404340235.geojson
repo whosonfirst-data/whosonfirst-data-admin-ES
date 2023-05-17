@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_32073",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rubi\u00e1",
+    "eurostat:nuts_2021_id":"32073",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES113",
+    "eurostat:nuts_2021_level_lau":"32073",
+    "eurostat:population":1383,
+    "eurostat:population_year":2020,
     "geom:area":0.011004,
-    "geom:area_square_m":100371980.54259,
+    "geom:area_square_m":100371980.542589,
     "geom:bbox":"-6.98093464,42.41010169,-6.80831545,42.52054395",
     "geom:latitude":42.468081,
     "geom:longitude":-6.895848,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_32073",
+        "eurostat:nuts_2021_id":"32073",
         "gp:id":12694931,
         "qs_pg:id":1016215
     },
@@ -123,7 +139,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"04de95e8760659ad5f07989422475fa1",
+    "wof:geomhash":"f4498ca0ebe6675bb2fc0e9fbaecb700",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404340235,
-    "wof:lastmodified":1582361651,
+    "wof:lastmodified":1684352404,
     "wof:name":"Rubi\u00e1",
     "wof:parent_id":85682801,
     "wof:placetype":"localadmin",
+    "wof:population":1383,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

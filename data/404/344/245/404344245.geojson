@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44219",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tornos",
+    "eurostat:nuts_2021_id":"44219",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44219",
+    "eurostat:population":202,
+    "eurostat:population_year":2020,
     "geom:area":0.005235,
-    "geom:area_square_m":48894055.168205,
+    "geom:area_square_m":48894055.168204,
     "geom:bbox":"-1.47299288,40.91429214,-1.365036,40.98107736",
     "geom:latitude":40.947626,
     "geom:longitude":-1.41854,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44219",
+        "eurostat:nuts_2021_id":"44219",
         "gn:id":6361619,
         "gp:id":12689791,
         "qs_pg:id":288241
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"606b3a0bdcfefdcbae8438f482fc8766",
+    "wof:geomhash":"ba6c817b0ec48c862f9d1ea9d2874647",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404344245,
-    "wof:lastmodified":1582361846,
+    "wof:lastmodified":1684352471,
     "wof:name":"Tornos",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":202,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

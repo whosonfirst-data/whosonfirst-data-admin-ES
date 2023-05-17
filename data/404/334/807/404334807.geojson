@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17120,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17120",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Palau-saverdera",
+    "eurostat:nuts_2021_id":"17120",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17120",
+    "eurostat:population":1456,
+    "eurostat:population_year":2020,
     "geom:area":0.001811,
-    "geom:area_square_m":16562547.11106,
+    "geom:area_square_m":16562545.525186,
     "geom:bbox":"3.109002,42.269986,3.174449,42.32706",
     "geom:latitude":42.30063,
     "geom:longitude":3.14231,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17120",
         "esp-icgc:la_lc":"017120",
+        "eurostat:nuts_2021_id":"17120",
         "gn:id":6534095,
         "gp:id":12693799,
         "qs_pg:id":1277140
@@ -67,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"61dc6e331bf8b8d6844e52a5ad7dc3f0",
+    "wof:geomhash":"bf864372ee8819aaba439eca3e9ff97a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404334807,
-    "wof:lastmodified":1669903052,
+    "wof:lastmodified":1684352310,
     "wof:name":"Palau-saverdera",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":1456,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

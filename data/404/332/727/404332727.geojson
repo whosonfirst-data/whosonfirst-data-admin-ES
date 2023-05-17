@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10098",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hinojal",
+    "eurostat:nuts_2021_id":"10098",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10098",
+    "eurostat:population":404,
+    "eurostat:population_year":2020,
     "geom:area":0.006664,
-    "geom:area_square_m":63393525.887495,
+    "geom:area_square_m":63393525.887496,
     "geom:bbox":"-6.41569716,39.65529807,-6.29694581,39.74574572",
     "geom:latitude":39.705243,
     "geom:longitude":-6.349236,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10098",
+        "eurostat:nuts_2021_id":"10098",
         "gn:id":6356794,
         "gp:id":12694579,
         "qs_pg:id":48013
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8d361537d3bf03e7d26d8f51d76dcc75",
+    "wof:geomhash":"e5140487e978d14472f379d57b226c76",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404332727,
-    "wof:lastmodified":1582361693,
+    "wof:lastmodified":1684352268,
     "wof:name":"Hinojal",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":404,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50231",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Salillas de Jal\u00f3n",
+    "eurostat:nuts_2021_id":"50231",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50231",
+    "eurostat:population":321,
+    "eurostat:population_year":2020,
     "geom:area":0.000271,
-    "geom:area_square_m":2509154.361626,
+    "geom:area_square_m":2509154.361627,
     "geom:bbox":"-1.33932875,41.54885524,-1.31007339,41.57309866",
     "geom:latitude":41.561491,
     "geom:longitude":-1.32418,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50231",
+        "eurostat:nuts_2021_id":"50231",
         "gn:id":6362917,
         "gp:id":12690058,
         "qs_pg:id":244242
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"60657f234808037642afe9f6b68f9cb1",
+    "wof:geomhash":"cbe081ac57ae9b88f19b46908da8c53d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404347215,
-    "wof:lastmodified":1582361673,
+    "wof:lastmodified":1684352508,
     "wof:name":"Salillas De Jal\u00f3n",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":321,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

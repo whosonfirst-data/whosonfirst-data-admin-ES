@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carrera, La",
+    "eurostat:nuts_2021_id":"05051",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05051",
+    "eurostat:population":167,
+    "eurostat:population_year":2020,
     "geom:area":0.001501,
-    "geom:area_square_m":14147461.199926,
+    "geom:area_square_m":14147461.199923,
     "geom:bbox":"-5.5839048,40.32466324,-5.53453922,40.3801369",
     "geom:latitude":40.354284,
     "geom:longitude":-5.560723,
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05051",
+        "eurostat:nuts_2021_id":"05051",
         "gn:id":6355659,
         "gp:id":12691167,
         "qs_pg:id":1023728
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"847e56ab14dd3e0021b42a4c45d19e9c",
+    "wof:geomhash":"3dd30e9b25b96fbff394b45849d1dd1a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404329891,
-    "wof:lastmodified":1582361800,
+    "wof:lastmodified":1684352217,
     "wof:name":"La Carrera",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":167,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

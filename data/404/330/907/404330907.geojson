@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8013,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Avinyonet del Pened\u00e8s",
+    "eurostat:nuts_2021_id":"08013",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08013",
+    "eurostat:population":1697,
+    "eurostat:population_year":2020,
     "geom:area":0.003138,
-    "geom:area_square_m":29125015.887567,
+    "geom:area_square_m":29125020.571177,
     "geom:bbox":"1.729614,41.315954,1.847848,41.395906",
     "geom:latitude":41.35219,
     "geom:longitude":1.783119,
@@ -62,6 +74,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -70,7 +84,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08013",
         "esp-icgc:la_lc":"08013",
+        "eurostat:nuts_2021_id":"08013",
         "gn:id":6356049,
         "gp:id":12693389,
         "qs_pg:id":1163704
@@ -80,7 +96,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1943c13d323fc6d51ca2c5ba217b0097",
+    "wof:geomhash":"b962520d002e69169302fd5129c20b0f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,10 +107,12 @@
         }
     ],
     "wof:id":404330907,
-    "wof:lastmodified":1669903014,
+    "wof:lastmodified":1684352235,
     "wof:name":"Avinyonet del Pened\u00e8s",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":1697,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

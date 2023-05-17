@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43021,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Barber\u00e0 de la Conca",
+    "eurostat:nuts_2021_id":"43021",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43021",
+    "eurostat:population":471,
+    "eurostat:population_year":2020,
     "geom:area":0.002821,
-    "geom:area_square_m":26160402.916058,
+    "geom:area_square_m":26160611.679824,
     "geom:bbox":"1.189191,41.380031,1.281588,41.445521",
     "geom:latitude":41.411163,
     "geom:longitude":1.229327,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43021",
         "esp-icgc:la_lc":"043021",
+        "eurostat:nuts_2021_id":"43021",
         "gn:id":6361264,
         "gp:id":12694159,
         "qs_pg:id":1019762
@@ -67,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e4afac90d7a6f7ac87e19a3d20731b89",
+    "wof:geomhash":"27ced08fdb206576381e61e6a334b128",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404343439,
-    "wof:lastmodified":1669903062,
+    "wof:lastmodified":1684352453,
     "wof:name":"Barber\u00e0 de la Conca",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":471,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

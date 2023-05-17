@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43138,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43138",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa B\u00e0rbara",
+    "eurostat:nuts_2021_id":"43138",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43138",
+    "eurostat:population":3715,
+    "eurostat:population_year":2020,
     "geom:area":0.002998,
-    "geom:area_square_m":28092185.671738,
+    "geom:area_square_m":28092173.190424,
     "geom:bbox":"0.42739,40.699599,0.541788,40.748125",
     "geom:latitude":40.723152,
     "geom:longitude":0.481348,
@@ -45,6 +57,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -53,13 +67,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"043138"
+        "eg:gisco_id":"ES_43138",
+        "esp-icgc:la_lc":"043138",
+        "eurostat:nuts_2021_id":"43138"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a014a1fa64d161f30521baafda1cef9e",
+    "wof:geomhash":"1d271b22ccc27168a05abbaed3c64158",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,10 +86,12 @@
         }
     ],
     "wof:id":404343701,
-    "wof:lastmodified":1669903060,
+    "wof:lastmodified":1684352461,
     "wof:name":"Santa B\u00e0rbara",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":3715,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

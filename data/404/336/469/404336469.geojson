@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aisa",
+    "eurostat:nuts_2021_id":"22006",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22006",
+    "eurostat:population":313,
+    "eurostat:population_year":2020,
     "geom:area":0.008883,
-    "geom:area_square_m":80713764.410763,
+    "geom:area_square_m":80713764.410762,
     "geom:bbox":"-0.68215106,42.61971262,-0.51264595,42.79875133",
     "geom:latitude":42.708238,
     "geom:longitude":-0.602128,
@@ -48,6 +60,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -56,6 +70,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22006",
+        "eurostat:nuts_2021_id":"22006",
         "gn:id":6358260,
         "gp:id":12689401,
         "qs_pg:id":1102465
@@ -64,7 +80,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e66c6b3c52e554c07eb002c2370cf245",
+    "wof:geomhash":"eee89e20983b87dc0baaf7b99a10b6f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,10 +91,12 @@
         }
     ],
     "wof:id":404336469,
-    "wof:lastmodified":1582361474,
+    "wof:lastmodified":1684352339,
     "wof:name":"Aisa",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":313,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

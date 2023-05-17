@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47222",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villanueva de San Mancio",
+    "eurostat:nuts_2021_id":"47222",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47222",
+    "eurostat:population":82,
+    "eurostat:population_year":2020,
     "geom:area":0.001645,
     "geom:area_square_m":15137216.7803,
     "geom:bbox":"-5.04844308,41.8990971,-4.98328938,41.94722787",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_47222",
+        "eurostat:nuts_2021_id":"47222",
         "gn:id":6362342,
         "gp:id":12693116,
         "qs_pg:id":1188671
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5d0c11261a9408eb0bc2cf8a1e6ba044",
+    "wof:geomhash":"ab0436a82c1c4625f2e2073511d4fb57",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404345881,
-    "wof:lastmodified":1582361828,
+    "wof:lastmodified":1684352491,
     "wof:name":"Villanueva De San Mancio",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":82,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

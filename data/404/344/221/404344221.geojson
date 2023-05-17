@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44208",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Cruz de Nogueras",
+    "eurostat:nuts_2021_id":"44208",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44208",
+    "eurostat:population":30,
+    "eurostat:population_year":2020,
     "geom:area":0.001627,
-    "geom:area_square_m":15156736.154281,
+    "geom:area_square_m":15156736.15428,
     "geom:bbox":"-1.12160372,41.09452505,-1.05426992,41.14276081",
     "geom:latitude":41.119263,
     "geom:longitude":-1.090229,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44208",
+        "eurostat:nuts_2021_id":"44208",
         "gn:id":6361609,
         "gp:id":12689781,
         "qs_pg:id":496899
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"370838e9c9a09b71e4c174d81cb552db",
+    "wof:geomhash":"654d121a9a8afe77a70a56a5d5b86344",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404344221,
-    "wof:lastmodified":1582361846,
+    "wof:lastmodified":1684352471,
     "wof:name":"Santa Cruz De Nogueras",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":30,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

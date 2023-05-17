@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_30036",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Pedro del Pinatar",
+    "eurostat:nuts_2021_id":"30036",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES62",
+    "eurostat:nuts_2021_level_3":"ES620",
+    "eurostat:nuts_2021_level_lau":"30036",
+    "eurostat:population":25932,
+    "eurostat:population_year":2020,
     "geom:area":0.002285,
-    "geom:area_square_m":22312887.159177,
+    "geom:area_square_m":22312887.159176,
     "geom:bbox":"-0.84197576,37.79067275,-0.74817435,37.87225039",
     "geom:latitude":37.833387,
     "geom:longitude":-0.789399,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227389
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_30036",
+        "eurostat:nuts_2021_id":"30036"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"4534ad35d6a6ae6307b1c4c2193c76a6",
+    "wof:geomhash":"b16d7a1cd3c2b4f44ffc8e495f66db55",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404339399,
-    "wof:lastmodified":1566590077,
+    "wof:lastmodified":1684352394,
     "wof:name":"San Pedro Del Pinatar",
     "wof:parent_id":85682791,
     "wof:placetype":"localadmin",
+    "wof:population":25932,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

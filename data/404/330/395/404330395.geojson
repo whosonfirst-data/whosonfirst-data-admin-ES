@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Baterno",
+    "eurostat:nuts_2021_id":"06017",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06017",
+    "eurostat:population":266,
+    "eurostat:population_year":2020,
     "geom:area":0.006451,
     "geom:area_square_m":62054412.300733,
     "geom:bbox":"-4.97473871,38.88146676,-4.83113028,38.96339686",
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06017",
+        "eurostat:nuts_2021_id":"06017",
         "gn:id":6355882,
         "gp:id":12694336,
         "qs_pg:id":47838
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ff7ee5fdbf131ea9d2951ffc148786d1",
+    "wof:geomhash":"ba80b1cb61f8697bcff455ab97c052e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404330395,
-    "wof:lastmodified":1582361532,
+    "wof:lastmodified":1684352223,
     "wof:name":"Baterno",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":266,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

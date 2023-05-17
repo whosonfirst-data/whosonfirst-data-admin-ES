@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8130,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08130",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montclar",
+    "eurostat:nuts_2021_id":"08130",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08130",
+    "eurostat:population":139,
+    "eurostat:population_year":2020,
     "geom:area":0.002382,
-    "geom:area_square_m":21886261.96353,
+    "geom:area_square_m":21886261.963531,
     "geom:bbox":"1.73677015693,41.9849916832,1.8252332255,42.0529384769",
     "geom:latitude":42.018675,
     "geom:longitude":1.775097,
@@ -90,6 +102,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,13 +112,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"08130"
+        "eg:gisco_id":"ES_08130",
+        "esp-icgc:la_lc":"08130",
+        "eurostat:nuts_2021_id":"08130"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4626eeaeac64af2d8b3c561b5caa0ce7",
+    "wof:geomhash":"318c68f4a6f6cf2da762f1477210c1d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -115,10 +131,12 @@
         }
     ],
     "wof:id":404331171,
-    "wof:lastmodified":1582361515,
+    "wof:lastmodified":1684352243,
     "wof:name":"Montclar",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":139,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

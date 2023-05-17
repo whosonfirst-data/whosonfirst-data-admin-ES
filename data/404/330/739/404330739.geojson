@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_07005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Andratx",
+    "eurostat:nuts_2021_id":"07005",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES53",
+    "eurostat:nuts_2021_level_3":"ES532",
+    "eurostat:nuts_2021_level_lau":"07005",
+    "eurostat:population":11433,
+    "eurostat:population_year":2020,
     "geom:area":0.008559,
-    "geom:area_square_m":81566004.431561,
+    "geom:area_square_m":81566004.431562,
     "geom:bbox":"2.30314162,39.52086245,2.46041518,39.64386444",
     "geom:latitude":39.582051,
     "geom:longitude":2.402417,
@@ -129,6 +141,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -137,6 +151,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_07005",
+        "eurostat:nuts_2021_id":"07005",
         "gn:id":6356030,
         "gp:id":12687709,
         "qs_pg:id":529999
@@ -145,7 +161,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6cca777cbd8ac408f24fc2ffd8f7f2e9",
+    "wof:geomhash":"8aa93ad389b3535a6cb2ad44c56132bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404330739,
-    "wof:lastmodified":1582361519,
+    "wof:lastmodified":1684352229,
     "wof:name":"Andratx",
     "wof:parent_id":85682647,
     "wof:placetype":"localadmin",
+    "wof:population":11433,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

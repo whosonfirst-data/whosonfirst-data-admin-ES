@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25175,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25175",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Prats i Sansor",
+    "eurostat:nuts_2021_id":"25175",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25175",
+    "eurostat:population":222,
+    "eurostat:population_year":2020,
     "geom:area":0.000724,
-    "geom:area_square_m":6615760.861186,
+    "geom:area_square_m":6615710.510461,
     "geom:bbox":"1.813989,42.351247,1.855532,42.381787",
     "geom:latitude":42.366547,
     "geom:longitude":1.833496,
@@ -48,6 +60,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -56,13 +70,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"025175"
+        "eg:gisco_id":"ES_25175",
+        "esp-icgc:la_lc":"025175",
+        "eurostat:nuts_2021_id":"25175"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0a4a4c5579df7f3f44db2b3c32d3a68a",
+    "wof:geomhash":"07f26b69f63d1ba1de6bb3bce9618cfa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,10 +89,12 @@
         }
     ],
     "wof:id":404337963,
-    "wof:lastmodified":1669903020,
+    "wof:lastmodified":1684352366,
     "wof:name":"Prats i Sansor",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":222,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

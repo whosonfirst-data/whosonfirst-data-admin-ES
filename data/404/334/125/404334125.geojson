@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ca\u00f1averas",
+    "eurostat:nuts_2021_id":"16050",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16050",
+    "eurostat:population":247,
+    "eurostat:population_year":2020,
     "geom:area":0.007806,
-    "geom:area_square_m":73548594.057839,
+    "geom:area_square_m":73548594.05784,
     "geom:bbox":"-2.45507074,40.3096665,-2.33452009,40.41211475",
     "geom:latitude":40.357132,
     "geom:longitude":-2.394121,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16050",
+        "eurostat:nuts_2021_id":"16050",
         "gn:id":6357407,
         "gp:id":12690445,
         "qs_pg:id":1146937
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7e6ec7aeb67712422d9216d4be4c17c9",
+    "wof:geomhash":"0fb6e262cfddc655fb343f8c923352d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404334125,
-    "wof:lastmodified":1582361754,
+    "wof:lastmodified":1684352293,
     "wof:name":"Ca\u00f1averas",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":247,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

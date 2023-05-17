@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24066",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Destriana",
+    "eurostat:nuts_2021_id":"24066",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24066",
+    "eurostat:population":459,
+    "eurostat:population_year":2020,
     "geom:area":0.00614,
-    "geom:area_square_m":56131215.968462,
+    "geom:area_square_m":56131215.968459,
     "geom:bbox":"-6.15513134,42.27608324,-6.03140915,42.37651595",
     "geom:latitude":42.328854,
     "geom:longitude":-6.095783,
@@ -96,6 +108,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -103,9 +117,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_24066",
+        "eurostat:nuts_2021_id":"24066"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"7a08a5f395b84e7ccbe7eb3c84f48fa9",
+    "wof:geomhash":"eff3a04011284da07520190c70e5ab4b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +133,12 @@
         }
     ],
     "wof:id":404337273,
-    "wof:lastmodified":1566589981,
+    "wof:lastmodified":1684352350,
     "wof:name":"Destriana",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":459,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

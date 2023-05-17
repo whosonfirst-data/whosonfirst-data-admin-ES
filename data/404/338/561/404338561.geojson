@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_27013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cervo",
+    "eurostat:nuts_2021_id":"27013",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES112",
+    "eurostat:nuts_2021_level_lau":"27013",
+    "eurostat:population":4218,
+    "eurostat:population_year":2020,
     "geom:area":0.008677,
-    "geom:area_square_m":77640862.561266,
+    "geom:area_square_m":77640862.56126,
     "geom:bbox":"-7.48147682,43.58560999,-7.37514621,43.71949466",
     "geom:latitude":43.643985,
     "geom:longitude":-7.431744,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_27013",
+        "eurostat:nuts_2021_id":"27013",
         "gn:id":6355242,
         "gp:id":12694810,
         "qs_pg:id":1163731
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d0ffdaa540a670be27e3ea2225d3454b",
+    "wof:geomhash":"489cf10d88b7a7b5453f59c338545d6e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404338561,
-    "wof:lastmodified":1582361431,
+    "wof:lastmodified":1684352377,
     "wof:name":"Cervo",
     "wof:parent_id":85682775,
     "wof:placetype":"localadmin",
+    "wof:population":4218,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

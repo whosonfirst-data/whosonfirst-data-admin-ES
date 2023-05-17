@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25088,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25088",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Estamariu",
+    "eurostat:nuts_2021_id":"25088",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25088",
+    "eurostat:population":125,
+    "eurostat:population_year":2020,
     "geom:area":0.002295,
-    "geom:area_square_m":20962229.774418,
+    "geom:area_square_m":20962229.774417,
     "geom:bbox":"1.4974828396,42.3558179398,1.56748347594,42.4182236088",
     "geom:latitude":42.381961,
     "geom:longitude":1.525808,
@@ -114,6 +126,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,13 +136,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"025088"
+        "eg:gisco_id":"ES_25088",
+        "esp-icgc:la_lc":"025088",
+        "eurostat:nuts_2021_id":"25088"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d204af75ba90651d501fb4d52f5c6820",
+    "wof:geomhash":"a9eb8a5d958e6c85469c53517b80bfc8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,10 +155,12 @@
         }
     ],
     "wof:id":404337797,
-    "wof:lastmodified":1582361547,
+    "wof:lastmodified":1684352360,
     "wof:name":"Estamariu",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":125,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

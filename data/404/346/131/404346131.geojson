@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48904",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sondika",
+    "eurostat:nuts_2021_id":"48904",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48904",
+    "eurostat:population":4547,
+    "eurostat:population_year":2020,
     "geom:area":0.000699,
     "geom:area_square_m":6294754.375186,
     "geom:bbox":"-2.95113535,43.27424289,-2.89446064,43.3065376",
@@ -99,6 +111,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -106,9 +120,12 @@
         404227393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_48904",
+        "eurostat:nuts_2021_id":"48904"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"1a93c6044d3cc78998bbd8a62ac4f028",
+    "wof:geomhash":"d8d041f66647e2f891c04f73b3dc270d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +136,12 @@
         }
     ],
     "wof:id":404346131,
-    "wof:lastmodified":1566590257,
+    "wof:lastmodified":1684352495,
     "wof:name":"Sondika",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":4547,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

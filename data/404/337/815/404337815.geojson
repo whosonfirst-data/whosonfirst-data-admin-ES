@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":25099,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25099",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Golm\u00e9s",
+    "eurostat:nuts_2021_id":"25099",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25099",
+    "eurostat:population":1855,
+    "eurostat:population_year":2020,
     "geom:area":0.001807,
     "geom:area_square_m":16699420.866873,
     "geom:bbox":"0.89521733858,41.6000885747,0.960666830467,41.6452563119",
@@ -109,6 +121,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -117,7 +131,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25099",
         "esp-icgc:la_lc":"025099",
+        "eurostat:nuts_2021_id":"25099",
         "gn:id":6358847,
         "gp:id":12693995,
         "qs_pg:id":204762
@@ -127,7 +143,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"a7b94c0727543867a944909d18b83368",
+    "wof:geomhash":"a6cbe0131dd2de882930a3648e708636",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404337815,
-    "wof:lastmodified":1582361569,
+    "wof:lastmodified":1684352360,
     "wof:name":"Golm\u00e9s",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":1855,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

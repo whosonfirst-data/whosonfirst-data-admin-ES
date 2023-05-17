@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49091",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Granja de Moreruela",
+    "eurostat:nuts_2021_id":"49091",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49091",
+    "eurostat:population":271,
+    "eurostat:population_year":2020,
     "geom:area":0.004472,
-    "geom:area_square_m":41212550.853676,
+    "geom:area_square_m":41212550.853673,
     "geom:bbox":"-5.81016524,41.78139055,-5.68987299,41.84472231",
     "geom:latitude":41.811615,
     "geom:longitude":-5.751885,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_49091",
+        "eurostat:nuts_2021_id":"49091",
         "gn:id":6362529,
         "gp:id":12693208,
         "qs_pg:id":1188699
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5e09e777f0a959d5379996727689afff",
+    "wof:geomhash":"eaa6a1f74ceefa971ce860fa71fdbf50",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404346337,
-    "wof:lastmodified":1582361607,
+    "wof:lastmodified":1684352498,
     "wof:name":"Granja De Moreruela",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":271,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

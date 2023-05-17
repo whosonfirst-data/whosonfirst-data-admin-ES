@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40199",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sotosalbos",
+    "eurostat:nuts_2021_id":"40199",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40199",
+    "eurostat:population":118,
+    "eurostat:population_year":2020,
     "geom:area":0.002562,
     "geom:area_square_m":23900412.903479,
     "geom:bbox":"-3.97214575,40.96902919,-3.88078708,41.05774853",
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_40199",
+        "eurostat:nuts_2021_id":"40199",
         "gn:id":6360919,
         "gp:id":12692689,
         "qs_pg:id":1068487
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3ba023e58014e3c357dce555ff313b23",
+    "wof:geomhash":"896fc6d9b8ad786e63d8d2fdc8949841",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404342661,
-    "wof:lastmodified":1582361812,
+    "wof:lastmodified":1684352442,
     "wof:name":"Sotosalbos",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":118,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

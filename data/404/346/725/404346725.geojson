@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aguil\u00f3n",
+    "eurostat:nuts_2021_id":"50005",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50005",
+    "eurostat:population":233,
+    "eurostat:population_year":2020,
     "geom:area":0.006391,
-    "geom:area_square_m":59375715.078406,
+    "geom:area_square_m":59375715.078407,
     "geom:bbox":"-1.08616612,41.25427984,-0.94560419,41.32964236",
     "geom:latitude":41.290024,
     "geom:longitude":-1.016512,
@@ -105,6 +117,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -112,9 +126,12 @@
         404227363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_50005",
+        "eurostat:nuts_2021_id":"50005"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"c43f7990e4cb40d0271d184a017e1ec8",
+    "wof:geomhash":"dc59dc8564a0a37affacaa8a51ae3663",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +142,12 @@
         }
     ],
     "wof:id":404346725,
-    "wof:lastmodified":1566590246,
+    "wof:lastmodified":1684352502,
     "wof:name":"Aguil\u00f3n",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":233,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_33063",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Tirso de Abres",
+    "eurostat:nuts_2021_id":"33063",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES12",
+    "eurostat:nuts_2021_level_3":"ES120",
+    "eurostat:nuts_2021_level_lau":"33063",
+    "eurostat:population":421,
+    "eurostat:population_year":2020,
     "geom:area":0.00349,
     "geom:area_square_m":31356509.623833,
     "geom:bbox":"-7.18248891,43.37454753,-7.09461118,43.43200282",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_33063",
+        "eurostat:nuts_2021_id":"33063",
         "gn:id":6359965,
         "gp:id":12688504,
         "qs_pg:id":204513
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c34c7a080e169ed80268c1961da1e088",
+    "wof:geomhash":"6e93172b04dff2a23070de217e3a8581",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404340421,
-    "wof:lastmodified":1582361661,
+    "wof:lastmodified":1684352408,
     "wof:name":"San Tirso De Abres",
     "wof:parent_id":85682805,
     "wof:placetype":"localadmin",
+    "wof:population":421,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

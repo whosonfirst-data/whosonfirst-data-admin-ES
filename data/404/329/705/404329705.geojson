@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04065",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nacimiento",
+    "eurostat:nuts_2021_id":"04065",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04065",
+    "eurostat:population":496,
+    "eurostat:population_year":2020,
     "geom:area":0.00819,
     "geom:area_square_m":80730885.128148,
     "geom:bbox":"-2.70914756,37.07101722,-2.60267935,37.21759692",
@@ -72,6 +84,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -80,6 +94,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_04065",
+        "eurostat:nuts_2021_id":"04065",
         "gn:id":6355577,
         "gp:id":12688687,
         "qs_pg:id":977137
@@ -88,7 +104,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7a499d5505b74a654efce1457445a4a4",
+    "wof:geomhash":"aba7416e3d09f2b93b2983dde2f2ff6b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,10 +115,12 @@
         }
     ],
     "wof:id":404329705,
-    "wof:lastmodified":1582361795,
+    "wof:lastmodified":1684352214,
     "wof:name":"Nacimiento",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":496,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cabezabellosa",
+    "eurostat:nuts_2021_id":"10034",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10034",
+    "eurostat:population":340,
+    "eurostat:population_year":2020,
     "geom:area":0.003545,
-    "geom:area_square_m":33522126.505996,
+    "geom:area_square_m":33522126.505997,
     "geom:bbox":"-6.03698616,40.08457646,-5.95634655,40.1701207",
     "geom:latitude":40.125255,
     "geom:longitude":-5.998354,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10034",
+        "eurostat:nuts_2021_id":"10034",
         "gn:id":6356731,
         "gp:id":12694516,
         "qs_pg:id":209735
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"631a4a3f82b70fed8361c29b96ea62fd",
+    "wof:geomhash":"7d28703189d7ea08535af52ad46a5ed9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404332585,
-    "wof:lastmodified":1582361691,
+    "wof:lastmodified":1684352266,
     "wof:name":"Cabezabellosa",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":340,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

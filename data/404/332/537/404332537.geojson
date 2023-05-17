@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aldea del Cano",
+    "eurostat:nuts_2021_id":"10012",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10012",
+    "eurostat:population":602,
+    "eurostat:population_year":2020,
     "geom:area":0.002995,
-    "geom:area_square_m":28666556.427248,
+    "geom:area_square_m":28666556.42725,
     "geom:bbox":"-6.36596487,39.2500676,-6.26302699,39.32220879",
     "geom:latitude":39.287815,
     "geom:longitude":-6.308576,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10012",
+        "eurostat:nuts_2021_id":"10012",
         "gn:id":6356709,
         "gp:id":12694494,
         "qs_pg:id":124840
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fa328c0761129658a87b68db2a9061bf",
+    "wof:geomhash":"7402395359f93a85c0291f273652a50a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332537,
-    "wof:lastmodified":1582361684,
+    "wof:lastmodified":1684352265,
     "wof:name":"Aldea Del Cano",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":602,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

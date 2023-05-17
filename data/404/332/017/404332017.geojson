@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09217",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Merindad de Valdivielso",
+    "eurostat:nuts_2021_id":"09217",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09217",
+    "eurostat:population":380,
+    "eurostat:population_year":2020,
     "geom:area":0.014211,
-    "geom:area_square_m":128881221.33203,
+    "geom:area_square_m":128881221.332027,
     "geom:bbox":"-3.65042924,42.77194118,-3.43441032,42.87773615",
     "geom:latitude":42.822818,
     "geom:longitude":-3.549936,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_09217",
+        "eurostat:nuts_2021_id":"09217"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"6e13ec4aeb7adedee919176695dfcc8b",
+    "wof:geomhash":"73b2996fdc9927e5c8dc1305c52fe109",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404332017,
-    "wof:lastmodified":1566590522,
+    "wof:lastmodified":1684352260,
     "wof:name":"Merindad De Valdivielso",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":380,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

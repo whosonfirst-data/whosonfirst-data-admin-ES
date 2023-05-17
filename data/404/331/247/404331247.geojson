@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8164,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08164",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pla del Pened\u00e8s, El",
+    "eurostat:nuts_2021_id":"08164",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08164",
+    "eurostat:population":1275,
+    "eurostat:population_year":2020,
     "geom:area":0.001012,
-    "geom:area_square_m":9381962.960243,
+    "geom:area_square_m":9382055.969765,
     "geom:bbox":"1.696747,41.394162,1.74855,41.435864",
     "geom:latitude":41.414592,
     "geom:longitude":1.721428,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08164",
         "esp-icgc:la_lc":"08164",
+        "eurostat:nuts_2021_id":"08164",
         "gn:id":6356190,
         "gp:id":12693543,
         "qs_pg:id":1218779
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"a26facec69a6481ab67b133a2737e0b5",
+    "wof:geomhash":"7f8488713c78440af1f4647a9c6a4f80",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404331247,
-    "wof:lastmodified":1669903009,
+    "wof:lastmodified":1684352246,
     "wof:name":"El Pla del Pened\u00e8s",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":1275,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

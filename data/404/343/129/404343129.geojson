@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42075",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"D\u00e9vanos",
+    "eurostat:nuts_2021_id":"42075",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42075",
+    "eurostat:population":78,
+    "eurostat:population_year":2020,
     "geom:area":0.001776,
     "geom:area_square_m":16341409.308739,
     "geom:bbox":"-1.98208998,41.88177953,-1.91516917,41.93426565",
@@ -183,6 +195,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -191,6 +205,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42075",
+        "eurostat:nuts_2021_id":"42075",
         "gp:id":12692786,
         "qs_pg:id":1098023
     },
@@ -198,7 +214,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"844c56112f1a1e101a5b1181273425e0",
+    "wof:geomhash":"1a21e55e96d03028448d0700a79a0640",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -209,10 +225,12 @@
         }
     ],
     "wof:id":404343129,
-    "wof:lastmodified":1582361875,
+    "wof:lastmodified":1684352448,
     "wof:name":"D\u00e9vanos",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":78,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

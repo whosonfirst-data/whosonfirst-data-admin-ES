@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bej\u00eds",
+    "eurostat:nuts_2021_id":"12022",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12022",
+    "eurostat:population":371,
+    "eurostat:population_year":2020,
     "geom:area":0.00446,
-    "geom:area_square_m":42311507.683754,
+    "geom:area_square_m":42311507.683755,
     "geom:bbox":"-0.79757829,39.86722576,-0.68981024,39.93988704",
     "geom:latitude":39.900921,
     "geom:longitude":-0.736403,
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12022",
+        "eurostat:nuts_2021_id":"12022",
         "gn:id":6356980,
         "gp:id":12695427,
         "qs_pg:id":48469
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a7aa874edeb10a4a14bcfdc558cf86e8",
+    "wof:geomhash":"bc69ea36580f4d9cd03fe89c3749426c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404333153,
-    "wof:lastmodified":1582361772,
+    "wof:lastmodified":1684352275,
     "wof:name":"Bej\u00eds",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":371,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

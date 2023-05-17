@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40906",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Crist\u00f3bal de Segovia",
+    "eurostat:nuts_2021_id":"40906",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40906",
+    "eurostat:population":3080,
+    "eurostat:population_year":2020,
     "geom:area":0.000679,
-    "geom:area_square_m":6340686.233945,
+    "geom:area_square_m":6340686.233944,
     "geom:bbox":"-4.1059927,40.93965556,-4.05406067,40.96942142",
     "geom:latitude":40.953144,
     "geom:longitude":-4.076508,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_40906",
+        "eurostat:nuts_2021_id":"40906",
         "gn:id":6360955,
         "gp:id":23388477,
         "qs_pg:id":320704
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"054cb372383f91b943dc5b276edf06c9",
+    "wof:geomhash":"c8ab2aa7049a6e3e35a74be6c4d9de0f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404342743,
-    "wof:lastmodified":1582361822,
+    "wof:lastmodified":1684352442,
     "wof:name":"San Crist\u00f3bal De Segovia",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":3080,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

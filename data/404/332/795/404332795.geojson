@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10128",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Moraleja",
+    "eurostat:nuts_2021_id":"10128",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10128",
+    "eurostat:population":6696,
+    "eurostat:population_year":2020,
     "geom:area":0.013139,
-    "geom:area_square_m":124414718.543558,
+    "geom:area_square_m":124414718.543557,
     "geom:bbox":"-6.77527142,39.90351538,-6.61791531,40.11125678",
     "geom:latitude":40.023863,
     "geom:longitude":-6.700347,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10128",
+        "eurostat:nuts_2021_id":"10128",
         "gn:id":6356823,
         "gp:id":12694609,
         "qs_pg:id":1003893
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"215c60c5a5249a12b59343ac5e943d31",
+    "wof:geomhash":"dbf55e53874cbc0cc2f829aa863effab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404332795,
-    "wof:lastmodified":1582361686,
+    "wof:lastmodified":1684352269,
     "wof:name":"Moraleja",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":6696,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

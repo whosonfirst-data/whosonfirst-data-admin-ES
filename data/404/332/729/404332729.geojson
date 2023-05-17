@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10099",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Holguera",
+    "eurostat:nuts_2021_id":"10099",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10099",
+    "eurostat:population":637,
+    "eurostat:population_year":2020,
     "geom:area":0.003916,
     "geom:area_square_m":37157141.619245,
     "geom:bbox":"-6.40058362,39.85136611,-6.30529197,39.92560568",
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10099",
+        "eurostat:nuts_2021_id":"10099",
         "gn:id":6356795,
         "gp:id":12694580,
         "qs_pg:id":48014
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4a45dc5cdf0ffd5e3bb200dff97e2988",
+    "wof:geomhash":"f2362241dd106b26a8e526097b8dafde",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404332729,
-    "wof:lastmodified":1582361693,
+    "wof:lastmodified":1684352268,
     "wof:name":"Holguera",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":637,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

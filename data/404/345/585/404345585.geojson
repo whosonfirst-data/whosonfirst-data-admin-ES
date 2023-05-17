@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47084",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mayorga",
+    "eurostat:nuts_2021_id":"47084",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47084",
+    "eurostat:population":1478,
+    "eurostat:population_year":2020,
     "geom:area":0.016414,
-    "geom:area_square_m":150424327.398805,
+    "geom:area_square_m":150424327.398802,
     "geom:bbox":"-5.38924658,42.05782704,-5.2007483,42.27414607",
     "geom:latitude":42.172589,
     "geom:longitude":-5.301131,
@@ -57,6 +69,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -65,6 +79,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_47084",
+        "eurostat:nuts_2021_id":"47084",
         "gn:id":6362211,
         "gp:id":12692985,
         "qs_pg:id":209715
@@ -73,7 +89,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"55ceec807796fe5916190c0bda296eda",
+    "wof:geomhash":"7f222f85614a45d927d1d411384ee118",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +100,12 @@
         }
     ],
     "wof:id":404345585,
-    "wof:lastmodified":1582361839,
+    "wof:lastmodified":1684352488,
     "wof:name":"Mayorga",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":1478,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

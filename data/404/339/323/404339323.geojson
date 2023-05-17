@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_30002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Abar\u00e1n",
+    "eurostat:nuts_2021_id":"30002",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES62",
+    "eurostat:nuts_2021_level_3":"ES620",
+    "eurostat:nuts_2021_level_lau":"30002",
+    "eurostat:population":13022,
+    "eurostat:population_year":2020,
     "geom:area":0.01183,
-    "geom:area_square_m":114868181.592354,
+    "geom:area_square_m":114868181.592355,
     "geom:bbox":"-1.46671111,38.17041047,-1.19728709,38.32005922",
     "geom:latitude":38.253429,
     "geom:longitude":-1.321333,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_30002",
+        "eurostat:nuts_2021_id":"30002",
         "gn:id":6359507,
         "gp:id":12688126,
         "qs_pg:id":1121117
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cd17f092ea16ffd47d7281ef5b5cff1e",
+    "wof:geomhash":"873003add1a0cdf8f29db854706fa78a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404339323,
-    "wof:lastmodified":1582361588,
+    "wof:lastmodified":1684352392,
     "wof:name":"Abar\u00e1n",
     "wof:parent_id":85682791,
     "wof:placetype":"localadmin",
+    "wof:population":13022,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

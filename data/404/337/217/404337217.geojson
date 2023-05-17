@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carrizo",
+    "eurostat:nuts_2021_id":"24039",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24039",
+    "eurostat:population":2224,
+    "eurostat:population_year":2020,
     "geom:area":0.00459,
-    "geom:area_square_m":41782347.945876,
+    "geom:area_square_m":41782347.945878,
     "geom:bbox":"-5.91234543,42.55021451,-5.77771035,42.62519898",
     "geom:latitude":42.587585,
     "geom:longitude":-5.846841,
@@ -57,6 +69,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -65,6 +79,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_24039",
+        "eurostat:nuts_2021_id":"24039",
         "gn:id":6358588,
         "gp:id":12691783,
         "qs_pg:id":213858
@@ -73,7 +89,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"735df30a0b18f6856e0683f7304f7334",
+    "wof:geomhash":"9548c858c9c2f75f2c46fb50af07b577",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +100,12 @@
         }
     ],
     "wof:id":404337217,
-    "wof:lastmodified":1582361554,
+    "wof:lastmodified":1684352350,
     "wof:name":"Carrizo",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":2224,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

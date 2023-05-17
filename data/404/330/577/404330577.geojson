@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06098",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Palomas",
+    "eurostat:nuts_2021_id":"06098",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06098",
+    "eurostat:population":671,
+    "eurostat:population_year":2020,
     "geom:area":0.004196,
-    "geom:area_square_m":40487042.30633,
+    "geom:area_square_m":40487042.306328,
     "geom:bbox":"-6.21580881,38.66483302,-6.10188487,38.74438814",
     "geom:latitude":38.704968,
     "geom:longitude":-6.154865,
@@ -54,6 +66,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -62,6 +76,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06098",
+        "eurostat:nuts_2021_id":"06098",
         "gn:id":6355963,
         "gp:id":12694417,
         "qs_pg:id":955133
@@ -70,7 +86,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"58f77e858cac13d41d10db27a97de390",
+    "wof:geomhash":"b43af1df04348db1e9595028e2b0eb11",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +97,12 @@
         }
     ],
     "wof:id":404330577,
-    "wof:lastmodified":1582361544,
+    "wof:lastmodified":1684352226,
     "wof:name":"Palomas",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":671,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

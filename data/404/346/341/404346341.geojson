@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49092",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Granucillo",
+    "eurostat:nuts_2021_id":"49092",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49092",
+    "eurostat:population":119,
+    "eurostat:population_year":2020,
     "geom:area":0.003532,
-    "geom:area_square_m":32430279.64781,
+    "geom:area_square_m":32430279.647812,
     "geom:bbox":"-5.96157711,42.01361857,-5.86933504,42.08231842",
     "geom:latitude":42.044583,
     "geom:longitude":-5.91793,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_49092",
+        "eurostat:nuts_2021_id":"49092",
         "gn:id":6362530,
         "gp:id":12693209,
         "qs_pg:id":442680
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"84a8e210249ca030fa77a2b9bb1ac8be",
+    "wof:geomhash":"fe845ff093568a8cc96bfe81f3005209",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404346341,
-    "wof:lastmodified":1582361612,
+    "wof:lastmodified":1684352498,
     "wof:name":"Granucillo",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":119,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

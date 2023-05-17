@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_21003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Almendro, El",
+    "eurostat:nuts_2021_id":"21003",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES615",
+    "eurostat:nuts_2021_level_lau":"21003",
+    "eurostat:population":840,
+    "eurostat:population_year":2020,
     "geom:area":0.017396,
-    "geom:area_square_m":170534166.279119,
+    "geom:area_square_m":170534166.279112,
     "geom:bbox":"-7.50197008,37.50046535,-7.16727601,37.62010991",
     "geom:latitude":37.551083,
     "geom:longitude":-7.341212,
@@ -57,6 +69,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -65,6 +79,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_21003",
+        "eurostat:nuts_2021_id":"21003",
         "gn:id":2518740,
         "gp:id":12689017,
         "qs_pg:id":1013005
@@ -73,7 +89,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fde5595957cea483705e7eb4134f02fd",
+    "wof:geomhash":"21a2fb666209315e7945cf1ce1e4441d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +100,12 @@
         }
     ],
     "wof:id":404336287,
-    "wof:lastmodified":1582361462,
+    "wof:lastmodified":1684352336,
     "wof:name":"El Almendro",
     "wof:parent_id":85682749,
     "wof:placetype":"localadmin",
+    "wof:population":840,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

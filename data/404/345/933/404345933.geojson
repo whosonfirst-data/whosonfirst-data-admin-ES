@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Barakaldo",
+    "eurostat:nuts_2021_id":"48013",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48013",
+    "eurostat:population":101486,
+    "eurostat:population_year":2020,
     "geom:area":0.003259,
     "geom:area_square_m":29342583.960365,
     "geom:bbox":"-3.04880347,43.2350838,-2.97060038,43.30521254",
@@ -168,6 +180,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -176,6 +190,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_48013",
+        "eurostat:nuts_2021_id":"48013",
         "gn:id":3128842,
         "gp:id":12695174,
         "qs_pg:id":1291048
@@ -184,7 +200,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f528b8eb92a7fef9b149c47c857ddcdc",
+    "wof:geomhash":"ccad4439953beef5008ceb6f21300e55",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -195,10 +211,12 @@
         }
     ],
     "wof:id":404345933,
-    "wof:lastmodified":1582361835,
+    "wof:lastmodified":1684352492,
     "wof:name":"Barakaldo",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":101486,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

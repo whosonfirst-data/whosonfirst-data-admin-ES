@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Albero Alto",
+    "eurostat:nuts_2021_id":"22011",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22011",
+    "eurostat:population":120,
+    "eurostat:population_year":2020,
     "geom:area":0.002097,
-    "geom:area_square_m":19250538.055008,
+    "geom:area_square_m":19250538.055009,
     "geom:bbox":"-0.37412643,42.02942001,-0.31085612,42.07467485",
     "geom:latitude":42.052692,
     "geom:longitude":-0.341974,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22011",
+        "eurostat:nuts_2021_id":"22011",
         "gn:id":6358264,
         "gp:id":12689405,
         "qs_pg:id":1259295
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7ad2bcea0c29dc3444bf464058b1b727",
+    "wof:geomhash":"f6fa94a0385e84426c36ab3d6de8481b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404336479,
-    "wof:lastmodified":1582361463,
+    "wof:lastmodified":1684352339,
     "wof:name":"Albero Alto",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":120,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alcolea del Pinar",
+    "eurostat:nuts_2021_id":"19011",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19011",
+    "eurostat:population":327,
+    "eurostat:population_year":2020,
     "geom:area":0.012131,
-    "geom:area_square_m":113207745.735236,
+    "geom:area_square_m":113207745.735235,
     "geom:bbox":"-2.56881701,40.90792353,-2.4168267,41.07814239",
     "geom:latitude":40.997599,
     "geom:longitude":-2.482728,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19011",
+        "eurostat:nuts_2021_id":"19011",
         "gn:id":6357816,
         "gp:id":12690646,
         "qs_pg:id":1023712
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a0b5007cae765296a10d25589aebf3f0",
+    "wof:geomhash":"23501b666c5f0ef566bdebcb51c3eca1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404335455,
-    "wof:lastmodified":1582361700,
+    "wof:lastmodified":1684352326,
     "wof:name":"Alcolea Del Pinar",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":327,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

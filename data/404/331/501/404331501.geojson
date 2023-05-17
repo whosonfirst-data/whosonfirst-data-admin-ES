@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8279,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08279",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Terrassa",
+    "eurostat:nuts_2021_id":"08279",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08279",
+    "eurostat:population":223627,
+    "eurostat:population_year":2020,
     "geom:area":0.007574,
-    "geom:area_square_m":70059397.009196,
+    "geom:area_square_m":70059385.922324,
     "geom:bbox":"1.943626,41.517003,2.068841,41.648832",
     "geom:latitude":41.575355,
     "geom:longitude":2.007907,
@@ -229,6 +241,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -237,7 +251,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08279",
         "esp-icgc:la_lc":"08279",
+        "eurostat:nuts_2021_id":"08279",
         "gn:id":6356298,
         "gp:id":12693655,
         "qs_pg:id":907091
@@ -247,7 +263,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c77d5b71678a363471d35368aff43b17",
+    "wof:geomhash":"054529fb2d18295376967c8c3b971504",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -258,10 +274,12 @@
         }
     ],
     "wof:id":404331501,
-    "wof:lastmodified":1669903006,
+    "wof:lastmodified":1684352254,
     "wof:name":"Terrassa",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":223627,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

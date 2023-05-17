@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50179",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Moyuela",
+    "eurostat:nuts_2021_id":"50179",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50179",
+    "eurostat:population":265,
+    "eurostat:population_year":2020,
     "geom:area":0.004587,
-    "geom:area_square_m":42706361.960987,
+    "geom:area_square_m":42706361.960988,
     "geom:bbox":"-0.97316425,41.10515611,-0.87053383,41.18923594",
     "geom:latitude":41.152536,
     "geom:longitude":-0.923682,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50179",
+        "eurostat:nuts_2021_id":"50179",
         "gn:id":6362866,
         "gp:id":12690006,
         "qs_pg:id":185468
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0544492fd1b99bbf931c998fffb7dde5",
+    "wof:geomhash":"bd0cf0a629bb11cfc352690d336614e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404347101,
-    "wof:lastmodified":1582361673,
+    "wof:lastmodified":1684352507,
     "wof:name":"Moyuela",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":265,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

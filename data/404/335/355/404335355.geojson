@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18170",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rubite",
+    "eurostat:nuts_2021_id":"18170",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18170",
+    "eurostat:population":382,
+    "eurostat:population_year":2020,
     "geom:area":0.002877,
     "geom:area_square_m":28493920.816381,
     "geom:bbox":"-3.37355149,36.7382054,-3.30495803,36.82223094",
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18170",
+        "eurostat:nuts_2021_id":"18170",
         "gn:id":6357773,
         "gp:id":12688988,
         "qs_pg:id":953580
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5dfb352dbd710cd39e7f2fa06ef5e0ac",
+    "wof:geomhash":"ee219ab50d31ed2eb54c30f35bfc11b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404335355,
-    "wof:lastmodified":1582361695,
+    "wof:lastmodified":1684352324,
     "wof:name":"Rubite",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":382,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

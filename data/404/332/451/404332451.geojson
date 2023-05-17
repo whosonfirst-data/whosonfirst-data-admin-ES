@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09451",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villanueva de Gumiel",
+    "eurostat:nuts_2021_id":"09451",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09451",
+    "eurostat:population":273,
+    "eurostat:population_year":2020,
     "geom:area":0.002417,
-    "geom:area_square_m":22298488.329275,
+    "geom:area_square_m":22298488.329276,
     "geom:bbox":"-3.66101849,41.71504779,-3.58942753,41.77054979",
     "geom:latitude":41.741805,
     "geom:longitude":-3.630053,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09451",
+        "eurostat:nuts_2021_id":"09451",
         "gn:id":6356673,
         "gp:id":12691725,
         "qs_pg:id":497106
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7a283eef076059724b90463c9775bc36",
+    "wof:geomhash":"2ab9723159be1fe87d754bccc052ccd1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332451,
-    "wof:lastmodified":1582361689,
+    "wof:lastmodified":1684352264,
     "wof:name":"Villanueva De Gumiel",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":273,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44090",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cucal\u00f3n",
+    "eurostat:nuts_2021_id":"44090",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44090",
+    "eurostat:population":78,
+    "eurostat:population_year":2020,
     "geom:area":0.003421,
-    "geom:area_square_m":31886493.687694,
+    "geom:area_square_m":31886493.687693,
     "geom:bbox":"-1.2568524,41.05053154,-1.14453141,41.10431241",
     "geom:latitude":41.079035,
     "geom:longitude":-1.191523,
@@ -33,6 +45,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -41,6 +55,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44090",
+        "eurostat:nuts_2021_id":"44090",
         "gn:id":6361505,
         "gp:id":12689676,
         "qs_pg:id":44724
@@ -49,7 +65,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b688caf49d370fee9ce2955961069d9f",
+    "wof:geomhash":"548b81894c83f388b6b21e121ef8aa17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +76,12 @@
         }
     ],
     "wof:id":404343985,
-    "wof:lastmodified":1582361876,
+    "wof:lastmodified":1684352468,
     "wof:name":"Cucal\u00f3n",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":78,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

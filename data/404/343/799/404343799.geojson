@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43904,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43904",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aldea, L'",
+    "eurostat:nuts_2021_id":"43904",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43904",
+    "eurostat:population":4147,
+    "eurostat:population_year":2020,
     "geom:area":0.00376,
-    "geom:area_square_m":35225824.076336,
+    "geom:area_square_m":35225796.535023,
     "geom:bbox":"0.572878,40.707524,0.654261,40.807905",
     "geom:latitude":40.750189,
     "geom:longitude":0.615074,
@@ -129,6 +141,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -137,13 +151,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"043904"
+        "eg:gisco_id":"ES_43904",
+        "esp-icgc:la_lc":"043904",
+        "eurostat:nuts_2021_id":"43904"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5a9c0fb20f9226b79c4ee8c1142fc0d6",
+    "wof:geomhash":"a01213bdc21f11914e86c7f8f9ee4cbe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,10 +170,12 @@
         }
     ],
     "wof:id":404343799,
-    "wof:lastmodified":1669903060,
+    "wof:lastmodified":1684352465,
     "wof:name":"L'Aldea",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":4147,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

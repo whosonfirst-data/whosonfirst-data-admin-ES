@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06071",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lapa, La",
+    "eurostat:nuts_2021_id":"06071",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06071",
+    "eurostat:population":279,
+    "eurostat:population_year":2020,
     "geom:area":0.000836,
-    "geom:area_square_m":8097107.27581,
+    "geom:area_square_m":8097107.275808,
     "geom:bbox":"-6.5425075,38.43524786,-6.49924184,38.47619376",
     "geom:latitude":38.456536,
     "geom:longitude":-6.522308,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06071",
+        "eurostat:nuts_2021_id":"06071",
         "gn:id":6355936,
         "gp:id":12694390,
         "qs_pg:id":621555
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1dca29c842b8d2dccf8a385558c54473",
+    "wof:geomhash":"7e9110aa317872d0147297434d6a5f9f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404330515,
-    "wof:lastmodified":1582361545,
+    "wof:lastmodified":1684352225,
     "wof:name":"La Lapa",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":279,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

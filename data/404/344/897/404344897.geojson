@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ayora",
+    "eurostat:nuts_2021_id":"46044",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46044",
+    "eurostat:population":5283,
+    "eurostat:population_year":2020,
     "geom:area":0.046449,
     "geom:area_square_m":446232672.57839,
     "geom:bbox":"-1.26675047,38.92758917,-0.87837727,39.13368651",
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46044",
+        "eurostat:nuts_2021_id":"46044",
         "gn:id":6361909,
         "gp:id":12695585,
         "qs_pg:id":1000261
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e8fe166a2fed92353ba4e418f638f583",
+    "wof:geomhash":"6fa824baec572800b532aee7104dc069",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404344897,
-    "wof:lastmodified":1582361858,
+    "wof:lastmodified":1684352480,
     "wof:name":"Ayora",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":5283,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

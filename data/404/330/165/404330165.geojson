@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05181",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pascualcobo",
+    "eurostat:nuts_2021_id":"05181",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05181",
+    "eurostat:population":43,
+    "eurostat:population_year":2020,
     "geom:area":0.001719,
     "geom:area_square_m":16123790.345963,
     "geom:bbox":"-5.30099208,40.61357461,-5.23229449,40.67150127",
@@ -105,6 +117,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -112,9 +126,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_05181",
+        "eurostat:nuts_2021_id":"05181"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"1b28c51c9f7b40bf74c553b448b6a141",
+    "wof:geomhash":"0b709bf7f1ff5d4963e0641a7b48622c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +142,12 @@
         }
     ],
     "wof:id":404330165,
-    "wof:lastmodified":1566589912,
+    "wof:lastmodified":1684352220,
     "wof:name":"Pascualcobo",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":43,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

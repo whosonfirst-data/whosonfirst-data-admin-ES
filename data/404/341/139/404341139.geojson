@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aldeanueva de Figueroa",
+    "eurostat:nuts_2021_id":"37017",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37017",
+    "eurostat:population":250,
+    "eurostat:population_year":2020,
     "geom:area":0.00597,
     "geom:area_square_m":55567580.868027,
     "geom:bbox":"-5.59429834,41.12646272,-5.47009092,41.21715077",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37017",
+        "eurostat:nuts_2021_id":"37017",
         "gn:id":6360275,
         "gp:id":12692166,
         "qs_pg:id":1188556
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"21e152fa788217ece52890be1a05acbf",
+    "wof:geomhash":"a9350b931f98d8e1f12fe7bee73ed54e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404341139,
-    "wof:lastmodified":1582361635,
+    "wof:lastmodified":1684352421,
     "wof:name":"Aldeanueva De Figueroa",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":250,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

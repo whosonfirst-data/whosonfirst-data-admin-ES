@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alcal\u00e1 del Obispo",
+    "eurostat:nuts_2021_id":"22015",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22015",
+    "eurostat:population":298,
+    "eurostat:population_year":2020,
     "geom:area":0.005206,
-    "geom:area_square_m":47775435.767308,
+    "geom:area_square_m":47775435.767307,
     "geom:bbox":"-0.3286784,42.04196518,-0.2209869,42.11715107",
     "geom:latitude":42.082052,
     "geom:longitude":-0.275131,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22015",
+        "eurostat:nuts_2021_id":"22015",
         "gn:id":6358268,
         "gp:id":12689409,
         "qs_pg:id":496875
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b78439d26c2c6abad78553c5df2b097f",
+    "wof:geomhash":"10d994798609e7f0c2b47f7b31f9a289",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404336487,
-    "wof:lastmodified":1582361473,
+    "wof:lastmodified":1684352339,
     "wof:name":"Alcal\u00e1 Del Obispo",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":298,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12117",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torreblanca",
+    "eurostat:nuts_2021_id":"12117",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12117",
+    "eurostat:population":5574,
+    "eurostat:population_year":2020,
     "geom:area":0.003154,
-    "geom:area_square_m":29783009.15249,
+    "geom:area_square_m":29783009.152492,
     "geom:bbox":"0.15475904,40.18078851,0.25549167,40.23582025",
     "geom:latitude":40.209827,
     "geom:longitude":0.201496,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12117",
+        "eurostat:nuts_2021_id":"12117",
         "gn:id":6357067,
         "gp:id":12695518,
         "qs_pg:id":1095457
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b464901f29b4df4c26fc1d30fec12c8e",
+    "wof:geomhash":"23c788673e722c795eb3d1379768fe2d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404333349,
-    "wof:lastmodified":1582361770,
+    "wof:lastmodified":1684352277,
     "wof:name":"Torreblanca",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":5574,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

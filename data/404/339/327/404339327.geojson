@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_30004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Albudeite",
+    "eurostat:nuts_2021_id":"30004",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES62",
+    "eurostat:nuts_2021_level_3":"ES620",
+    "eurostat:nuts_2021_level_lau":"30004",
+    "eurostat:population":1375,
+    "eurostat:population_year":2020,
     "geom:area":0.001747,
-    "geom:area_square_m":17012415.87425,
+    "geom:area_square_m":17012415.874249,
     "geom:bbox":"-1.40475685,38.00051224,-1.35451158,38.0541739",
     "geom:latitude":38.02962,
     "geom:longitude":-1.382646,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_30004",
+        "eurostat:nuts_2021_id":"30004",
         "gn:id":6359509,
         "gp:id":12688128,
         "qs_pg:id":44518
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"650892643dfda36905de480c7f2fcdb2",
+    "wof:geomhash":"d503170861fb42386a384221798a5a10",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404339327,
-    "wof:lastmodified":1582361596,
+    "wof:lastmodified":1684352392,
     "wof:name":"Albudeite",
     "wof:parent_id":85682791,
     "wof:placetype":"localadmin",
+    "wof:population":1375,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8151,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08151",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Orist\u00e0",
+    "eurostat:nuts_2021_id":"08151",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08151",
+    "eurostat:population":549,
+    "eurostat:population_year":2020,
     "geom:area":0.007453,
-    "geom:area_square_m":68538372.072987,
+    "geom:area_square_m":68538339.37141,
     "geom:bbox":"1.985588,41.897517,2.1396,41.996364",
     "geom:latitude":41.948927,
     "geom:longitude":2.070133,
@@ -127,6 +139,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -135,7 +149,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08151",
         "esp-icgc:la_lc":"08151",
+        "eurostat:nuts_2021_id":"08151",
         "gn:id":6356179,
         "gp:id":12693531,
         "qs_pg:id":955114
@@ -145,7 +161,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b2c29bfe05a9cf40cd5bec91ef56f27e",
+    "wof:geomhash":"42138013b40a98fa22558dcdf79c87ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404331217,
-    "wof:lastmodified":1669903000,
+    "wof:lastmodified":1684352245,
     "wof:name":"Orist\u00e0",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":549,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

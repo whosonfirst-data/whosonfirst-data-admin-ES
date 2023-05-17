@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_38035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Miguel de Abona",
+    "eurostat:nuts_2021_id":"38035",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES7",
+    "eurostat:nuts_2021_level_2":"ES70",
+    "eurostat:nuts_2021_level_3":"ES709",
+    "eurostat:nuts_2021_level_lau":"38035",
+    "eurostat:population":21621,
+    "eurostat:population_year":2020,
     "geom:area":0.003859,
-    "geom:area_square_m":42105184.877625,
+    "geom:area_square_m":42105184.877641,
     "geom:bbox":"-16.64296881,28.00829071,-16.59724081,28.13419018",
     "geom:latitude":28.070578,
     "geom:longitude":-16.622101,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_38035",
+        "eurostat:nuts_2021_id":"38035",
         "gp:id":12690193,
         "qs_pg:id":1306812
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3f3cf27fcc97e580b0ee5a670936d51e",
+    "wof:geomhash":"3aa9643e0a5ffe409864bf77ec71c154",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404341995,
-    "wof:lastmodified":1582361633,
+    "wof:lastmodified":1684352433,
     "wof:name":"San Miguel De Abona",
     "wof:parent_id":85682831,
     "wof:placetype":"localadmin",
+    "wof:population":21621,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

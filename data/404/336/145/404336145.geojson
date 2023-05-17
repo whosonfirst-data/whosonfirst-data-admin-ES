@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_20028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zizurkil",
+    "eurostat:nuts_2021_id":"20028",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES212",
+    "eurostat:nuts_2021_level_lau":"20028",
+    "eurostat:population":3025,
+    "eurostat:population_year":2020,
     "geom:area":0.001729,
     "geom:area_square_m":15584085.575041,
     "geom:bbox":"-2.10889053,43.18059,-2.05066166,43.24588882",
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_20028",
+        "eurostat:nuts_2021_id":"20028",
         "gn:id":6358118,
         "gp:id":12695152,
         "qs_pg:id":903847
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8052a957ffef502f445cbc4c65748a5a",
+    "wof:geomhash":"3e4b3969f3499dde8e61845bae1c56cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404336145,
-    "wof:lastmodified":1582361466,
+    "wof:lastmodified":1684352334,
     "wof:name":"Zizurkil",
     "wof:parent_id":85682741,
     "wof:placetype":"localadmin",
+    "wof:population":3025,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

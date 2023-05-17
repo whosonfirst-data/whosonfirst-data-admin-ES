@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8251,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08251",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Margarida i els Monjos",
+    "eurostat:nuts_2021_id":"08251",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08251",
+    "eurostat:population":7676,
+    "eurostat:population_year":2020,
     "geom:area":0.001876,
-    "geom:area_square_m":17427632.332518,
+    "geom:area_square_m":17427709.441708,
     "geom:bbox":"1.638072,41.284897,1.692573,41.34589",
     "geom:latitude":41.311666,
     "geom:longitude":1.664096,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08251",
         "esp-icgc:la_lc":"08251",
+        "eurostat:nuts_2021_id":"08251",
         "gn:id":6356272,
         "gp:id":12693631,
         "qs_pg:id":1163623
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"913c526de85a7da6368631d49ea46282",
+    "wof:geomhash":"9f64773e564e96c7cce66631203d9975",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404331439,
-    "wof:lastmodified":1669903001,
+    "wof:lastmodified":1684352251,
     "wof:name":"Santa Margarida i els Monjos",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":7676,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

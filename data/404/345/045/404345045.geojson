@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46109",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cheste",
+    "eurostat:nuts_2021_id":"46109",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46109",
+    "eurostat:population":8735,
+    "eurostat:population_year":2020,
     "geom:area":0.007482,
-    "geom:area_square_m":71381273.6209,
+    "geom:area_square_m":71381273.620899,
     "geom:bbox":"-0.79528744,39.47103317,-0.58859769,39.55630264",
     "geom:latitude":39.508569,
     "geom:longitude":-0.677552,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46109",
+        "eurostat:nuts_2021_id":"46109",
         "gn:id":6361974,
         "gp:id":12695642,
         "qs_pg:id":191383
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7792af63579095360ab17239ff1192e7",
+    "wof:geomhash":"4245e6d5b42cb5d6a4e1929a6dc7bccf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404345045,
-    "wof:lastmodified":1582361835,
+    "wof:lastmodified":1684352481,
     "wof:name":"Cheste",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":8735,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

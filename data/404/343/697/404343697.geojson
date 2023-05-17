@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43136,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43136",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Carles de la R\u00e0pita",
+    "eurostat:nuts_2021_id":"43136",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43136",
+    "eurostat:population":14953,
+    "eurostat:population_year":2020,
     "geom:area":0.005654,
-    "geom:area_square_m":53078812.006083,
+    "geom:area_square_m":53078996.830451,
     "geom:bbox":"0.533611,40.551093,0.750025,40.653736",
     "geom:latitude":40.603493,
     "geom:longitude":0.624891,
@@ -68,6 +80,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -76,7 +90,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43136",
         "esp-icgc:la_lc":"043136",
+        "eurostat:nuts_2021_id":"43136",
         "gn:id":6361378,
         "gp:id":12694274,
         "qs_pg:id":1059732
@@ -86,7 +102,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c8f103761a031d07be320b2bbd414b7d",
+    "wof:geomhash":"05d21f99de94a8f238377ac76eb88835",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,10 +113,12 @@
         }
     ],
     "wof:id":404343697,
-    "wof:lastmodified":1669903069,
+    "wof:lastmodified":1684352460,
     "wof:name":"Sant Carles de la R\u00e0pita",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":14953,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

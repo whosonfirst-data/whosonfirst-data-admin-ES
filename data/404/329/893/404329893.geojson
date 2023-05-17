@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05052",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casas del Puerto",
+    "eurostat:nuts_2021_id":"05052",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05052",
+    "eurostat:population":85,
+    "eurostat:population_year":2020,
     "geom:area":0.002353,
-    "geom:area_square_m":22116456.500358,
+    "geom:area_square_m":22116456.500359,
     "geom:bbox":"-5.2379393,40.50271057,-5.10673243,40.5526403",
     "geom:latitude":40.525526,
     "geom:longitude":-5.179035,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05052",
+        "eurostat:nuts_2021_id":"05052",
         "gn:id":6355660,
         "qs_pg:id":1037074
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7316ac6b2672954d227d9ee63e840e93",
+    "wof:geomhash":"742b688a0fa48966284bb64da58c67b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404329893,
-    "wof:lastmodified":1582361792,
+    "wof:lastmodified":1684352217,
     "wof:name":"Casas Del Puerto",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":85,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43127,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43127",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Riudecanyes",
+    "eurostat:nuts_2021_id":"43127",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43127",
+    "eurostat:population":1146,
+    "eurostat:population_year":2020,
     "geom:area":0.001828,
-    "geom:area_square_m":17025534.012042,
+    "geom:area_square_m":17025590.429325,
     "geom:bbox":"0.911856,41.110671,0.990706,41.159176",
     "geom:latitude":41.135538,
     "geom:longitude":0.958173,
@@ -118,6 +130,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -126,7 +140,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43127",
         "esp-icgc:la_lc":"043127",
+        "eurostat:nuts_2021_id":"43127",
         "gn:id":6361369,
         "gp:id":12694264,
         "qs_pg:id":1252343
@@ -136,7 +152,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fe9a345998482cd30ef6239aed71cd16",
+    "wof:geomhash":"cc87e8aac3df2a929dff4d6a89c99036",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404343677,
-    "wof:lastmodified":1669903068,
+    "wof:lastmodified":1684352460,
     "wof:name":"Riudecanyes",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":1146,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

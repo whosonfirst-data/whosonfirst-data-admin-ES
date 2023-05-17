@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03080",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jacarilla",
+    "eurostat:nuts_2021_id":"03080",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03080",
+    "eurostat:population":1998,
+    "eurostat:population_year":2020,
     "geom:area":0.001253,
     "geom:area_square_m":12197563.509373,
     "geom:bbox":"-0.88182579,38.0198139,-0.82513166,38.07495436",
@@ -96,6 +108,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -103,9 +117,12 @@
         404227381
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_03080",
+        "eurostat:nuts_2021_id":"03080"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"ecdd1eb896538780b4042bd050304362",
+    "wof:geomhash":"bc57f01e5643778535e0ddd65c8587a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +133,12 @@
         }
     ],
     "wof:id":404329431,
-    "wof:lastmodified":1566590862,
+    "wof:lastmodified":1684352209,
     "wof:name":"Jacarilla",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":1998,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22074",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campo",
+    "eurostat:nuts_2021_id":"22074",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22074",
+    "eurostat:population":436,
+    "eurostat:population_year":2020,
     "geom:area":0.0025,
     "geom:area_square_m":22820392.866936,
     "geom:bbox":"0.36783265,42.39267298,0.42611257,42.46580242",
@@ -87,6 +99,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -95,6 +109,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22074",
+        "eurostat:nuts_2021_id":"22074",
         "gn:id":6362993,
         "gp:id":12689457,
         "qs_pg:id":209585
@@ -103,7 +119,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c97e86fb22b81a6fe35836b8d0ca8cfb",
+    "wof:geomhash":"39d3047f1a0afbe4a36f5aa68555467e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,10 +130,12 @@
         }
     ],
     "wof:id":404336597,
-    "wof:lastmodified":1582361469,
+    "wof:lastmodified":1684352341,
     "wof:name":"Campo",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":436,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

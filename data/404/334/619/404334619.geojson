@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":17030,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cabanes",
+    "eurostat:nuts_2021_id":"17030",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17030",
+    "eurostat:population":968,
+    "eurostat:population_year":2020,
     "geom:area":0.001638,
     "geom:area_square_m":14980896.359587,
     "geom:bbox":"2.94188456149,42.2769625604,2.99629178881,42.3323241057",
@@ -103,6 +115,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -111,7 +125,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17030",
         "esp-icgc:la_lc":"017030",
+        "eurostat:nuts_2021_id":"17030",
         "gn:id":6534027,
         "gp:id":12693714,
         "qs_pg:id":47419
@@ -121,7 +137,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"ff7415dd49b1a03616b605c14db1d63f",
+    "wof:geomhash":"cd79b44d8a4f54885c574c5f48447dfe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404334619,
-    "wof:lastmodified":1582361723,
+    "wof:lastmodified":1684352301,
     "wof:name":"Cabanes",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":968,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

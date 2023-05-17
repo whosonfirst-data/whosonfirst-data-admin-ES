@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43082,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43082",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Masroig, El",
+    "eurostat:nuts_2021_id":"43082",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43082",
+    "eurostat:population":492,
+    "eurostat:population_year":2020,
     "geom:area":0.001666,
-    "geom:area_square_m":15514084.988184,
+    "geom:area_square_m":15514084.988185,
     "geom:bbox":"0.69239215,41.1156921221,0.761481992225,41.1560794223",
     "geom:latitude":41.132083,
     "geom:longitude":0.732368,
@@ -112,6 +124,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -120,7 +134,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43082",
         "esp-icgc:la_lc":"043082",
+        "eurostat:nuts_2021_id":"43082",
         "gn:id":6361325,
         "gp:id":12694220,
         "qs_pg:id":955125
@@ -130,7 +146,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"8a0920957663387f480f608bfa3aaa02",
+    "wof:geomhash":"887b172cceeafd2bbd259dbadbb5f6d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404343577,
-    "wof:lastmodified":1582361895,
+    "wof:lastmodified":1684352457,
     "wof:name":"El Masroig",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":492,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
