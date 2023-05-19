@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31176",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Murchante",
+    "eurostat:nuts_2021_id":"31176",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31176",
+    "eurostat:population":4131,
+    "eurostat:population_year":2020,
     "geom:area":0.001437,
-    "geom:area_square_m":13197704.994904,
+    "geom:area_square_m":13197704.994903,
     "geom:bbox":"-1.6917127,42.01846865,-1.64357625,42.07120367",
     "geom:latitude":42.044165,
     "geom:longitude":-1.669397,
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31176",
+        "eurostat:nuts_2021_id":"31176",
         "gn:id":6359724,
         "gp:id":12688354,
         "qs_pg:id":1016824
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"143028279b628f65d1efc1c7194249da",
+    "wof:geomhash":"c452d00db2e28afc486cc193ae6401d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404339853,
-    "wof:lastmodified":1582361595,
+    "wof:lastmodified":1684352399,
     "wof:name":"Murchante",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":4131,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

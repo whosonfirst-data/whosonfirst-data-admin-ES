@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24134",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Robla, La",
+    "eurostat:nuts_2021_id":"24134",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24134",
+    "eurostat:population":3752,
+    "eurostat:population_year":2020,
     "geom:area":0.009378,
     "geom:area_square_m":85082724.053636,
     "geom:bbox":"-5.71611175,42.76542114,-5.5255827,42.84183451",
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_24134",
+        "eurostat:nuts_2021_id":"24134",
         "gn:id":6358673,
         "gp:id":12691871,
         "qs_pg:id":621735
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8f5f53619de03220484e2eeb1c81a5cb",
+    "wof:geomhash":"cb7bd4be384f682dd720d2bfcd03bdce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404337417,
-    "wof:lastmodified":1582361568,
+    "wof:lastmodified":1684352352,
     "wof:name":"La Robla",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":3752,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

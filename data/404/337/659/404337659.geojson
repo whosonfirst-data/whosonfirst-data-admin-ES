@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25020,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Almatret",
+    "eurostat:nuts_2021_id":"25020",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25020",
+    "eurostat:population":305,
+    "eurostat:population_year":2020,
     "geom:area":0.006067,
-    "geom:area_square_m":56344126.767916,
+    "geom:area_square_m":56344126.767918,
     "geom:bbox":"0.348556877518,41.2742123194,0.465501496792,41.3616206614",
     "geom:latitude":41.321005,
     "geom:longitude":0.406676,
@@ -112,6 +124,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -120,7 +134,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25020",
         "esp-icgc:la_lc":"025020",
+        "eurostat:nuts_2021_id":"25020",
         "gn:id":6358779,
         "gp:id":12693926,
         "qs_pg:id":1158749
@@ -130,7 +146,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"1364345337d79f660e4795f0046d92c6",
+    "wof:geomhash":"86b436686675ef62e01acdcbcbdbd53c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404337659,
-    "wof:lastmodified":1582361559,
+    "wof:lastmodified":1684352355,
     "wof:name":"Almatret",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":305,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

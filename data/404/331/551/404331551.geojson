@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8301,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08301",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Viladecans",
+    "eurostat:nuts_2021_id":"08301",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08301",
+    "eurostat:population":67197,
+    "eurostat:population_year":2020,
     "geom:area":0.002206,
-    "geom:area_square_m":20488216.389661,
+    "geom:area_square_m":20488216.38966,
     "geom:bbox":"1.98823461623,41.2702459792,2.07466854622,41.3377377903",
     "geom:latitude":41.302615,
     "geom:longitude":2.032092,
@@ -159,6 +171,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -167,13 +181,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"08301"
+        "eg:gisco_id":"ES_08301",
+        "esp-icgc:la_lc":"08301",
+        "eurostat:nuts_2021_id":"08301"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0a5d2404e932facca2bf375cf78a77c1",
+    "wof:geomhash":"bfb4b2084d24b10d7bc09766118feb09",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -184,10 +200,12 @@
         }
     ],
     "wof:id":404331551,
-    "wof:lastmodified":1582361481,
+    "wof:lastmodified":1684352255,
     "wof:name":"Viladecans",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":67197,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":25055,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25055",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Biosca",
+    "eurostat:nuts_2021_id":"25055",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25055",
+    "eurostat:population":177,
+    "eurostat:population_year":2020,
     "geom:area":0.007164,
     "geom:area_square_m":65960288.959963,
     "geom:bbox":"1.32019517478,41.8142383177,1.43049716179,41.9277231135",
@@ -109,6 +121,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -117,7 +131,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25055",
         "esp-icgc:la_lc":"025055",
+        "eurostat:nuts_2021_id":"25055",
         "gn:id":6358811,
         "gp:id":12693955,
         "qs_pg:id":1189080
@@ -127,7 +143,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"70c7ec0e61623deff9a17865fae1e08a",
+    "wof:geomhash":"4cf47b29ac3607e3be168291f6ebd8a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404337733,
-    "wof:lastmodified":1582361565,
+    "wof:lastmodified":1684352358,
     "wof:name":"Biosca",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":177,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

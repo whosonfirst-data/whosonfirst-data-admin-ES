@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17046,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castellfollit de la Roca",
+    "eurostat:nuts_2021_id":"17046",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17046",
+    "eurostat:population":947,
+    "eurostat:population_year":2020,
     "geom:area":0.000079,
-    "geom:area_square_m":725335.825932,
+    "geom:area_square_m":725327.871534,
     "geom:bbox":"2.531062,42.213423,2.555964,42.222598",
     "geom:latitude":42.21869,
     "geom:longitude":2.543115,
@@ -68,6 +80,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -76,7 +90,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17046",
         "esp-icgc:la_lc":"017046",
+        "eurostat:nuts_2021_id":"17046",
         "gn:id":6534039,
         "gp:id":12693728,
         "qs_pg:id":896358
@@ -86,7 +102,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"f34e868e03640ebe8e07a1b4125a0df3",
+    "wof:geomhash":"7af94e6de3b74334ac886c03f85b1015",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,10 +113,12 @@
         }
     ],
     "wof:id":404334653,
-    "wof:lastmodified":1669903053,
+    "wof:lastmodified":1684352304,
     "wof:name":"Castellfollit de la Roca",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":947,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

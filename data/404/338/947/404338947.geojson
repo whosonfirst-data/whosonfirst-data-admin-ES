@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28120",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rascafr\u00eda",
+    "eurostat:nuts_2021_id":"28120",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28120",
+    "eurostat:population":1725,
+    "eurostat:population_year":2020,
     "geom:area":0.01595,
-    "geom:area_square_m":149154706.583619,
+    "geom:area_square_m":149154706.583626,
     "geom:bbox":"-3.97995879,40.78741827,-3.79817225,40.9588334",
     "geom:latitude":40.86398,
     "geom:longitude":-3.895591,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28120",
+        "eurostat:nuts_2021_id":"28120",
         "gn:id":6359341,
         "gp:id":12688062,
         "qs_pg:id":1197588
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4d93e5cee40f775fb2a0c52d0c0763ec",
+    "wof:geomhash":"beef4d5a8baae24b5a1635a50e1e4ffb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404338947,
-    "wof:lastmodified":1582361442,
+    "wof:lastmodified":1684352385,
     "wof:name":"Rascafr\u00eda",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":1725,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

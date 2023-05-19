@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10166",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Cruz de la Sierra",
+    "eurostat:nuts_2021_id":"10166",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10166",
+    "eurostat:population":326,
+    "eurostat:population_year":2020,
     "geom:area":0.004659,
-    "geom:area_square_m":44556830.371049,
+    "geom:area_square_m":44556830.37105,
     "geom:bbox":"-5.89672032,39.29921518,-5.77885193,39.38137208",
     "geom:latitude":39.340935,
     "geom:longitude":-5.837061,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10166",
+        "eurostat:nuts_2021_id":"10166",
         "gn:id":6356861,
         "gp:id":12694648,
         "qs_pg:id":1019411
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"be156af4419d6ff1e9dcd210f17c2a37",
+    "wof:geomhash":"6750bcd33be437f9cd658217243d02d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332881,
-    "wof:lastmodified":1582361680,
+    "wof:lastmodified":1684352270,
     "wof:name":"Santa Cruz De La Sierra",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":326,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_34201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vertavillo",
+    "eurostat:nuts_2021_id":"34201",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES414",
+    "eurostat:nuts_2021_level_lau":"34201",
+    "eurostat:population":176,
+    "eurostat:population_year":2020,
     "geom:area":0.006215,
-    "geom:area_square_m":57275321.012455,
+    "geom:area_square_m":57275321.012458,
     "geom:bbox":"-4.37421979,41.77456465,-4.23033953,41.8678473",
     "geom:latitude":41.818113,
     "geom:longitude":-4.3066,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_34201",
+        "eurostat:nuts_2021_id":"34201",
         "gn:id":6360130,
         "gp:id":12692112,
         "qs_pg:id":1196623
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"db9ac25305cc97cd33151d6e8f9d4eaa",
+    "wof:geomhash":"c65fc23e72ff66db7d7edb7c73ce2dc0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404340793,
-    "wof:lastmodified":1582361658,
+    "wof:lastmodified":1684352412,
     "wof:name":"Vertavillo",
     "wof:parent_id":85682815,
     "wof:placetype":"localadmin",
+    "wof:population":176,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

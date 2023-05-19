@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31139",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lana",
+    "eurostat:nuts_2021_id":"31139",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31139",
+    "eurostat:population":163,
+    "eurostat:population_year":2020,
     "geom:area":0.004553,
     "geom:area_square_m":41365756.103442,
     "geom:bbox":"-2.31976374,42.68073614,-2.19442992,42.74342572",
@@ -84,6 +96,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -91,9 +105,12 @@
         404227391
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_31139",
+        "eurostat:nuts_2021_id":"31139"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"71733999b5372bf95c3fef14c096ec54",
+    "wof:geomhash":"a5b113458e64c310fa4445855536bcc4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +121,12 @@
         }
     ],
     "wof:id":404339767,
-    "wof:lastmodified":1566590112,
+    "wof:lastmodified":1684352398,
     "wof:name":"Lana",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":163,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

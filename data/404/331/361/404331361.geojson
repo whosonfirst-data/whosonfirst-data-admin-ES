@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8217,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08217",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Joan Desp\u00ed",
+    "eurostat:nuts_2021_id":"08217",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08217",
+    "eurostat:population":34267,
+    "eurostat:population_year":2020,
     "geom:area":0.00067,
-    "geom:area_square_m":6219080.897322,
+    "geom:area_square_m":6218998.859407,
     "geom:bbox":"2.035646,41.34751,2.079052,41.379544",
     "geom:latitude":41.366197,
     "geom:longitude":2.055167,
@@ -154,6 +166,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -162,7 +176,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08217",
         "esp-icgc:la_lc":"08217",
+        "eurostat:nuts_2021_id":"08217",
         "gn:id":6356239,
         "gp:id":12693594,
         "qs_pg:id":238813
@@ -172,7 +188,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"95b5e90c636c5c7bab3bbc2d41613873",
+    "wof:geomhash":"487d0d645408f562871c824094e428ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -183,10 +199,12 @@
         }
     ],
     "wof:id":404331361,
-    "wof:lastmodified":1669903005,
+    "wof:lastmodified":1684352249,
     "wof:name":"Sant Joan Desp\u00ed",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":34267,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42165",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Pedro Manrique",
+    "eurostat:nuts_2021_id":"42165",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42165",
+    "eurostat:population":623,
+    "eurostat:population_year":2020,
     "geom:area":0.019158,
     "geom:area_square_m":175942817.074049,
     "geom:bbox":"-2.32805418,41.96025204,-2.10763214,42.10527004",
@@ -174,6 +186,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -182,6 +196,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42165",
+        "eurostat:nuts_2021_id":"42165",
         "gn:id":6361198,
         "gp:id":12692857,
         "qs_pg:id":1311084
@@ -190,7 +206,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"988e23500c4d719cffddd471fe813caa",
+    "wof:geomhash":"6f5009ba7e1c3e2c3cb4113bfea7f4f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -201,10 +217,12 @@
         }
     ],
     "wof:id":404343291,
-    "wof:lastmodified":1582361891,
+    "wof:lastmodified":1684352449,
     "wof:name":"San Pedro Manrique",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":623,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

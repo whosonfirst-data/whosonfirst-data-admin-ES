@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19070",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casa de Uceda",
+    "eurostat:nuts_2021_id":"19070",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19070",
+    "eurostat:population":91,
+    "eurostat:population_year":2020,
     "geom:area":0.002283,
     "geom:area_square_m":21353471.440764,
     "geom:bbox":"-3.39874775,40.82070265,-3.33026691,40.87107761",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19070",
+        "eurostat:nuts_2021_id":"19070",
         "gn:id":6357862,
         "gp:id":12690692,
         "qs_pg:id":1147166
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"600879b47f19880d53216f12f3260b11",
+    "wof:geomhash":"63de02b2ba79a6e9ce15f5f6df078287",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404335559,
-    "wof:lastmodified":1582361695,
+    "wof:lastmodified":1684352327,
     "wof:name":"Casa De Uceda",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":91,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

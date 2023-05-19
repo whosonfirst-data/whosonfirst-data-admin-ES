@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12065",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gaibiel",
+    "eurostat:nuts_2021_id":"12065",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12065",
+    "eurostat:population":181,
+    "eurostat:population_year":2020,
     "geom:area":0.001905,
     "geom:area_square_m":18060751.456905,
     "geom:bbox":"-0.52526655,39.89701578,-0.46940896,39.95831731",
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12065",
+        "eurostat:nuts_2021_id":"12065",
         "gn:id":6357017,
         "gp:id":12695465,
         "qs_pg:id":892251
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9795b504a1c9d04ea3d6a70bd2da44d2",
+    "wof:geomhash":"32259f2b2473c73ce1349ec122953352",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404333237,
-    "wof:lastmodified":1582361781,
+    "wof:lastmodified":1684352276,
     "wof:name":"Gaibiel",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":181,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

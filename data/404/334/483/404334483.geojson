@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16249",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villamayor de Santiago",
+    "eurostat:nuts_2021_id":"16249",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16249",
+    "eurostat:population":2521,
+    "eurostat:population_year":2020,
     "geom:area":0.019033,
-    "geom:area_square_m":180997786.831261,
+    "geom:area_square_m":180997786.831263,
     "geom:bbox":"-3.02089948,39.63980499,-2.83597343,39.80752283",
     "geom:latitude":39.727921,
     "geom:longitude":-2.917267,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227375
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_16249",
+        "eurostat:nuts_2021_id":"16249"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"bc6549a7b54bfa0266e2d10d44216f8d",
+    "wof:geomhash":"d1abbb7fef67af3ae60cc8122514fc00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404334483,
-    "wof:lastmodified":1566590650,
+    "wof:lastmodified":1684352298,
     "wof:name":"Villamayor De Santiago",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":2521,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

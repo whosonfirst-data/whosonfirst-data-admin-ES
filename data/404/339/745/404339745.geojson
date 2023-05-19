@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31131",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Iza / Itza",
+    "eurostat:nuts_2021_id":"31131",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31131",
+    "eurostat:population":1262,
+    "eurostat:population_year":2020,
     "geom:area":0.005674,
-    "geom:area_square_m":51406716.043993,
+    "geom:area_square_m":51406716.043995,
     "geom:bbox":"-1.82662665,42.82692981,-1.72140554,42.94381307",
     "geom:latitude":42.885468,
     "geom:longitude":-1.773469,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227391
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_31131",
+        "eurostat:nuts_2021_id":"31131"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"00c60efd516e4466c40898fe67690bce",
+    "wof:geomhash":"7bf5e992ba67980b398382ef2bd1a04c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404339745,
-    "wof:lastmodified":1566590143,
+    "wof:lastmodified":1684352398,
     "wof:name":"Iza/Itza",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":1262,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

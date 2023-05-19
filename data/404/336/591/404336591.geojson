@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22068",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Borau",
+    "eurostat:nuts_2021_id":"22068",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22068",
+    "eurostat:population":70,
+    "eurostat:population_year":2020,
     "geom:area":0.004581,
-    "geom:area_square_m":41648999.448743,
+    "geom:area_square_m":41648999.448744,
     "geom:bbox":"-0.63810216,42.61498916,-0.53225099,42.7563064",
     "geom:latitude":42.674642,
     "geom:longitude":-0.582054,
@@ -87,6 +99,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -95,6 +109,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22068",
+        "eurostat:nuts_2021_id":"22068",
         "gn:id":6358313,
         "gp:id":12689454,
         "qs_pg:id":51587
@@ -103,7 +119,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"77877ae61aebf81c2519349719efac9a",
+    "wof:geomhash":"656da5dd13e4d5be26a10e18d88199db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,10 +130,12 @@
         }
     ],
     "wof:id":404336591,
-    "wof:lastmodified":1582361470,
+    "wof:lastmodified":1684352341,
     "wof:name":"Borau",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":70,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

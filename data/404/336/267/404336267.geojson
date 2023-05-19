@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_20901",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mendaro",
+    "eurostat:nuts_2021_id":"20901",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES212",
+    "eurostat:nuts_2021_level_lau":"20901",
+    "eurostat:population":1976,
+    "eurostat:population_year":2020,
     "geom:area":0.002814,
-    "geom:area_square_m":25346289.840008,
+    "geom:area_square_m":25346289.840009,
     "geom:bbox":"-2.43937082,43.21275809,-2.33243591,43.27048551",
     "geom:latitude":43.246459,
     "geom:longitude":-2.381485,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_20901",
+        "eurostat:nuts_2021_id":"20901",
         "gn:id":6358170,
         "qs_pg:id":621701
     },
@@ -123,7 +139,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8861eb18f16652ebcdc2ea8edfada0b9",
+    "wof:geomhash":"17b5e19e216eedf598e30e0050a20b2a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404336267,
-    "wof:lastmodified":1582361465,
+    "wof:lastmodified":1684352335,
     "wof:name":"Mendaro",
     "wof:parent_id":85682741,
     "wof:placetype":"localadmin",
+    "wof:population":1976,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

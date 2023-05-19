@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24190",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valverde-Enrique",
+    "eurostat:nuts_2021_id":"24190",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24190",
+    "eurostat:population":155,
+    "eurostat:population_year":2020,
     "geom:area":0.00392,
-    "geom:area_square_m":35844706.095451,
+    "geom:area_square_m":35844706.095449,
     "geom:bbox":"-5.33387213,42.26923815,-5.23693477,42.34664048",
     "geom:latitude":42.306991,
     "geom:longitude":-5.28669,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_24190",
+        "eurostat:nuts_2021_id":"24190",
         "gn:id":6358724,
         "gp:id":12691923,
         "qs_pg:id":46460
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b67e17e7ab603b595651072b7b02a184",
+    "wof:geomhash":"d2131c5fd8613d4cc30f103dd5211565",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404337535,
-    "wof:lastmodified":1582361551,
+    "wof:lastmodified":1684352353,
     "wof:name":"Valverde-Enrique",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":155,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

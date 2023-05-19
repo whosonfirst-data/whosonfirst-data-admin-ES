@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_34241",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villodre",
+    "eurostat:nuts_2021_id":"34241",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES414",
+    "eurostat:nuts_2021_level_lau":"34241",
+    "eurostat:population":15,
+    "eurostat:population_year":2020,
     "geom:area":0.000948,
     "geom:area_square_m":8686333.221151,
     "geom:bbox":"-4.27491394,42.19851807,-4.22679292,42.22956358",
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_34241",
+        "eurostat:nuts_2021_id":"34241",
         "gn:id":6360162,
         "gp:id":12692145,
         "qs_pg:id":2898
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f3c7a19f5f6a7ca61ee7b80987798539",
+    "wof:geomhash":"8ddada3cbb4372b6509dabdb697db405",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404340865,
-    "wof:lastmodified":1582361663,
+    "wof:lastmodified":1684352413,
     "wof:name":"Villodre",
     "wof:parent_id":85682815,
     "wof:placetype":"localadmin",
+    "wof:population":15,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

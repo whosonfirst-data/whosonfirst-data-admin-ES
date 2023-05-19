@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22901",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valle de Hecho",
+    "eurostat:nuts_2021_id":"22901",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22901",
+    "eurostat:population":817,
+    "eurostat:population_year":2020,
     "geom:area":0.025769,
-    "geom:area_square_m":234043262.671154,
+    "geom:area_square_m":234043262.671155,
     "geom:bbox":"-0.82352737,42.60647145,-0.6320264,42.85524851",
     "geom:latitude":42.734971,
     "geom:longitude":-0.729545,
@@ -33,6 +45,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -41,6 +55,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22901",
+        "eurostat:nuts_2021_id":"22901",
         "gn:id":6358447,
         "gp:id":12689585,
         "qs_pg:id":1163657
@@ -49,7 +65,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"850ace4ba45560e96c151c4ece57d93b",
+    "wof:geomhash":"d141a223a61437b80035e228ea30a751",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +76,12 @@
         }
     ],
     "wof:id":404336895,
-    "wof:lastmodified":1582361463,
+    "wof:lastmodified":1684352345,
     "wof:name":"Valle De Hecho",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":817,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

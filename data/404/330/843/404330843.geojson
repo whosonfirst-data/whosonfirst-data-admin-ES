@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_07051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Lloren\u00e7 des Cardassar",
+    "eurostat:nuts_2021_id":"07051",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES53",
+    "eurostat:nuts_2021_level_3":"ES532",
+    "eurostat:nuts_2021_level_lau":"07051",
+    "eurostat:population":8742,
+    "eurostat:population_year":2020,
     "geom:area":0.008609,
-    "geom:area_square_m":82001969.734462,
+    "geom:area_square_m":82001969.734459,
     "geom:bbox":"3.24150736,39.56580096,3.40424256,39.68397673",
     "geom:latitude":39.617266,
     "geom:longitude":3.30534,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_07051",
+        "eurostat:nuts_2021_id":"07051",
         "gn:id":6533969,
         "gp:id":12687758,
         "qs_pg:id":1150870
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e3a8071d3e106d9231f646105e18ecb3",
+    "wof:geomhash":"4d6bff88a3ab3dba83f5da40f75df17c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330843,
-    "wof:lastmodified":1582361524,
+    "wof:lastmodified":1684352233,
     "wof:name":"Sant Lloren\u00e7 Des Cardassar",
     "wof:parent_id":85682647,
     "wof:placetype":"localadmin",
+    "wof:population":8742,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

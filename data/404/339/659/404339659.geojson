@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31096",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Espronceda",
+    "eurostat:nuts_2021_id":"31096",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31096",
+    "eurostat:population":101,
+    "eurostat:population_year":2020,
     "geom:area":0.00096,
     "geom:area_square_m":8741347.023652,
     "geom:bbox":"-2.32190887,42.5755524,-2.28264617,42.61760111",
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31096",
+        "eurostat:nuts_2021_id":"31096",
         "gn:id":6359644,
         "gp:id":12688267,
         "qs_pg:id":953343
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d959747dbf5b3948e65676f819195fe5",
+    "wof:geomhash":"48cb56c54d88f2366c6852a5b203b802",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404339659,
-    "wof:lastmodified":1582361586,
+    "wof:lastmodified":1684352397,
     "wof:name":"Espronceda",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":101,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

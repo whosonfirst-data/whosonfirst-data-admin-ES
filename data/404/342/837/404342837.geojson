@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_41042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fuentes de Andaluc\u00eda",
+    "eurostat:nuts_2021_id":"41042",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES618",
+    "eurostat:nuts_2021_level_lau":"41042",
+    "eurostat:population":7152,
+    "eurostat:population_year":2020,
     "geom:area":0.015303,
-    "geom:area_square_m":150117983.494996,
+    "geom:area_square_m":150117983.494999,
     "geom:bbox":"-5.46600452,37.41339632,-5.27902269,37.61205813",
     "geom:latitude":37.499639,
     "geom:longitude":-5.347709,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_41042",
+        "eurostat:nuts_2021_id":"41042",
         "gn:id":6360997,
         "gp:id":12689334,
         "qs_pg:id":1019670
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c4a739e3f3843164b403abfdb011e970",
+    "wof:geomhash":"b5b8ab366a369d6c00e1d51b683e89d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404342837,
-    "wof:lastmodified":1582361821,
+    "wof:lastmodified":1684352444,
     "wof:name":"Fuentes De Andaluc\u00eda",
     "wof:parent_id":85682841,
     "wof:placetype":"localadmin",
+    "wof:population":7152,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

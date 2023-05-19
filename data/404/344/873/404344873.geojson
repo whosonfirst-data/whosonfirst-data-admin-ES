@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Almiser\u00e0",
+    "eurostat:nuts_2021_id":"46033",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46033",
+    "eurostat:population":265,
+    "eurostat:population_year":2020,
     "geom:area":0.000773,
     "geom:area_square_m":7434856.529057,
     "geom:bbox":"-0.30728542,38.90995842,-0.25966832,38.94514798",
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46033",
+        "eurostat:nuts_2021_id":"46033",
         "gn:id":6361898,
         "gp:id":12695574,
         "qs_pg:id":1020017
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8a49b01e3b4968c49b30de0aa4394d7b",
+    "wof:geomhash":"ee44686d0729394214f1d8e8d537797c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404344873,
-    "wof:lastmodified":1582361846,
+    "wof:lastmodified":1684352479,
     "wof:name":"Almiser\u00e0",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":265,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

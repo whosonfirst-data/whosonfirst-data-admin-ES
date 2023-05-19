@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06100",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pe\u00f1alsordo",
+    "eurostat:nuts_2021_id":"06100",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06100",
+    "eurostat:population":896,
+    "eurostat:population_year":2020,
     "geom:area":0.00491,
-    "geom:area_square_m":47298900.059855,
+    "geom:area_square_m":47298900.059856,
     "geom:bbox":"-5.19221703,38.77221054,-5.09308135,38.88746059",
     "geom:latitude":38.832001,
     "geom:longitude":-5.138672,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06100",
+        "eurostat:nuts_2021_id":"06100",
         "gn:id":6355965,
         "gp:id":12694419,
         "qs_pg:id":955134
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c49aa8a9e80a4ab432714c01aa6e973b",
+    "wof:geomhash":"3d9e68c9e279e8281a5871b4bdccb9d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404330581,
-    "wof:lastmodified":1582361529,
+    "wof:lastmodified":1684352226,
     "wof:name":"Pe\u00f1alsordo",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":896,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

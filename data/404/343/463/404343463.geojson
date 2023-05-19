@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43031,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Borges del Camp, Les",
+    "eurostat:nuts_2021_id":"43031",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43031",
+    "eurostat:population":2056,
+    "eurostat:population_year":2020,
     "geom:area":0.000896,
-    "geom:area_square_m":8340864.491994,
+    "geom:area_square_m":8340853.845003,
     "geom:bbox":"0.996452,41.150121,1.037621,41.198335",
     "geom:latitude":41.17797,
     "geom:longitude":1.017191,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43031",
         "esp-icgc:la_lc":"043031",
+        "eurostat:nuts_2021_id":"43031",
         "gn:id":6361274,
         "gp:id":12694169,
         "qs_pg:id":977890
@@ -67,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"41ea3fe352668a0f9d159f3eeb7ba534",
+    "wof:geomhash":"b787065a9a2de1ee0e69cd0539c762ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404343463,
-    "wof:lastmodified":1669903063,
+    "wof:lastmodified":1684352453,
     "wof:name":"Les Borges del Camp",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":2056,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

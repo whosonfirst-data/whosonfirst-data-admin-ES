@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_11027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Puerto de Santa Mar\u00eda, El",
+    "eurostat:nuts_2021_id":"11027",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES612",
+    "eurostat:nuts_2021_level_lau":"11027",
+    "eurostat:population":88703,
+    "eurostat:population_year":2020,
     "geom:area":0.016055,
-    "geom:area_square_m":159310568.247134,
+    "geom:area_square_m":159310568.247151,
     "geom:bbox":"-6.32304703,36.52744714,-6.13961421,36.71892433",
     "geom:latitude":36.631248,
     "geom:longitude":-6.235072,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_11027",
+        "eurostat:nuts_2021_id":"11027",
         "gn:id":6356942,
         "gp:id":12688754,
         "qs_pg:id":621585
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"42315a6f57ea18afaebbb081b53f5ab7",
+    "wof:geomhash":"0092f535e2f772a6733a273700754003",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404333067,
-    "wof:lastmodified":1582361782,
+    "wof:lastmodified":1684352273,
     "wof:name":"El Puerto De Santa Mar\u00eda",
     "wof:parent_id":85682679,
     "wof:placetype":"localadmin",
+    "wof:population":88703,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

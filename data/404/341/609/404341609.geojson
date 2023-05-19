@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37242",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pelayos",
+    "eurostat:nuts_2021_id":"37242",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37242",
+    "eurostat:population":81,
+    "eurostat:population_year":2020,
     "geom:area":0.004728,
-    "geom:area_square_m":44350776.132999,
+    "geom:area_square_m":44350776.133002,
     "geom:bbox":"-5.60116245,40.60586361,-5.52288526,40.71841335",
     "geom:latitude":40.662883,
     "geom:longitude":-5.570098,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37242",
+        "eurostat:nuts_2021_id":"37242",
         "gn:id":6360481,
         "gp:id":12692373,
         "qs_pg:id":46697
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"27bd27caee88c962ce8d96a729d20878",
+    "wof:geomhash":"e5b3ef3dd2d4652332156a385eed1cce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404341609,
-    "wof:lastmodified":1582361640,
+    "wof:lastmodified":1684352426,
     "wof:name":"Pelayos",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":81,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

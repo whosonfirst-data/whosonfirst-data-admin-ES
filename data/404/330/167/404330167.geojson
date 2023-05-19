@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05182",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pedro Bernardo",
+    "eurostat:nuts_2021_id":"05182",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05182",
+    "eurostat:population":787,
+    "eurostat:population_year":2020,
     "geom:area":0.007304,
     "geom:area_square_m":68935661.761783,
     "geom:bbox":"-4.97199831,40.18506778,-4.84938198,40.30264464",
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05182",
+        "eurostat:nuts_2021_id":"05182",
         "gn:id":6355782,
         "gp:id":12691291,
         "qs_pg:id":1102602
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3cce4509ffd9b8efa25d9e1e9eed5684",
+    "wof:geomhash":"07ae142295ebad00628897c2e9908eca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404330167,
-    "wof:lastmodified":1582361521,
+    "wof:lastmodified":1684352220,
     "wof:name":"Pedro Bernardo",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":787,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

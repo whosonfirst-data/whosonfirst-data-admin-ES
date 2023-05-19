@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_39048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Penagos",
+    "eurostat:nuts_2021_id":"39048",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES13",
+    "eurostat:nuts_2021_level_3":"ES130",
+    "eurostat:nuts_2021_level_lau":"39048",
+    "eurostat:population":2142,
+    "eurostat:population_year":2020,
     "geom:area":0.003515,
     "geom:area_square_m":31613534.047652,
     "geom:bbox":"-3.85525004,43.29598024,-3.7752161,43.3714329",
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_39048",
+        "eurostat:nuts_2021_id":"39048",
         "gn:id":6360694,
         "gp:id":12688569,
         "qs_pg:id":1197637
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a594cf71f11c908ef9278e22865c8737",
+    "wof:geomhash":"c4cd6deb2bbb6a01cf4eb79e5f4a1d2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404342149,
-    "wof:lastmodified":1582361824,
+    "wof:lastmodified":1684352436,
     "wof:name":"Penagos",
     "wof:parent_id":85682833,
     "wof:placetype":"localadmin",
+    "wof:population":2142,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

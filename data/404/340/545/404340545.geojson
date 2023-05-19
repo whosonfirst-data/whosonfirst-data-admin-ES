@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_34052",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castrillo de Villavega",
+    "eurostat:nuts_2021_id":"34052",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES414",
+    "eurostat:nuts_2021_level_lau":"34052",
+    "eurostat:population":175,
+    "eurostat:population_year":2020,
     "geom:area":0.003715,
     "geom:area_square_m":33891485.866438,
     "geom:bbox":"-4.5292544,42.42747674,-4.43238469,42.48669208",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_34052",
+        "eurostat:nuts_2021_id":"34052",
         "gn:id":6360019,
         "gp:id":12691997,
         "qs_pg:id":1016850
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5795baebcd3e99d89c86f9f1b2fc70aa",
+    "wof:geomhash":"7dc8870d7da9b52e7d2eaff78ea96aef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404340545,
-    "wof:lastmodified":1582361656,
+    "wof:lastmodified":1684352409,
     "wof:name":"Castrillo De Villavega",
     "wof:parent_id":85682815,
     "wof:placetype":"localadmin",
+    "wof:population":175,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

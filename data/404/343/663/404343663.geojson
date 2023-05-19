@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":43121,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43121",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rasquera",
+    "eurostat:nuts_2021_id":"43121",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43121",
+    "eurostat:population":783,
+    "eurostat:population_year":2020,
     "geom:area":0.005459,
     "geom:area_square_m":50966973.777016,
     "geom:bbox":"0.565063167181,40.9307531054,0.666124205186,41.0255397319",
@@ -115,6 +127,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -123,7 +137,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43121",
         "esp-icgc:la_lc":"043121",
+        "eurostat:nuts_2021_id":"43121",
         "gn:id":6361363,
         "gp:id":12694258,
         "qs_pg:id":201846
@@ -133,7 +149,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"e00fd4a3df20f420cfe2124f362bbb8e",
+    "wof:geomhash":"bf43411b520da40d2ff2da654fa54873",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404343663,
-    "wof:lastmodified":1582361890,
+    "wof:lastmodified":1684352459,
     "wof:name":"Rasquera",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":783,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

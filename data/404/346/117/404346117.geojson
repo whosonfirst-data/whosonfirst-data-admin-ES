@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48095",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zaldibar",
+    "eurostat:nuts_2021_id":"48095",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48095",
+    "eurostat:population":3045,
+    "eurostat:population_year":2020,
     "geom:area":0.00129,
-    "geom:area_square_m":11631939.429331,
+    "geom:area_square_m":11631939.429332,
     "geom:bbox":"-2.55545131,43.15203057,-2.48411278,43.18120313",
     "geom:latitude":43.167245,
     "geom:longitude":-2.525532,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_48095",
+        "eurostat:nuts_2021_id":"48095",
         "gn:id":6362434,
         "gp:id":12695259,
         "qs_pg:id":204848
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c7eda7b88fd4b8752ef6ebae5197dae0",
+    "wof:geomhash":"2cbb8371e3ae7c746e32b76945fe65a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404346117,
-    "wof:lastmodified":1582361614,
+    "wof:lastmodified":1684352495,
     "wof:name":"Zaldibar",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":3045,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43155,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43155",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tortosa",
+    "eurostat:nuts_2021_id":"43155",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43155",
+    "eurostat:population":33439,
+    "eurostat:population_year":2020,
     "geom:area":0.023312,
-    "geom:area_square_m":218145795.494187,
+    "geom:area_square_m":218145795.494188,
     "geom:bbox":"0.233124911273,40.7330311264,0.661897767706,40.8977236072",
     "geom:latitude":40.819701,
     "geom:longitude":0.532647,
@@ -184,6 +196,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -192,7 +206,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43155",
         "esp-icgc:la_lc":"043155",
+        "eurostat:nuts_2021_id":"43155",
         "gn:id":6361397,
         "gp:id":12694295,
         "qs_pg:id":1252342
@@ -202,7 +218,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"5171ab47394048e46d5d3be21736feb8",
+    "wof:geomhash":"834282af21a2bda04050707bf75fbbbd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -213,10 +229,12 @@
         }
     ],
     "wof:id":404343739,
-    "wof:lastmodified":1582361863,
+    "wof:lastmodified":1684352463,
     "wof:name":"Tortosa",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":33439,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

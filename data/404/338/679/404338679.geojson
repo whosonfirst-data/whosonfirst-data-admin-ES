@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_27066",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Viveiro",
+    "eurostat:nuts_2021_id":"27066",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES112",
+    "eurostat:nuts_2021_level_lau":"27066",
+    "eurostat:population":15391,
+    "eurostat:population_year":2020,
     "geom:area":0.012113,
-    "geom:area_square_m":108403629.569522,
+    "geom:area_square_m":108403629.569521,
     "geom:bbox":"-7.66466866,43.57432517,-7.47946122,43.71246025",
     "geom:latitude":43.633395,
     "geom:longitude":-7.588171,
@@ -132,6 +144,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -140,6 +154,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_27066",
+        "eurostat:nuts_2021_id":"27066",
         "gn:id":6359224,
         "gp:id":12694860,
         "qs_pg:id":48178
@@ -148,7 +164,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0adfb74f359698f7a7c77a307624cb09",
+    "wof:geomhash":"5322e25c812daaf832a0d8e20cca9889",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,10 +175,12 @@
         }
     ],
     "wof:id":404338679,
-    "wof:lastmodified":1582361449,
+    "wof:lastmodified":1684352379,
     "wof:name":"Viveiro",
     "wof:parent_id":85682775,
     "wof:placetype":"localadmin",
+    "wof:population":15391,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

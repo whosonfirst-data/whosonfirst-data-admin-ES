@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09279",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Quemada",
+    "eurostat:nuts_2021_id":"09279",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09279",
+    "eurostat:population":250,
+    "eurostat:population_year":2020,
     "geom:area":0.002254,
-    "geom:area_square_m":20805759.294423,
+    "geom:area_square_m":20805759.294424,
     "geom:bbox":"-3.61408275,41.67228972,-3.54921195,41.74183492",
     "geom:latitude":41.707115,
     "geom:longitude":-3.580322,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09279",
+        "eurostat:nuts_2021_id":"09279",
         "gn:id":6356544,
         "gp:id":12691593,
         "qs_pg:id":326821
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f45e4da146febe403dc6bb7ba9dd5db1",
+    "wof:geomhash":"fbaffea092fb21222a0a7c1f71306de3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404332139,
-    "wof:lastmodified":1582361686,
+    "wof:lastmodified":1684352261,
     "wof:name":"Quemada",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":250,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18192",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zafarraya",
+    "eurostat:nuts_2021_id":"18192",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18192",
+    "eurostat:population":2120,
+    "eurostat:population_year":2020,
     "geom:area":0.005857,
-    "geom:area_square_m":57842534.358084,
+    "geom:area_square_m":57842534.358081,
     "geom:bbox":"-4.22439862,36.95189702,-4.08016464,37.02956463",
     "geom:latitude":36.993128,
     "geom:longitude":-4.16132,
@@ -129,6 +141,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -137,6 +151,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18192",
+        "eurostat:nuts_2021_id":"18192",
         "gn:id":6357791,
         "gp:id":12689011,
         "qs_pg:id":45071
@@ -145,7 +161,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9cd2aaa51632d8432e7fab8197408f66",
+    "wof:geomhash":"bf6f7e51373f04e734f4712f6ba19a0f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404335397,
-    "wof:lastmodified":1582361695,
+    "wof:lastmodified":1684352325,
     "wof:name":"Zafarraya",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":2120,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

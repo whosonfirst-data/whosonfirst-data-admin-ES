@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alc\u00fadia de Crespins, l'",
+    "eurostat:nuts_2021_id":"46020",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46020",
+    "eurostat:population":5113,
+    "eurostat:population_year":2020,
     "geom:area":0.000537,
     "geom:area_square_m":5164103.509309,
     "geom:bbox":"-0.6288943,38.96158705,-0.58130872,38.98195994",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227381
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_46020",
+        "eurostat:nuts_2021_id":"46020"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"1702df1277b5021321795b74d694a321",
+    "wof:geomhash":"6c18d5e0d89c9b58501809d7dac821fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404344843,
-    "wof:lastmodified":1566591079,
+    "wof:lastmodified":1684352479,
     "wof:name":"L'Alc\u00fadia De Crespins",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":5113,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arguis",
+    "eurostat:nuts_2021_id":"22037",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22037",
+    "eurostat:population":125,
+    "eurostat:population_year":2020,
     "geom:area":0.006853,
     "geom:area_square_m":62656772.742222,
     "geom:bbox":"-0.56047116,42.2906425,-0.39648626,42.36254157",
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22037",
+        "eurostat:nuts_2021_id":"22037",
         "gn:id":6358285,
         "gp:id":12689426,
         "qs_pg:id":1163651
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cc61e9f1818d0234e105576d4a75a7d4",
+    "wof:geomhash":"54945b832546c19f9b3080532683f9e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404336527,
-    "wof:lastmodified":1582361467,
+    "wof:lastmodified":1684352340,
     "wof:name":"Arguis",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":125,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50256",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torralba de los Frailes",
+    "eurostat:nuts_2021_id":"50256",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50256",
+    "eurostat:population":76,
+    "eurostat:population_year":2020,
     "geom:area":0.00634,
-    "geom:area_square_m":59148415.613034,
+    "geom:area_square_m":59148415.613035,
     "geom:bbox":"-1.72982508,40.96900126,-1.61448064,41.0690927",
     "geom:latitude":41.017622,
     "geom:longitude":-1.659405,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50256",
+        "eurostat:nuts_2021_id":"50256",
         "gn:id":6362942,
         "gp:id":12690082,
         "qs_pg:id":45590
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"402b721da19694c64885acc2ad252179",
+    "wof:geomhash":"82a678a59019d1b8ccf4e734ca6e6010",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404347271,
-    "wof:lastmodified":1582361673,
+    "wof:lastmodified":1684352509,
     "wof:name":"Torralba De Los Frailes",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":76,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

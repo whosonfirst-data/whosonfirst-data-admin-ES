@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":8131,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08131",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montesquiu",
+    "eurostat:nuts_2021_id":"08131",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08131",
+    "eurostat:population":1030,
+    "eurostat:population_year":2020,
     "geom:area":0.000528,
     "geom:area_square_m":4840019.93728,
     "geom:bbox":"2.19115644322,42.1044559575,2.23271777865,42.1315964056",
@@ -124,6 +136,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -132,7 +146,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08131",
         "esp-icgc:la_lc":"08131",
+        "eurostat:nuts_2021_id":"08131",
         "gn:id":6356160,
         "gp:id":12693511,
         "qs_pg:id":47262
@@ -142,7 +158,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b480603f85f4b67c4ca4820f20d39d2c",
+    "wof:geomhash":"acdba14a8b524ba7e400310d60898bd9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,10 +169,12 @@
         }
     ],
     "wof:id":404331173,
-    "wof:lastmodified":1582361495,
+    "wof:lastmodified":1684352243,
     "wof:name":"Montesquiu",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":1030,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

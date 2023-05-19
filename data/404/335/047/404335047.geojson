@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17901,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17901",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cru\u00eflles, Monells i Sant Sadurn\u00ed de l'Heura",
+    "eurostat:nuts_2021_id":"17901",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17901",
+    "eurostat:population":1270,
+    "eurostat:population_year":2020,
     "geom:area":0.010819,
-    "geom:area_square_m":99540100.774983,
+    "geom:area_square_m":99540077.07358,
     "geom:bbox":"2.885414,41.868711,3.063039,41.990555",
     "geom:latitude":41.923621,
     "geom:longitude":2.981895,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17901",
         "esp-icgc:la_lc":"017901",
+        "eurostat:nuts_2021_id":"17901",
         "gp:id":12693739,
         "qs_pg:id":1308274
     },
@@ -66,7 +82,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"566ac34fc7d04f51d84e1bba161b3561",
+    "wof:geomhash":"c64386bfc1cba5ec1bb192f902f666f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,10 +93,12 @@
         }
     ],
     "wof:id":404335047,
-    "wof:lastmodified":1669903038,
+    "wof:lastmodified":1684352319,
     "wof:name":"Cru\u00eflles, Monells i Sant Sadurn\u00ed de l'Heura",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":1270,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

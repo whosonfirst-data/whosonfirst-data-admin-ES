@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_26040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ca\u00f1as",
+    "eurostat:nuts_2021_id":"26040",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES23",
+    "eurostat:nuts_2021_level_3":"ES230",
+    "eurostat:nuts_2021_level_lau":"26040",
+    "eurostat:population":93,
+    "eurostat:population_year":2020,
     "geom:area":0.001062,
-    "geom:area_square_m":9702074.660847,
+    "geom:area_square_m":9702074.660845,
     "geom:bbox":"-2.88554298,42.3778036,-2.83123058,42.41723457",
     "geom:latitude":42.395999,
     "geom:longitude":-2.859303,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_26040",
+        "eurostat:nuts_2021_id":"26040",
         "gn:id":6359030,
         "gp:id":12687810,
         "qs_pg:id":1188127
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"30c1cefe89a2a772ed60c873f062363e",
+    "wof:geomhash":"9fb32eef72d56405f36701413e91049f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404338229,
-    "wof:lastmodified":1582361432,
+    "wof:lastmodified":1684352373,
     "wof:name":"Ca\u00f1as",
     "wof:parent_id":85682773,
     "wof:placetype":"localadmin",
+    "wof:population":93,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

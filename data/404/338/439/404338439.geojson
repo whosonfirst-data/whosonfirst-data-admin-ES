@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_26138",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santo Domingo de la Calzada",
+    "eurostat:nuts_2021_id":"26138",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES23",
+    "eurostat:nuts_2021_level_3":"ES230",
+    "eurostat:nuts_2021_level_lau":"26138",
+    "eurostat:population":6276,
+    "eurostat:population_year":2020,
     "geom:area":0.004386,
-    "geom:area_square_m":40024733.018068,
+    "geom:area_square_m":40024733.018067,
     "geom:bbox":"-3.00104883,42.38862575,-2.90650145,42.47959848",
     "geom:latitude":42.433058,
     "geom:longitude":-2.956817,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_26138",
+        "eurostat:nuts_2021_id":"26138",
         "gn:id":6359122,
         "gp:id":12687905,
         "qs_pg:id":1078633
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8bb16a82985b1f19049738d955097054",
+    "wof:geomhash":"408d8265972606827a57b4a05f475f48",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404338439,
-    "wof:lastmodified":1582361437,
+    "wof:lastmodified":1684352376,
     "wof:name":"Santo Domingo De La Calzada",
     "wof:parent_id":85682773,
     "wof:placetype":"localadmin",
+    "wof:population":6276,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

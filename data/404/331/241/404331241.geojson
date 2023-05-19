@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8161,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08161",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Piera",
+    "eurostat:nuts_2021_id":"08161",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08161",
+    "eurostat:population":16134,
+    "eurostat:population_year":2020,
     "geom:area":0.006171,
-    "geom:area_square_m":57143593.558696,
+    "geom:area_square_m":57143593.558697,
     "geom:bbox":"1.70277621579,41.4455878392,1.79826588384,41.5816542264",
     "geom:latitude":41.511153,
     "geom:longitude":1.749945,
@@ -136,6 +148,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -144,7 +158,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08161",
         "esp-icgc:la_lc":"08161",
+        "eurostat:nuts_2021_id":"08161",
         "gn:id":6356188,
         "gp:id":12693541,
         "qs_pg:id":1336918
@@ -154,7 +170,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"924d81e78c812acab6ef22c6a33391f4",
+    "wof:geomhash":"a81ce6f14e0402b64c96876f6f6a0cda",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -165,10 +181,12 @@
         }
     ],
     "wof:id":404331241,
-    "wof:lastmodified":1582361504,
+    "wof:lastmodified":1684352245,
     "wof:name":"Piera",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":16134,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

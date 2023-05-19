@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04902",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ejido, El",
+    "eurostat:nuts_2021_id":"04902",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04902",
+    "eurostat:population":83758,
+    "eurostat:population_year":2020,
     "geom:area":0.022762,
-    "geom:area_square_m":225520133.416816,
+    "geom:area_square_m":225520133.416815,
     "geom:bbox":"-2.90707532,36.68027501,-2.65720017,36.82852667",
     "geom:latitude":36.747897,
     "geom:longitude":-2.781382,
@@ -141,6 +153,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -149,6 +163,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_04902",
+        "eurostat:nuts_2021_id":"04902",
         "gn:id":6355617,
         "gp:id":12688662,
         "qs_pg:id":218931
@@ -157,7 +173,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c80db7cd16ca5242a8a9d803732b8056",
+    "wof:geomhash":"b1ed1f6566abe6130c1d6320da058183",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,10 +184,12 @@
         }
     ],
     "wof:id":404329795,
-    "wof:lastmodified":1582361797,
+    "wof:lastmodified":1684352215,
     "wof:name":"El Ejido",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":83758,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_02057",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ossa de Montiel",
+    "eurostat:nuts_2021_id":"02057",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES421",
+    "eurostat:nuts_2021_level_lau":"02057",
+    "eurostat:population":2262,
+    "eurostat:population_year":2020,
     "geom:area":0.025309,
-    "geom:area_square_m":243316090.275555,
+    "geom:area_square_m":243316090.275559,
     "geom:bbox":"-2.88288842,38.86749115,-2.66644662,39.06351599",
     "geom:latitude":38.968747,
     "geom:longitude":-2.765323,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_02057",
+        "eurostat:nuts_2021_id":"02057",
         "gn:id":6355348,
         "gp:id":12690268,
         "qs_pg:id":238926
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c98be19342466b51fa72330098c1c831",
+    "wof:geomhash":"96503b8703cc0e6b9b44e6300267bdfa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404329181,
-    "wof:lastmodified":1582361794,
+    "wof:lastmodified":1684352205,
     "wof:name":"Ossa De Montiel",
     "wof:parent_id":85682621,
     "wof:placetype":"localadmin",
+    "wof:population":2262,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

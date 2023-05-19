@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12067",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Geldo",
+    "eurostat:nuts_2021_id":"12067",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12067",
+    "eurostat:population":633,
+    "eurostat:population_year":2020,
     "geom:area":0.000059,
     "geom:area_square_m":562917.648278,
     "geom:bbox":"-0.47024437,39.83077509,-0.46017025,39.84301475",
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12067",
+        "eurostat:nuts_2021_id":"12067",
         "gn:id":6357018,
         "gp:id":12695466,
         "qs_pg:id":892252
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5c4b961b88120fbf9a66e99f8b9b1909",
+    "wof:geomhash":"41e88e074fb853b686f1d5c43548b6b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404333239,
-    "wof:lastmodified":1582361781,
+    "wof:lastmodified":1684352276,
     "wof:name":"Geldo",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":633,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

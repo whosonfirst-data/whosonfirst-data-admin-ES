@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Berninches",
+    "eurostat:nuts_2021_id":"19051",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19051",
+    "eurostat:population":52,
+    "eurostat:population_year":2020,
     "geom:area":0.00376,
-    "geom:area_square_m":35320739.555037,
+    "geom:area_square_m":35320739.555038,
     "geom:bbox":"-2.85952919,40.52991513,-2.76937045,40.61087174",
     "geom:latitude":40.569984,
     "geom:longitude":-2.812119,
@@ -96,6 +108,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -103,9 +117,12 @@
         404227375
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_19051",
+        "eurostat:nuts_2021_id":"19051"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"c02a5e0bd8d804ffbdd234e7cb11c433",
+    "wof:geomhash":"560be4dcfb88b87f3e90241b5d305116",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +133,12 @@
         }
     ],
     "wof:id":404335527,
-    "wof:lastmodified":1566590577,
+    "wof:lastmodified":1684352327,
     "wof:name":"Berninches",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":52,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

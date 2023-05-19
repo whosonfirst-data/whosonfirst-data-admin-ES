@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8261,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08261",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Susanna",
+    "eurostat:nuts_2021_id":"08261",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08261",
+    "eurostat:population":3548,
+    "eurostat:population_year":2020,
     "geom:area":0.001367,
-    "geom:area_square_m":12628074.948375,
+    "geom:area_square_m":12628109.038729,
     "geom:bbox":"2.658842,41.624679,2.727804,41.672438",
     "geom:latitude":41.649956,
     "geom:longitude":2.69588,
@@ -73,6 +85,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -81,7 +95,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08261",
         "esp-icgc:la_lc":"08261",
+        "eurostat:nuts_2021_id":"08261",
         "gn:id":6533997,
         "gp:id":12693640,
         "qs_pg:id":1149541
@@ -91,7 +107,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6bbcdf3fdb6e6de3cbe1d18229573a86",
+    "wof:geomhash":"201a447f5e4202ec7b3a245ef6e811dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,10 +118,12 @@
         }
     ],
     "wof:id":404331461,
-    "wof:lastmodified":1669903011,
+    "wof:lastmodified":1684352252,
     "wof:name":"Santa Susanna",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":3548,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

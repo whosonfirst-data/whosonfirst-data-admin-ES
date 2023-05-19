@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Benquerencia",
+    "eurostat:nuts_2021_id":"10027",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10027",
+    "eurostat:population":80,
+    "eurostat:population_year":2020,
     "geom:area":0.00139,
-    "geom:area_square_m":13300396.956756,
+    "geom:area_square_m":13300396.956755,
     "geom:bbox":"-6.11536572,39.28341207,-6.06469663,39.32756651",
     "geom:latitude":39.308633,
     "geom:longitude":-6.088342,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10027",
+        "eurostat:nuts_2021_id":"10027",
         "gn:id":6356724,
         "gp:id":12694509,
         "qs_pg:id":47956
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6c481bbbda9d2c85682535522ab57e3e",
+    "wof:geomhash":"8e710f54b10ec4279a5af118fa720570",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404332571,
-    "wof:lastmodified":1582361691,
+    "wof:lastmodified":1684352266,
     "wof:name":"Benquerencia",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":80,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

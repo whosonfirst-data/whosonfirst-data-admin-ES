@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castromonte",
+    "eurostat:nuts_2021_id":"47043",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47043",
+    "eurostat:population":318,
+    "eurostat:population_year":2020,
     "geom:area":0.00942,
     "geom:area_square_m":86888313.61135,
     "geom:bbox":"-5.13823001,41.69317809,-4.96486351,41.81737032",
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_47043",
+        "eurostat:nuts_2021_id":"47043",
         "gn:id":6362171,
         "gp:id":12692945,
         "qs_pg:id":1311091
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"45e4e9f5ae445d068cb16015309e4a3f",
+    "wof:geomhash":"b1f55b8e6d0d96938a8a158f150f2c55",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404345495,
-    "wof:lastmodified":1582361838,
+    "wof:lastmodified":1684352487,
     "wof:name":"Castromonte",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":318,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

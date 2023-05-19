@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42052",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caracena",
+    "eurostat:nuts_2021_id":"42052",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42052",
+    "eurostat:population":14,
+    "eurostat:population_year":2020,
     "geom:area":0.001954,
-    "geom:area_square_m":18123536.197856,
+    "geom:area_square_m":18123536.197858,
     "geom:bbox":"-3.13568713,41.36355733,-3.06473404,41.41408504",
     "geom:latitude":41.387938,
     "geom:longitude":-3.094948,
@@ -180,6 +192,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -188,6 +202,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42052",
+        "eurostat:nuts_2021_id":"42052",
         "gn:id":6361108,
         "gp:id":12692767,
         "qs_pg:id":238932
@@ -196,7 +212,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"723c861e02d1dd4d4c8295994bde8356",
+    "wof:geomhash":"6be139a34d6be119b590ae3e43c38fa8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -207,10 +223,12 @@
         }
     ],
     "wof:id":404343087,
-    "wof:lastmodified":1582361884,
+    "wof:lastmodified":1684352447,
     "wof:name":"Caracena",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":14,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

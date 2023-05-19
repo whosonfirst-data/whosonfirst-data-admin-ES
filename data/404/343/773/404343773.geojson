@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43170,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43170",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vila-rodona",
+    "eurostat:nuts_2021_id":"43170",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43170",
+    "eurostat:population":1276,
+    "eurostat:population_year":2020,
     "geom:area":0.003553,
-    "geom:area_square_m":33000205.24398,
+    "geom:area_square_m":33000227.6563,
     "geom:bbox":"1.313472,41.281553,1.425458,41.333656",
     "geom:latitude":41.308446,
     "geom:longitude":1.368045,
@@ -48,6 +60,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -56,13 +70,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"043170"
+        "eg:gisco_id":"ES_43170",
+        "esp-icgc:la_lc":"043170",
+        "eurostat:nuts_2021_id":"43170"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"448c9b7b68f473d1aff309bb539e3e93",
+    "wof:geomhash":"583b6ef1bb2a62c9742851fccdfe450d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,10 +89,12 @@
         }
     ],
     "wof:id":404343773,
-    "wof:lastmodified":1669903071,
+    "wof:lastmodified":1684352464,
     "wof:name":"Vila-rodona",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":1276,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

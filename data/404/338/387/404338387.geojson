@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_26112",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ortigosa de Cameros",
+    "eurostat:nuts_2021_id":"26112",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES23",
+    "eurostat:nuts_2021_level_3":"ES230",
+    "eurostat:nuts_2021_level_lau":"26112",
+    "eurostat:population":221,
+    "eurostat:population_year":2020,
     "geom:area":0.003597,
-    "geom:area_square_m":32968964.388694,
+    "geom:area_square_m":32968964.388695,
     "geom:bbox":"-2.76437602,42.13018498,-2.66445533,42.18571819",
     "geom:latitude":42.161139,
     "geom:longitude":-2.714342,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227397
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_26112",
+        "eurostat:nuts_2021_id":"26112"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"4a6b7ca4512f90d9849e5fef7cb66e6d",
+    "wof:geomhash":"ead0e597edc3f4fb1f91af08a4106ea3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404338387,
-    "wof:lastmodified":1566589663,
+    "wof:lastmodified":1684352375,
     "wof:name":"Ortigosa De Cameros",
     "wof:parent_id":85682773,
     "wof:placetype":"localadmin",
+    "wof:population":221,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10117",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marchagaz",
+    "eurostat:nuts_2021_id":"10117",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10117",
+    "eurostat:population":203,
+    "eurostat:population_year":2020,
     "geom:area":0.001003,
-    "geom:area_square_m":9462975.80884,
+    "geom:area_square_m":9462975.808841,
     "geom:bbox":"-6.30368333,40.25693767,-6.25646393,40.28779473",
     "geom:latitude":40.272967,
     "geom:longitude":-6.279616,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10117",
+        "eurostat:nuts_2021_id":"10117",
         "gn:id":6356812,
         "gp:id":12694598,
         "qs_pg:id":1171906
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9f74dd075b9166fe140f932bb8d0097e",
+    "wof:geomhash":"ef98a23e33688b6e2d1d15a8d58ecd94",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404332771,
-    "wof:lastmodified":1582361683,
+    "wof:lastmodified":1684352269,
     "wof:name":"Marchagaz",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":203,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

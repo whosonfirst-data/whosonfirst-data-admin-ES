@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50071",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campillo de Arag\u00f3n",
+    "eurostat:nuts_2021_id":"50071",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50071",
+    "eurostat:population":146,
+    "eurostat:population_year":2020,
     "geom:area":0.003952,
-    "geom:area_square_m":36812250.204446,
+    "geom:area_square_m":36812250.204445,
     "geom:bbox":"-1.89057074,41.09413579,-1.80748371,41.16500137",
     "geom:latitude":41.130179,
     "geom:longitude":-1.84463,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50071",
+        "eurostat:nuts_2021_id":"50071",
         "gn:id":6362764,
         "gp:id":12689904,
         "qs_pg:id":954130
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5d5980aca344c47dc50abf88a9581a32",
+    "wof:geomhash":"a616520936119013f09ecfd352620d79",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404346871,
-    "wof:lastmodified":1582361617,
+    "wof:lastmodified":1684352504,
     "wof:name":"Campillo De Arag\u00f3n",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":146,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

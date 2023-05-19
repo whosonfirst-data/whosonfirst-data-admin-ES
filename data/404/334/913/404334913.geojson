@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17171,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17171",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Lloren\u00e7 de la Muga",
+    "eurostat:nuts_2021_id":"17171",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17171",
+    "eurostat:population":265,
+    "eurostat:population_year":2020,
     "geom:area":0.003548,
-    "geom:area_square_m":32435557.117443,
+    "geom:area_square_m":32435608.393587,
     "geom:bbox":"2.705205,42.299675,2.827237,42.354458",
     "geom:latitude":42.325938,
     "geom:longitude":2.769547,
@@ -74,6 +86,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -82,7 +96,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17171",
         "esp-icgc:la_lc":"017171",
+        "eurostat:nuts_2021_id":"17171",
         "gn:id":6534132,
         "gp:id":12693848,
         "qs_pg:id":47501
@@ -92,7 +108,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"eee0e2448e83f422d5974c13d2c9ed12",
+    "wof:geomhash":"930e445f47ec9982618e1551d67fa049",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,10 +119,12 @@
         }
     ],
     "wof:id":404334913,
-    "wof:lastmodified":1669903047,
+    "wof:lastmodified":1684352315,
     "wof:name":"Sant Lloren\u00e7 de la Muga",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":265,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

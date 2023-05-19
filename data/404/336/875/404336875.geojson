@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22246",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Beranuy",
+    "eurostat:nuts_2021_id":"22246",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22246",
+    "eurostat:population":75,
+    "eurostat:population_year":2020,
     "geom:area":0.006969,
-    "geom:area_square_m":63653350.988846,
+    "geom:area_square_m":63653350.988845,
     "geom:bbox":"0.54309763,42.3290964,0.67011132,42.42410688",
     "geom:latitude":42.381026,
     "geom:longitude":0.604405,
@@ -96,6 +108,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -103,9 +117,12 @@
         404227363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_22246",
+        "eurostat:nuts_2021_id":"22246"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"3ed8028981a9ba9be09802bae72e6f00",
+    "wof:geomhash":"df72893e548f565d090348627a39b61c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +133,12 @@
         }
     ],
     "wof:id":404336875,
-    "wof:lastmodified":1566589687,
+    "wof:lastmodified":1684352345,
     "wof:name":"Beranuy",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":75,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

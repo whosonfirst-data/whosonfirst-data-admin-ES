@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17092,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17092",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Llan\u00e7\u00e0",
+    "eurostat:nuts_2021_id":"17092",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17092",
+    "eurostat:population":4775,
+    "eurostat:population_year":2020,
     "geom:area":0.003057,
-    "geom:area_square_m":27932597.089638,
+    "geom:area_square_m":27932595.464085,
     "geom:bbox":"3.076615,42.340487,3.173843,42.397689",
     "geom:latitude":42.366452,
     "geom:longitude":3.126448,
@@ -145,6 +157,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -153,7 +167,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17092",
         "esp-icgc:la_lc":"017092",
+        "eurostat:nuts_2021_id":"17092",
         "gn:id":6534076,
         "gp:id":12693773,
         "qs_pg:id":1298392
@@ -163,7 +179,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f8905380e8c35880410f865e102a82ec",
+    "wof:geomhash":"c27a0b93f7c4b2092bb82253746f5e65",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -174,10 +190,12 @@
         }
     ],
     "wof:id":404334751,
-    "wof:lastmodified":1669903048,
+    "wof:lastmodified":1684352307,
     "wof:name":"Llan\u00e7\u00e0",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":4775,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

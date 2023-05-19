@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ademuz",
+    "eurostat:nuts_2021_id":"46001",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46001",
+    "eurostat:population":1037,
+    "eurostat:population_year":2020,
     "geom:area":0.010601,
     "geom:area_square_m":100316397.688154,
     "geom:bbox":"-1.32267954,40.00153221,-1.14941778,40.12265967",
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46001",
+        "eurostat:nuts_2021_id":"46001",
         "gn:id":6361866,
         "gp:id":12695542,
         "qs_pg:id":1123045
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fec6569e9945dacfdf9c3f54fb91dd02",
+    "wof:geomhash":"ff0336e0e0ca41ca5803de86f0222625",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404344801,
-    "wof:lastmodified":1582361857,
+    "wof:lastmodified":1684352479,
     "wof:name":"Ademuz",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":1037,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18901",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Taha, La",
+    "eurostat:nuts_2021_id":"18901",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18901",
+    "eurostat:population":670,
+    "eurostat:population_year":2020,
     "geom:area":0.002607,
     "geom:area_square_m":25770072.948627,
     "geom:bbox":"-3.37468728,36.88578204,-3.29363832,36.98018587",
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18901",
+        "eurostat:nuts_2021_id":"18901",
         "gn:id":6357794,
         "gp:id":12688995,
         "qs_pg:id":62877
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9512571ab197d12f636705176fadeb14",
+    "wof:geomhash":"a7d4f6e7149422c571347ca3af6c82d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404335403,
-    "wof:lastmodified":1582361710,
+    "wof:lastmodified":1684352325,
     "wof:name":"La Taha",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":670,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_39080",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Vicente de la Barquera",
+    "eurostat:nuts_2021_id":"39080",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES13",
+    "eurostat:nuts_2021_level_3":"ES130",
+    "eurostat:nuts_2021_level_lau":"39080",
+    "eurostat:population":4095,
+    "eurostat:population_year":2020,
     "geom:area":0.004615,
     "geom:area_square_m":41481156.648062,
     "geom:bbox":"-4.44718768,43.32016434,-4.33246881,43.40587201",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_39080",
+        "eurostat:nuts_2021_id":"39080",
         "gn:id":6360725,
         "gp:id":12688594,
         "qs_pg:id":44806
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d27c58851c27166b300bafa630c49bad",
+    "wof:geomhash":"26e44228c2e852c856fac50cc1ade5d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404342221,
-    "wof:lastmodified":1582361808,
+    "wof:lastmodified":1684352437,
     "wof:name":"San Vicente De La Barquera",
     "wof:parent_id":85682833,
     "wof:placetype":"localadmin",
+    "wof:population":4095,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

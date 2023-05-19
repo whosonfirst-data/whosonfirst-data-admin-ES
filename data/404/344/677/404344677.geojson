@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45151",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Mart\u00edn de Montalb\u00e1n",
+    "eurostat:nuts_2021_id":"45151",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45151",
+    "eurostat:population":726,
+    "eurostat:population_year":2020,
     "geom:area":0.013975,
-    "geom:area_square_m":132904943.895123,
+    "geom:area_square_m":132904943.895126,
     "geom:bbox":"-4.51659703,39.65867357,-4.34309494,39.78106073",
     "geom:latitude":39.724879,
     "geom:longitude":-4.427617,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45151",
+        "eurostat:nuts_2021_id":"45151",
         "gn:id":6361811,
         "gp:id":12691072,
         "qs_pg:id":51687
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"afb30a4b46e0ce59758585b82d341dd7",
+    "wof:geomhash":"f0d45cdd0acb584d7e4198e81dd83fd6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404344677,
-    "wof:lastmodified":1582361855,
+    "wof:lastmodified":1684352477,
     "wof:name":"San Mart\u00edn De Montalb\u00e1n",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":726,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

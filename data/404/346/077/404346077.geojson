@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48077",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Plentzia",
+    "eurostat:nuts_2021_id":"48077",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48077",
+    "eurostat:population":4353,
+    "eurostat:population_year":2020,
     "geom:area":0.00065,
-    "geom:area_square_m":5839003.511776,
+    "geom:area_square_m":5839003.511777,
     "geom:bbox":"-2.95209889,43.3707962,-2.91510285,43.41554707",
     "geom:latitude":43.392438,
     "geom:longitude":-2.933098,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_48077",
+        "eurostat:nuts_2021_id":"48077",
         "gn:id":6362418,
         "gp:id":12695246,
         "qs_pg:id":1252367
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d5d7350b61c6020806b8febcf4bd443d",
+    "wof:geomhash":"0fb25e89c1351399cd02049c94dbf6f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404346077,
-    "wof:lastmodified":1582361609,
+    "wof:lastmodified":1684352494,
     "wof:name":"Plentzia",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":4353,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

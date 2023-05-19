@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44092",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cuervo, El",
+    "eurostat:nuts_2021_id":"44092",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44092",
+    "eurostat:population":80,
+    "eurostat:population_year":2020,
     "geom:area":0.002194,
-    "geom:area_square_m":20737934.449433,
+    "geom:area_square_m":20737934.449432,
     "geom:bbox":"-1.38772356,40.12888665,-1.31658902,40.18492169",
     "geom:latitude":40.155628,
     "geom:longitude":-1.34826,
@@ -42,6 +54,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -50,6 +64,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44092",
+        "eurostat:nuts_2021_id":"44092",
         "gn:id":6361506,
         "qs_pg:id":621903
     },
@@ -57,7 +73,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"503e732a0040460035a057b26aa78e66",
+    "wof:geomhash":"823389437e933c05058cf0d5f3b85a42",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,10 +84,12 @@
         }
     ],
     "wof:id":404343987,
-    "wof:lastmodified":1582361893,
+    "wof:lastmodified":1684352468,
     "wof:name":"El Cuervo",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":80,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

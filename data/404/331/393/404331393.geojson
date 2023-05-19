@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8231,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08231",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Pere de Ribes",
+    "eurostat:nuts_2021_id":"08231",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08231",
+    "eurostat:population":31111,
+    "eurostat:population_year":2020,
     "geom:area":0.00439,
-    "geom:area_square_m":40806525.094483,
+    "geom:area_square_m":40806443.309835,
     "geom:bbox":"1.72238,41.218351,1.836105,41.294618",
     "geom:latitude":41.262078,
     "geom:longitude":1.776037,
@@ -59,6 +71,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -67,7 +81,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08231",
         "esp-icgc:la_lc":"08231",
+        "eurostat:nuts_2021_id":"08231",
         "gn:id":6356253,
         "gp:id":12693606,
         "qs_pg:id":898859
@@ -77,7 +93,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"da03ddc8100f6af37c1949275d3f8194",
+    "wof:geomhash":"7a8d4fb17d00bec131dc7a64120e2424",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,10 +104,12 @@
         }
     ],
     "wof:id":404331393,
-    "wof:lastmodified":1669903007,
+    "wof:lastmodified":1684352250,
     "wof:name":"Sant Pere de Ribes",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":31111,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

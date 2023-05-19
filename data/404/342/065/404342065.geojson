@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_39012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cabez\u00f3n de la Sal",
+    "eurostat:nuts_2021_id":"39012",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES13",
+    "eurostat:nuts_2021_level_3":"ES130",
+    "eurostat:nuts_2021_level_lau":"39012",
+    "eurostat:population":8358,
+    "eurostat:population_year":2020,
     "geom:area":0.003723,
-    "geom:area_square_m":33499154.511141,
+    "geom:area_square_m":33499154.51114,
     "geom:bbox":"-4.2846261,43.27484939,-4.16850316,43.35035734",
     "geom:latitude":43.311431,
     "geom:longitude":-4.231395,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_39012",
+        "eurostat:nuts_2021_id":"39012",
         "gn:id":6360659,
         "gp:id":12688533,
         "qs_pg:id":1188195
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"992f6b191e09884ff8f33882340b45db",
+    "wof:geomhash":"cf23696e0d6928c98c8ceedc2abe8c96",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404342065,
-    "wof:lastmodified":1582361810,
+    "wof:lastmodified":1684352435,
     "wof:name":"Cabez\u00f3n De La Sal",
     "wof:parent_id":85682833,
     "wof:placetype":"localadmin",
+    "wof:population":8358,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

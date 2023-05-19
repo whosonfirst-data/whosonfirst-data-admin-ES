@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44152",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monforte de Moyuela",
+    "eurostat:nuts_2021_id":"44152",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44152",
+    "eurostat:population":71,
+    "eurostat:population_year":2020,
     "geom:area":0.005113,
-    "geom:area_square_m":47679212.989243,
+    "geom:area_square_m":47679212.989246,
     "geom:bbox":"-1.05084732,41.01344351,-0.95713912,41.09216385",
     "geom:latitude":41.051487,
     "geom:longitude":-1.001935,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44152",
+        "eurostat:nuts_2021_id":"44152",
         "gn:id":6361559,
         "gp:id":12689731,
         "qs_pg:id":272319
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0d04734d2adf28d337eaa1f09987d543",
+    "wof:geomhash":"b456db0f1ddba0206352900ece1bfea4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404344109,
-    "wof:lastmodified":1582361852,
+    "wof:lastmodified":1684352469,
     "wof:name":"Monforte De Moyuela",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":71,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

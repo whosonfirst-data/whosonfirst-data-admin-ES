@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37339",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valero",
+    "eurostat:nuts_2021_id":"37339",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37339",
+    "eurostat:population":302,
+    "eurostat:population_year":2020,
     "geom:area":0.002792,
-    "geom:area_square_m":26236502.339275,
+    "geom:area_square_m":26236502.339277,
     "geom:bbox":"-6.0029883,40.50340515,-5.92323042,40.56992651",
     "geom:latitude":40.536566,
     "geom:longitude":-5.960318,
@@ -51,6 +63,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -59,6 +73,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37339",
+        "eurostat:nuts_2021_id":"37339",
         "gn:id":6360575,
         "gp:id":12692468,
         "qs_pg:id":497197
@@ -67,7 +83,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"65581d2ff1a9d86440b520c22a0826cd",
+    "wof:geomhash":"6f212bf23c5685d013a6492bfe74b18b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404341819,
-    "wof:lastmodified":1582361627,
+    "wof:lastmodified":1684352429,
     "wof:name":"Valero",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":302,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

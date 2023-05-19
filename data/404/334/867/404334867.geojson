@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17150,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17150",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Riudellots de la Selva",
+    "eurostat:nuts_2021_id":"17150",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17150",
+    "eurostat:population":2071,
+    "eurostat:population_year":2020,
     "geom:area":0.001443,
-    "geom:area_square_m":13278105.825501,
+    "geom:area_square_m":13278118.353821,
     "geom:bbox":"2.770797,41.868569,2.817662,41.914358",
     "geom:latitude":41.89335,
     "geom:longitude":2.796379,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17150",
         "esp-icgc:la_lc":"017150",
+        "eurostat:nuts_2021_id":"17150",
         "gn:id":6534113,
         "gp:id":12693826,
         "qs_pg:id":47492
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"3c77a9316542144172e9042916b4917e",
+    "wof:geomhash":"757448a8b5d629d6e5fa388c0eb4c337",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404334867,
-    "wof:lastmodified":1669903045,
+    "wof:lastmodified":1684352313,
     "wof:name":"Riudellots de la Selva",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":2071,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

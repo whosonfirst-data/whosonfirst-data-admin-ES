@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_11038",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ubrique",
+    "eurostat:nuts_2021_id":"11038",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES612",
+    "eurostat:nuts_2021_level_lau":"11038",
+    "eurostat:population":16605,
+    "eurostat:population_year":2020,
     "geom:area":0.00703,
-    "geom:area_square_m":69738513.895909,
+    "geom:area_square_m":69738513.895907,
     "geom:bbox":"-5.54037683,36.61417239,-5.39581436,36.69924565",
     "geom:latitude":36.658586,
     "geom:longitude":-5.4637,
@@ -132,6 +144,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -140,6 +154,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_11038",
+        "eurostat:nuts_2021_id":"11038",
         "gn:id":6356953,
         "gp:id":12688766,
         "qs_pg:id":44899
@@ -148,7 +164,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"44f3c7d530954b7578e3fce6adf0a5a0",
+    "wof:geomhash":"9ccaabb222adf3966916c17708d51347",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,10 +175,12 @@
         }
     ],
     "wof:id":404333093,
-    "wof:lastmodified":1582361782,
+    "wof:lastmodified":1684352274,
     "wof:name":"Ubrique",
     "wof:parent_id":85682679,
     "wof:placetype":"localadmin",
+    "wof:population":16605,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

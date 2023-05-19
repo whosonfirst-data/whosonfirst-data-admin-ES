@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carrocera",
+    "eurostat:nuts_2021_id":"24040",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24040",
+    "eurostat:population":446,
+    "eurostat:population_year":2020,
     "geom:area":0.007261,
-    "geom:area_square_m":65876817.329694,
+    "geom:area_square_m":65876817.329695,
     "geom:bbox":"-5.80443932,42.73276876,-5.70871888,42.86311044",
     "geom:latitude":42.800558,
     "geom:longitude":-5.754007,
@@ -108,6 +120,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -115,9 +129,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_24040",
+        "eurostat:nuts_2021_id":"24040"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"050531e15b8f91e228606917234b7377",
+    "wof:geomhash":"6e8a9857ab7f55f35367b24464d0fabf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +145,12 @@
         }
     ],
     "wof:id":404337219,
-    "wof:lastmodified":1566589987,
+    "wof:lastmodified":1684352350,
     "wof:name":"Carrocera",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":446,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

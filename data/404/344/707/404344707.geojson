@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45164",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sotillo de las Palomas",
+    "eurostat:nuts_2021_id":"45164",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45164",
+    "eurostat:population":175,
+    "eurostat:population_year":2020,
     "geom:area":0.00199,
     "geom:area_square_m":18826615.312926,
     "geom:bbox":"-4.88327037,40.07031732,-4.80916756,40.11459312",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45164",
+        "eurostat:nuts_2021_id":"45164",
         "gn:id":6361824,
         "gp:id":12691086,
         "qs_pg:id":1003698
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"166a3822480052e16e3b97fcde6ec4cd",
+    "wof:geomhash":"f9a76d554f60e3b2cf96e16d1821ca56",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404344707,
-    "wof:lastmodified":1582361845,
+    "wof:lastmodified":1684352477,
     "wof:name":"Sotillo De Las Palomas",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":175,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

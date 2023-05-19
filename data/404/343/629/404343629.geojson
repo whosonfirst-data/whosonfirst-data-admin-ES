@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43106,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pinell de Brai, El",
+    "eurostat:nuts_2021_id":"43106",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43106",
+    "eurostat:population":1008,
+    "eurostat:population_year":2020,
     "geom:area":0.006118,
-    "geom:area_square_m":57081178.469871,
+    "geom:area_square_m":57081193.773441,
     "geom:bbox":"0.440145,40.976331,0.570588,41.063258",
     "geom:latitude":41.018741,
     "geom:longitude":0.501881,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43106",
         "esp-icgc:la_lc":"043106",
+        "eurostat:nuts_2021_id":"43106",
         "gn:id":6361348,
         "gp:id":12694243,
         "qs_pg:id":231430
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"9f886bf50dd387aa1f6c5cee132c9eea",
+    "wof:geomhash":"d019eb452b4bd5aae066c46c2954db44",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404343629,
-    "wof:lastmodified":1669903062,
+    "wof:lastmodified":1684352458,
     "wof:name":"El Pinell de Brai",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":1008,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

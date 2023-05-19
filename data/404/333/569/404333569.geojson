@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_13071",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Puertollano",
+    "eurostat:nuts_2021_id":"13071",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES422",
+    "eurostat:nuts_2021_level_lau":"13071",
+    "eurostat:population":46607,
+    "eurostat:population_year":2020,
     "geom:area":0.023464,
     "geom:area_square_m":226588360.185807,
     "geom:bbox":"-4.26212593,38.57189523,-3.92700731,38.70983941",
@@ -141,6 +153,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -149,6 +163,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_13071",
+        "eurostat:nuts_2021_id":"13071",
         "gn:id":6357165,
         "gp:id":12690368,
         "qs_pg:id":248626
@@ -157,7 +173,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"281a9cae155e2191589ec7a71e61a38c",
+    "wof:geomhash":"df007bd9b54e514da4f039912f4d3b6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,10 +184,12 @@
         }
     ],
     "wof:id":404333569,
-    "wof:lastmodified":1582361758,
+    "wof:lastmodified":1684352281,
     "wof:name":"Puertollano",
     "wof:parent_id":85682689,
     "wof:placetype":"localadmin",
+    "wof:population":46607,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

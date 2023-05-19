@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_32069",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ribadavia",
+    "eurostat:nuts_2021_id":"32069",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES113",
+    "eurostat:nuts_2021_level_lau":"32069",
+    "eurostat:population":5012,
+    "eurostat:population_year":2020,
     "geom:area":0.002746,
-    "geom:area_square_m":25117838.696631,
+    "geom:area_square_m":25117838.696628,
     "geom:bbox":"-8.18876259,42.2433985,-8.07501456,42.33189701",
     "geom:latitude":42.290386,
     "geom:longitude":-8.136733,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_32069",
+        "eurostat:nuts_2021_id":"32069",
         "gn:id":6359886,
         "gp:id":12694928,
         "qs_pg:id":1188912
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7f8d3133434932961f88d631d67abff8",
+    "wof:geomhash":"0dc141523fd2520adb74730e23d88916",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404340227,
-    "wof:lastmodified":1582361648,
+    "wof:lastmodified":1684352404,
     "wof:name":"Ribadavia",
     "wof:parent_id":85682801,
     "wof:placetype":"localadmin",
+    "wof:population":5012,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

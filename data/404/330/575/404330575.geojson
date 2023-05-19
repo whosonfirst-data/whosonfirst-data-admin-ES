@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06097",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Orellana la Vieja",
+    "eurostat:nuts_2021_id":"06097",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06097",
+    "eurostat:population":2641,
+    "eurostat:population_year":2020,
     "geom:area":0.003853,
     "geom:area_square_m":37018673.581188,
     "geom:bbox":"-5.60300111,38.97886197,-5.51752018,39.06299674",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06097",
+        "eurostat:nuts_2021_id":"06097",
         "gn:id":6355962,
         "gp:id":12694416,
         "qs_pg:id":1149608
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e0522b0d1cad5bc694fa4f6d7109a5f0",
+    "wof:geomhash":"515ee12758b13528d05fc13a76087097",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330575,
-    "wof:lastmodified":1582361529,
+    "wof:lastmodified":1684352226,
     "wof:name":"Orellana La Vieja",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":2641,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

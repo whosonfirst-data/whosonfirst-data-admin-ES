@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09478",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vizca\u00ednos",
+    "eurostat:nuts_2021_id":"09478",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09478",
+    "eurostat:population":44,
+    "eurostat:population_year":2020,
     "geom:area":0.00125,
     "geom:area_square_m":11465854.085424,
     "geom:bbox":"-3.30406897,42.0827166,-3.24594287,42.12963439",
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09478",
+        "eurostat:nuts_2021_id":"09478",
         "gn:id":6356686,
         "gp:id":12691742,
         "qs_pg:id":998943
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1361e0c8f98a49e2ca7640e17c102ba2",
+    "wof:geomhash":"bb70d5d40880a19c6f71a14f423df0b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404332483,
-    "wof:lastmodified":1582361679,
+    "wof:lastmodified":1684352265,
     "wof:name":"Vizca\u00ednos",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":44,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

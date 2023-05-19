@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alcaudete de la Jara",
+    "eurostat:nuts_2021_id":"45006",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45006",
+    "eurostat:population":1660,
+    "eurostat:population_year":2020,
     "geom:area":0.016412,
     "geom:area_square_m":155971721.832412,
     "geom:bbox":"-4.92221636,39.66047675,-4.74634855,39.84620047",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45006",
+        "eurostat:nuts_2021_id":"45006",
         "gn:id":6361667,
         "gp:id":12690928,
         "qs_pg:id":1025343
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"264b35bbb25ba37be101ec4b130630f0",
+    "wof:geomhash":"2b4e340fed76c420acb31629a769b306",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404344353,
-    "wof:lastmodified":1582361844,
+    "wof:lastmodified":1684352472,
     "wof:name":"Alcaudete De La Jara",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":1660,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

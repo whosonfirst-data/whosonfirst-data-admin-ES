@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37089",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casafranca",
+    "eurostat:nuts_2021_id":"37089",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37089",
+    "eurostat:population":64,
+    "eurostat:population_year":2020,
     "geom:area":0.00315,
     "geom:area_square_m":29570634.80119,
     "geom:bbox":"-5.81302847,40.57165047,-5.73727393,40.64485338",
@@ -99,6 +111,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -106,9 +120,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_37089",
+        "eurostat:nuts_2021_id":"37089"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"f6d97a01aaafceb459421677e201dd23",
+    "wof:geomhash":"7a0b95ba0844bc693548d90caabd8ace",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +136,12 @@
         }
     ],
     "wof:id":404341283,
-    "wof:lastmodified":1566590339,
+    "wof:lastmodified":1684352422,
     "wof:name":"Casafranca",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":64,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

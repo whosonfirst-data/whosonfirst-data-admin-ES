@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09437",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villahoz",
+    "eurostat:nuts_2021_id":"09437",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09437",
+    "eurostat:population":287,
+    "eurostat:population_year":2020,
     "geom:area":0.005497,
-    "geom:area_square_m":50457359.57685,
+    "geom:area_square_m":50457359.576849,
     "geom:bbox":"-3.96815563,42.01184334,-3.86006621,42.11384461",
     "geom:latitude":42.073339,
     "geom:longitude":-3.91174,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09437",
+        "eurostat:nuts_2021_id":"09437",
         "gn:id":6356659,
         "gp:id":12691711,
         "qs_pg:id":46356
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"27c548713820252cdb4162dc05e046e0",
+    "wof:geomhash":"5a960dfa4a85f8bf1b8d76d967da602d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404332419,
-    "wof:lastmodified":1582361686,
+    "wof:lastmodified":1684352264,
     "wof:name":"Villahoz",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":287,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

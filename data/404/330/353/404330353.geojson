@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05904",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santiago del Tormes",
+    "eurostat:nuts_2021_id":"05904",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05904",
+    "eurostat:population":114,
+    "eurostat:population_year":2020,
     "geom:area":0.007255,
-    "geom:area_square_m":68374770.211538,
+    "geom:area_square_m":68374770.21154,
     "geom:bbox":"-5.45010926,40.28689642,-5.31637458,40.40464208",
     "geom:latitude":40.345977,
     "geom:longitude":-5.374091,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05904",
+        "eurostat:nuts_2021_id":"05904",
         "gn:id":6355865,
         "gp:id":12691338,
         "qs_pg:id":1180908
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9507c4a47ab7ab486c04f397eeca146b",
+    "wof:geomhash":"81a10fceda20c063c105afdc47d3042d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330353,
-    "wof:lastmodified":1582361519,
+    "wof:lastmodified":1684352222,
     "wof:name":"Santiago Del Tormes",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":114,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

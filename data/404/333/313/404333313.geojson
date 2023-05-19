@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Rafael del R\u00edo",
+    "eurostat:nuts_2021_id":"12101",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12101",
+    "eurostat:population":466,
+    "eurostat:population_year":2020,
     "geom:area":0.00225,
     "geom:area_square_m":21126046.138195,
     "geom:bbox":"0.30028271,40.56424941,0.39233974,40.6169071",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227381
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_12101",
+        "eurostat:nuts_2021_id":"12101"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"23a3cba94f0b6f8024e1e7676264515d",
+    "wof:geomhash":"a7d42a15928baa59d3600503ddfec678",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404333313,
-    "wof:lastmodified":1566590792,
+    "wof:lastmodified":1684352277,
     "wof:name":"San Rafael Del R\u00edo",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":466,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

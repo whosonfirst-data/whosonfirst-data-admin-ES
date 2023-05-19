@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8246,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08246",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Eug\u00e8nia de Berga",
+    "eurostat:nuts_2021_id":"08246",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08246",
+    "eurostat:population":2278,
+    "eurostat:population_year":2020,
     "geom:area":0.000758,
-    "geom:area_square_m":6974759.755192,
+    "geom:area_square_m":6974788.775026,
     "geom:bbox":"2.259946,41.894615,2.304357,41.924896",
     "geom:latitude":41.908299,
     "geom:longitude":2.280937,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08246",
         "esp-icgc:la_lc":"08246",
+        "eurostat:nuts_2021_id":"08246",
         "gn:id":6356267,
         "gp:id":12693626,
         "qs_pg:id":227965
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"c2c3245ed617972dfe74b87f8c5b2488",
+    "wof:geomhash":"5bda81e38bb20822e18ddb491020c6bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404331427,
-    "wof:lastmodified":1669903010,
+    "wof:lastmodified":1684352251,
     "wof:name":"Santa Eug\u00e8nia de Berga",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":2278,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

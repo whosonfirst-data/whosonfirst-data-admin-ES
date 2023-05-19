@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43043,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Catllar, El",
+    "eurostat:nuts_2021_id":"43043",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43043",
+    "eurostat:population":4557,
+    "eurostat:population_year":2020,
     "geom:area":0.002828,
-    "geom:area_square_m":26315252.849647,
+    "geom:area_square_m":26315345.966446,
     "geom:bbox":"1.271098,41.146073,1.366418,41.210468",
     "geom:latitude":41.17837,
     "geom:longitude":1.306938,
@@ -118,6 +130,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -126,7 +140,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43043",
         "esp-icgc:la_lc":"043043",
+        "eurostat:nuts_2021_id":"43043",
         "gn:id":6361286,
         "gp:id":12694182,
         "qs_pg:id":245445
@@ -136,7 +152,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"fd13a118aaa313beaf6d9d6fcdca8dd5",
+    "wof:geomhash":"74b25a7c45b017b5d36b55c72723b4dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404343489,
-    "wof:lastmodified":1669903068,
+    "wof:lastmodified":1684352454,
     "wof:name":"El Catllar",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":4557,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

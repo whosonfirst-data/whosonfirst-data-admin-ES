@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_32048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mezquita, A",
+    "eurostat:nuts_2021_id":"32048",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES113",
+    "eurostat:nuts_2021_level_lau":"32048",
+    "eurostat:population":1013,
+    "eurostat:population_year":2020,
     "geom:area":0.011331,
-    "geom:area_square_m":104113279.204821,
+    "geom:area_square_m":104113279.20482,
     "geom:bbox":"-7.11537555,41.9487494,-6.96109831,42.07665647",
     "geom:latitude":42.006837,
     "geom:longitude":-7.033788,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_32048",
+        "eurostat:nuts_2021_id":"32048",
         "gn:id":6359866,
         "gp:id":12694907,
         "qs_pg:id":1166623
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b72a94423947d316b7ea879cb0dd457c",
+    "wof:geomhash":"025327a9ca917f2bdb15f12e8d00602a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404340179,
-    "wof:lastmodified":1582361666,
+    "wof:lastmodified":1684352403,
     "wof:name":"A Mezquita",
     "wof:parent_id":85682801,
     "wof:placetype":"localadmin",
+    "wof:population":1013,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

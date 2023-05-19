@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_01062",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zambrana",
+    "eurostat:nuts_2021_id":"01062",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES211",
+    "eurostat:nuts_2021_level_lau":"01062",
+    "eurostat:population":416,
+    "eurostat:population_year":2020,
     "geom:area":0.004338,
-    "geom:area_square_m":39443772.657372,
+    "geom:area_square_m":39443772.657371,
     "geom:bbox":"-2.90069987,42.6312619,-2.73768616,42.68584608",
     "geom:latitude":42.657366,
     "geom:longitude":-2.822087,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_01062",
+        "eurostat:nuts_2021_id":"01062",
         "gn:id":6355289,
         "gp:id":12695064,
         "qs_pg:id":1018458
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"610b2a92f273f57903711eb2757d3d36",
+    "wof:geomhash":"e26b67a865e6ed8d3be5a82f7c2dc1cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404329045,
-    "wof:lastmodified":1582361798,
+    "wof:lastmodified":1684352203,
     "wof:name":"Zambrana",
     "wof:parent_id":85682615,
     "wof:placetype":"localadmin",
+    "wof:population":416,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25224,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25224",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torms, Els",
+    "eurostat:nuts_2021_id":"25224",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25224",
+    "eurostat:population":138,
+    "eurostat:population_year":2020,
     "geom:area":0.001454,
-    "geom:area_square_m":13488315.371424,
+    "geom:area_square_m":13488250.690694,
     "geom:bbox":"0.689734,41.3705,0.746801,41.416494",
     "geom:latitude":41.395041,
     "geom:longitude":0.721451,
@@ -118,6 +130,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -126,7 +140,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25224",
         "esp-icgc:la_lc":"025224",
+        "eurostat:nuts_2021_id":"25224",
         "gn:id":6358952,
         "gp:id":12694107,
         "qs_pg:id":47666
@@ -136,7 +152,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2634dc23f530d343820a9c648e69f7fb",
+    "wof:geomhash":"72665170c602e556f3a89d1e6ebe326f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404338053,
-    "wof:lastmodified":1669902992,
+    "wof:lastmodified":1684352369,
     "wof:name":"Els Torms",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":138,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

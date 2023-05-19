@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_21016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cala",
+    "eurostat:nuts_2021_id":"21016",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES615",
+    "eurostat:nuts_2021_level_lau":"21016",
+    "eurostat:population":1159,
+    "eurostat:population_year":2020,
     "geom:area":0.008605,
-    "geom:area_square_m":83893418.003426,
+    "geom:area_square_m":83893418.00342,
     "geom:bbox":"-6.41140521,37.91820549,-6.23324407,38.01665675",
     "geom:latitude":37.959625,
     "geom:longitude":-6.332328,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_21016",
+        "eurostat:nuts_2021_id":"21016",
         "gn:id":6358192,
         "gp:id":12689030,
         "qs_pg:id":45075
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6941e02f0840d62137039a9ca8ed8d1d",
+    "wof:geomhash":"f462c5eb117dfd076553726b4eb9c3be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404336317,
-    "wof:lastmodified":1582361477,
+    "wof:lastmodified":1684352336,
     "wof:name":"Cala",
     "wof:parent_id":85682749,
     "wof:placetype":"localadmin",
+    "wof:population":1159,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8242,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08242",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marganell",
+    "eurostat:nuts_2021_id":"08242",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08242",
+    "eurostat:population":266,
+    "eurostat:population_year":2020,
     "geom:area":0.001443,
-    "geom:area_square_m":13334676.366273,
+    "geom:area_square_m":13334676.366272,
     "geom:bbox":"1.77732047803,41.6003602182,1.83107260089,41.6592911614",
     "geom:latitude":41.628879,
     "geom:longitude":1.802662,
@@ -136,6 +148,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -144,7 +158,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08242",
         "esp-icgc:la_lc":"08242",
+        "eurostat:nuts_2021_id":"08242",
         "gp:id":12693494,
         "qs_pg:id":64371
     },
@@ -153,7 +169,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7440cbd93526ac0a4e5d03a54efa853a",
+    "wof:geomhash":"6bd1c9519ba99e4e27c3a04fa0496974",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404331419,
-    "wof:lastmodified":1582361503,
+    "wof:lastmodified":1684352251,
     "wof:name":"Marganell",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":266,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

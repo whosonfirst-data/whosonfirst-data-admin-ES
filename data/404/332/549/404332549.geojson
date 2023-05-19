@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aliseda",
+    "eurostat:nuts_2021_id":"10018",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10018",
+    "eurostat:population":1777,
+    "eurostat:population_year":2020,
     "geom:area":0.00842,
-    "geom:area_square_m":80443489.679351,
+    "geom:area_square_m":80443489.679352,
     "geom:bbox":"-6.76885759,39.35043078,-6.63393225,39.46261609",
     "geom:latitude":39.404543,
     "geom:longitude":-6.697739,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10018",
+        "eurostat:nuts_2021_id":"10018",
         "gn:id":6356715,
         "gp:id":12694500,
         "qs_pg:id":289940
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c37d829d89bdcc6eb4e25d3a10fb874f",
+    "wof:geomhash":"6aeeeb9b3edb00f8b87024a192ab80f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404332549,
-    "wof:lastmodified":1582361690,
+    "wof:lastmodified":1684352265,
     "wof:name":"Aliseda",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":1777,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

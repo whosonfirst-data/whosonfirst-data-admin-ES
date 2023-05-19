@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42130",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nepas",
+    "eurostat:nuts_2021_id":"42130",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42130",
+    "eurostat:population":52,
+    "eurostat:population_year":2020,
     "geom:area":0.00271,
-    "geom:area_square_m":25091479.250315,
+    "geom:area_square_m":25091479.250316,
     "geom:bbox":"-2.43598921,41.48198533,-2.37133417,41.55797701",
     "geom:latitude":41.521003,
     "geom:longitude":-2.403919,
@@ -186,6 +198,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -194,6 +208,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42130",
+        "eurostat:nuts_2021_id":"42130",
         "gn:id":6361171,
         "gp:id":12692830,
         "qs_pg:id":46900
@@ -202,7 +218,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9a1d7183e6409a1dfc4d36d2b379a1c5",
+    "wof:geomhash":"74d360b4d49ced915fb83117b13aa864",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -213,10 +229,12 @@
         }
     ],
     "wof:id":404343231,
-    "wof:lastmodified":1582361888,
+    "wof:lastmodified":1684352449,
     "wof:name":"Nepas",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":52,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

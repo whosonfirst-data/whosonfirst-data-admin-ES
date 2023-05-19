@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18063",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Darro",
+    "eurostat:nuts_2021_id":"18063",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18063",
+    "eurostat:population":1634,
+    "eurostat:population_year":2020,
     "geom:area":0.005152,
     "geom:area_square_m":50627798.756046,
     "geom:bbox":"-3.34992266,37.32273273,-3.23302545,37.3996352",
@@ -48,6 +60,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -56,6 +70,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18063",
+        "eurostat:nuts_2021_id":"18063",
         "gn:id":6357691,
         "gp:id":12688902,
         "qs_pg:id":288217
@@ -64,7 +80,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0a72f77973bef88a653022368493cd00",
+    "wof:geomhash":"639e5fd2ac26f30a6b3c16a99d1a561e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,10 +91,12 @@
         }
     ],
     "wof:id":404335171,
-    "wof:lastmodified":1582361713,
+    "wof:lastmodified":1684352321,
     "wof:name":"Darro",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":1634,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

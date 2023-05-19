@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Acered",
+    "eurostat:nuts_2021_id":"50002",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50002",
+    "eurostat:population":158,
+    "eurostat:population_year":2020,
     "geom:area":0.003262,
-    "geom:area_square_m":30365456.860581,
+    "geom:area_square_m":30365456.860579,
     "geom:bbox":"-1.64119987,41.11884504,-1.5601906,41.20114181",
     "geom:latitude":41.159762,
     "geom:longitude":-1.602261,
@@ -99,6 +111,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -106,9 +120,12 @@
         404227363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_50002",
+        "eurostat:nuts_2021_id":"50002"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"3d3ab6cd0c91c0f556947d95e36b55b7",
+    "wof:geomhash":"beb7610dff050722238e42fd350aedc8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +136,12 @@
         }
     ],
     "wof:id":404346719,
-    "wof:lastmodified":1566590281,
+    "wof:lastmodified":1684352502,
     "wof:name":"Acered",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":158,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

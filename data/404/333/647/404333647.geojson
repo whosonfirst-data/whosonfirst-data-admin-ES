@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_14004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Almedinilla",
+    "eurostat:nuts_2021_id":"14004",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES613",
+    "eurostat:nuts_2021_level_lau":"14004",
+    "eurostat:population":2370,
+    "eurostat:population_year":2020,
     "geom:area":0.005652,
-    "geom:area_square_m":55494673.446173,
+    "geom:area_square_m":55494673.446172,
     "geom:bbox":"-4.11435427,37.40011765,-4.00082126,37.48636706",
     "geom:latitude":37.435804,
     "geom:longitude":-4.06749,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_14004",
+        "eurostat:nuts_2021_id":"14004",
         "gn:id":6357199,
         "gp:id":12688775,
         "qs_pg:id":51526
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e81e0a2bade9c2f46b4a8896b15c3885",
+    "wof:geomhash":"6cfc5be7e654f172975e135a869c6a9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404333647,
-    "wof:lastmodified":1582361777,
+    "wof:lastmodified":1684352282,
     "wof:name":"Almedinilla",
     "wof:parent_id":85682697,
     "wof:placetype":"localadmin",
+    "wof:population":2370,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

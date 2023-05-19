@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24081",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gusendos de los Oteros",
+    "eurostat:nuts_2021_id":"24081",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24081",
+    "eurostat:population":126,
+    "eurostat:population_year":2020,
     "geom:area":0.002698,
     "geom:area_square_m":24641130.087737,
     "geom:bbox":"-5.47385375,42.35602231,-5.37123389,42.41365372",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_24081",
+        "eurostat:nuts_2021_id":"24081",
         "gn:id":6358625,
         "gp:id":12691821,
         "qs_pg:id":1147900
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"584bae5a3e150fcdb646d8f63f6d4f33",
+    "wof:geomhash":"a6872d200efafb8ff5c7c2ca9ca3fc9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404337301,
-    "wof:lastmodified":1582361550,
+    "wof:lastmodified":1684352351,
     "wof:name":"Gusendos De Los Oteros",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":126,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

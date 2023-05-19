@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46200",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pobla del Duc, la",
+    "eurostat:nuts_2021_id":"46200",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46200",
+    "eurostat:population":2515,
+    "eurostat:population_year":2020,
     "geom:area":0.001959,
     "geom:area_square_m":18854751.173811,
     "geom:bbox":"-0.46650816,38.87842661,-0.37839047,38.92466164",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46200",
+        "eurostat:nuts_2021_id":"46200",
         "gn:id":6362065,
         "qs_pg:id":103408
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8a48f8019bfe31f492105eb59efa91cc",
+    "wof:geomhash":"cdd915a58d823e257d72209ae3d0b5da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404345249,
-    "wof:lastmodified":1582361836,
+    "wof:lastmodified":1684352484,
     "wof:name":"La Pobla Del Duc",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":2515,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

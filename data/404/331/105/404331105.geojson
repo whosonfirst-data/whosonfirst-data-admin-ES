@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8101,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hospitalet de Llobregat, L'",
+    "eurostat:nuts_2021_id":"08101",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08101",
+    "eurostat:population":269382,
+    "eurostat:population_year":2020,
     "geom:area":0.00135,
-    "geom:area_square_m":12534277.927129,
+    "geom:area_square_m":12534256.015084,
     "geom:bbox":"2.08639,41.336042,2.137433,41.380578",
     "geom:latitude":41.357622,
     "geom:longitude":2.112113,
@@ -65,6 +77,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -73,7 +87,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08101",
         "esp-icgc:la_lc":"08101",
+        "eurostat:nuts_2021_id":"08101",
         "gn:id":6356131,
         "gp:id":12693480,
         "qs_pg:id":891492
@@ -83,7 +99,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1e997905a9fb18973f33197925e9c275",
+    "wof:geomhash":"5bb03e9294deb772f2ce7e2a00ef9f82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,10 +110,12 @@
         }
     ],
     "wof:id":404331105,
-    "wof:lastmodified":1669902998,
+    "wof:lastmodified":1684352241,
     "wof:name":"L'Hospitalet de Llobregat",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":269382,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

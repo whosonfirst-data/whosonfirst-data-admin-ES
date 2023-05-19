@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_41080",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Real de la Jara, El",
+    "eurostat:nuts_2021_id":"41080",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES618",
+    "eurostat:nuts_2021_level_lau":"41080",
+    "eurostat:population":1494,
+    "eurostat:population_year":2020,
     "geom:area":0.016129,
-    "geom:area_square_m":157265004.266161,
+    "geom:area_square_m":157265004.266166,
     "geom:bbox":"-6.18412092,37.90316875,-5.93248656,38.00001483",
     "geom:latitude":37.950531,
     "geom:longitude":-6.050364,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_41080",
+        "eurostat:nuts_2021_id":"41080",
         "gn:id":6361035,
         "qs_pg:id":621881
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4b93aa6ee71e89b8f0ae796f2e4227af",
+    "wof:geomhash":"3b9a9c8c49e6568eb0cacb941c85719e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404342923,
-    "wof:lastmodified":1582361813,
+    "wof:lastmodified":1684352445,
     "wof:name":"El Real De La Jara",
     "wof:parent_id":85682841,
     "wof:placetype":"localadmin",
+    "wof:population":1494,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

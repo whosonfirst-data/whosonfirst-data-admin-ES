@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Benafigos",
+    "eurostat:nuts_2021_id":"12025",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12025",
+    "eurostat:population":138,
+    "eurostat:population_year":2020,
     "geom:area":0.00377,
-    "geom:area_square_m":35562617.78351,
+    "geom:area_square_m":35562617.783511,
     "geom:bbox":"-0.23862942,40.23518943,-0.13540751,40.32268342",
     "geom:latitude":40.273168,
     "geom:longitude":-0.195314,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12025",
+        "eurostat:nuts_2021_id":"12025",
         "gn:id":6356982,
         "gp:id":12695429,
         "qs_pg:id":48471
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"149aa7f824b75672446137ebf0c71388",
+    "wof:geomhash":"53138f34faa26f5b1a35d41e36280938",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404333157,
-    "wof:lastmodified":1582361759,
+    "wof:lastmodified":1684352275,
     "wof:name":"Benafigos",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":138,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

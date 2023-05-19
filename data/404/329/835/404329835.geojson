@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Barraco, El",
+    "eurostat:nuts_2021_id":"05022",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05022",
+    "eurostat:population":1893,
+    "eurostat:population_year":2020,
     "geom:area":0.016337,
-    "geom:area_square_m":153738487.533701,
+    "geom:area_square_m":153738487.533699,
     "geom:bbox":"-4.68343844,40.34292572,-4.52293802,40.54963507",
     "geom:latitude":40.442857,
     "geom:longitude":-4.595146,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05022",
+        "eurostat:nuts_2021_id":"05022",
         "gn:id":6355634,
         "gp:id":12691142,
         "qs_pg:id":63547
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b2e9f2784d0d2bc90515703fd244d6e9",
+    "wof:geomhash":"2a472c5ed38f8020498cade3bbad53ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404329835,
-    "wof:lastmodified":1582361792,
+    "wof:lastmodified":1684352216,
     "wof:name":"El Barraco",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":1893,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

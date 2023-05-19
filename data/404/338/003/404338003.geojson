@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25200,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25200",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sarroca de Lleida",
+    "eurostat:nuts_2021_id":"25200",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25200",
+    "eurostat:population":358,
+    "eurostat:population_year":2020,
     "geom:area":0.004502,
-    "geom:area_square_m":41720779.286935,
+    "geom:area_square_m":41720715.133464,
     "geom:bbox":"0.517964,41.40989,0.598891,41.506053",
     "geom:latitude":41.463926,
     "geom:longitude":0.560021,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25200",
         "esp-icgc:la_lc":"025200",
+        "eurostat:nuts_2021_id":"25200",
         "gn:id":6358930,
         "gp:id":12694085,
         "qs_pg:id":240815
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"df6571b43b8674612194369c4acefcb7",
+    "wof:geomhash":"f5f9ba00f79513c028671496db551830",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404338003,
-    "wof:lastmodified":1669902995,
+    "wof:lastmodified":1684352367,
     "wof:name":"Sarroca de Lleida",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":358,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

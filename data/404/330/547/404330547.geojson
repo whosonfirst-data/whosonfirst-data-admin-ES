@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06085",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monesterio",
+    "eurostat:nuts_2021_id":"06085",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06085",
+    "eurostat:population":4216,
+    "eurostat:population_year":2020,
     "geom:area":0.033083,
-    "geom:area_square_m":322172975.727263,
+    "geom:area_square_m":322172975.727284,
     "geom:bbox":"-6.33642007,37.94102603,-5.9536882,38.16632618",
     "geom:latitude":38.040907,
     "geom:longitude":-6.201881,
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06085",
+        "eurostat:nuts_2021_id":"06085",
         "gn:id":6355950,
         "gp:id":12694404,
         "qs_pg:id":1023748
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"980ea11473bc73760b8e286eca48a261",
+    "wof:geomhash":"da0c7634d4f91513d9684c6296c7d6ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404330547,
-    "wof:lastmodified":1582361541,
+    "wof:lastmodified":1684352226,
     "wof:name":"Monesterio",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":4216,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

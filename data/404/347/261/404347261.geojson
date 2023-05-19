@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50251",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tarazona",
+    "eurostat:nuts_2021_id":"50251",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50251",
+    "eurostat:population":10558,
+    "eurostat:population_year":2020,
     "geom:area":0.026479,
-    "geom:area_square_m":243658928.894494,
+    "geom:area_square_m":243658928.894497,
     "geom:bbox":"-1.86518806,41.77836919,-1.57664942,42.00800926",
     "geom:latitude":41.910715,
     "geom:longitude":-1.747859,
@@ -129,6 +141,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -137,6 +151,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50251",
+        "eurostat:nuts_2021_id":"50251",
         "gn:id":6362937,
         "gp:id":12690077,
         "qs_pg:id":1118794
@@ -145,7 +161,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"10023bcf209a5675f51dd4c6f3dd3969",
+    "wof:geomhash":"4ff1c1a03fa447237080c2db915bd939",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404347261,
-    "wof:lastmodified":1582361670,
+    "wof:lastmodified":1684352509,
     "wof:name":"Tarazona",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":10558,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

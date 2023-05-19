@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_20025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zegama",
+    "eurostat:nuts_2021_id":"20025",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES212",
+    "eurostat:nuts_2021_level_lau":"20025",
+    "eurostat:population":1524,
+    "eurostat:population_year":2020,
     "geom:area":0.00387,
-    "geom:area_square_m":35015234.522696,
+    "geom:area_square_m":35015234.522697,
     "geom:bbox":"-2.34078381,42.93139269,-2.25674172,42.99786336",
     "geom:latitude":42.965001,
     "geom:longitude":-2.296157,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_20025",
+        "eurostat:nuts_2021_id":"20025",
         "gn:id":6358115,
         "gp:id":12695149,
         "qs_pg:id":621677
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c30caa701f088aca6d734f4f2ba7519e",
+    "wof:geomhash":"46e589e453182cf93131916b4555169b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404336139,
-    "wof:lastmodified":1582361470,
+    "wof:lastmodified":1684352334,
     "wof:name":"Zegama",
     "wof:parent_id":85682741,
     "wof:placetype":"localadmin",
+    "wof:population":1524,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

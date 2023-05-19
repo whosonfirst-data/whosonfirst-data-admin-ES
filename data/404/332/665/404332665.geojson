@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10069",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cumbre, La",
+    "eurostat:nuts_2021_id":"10069",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10069",
+    "eurostat:population":841,
+    "eurostat:population_year":2020,
     "geom:area":0.011878,
-    "geom:area_square_m":113413375.658882,
+    "geom:area_square_m":113413375.658876,
     "geom:bbox":"-6.06187509,39.36003652,-5.92992088,39.528619",
     "geom:latitude":39.447649,
     "geom:longitude":-6.000128,
@@ -66,6 +78,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -74,6 +88,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10069",
+        "eurostat:nuts_2021_id":"10069",
         "gn:id":6356766,
         "gp:id":12694551,
         "qs_pg:id":621576
@@ -82,7 +98,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b2bde8582e0c959bf3916f76a964d34f",
+    "wof:geomhash":"a4f401000cefabad7bee84ea4c2c6ffb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,10 +109,12 @@
         }
     ],
     "wof:id":404332665,
-    "wof:lastmodified":1582361690,
+    "wof:lastmodified":1684352267,
     "wof:name":"La Cumbre",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":841,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

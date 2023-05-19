@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42158",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rioseco de Soria",
+    "eurostat:nuts_2021_id":"42158",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42158",
+    "eurostat:population":124,
+    "eurostat:population_year":2020,
     "geom:area":0.005406,
-    "geom:area_square_m":49956445.990888,
+    "geom:area_square_m":49956445.99089,
     "geom:bbox":"-2.9440862,41.59234789,-2.79770729,41.6885122",
     "geom:latitude":41.636606,
     "geom:longitude":-2.851099,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_42158",
+        "eurostat:nuts_2021_id":"42158"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"0d1a95f87770502d14620e55e7af67b3",
+    "wof:geomhash":"894aeed8cb7f5234d59dd3efb397a043",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404343275,
-    "wof:lastmodified":1566591163,
+    "wof:lastmodified":1684352449,
     "wof:name":"Rioseco De Soria",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":124,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

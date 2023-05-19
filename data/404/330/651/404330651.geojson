@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06131",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torre de Miguel Sesmero",
+    "eurostat:nuts_2021_id":"06131",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06131",
+    "eurostat:population":1246,
+    "eurostat:population_year":2020,
     "geom:area":0.006,
-    "geom:area_square_m":57945405.258601,
+    "geom:area_square_m":57945405.258599,
     "geom:bbox":"-6.80951751,38.590267,-6.72160037,38.70776193",
     "geom:latitude":38.642957,
     "geom:longitude":-6.765673,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06131",
+        "eurostat:nuts_2021_id":"06131",
         "gn:id":6355996,
         "gp:id":12694450,
         "qs_pg:id":1149611
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1dcdb52314c1bdb0cb9a32496137f907",
+    "wof:geomhash":"8ee4e033ffb75acb6aad69beddc3df94",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330651,
-    "wof:lastmodified":1582361525,
+    "wof:lastmodified":1684352227,
     "wof:name":"Torre De Miguel Sesmero",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":1246,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

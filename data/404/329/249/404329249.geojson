@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_02901",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pozo Ca\u00f1ada",
+    "eurostat:nuts_2021_id":"02901",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES421",
+    "eurostat:nuts_2021_level_lau":"02901",
+    "eurostat:population":2791,
+    "eurostat:population_year":2020,
     "geom:area":0.012147,
     "geom:area_square_m":117081667.602336,
     "geom:bbox":"-1.84371965,38.68632002,-1.67651223,38.88130375",
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_02901",
+        "eurostat:nuts_2021_id":"02901",
         "gn:id":7577087,
         "gp:id":23388489,
         "qs_pg:id":506383
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2b497ba31badc89ee324ddc244e0df95",
+    "wof:geomhash":"203b33b4a1a9c31849b4e670c64fc42f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404329249,
-    "wof:lastmodified":1582361799,
+    "wof:lastmodified":1684352207,
     "wof:name":"Pozo Ca\u00f1ada",
     "wof:parent_id":85682621,
     "wof:placetype":"localadmin",
+    "wof:population":2791,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40162",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pr\u00e1dena",
+    "eurostat:nuts_2021_id":"40162",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40162",
+    "eurostat:population":510,
+    "eurostat:population_year":2020,
     "geom:area":0.004939,
-    "geom:area_square_m":45987005.20788,
+    "geom:area_square_m":45987005.207881,
     "geom:bbox":"-3.73622941,41.08423042,-3.6342133,41.20499334",
     "geom:latitude":41.144306,
     "geom:longitude":-3.689148,
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_40162",
+        "eurostat:nuts_2021_id":"40162",
         "gn:id":6360887,
         "gp:id":12692657,
         "qs_pg:id":270708
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e26b118c4df961bd5900432da30f0810",
+    "wof:geomhash":"a59100cd6a5bf989b46beed803874c98",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404342587,
-    "wof:lastmodified":1582361814,
+    "wof:lastmodified":1684352441,
     "wof:name":"Pr\u00e1dena",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":510,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

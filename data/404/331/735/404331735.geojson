@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09067",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Canicosa de la Sierra",
+    "eurostat:nuts_2021_id":"09067",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09067",
+    "eurostat:population":433,
+    "eurostat:population_year":2020,
     "geom:area":0.003205,
-    "geom:area_square_m":29488234.490548,
+    "geom:area_square_m":29488234.490547,
     "geom:bbox":"-3.06600995,41.88690641,-2.99848408,41.95728748",
     "geom:latitude":41.924935,
     "geom:longitude":-3.03344,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09067",
+        "eurostat:nuts_2021_id":"09067",
         "gn:id":6356385,
         "gp:id":12691431,
         "qs_pg:id":1180928
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d2d52b6726f211411e6b0e6c447f4a0d",
+    "wof:geomhash":"9701c7735a50f3d7ae277e699049eeaa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404331735,
-    "wof:lastmodified":1582361501,
+    "wof:lastmodified":1684352258,
     "wof:name":"Canicosa De La Sierra",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":433,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

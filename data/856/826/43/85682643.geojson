@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"ES",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"Badajoz",
+    "eurostat:name_local":"Badajoz",
+    "eurostat:nuts_2021_id":"ES431",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:population":666955,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"2",
     "geom:area":2.254271,
-    "geom:area_square_m":21750743546.510872,
+    "geom:area_square_m":21750744208.473766,
     "geom:bbox":"-7.335962,37.941026,-4.647577,39.451789",
     "geom:latitude":38.709775,
     "geom:longitude":-6.141453,
@@ -318,6 +332,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "unlc:subdivision":"ES-BA",
     "wof:belongsto":[
         102191581,
@@ -327,6 +343,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":24016,
+        "eurostat:nuts_2021_id":"ES431",
         "fips:code":"SP90",
         "gn:id":2521419,
         "gp:id":12602128,
@@ -334,7 +351,7 @@
         "unlc:id":"ES-BA"
     },
     "wof:country":"ES",
-    "wof:geomhash":"b3549743d6095bb7d9491d56e1959b42",
+    "wof:geomhash":"06099bc9f03c5add39004acb5e3e370e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -354,10 +371,12 @@
         "eus",
         "ast"
     ],
-    "wof:lastmodified":1636503254,
+    "wof:lastmodified":1684351537,
     "wof:name":"Badajoz",
     "wof:parent_id":404227383,
     "wof:placetype":"region",
+    "wof:population":666955,
+    "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:shortcode":"EX",
     "wof:subdivision":"ES-BA",

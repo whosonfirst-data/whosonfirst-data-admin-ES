@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22223",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sopeira",
+    "eurostat:nuts_2021_id":"22223",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22223",
+    "eurostat:population":91,
+    "eurostat:population_year":2020,
     "geom:area":0.004816,
     "geom:area_square_m":44018416.38102,
     "geom:bbox":"0.66715363,42.28147249,0.77130667,42.39488891",
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22223",
+        "eurostat:nuts_2021_id":"22223",
         "gn:id":6358421,
         "gp:id":12689569,
         "qs_pg:id":1188245
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"25d3063b9a6958a987d4b4b808ddfad1",
+    "wof:geomhash":"4c802cc9254a76995b2625ff35b0a834",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404336837,
-    "wof:lastmodified":1582361475,
+    "wof:lastmodified":1684352344,
     "wof:name":"Sopeira",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":91,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

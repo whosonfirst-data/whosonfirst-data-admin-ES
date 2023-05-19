@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22162",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Novales",
+    "eurostat:nuts_2021_id":"22162",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22162",
+    "eurostat:population":152,
+    "eurostat:population_year":2020,
     "geom:area":0.002183,
-    "geom:area_square_m":20052342.985544,
+    "geom:area_square_m":20052342.985545,
     "geom:bbox":"-0.32062869,42.00703379,-0.23357985,42.05552047",
     "geom:latitude":42.02886,
     "geom:longitude":-0.281073,
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22162",
+        "eurostat:nuts_2021_id":"22162",
         "gn:id":6358376,
         "gp:id":12689521,
         "qs_pg:id":45347
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"787d7152454363f9595f0f7c18f1e439",
+    "wof:geomhash":"78420ea3f7a539f5d70cce882a0e0130",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404336735,
-    "wof:lastmodified":1582361470,
+    "wof:lastmodified":1684352343,
     "wof:name":"Novales",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":152,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12074",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Llosa, la",
+    "eurostat:nuts_2021_id":"12074",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12074",
+    "eurostat:population":982,
+    "eurostat:population_year":2020,
     "geom:area":0.00105,
-    "geom:area_square_m":9981922.033099,
+    "geom:area_square_m":9981922.0331,
     "geom:bbox":"-0.24610246,39.74592742,-0.16721845,39.78699058",
     "geom:latitude":39.767178,
     "geom:longitude":-0.202431,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12074",
+        "eurostat:nuts_2021_id":"12074",
         "gn:id":6357025,
         "gp:id":12695471,
         "qs_pg:id":621592
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"220b14fab312d32a6ea2ed28d5733a93",
+    "wof:geomhash":"9a3d043cc048e2b0c04dbc706fe2d47d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404333255,
-    "wof:lastmodified":1582361782,
+    "wof:lastmodified":1684352276,
     "wof:name":"La Llosa",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":982,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_02003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Albacete",
+    "eurostat:nuts_2021_id":"02003",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES421",
+    "eurostat:nuts_2021_level_lau":"02003",
+    "eurostat:population":174336,
+    "eurostat:population_year":2020,
     "geom:area":0.117005,
-    "geom:area_square_m":1125060860.50682,
+    "geom:area_square_m":1125060860.506824,
     "geom:bbox":"-2.18038858,38.67217544,-1.62279335,39.18626273",
     "geom:latitude":38.95614,
     "geom:longitude":-1.891757,
@@ -210,6 +222,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -218,6 +232,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_02003",
+        "eurostat:nuts_2021_id":"02003",
         "gn:id":6355295,
         "gp:id":12690214,
         "qs_pg:id":347687
@@ -226,7 +242,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7379aefe26818434616eef050472713d",
+    "wof:geomhash":"acbf51eeffd5b6cfc9359d999889f169",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -237,10 +253,12 @@
         }
     ],
     "wof:id":404329057,
-    "wof:lastmodified":1582361801,
+    "wof:lastmodified":1684352203,
     "wof:name":"Albacete",
     "wof:parent_id":85682621,
     "wof:placetype":"localadmin",
+    "wof:population":174336,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

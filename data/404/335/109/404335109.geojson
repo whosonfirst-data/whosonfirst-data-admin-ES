@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18029",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Benamaurel",
+    "eurostat:nuts_2021_id":"18029",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18029",
+    "eurostat:population":2260,
+    "eurostat:population_year":2020,
     "geom:area":0.013053,
-    "geom:area_square_m":127826375.265893,
+    "geom:area_square_m":127826375.265894,
     "geom:bbox":"-2.79840862,37.55867496,-2.61173239,37.71578848",
     "geom:latitude":37.628889,
     "geom:longitude":-2.698034,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18029",
+        "eurostat:nuts_2021_id":"18029",
         "gn:id":6357663,
         "gp:id":12688872,
         "qs_pg:id":44985
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1ae37b5a98f259d902819aaca0c9b524",
+    "wof:geomhash":"f5ef4ada6ad3c50a7a456a2a8eaa29bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404335109,
-    "wof:lastmodified":1582361704,
+    "wof:lastmodified":1684352320,
     "wof:name":"Benamaurel",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":2260,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

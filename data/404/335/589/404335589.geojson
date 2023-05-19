@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19089",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ciruelos del Pinar",
+    "eurostat:nuts_2021_id":"19089",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19089",
+    "eurostat:population":19,
+    "eurostat:population_year":2020,
     "geom:area":0.001798,
     "geom:area_square_m":16777314.850174,
     "geom:bbox":"-2.23916022,40.97599186,-2.19545939,41.03221277",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227375
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_19089",
+        "eurostat:nuts_2021_id":"19089"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"2be6e2e14873f10e1790a30b082f9bfe",
+    "wof:geomhash":"0b32345d9c3c083e667d87620b5d381c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404335589,
-    "wof:lastmodified":1566590580,
+    "wof:lastmodified":1684352327,
     "wof:name":"Ciruelos Del Pinar",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":19,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

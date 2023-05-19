@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09398",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u00darbel del Castillo",
+    "eurostat:nuts_2021_id":"09398",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09398",
+    "eurostat:population":72,
+    "eurostat:population_year":2020,
     "geom:area":0.003383,
-    "geom:area_square_m":30783820.73389,
+    "geom:area_square_m":30783820.733892,
     "geom:bbox":"-3.90085613,42.58090847,-3.78610126,42.64109583",
     "geom:latitude":42.608623,
     "geom:longitude":-3.835376,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_09398",
+        "eurostat:nuts_2021_id":"09398"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"632e2d22320ecf399488afdc5a2bbebc",
+    "wof:geomhash":"0ea1134b5715eafd50c3dc7cb8b70259",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404332347,
-    "wof:lastmodified":1566590505,
+    "wof:lastmodified":1684352263,
     "wof:name":"\u00darbel Del Castillo",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":72,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

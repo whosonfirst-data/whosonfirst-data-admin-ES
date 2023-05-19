@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10082",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Garrovillas de Alcon\u00e9tar",
+    "eurostat:nuts_2021_id":"10082",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10082",
+    "eurostat:population":2004,
+    "eurostat:population_year":2020,
     "geom:area":0.021719,
-    "geom:area_square_m":206657751.548806,
+    "geom:area_square_m":206657751.548805,
     "geom:bbox":"-6.6080874,39.61188585,-6.40608584,39.77051978",
     "geom:latitude":39.68936,
     "geom:longitude":-6.513005,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10082",
+        "eurostat:nuts_2021_id":"10082",
         "gn:id":6356778,
         "gp:id":12694563,
         "qs_pg:id":466272
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7859b44d705f584908361c208832d4dc",
+    "wof:geomhash":"e58020de99e14f5a4b44f1daff57e02f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332691,
-    "wof:lastmodified":1582361690,
+    "wof:lastmodified":1684352267,
     "wof:name":"Garrovillas De Alcon\u00e9tar",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":2004,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12045",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cinctorres",
+    "eurostat:nuts_2021_id":"12045",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12045",
+    "eurostat:population":400,
+    "eurostat:population_year":2020,
     "geom:area":0.003729,
     "geom:area_square_m":35024460.658374,
     "geom:bbox":"-0.26228988,40.53685112,-0.18177215,40.61594436",
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12045",
+        "eurostat:nuts_2021_id":"12045",
         "gn:id":6357000,
         "gp:id":12695452,
         "qs_pg:id":1298498
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1c245029ef27c91f3230f4955e19786d",
+    "wof:geomhash":"92fc792f176a709435cf4876a0d5128f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404333197,
-    "wof:lastmodified":1582361774,
+    "wof:lastmodified":1684352275,
     "wof:name":"Cinctorres",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":400,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

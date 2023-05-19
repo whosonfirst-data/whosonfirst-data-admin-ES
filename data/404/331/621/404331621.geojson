@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arcos",
+    "eurostat:nuts_2021_id":"09023",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09023",
+    "eurostat:population":1775,
+    "eurostat:population_year":2020,
     "geom:area":0.00343,
-    "geom:area_square_m":31397709.145014,
+    "geom:area_square_m":31397709.145016,
     "geom:bbox":"-3.80556002,42.21230791,-3.71465731,42.28818163",
     "geom:latitude":42.24626,
     "geom:longitude":-3.758343,
@@ -81,6 +93,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -89,6 +103,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09023",
+        "eurostat:nuts_2021_id":"09023",
         "gn:id":6356348,
         "gp:id":12691393,
         "qs_pg:id":270655
@@ -97,7 +113,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ee20ba480e663045d5d50779cf32c000",
+    "wof:geomhash":"948badd3ceac62ee72bb12f9c206b6f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,10 +124,12 @@
         }
     ],
     "wof:id":404331621,
-    "wof:lastmodified":1582361486,
+    "wof:lastmodified":1684352257,
     "wof:name":"Arcos",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":1775,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

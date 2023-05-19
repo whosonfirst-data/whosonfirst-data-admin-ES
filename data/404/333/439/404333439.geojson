@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_13013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Almagro",
+    "eurostat:nuts_2021_id":"13013",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES422",
+    "eurostat:nuts_2021_level_lau":"13013",
+    "eurostat:population":8905,
+    "eurostat:population_year":2020,
     "geom:area":0.025933,
-    "geom:area_square_m":249557591.110115,
+    "geom:area_square_m":249557591.110119,
     "geom:bbox":"-3.94576407,38.76499323,-3.55510289,39.00527155",
     "geom:latitude":38.899365,
     "geom:longitude":-3.729666,
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_13013",
+        "eurostat:nuts_2021_id":"13013",
         "gn:id":6357107,
         "gp:id":12690310,
         "qs_pg:id":78449
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4c0e59cf2e7c2a7ca7336d8d363ce6e1",
+    "wof:geomhash":"9c84555d1b162b487624d8d119217465",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404333439,
-    "wof:lastmodified":1582361765,
+    "wof:lastmodified":1684352279,
     "wof:name":"Almagro",
     "wof:parent_id":85682689,
     "wof:placetype":"localadmin",
+    "wof:population":8905,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

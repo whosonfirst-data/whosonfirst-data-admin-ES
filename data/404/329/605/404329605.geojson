@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Antas",
+    "eurostat:nuts_2021_id":"04016",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04016",
+    "eurostat:population":3315,
+    "eurostat:population_year":2020,
     "geom:area":0.010069,
-    "geom:area_square_m":99106419.09553,
+    "geom:area_square_m":99106419.095529,
     "geom:bbox":"-2.04102152,37.19010641,-1.88719167,37.30452994",
     "geom:latitude":37.253351,
     "geom:longitude":-1.953585,
@@ -117,6 +129,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -124,9 +138,12 @@
         404227361
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_04016",
+        "eurostat:nuts_2021_id":"04016"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"17533ce432b6585fe630dfde4de20c4a",
+    "wof:geomhash":"4addc9fe50cd80bc9312eb42ab9fa431",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +154,12 @@
         }
     ],
     "wof:id":404329605,
-    "wof:lastmodified":1566590858,
+    "wof:lastmodified":1684352212,
     "wof:name":"Antas",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":3315,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

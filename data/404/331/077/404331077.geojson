@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8088,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08088",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Garriga, La",
+    "eurostat:nuts_2021_id":"08088",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08088",
+    "eurostat:population":16668,
+    "eurostat:population_year":2020,
     "geom:area":0.002064,
-    "geom:area_square_m":19058899.305017,
+    "geom:area_square_m":19058899.305018,
     "geom:bbox":"2.25251684983,41.6573975323,2.31136897734,41.7190970813",
     "geom:latitude":41.690299,
     "geom:longitude":2.281911,
@@ -151,6 +163,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -159,7 +173,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08088",
         "esp-icgc:la_lc":"08088",
+        "eurostat:nuts_2021_id":"08088",
         "gn:id":6356118,
         "gp:id":12693469,
         "qs_pg:id":201784
@@ -169,7 +185,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"019904b9fbdbf3428fb000cd2592a94c",
+    "wof:geomhash":"c06bcb06f261c7e6a241d59ecd502cf3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -180,10 +196,12 @@
         }
     ],
     "wof:id":404331077,
-    "wof:lastmodified":1582361486,
+    "wof:lastmodified":1684352240,
     "wof:name":"La Garriga",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":16668,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

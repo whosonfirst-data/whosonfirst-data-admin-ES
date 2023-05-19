@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05254",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Velayos",
+    "eurostat:nuts_2021_id":"05254",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05254",
+    "eurostat:population":214,
+    "eurostat:population_year":2020,
     "geom:area":0.002183,
-    "geom:area_square_m":20422221.502472,
+    "geom:area_square_m":20422221.502473,
     "geom:bbox":"-4.63147116,40.82074527,-4.57046756,40.87720634",
     "geom:latitude":40.847184,
     "geom:longitude":-4.603676,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05254",
+        "eurostat:nuts_2021_id":"05254",
         "gn:id":6355849,
         "gp:id":12691361,
         "qs_pg:id":1311038
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e391b7e06b9c2363680dddd7c68c647d",
+    "wof:geomhash":"3c7ca0bb16bb440c14bc09125224ddb3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404330317,
-    "wof:lastmodified":1582361544,
+    "wof:lastmodified":1684352222,
     "wof:name":"Velayos",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":214,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

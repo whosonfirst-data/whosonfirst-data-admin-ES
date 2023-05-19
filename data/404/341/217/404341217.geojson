@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37055",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bogajo",
+    "eurostat:nuts_2021_id":"37055",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37055",
+    "eurostat:population":133,
+    "eurostat:population_year":2020,
     "geom:area":0.003517,
-    "geom:area_square_m":32870824.179161,
+    "geom:area_square_m":32870824.17916,
     "geom:bbox":"-6.5746882,40.86367508,-6.48031688,40.94282923",
     "geom:latitude":40.902061,
     "geom:longitude":-6.529622,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37055",
+        "eurostat:nuts_2021_id":"37055",
         "gn:id":6360309,
         "gp:id":12692200,
         "qs_pg:id":46644
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b9b97d3e886fe1ffa528216d2ae8e35c",
+    "wof:geomhash":"5c9e9eb8af515861f2012d0b7ca24bc1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404341217,
-    "wof:lastmodified":1582361627,
+    "wof:lastmodified":1684352422,
     "wof:name":"Bogajo",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":133,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Berrueces",
+    "eurostat:nuts_2021_id":"47019",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47019",
+    "eurostat:population":108,
+    "eurostat:population_year":2020,
     "geom:area":0.001721,
     "geom:area_square_m":15830810.512576,
     "geom:bbox":"-5.12042678,41.92315602,-5.06566636,41.97804773",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_47019",
+        "eurostat:nuts_2021_id":"47019"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"cf8028a92c8be3ed8084047e5feba53b",
+    "wof:geomhash":"8c41241105093826e5e4f4e538e3c071",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404345441,
-    "wof:lastmodified":1566591001,
+    "wof:lastmodified":1684352486,
     "wof:name":"Berrueces",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":108,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

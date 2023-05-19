@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09386",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torrecilla del Monte",
+    "eurostat:nuts_2021_id":"09386",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09386",
+    "eurostat:population":72,
+    "eurostat:population_year":2020,
     "geom:area":0.001625,
     "geom:area_square_m":14909032.283046,
     "geom:bbox":"-3.71142458,42.07933416,-3.64550873,42.12446082",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09386",
+        "eurostat:nuts_2021_id":"09386",
         "gn:id":6356618,
         "gp:id":12691668,
         "qs_pg:id":46339
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cbb0f46f2650e6e904d1439faca2344c",
+    "wof:geomhash":"9ca14324ba89fd302d3d45cccb7f40a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332323,
-    "wof:lastmodified":1582361683,
+    "wof:lastmodified":1684352263,
     "wof:name":"Torrecilla Del Monte",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":72,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

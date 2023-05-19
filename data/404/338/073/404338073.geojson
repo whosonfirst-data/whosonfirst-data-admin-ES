@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25234,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25234",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tremp",
+    "eurostat:nuts_2021_id":"25234",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25234",
+    "eurostat:population":5911,
+    "eurostat:population_year":2020,
     "geom:area":0.032986,
-    "geom:area_square_m":302089292.300094,
+    "geom:area_square_m":302089292.300095,
     "geom:bbox":"0.69535427334,42.1093046684,0.972198807129,42.3755071951",
     "geom:latitude":42.215084,
     "geom:longitude":0.801976,
@@ -124,6 +136,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -132,7 +146,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25234",
         "esp-icgc:la_lc":"025234",
+        "eurostat:nuts_2021_id":"25234",
         "gn:id":6358961,
         "gp:id":12694117,
         "qs_pg:id":499438
@@ -142,7 +158,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"d53c3c294b50f650aede033fa4126453",
+    "wof:geomhash":"afa4be85f7df92b3d53ddb145ef50764",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,10 +169,12 @@
         }
     ],
     "wof:id":404338073,
-    "wof:lastmodified":1582361447,
+    "wof:lastmodified":1684352370,
     "wof:name":"Tremp",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":5911,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37078",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Candelario",
+    "eurostat:nuts_2021_id":"37078",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37078",
+    "eurostat:population":860,
+    "eurostat:population_year":2020,
     "geom:area":0.006377,
     "geom:area_square_m":60110677.835401,
     "geom:bbox":"-5.80273535,40.28077898,-5.69007364,40.38372908",
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37078",
+        "eurostat:nuts_2021_id":"37078",
         "gn:id":6360328,
         "gp:id":12692219,
         "qs_pg:id":1102694
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"501ed7c1d0a6604e4e69d3154455fa18",
+    "wof:geomhash":"ac77e8d8df7cd63c3713c5b7f22162ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404341259,
-    "wof:lastmodified":1582361628,
+    "wof:lastmodified":1684352422,
     "wof:name":"Candelario",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":860,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

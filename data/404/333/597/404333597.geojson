@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_13083",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torralba de Calatrava",
+    "eurostat:nuts_2021_id":"13083",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES422",
+    "eurostat:nuts_2021_level_lau":"13083",
+    "eurostat:population":2966,
+    "eurostat:population_year":2020,
     "geom:area":0.01057,
-    "geom:area_square_m":101505202.802891,
+    "geom:area_square_m":101505202.802892,
     "geom:bbox":"-3.86771217,38.97568413,-3.68767517,39.14818785",
     "geom:latitude":39.050192,
     "geom:longitude":-3.764052,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_13083",
+        "eurostat:nuts_2021_id":"13083",
         "gn:id":6357177,
         "gp:id":12690382,
         "qs_pg:id":1311017
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9c6041dcd0ba7cfb3e5f0e42f522a08e",
+    "wof:geomhash":"01d5bd0105824de9ca85801448ac8a39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404333597,
-    "wof:lastmodified":1582361774,
+    "wof:lastmodified":1684352281,
     "wof:name":"Torralba De Calatrava",
     "wof:parent_id":85682689,
     "wof:placetype":"localadmin",
+    "wof:population":2966,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

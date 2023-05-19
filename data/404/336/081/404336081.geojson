@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19901",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Semillas",
+    "eurostat:nuts_2021_id":"19901",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19901",
+    "eurostat:population":35,
+    "eurostat:population_year":2020,
     "geom:area":0.005345,
     "geom:area_square_m":49849515.642643,
     "geom:bbox":"-3.19881897,41.01018963,-3.05762542,41.08676471",
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19901",
+        "eurostat:nuts_2021_id":"19901",
         "gn:id":6358092,
         "gp:id":12690852,
         "qs_pg:id":45991
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d119b0d1374d2f64e74e854f4e306bd2",
+    "wof:geomhash":"128b45ab039e427cb66f3b9602dab8f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404336081,
-    "wof:lastmodified":1582361472,
+    "wof:lastmodified":1684352333,
     "wof:name":"Semillas",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":35,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

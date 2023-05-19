@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37301",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sard\u00f3n de los Frailes",
+    "eurostat:nuts_2021_id":"37301",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37301",
+    "eurostat:population":94,
+    "eurostat:population_year":2020,
     "geom:area":0.003486,
-    "geom:area_square_m":32424019.295184,
+    "geom:area_square_m":32424019.295181,
     "geom:bbox":"-6.31407993,41.18833097,-6.23265561,41.25717134",
     "geom:latitude":41.220296,
     "geom:longitude":-6.270579,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37301",
+        "eurostat:nuts_2021_id":"37301",
         "gn:id":6360539,
         "gp:id":12692433,
         "qs_pg:id":901065
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"890c19d535523b8d975a1ea7c0f0cd9b",
+    "wof:geomhash":"ea717300d8c4d5206af11345504c0a81",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404341739,
-    "wof:lastmodified":1582361623,
+    "wof:lastmodified":1684352428,
     "wof:name":"Sard\u00f3n De Los Frailes",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":94,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

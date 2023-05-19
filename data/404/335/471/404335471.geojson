@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Almadrones",
+    "eurostat:nuts_2021_id":"19020",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19020",
+    "eurostat:population":55,
+    "eurostat:population_year":2020,
     "geom:area":0.002247,
-    "geom:area_square_m":21005190.064916,
+    "geom:area_square_m":21005190.064915,
     "geom:bbox":"-2.78974227,40.8645787,-2.73336176,40.92441838",
     "geom:latitude":40.895336,
     "geom:longitude":-2.761948,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19020",
+        "eurostat:nuts_2021_id":"19020",
         "gn:id":6357823,
         "gp:id":12690653,
         "qs_pg:id":909118
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bcccefde89b7fa8cb773278e15feecf4",
+    "wof:geomhash":"7fc693e39c13d655c0748db68e8e794a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404335471,
-    "wof:lastmodified":1582361696,
+    "wof:lastmodified":1684352326,
     "wof:name":"Almadrones",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":55,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

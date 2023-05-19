@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alamedilla",
+    "eurostat:nuts_2021_id":"18002",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18002",
+    "eurostat:population":569,
+    "eurostat:population_year":2020,
     "geom:area":0.009254,
-    "geom:area_square_m":90677610.273213,
+    "geom:area_square_m":90677610.27321,
     "geom:bbox":"-3.3119265,37.52124152,-3.15396281,37.64034766",
     "geom:latitude":37.588059,
     "geom:longitude":-3.242592,
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18002",
+        "eurostat:nuts_2021_id":"18002",
         "gn:id":6357640,
         "gp:id":12688848,
         "qs_pg:id":1016022
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"832a0362f2c4cc70f5242baf141e6330",
+    "wof:geomhash":"e627c442546d27366e5f3b14d9a47d77",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404335057,
-    "wof:lastmodified":1582361709,
+    "wof:lastmodified":1684352319,
     "wof:name":"Alamedilla",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":569,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

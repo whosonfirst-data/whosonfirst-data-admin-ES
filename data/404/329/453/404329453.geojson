@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03091",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Murla",
+    "eurostat:nuts_2021_id":"03091",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03091",
+    "eurostat:population":507,
+    "eurostat:population_year":2020,
     "geom:area":0.000603,
     "geom:area_square_m":5809305.040561,
     "geom:bbox":"-0.09860442,38.75536278,-0.05049113,38.77875825",
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03091",
+        "eurostat:nuts_2021_id":"03091",
         "gn:id":6355466,
         "gp:id":12695354,
         "qs_pg:id":988893
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1e58c3882d3ad600e194cedfd0609689",
+    "wof:geomhash":"59f71bbdb90c24a3944f650e23fa428b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404329453,
-    "wof:lastmodified":1582361792,
+    "wof:lastmodified":1684352210,
     "wof:name":"Murla",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":507,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

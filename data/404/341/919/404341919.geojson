@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_38001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Adeje",
+    "eurostat:nuts_2021_id":"38001",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES7",
+    "eurostat:nuts_2021_level_2":"ES70",
+    "eurostat:nuts_2021_level_3":"ES709",
+    "eurostat:nuts_2021_level_lau":"38001",
+    "eurostat:population":49030,
+    "eurostat:population_year":2020,
     "geom:area":0.009725,
-    "geom:area_square_m":106037516.187189,
+    "geom:area_square_m":106037516.187196,
     "geom:bbox":"-16.80231489,28.06536897,-16.66040888,28.21278467",
     "geom:latitude":28.14007,
     "geom:longitude":-16.72413,
@@ -135,6 +147,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -143,6 +157,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_38001",
+        "eurostat:nuts_2021_id":"38001",
         "gn:id":6360619,
         "gp:id":12690159,
         "qs_pg:id":1311006
@@ -151,7 +167,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e8dbba9ae54b25e43a30dc13b9a8b90c",
+    "wof:geomhash":"864d23a73950247f0fb8e41be1814983",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -162,10 +178,12 @@
         }
     ],
     "wof:id":404341919,
-    "wof:lastmodified":1582361642,
+    "wof:lastmodified":1684352430,
     "wof:name":"Adeje",
     "wof:parent_id":85682831,
     "wof:placetype":"localadmin",
+    "wof:population":49030,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

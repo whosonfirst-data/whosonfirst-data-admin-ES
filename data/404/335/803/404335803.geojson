@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19197",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Navas de Jadraque, Las",
+    "eurostat:nuts_2021_id":"19197",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19197",
+    "eurostat:population":32,
+    "eurostat:population_year":2020,
     "geom:area":0.000968,
-    "geom:area_square_m":9019068.59019,
+    "geom:area_square_m":9019068.590191,
     "geom:bbox":"-3.11083383,41.09109466,-3.05709349,41.11985155",
     "geom:latitude":41.103874,
     "geom:longitude":-3.087868,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19197",
+        "eurostat:nuts_2021_id":"19197",
         "gn:id":6357969,
         "qs_pg:id":621649
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"56313e589c84cc9b050c1a502476857a",
+    "wof:geomhash":"9a79a1644eca29f0d0ddcb335a1c1036",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404335803,
-    "wof:lastmodified":1582361700,
+    "wof:lastmodified":1684352330,
     "wof:name":"Las Navas De Jadraque",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":32,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

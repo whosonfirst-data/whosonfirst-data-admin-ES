@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43056,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43056",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fatarella, La",
+    "eurostat:nuts_2021_id":"43056",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43056",
+    "eurostat:population":926,
+    "eurostat:population_year":2020,
     "geom:area":0.006092,
-    "geom:area_square_m":56704964.690032,
+    "geom:area_square_m":56704964.69003,
     "geom:bbox":"0.402180612583,41.0976594194,0.553542276854,41.2286732237",
     "geom:latitude":41.171323,
     "geom:longitude":0.469024,
@@ -121,6 +133,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -129,7 +143,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43056",
         "esp-icgc:la_lc":"043056",
+        "eurostat:nuts_2021_id":"43056",
         "gn:id":6361299,
         "gp:id":12694194,
         "qs_pg:id":1174280
@@ -139,7 +155,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9eef716eb1874ee1ef543b625eec4dab",
+    "wof:geomhash":"ce560fad6f5ff8572b38d375fdd3f97c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404343519,
-    "wof:lastmodified":1582361875,
+    "wof:lastmodified":1684352455,
     "wof:name":"La Fatarella",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":926,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

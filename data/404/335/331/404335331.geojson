@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18154",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Peza, La",
+    "eurostat:nuts_2021_id":"18154",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18154",
+    "eurostat:population":1167,
+    "eurostat:population_year":2020,
     "geom:area":0.010291,
-    "geom:area_square_m":101249407.618087,
+    "geom:area_square_m":101249407.618089,
     "geom:bbox":"-3.3775968,37.20949605,-3.24768819,37.35659919",
     "geom:latitude":37.27847,
     "geom:longitude":-3.311338,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18154",
+        "eurostat:nuts_2021_id":"18154",
         "gn:id":6357762,
         "qs_pg:id":621643
     },
@@ -114,7 +130,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7b8f1def7c2fd71058ffd62d1fb34df5",
+    "wof:geomhash":"90925bb912c6cb8a6aaea02a3a47b71d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +141,12 @@
         }
     ],
     "wof:id":404335331,
-    "wof:lastmodified":1582361694,
+    "wof:lastmodified":1684352324,
     "wof:name":"La Peza",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":1167,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

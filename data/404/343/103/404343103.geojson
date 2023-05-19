@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42059",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Centenera de Andaluz",
+    "eurostat:nuts_2021_id":"42059",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42059",
+    "eurostat:population":19,
+    "eurostat:population_year":2020,
     "geom:area":0.002143,
-    "geom:area_square_m":19844779.118506,
+    "geom:area_square_m":19844779.118504,
     "geom:bbox":"-2.78095315,41.48577024,-2.68868224,41.53374736",
     "geom:latitude":41.510051,
     "geom:longitude":-2.723265,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_42059",
+        "eurostat:nuts_2021_id":"42059"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"e3bea985b5d532e73df8093d515a4a4b",
+    "wof:geomhash":"7299e0425e4f03b6ce94c7967cf80799",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404343103,
-    "wof:lastmodified":1566591137,
+    "wof:lastmodified":1684352447,
     "wof:name":"Centenera De Andaluz",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":19,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

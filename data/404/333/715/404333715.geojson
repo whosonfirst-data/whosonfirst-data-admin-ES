@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_14034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Guijo, El",
+    "eurostat:nuts_2021_id":"14034",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES613",
+    "eurostat:nuts_2021_level_lau":"14034",
+    "eurostat:population":352,
+    "eurostat:population_year":2020,
     "geom:area":0.00695,
-    "geom:area_square_m":67235804.18334,
+    "geom:area_square_m":67235804.183339,
     "geom:bbox":"-4.83525446,38.47513314,-4.66713172,38.57464488",
     "geom:latitude":38.524272,
     "geom:longitude":-4.756519,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_14034",
+        "eurostat:nuts_2021_id":"14034",
         "gn:id":6357229,
         "qs_pg:id":621608
     },
@@ -126,7 +142,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"05c2b202339a2f0842c188d0584a1a2c",
+    "wof:geomhash":"3965b61ebbe89b711f7a652f140b023c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404333715,
-    "wof:lastmodified":1582361770,
+    "wof:lastmodified":1684352283,
     "wof:name":"El Guijo",
     "wof:parent_id":85682697,
     "wof:placetype":"localadmin",
+    "wof:population":352,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Elorrio",
+    "eurostat:nuts_2021_id":"48032",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48032",
+    "eurostat:population":7375,
+    "eurostat:population_year":2020,
     "geom:area":0.004097,
-    "geom:area_square_m":36972899.941042,
+    "geom:area_square_m":36972899.941043,
     "geom:bbox":"-2.58256035,43.08766683,-2.49621638,43.15722513",
     "geom:latitude":43.125436,
     "geom:longitude":-2.535295,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_48032",
+        "eurostat:nuts_2021_id":"48032",
         "gn:id":6362377,
         "gp:id":12695191,
         "qs_pg:id":1118855
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cb513e20f3d6b277888b8f5d1c072f67",
+    "wof:geomhash":"a1e3b7af1327a55c84e02362bc5a30c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404345975,
-    "wof:lastmodified":1582361841,
+    "wof:lastmodified":1684352492,
     "wof:name":"Elorrio",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":7375,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_23007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arjonilla",
+    "eurostat:nuts_2021_id":"23007",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES616",
+    "eurostat:nuts_2021_level_lau":"23007",
+    "eurostat:population":3571,
+    "eurostat:population_year":2020,
     "geom:area":0.004364,
     "geom:area_square_m":42534941.655312,
     "geom:bbox":"-4.17260229,37.94347734,-4.06512152,38.02154748",
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_23007",
+        "eurostat:nuts_2021_id":"23007",
         "gn:id":6358462,
         "gp:id":12689100,
         "qs_pg:id":1146312
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f345dc5549ade8e7b253716c1c7d9601",
+    "wof:geomhash":"76fab1a1c15dc159305b631ceff16713",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404336929,
-    "wof:lastmodified":1582361476,
+    "wof:lastmodified":1684352345,
     "wof:name":"Arjonilla",
     "wof:parent_id":85682757,
     "wof:placetype":"localadmin",
+    "wof:population":3571,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

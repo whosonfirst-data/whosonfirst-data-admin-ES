@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fuenlabrada de los Montes",
+    "eurostat:nuts_2021_id":"06051",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06051",
+    "eurostat:population":1811,
+    "eurostat:population_year":2020,
     "geom:area":0.019994,
     "geom:area_square_m":191760090.11056,
     "geom:bbox":"-5.00342643,39.03178337,-4.82581978,39.2399483",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06051",
+        "eurostat:nuts_2021_id":"06051",
         "gn:id":6355916,
         "gp:id":12694370,
         "qs_pg:id":1095354
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5e5396b67aa7c2680e5b8237efd5f587",
+    "wof:geomhash":"40c9014a503ee3835de8ce3d2827c83c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330471,
-    "wof:lastmodified":1582361522,
+    "wof:lastmodified":1684352224,
     "wof:name":"Fuenlabrada De Los Montes",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":1811,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

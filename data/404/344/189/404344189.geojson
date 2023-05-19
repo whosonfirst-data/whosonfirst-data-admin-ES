@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44193",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Puertomingalvo",
+    "eurostat:nuts_2021_id":"44193",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44193",
+    "eurostat:population":117,
+    "eurostat:population_year":2020,
     "geom:area":0.010975,
-    "geom:area_square_m":103510888.617066,
+    "geom:area_square_m":103510888.617068,
     "geom:bbox":"-0.51431504,40.22873163,-0.38274199,40.35506718",
     "geom:latitude":40.290749,
     "geom:longitude":-0.453435,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44193",
+        "eurostat:nuts_2021_id":"44193",
         "gn:id":6361595,
         "gp:id":12689767,
         "qs_pg:id":1102487
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e6b225b02ab13977347bfdfed98a0731",
+    "wof:geomhash":"b883f1fd92b286cd4ee1768e7e09434b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404344189,
-    "wof:lastmodified":1582361850,
+    "wof:lastmodified":1684352470,
     "wof:name":"Puertomingalvo",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":117,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

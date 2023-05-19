@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24110",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"P\u00e1ramo del Sil",
+    "eurostat:nuts_2021_id":"24110",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24110",
+    "eurostat:population":1255,
+    "eurostat:population_year":2020,
     "geom:area":0.020935,
     "geom:area_square_m":189863484.570297,
     "geom:bbox":"-6.62137018,42.75573216,-6.30614467,42.92586903",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_24110",
+        "eurostat:nuts_2021_id":"24110",
         "gn:id":6358652,
         "gp:id":12691849,
         "qs_pg:id":1147942
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1c50e693fddfeb54eebe419afe26398c",
+    "wof:geomhash":"624a7f1257ee802bc1f796ca01fc120c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404337365,
-    "wof:lastmodified":1582361549,
+    "wof:lastmodified":1684352351,
     "wof:name":"P\u00e1ramo Del Sil",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":1255,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

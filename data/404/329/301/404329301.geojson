@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Benasau",
+    "eurostat:nuts_2021_id":"03022",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03022",
+    "eurostat:population":156,
+    "eurostat:population_year":2020,
     "geom:area":0.000936,
-    "geom:area_square_m":9034207.706481,
+    "geom:area_square_m":9034207.706482,
     "geom:bbox":"-0.36540854,38.68280413,-0.30719293,38.71427792",
     "geom:latitude":38.695737,
     "geom:longitude":-0.337883,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03022",
+        "eurostat:nuts_2021_id":"03022",
         "gn:id":6355398,
         "gp:id":12695287,
         "qs_pg:id":201898
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"867e6164413eb43748075cb5fd447272",
+    "wof:geomhash":"922d9e2f57a63fffc00e2ac66b71478c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404329301,
-    "wof:lastmodified":1582361788,
+    "wof:lastmodified":1684352207,
     "wof:name":"Benasau",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":156,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

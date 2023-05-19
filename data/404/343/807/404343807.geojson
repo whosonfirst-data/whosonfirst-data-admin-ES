@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43907,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43907",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Canonja, La",
+    "eurostat:nuts_2021_id":"43907",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43907",
+    "eurostat:population":5956,
+    "eurostat:population_year":2020,
     "geom:area":0.000788,
-    "geom:area_square_m":7345288.76192,
+    "geom:area_square_m":7345288.761921,
     "geom:bbox":"1.16221334304,41.0972752548,1.20746062075,41.1383970704",
     "geom:latitude":41.114676,
     "geom:longitude":1.180985,
@@ -90,6 +102,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,13 +112,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"043907"
+        "eg:gisco_id":"ES_43907",
+        "esp-icgc:la_lc":"043907",
+        "eurostat:nuts_2021_id":"43907"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8b58696dc58fdb969ffe9c8ebb6e9884",
+    "wof:geomhash":"008f9aebfd1858c3a669b3ef698ea785",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -115,10 +131,12 @@
         }
     ],
     "wof:id":404343807,
-    "wof:lastmodified":1582361888,
+    "wof:lastmodified":1684352466,
     "wof:name":"La Canonja",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":5956,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

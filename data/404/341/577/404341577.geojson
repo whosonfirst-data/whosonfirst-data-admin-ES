@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37229",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Palencia de Negrilla",
+    "eurostat:nuts_2021_id":"37229",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37229",
+    "eurostat:population":155,
+    "eurostat:population_year":2020,
     "geom:area":0.001753,
-    "geom:area_square_m":16335055.284101,
+    "geom:area_square_m":16335055.2841,
     "geom:bbox":"-5.65245974,41.0814842,-5.59422506,41.14020228",
     "geom:latitude":41.109097,
     "geom:longitude":-5.621556,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37229",
+        "eurostat:nuts_2021_id":"37229",
         "gn:id":6360468,
         "gp:id":12692360,
         "qs_pg:id":201251
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9c009a5d08641a527e17da94843ca64c",
+    "wof:geomhash":"65e77213d21868613ae099cf94f29e7c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404341577,
-    "wof:lastmodified":1582361643,
+    "wof:lastmodified":1684352426,
     "wof:name":"Palencia De Negrilla",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":155,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

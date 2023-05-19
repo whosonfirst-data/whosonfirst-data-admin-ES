@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31119",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"G\u00fcesa / Gorza",
+    "eurostat:nuts_2021_id":"31119",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31119",
+    "eurostat:population":36,
+    "eurostat:population_year":2020,
     "geom:area":0.002927,
     "geom:area_square_m":26546182.45179,
     "geom:bbox":"-1.1190742,42.79460935,-1.01368944,42.86196132",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227391
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_31119",
+        "eurostat:nuts_2021_id":"31119"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"4acc3cfa0cf2623e4832b5c9a87d36f4",
+    "wof:geomhash":"d097befda8728be6a04cded8fcd8358b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404339713,
-    "wof:lastmodified":1566590101,
+    "wof:lastmodified":1684352397,
     "wof:name":"G\u00fcesa/Gorza",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":36,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

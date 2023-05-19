@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_20006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alkiza",
+    "eurostat:nuts_2021_id":"20006",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES212",
+    "eurostat:nuts_2021_level_lau":"20006",
+    "eurostat:population":371,
+    "eurostat:population_year":2020,
     "geom:area":0.001314,
     "geom:area_square_m":11852693.37527,
     "geom:bbox":"-2.14786772,43.1555053,-2.08272445,43.18621212",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_20006",
+        "eurostat:nuts_2021_id":"20006",
         "gn:id":6358098,
         "qs_pg:id":621664
     },
@@ -120,7 +136,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a27b629c56b24ffe0cc9d876c3b553d3",
+    "wof:geomhash":"9d1638db3c4a4fef306be0ffd62b7ff0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404336093,
-    "wof:lastmodified":1582361476,
+    "wof:lastmodified":1684352333,
     "wof:name":"Alkiza",
     "wof:parent_id":85682741,
     "wof:placetype":"localadmin",
+    "wof:population":371,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

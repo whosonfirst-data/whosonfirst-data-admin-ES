@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37082",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cantalpino",
+    "eurostat:nuts_2021_id":"37082",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37082",
+    "eurostat:population":833,
+    "eurostat:population_year":2020,
     "geom:area":0.008408,
-    "geom:area_square_m":78371516.045636,
+    "geom:area_square_m":78371516.045639,
     "geom:bbox":"-5.38433271,41.01426736,-5.268098,41.14103108",
     "geom:latitude":41.081678,
     "geom:longitude":-5.32901,
@@ -99,6 +111,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -106,9 +120,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_37082",
+        "eurostat:nuts_2021_id":"37082"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"fd261da323b885066fd0e1ecb81da6f5",
+    "wof:geomhash":"0d0e8d16644741ba42cecf811a7345c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +136,12 @@
         }
     ],
     "wof:id":404341269,
-    "wof:lastmodified":1566590315,
+    "wof:lastmodified":1684352422,
     "wof:name":"Cantalpino",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":833,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

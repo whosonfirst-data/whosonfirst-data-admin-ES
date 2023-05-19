@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28108",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pedrezuela",
+    "eurostat:nuts_2021_id":"28108",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28108",
+    "eurostat:population":6150,
+    "eurostat:population_year":2020,
     "geom:area":0.003044,
-    "geom:area_square_m":28515230.256791,
+    "geom:area_square_m":28515230.256792,
     "geom:bbox":"-3.67705506,40.70730891,-3.59110426,40.77966168",
     "geom:latitude":40.741907,
     "geom:longitude":-3.624963,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28108",
+        "eurostat:nuts_2021_id":"28108",
         "gn:id":6359329,
         "gp:id":12688049,
         "qs_pg:id":1173621
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"898cd27788a5f8cc8e01f37dbb84f432",
+    "wof:geomhash":"fc29ff78c5f1be603359567c93be287e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404338919,
-    "wof:lastmodified":1582361456,
+    "wof:lastmodified":1684352384,
     "wof:name":"Pedrezuela",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":6150,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

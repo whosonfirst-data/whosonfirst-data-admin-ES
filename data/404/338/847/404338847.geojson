@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28071",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Horcajuelo de la Sierra",
+    "eurostat:nuts_2021_id":"28071",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28071",
+    "eurostat:population":89,
+    "eurostat:population_year":2020,
     "geom:area":0.002556,
-    "geom:area_square_m":23817189.533893,
+    "geom:area_square_m":23817189.533895,
     "geom:bbox":"-3.56438705,41.03729649,-3.52194283,41.13474255",
     "geom:latitude":41.09112,
     "geom:longitude":-3.543499,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28071",
+        "eurostat:nuts_2021_id":"28071",
         "gn:id":6359297,
         "gp:id":12688016,
         "qs_pg:id":1009364
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8df162136a924c1f9e0a31f329d2794e",
+    "wof:geomhash":"467bb9d65b7ae8cbdd73dbf2939ee4d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404338847,
-    "wof:lastmodified":1582361449,
+    "wof:lastmodified":1684352383,
     "wof:name":"Horcajuelo De La Sierra",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":89,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

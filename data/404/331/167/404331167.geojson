@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8128,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08128",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monistrol de Calders",
+    "eurostat:nuts_2021_id":"08128",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08128",
+    "eurostat:population":702,
+    "eurostat:population_year":2020,
     "geom:area":0.002381,
-    "geom:area_square_m":21960865.185707,
+    "geom:area_square_m":21960878.261677,
     "geom:bbox":"1.979203,41.724603,2.05356,41.790573",
     "geom:latitude":41.757453,
     "geom:longitude":2.020439,
@@ -67,6 +79,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -75,7 +89,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08128",
         "esp-icgc:la_lc":"08128",
+        "eurostat:nuts_2021_id":"08128",
         "gn:id":6356157,
         "gp:id":12693507,
         "qs_pg:id":1018188
@@ -85,7 +101,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"bf89c3dc2c8233adb4f3f0059b5379b5",
+    "wof:geomhash":"8ad9bc24a972041c03eee7a1791818f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,10 +112,12 @@
         }
     ],
     "wof:id":404331167,
-    "wof:lastmodified":1669902998,
+    "wof:lastmodified":1684352243,
     "wof:name":"Monistrol de Calders",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":702,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

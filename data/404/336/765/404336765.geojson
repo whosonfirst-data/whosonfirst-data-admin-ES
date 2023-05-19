@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22178",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pertusa",
+    "eurostat:nuts_2021_id":"22178",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22178",
+    "eurostat:population":120,
+    "eurostat:population_year":2020,
     "geom:area":0.003191,
-    "geom:area_square_m":29322743.036175,
+    "geom:area_square_m":29322743.036174,
     "geom:bbox":"-0.19007126,41.9747945,-0.0722781,42.02616066",
     "geom:latitude":41.998988,
     "geom:longitude":-0.128862,
@@ -39,6 +51,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -47,6 +61,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22178",
+        "eurostat:nuts_2021_id":"22178",
         "gn:id":6358389,
         "gp:id":12689534,
         "qs_pg:id":45351
@@ -55,7 +71,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f962e5c7b20f3cbffb38b4eb5fa043d0",
+    "wof:geomhash":"ec5295ce85277b506140e06c9ddc737c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +82,12 @@
         }
     ],
     "wof:id":404336765,
-    "wof:lastmodified":1582361460,
+    "wof:lastmodified":1684352343,
     "wof:name":"Pertusa",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":120,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

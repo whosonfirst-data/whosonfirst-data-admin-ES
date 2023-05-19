@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_33015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caso",
+    "eurostat:nuts_2021_id":"33015",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES12",
+    "eurostat:nuts_2021_level_3":"ES120",
+    "eurostat:nuts_2021_level_lau":"33015",
+    "eurostat:population":1457,
+    "eurostat:population_year":2020,
     "geom:area":0.034084,
-    "geom:area_square_m":307413401.441261,
+    "geom:area_square_m":307413401.441257,
     "geom:bbox":"-5.4636746,43.0774279,-5.18819392,43.27691752",
     "geom:latitude":43.162634,
     "geom:longitude":-5.333142,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_33015",
+        "eurostat:nuts_2021_id":"33015",
         "gn:id":3125999,
         "gp:id":12688458,
         "qs_pg:id":1314225
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"28627e8a46a7db39305e7f82a92e3b36",
+    "wof:geomhash":"539bbaf95ad3ed475b8ffeaf98f2a18e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404340313,
-    "wof:lastmodified":1582361656,
+    "wof:lastmodified":1684352405,
     "wof:name":"Caso",
     "wof:parent_id":85682805,
     "wof:placetype":"localadmin",
+    "wof:population":1457,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47094",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Moral de la Reina",
+    "eurostat:nuts_2021_id":"47094",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47094",
+    "eurostat:population":148,
+    "eurostat:population_year":2020,
     "geom:area":0.004616,
     "geom:area_square_m":42428317.009879,
     "geom:bbox":"-5.13411343,41.93273813,-5.04094921,42.02031478",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_47094",
+        "eurostat:nuts_2021_id":"47094"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"0bbdbab157d053304c8cb160531e330a",
+    "wof:geomhash":"ff3e8fa8dae5b21ca2cddabbe2f27321",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404345607,
-    "wof:lastmodified":1566591046,
+    "wof:lastmodified":1684352488,
     "wof:name":"Moral De La Reina",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":148,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":43122,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43122",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Renau",
+    "eurostat:nuts_2021_id":"43122",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43122",
+    "eurostat:population":162,
+    "eurostat:population_year":2020,
     "geom:area":0.000893,
     "geom:area_square_m":8302672.360446,
     "geom:bbox":"1.29102490885,41.1980649011,1.34236441944,41.2393478252",
@@ -109,6 +121,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -117,7 +131,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43122",
         "esp-icgc:la_lc":"043122",
+        "eurostat:nuts_2021_id":"43122",
         "gn:id":6361364,
         "gp:id":12694259,
         "qs_pg:id":1311109
@@ -127,7 +143,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"12a1d9398af80b03ca897dbdcac9d089",
+    "wof:geomhash":"0020df12a14bcb289db6916b45eca59f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404343665,
-    "wof:lastmodified":1582361891,
+    "wof:lastmodified":1684352459,
     "wof:name":"Renau",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":162,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

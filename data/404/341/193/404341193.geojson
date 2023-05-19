@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37041",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Barbalos",
+    "eurostat:nuts_2021_id":"37041",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37041",
+    "eurostat:population":70,
+    "eurostat:population_year":2020,
     "geom:area":0.004,
-    "geom:area_square_m":37521377.864573,
+    "geom:area_square_m":37521377.864574,
     "geom:bbox":"-5.99652285,40.61472291,-5.88634166,40.70887899",
     "geom:latitude":40.659601,
     "geom:longitude":-5.941335,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37041",
+        "eurostat:nuts_2021_id":"37041",
         "gn:id":6360298,
         "gp:id":12692189,
         "qs_pg:id":497124
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"61ae859d0005fba7c005a923f5e35967",
+    "wof:geomhash":"2cbe40733e74c05a5949b63bca04dc5b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404341193,
-    "wof:lastmodified":1582361625,
+    "wof:lastmodified":1684352421,
     "wof:name":"Barbalos",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":70,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8020,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Begues",
+    "eurostat:nuts_2021_id":"08020",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08020",
+    "eurostat:population":7300,
+    "eurostat:population_year":2020,
     "geom:area":0.005427,
-    "geom:area_square_m":50396323.133327,
+    "geom:area_square_m":50396257.879134,
     "geom:bbox":"1.846733,41.278113,1.961932,41.356054",
     "geom:latitude":41.318504,
     "geom:longitude":1.901222,
@@ -142,6 +154,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -150,7 +164,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08020",
         "esp-icgc:la_lc":"08020",
+        "eurostat:nuts_2021_id":"08020",
         "gn:id":6356056,
         "gp:id":12693397,
         "qs_pg:id":235245
@@ -160,7 +176,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d0acc4bbf3e3e75ff7032a0b6f5fffbd",
+    "wof:geomhash":"8cf199a7bc9aea64745e8e86810c0700",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -171,10 +187,12 @@
         }
     ],
     "wof:id":404330923,
-    "wof:lastmodified":1669903016,
+    "wof:lastmodified":1684352235,
     "wof:name":"Begues",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":7300,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

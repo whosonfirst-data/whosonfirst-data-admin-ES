@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_39013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cabez\u00f3n de Li\u00e9bana",
+    "eurostat:nuts_2021_id":"39013",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES13",
+    "eurostat:nuts_2021_level_3":"ES130",
+    "eurostat:nuts_2021_level_lau":"39013",
+    "eurostat:population":604,
+    "eurostat:population_year":2020,
     "geom:area":0.009008,
     "geom:area_square_m":81289670.170921,
     "geom:bbox":"-4.61307555,43.08058624,-4.46435543,43.17229046",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227371
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_39013",
+        "eurostat:nuts_2021_id":"39013"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"b2c799fd741b17dd0a304e7047ba8159",
+    "wof:geomhash":"0de1c746a9eee1fcd8dae787950f9e60",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404342067,
-    "wof:lastmodified":1566590976,
+    "wof:lastmodified":1684352435,
     "wof:name":"Cabez\u00f3n De Li\u00e9bana",
     "wof:parent_id":85682833,
     "wof:placetype":"localadmin",
+    "wof:population":604,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

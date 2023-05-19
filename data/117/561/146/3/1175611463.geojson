@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alqueria d'Asnar, l'",
+    "eurostat:nuts_2021_id":"03017",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03017",
+    "eurostat:population":493,
+    "eurostat:population_year":2020,
     "geom:area":0.000112,
     "geom:area_square_m":1083090.620397,
     "geom:bbox":"-0.43008162,38.7632824,-0.40318883,38.77814481",
@@ -36,6 +48,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         404329287,
@@ -45,12 +59,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03017",
+        "eurostat:nuts_2021_id":"03017",
         "gn:id":2521825,
         "gp:id":12695282,
         "qs_pg:id":1289747
     },
     "wof:country":"ES",
-    "wof:geomhash":"9b7daf3c7729cd019c5708dfecdce1dd",
+    "wof:geomhash":"706506cb388efb8536527da7d46f4a3e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,10 +77,12 @@
         }
     ],
     "wof:id":1175611463,
-    "wof:lastmodified":1566588657,
+    "wof:lastmodified":1684352510,
     "wof:name":"L'Alqueria D'Asnar",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":493,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_39028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Entrambasaguas",
+    "eurostat:nuts_2021_id":"39028",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES13",
+    "eurostat:nuts_2021_level_3":"ES130",
+    "eurostat:nuts_2021_level_lau":"39028",
+    "eurostat:population":5260,
+    "eurostat:population_year":2020,
     "geom:area":0.004796,
-    "geom:area_square_m":43111916.588347,
+    "geom:area_square_m":43111916.588346,
     "geom:bbox":"-3.73103024,43.3107191,-3.6144369,43.4111094",
     "geom:latitude":43.364187,
     "geom:longitude":-3.668326,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_39028",
+        "eurostat:nuts_2021_id":"39028",
         "gn:id":6360675,
         "gp:id":12688549,
         "qs_pg:id":1015250
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d9e7047ee0b57aff5795c5b2713f2f99",
+    "wof:geomhash":"7f45ad875a27bbf4462b8dcd13ca45c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404342103,
-    "wof:lastmodified":1582361806,
+    "wof:lastmodified":1684352435,
     "wof:name":"Entrambasaguas",
     "wof:parent_id":85682833,
     "wof:placetype":"localadmin",
+    "wof:population":5260,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

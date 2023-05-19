@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25067,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25067",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castelldans",
+    "eurostat:nuts_2021_id":"25067",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25067",
+    "eurostat:population":930,
+    "eurostat:population_year":2020,
     "geom:area":0.006935,
-    "geom:area_square_m":64232645.60278,
+    "geom:area_square_m":64232657.651522,
     "geom:bbox":"0.69241,41.445932,0.8228,41.53773",
     "geom:latitude":41.49264,
     "geom:longitude":0.760791,
@@ -112,6 +124,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -120,7 +134,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25067",
         "esp-icgc:la_lc":"025067",
+        "eurostat:nuts_2021_id":"25067",
         "gn:id":6358821,
         "gp:id":12693966,
         "qs_pg:id":265383
@@ -130,7 +146,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"18c19b07e6cc09156be8b0d3bde439c0",
+    "wof:geomhash":"14d76c86ddaf0e15c65593ccc312a579",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404337757,
-    "wof:lastmodified":1669903026,
+    "wof:lastmodified":1684352359,
     "wof:name":"Castelldans",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":930,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

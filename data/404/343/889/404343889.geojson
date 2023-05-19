@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bello",
+    "eurostat:nuts_2021_id":"44039",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44039",
+    "eurostat:population":219,
+    "eurostat:population_year":2020,
     "geom:area":0.005611,
-    "geom:area_square_m":52423022.430363,
+    "geom:area_square_m":52422923.753623,
     "geom:bbox":"-1.589561,40.865179,-1.453462,40.964124",
     "geom:latitude":40.922646,
     "geom:longitude":-1.511035,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44039",
+        "eurostat:nuts_2021_id":"44039",
         "gn:id":6361463,
         "gp:id":12689633,
         "qs_pg:id":1146733
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3e09e1f879880681768eaf4b2f3586a0",
+    "wof:geomhash":"6c1a1a06e352aae855a5fcf3d5b940f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404343889,
-    "wof:lastmodified":1636503330,
+    "wof:lastmodified":1684352467,
     "wof:name":"Bello",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":219,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

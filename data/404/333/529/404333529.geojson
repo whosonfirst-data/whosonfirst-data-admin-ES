@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_13053",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Manzanares",
+    "eurostat:nuts_2021_id":"13053",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES422",
+    "eurostat:nuts_2021_level_lau":"13053",
+    "eurostat:population":17962,
+    "eurostat:population_year":2020,
     "geom:area":0.04933,
-    "geom:area_square_m":473855868.605929,
+    "geom:area_square_m":473855868.605932,
     "geom:bbox":"-3.55637881,38.84859751,-3.15202004,39.14490526",
     "geom:latitude":39.027282,
     "geom:longitude":-3.376261,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_13053",
+        "eurostat:nuts_2021_id":"13053",
         "gn:id":6357147,
         "gp:id":12690350,
         "qs_pg:id":1315875
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"15fc287d4cc22de87b5cbac10e80e3ad",
+    "wof:geomhash":"2d09fe6295d597d7ca81f0fd04c8331d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404333529,
-    "wof:lastmodified":1582361771,
+    "wof:lastmodified":1684352280,
     "wof:name":"Manzanares",
     "wof:parent_id":85682689,
     "wof:placetype":"localadmin",
+    "wof:population":17962,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

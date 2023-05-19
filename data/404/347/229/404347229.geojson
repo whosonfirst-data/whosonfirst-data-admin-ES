@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50237",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Cruz de Moncayo",
+    "eurostat:nuts_2021_id":"50237",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50237",
+    "eurostat:population":123,
+    "eurostat:population_year":2020,
     "geom:area":0.000431,
     "geom:area_square_m":3966307.366619,
     "geom:bbox":"-1.77452219,41.87166468,-1.74112987,41.89550555",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50237",
+        "eurostat:nuts_2021_id":"50237",
         "gn:id":6362923,
         "gp:id":12690064,
         "qs_pg:id":45585
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bbc18364e59d3d9ac0af6a174e4dec3b",
+    "wof:geomhash":"b67cde0f588231b10d4233970d1f5779",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404347229,
-    "wof:lastmodified":1582361670,
+    "wof:lastmodified":1684352509,
     "wof:name":"Santa Cruz De Moncayo",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":123,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

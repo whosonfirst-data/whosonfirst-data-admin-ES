@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_07042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pollen\u00e7a",
+    "eurostat:nuts_2021_id":"07042",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES53",
+    "eurostat:nuts_2021_level_3":"ES532",
+    "eurostat:nuts_2021_level_lau":"07042",
+    "eurostat:population":16658,
+    "eurostat:population_year":2020,
     "geom:area":0.015949,
-    "geom:area_square_m":151325418.514803,
+    "geom:area_square_m":151325418.514796,
     "geom:bbox":"2.92105455,39.81662536,3.21444244,39.96253271",
     "geom:latitude":39.886724,
     "geom:longitude":3.029508,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_07042",
+        "eurostat:nuts_2021_id":"07042",
         "gn:id":6533963,
         "gp:id":12687750,
         "qs_pg:id":1112621
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6b4aa19b94c137db2f20ce9babe2f21c",
+    "wof:geomhash":"eddce5cb8d001f06baeac09fd46aaa52",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404330821,
-    "wof:lastmodified":1582361523,
+    "wof:lastmodified":1684352232,
     "wof:name":"Pollen\u00e7a",
     "wof:parent_id":85682647,
     "wof:placetype":"localadmin",
+    "wof:population":16658,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50159",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Maluenda",
+    "eurostat:nuts_2021_id":"50159",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50159",
+    "eurostat:population":937,
+    "eurostat:population_year":2020,
     "geom:area":0.004309,
-    "geom:area_square_m":40041538.119915,
+    "geom:area_square_m":40041538.119914,
     "geom:bbox":"-1.68460802,41.22041615,-1.56784855,41.31087296",
     "geom:latitude":41.274032,
     "geom:longitude":-1.629922,
@@ -102,6 +114,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -109,9 +123,12 @@
         404227363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_50159",
+        "eurostat:nuts_2021_id":"50159"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"74782b2c7b777c37993cd65f87ab8b0f",
+    "wof:geomhash":"4b371a511bad8ae8c1485459f7b5fc88",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +139,12 @@
         }
     ],
     "wof:id":404347055,
-    "wof:lastmodified":1566590454,
+    "wof:lastmodified":1684352506,
     "wof:name":"Maluenda",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":937,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

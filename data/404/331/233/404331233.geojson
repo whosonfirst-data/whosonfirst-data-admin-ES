@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8158,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08158",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Papiol, El",
+    "eurostat:nuts_2021_id":"08158",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08158",
+    "eurostat:population":4172,
+    "eurostat:population_year":2020,
     "geom:area":0.000954,
-    "geom:area_square_m":8841340.069487,
+    "geom:area_square_m":8841340.069486,
     "geom:bbox":"1.99408061648,41.4214417456,2.03294656303,41.4602405277",
     "geom:latitude":41.442183,
     "geom:longitude":2.011914,
@@ -136,6 +148,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -144,7 +158,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08158",
         "esp-icgc:la_lc":"08158",
+        "eurostat:nuts_2021_id":"08158",
         "gn:id":6356185,
         "gp:id":12693538,
         "qs_pg:id":1179310
@@ -154,7 +170,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"029e6ffc5c34d7fea896fe2734d87a16",
+    "wof:geomhash":"7ac0738d8f13f6ec9615a44fc3870e03",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -165,10 +181,12 @@
         }
     ],
     "wof:id":404331233,
-    "wof:lastmodified":1582361494,
+    "wof:lastmodified":1684352245,
     "wof:name":"El Papiol",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":4172,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

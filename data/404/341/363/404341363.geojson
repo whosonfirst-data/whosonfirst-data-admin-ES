@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37130",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Forfoleda",
+    "eurostat:nuts_2021_id":"37130",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37130",
+    "eurostat:population":190,
+    "eurostat:population_year":2020,
     "geom:area":0.004081,
-    "geom:area_square_m":38021884.560927,
+    "geom:area_square_m":38021884.560926,
     "geom:bbox":"-5.78557428,41.06769989,-5.71058908,41.15413011",
     "geom:latitude":41.112971,
     "geom:longitude":-5.74923,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37130",
+        "eurostat:nuts_2021_id":"37130",
         "gn:id":6360373,
         "gp:id":12692266,
         "qs_pg:id":1148733
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1773a6b9dac04ffdeed265a3a97f152b",
+    "wof:geomhash":"f247ca14296b3c8c9bd0b2b97aecc280",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404341363,
-    "wof:lastmodified":1582361625,
+    "wof:lastmodified":1684352423,
     "wof:name":"Forfoleda",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":190,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

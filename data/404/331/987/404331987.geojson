@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09198",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mahamud",
+    "eurostat:nuts_2021_id":"09198",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09198",
+    "eurostat:population":100,
+    "eurostat:population_year":2020,
     "geom:area":0.003659,
-    "geom:area_square_m":33557832.526524,
+    "geom:area_square_m":33557832.526525,
     "geom:bbox":"-3.96196794,42.09172457,-3.84645048,42.17119214",
     "geom:latitude":42.130497,
     "geom:longitude":-3.912286,
@@ -108,6 +120,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -115,9 +129,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_09198",
+        "eurostat:nuts_2021_id":"09198"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"a051928f1f3ddf345ed168575d3f5d64",
+    "wof:geomhash":"c48f92903c22ac9680effb68706ee39a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +145,12 @@
         }
     ],
     "wof:id":404331987,
-    "wof:lastmodified":1566589847,
+    "wof:lastmodified":1684352260,
     "wof:name":"Mahamud",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":100,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

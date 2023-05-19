@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19108",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dur\u00f3n",
+    "eurostat:nuts_2021_id":"19108",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19108",
+    "eurostat:population":99,
+    "eurostat:population_year":2020,
     "geom:area":0.002482,
     "geom:area_square_m":23290455.499399,
     "geom:bbox":"-2.7435312,40.59997654,-2.67589471,40.66371537",
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19108",
+        "eurostat:nuts_2021_id":"19108",
         "gn:id":6357891,
         "gp:id":12690721,
         "qs_pg:id":45929
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b1fe36063ec92d3d4dbaef01c0a7240f",
+    "wof:geomhash":"253efb85697e0167f077c62dd60e61fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404335625,
-    "wof:lastmodified":1582361706,
+    "wof:lastmodified":1684352328,
     "wof:name":"Dur\u00f3n",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":99,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

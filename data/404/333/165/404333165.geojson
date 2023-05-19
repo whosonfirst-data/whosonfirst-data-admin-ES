@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Benicasim / Benic\u00e0ssim",
+    "eurostat:nuts_2021_id":"12028",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12028",
+    "eurostat:population":18364,
+    "eurostat:population_year":2020,
     "geom:area":0.003838,
-    "geom:area_square_m":36321071.864606,
+    "geom:area_square_m":36321071.864605,
     "geom:bbox":"-0.00330224,40.01556704,0.09394726,40.08646463",
     "geom:latitude":40.056546,
     "geom:longitude":0.041688,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12028",
+        "eurostat:nuts_2021_id":"12028",
         "gn:id":6356985,
         "qs_pg:id":621588
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fbe80d5f19765aca65f04ce9695aa779",
+    "wof:geomhash":"629f04e607cb5d121d7e1052c9610ce8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404333165,
-    "wof:lastmodified":1582361773,
+    "wof:lastmodified":1684352275,
     "wof:name":"Benicasim/Benic\u00e0ssim",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":18364,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

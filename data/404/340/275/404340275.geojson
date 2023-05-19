@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_32090",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vilar de Santos",
+    "eurostat:nuts_2021_id":"32090",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES113",
+    "eurostat:nuts_2021_level_lau":"32090",
+    "eurostat:population":794,
+    "eurostat:population_year":2020,
     "geom:area":0.002253,
-    "geom:area_square_m":20672798.741904,
+    "geom:area_square_m":20672798.741902,
     "geom:bbox":"-7.82463921,42.06157163,-7.78067676,42.14106849",
     "geom:latitude":42.096573,
     "geom:longitude":-7.803259,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227385
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_32090",
+        "eurostat:nuts_2021_id":"32090"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"fdfd3507ef9ae1049a22e46731b4a863",
+    "wof:geomhash":"6019c6e7ecdff6c40690fc2eec5db9a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404340275,
-    "wof:lastmodified":1566590387,
+    "wof:lastmodified":1684352404,
     "wof:name":"Vilar De Santos",
     "wof:parent_id":85682801,
     "wof:placetype":"localadmin",
+    "wof:population":794,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

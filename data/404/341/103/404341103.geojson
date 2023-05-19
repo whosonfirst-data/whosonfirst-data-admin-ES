@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Abusejo",
+    "eurostat:nuts_2021_id":"37001",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37001",
+    "eurostat:population":175,
+    "eurostat:population_year":2020,
     "geom:area":0.002462,
-    "geom:area_square_m":23076422.304466,
+    "geom:area_square_m":23076422.304467,
     "geom:bbox":"-6.16496977,40.67730195,-6.09595634,40.74712279",
     "geom:latitude":40.705555,
     "geom:longitude":-6.135164,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37001",
+        "eurostat:nuts_2021_id":"37001",
         "gn:id":6360259,
         "gp:id":12692150,
         "qs_pg:id":45632
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b79d8df0a6dddbbdd3c720ada57d7408",
+    "wof:geomhash":"8a7402703492c1e1705959c7268360cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404341103,
-    "wof:lastmodified":1582361623,
+    "wof:lastmodified":1684352420,
     "wof:name":"Abusejo",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":175,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

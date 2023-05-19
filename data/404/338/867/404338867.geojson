@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28082",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Manzanares el Real",
+    "eurostat:nuts_2021_id":"28082",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28082",
+    "eurostat:population":8936,
+    "eurostat:population_year":2020,
     "geom:area":0.013533,
-    "geom:area_square_m":126768875.246236,
+    "geom:area_square_m":126768875.246238,
     "geom:bbox":"-3.97967572,40.67921991,-3.80058639,40.8150071",
     "geom:latitude":40.75044,
     "geom:longitude":-3.877958,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28082",
+        "eurostat:nuts_2021_id":"28082",
         "gn:id":6359306,
         "gp:id":12688026,
         "qs_pg:id":1118760
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a1af3bcdf2758b709774229e8abbff94",
+    "wof:geomhash":"12bd5b88a175d7ff836089699641fb36",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404338867,
-    "wof:lastmodified":1582361439,
+    "wof:lastmodified":1684352383,
     "wof:name":"Manzanares El Real",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":8936,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

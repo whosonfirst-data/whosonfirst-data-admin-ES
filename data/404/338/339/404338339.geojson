@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_26091",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lumbreras",
+    "eurostat:nuts_2021_id":"26091",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES23",
+    "eurostat:nuts_2021_level_3":"ES230",
+    "eurostat:nuts_2021_level_lau":"26091",
+    "eurostat:population":152,
+    "eurostat:population_year":2020,
     "geom:area":0.015548,
-    "geom:area_square_m":142699391.842271,
+    "geom:area_square_m":142699391.842273,
     "geom:bbox":"-2.6597892,41.99626378,-2.51451345,42.16056697",
     "geom:latitude":42.07583,
     "geom:longitude":-2.59324,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_26091",
+        "eurostat:nuts_2021_id":"26091",
         "gn:id":6359079,
         "gp:id":12687860,
         "qs_pg:id":1188141
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b6445fc5f4b69fd910f4d19c4be55d32",
+    "wof:geomhash":"de74bacfe244ac4738bc832a3ef6d347",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404338339,
-    "wof:lastmodified":1582361431,
+    "wof:lastmodified":1684352374,
     "wof:name":"Lumbreras",
     "wof:parent_id":85682773,
     "wof:placetype":"localadmin",
+    "wof:population":152,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

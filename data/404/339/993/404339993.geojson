@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31239",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Urdazubi / Urdax",
+    "eurostat:nuts_2021_id":"31239",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31239",
+    "eurostat:population":356,
+    "eurostat:population_year":2020,
     "geom:area":0.000855,
     "geom:area_square_m":7692669.045436,
     "geom:bbox":"-1.53340435,43.25850546,-1.49019733,43.29400269",
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31239",
+        "eurostat:nuts_2021_id":"31239",
         "gn:id":6359786,
         "qs_pg:id":621781
     },
@@ -117,7 +133,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7e60d73f671d72e0a7fedfb4cf39ef53",
+    "wof:geomhash":"d028a129a86c9eb8ac68cb7783b8abe7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +144,12 @@
         }
     ],
     "wof:id":404339993,
-    "wof:lastmodified":1582361590,
+    "wof:lastmodified":1684352401,
     "wof:name":"Urdazubi/Urdax",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":356,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

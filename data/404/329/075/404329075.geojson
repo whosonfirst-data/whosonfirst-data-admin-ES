@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_02011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ayna",
+    "eurostat:nuts_2021_id":"02011",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES421",
+    "eurostat:nuts_2021_level_lau":"02011",
+    "eurostat:population":591,
+    "eurostat:population_year":2020,
     "geom:area":0.015174,
     "geom:area_square_m":146710169.0376,
     "geom:bbox":"-2.23561079,38.50064591,-2.00478355,38.64383802",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_02011",
+        "eurostat:nuts_2021_id":"02011",
         "gn:id":6355303,
         "gp:id":12690222,
         "qs_pg:id":1112628
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"038d82ca244e62058da4204f6ff6fac3",
+    "wof:geomhash":"96b004cf734bb9757f9e55f8aa1568b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404329075,
-    "wof:lastmodified":1582361799,
+    "wof:lastmodified":1684352204,
     "wof:name":"Ayna",
     "wof:parent_id":85682621,
     "wof:placetype":"localadmin",
+    "wof:population":591,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

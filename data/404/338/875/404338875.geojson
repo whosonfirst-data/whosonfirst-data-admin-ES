@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28085",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Miraflores de la Sierra",
+    "eurostat:nuts_2021_id":"28085",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28085",
+    "eurostat:population":6362,
+    "eurostat:population_year":2020,
     "geom:area":0.006024,
-    "geom:area_square_m":56386400.908794,
+    "geom:area_square_m":56386400.908796,
     "geom:bbox":"-3.83022872,40.72852241,-3.71037042,40.84900398",
     "geom:latitude":40.797078,
     "geom:longitude":-3.777543,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28085",
+        "eurostat:nuts_2021_id":"28085",
         "gn:id":6359309,
         "gp:id":12688029,
         "qs_pg:id":1208846
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d8bfb48637c154e97a64e00997eb41ae",
+    "wof:geomhash":"69d7d0725aa5fe2b1c0269ffb000f3e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404338875,
-    "wof:lastmodified":1582361436,
+    "wof:lastmodified":1684352383,
     "wof:name":"Miraflores De La Sierra",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":6362,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

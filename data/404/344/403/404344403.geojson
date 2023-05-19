@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calera y Chozas",
+    "eurostat:nuts_2021_id":"45028",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45028",
+    "eurostat:population":4608,
+    "eurostat:population_year":2020,
     "geom:area":0.023113,
-    "geom:area_square_m":219320197.726283,
+    "geom:area_square_m":219320197.72628,
     "geom:bbox":"-5.12242671,39.77646861,-4.89217157,39.96191778",
     "geom:latitude":39.877763,
     "geom:longitude":-5.017673,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45028",
+        "eurostat:nuts_2021_id":"45028",
         "gn:id":6361689,
         "gp:id":12690950,
         "qs_pg:id":46036
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"80c317c5f8b6282661d4adba76d9175d",
+    "wof:geomhash":"f8fefb0ba6760f628189716d2ab2bce5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404344403,
-    "wof:lastmodified":1582361858,
+    "wof:lastmodified":1684352473,
     "wof:name":"Calera Y Chozas",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":4608,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

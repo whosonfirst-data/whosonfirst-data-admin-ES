@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19220",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pioz",
+    "eurostat:nuts_2021_id":"19220",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19220",
+    "eurostat:population":4352,
+    "eurostat:population_year":2020,
     "geom:area":0.002056,
-    "geom:area_square_m":19338743.641966,
+    "geom:area_square_m":19338743.641967,
     "geom:bbox":"-3.20046236,40.43626282,-3.1373709,40.48296134",
     "geom:latitude":40.460749,
     "geom:longitude":-3.173626,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19220",
+        "eurostat:nuts_2021_id":"19220",
         "gn:id":6357989,
         "gp:id":12690819,
         "qs_pg:id":400395
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6f595fadcbbd761098de5dc4216a4d5a",
+    "wof:geomhash":"897ef0350813f43fababae74de03556f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404335849,
-    "wof:lastmodified":1582361707,
+    "wof:lastmodified":1684352330,
     "wof:name":"Pioz",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":4352,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

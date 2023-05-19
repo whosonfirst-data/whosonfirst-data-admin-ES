@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05120",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marl\u00edn",
+    "eurostat:nuts_2021_id":"05120",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05120",
+    "eurostat:population":32,
+    "eurostat:population_year":2020,
     "geom:area":0.000681,
-    "geom:area_square_m":6386463.762441,
+    "geom:area_square_m":6386463.76244,
     "geom:bbox":"-4.84376303,40.69515964,-4.8080719,40.72955431",
     "geom:latitude":40.711856,
     "geom:longitude":-4.826066,
@@ -99,6 +111,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -106,9 +120,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_05120",
+        "eurostat:nuts_2021_id":"05120"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"f11f9734ea28579c1ec3960997587d82",
+    "wof:geomhash":"9b62a25710874596169e88367412d053",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +136,12 @@
         }
     ],
     "wof:id":404330035,
-    "wof:lastmodified":1566589935,
+    "wof:lastmodified":1684352218,
     "wof:name":"Marl\u00edn",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":32,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

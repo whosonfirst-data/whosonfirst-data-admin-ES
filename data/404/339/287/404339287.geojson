@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_29088",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sierra de Yeguas",
+    "eurostat:nuts_2021_id":"29088",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES617",
+    "eurostat:nuts_2021_level_lau":"29088",
+    "eurostat:population":3318,
+    "eurostat:population_year":2020,
     "geom:area":0.008681,
-    "geom:area_square_m":85561349.875234,
+    "geom:area_square_m":85561349.875235,
     "geom:bbox":"-4.94266493,37.09174698,-4.78567502,37.20140685",
     "geom:latitude":37.144995,
     "geom:longitude":-4.856154,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_29088",
+        "eurostat:nuts_2021_id":"29088",
         "gn:id":6359492,
         "gp:id":12689276,
         "qs_pg:id":953813
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bdb68aa41c7a109bc3d5470e008c4587",
+    "wof:geomhash":"841d765b1a43aa16763399a3b14d9e7f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404339287,
-    "wof:lastmodified":1582361583,
+    "wof:lastmodified":1684352391,
     "wof:name":"Sierra De Yeguas",
     "wof:parent_id":85682787,
     "wof:placetype":"localadmin",
+    "wof:population":3318,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

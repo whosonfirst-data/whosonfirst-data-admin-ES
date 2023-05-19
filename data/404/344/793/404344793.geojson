@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45203",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Yuncler",
+    "eurostat:nuts_2021_id":"45203",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45203",
+    "eurostat:population":4098,
+    "eurostat:population_year":2020,
     "geom:area":0.001849,
-    "geom:area_square_m":17500580.913986,
+    "geom:area_square_m":17500580.913985,
     "geom:bbox":"-3.95609363,40.02811536,-3.86663242,40.08070633",
     "geom:latitude":40.052857,
     "geom:longitude":-3.903638,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45203",
+        "eurostat:nuts_2021_id":"45203",
         "gn:id":6361862,
         "gp:id":12691124,
         "qs_pg:id":234846
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"feb21d3259574b928a9abc611c16e305",
+    "wof:geomhash":"7c239beef3785675310498f9db1c7c1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404344793,
-    "wof:lastmodified":1582361852,
+    "wof:lastmodified":1684352478,
     "wof:name":"Yuncler",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":4098,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

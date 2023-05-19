@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_33019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Colunga",
+    "eurostat:nuts_2021_id":"33019",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES12",
+    "eurostat:nuts_2021_level_3":"ES120",
+    "eurostat:nuts_2021_level_lau":"33019",
+    "eurostat:population":3205,
+    "eurostat:population_year":2020,
     "geom:area":0.010753,
     "geom:area_square_m":96496484.812544,
     "geom:bbox":"-5.34447295,43.41182812,-5.20070752,43.53569761",
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_33019",
+        "eurostat:nuts_2021_id":"33019",
         "gn:id":6359925,
         "gp:id":12688462,
         "qs_pg:id":1197590
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fafbba7487083b4c015c54e2d3f8230d",
+    "wof:geomhash":"536d91037aa2a71dd342ddb9879bad0e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404340321,
-    "wof:lastmodified":1582361668,
+    "wof:lastmodified":1684352405,
     "wof:name":"Colunga",
     "wof:parent_id":85682805,
     "wof:placetype":"localadmin",
+    "wof:population":3205,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10076",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Galisteo",
+    "eurostat:nuts_2021_id":"10076",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10076",
+    "eurostat:population":916,
+    "eurostat:population_year":2020,
     "geom:area":0.006939,
-    "geom:area_square_m":65723637.523894,
+    "geom:area_square_m":65723637.523892,
     "geom:bbox":"-6.32931499,39.9224164,-6.2294652,40.06612544",
     "geom:latitude":40.00082,
     "geom:longitude":-6.282058,
@@ -45,6 +57,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -53,6 +67,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10076",
+        "eurostat:nuts_2021_id":"10076",
         "gn:id":6356772,
         "gp:id":12694557,
         "qs_pg:id":240430
@@ -61,7 +77,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e87e93458c4cbd6690c1f71f51b4fc20",
+    "wof:geomhash":"7301bb36a0092ce12eb8ff2051b7cfc4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
         }
     ],
     "wof:id":404332679,
-    "wof:lastmodified":1582361688,
+    "wof:lastmodified":1684352267,
     "wof:name":"Galisteo",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":916,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

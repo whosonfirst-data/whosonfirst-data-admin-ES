@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arakaldo",
+    "eurostat:nuts_2021_id":"48005",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48005",
+    "eurostat:population":165,
+    "eurostat:population_year":2020,
     "geom:area":0.000297,
     "geom:area_square_m":2682136.340178,
     "geom:bbox":"-2.94078606,43.14196343,-2.91322493,43.15873778",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_48005",
+        "eurostat:nuts_2021_id":"48005",
         "gn:id":6362356,
         "gp:id":12695162,
         "qs_pg:id":48320
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"009d2a8a13ef001c56779fb4027b1723",
+    "wof:geomhash":"1972a60c087c64be84eaf704a2dd4653",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404345915,
-    "wof:lastmodified":1582361831,
+    "wof:lastmodified":1684352491,
     "wof:name":"Arakaldo",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":165,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":8115,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08115",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Martorelles",
+    "eurostat:nuts_2021_id":"08115",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08115",
+    "eurostat:population":4820,
+    "eurostat:population_year":2020,
     "geom:area":0.000391,
     "geom:area_square_m":3619375.698594,
     "geom:bbox":"2.220772,41.520756,2.252979,41.542004",
@@ -130,6 +142,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -138,7 +152,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08115",
         "esp-icgc:la_lc":"08115",
+        "eurostat:nuts_2021_id":"08115",
         "gn:id":6356144,
         "gp:id":12693496,
         "qs_pg:id":1251864
@@ -151,7 +167,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"24b0f9ecfb6125f2c842a7a9bbd4f0f1",
+    "wof:geomhash":"387405342fad93c00c15ee67ff500660",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -162,10 +178,12 @@
         }
     ],
     "wof:id":404331137,
-    "wof:lastmodified":1669903008,
+    "wof:lastmodified":1684352242,
     "wof:name":"Martorelles",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":4820,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

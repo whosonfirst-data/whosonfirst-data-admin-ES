@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19115",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Establ\u00e9s",
+    "eurostat:nuts_2021_id":"19115",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19115",
+    "eurostat:population":35,
+    "eurostat:population_year":2020,
     "geom:area":0.005595,
-    "geom:area_square_m":52209668.274514,
+    "geom:area_square_m":52209668.274515,
     "geom:bbox":"-2.09591132,40.96175621,-1.97216671,41.05783941",
     "geom:latitude":41.00597,
     "geom:longitude":-2.025795,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19115",
+        "eurostat:nuts_2021_id":"19115",
         "gn:id":6357898,
         "gp:id":12690728,
         "qs_pg:id":540314
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5af9ea94dd4f3239836233339d4f094a",
+    "wof:geomhash":"fa2dedc591f482a6045000333fa6ebaf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404335641,
-    "wof:lastmodified":1582361707,
+    "wof:lastmodified":1684352328,
     "wof:name":"Establ\u00e9s",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":35,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

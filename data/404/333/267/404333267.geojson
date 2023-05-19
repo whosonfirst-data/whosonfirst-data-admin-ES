@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12080",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Morella",
+    "eurostat:nuts_2021_id":"12080",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12080",
+    "eurostat:population":2416,
+    "eurostat:population_year":2020,
     "geom:area":0.043996,
-    "geom:area_square_m":413066159.529018,
+    "geom:area_square_m":413066159.529017,
     "geom:bbox":"-0.21597254,40.4137015,0.08518462,40.74300951",
     "geom:latitude":40.597901,
     "geom:longitude":-0.075488,
@@ -63,6 +75,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -71,6 +85,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12080",
+        "eurostat:nuts_2021_id":"12080",
         "gn:id":6357031,
         "gp:id":12695479,
         "qs_pg:id":48491
@@ -79,7 +95,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bce6af51ed2ed5d72221f29c5961588c",
+    "wof:geomhash":"0dd9979436dc5a348d20ae5a12007f31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,10 +106,12 @@
         }
     ],
     "wof:id":404333267,
-    "wof:lastmodified":1582361767,
+    "wof:lastmodified":1684352276,
     "wof:name":"Morella",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":2416,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

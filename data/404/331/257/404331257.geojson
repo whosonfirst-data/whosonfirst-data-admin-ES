@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":8168,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08168",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pontons",
+    "eurostat:nuts_2021_id":"08168",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08168",
+    "eurostat:population":528,
+    "eurostat:population_year":2020,
     "geom:area":0.002777,
     "geom:area_square_m":25749448.26749,
     "geom:bbox":"1.47316272395,41.3801266895,1.54616313867,41.4401726233",
@@ -124,6 +136,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -132,7 +146,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08168",
         "esp-icgc:la_lc":"08168",
+        "eurostat:nuts_2021_id":"08168",
         "gn:id":6356194,
         "gp:id":12693548,
         "qs_pg:id":265372
@@ -142,7 +158,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3cf965fdcb6de94b5f3739898406954e",
+    "wof:geomhash":"2d7a3035d656ab0e5bcd2abed5792111",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,10 +169,12 @@
         }
     ],
     "wof:id":404331257,
-    "wof:lastmodified":1582361489,
+    "wof:lastmodified":1684352246,
     "wof:name":"Pontons",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":528,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

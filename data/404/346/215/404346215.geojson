@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brime de Sog",
+    "eurostat:nuts_2021_id":"49027",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49027",
+    "eurostat:population":130,
+    "eurostat:population_year":2020,
     "geom:area":0.00195,
-    "geom:area_square_m":17905247.387438,
+    "geom:area_square_m":17905247.387441,
     "geom:bbox":"-6.08804083,42.02837086,-6.01119834,42.09524714",
     "geom:latitude":42.058622,
     "geom:longitude":-6.048336,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_49027",
+        "eurostat:nuts_2021_id":"49027",
         "gn:id":6362474,
         "gp:id":12693153,
         "qs_pg:id":47086
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"19616d2ea4f903937a02f1ff882252e8",
+    "wof:geomhash":"9fe488df3f15aaf243c811fe541d3dd3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404346215,
-    "wof:lastmodified":1582361616,
+    "wof:lastmodified":1684352496,
     "wof:name":"Brime De Sog",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":130,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

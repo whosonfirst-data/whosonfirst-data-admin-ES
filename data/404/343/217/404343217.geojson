@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42123",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mor\u00f3n de Almaz\u00e1n",
+    "eurostat:nuts_2021_id":"42123",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42123",
+    "eurostat:population":194,
+    "eurostat:population_year":2020,
     "geom:area":0.006682,
-    "geom:area_square_m":61981101.420298,
+    "geom:area_square_m":61981101.420297,
     "geom:bbox":"-2.46487446,41.35677324,-2.31546888,41.44054203",
     "geom:latitude":41.399715,
     "geom:longitude":-2.406277,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42123",
+        "eurostat:nuts_2021_id":"42123",
         "gn:id":6361165,
         "gp:id":12692824,
         "qs_pg:id":396578
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cf6c7c7d0ebc26bf0d4d6d59034d0204",
+    "wof:geomhash":"3c56a57dd850d40924c2815271443eaa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404343217,
-    "wof:lastmodified":1582361869,
+    "wof:lastmodified":1684352449,
     "wof:name":"Mor\u00f3n De Almaz\u00e1n",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":194,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

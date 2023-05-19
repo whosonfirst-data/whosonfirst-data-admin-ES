@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43054,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43054",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Espluga de Francol\u00ed, L'",
+    "eurostat:nuts_2021_id":"43054",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43054",
+    "eurostat:population":3736,
+    "eurostat:population_year":2020,
     "geom:area":0.006088,
-    "geom:area_square_m":56453668.985613,
+    "geom:area_square_m":56453505.615659,
     "geom:bbox":"1.055424,41.359387,1.147858,41.474251",
     "geom:latitude":41.421263,
     "geom:longitude":1.104339,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43054",
         "esp-icgc:la_lc":"043054",
+        "eurostat:nuts_2021_id":"43054",
         "gp:id":12694192,
         "qs_pg:id":1308316
     },
@@ -66,7 +82,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c693f30ddbef61ff5c077b0c4c640036",
+    "wof:geomhash":"e12dbcea787679dadf91458810ddb4f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,10 +93,12 @@
         }
     ],
     "wof:id":404343515,
-    "wof:lastmodified":1669903071,
+    "wof:lastmodified":1684352455,
     "wof:name":"L'Espluga de Francol\u00ed",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":3736,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

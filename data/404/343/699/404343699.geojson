@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43137,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43137",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Jaume dels Domenys",
+    "eurostat:nuts_2021_id":"43137",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43137",
+    "eurostat:population":2624,
+    "eurostat:population_year":2020,
     "geom:area":0.002612,
-    "geom:area_square_m":24262193.327624,
+    "geom:area_square_m":24262342.409318,
     "geom:bbox":"1.518192,41.278563,1.596714,41.343324",
     "geom:latitude":41.307907,
     "geom:longitude":1.55548,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43137",
         "esp-icgc:la_lc":"043137",
+        "eurostat:nuts_2021_id":"43137",
         "gn:id":6361379,
         "gp:id":12694276,
         "qs_pg:id":1293614
@@ -67,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c759978cb967f74c27a94cba61ad1f8f",
+    "wof:geomhash":"92a559d0ce911b95266ba7252d0853a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404343699,
-    "wof:lastmodified":1669903068,
+    "wof:lastmodified":1684352461,
     "wof:name":"Sant Jaume dels Domenys",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":2624,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

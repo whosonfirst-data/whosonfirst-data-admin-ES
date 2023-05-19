@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_33023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Franco, El",
+    "eurostat:nuts_2021_id":"33023",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES12",
+    "eurostat:nuts_2021_level_3":"ES120",
+    "eurostat:nuts_2021_level_lau":"33023",
+    "eurostat:population":3760,
+    "eurostat:population_year":2020,
     "geom:area":0.008706,
-    "geom:area_square_m":78070363.35877,
+    "geom:area_square_m":78070363.358752,
     "geom:bbox":"-6.88958065,43.44783218,-6.78749347,43.57137095",
     "geom:latitude":43.509929,
     "geom:longitude":-6.841749,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_33023",
+        "eurostat:nuts_2021_id":"33023",
         "gn:id":6359928,
         "qs_pg:id":621795
     },
@@ -132,7 +148,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cb58d6cc48854203980570cf9b75ccdc",
+    "wof:geomhash":"607f950422d0d63511ee2d5900c31556",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404340331,
-    "wof:lastmodified":1582361645,
+    "wof:lastmodified":1684352406,
     "wof:name":"El Franco",
     "wof:parent_id":85682805,
     "wof:placetype":"localadmin",
+    "wof:population":3760,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

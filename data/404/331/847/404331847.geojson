@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09122",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Espinosa de Cervera",
+    "eurostat:nuts_2021_id":"09122",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09122",
+    "eurostat:population":91,
+    "eurostat:population_year":2020,
     "geom:area":0.003213,
-    "geom:area_square_m":29574991.739247,
+    "geom:area_square_m":29574991.739244,
     "geom:bbox":"-3.51256436,41.86000048,-3.42359012,41.92252824",
     "geom:latitude":41.89212,
     "geom:longitude":-3.469057,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09122",
+        "eurostat:nuts_2021_id":"09122",
         "gn:id":6356424,
         "gp:id":12691471,
         "qs_pg:id":1162754
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"93215b1cd722d3663e54669465879eaa",
+    "wof:geomhash":"6374b800b13014f99d29d8a3ac4fcfe5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404331847,
-    "wof:lastmodified":1582361507,
+    "wof:lastmodified":1684352259,
     "wof:name":"Espinosa De Cervera",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":91,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

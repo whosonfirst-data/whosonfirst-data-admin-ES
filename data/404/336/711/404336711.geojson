@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22142",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lascuarre",
+    "eurostat:nuts_2021_id":"22142",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22142",
+    "eurostat:population":139,
+    "eurostat:population_year":2020,
     "geom:area":0.003473,
-    "geom:area_square_m":31822144.268186,
+    "geom:area_square_m":31822144.268185,
     "geom:bbox":"0.48216945,42.13522216,0.55389187,42.22754209",
     "geom:latitude":42.189869,
     "geom:longitude":0.52084,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22142",
+        "eurostat:nuts_2021_id":"22142",
         "gn:id":6358365,
         "gp:id":12689509,
         "qs_pg:id":45345
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"56847b772fa582442f00b5668547a7dd",
+    "wof:geomhash":"32a69b2b4b0d7c9a22b0166eb4c8008f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404336711,
-    "wof:lastmodified":1582361478,
+    "wof:lastmodified":1684352342,
     "wof:name":"Lascuarre",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":139,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

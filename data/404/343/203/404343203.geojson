@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42116",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mi\u00f1o de San Esteban",
+    "eurostat:nuts_2021_id":"42116",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42116",
+    "eurostat:population":38,
+    "eurostat:population_year":2020,
     "geom:area":0.005275,
-    "geom:area_square_m":48815096.450283,
+    "geom:area_square_m":48815096.450284,
     "geom:bbox":"-3.39396622,41.50683296,-3.30184195,41.59170083",
     "geom:latitude":41.549382,
     "geom:longitude":-3.351911,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_42116",
+        "eurostat:nuts_2021_id":"42116"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"6c1b39197875c28d0e87dd6fcb1b9adc",
+    "wof:geomhash":"5135c3197c908f9fdb3dc60f3cd47d52",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404343203,
-    "wof:lastmodified":1566591171,
+    "wof:lastmodified":1684352448,
     "wof:name":"Mi\u00f1o De San Esteban",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":38,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

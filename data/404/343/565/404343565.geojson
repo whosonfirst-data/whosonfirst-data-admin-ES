@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43077,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43077",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mas de Barberans",
+    "eurostat:nuts_2021_id":"43077",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43077",
+    "eurostat:population":564,
+    "eurostat:population_year":2020,
     "geom:area":0.008404,
-    "geom:area_square_m":78756822.298669,
+    "geom:area_square_m":78756893.658746,
     "geom:bbox":"0.276661,40.659708,0.443879,40.762824",
     "geom:latitude":40.721331,
     "geom:longitude":0.355062,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43077",
         "esp-icgc:la_lc":"043077",
+        "eurostat:nuts_2021_id":"43077",
         "gn:id":6361320,
         "gp:id":12694215,
         "qs_pg:id":499440
@@ -67,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2cb39dfc6356fb757fc15f9edde0ee3f",
+    "wof:geomhash":"36cb6f53d5e7fbce176913752a15e4a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404343565,
-    "wof:lastmodified":1669903066,
+    "wof:lastmodified":1684352457,
     "wof:name":"Mas de Barberans",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":564,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

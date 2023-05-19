@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37312",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sorihuela",
+    "eurostat:nuts_2021_id":"37312",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37312",
+    "eurostat:population":253,
+    "eurostat:population_year":2020,
     "geom:area":0.002177,
-    "geom:area_square_m":20482298.415674,
+    "geom:area_square_m":20482298.415672,
     "geom:bbox":"-5.70572115,40.42199356,-5.6227635,40.47753927",
     "geom:latitude":40.450867,
     "geom:longitude":-5.668229,
@@ -90,6 +102,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -97,9 +111,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_37312",
+        "eurostat:nuts_2021_id":"37312"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"040eaf5854bf8d436cc11f1b044f645b",
+    "wof:geomhash":"0e5029bf563440f8d257db55fa10b32f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,10 +127,12 @@
         }
     ],
     "wof:id":404341761,
-    "wof:lastmodified":1566590336,
+    "wof:lastmodified":1684352428,
     "wof:name":"Sorihuela",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":253,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

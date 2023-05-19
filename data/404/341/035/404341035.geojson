@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_36033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mos",
+    "eurostat:nuts_2021_id":"36033",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES114",
+    "eurostat:nuts_2021_level_lau":"36033",
+    "eurostat:population":15063,
+    "eurostat:population_year":2020,
     "geom:area":0.0058,
     "geom:area_square_m":53131958.602015,
     "geom:bbox":"-8.69065519,42.13540956,-8.56644643,42.24347241",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_36033",
+        "eurostat:nuts_2021_id":"36033",
         "gp:id":12694987,
         "qs_pg:id":1084540
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1bfcbeb65e37b62d6dd19c723cbeaf32",
+    "wof:geomhash":"bf2779be6000bf702d02211021b7d785",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404341035,
-    "wof:lastmodified":1582361638,
+    "wof:lastmodified":1684352419,
     "wof:name":"Mos",
     "wof:parent_id":85682825,
     "wof:placetype":"localadmin",
+    "wof:population":15063,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

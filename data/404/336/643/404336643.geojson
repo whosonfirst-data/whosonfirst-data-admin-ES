@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22099",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Espl\u00fas",
+    "eurostat:nuts_2021_id":"22099",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22099",
+    "eurostat:population":632,
+    "eurostat:population_year":2020,
     "geom:area":0.007905,
-    "geom:area_square_m":72902431.879854,
+    "geom:area_square_m":72902431.879857,
     "geom:bbox":"0.24710148,41.69180977,0.35836908,41.82310026",
     "geom:latitude":41.765992,
     "geom:longitude":0.298846,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22099",
+        "eurostat:nuts_2021_id":"22099",
         "gn:id":6358335,
         "gp:id":12689477,
         "qs_pg:id":45318
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f8e56ffe76e4542490e5c2d4c0a5765a",
+    "wof:geomhash":"c4e525bbd2c395bea4883391b8ad3ac7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404336643,
-    "wof:lastmodified":1582361461,
+    "wof:lastmodified":1684352341,
     "wof:name":"Espl\u00fas",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":632,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

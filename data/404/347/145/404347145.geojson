@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50199",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Osera de Ebro",
+    "eurostat:nuts_2021_id":"50199",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50199",
+    "eurostat:population":383,
+    "eurostat:population_year":2020,
     "geom:area":0.00265,
-    "geom:area_square_m":24524417.817851,
+    "geom:area_square_m":24524417.81785,
     "geom:bbox":"-0.63341824,41.49910081,-0.51295316,41.5711328",
     "geom:latitude":41.536149,
     "geom:longitude":-0.566113,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50199",
+        "eurostat:nuts_2021_id":"50199",
         "gn:id":6362886,
         "gp:id":12690026,
         "qs_pg:id":959099
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b427b3d8aa516acb1dba30720a8d50e8",
+    "wof:geomhash":"6702d10a8dda60199f3e24421ee96316",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404347145,
-    "wof:lastmodified":1582361671,
+    "wof:lastmodified":1684352508,
     "wof:name":"Osera De Ebro",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":383,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

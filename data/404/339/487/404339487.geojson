@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arantza",
+    "eurostat:nuts_2021_id":"31022",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31022",
+    "eurostat:population":608,
+    "eurostat:population_year":2020,
     "geom:area":0.003511,
     "geom:area_square_m":31650022.519456,
     "geom:bbox":"-1.77884219,43.15419638,-1.69522732,43.22573787",
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31022",
+        "eurostat:nuts_2021_id":"31022",
         "gn:id":6359571,
         "gp:id":12688194,
         "qs_pg:id":1102431
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a9a397b0176c617100c5eda5141bec6e",
+    "wof:geomhash":"a16872691509f1022c017c12513be10a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404339487,
-    "wof:lastmodified":1582361593,
+    "wof:lastmodified":1684352395,
     "wof:name":"Arantza",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":608,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

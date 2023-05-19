@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05902",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Mar\u00eda del Cubillo",
+    "eurostat:nuts_2021_id":"05902",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05902",
+    "eurostat:population":303,
+    "eurostat:population_year":2020,
     "geom:area":0.00701,
-    "geom:area_square_m":65695219.02196,
+    "geom:area_square_m":65695219.021959,
     "geom:bbox":"-4.5300162,40.63013461,-4.41918596,40.79322372",
     "geom:latitude":40.717131,
     "geom:longitude":-4.461824,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05902",
+        "eurostat:nuts_2021_id":"05902",
         "gp:id":12691335,
         "qs_pg:id":512032
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8c05b54c374928bd1627b0d9d6268521",
+    "wof:geomhash":"d844766a13541a9b09fb4daa7e903659",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404330349,
-    "wof:lastmodified":1582361530,
+    "wof:lastmodified":1684352222,
     "wof:name":"Santa Mar\u00eda Del Cubillo",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":303,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

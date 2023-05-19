@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alarc\u00f3n",
+    "eurostat:nuts_2021_id":"16003",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16003",
+    "eurostat:population":156,
+    "eurostat:population_year":2020,
     "geom:area":0.012568,
-    "geom:area_square_m":119853488.383933,
+    "geom:area_square_m":119853488.383932,
     "geom:bbox":"-2.1833095,39.31645797,-1.95600026,39.60810076",
     "geom:latitude":39.53477,
     "geom:longitude":-2.069149,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16003",
+        "eurostat:nuts_2021_id":"16003",
         "gn:id":6357364,
         "gp:id":12690400,
         "qs_pg:id":1311020
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"44070a80aa6015661afa636d8f69c5d8",
+    "wof:geomhash":"d7ddc12b41a36a680d350bada3e5fcda",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404334025,
-    "wof:lastmodified":1582361724,
+    "wof:lastmodified":1684352292,
     "wof:name":"Alarc\u00f3n",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":156,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

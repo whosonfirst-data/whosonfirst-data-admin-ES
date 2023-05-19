@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_32004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Avi\u00f3n",
+    "eurostat:nuts_2021_id":"32004",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES113",
+    "eurostat:nuts_2021_level_lau":"32004",
+    "eurostat:population":1736,
+    "eurostat:population_year":2020,
     "geom:area":0.013242,
-    "geom:area_square_m":120938167.506008,
+    "geom:area_square_m":120938167.506003,
     "geom:bbox":"-8.33949348,42.31442624,-8.20675454,42.46081463",
     "geom:latitude":42.387974,
     "geom:longitude":-8.27272,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_32004",
+        "eurostat:nuts_2021_id":"32004",
         "gn:id":6359822,
         "gp:id":12694866,
         "qs_pg:id":1112637
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"03d0cd70de22d4a643b9ce33f2adbf7f",
+    "wof:geomhash":"645687cade0e287519c20504d63bdc74",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404340081,
-    "wof:lastmodified":1582361661,
+    "wof:lastmodified":1684352402,
     "wof:name":"Avi\u00f3n",
     "wof:parent_id":85682801,
     "wof:placetype":"localadmin",
+    "wof:population":1736,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_07048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Josep de sa Talaia",
+    "eurostat:nuts_2021_id":"07048",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES53",
+    "eurostat:nuts_2021_level_3":"ES531",
+    "eurostat:nuts_2021_level_lau":"07048",
+    "eurostat:population":27732,
+    "eurostat:population_year":2020,
     "geom:area":0.016537,
-    "geom:area_square_m":159122147.652409,
+    "geom:area_square_m":159122147.652411,
     "geom:bbox":"1.15724056,38.81058787,1.42700085,38.99526523",
     "geom:latitude":38.908217,
     "geom:longitude":1.308304,
@@ -33,6 +45,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -41,6 +55,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_07048",
+        "eurostat:nuts_2021_id":"07048",
         "gn:id":6356036,
         "gp:id":12687754,
         "qs_pg:id":1102380
@@ -49,7 +65,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"272534b4ad006ac73a8e8e18ef6a4c97",
+    "wof:geomhash":"abd4afe0bbdd46af74c7408d5dc652da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +76,12 @@
         }
     ],
     "wof:id":404330835,
-    "wof:lastmodified":1582361526,
+    "wof:lastmodified":1684352232,
     "wof:name":"Sant Josep De Sa Talaia",
     "wof:parent_id":85682647,
     "wof:placetype":"localadmin",
+    "wof:population":27732,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

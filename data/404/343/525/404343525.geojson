@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43059,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43059",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Figuerola del Camp",
+    "eurostat:nuts_2021_id":"43059",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43059",
+    "eurostat:population":329,
+    "eurostat:population_year":2020,
     "geom:area":0.002417,
-    "geom:area_square_m":22436385.902287,
+    "geom:area_square_m":22436357.231964,
     "geom:bbox":"1.220995,41.335572,1.287847,41.384834",
     "geom:latitude":41.35851,
     "geom:longitude":1.25461,
@@ -48,6 +60,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -56,13 +70,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"043059"
+        "eg:gisco_id":"ES_43059",
+        "esp-icgc:la_lc":"043059",
+        "eurostat:nuts_2021_id":"43059"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7650df752b93f6c53b669fcfbd80370f",
+    "wof:geomhash":"d671d00b0d8f801e40b71f8fbe771bb2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,10 +89,12 @@
         }
     ],
     "wof:id":404343525,
-    "wof:lastmodified":1669903071,
+    "wof:lastmodified":1684352455,
     "wof:name":"Figuerola del Camp",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":329,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

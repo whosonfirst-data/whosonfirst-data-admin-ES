@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50223",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Remolinos",
+    "eurostat:nuts_2021_id":"50223",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50223",
+    "eurostat:population":1074,
+    "eurostat:population_year":2020,
     "geom:area":0.002006,
-    "geom:area_square_m":18479280.683378,
+    "geom:area_square_m":18479280.68338,
     "geom:bbox":"-1.21312351,41.81663764,-1.12950592,41.86998103",
     "geom:latitude":41.846962,
     "geom:longitude":-1.175174,
@@ -93,6 +105,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -100,9 +114,12 @@
         404227363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_50223",
+        "eurostat:nuts_2021_id":"50223"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"7561151597143bf4a3f398aca4e58411",
+    "wof:geomhash":"e6582c249d6b9d3cce79c071673728c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,10 +130,12 @@
         }
     ],
     "wof:id":404347199,
-    "wof:lastmodified":1566590460,
+    "wof:lastmodified":1684352508,
     "wof:name":"Remolinos",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":1074,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

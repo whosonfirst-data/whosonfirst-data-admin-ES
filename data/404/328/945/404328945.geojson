@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_01008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arratzua-Ubarrundia",
+    "eurostat:nuts_2021_id":"01008",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES211",
+    "eurostat:nuts_2021_level_lau":"01008",
+    "eurostat:population":984,
+    "eurostat:population_year":2020,
     "geom:area":0.00633,
-    "geom:area_square_m":57314237.828755,
+    "geom:area_square_m":57314237.828753,
     "geom:bbox":"-2.69312593,42.86029425,-2.55115883,42.97597556",
     "geom:latitude":42.924273,
     "geom:longitude":-2.614357,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_01008",
+        "eurostat:nuts_2021_id":"01008",
         "gp:id":12695021,
         "qs_pg:id":1084542
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"98c191b728503b8bf6714ca2fcee56f7",
+    "wof:geomhash":"3f9f7cbe50f499ec9f1f8c9943219221",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404328945,
-    "wof:lastmodified":1582361842,
+    "wof:lastmodified":1684352202,
     "wof:name":"Arrazua-Ubarrundia",
     "wof:parent_id":85682615,
     "wof:placetype":"localadmin",
+    "wof:population":984,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

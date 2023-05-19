@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arakil",
+    "eurostat:nuts_2021_id":"31025",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31025",
+    "eurostat:population":962,
+    "eurostat:population_year":2020,
     "geom:area":0.005928,
-    "geom:area_square_m":53685545.027499,
+    "geom:area_square_m":53685545.027498,
     "geom:bbox":"-1.93907808,42.88122967,-1.79180484,42.94166778",
     "geom:latitude":42.91038,
     "geom:longitude":-1.867836,
@@ -90,6 +102,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -97,9 +111,12 @@
         404227391
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_31025",
+        "eurostat:nuts_2021_id":"31025"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"48732bad62b02b3be66bc419e7abea4d",
+    "wof:geomhash":"841cec01e7240dbe93b1c333a6fd2fb9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,10 +127,12 @@
         }
     ],
     "wof:id":404339493,
-    "wof:lastmodified":1566590127,
+    "wof:lastmodified":1684352395,
     "wof:name":"Arakil",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":962,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8135,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08135",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montmel\u00f3",
+    "eurostat:nuts_2021_id":"08135",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08135",
+    "eurostat:population":8831,
+    "eurostat:population_year":2020,
     "geom:area":0.000422,
-    "geom:area_square_m":3908694.04682,
+    "geom:area_square_m":3908694.046819,
     "geom:bbox":"2.23040682514,41.5411101469,2.26909956785,41.573860057",
     "geom:latitude":41.556737,
     "geom:longitude":2.251181,
@@ -145,6 +157,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -153,7 +167,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08135",
         "esp-icgc:la_lc":"08135",
+        "eurostat:nuts_2021_id":"08135",
         "gn:id":6356164,
         "gp:id":12693515,
         "qs_pg:id":248471
@@ -163,7 +179,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"34f979907045c8eb2d82b67cb6e66d8d",
+    "wof:geomhash":"25dfb6c942235969f5457a8d0e63fe72",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -174,10 +190,12 @@
         }
     ],
     "wof:id":404331181,
-    "wof:lastmodified":1582361497,
+    "wof:lastmodified":1684352244,
     "wof:name":"Montmel\u00f3",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":8831,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

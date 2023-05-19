@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06061",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Haba, La",
+    "eurostat:nuts_2021_id":"06061",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06061",
+    "eurostat:population":1219,
+    "eurostat:population_year":2020,
     "geom:area":0.008986,
-    "geom:area_square_m":86508134.169972,
+    "geom:area_square_m":86508134.169975,
     "geom:bbox":"-5.84308253,38.79385409,-5.75305629,38.95080418",
     "geom:latitude":38.870108,
     "geom:longitude":-5.799658,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06061",
+        "eurostat:nuts_2021_id":"06061",
         "gn:id":6355926,
         "gp:id":12694380,
         "qs_pg:id":621554
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a41d620900a07e52a00024e890946c79",
+    "wof:geomhash":"8ff1ce11f217db65d5866efb663227be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404330493,
-    "wof:lastmodified":1582361538,
+    "wof:lastmodified":1684352225,
     "wof:name":"La Haba",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":1219,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

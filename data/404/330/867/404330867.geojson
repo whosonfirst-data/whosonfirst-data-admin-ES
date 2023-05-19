@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_07062",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Son Servera",
+    "eurostat:nuts_2021_id":"07062",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES53",
+    "eurostat:nuts_2021_level_3":"ES532",
+    "eurostat:nuts_2021_level_lau":"07062",
+    "eurostat:population":11817,
+    "eurostat:population_year":2020,
     "geom:area":0.004469,
-    "geom:area_square_m":42551658.599591,
+    "geom:area_square_m":42551658.59959,
     "geom:bbox":"3.32071006,39.60008798,3.43644116,39.67249672",
     "geom:latitude":39.640349,
     "geom:longitude":3.371127,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_07062",
+        "eurostat:nuts_2021_id":"07062",
         "gn:id":6533979,
         "gp:id":12687769,
         "qs_pg:id":1118748
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"381b358576b07d14ed8622a7b40ad57d",
+    "wof:geomhash":"cc946f7fa9bb56ef9ad29c5471f44d0c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404330867,
-    "wof:lastmodified":1582361527,
+    "wof:lastmodified":1684352234,
     "wof:name":"Son Servera",
     "wof:parent_id":85682647,
     "wof:placetype":"localadmin",
+    "wof:population":11817,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

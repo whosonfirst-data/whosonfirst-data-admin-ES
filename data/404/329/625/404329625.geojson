@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Benitagla",
+    "eurostat:nuts_2021_id":"04026",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04026",
+    "eurostat:population":58,
+    "eurostat:population_year":2020,
     "geom:area":0.000656,
     "geom:area_square_m":6462222.013868,
     "geom:bbox":"-2.24294844,37.22149989,-2.20083185,37.25392715",
@@ -126,6 +138,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -133,9 +147,12 @@
         404227361
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_04026",
+        "eurostat:nuts_2021_id":"04026"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"0aee5054c9419edf01260226de675441",
+    "wof:geomhash":"453dd5b92a54816343b6322e86eac5a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +163,12 @@
         }
     ],
     "wof:id":404329625,
-    "wof:lastmodified":1566590883,
+    "wof:lastmodified":1684352212,
     "wof:name":"Benitagla",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":58,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

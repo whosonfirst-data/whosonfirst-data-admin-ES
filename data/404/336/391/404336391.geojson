@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_21049",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Minas de Riotinto",
+    "eurostat:nuts_2021_id":"21049",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES615",
+    "eurostat:nuts_2021_level_lau":"21049",
+    "eurostat:population":3812,
+    "eurostat:population_year":2020,
     "geom:area":0.002382,
-    "geom:area_square_m":23303643.286386,
+    "geom:area_square_m":23303643.286387,
     "geom:bbox":"-6.623191,37.64910185,-6.53608858,37.72880704",
     "geom:latitude":37.700179,
     "geom:longitude":-6.583828,
@@ -63,6 +75,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -71,6 +85,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_21049",
+        "eurostat:nuts_2021_id":"21049",
         "gn:id":6358225,
         "gp:id":12689063,
         "qs_pg:id":1109572
@@ -79,7 +95,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"261bcdcec4ef27a61ffb14de6187dc80",
+    "wof:geomhash":"5355ddaea4d2269fd67c9960380482ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,10 +106,12 @@
         }
     ],
     "wof:id":404336391,
-    "wof:lastmodified":1582361459,
+    "wof:lastmodified":1684352338,
     "wof:name":"Minas De Riotinto",
     "wof:parent_id":85682749,
     "wof:placetype":"localadmin",
+    "wof:population":3812,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

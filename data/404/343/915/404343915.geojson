@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calamocha",
+    "eurostat:nuts_2021_id":"44050",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44050",
+    "eurostat:population":4429,
+    "eurostat:population_year":2020,
     "geom:area":0.033858,
     "geom:area_square_m":316244400.542392,
     "geom:bbox":"-1.38452803,40.84484169,-1.09872518,41.03253068",
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44050",
+        "eurostat:nuts_2021_id":"44050",
         "gn:id":6361474,
         "gp:id":12689645,
         "qs_pg:id":1146728
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6523865be736d79144fa78246b4e128f",
+    "wof:geomhash":"c4fa789cdb16ed23dc064ef84509eddd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404343915,
-    "wof:lastmodified":1582361875,
+    "wof:lastmodified":1684352467,
     "wof:name":"Calamocha",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":4429,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46902",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"G\u00e1tova",
+    "eurostat:nuts_2021_id":"46902",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46902",
+    "eurostat:population":405,
+    "eurostat:population_year":2020,
     "geom:area":0.003197,
-    "geom:area_square_m":30383578.082983,
+    "geom:area_square_m":30383578.082985,
     "geom:bbox":"-0.5813151,39.70279609,-0.47072416,39.79597719",
     "geom:latitude":39.761682,
     "geom:longitude":-0.530213,
@@ -87,6 +99,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -95,6 +109,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46902",
+        "eurostat:nuts_2021_id":"46902",
         "gn:id":6362128,
         "qs_pg:id":103412
     },
@@ -102,7 +118,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0b6213adfa05b9a522b8715dfbaebb46",
+    "wof:geomhash":"68f023fc6ea610ab33012149cf092690",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,10 +129,12 @@
         }
     ],
     "wof:id":404345393,
-    "wof:lastmodified":1582361835,
+    "wof:lastmodified":1684352486,
     "wof:name":"G\u00e1tova",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":405,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":8118,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08118",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Masnou, El",
+    "eurostat:nuts_2021_id":"08118",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08118",
+    "eurostat:population":23831,
+    "eurostat:population_year":2020,
     "geom:area":0.000376,
     "geom:area_square_m":3478600.921412,
     "geom:bbox":"2.295285,41.472208,2.346859,41.490277",
@@ -148,15 +160,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
-        404227379,
-        85682663
+        85682663,
+        404227379
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08118",
         "esp-icgc:la_lc":"08118",
+        "eurostat:nuts_2021_id":"08118",
         "gn:id":6356147,
         "gp:id":12693499,
         "qs_pg:id":103352
@@ -169,7 +185,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"96d991f03b291623a6ca64c976c0c540",
+    "wof:geomhash":"1989ec7d7a9fff5ed1281c5392e98ea6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -180,10 +196,12 @@
         }
     ],
     "wof:id":404331143,
-    "wof:lastmodified":1607989180,
+    "wof:lastmodified":1684352242,
     "wof:name":"El Masnou",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":23831,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

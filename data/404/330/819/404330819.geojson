@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_07041",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Petra",
+    "eurostat:nuts_2021_id":"07041",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES53",
+    "eurostat:nuts_2021_level_3":"ES532",
+    "eurostat:nuts_2021_level_lau":"07041",
+    "eurostat:population":2942,
+    "eurostat:population_year":2020,
     "geom:area":0.007347,
-    "geom:area_square_m":69973989.957186,
+    "geom:area_square_m":69973989.95719,
     "geom:bbox":"3.0631423,39.57263039,3.25129058,39.70347413",
     "geom:latitude":39.628732,
     "geom:longitude":3.142976,
@@ -279,6 +291,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -287,6 +301,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_07041",
+        "eurostat:nuts_2021_id":"07041",
         "gn:id":6533962,
         "gp:id":12687748,
         "qs_pg:id":213827
@@ -295,7 +311,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"339d6b4623dcb1eb28c1d32398f4b2a2",
+    "wof:geomhash":"7c27207e04da0648edecc4a8acedce6d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -306,10 +322,12 @@
         }
     ],
     "wof:id":404330819,
-    "wof:lastmodified":1582361524,
+    "wof:lastmodified":1684352232,
     "wof:name":"Petra",
     "wof:parent_id":85682647,
     "wof:placetype":"localadmin",
+    "wof:population":2942,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50111",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fr\u00e9scano",
+    "eurostat:nuts_2021_id":"50111",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50111",
+    "eurostat:population":199,
+    "eurostat:population_year":2020,
     "geom:area":0.001997,
-    "geom:area_square_m":18382545.315921,
+    "geom:area_square_m":18382545.31592,
     "geom:bbox":"-1.50308262,41.86322706,-1.40792521,41.90348893",
     "geom:latitude":41.884098,
     "geom:longitude":-1.459488,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50111",
+        "eurostat:nuts_2021_id":"50111",
         "gn:id":6362802,
         "gp:id":12689942,
         "qs_pg:id":45533
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5af02ae2b737964b104ee3ccc92ae73c",
+    "wof:geomhash":"74299ddfdedd0afd982bbd6a43e459a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404346957,
-    "wof:lastmodified":1582361614,
+    "wof:lastmodified":1684352505,
     "wof:name":"Fr\u00e9scano",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":199,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

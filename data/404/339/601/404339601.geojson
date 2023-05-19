@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31070",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castej\u00f3n",
+    "eurostat:nuts_2021_id":"31070",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31070",
+    "eurostat:population":4251,
+    "eurostat:population_year":2020,
     "geom:area":0.001968,
-    "geom:area_square_m":18040510.177327,
+    "geom:area_square_m":18040510.177328,
     "geom:bbox":"-1.71989494,42.12045316,-1.64188231,42.18831879",
     "geom:latitude":42.155899,
     "geom:longitude":-1.679532,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31070",
+        "eurostat:nuts_2021_id":"31070",
         "gn:id":6359618,
         "gp:id":12688246,
         "qs_pg:id":44598
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a7f8ce010019735d4ada708abbf8729c",
+    "wof:geomhash":"4b1b50d68027580f54bc05b93dfccd6a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404339601,
-    "wof:lastmodified":1582361595,
+    "wof:lastmodified":1684352396,
     "wof:name":"Castej\u00f3n",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":4251,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

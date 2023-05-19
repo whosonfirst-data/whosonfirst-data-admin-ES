@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8196,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08196",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Andreu de la Barca",
+    "eurostat:nuts_2021_id":"08196",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08196",
+    "eurostat:population":27569,
+    "eurostat:population_year":2020,
     "geom:area":0.000606,
-    "geom:area_square_m":5616224.870102,
+    "geom:area_square_m":5616246.780345,
     "geom:bbox":"1.946111,41.439189,1.984993,41.464697",
     "geom:latitude":41.451403,
     "geom:longitude":1.963625,
@@ -74,6 +86,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -82,7 +96,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08196",
         "esp-icgc:la_lc":"08196",
+        "eurostat:nuts_2021_id":"08196",
         "gn:id":6356219,
         "gp:id":12693572,
         "qs_pg:id":1102808
@@ -92,7 +108,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"852846fab000ac11337767d3d131462b",
+    "wof:geomhash":"12be6025ce5ce3bb04e14da63f130b7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,10 +119,12 @@
         }
     ],
     "wof:id":404331315,
-    "wof:lastmodified":1669903004,
+    "wof:lastmodified":1684352248,
     "wof:name":"Sant Andreu de la Barca",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":27569,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

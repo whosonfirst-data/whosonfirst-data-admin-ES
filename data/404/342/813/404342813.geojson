@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_41031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castillo de las Guardas, El",
+    "eurostat:nuts_2021_id":"41031",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES618",
+    "eurostat:nuts_2021_level_lau":"41031",
+    "eurostat:population":1468,
+    "eurostat:population_year":2020,
     "geom:area":0.026432,
-    "geom:area_square_m":258624662.600548,
+    "geom:area_square_m":258624662.600544,
     "geom:bbox":"-6.48491767,37.61588115,-6.18767297,37.76486946",
     "geom:latitude":37.693429,
     "geom:longitude":-6.317007,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_41031",
+        "eurostat:nuts_2021_id":"41031",
         "gn:id":6360986,
         "gp:id":12689322,
         "qs_pg:id":621867
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"adc1cfd2b4381b82429c6183fc6f7b1a",
+    "wof:geomhash":"be56d07f99769a4f439fce735f1bfa3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404342813,
-    "wof:lastmodified":1582361819,
+    "wof:lastmodified":1684352443,
     "wof:name":"El Castillo De Las Guardas",
     "wof:parent_id":85682841,
     "wof:placetype":"localadmin",
+    "wof:population":1468,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

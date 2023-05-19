@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17218,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17218",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vilademuls",
+    "eurostat:nuts_2021_id":"17218",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17218",
+    "eurostat:population":835,
+    "eurostat:population_year":2020,
     "geom:area":0.006775,
-    "geom:area_square_m":62123720.642174,
+    "geom:area_square_m":62123720.642175,
     "geom:bbox":"2.79587428679,42.0661006255,2.90428192452,42.2010767052",
     "geom:latitude":42.134383,
     "geom:longitude":2.864737,
@@ -121,6 +133,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -129,7 +143,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17218",
         "esp-icgc:la_lc":"017218",
+        "eurostat:nuts_2021_id":"17218",
         "gn:id":6534168,
         "gp:id":12693895,
         "qs_pg:id":977840
@@ -139,7 +155,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"5bf27786124fb38062b89b3b7a683bc5",
+    "wof:geomhash":"194677c7ed5226018d13cd595d1e44b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404335015,
-    "wof:lastmodified":1582361696,
+    "wof:lastmodified":1684352319,
     "wof:name":"Vilademuls",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":835,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44213",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Singra",
+    "eurostat:nuts_2021_id":"44213",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44213",
+    "eurostat:population":83,
+    "eurostat:population_year":2020,
     "geom:area":0.003911,
     "geom:area_square_m":36680615.838089,
     "geom:bbox":"-1.35315427,40.63705813,-1.24689849,40.69087293",
@@ -81,6 +93,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -88,9 +102,12 @@
         404227363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_44213",
+        "eurostat:nuts_2021_id":"44213"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"af76fb1a306473cb49277138b3a54e62",
+    "wof:geomhash":"ad056a538cbdc8cd3826b3cd6f9c8c43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,10 +118,12 @@
         }
     ],
     "wof:id":404344235,
-    "wof:lastmodified":1566591082,
+    "wof:lastmodified":1684352471,
     "wof:name":"Singra",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":83,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

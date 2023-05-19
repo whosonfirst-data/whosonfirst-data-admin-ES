@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19254",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Selas",
+    "eurostat:nuts_2021_id":"19254",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19254",
+    "eurostat:population":44,
+    "eurostat:population_year":2020,
     "geom:area":0.004793,
-    "geom:area_square_m":44766326.22722,
+    "geom:area_square_m":44766326.227219,
     "geom:bbox":"-2.15713171,40.88428776,-2.06310651,40.98929276",
     "geom:latitude":40.941389,
     "geom:longitude":-2.110592,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19254",
+        "eurostat:nuts_2021_id":"19254",
         "gn:id":6358021,
         "gp:id":12690851,
         "qs_pg:id":78638
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"334aecba101dccc3e554c0011737b3d5",
+    "wof:geomhash":"3f95d59dfd01d2ecf1499c111d2fa14d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404335921,
-    "wof:lastmodified":1582361712,
+    "wof:lastmodified":1684352331,
     "wof:name":"Selas",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":44,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":8282,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08282",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tiana",
+    "eurostat:nuts_2021_id":"08282",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08282",
+    "eurostat:population":8945,
+    "eurostat:population_year":2020,
     "geom:area":0.000852,
     "geom:area_square_m":7891908.435968,
     "geom:bbox":"2.24705368497,41.470672907,2.29187256123,41.5047649578",
@@ -111,6 +123,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,13 +133,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"08282"
+        "eg:gisco_id":"ES_08282",
+        "esp-icgc:la_lc":"08282",
+        "eurostat:nuts_2021_id":"08282"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"19bc58752a4ce763b7deec17d286b842",
+    "wof:geomhash":"432bd2ddd99449e6bd43c273216d237c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,10 +152,12 @@
         }
     ],
     "wof:id":404331509,
-    "wof:lastmodified":1582361502,
+    "wof:lastmodified":1684352254,
     "wof:name":"Tiana",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":8945,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

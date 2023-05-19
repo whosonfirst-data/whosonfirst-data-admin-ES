@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04099",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"V\u00e9lez-Rubio",
+    "eurostat:nuts_2021_id":"04099",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04099",
+    "eurostat:population":6546,
+    "eurostat:population_year":2020,
     "geom:area":0.028765,
-    "geom:area_square_m":281842648.710842,
+    "geom:area_square_m":281842648.710845,
     "geom:bbox":"-2.20224254,37.47722833,-1.9111509,37.66920792",
     "geom:latitude":37.590435,
     "geom:longitude":-2.064545,
@@ -129,6 +141,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -137,6 +151,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_04099",
+        "eurostat:nuts_2021_id":"04099",
         "gn:id":6355611,
         "gp:id":12688722,
         "qs_pg:id":499222
@@ -145,7 +161,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"14bd374618c105c198649e0f193dc7b7",
+    "wof:geomhash":"548b5534e9e0b50c2b46e212c7cd654f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404329783,
-    "wof:lastmodified":1582361794,
+    "wof:lastmodified":1684352215,
     "wof:name":"V\u00e9lez-Rubio",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":6546,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8145,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08145",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ol\u00e8rdola",
+    "eurostat:nuts_2021_id":"08145",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08145",
+    "eurostat:population":3768,
+    "eurostat:population_year":2020,
     "geom:area":0.003221,
-    "geom:area_square_m":29908980.991139,
+    "geom:area_square_m":29908980.991137,
     "geom:bbox":"1.68168851811,41.2803888891,1.76804231019,41.3620305652",
     "geom:latitude":41.319216,
     "geom:longitude":1.72456,
@@ -136,6 +148,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -144,7 +158,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08145",
         "esp-icgc:la_lc":"08145",
+        "eurostat:nuts_2021_id":"08145",
         "gp:id":12693524,
         "qs_pg:id":333850
     },
@@ -153,7 +169,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"84f21f4fa8c49d5a3e6330e2496ca813",
+    "wof:geomhash":"a8824ee167d2dc91416c517be16db2ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404331205,
-    "wof:lastmodified":1582361494,
+    "wof:lastmodified":1684352245,
     "wof:name":"Ol\u00e8rdola",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":3768,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

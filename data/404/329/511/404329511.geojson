@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03117",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sanet y Negrals",
+    "eurostat:nuts_2021_id":"03117",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03117",
+    "eurostat:population":690,
+    "eurostat:population_year":2020,
     "geom:area":0.000409,
     "geom:area_square_m":3938976.215843,
     "geom:bbox":"-0.04032088,38.80488735,-0.01678214,38.82690926",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03117",
+        "eurostat:nuts_2021_id":"03117",
         "gn:id":6355491,
         "gp:id":12695387,
         "qs_pg:id":204859
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"200b1e095c9d4592ed59ee12587cb70b",
+    "wof:geomhash":"326f8987c16edc5c395a92ea72b37b13",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404329511,
-    "wof:lastmodified":1582361794,
+    "wof:lastmodified":1684352211,
     "wof:name":"Sanet Y Negrals",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":690,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

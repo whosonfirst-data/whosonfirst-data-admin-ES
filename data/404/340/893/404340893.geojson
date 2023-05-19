@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_35004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arrecife",
+    "eurostat:nuts_2021_id":"35004",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES7",
+    "eurostat:nuts_2021_level_2":"ES70",
+    "eurostat:nuts_2021_level_3":"ES708",
+    "eurostat:nuts_2021_level_lau":"35004",
+    "eurostat:population":64645,
+    "eurostat:population_year":2020,
     "geom:area":0.00207,
-    "geom:area_square_m":22395309.031329,
+    "geom:area_square_m":22395309.031325,
     "geom:bbox":"-13.58928869,28.9521242,-13.53061631,29.00702198",
     "geom:latitude":28.978704,
     "geom:longitude":-13.564851,
@@ -144,6 +156,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -152,6 +166,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_35004",
+        "eurostat:nuts_2021_id":"35004",
         "gn:id":6360174,
         "gp:id":12690128,
         "qs_pg:id":1315254
@@ -160,7 +176,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e7773be0775c7d339edf46de7a4447f2",
+    "wof:geomhash":"051f89af94d4bbf3ded79a59556dff05",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -171,10 +187,12 @@
         }
     ],
     "wof:id":404340893,
-    "wof:lastmodified":1582361652,
+    "wof:lastmodified":1684352414,
     "wof:name":"Arrecife",
     "wof:parent_id":85682821,
     "wof:placetype":"localadmin",
+    "wof:population":64645,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

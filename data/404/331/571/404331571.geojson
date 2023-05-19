@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8902,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08902",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vilanova del Vall\u00e8s",
+    "eurostat:nuts_2021_id":"08902",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08902",
+    "eurostat:population":5503,
+    "eurostat:population_year":2020,
     "geom:area":0.001642,
-    "geom:area_square_m":15198203.128503,
+    "geom:area_square_m":15198128.487435,
     "geom:bbox":"2.27625,41.533439,2.339189,41.576994",
     "geom:latitude":41.554864,
     "geom:longitude":2.306662,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08902",
         "esp-icgc:la_lc":"08902",
+        "eurostat:nuts_2021_id":"08902",
         "gp:id":12693680,
         "qs_pg:id":248524
     },
@@ -66,7 +82,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"310494a70f692dab89731e7dd061cb68",
+    "wof:geomhash":"3b72771440366ce0b362a1685f9283cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,10 +93,12 @@
         }
     ],
     "wof:id":404331571,
-    "wof:lastmodified":1669903012,
+    "wof:lastmodified":1684352256,
     "wof:name":"Vilanova del Vall\u00e8s",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":5503,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

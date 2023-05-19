@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8297,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08297",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Veciana",
+    "eurostat:nuts_2021_id":"08297",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08297",
+    "eurostat:population":175,
+    "eurostat:population_year":2020,
     "geom:area":0.004213,
-    "geom:area_square_m":38919573.340395,
+    "geom:area_square_m":38919573.340393,
     "geom:bbox":"1.41550031318,41.6259604707,1.53502529701,41.6955573133",
     "geom:latitude":41.668184,
     "geom:longitude":1.480699,
@@ -121,6 +133,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -129,7 +143,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08297",
         "esp-icgc:la_lc":"08297",
+        "eurostat:nuts_2021_id":"08297",
         "gn:id":6356314,
         "gp:id":12693671,
         "qs_pg:id":910923
@@ -139,7 +155,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"83c25ab012519e1b33d5d66bb25d49d3",
+    "wof:geomhash":"fa6957e4fe50601efe41afc0c151c3cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404331541,
-    "wof:lastmodified":1582361514,
+    "wof:lastmodified":1684352255,
     "wof:name":"Veciana",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":175,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

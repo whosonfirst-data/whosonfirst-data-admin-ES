@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31199",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oroz-Betelu / Orotz-Betelu",
+    "eurostat:nuts_2021_id":"31199",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31199",
+    "eurostat:population":147,
+    "eurostat:population_year":2020,
     "geom:area":0.002662,
     "geom:area_square_m":24110097.077674,
     "geom:bbox":"-1.34092125,42.87761694,-1.26673545,42.93480332",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227391
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_31199",
+        "eurostat:nuts_2021_id":"31199"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"d338f3aa0a71b7f63dc7c51b97425622",
+    "wof:geomhash":"8bfe3768c5fa02d9b724e7e6e1f779b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404339905,
-    "wof:lastmodified":1566590116,
+    "wof:lastmodified":1684352400,
     "wof:name":"Oroz-Betelu/Orotz-Betelu",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":147,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

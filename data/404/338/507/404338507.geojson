@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_26171",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villar de Torre",
+    "eurostat:nuts_2021_id":"26171",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES23",
+    "eurostat:nuts_2021_level_3":"ES230",
+    "eurostat:nuts_2021_level_lau":"26171",
+    "eurostat:population":160,
+    "eurostat:population_year":2020,
     "geom:area":0.001311,
     "geom:area_square_m":11975228.800587,
     "geom:bbox":"-2.90898281,42.33743389,-2.8352729,42.38782645",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227397
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_26171",
+        "eurostat:nuts_2021_id":"26171"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"4b884d9220345d71c92113abaebbc173",
+    "wof:geomhash":"7eda69264007b5509fa750a1b8002b06",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404338507,
-    "wof:lastmodified":1566589631,
+    "wof:lastmodified":1684352376,
     "wof:name":"Villar De Torre",
     "wof:parent_id":85682773,
     "wof:placetype":"localadmin",
+    "wof:population":160,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47070",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gat\u00f3n de Campos",
+    "eurostat:nuts_2021_id":"47070",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47070",
+    "eurostat:population":32,
+    "eurostat:population_year":2020,
     "geom:area":0.00223,
-    "geom:area_square_m":20480637.246684,
+    "geom:area_square_m":20480637.246683,
     "geom:bbox":"-5.00922711,42.01206904,-4.9360062,42.0678355",
     "geom:latitude":42.041803,
     "geom:longitude":-4.97268,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_47070",
+        "eurostat:nuts_2021_id":"47070",
         "gn:id":6362198,
         "gp:id":12692972,
         "qs_pg:id":1148999
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"df22cdb6f642c7a21cc9f7491bda3fc1",
+    "wof:geomhash":"2dab56c338485609ef7323e2cbc61792",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404345555,
-    "wof:lastmodified":1582361834,
+    "wof:lastmodified":1684352487,
     "wof:name":"Gat\u00f3n De Campos",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":32,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

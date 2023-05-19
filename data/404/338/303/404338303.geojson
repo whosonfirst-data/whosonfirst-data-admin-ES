@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_26073",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Herram\u00e9lluri",
+    "eurostat:nuts_2021_id":"26073",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES23",
+    "eurostat:nuts_2021_level_3":"ES230",
+    "eurostat:nuts_2021_level_lau":"26073",
+    "eurostat:population":111,
+    "eurostat:population_year":2020,
     "geom:area":0.001191,
     "geom:area_square_m":10860324.510422,
     "geom:bbox":"-3.03312808,42.47915103,-2.99070327,42.52212402",
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_26073",
+        "eurostat:nuts_2021_id":"26073",
         "gn:id":6359063,
         "gp:id":12687844,
         "qs_pg:id":395296
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d987e785df983f3c37882de044dfe0ed",
+    "wof:geomhash":"16ca9a88ab9d588090fae3b1d43221f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404338303,
-    "wof:lastmodified":1582361444,
+    "wof:lastmodified":1684352374,
     "wof:name":"Herram\u00e9lluri",
     "wof:parent_id":85682773,
     "wof:placetype":"localadmin",
+    "wof:population":111,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

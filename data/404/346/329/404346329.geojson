@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49086",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gallegos del Pan",
+    "eurostat:nuts_2021_id":"49086",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49086",
+    "eurostat:population":111,
+    "eurostat:population_year":2020,
     "geom:area":0.001691,
-    "geom:area_square_m":15634628.170398,
+    "geom:area_square_m":15634628.170399,
     "geom:bbox":"-5.62845972,41.57596063,-5.55470764,41.62103253",
     "geom:latitude":41.598906,
     "geom:longitude":-5.586649,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_49086",
+        "eurostat:nuts_2021_id":"49086"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"7ff59868a72ca1ae60b44a9ac70090d4",
+    "wof:geomhash":"cb020e8a3a48228de5c949b31f48405e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404346329,
-    "wof:lastmodified":1566590280,
+    "wof:lastmodified":1684352498,
     "wof:name":"Gallegos Del Pan",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":111,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

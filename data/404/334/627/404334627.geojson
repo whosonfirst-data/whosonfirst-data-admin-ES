@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17033,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caldes de Malavella",
+    "eurostat:nuts_2021_id":"17033",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17033",
+    "eurostat:population":7872,
+    "eurostat:population_year":2020,
     "geom:area":0.006176,
-    "geom:area_square_m":56902590.926282,
+    "geom:area_square_m":56902773.881817,
     "geom:bbox":"2.751497,41.772772,2.873095,41.883708",
     "geom:latitude":41.834061,
     "geom:longitude":2.808697,
@@ -48,6 +60,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -56,13 +70,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"017033"
+        "eg:gisco_id":"ES_17033",
+        "esp-icgc:la_lc":"017033",
+        "eurostat:nuts_2021_id":"17033"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a93ddbddf9a5dff8b84278e9e0726b04",
+    "wof:geomhash":"a6abc76bee0575157c803d507c119f98",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,10 +89,12 @@
         }
     ],
     "wof:id":404334627,
-    "wof:lastmodified":1669903043,
+    "wof:lastmodified":1684352303,
     "wof:name":"Caldes de Malavella",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":7872,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

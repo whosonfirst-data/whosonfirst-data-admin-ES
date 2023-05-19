@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18181",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tur\u00f3n",
+    "eurostat:nuts_2021_id":"18181",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18181",
+    "eurostat:population":232,
+    "eurostat:population_year":2020,
     "geom:area":0.005615,
-    "geom:area_square_m":55563490.928672,
+    "geom:area_square_m":55563490.928674,
     "geom:bbox":"-3.1415675,36.78779145,-3.02900733,36.89386853",
     "geom:latitude":36.844624,
     "geom:longitude":-3.083411,
@@ -99,6 +111,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -106,9 +120,12 @@
         404227361
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_18181",
+        "eurostat:nuts_2021_id":"18181"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"5c176c5d0e0d57fe318b9ac2aa9cbb0b",
+    "wof:geomhash":"27e72245703119eb1271d917bef3b2da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +136,12 @@
         }
     ],
     "wof:id":404335379,
-    "wof:lastmodified":1566590572,
+    "wof:lastmodified":1684352325,
     "wof:name":"Tur\u00f3n",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":232,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

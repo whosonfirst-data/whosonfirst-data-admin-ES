@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06903",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Guadiana del Caudillo",
+    "eurostat:nuts_2021_id":"06903",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06903",
+    "eurostat:population":2492,
+    "eurostat:population_year":2020,
     "geom:area":0.003122,
-    "geom:area_square_m":30031752.502907,
+    "geom:area_square_m":30031752.502903,
     "geom:bbox":"-6.70892592,38.90781793,-6.63801434,38.96794461",
     "geom:latitude":38.936866,
     "geom:longitude":-6.674131,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227383
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_06903",
+        "eurostat:nuts_2021_id":"06903"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"9eb828e43718746c115d4c26861b26eb",
+    "wof:geomhash":"9a5fe756ffcb5c15398da07bede71ffe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404330727,
-    "wof:lastmodified":1566589959,
+    "wof:lastmodified":1684352228,
     "wof:name":"Guadiana Del Caudillo",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":2492,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

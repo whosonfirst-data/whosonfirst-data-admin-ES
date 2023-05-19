@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25207,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25207",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Solsona",
+    "eurostat:nuts_2021_id":"25207",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25207",
+    "eurostat:population":9137,
+    "eurostat:population_year":2020,
     "geom:area":0.001924,
-    "geom:area_square_m":17683360.469868,
+    "geom:area_square_m":17683430.606714,
     "geom:bbox":"1.483906,41.967569,1.551213,42.021392",
     "geom:latitude":41.992787,
     "geom:longitude":1.518239,
@@ -76,6 +88,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -84,7 +98,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25207",
         "esp-icgc:la_lc":"025207",
+        "eurostat:nuts_2021_id":"25207",
         "gn:id":6358937,
         "gp:id":12694092,
         "qs_pg:id":51812
@@ -94,7 +110,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f2c5fcab518a5b3b78453c008bddf9ae",
+    "wof:geomhash":"853a27ea8df47e9e5d12db8bb60001e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,10 +121,12 @@
         }
     ],
     "wof:id":404338019,
-    "wof:lastmodified":1669902994,
+    "wof:lastmodified":1684352368,
     "wof:name":"Solsona",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":9137,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37102",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cerro, El",
+    "eurostat:nuts_2021_id":"37102",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37102",
+    "eurostat:population":399,
+    "eurostat:population_year":2020,
     "geom:area":0.00274,
     "geom:area_square_m":25834204.962926,
     "geom:bbox":"-5.96494682,40.27769722,-5.88424472,40.34090136",
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37102",
+        "eurostat:nuts_2021_id":"37102",
         "gn:id":6360348,
         "gp:id":12692240,
         "qs_pg:id":621821
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e08833847edce02de438beac868226ae",
+    "wof:geomhash":"00eddb3e63d32ed67bc70867a16434af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404341305,
-    "wof:lastmodified":1582361635,
+    "wof:lastmodified":1684352423,
     "wof:name":"El Cerro",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":399,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

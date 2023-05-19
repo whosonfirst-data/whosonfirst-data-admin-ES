@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47140",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Saelices de Mayorga",
+    "eurostat:nuts_2021_id":"47140",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47140",
+    "eurostat:population":108,
+    "eurostat:population_year":2020,
     "geom:area":0.001726,
     "geom:area_square_m":15803666.299421,
     "geom:bbox":"-5.2340438,42.18974659,-5.1717909,42.23774465",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_47140",
+        "eurostat:nuts_2021_id":"47140",
         "gn:id":6362263,
         "gp:id":12693037,
         "qs_pg:id":47033
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8c46420db8a07e861a43f577013479d3",
+    "wof:geomhash":"e0f1a15c917cf1736ab549a45a7b872c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404345701,
-    "wof:lastmodified":1582361825,
+    "wof:lastmodified":1684352489,
     "wof:name":"Saelices De Mayorga",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":108,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

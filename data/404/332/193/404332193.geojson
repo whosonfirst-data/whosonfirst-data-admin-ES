@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09309",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Regumiel de la Sierra",
+    "eurostat:nuts_2021_id":"09309",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09309",
+    "eurostat:population":334,
+    "eurostat:population_year":2020,
     "geom:area":0.002244,
     "geom:area_square_m":20636099.738348,
     "geom:bbox":"-3.00738706,41.92820376,-2.95052465,42.00430812",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09309",
+        "eurostat:nuts_2021_id":"09309",
         "gn:id":6356563,
         "gp:id":12691613,
         "qs_pg:id":1129953
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c9613751972e8ea82c032d2afbf459db",
+    "wof:geomhash":"0e21523214c459bc0662abf3fc722c31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332193,
-    "wof:lastmodified":1582361678,
+    "wof:lastmodified":1684352262,
     "wof:name":"Regumiel De La Sierra",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":334,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

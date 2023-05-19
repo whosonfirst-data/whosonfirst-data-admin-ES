@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_34011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Amusco",
+    "eurostat:nuts_2021_id":"34011",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES414",
+    "eurostat:nuts_2021_level_lau":"34011",
+    "eurostat:population":418,
+    "eurostat:population_year":2020,
     "geom:area":0.008589,
-    "geom:area_square_m":78738772.680826,
+    "geom:area_square_m":78738772.680829,
     "geom:bbox":"-4.51486781,42.08857899,-4.36507848,42.21608641",
     "geom:latitude":42.148661,
     "geom:longitude":-4.443157,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_34011",
+        "eurostat:nuts_2021_id":"34011",
         "gn:id":6359987,
         "gp:id":12691966,
         "qs_pg:id":1148155
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b48b0ac7b4f630ce3c949c2b177df972",
+    "wof:geomhash":"550e1611eab917528fe3f6c3c4dc2906",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404340473,
-    "wof:lastmodified":1582361662,
+    "wof:lastmodified":1684352409,
     "wof:name":"Amusco",
     "wof:parent_id":85682815,
     "wof:placetype":"localadmin",
+    "wof:population":418,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

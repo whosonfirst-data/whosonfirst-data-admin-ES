@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09230",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Navas de Bureba",
+    "eurostat:nuts_2021_id":"09230",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09230",
+    "eurostat:population":33,
+    "eurostat:population_year":2020,
     "geom:area":0.000966,
     "geom:area_square_m":8781306.683165,
     "geom:bbox":"-3.35965458,42.67039035,-3.31003458,42.70071372",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09230",
+        "eurostat:nuts_2021_id":"09230",
         "gn:id":6356507,
         "gp:id":12691556,
         "qs_pg:id":46293
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e5928967f3930c6746d30950499dbc0f",
+    "wof:geomhash":"2c792765f737f529cd1bcf7c14665010",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332045,
-    "wof:lastmodified":1582361687,
+    "wof:lastmodified":1684352260,
     "wof:name":"Navas De Bureba",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":33,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

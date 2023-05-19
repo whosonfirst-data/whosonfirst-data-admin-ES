@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09312",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Revilla y Ahedo, La",
+    "eurostat:nuts_2021_id":"09312",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09312",
+    "eurostat:population":100,
+    "eurostat:population_year":2020,
     "geom:area":0.001661,
-    "geom:area_square_m":15264150.43361,
+    "geom:area_square_m":15264150.433611,
     "geom:bbox":"-3.38562518,41.98623483,-3.31891545,42.03515382",
     "geom:latitude":42.008295,
     "geom:longitude":-3.347492,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09312",
+        "eurostat:nuts_2021_id":"09312",
         "gn:id":6356566,
         "qs_pg:id":621569
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ba63cfe0118d09497fcbe158963e093c",
+    "wof:geomhash":"62984a15d9cbf8052643b94e006eaf5c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404332199,
-    "wof:lastmodified":1582361686,
+    "wof:lastmodified":1684352262,
     "wof:name":"Revilla Y La Ahedo",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":100,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

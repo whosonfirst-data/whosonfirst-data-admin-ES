@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_35030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tuineje",
+    "eurostat:nuts_2021_id":"35030",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES7",
+    "eurostat:nuts_2021_level_2":"ES70",
+    "eurostat:nuts_2021_level_3":"ES704",
+    "eurostat:nuts_2021_level_lau":"35030",
+    "eurostat:population":15596,
+    "eurostat:population_year":2020,
     "geom:area":0.025408,
-    "geom:area_square_m":276694669.833916,
+    "geom:area_square_m":276694669.833928,
     "geom:bbox":"-14.15989503,28.18856409,-13.92163315,28.37793422",
     "geom:latitude":28.272064,
     "geom:longitude":-14.044375,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_35030",
+        "eurostat:nuts_2021_id":"35030",
         "gn:id":6360200,
         "gp:id":12690154,
         "qs_pg:id":1118798
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ba964cc8fa5789ff12e472678b18ee48",
+    "wof:geomhash":"257d855c35a10dea9a7dfa34dda24b77",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404340951,
-    "wof:lastmodified":1582361659,
+    "wof:lastmodified":1684352417,
     "wof:name":"Tuineje",
     "wof:parent_id":85682821,
     "wof:placetype":"localadmin",
+    "wof:population":15596,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

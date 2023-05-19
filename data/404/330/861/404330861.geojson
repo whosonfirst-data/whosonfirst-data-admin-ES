@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_07059",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Salines, Ses",
+    "eurostat:nuts_2021_id":"07059",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES53",
+    "eurostat:nuts_2021_level_3":"ES532",
+    "eurostat:nuts_2021_level_lau":"07059",
+    "eurostat:population":5096,
+    "eurostat:population_year":2020,
     "geom:area":0.004085,
-    "geom:area_square_m":39066639.79572,
+    "geom:area_square_m":39066639.795718,
     "geom:bbox":"2.98152824,39.28772177,3.08709337,39.37917186",
     "geom:latitude":39.331013,
     "geom:longitude":3.043554,
@@ -115,6 +127,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -123,6 +137,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_07059",
+        "eurostat:nuts_2021_id":"07059",
         "gn:id":6533976,
         "gp:id":12687753,
         "qs_pg:id":902556
@@ -131,7 +147,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"727efe00f8c20688f65ce780c99abb0d",
+    "wof:geomhash":"9772c490e30643beed6d6a185cbec72f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,10 +158,12 @@
         }
     ],
     "wof:id":404330861,
-    "wof:lastmodified":1582361525,
+    "wof:lastmodified":1684352233,
     "wof:name":"Ses Salines",
     "wof:parent_id":85682647,
     "wof:placetype":"localadmin",
+    "wof:population":5096,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

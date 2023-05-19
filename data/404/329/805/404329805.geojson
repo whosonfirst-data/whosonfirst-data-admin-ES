@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Albornos",
+    "eurostat:nuts_2021_id":"05005",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05005",
+    "eurostat:population":177,
+    "eurostat:population_year":2020,
     "geom:area":0.001826,
-    "geom:area_square_m":17079475.308225,
+    "geom:area_square_m":17079475.308224,
     "geom:bbox":"-4.91504454,40.80853643,-4.84928957,40.85693302",
     "geom:latitude":40.834438,
     "geom:longitude":-4.884976,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05005",
+        "eurostat:nuts_2021_id":"05005",
         "gn:id":6355621,
         "gp:id":12691129,
         "qs_pg:id":46121
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5e0a8eced19e42c1ac8043df6b8d824e",
+    "wof:geomhash":"010f6188a668be00ec39f29e6e0c7ac9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404329805,
-    "wof:lastmodified":1582361793,
+    "wof:lastmodified":1684352216,
     "wof:name":"Albornos",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":177,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

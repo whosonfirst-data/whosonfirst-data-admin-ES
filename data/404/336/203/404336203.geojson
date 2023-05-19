@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_20054",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lizartza",
+    "eurostat:nuts_2021_id":"20054",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES212",
+    "eurostat:nuts_2021_level_lau":"20054",
+    "eurostat:population":617,
+    "eurostat:population_year":2020,
     "geom:area":0.001364,
-    "geom:area_square_m":12314666.290381,
+    "geom:area_square_m":12314666.290382,
     "geom:bbox":"-2.05941807,43.07309038,-1.97095051,43.11606084",
     "geom:latitude":43.093893,
     "geom:longitude":-2.030868,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_20054",
+        "eurostat:nuts_2021_id":"20054",
         "gn:id":6358143,
         "qs_pg:id":103375
     },
@@ -120,7 +136,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"144c3e4f74f3363ed0b735374011a724",
+    "wof:geomhash":"78312eb51c14db2131cc8b3376f669c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404336203,
-    "wof:lastmodified":1582361464,
+    "wof:lastmodified":1684352334,
     "wof:name":"Lizartza",
     "wof:parent_id":85682741,
     "wof:placetype":"localadmin",
+    "wof:population":617,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

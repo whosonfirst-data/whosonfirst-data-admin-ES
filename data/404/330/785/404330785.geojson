@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_07026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Eivissa",
+    "eurostat:nuts_2021_id":"07026",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES53",
+    "eurostat:nuts_2021_level_3":"ES531",
+    "eurostat:nuts_2021_level_lau":"07026",
+    "eurostat:population":51128,
+    "eurostat:population_year":2020,
     "geom:area":0.001161,
     "geom:area_square_m":11174098.619721,
     "geom:bbox":"1.3846122,38.8835366,1.46336239,38.92996941",
@@ -45,6 +57,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -53,6 +67,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_07026",
+        "eurostat:nuts_2021_id":"07026",
         "gn:id":6356034,
         "gp:id":12687725,
         "qs_pg:id":1293464
@@ -61,7 +77,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b5250070f87d21c83736252c64cc3495",
+    "wof:geomhash":"d76d8d3be277460e882c7a21bec39ed3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
         }
     ],
     "wof:id":404330785,
-    "wof:lastmodified":1582361530,
+    "wof:lastmodified":1684352230,
     "wof:name":"Eivissa",
     "wof:parent_id":85682647,
     "wof:placetype":"localadmin",
+    "wof:population":51128,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

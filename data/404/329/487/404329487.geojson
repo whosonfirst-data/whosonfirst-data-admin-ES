@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Planes",
+    "eurostat:nuts_2021_id":"03106",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03106",
+    "eurostat:population":682,
+    "eurostat:population_year":2020,
     "geom:area":0.00403,
-    "geom:area_square_m":38839811.248626,
+    "geom:area_square_m":38839811.248625,
     "geom:bbox":"-0.38795717,38.75920005,-0.28355522,38.82233365",
     "geom:latitude":38.792285,
     "geom:longitude":-0.331585,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03106",
+        "eurostat:nuts_2021_id":"03106",
         "gn:id":6355481,
         "gp:id":12695371,
         "qs_pg:id":961884
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"28eff0ad6b47a5eba43ca0b4e1c4c7f1",
+    "wof:geomhash":"3252b9c6e549745a73ed72f42808457a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404329487,
-    "wof:lastmodified":1582361799,
+    "wof:lastmodified":1684352210,
     "wof:name":"Planes",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":682,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

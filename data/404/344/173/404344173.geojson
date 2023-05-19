@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44184",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Plou",
+    "eurostat:nuts_2021_id":"44184",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44184",
+    "eurostat:population":50,
+    "eurostat:population_year":2020,
     "geom:area":0.001842,
-    "geom:area_square_m":17192838.530665,
+    "geom:area_square_m":17192838.530666,
     "geom:bbox":"-0.8843457,40.97734884,-0.81384354,41.02879022",
     "geom:latitude":41.002384,
     "geom:longitude":-0.848608,
@@ -54,6 +66,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -62,6 +76,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44184",
+        "eurostat:nuts_2021_id":"44184",
         "gn:id":6361588,
         "gp:id":12689760,
         "qs_pg:id":45464
@@ -70,7 +86,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8eb7814f0e75ada6a6bb26fb9f1d8017",
+    "wof:geomhash":"e19e51129fe2437829369b1b534930ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +97,12 @@
         }
     ],
     "wof:id":404344173,
-    "wof:lastmodified":1582361849,
+    "wof:lastmodified":1684352470,
     "wof:name":"Plou",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":50,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

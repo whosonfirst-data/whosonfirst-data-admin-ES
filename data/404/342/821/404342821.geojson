@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_41035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Coripe",
+    "eurostat:nuts_2021_id":"41035",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES618",
+    "eurostat:nuts_2021_level_lau":"41035",
+    "eurostat:population":1238,
+    "eurostat:population_year":2020,
     "geom:area":0.005208,
-    "geom:area_square_m":51439602.344565,
+    "geom:area_square_m":51439602.344564,
     "geom:bbox":"-5.46028741,36.93528776,-5.33964751,37.04153722",
     "geom:latitude":36.987177,
     "geom:longitude":-5.405553,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_41035",
+        "eurostat:nuts_2021_id":"41035",
         "gn:id":6360990,
         "gp:id":12689326,
         "qs_pg:id":953852
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"47b2794274eae9cd219f4b84489bc13c",
+    "wof:geomhash":"618ee56d5170bcde34bc80752ee2ea19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404342821,
-    "wof:lastmodified":1582361809,
+    "wof:lastmodified":1684352444,
     "wof:name":"Coripe",
     "wof:parent_id":85682841,
     "wof:placetype":"localadmin",
+    "wof:population":1238,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

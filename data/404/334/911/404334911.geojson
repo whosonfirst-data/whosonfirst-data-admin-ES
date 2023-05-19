@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17170,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17170",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vallfogona de Ripoll\u00e8s",
+    "eurostat:nuts_2021_id":"17170",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17170",
+    "eurostat:population":196,
+    "eurostat:population_year":2020,
     "geom:area":0.004249,
-    "geom:area_square_m":38927740.193876,
+    "geom:area_square_m":38927734.514843,
     "geom:bbox":"2.251742,42.15781,2.361195,42.210655",
     "geom:latitude":42.185923,
     "geom:longitude":2.305284,
@@ -48,6 +60,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -56,13 +70,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"017170"
+        "eg:gisco_id":"ES_17170",
+        "esp-icgc:la_lc":"017170",
+        "eurostat:nuts_2021_id":"17170"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"556e4823017bc0a5a676a9b6b6404f95",
+    "wof:geomhash":"3479380a8f00a4a762114bf502f80b9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,10 +89,12 @@
         }
     ],
     "wof:id":404334911,
-    "wof:lastmodified":1669903054,
+    "wof:lastmodified":1684352315,
     "wof:name":"Vallfogona de Ripoll\u00e8s",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":196,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

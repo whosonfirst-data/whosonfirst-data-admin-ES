@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05160",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Navalosa",
+    "eurostat:nuts_2021_id":"05160",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05160",
+    "eurostat:population":300,
+    "eurostat:population_year":2020,
     "geom:area":0.003182,
-    "geom:area_square_m":29965938.357481,
+    "geom:area_square_m":29965938.357482,
     "geom:bbox":"-4.95387588,40.35427685,-4.85350722,40.41844039",
     "geom:latitude":40.39066,
     "geom:longitude":-4.92334,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05160",
+        "eurostat:nuts_2021_id":"05160",
         "gn:id":6355760,
         "gp:id":12691269,
         "qs_pg:id":1180909
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"aa5c2d9bf8429be538c1ffd0e0202858",
+    "wof:geomhash":"21b33bb2da5104fa075172c8dab996de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404330117,
-    "wof:lastmodified":1582361531,
+    "wof:lastmodified":1684352219,
     "wof:name":"Navalosa",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":300,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

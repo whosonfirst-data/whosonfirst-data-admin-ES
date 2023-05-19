@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":8096,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08096",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Granollers",
+    "eurostat:nuts_2021_id":"08096",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08096",
+    "eurostat:population":62419,
+    "eurostat:population_year":2020,
     "geom:area":0.001618,
     "geom:area_square_m":14962462.251227,
     "geom:bbox":"2.25668153819,41.5640838565,2.30387464884,41.6226039586",
@@ -175,6 +187,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -183,7 +197,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08096",
         "esp-icgc:la_lc":"08096",
+        "eurostat:nuts_2021_id":"08096",
         "gn:id":6356126,
         "gp:id":12693476,
         "qs_pg:id":891491
@@ -193,7 +209,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"62116738b7badbb51faee453d411d449",
+    "wof:geomhash":"e6f21ceb3defe3904ff70daa08ad686e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -204,10 +220,12 @@
         }
     ],
     "wof:id":404331095,
-    "wof:lastmodified":1582361509,
+    "wof:lastmodified":1684352241,
     "wof:name":"Granollers",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":62419,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

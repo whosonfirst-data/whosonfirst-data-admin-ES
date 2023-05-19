@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8292,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08292",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vallbona d'Anoia",
+    "eurostat:nuts_2021_id":"08292",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08292",
+    "eurostat:population":1357,
+    "eurostat:population_year":2020,
     "geom:area":0.000694,
-    "geom:area_square_m":6422612.80608,
+    "geom:area_square_m":6422609.43678,
     "geom:bbox":"1.692286,41.508946,1.720911,41.552547",
     "geom:latitude":41.527835,
     "geom:longitude":1.708682,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08292",
         "esp-icgc:la_lc":"08292",
+        "eurostat:nuts_2021_id":"08292",
         "gn:id":6356309,
         "gp:id":12693666,
         "qs_pg:id":204735
@@ -67,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"66adc98c326660ff62f6fe6d4d295396",
+    "wof:geomhash":"b80aacf355905b01ad0b8f8248228141",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404331531,
-    "wof:lastmodified":1669903007,
+    "wof:lastmodified":1684352255,
     "wof:name":"Vallbona d'Anoia",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":1357,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

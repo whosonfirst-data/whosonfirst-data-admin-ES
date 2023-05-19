@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45082",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lagartera",
+    "eurostat:nuts_2021_id":"45082",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45082",
+    "eurostat:population":1354,
+    "eurostat:population_year":2020,
     "geom:area":0.008543,
-    "geom:area_square_m":80941517.683517,
+    "geom:area_square_m":80941517.683521,
     "geom:bbox":"-5.29346902,39.860268,-5.17656819,40.11108611",
     "geom:latitude":39.982329,
     "geom:longitude":-5.234993,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45082",
+        "eurostat:nuts_2021_id":"45082",
         "gn:id":6361742,
         "gp:id":12691003,
         "qs_pg:id":1147251
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"71c2cea6f457ad53e8d54e8642b9319e",
+    "wof:geomhash":"db18e3e71339feb648203fd8cc3f2156",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404344523,
-    "wof:lastmodified":1582361860,
+    "wof:lastmodified":1684352475,
     "wof:name":"Lagartera",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":1354,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

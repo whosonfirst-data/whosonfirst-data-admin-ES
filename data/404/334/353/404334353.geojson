@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16167",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pozorrubio de Santiago",
+    "eurostat:nuts_2021_id":"16167",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16167",
+    "eurostat:population":308,
+    "eurostat:population_year":2020,
     "geom:area":0.004702,
     "geom:area_square_m":44659377.92589,
     "geom:bbox":"-3.01060217,39.77248359,-2.88444339,39.84238207",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16167",
+        "eurostat:nuts_2021_id":"16167",
         "gn:id":6357506,
         "gp:id":12690549,
         "qs_pg:id":45844
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a0e331c3c6fbe179bfc9893e31441c40",
+    "wof:geomhash":"5a2eadbbcffe783a02156187722e9f4e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404334353,
-    "wof:lastmodified":1582361717,
+    "wof:lastmodified":1684352296,
     "wof:name":"Pozorrubio",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":308,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

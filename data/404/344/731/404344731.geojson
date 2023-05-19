@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45175",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Turleque",
+    "eurostat:nuts_2021_id":"45175",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45175",
+    "eurostat:population":736,
+    "eurostat:population_year":2020,
     "geom:area":0.010575,
-    "geom:area_square_m":100760955.293418,
+    "geom:area_square_m":100760955.293417,
     "geom:bbox":"-3.72744649,39.53811541,-3.5525633,39.64538266",
     "geom:latitude":39.594855,
     "geom:longitude":-3.637973,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45175",
+        "eurostat:nuts_2021_id":"45175",
         "gn:id":6361835,
         "gp:id":12691097,
         "qs_pg:id":930862
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d9067a6a6dd5ca70e71361bf5cfec744",
+    "wof:geomhash":"6e6f75a5e06e36da61c9df2be1acd299",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404344731,
-    "wof:lastmodified":1582361845,
+    "wof:lastmodified":1684352478,
     "wof:name":"Turleque",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":736,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

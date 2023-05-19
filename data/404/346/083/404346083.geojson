@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48080",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valle de Tr\u00e1paga-Trapagaran",
+    "eurostat:nuts_2021_id":"48080",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48080",
+    "eurostat:population":11975,
+    "eurostat:population_year":2020,
     "geom:area":0.00145,
-    "geom:area_square_m":13047926.945057,
+    "geom:area_square_m":13047926.945056,
     "geom:bbox":"-3.06318566,43.2653062,-3.00445076,43.31210724",
     "geom:latitude":43.289654,
     "geom:longitude":-3.037317,
@@ -39,6 +51,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -47,6 +61,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_48080",
+        "eurostat:nuts_2021_id":"48080",
         "gn:id":3110052,
         "gp:id":12695258,
         "qs_pg:id":1198355
@@ -55,7 +71,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c441a72989ca32f4079287f3709a06d1",
+    "wof:geomhash":"f33f2d96735579d87db51af109471938",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +82,12 @@
         }
     ],
     "wof:id":404346083,
-    "wof:lastmodified":1582361609,
+    "wof:lastmodified":1684352494,
     "wof:name":"Valle De Tr\u00e1paga-Trapagaran",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":11975,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

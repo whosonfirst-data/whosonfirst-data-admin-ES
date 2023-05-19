@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_11006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arcos de la Frontera",
+    "eurostat:nuts_2021_id":"11006",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES612",
+    "eurostat:nuts_2021_level_lau":"11006",
+    "eurostat:population":30818,
+    "eurostat:population_year":2020,
     "geom:area":0.053231,
-    "geom:area_square_m":527435869.611052,
+    "geom:area_square_m":527435869.611031,
     "geom:bbox":"-5.94604318,36.64452883,-5.52822036,36.85208562",
     "geom:latitude":36.743633,
     "geom:longitude":-5.7545,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_11006",
+        "eurostat:nuts_2021_id":"11006",
         "gn:id":6356921,
         "gp:id":12688732,
         "qs_pg:id":1293522
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"46f49c13ee4477986e0322a59a46117d",
+    "wof:geomhash":"3280f320e9a7321132dc95112e2df048",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404333021,
-    "wof:lastmodified":1582361779,
+    "wof:lastmodified":1684352272,
     "wof:name":"Arcos De La Frontera",
     "wof:parent_id":85682679,
     "wof:placetype":"localadmin",
+    "wof:population":30818,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

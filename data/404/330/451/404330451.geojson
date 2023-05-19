@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cheles",
+    "eurostat:nuts_2021_id":"06042",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06042",
+    "eurostat:population":1173,
+    "eurostat:population_year":2020,
     "geom:area":0.004954,
-    "geom:area_square_m":47909172.39502,
+    "geom:area_square_m":47909172.395019,
     "geom:bbox":"-7.31110127,38.5045983,-7.21756391,38.59529643",
     "geom:latitude":38.543666,
     "geom:longitude":-7.264139,
@@ -129,6 +141,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -137,6 +151,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06042",
+        "eurostat:nuts_2021_id":"06042",
         "gn:id":6355907,
         "gp:id":12694356,
         "qs_pg:id":47855
@@ -145,7 +161,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e0105ef55c864c0f0b44dd8605d413a3",
+    "wof:geomhash":"4203eee0048dbfc560b112b4656cb001",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404330451,
-    "wof:lastmodified":1582361538,
+    "wof:lastmodified":1684352224,
     "wof:name":"Cheles",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":1173,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

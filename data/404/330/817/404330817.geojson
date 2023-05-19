@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_07040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Palma de Mallorca",
+    "eurostat:nuts_2021_id":"07040",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES53",
+    "eurostat:nuts_2021_level_3":"ES532",
+    "eurostat:nuts_2021_level_lau":"07040",
+    "eurostat:population":422587,
+    "eurostat:population_year":2020,
     "geom:area":0.02188,
-    "geom:area_square_m":208592032.490659,
+    "geom:area_square_m":208592032.490656,
     "geom:bbox":"2.56386273,39.12074266,2.97979878,39.65840402",
     "geom:latitude":39.556105,
     "geom:longitude":2.715493,
@@ -123,6 +135,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -130,9 +144,12 @@
         404227367
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_07040",
+        "eurostat:nuts_2021_id":"07040"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"6b0d55d40f0ecd62371b2608098a0b75",
+    "wof:geomhash":"60ffcddd96378bb8650c024ceb6ec9eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +160,12 @@
         }
     ],
     "wof:id":404330817,
-    "wof:lastmodified":1566589881,
+    "wof:lastmodified":1684352232,
     "wof:name":"Palma",
     "wof:parent_id":85682647,
     "wof:placetype":"localadmin",
+    "wof:population":422587,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

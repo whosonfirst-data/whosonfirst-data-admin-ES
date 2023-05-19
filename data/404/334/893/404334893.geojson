@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17162,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17162",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Ferriol",
+    "eurostat:nuts_2021_id":"17162",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17162",
+    "eurostat:population":236,
+    "eurostat:population_year":2020,
     "geom:area":0.004612,
-    "geom:area_square_m":42257034.94829,
+    "geom:area_square_m":42257092.042835,
     "geom:bbox":"2.591991,42.143355,2.760037,42.230851",
     "geom:latitude":42.185976,
     "geom:longitude":2.66486,
@@ -118,6 +130,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -126,7 +140,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17162",
         "esp-icgc:la_lc":"017162",
+        "eurostat:nuts_2021_id":"17162",
         "gn:id":6534124,
         "gp:id":12693838,
         "qs_pg:id":288024
@@ -136,7 +152,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"21d518909891262a99cbbd5e7c38038e",
+    "wof:geomhash":"2d79d84574a1aa035a63151714763cf2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404334893,
-    "wof:lastmodified":1669903044,
+    "wof:lastmodified":1684352314,
     "wof:name":"Sant Ferriol",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":236,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_01022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Elciego",
+    "eurostat:nuts_2021_id":"01022",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES211",
+    "eurostat:nuts_2021_level_lau":"01022",
+    "eurostat:population":1001,
+    "eurostat:population_year":2020,
     "geom:area":0.001788,
     "geom:area_square_m":16297145.956737,
     "geom:bbox":"-2.65394728,42.48294032,-2.59007786,42.53070241",
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_01022",
+        "eurostat:nuts_2021_id":"01022",
         "gn:id":6355260,
         "gp:id":12695033,
         "qs_pg:id":1198287
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5a5e1be5e27cda2e70d82fea1e18c302",
+    "wof:geomhash":"6a6d8b4d0bf65f8687f79620d31e86f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404328975,
-    "wof:lastmodified":1582361842,
+    "wof:lastmodified":1684352202,
     "wof:name":"Elciego",
     "wof:parent_id":85682615,
     "wof:placetype":"localadmin",
+    "wof:population":1001,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

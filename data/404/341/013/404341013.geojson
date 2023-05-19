@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_36023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Guarda, A",
+    "eurostat:nuts_2021_id":"36023",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES114",
+    "eurostat:nuts_2021_level_lau":"36023",
+    "eurostat:population":10025,
+    "eurostat:population_year":2020,
     "geom:area":0.002289,
-    "geom:area_square_m":21065240.890873,
+    "geom:area_square_m":21065240.890871,
     "geom:bbox":"-8.88809702,41.86507554,-8.83047686,41.94194075",
     "geom:latitude":41.901831,
     "geom:longitude":-8.861569,
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_36023",
+        "eurostat:nuts_2021_id":"36023",
         "gn:id":6360225,
         "gp:id":12694977,
         "qs_pg:id":1277108
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fa96c55950811979b8a210aec0aafdf5",
+    "wof:geomhash":"1771196406e9d61d548265d18f9369d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404341013,
-    "wof:lastmodified":1582361627,
+    "wof:lastmodified":1684352418,
     "wof:name":"A Guarda",
     "wof:parent_id":85682825,
     "wof:placetype":"localadmin",
+    "wof:population":10025,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

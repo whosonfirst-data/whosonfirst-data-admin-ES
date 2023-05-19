@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alhend\u00edn",
+    "eurostat:nuts_2021_id":"18014",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18014",
+    "eurostat:population":9509,
+    "eurostat:population_year":2020,
     "geom:area":0.005148,
-    "geom:area_square_m":50792052.715357,
+    "geom:area_square_m":50792052.715358,
     "geom:bbox":"-3.77523375,36.9839622,-3.62311522,37.1383792",
     "geom:latitude":37.066221,
     "geom:longitude":-3.701049,
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18014",
+        "eurostat:nuts_2021_id":"18014",
         "gn:id":6357650,
         "gp:id":12688858,
         "qs_pg:id":249193
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"611b25a2e1c72e2b442e1460c6bfc27e",
+    "wof:geomhash":"5f9b34c78bb5e31736df40be53e295ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404335079,
-    "wof:lastmodified":1582361696,
+    "wof:lastmodified":1684352320,
     "wof:name":"Alhend\u00edn",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":9509,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

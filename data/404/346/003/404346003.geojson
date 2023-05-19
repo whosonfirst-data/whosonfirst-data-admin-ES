@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Getxo",
+    "eurostat:nuts_2021_id":"48044",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48044",
+    "eurostat:population":77770,
+    "eurostat:population_year":2020,
     "geom:area":0.001318,
     "geom:area_square_m":11847527.054141,
     "geom:bbox":"-3.03962918,43.31955698,-2.96702721,43.38396032",
@@ -150,6 +162,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -158,6 +172,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_48044",
+        "eurostat:nuts_2021_id":"48044",
         "gn:id":6362388,
         "gp:id":12695206,
         "qs_pg:id":1102918
@@ -166,7 +182,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7f72908d49c17cf731a399629f2c9678",
+    "wof:geomhash":"ecf1de30d995c8b291592e1a8f16c355",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,10 +193,12 @@
         }
     ],
     "wof:id":404346003,
-    "wof:lastmodified":1582361618,
+    "wof:lastmodified":1684352493,
     "wof:name":"Getxo",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":77770,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

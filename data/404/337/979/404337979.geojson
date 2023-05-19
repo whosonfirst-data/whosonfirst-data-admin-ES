@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25183,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25183",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rialp",
+    "eurostat:nuts_2021_id":"25183",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25183",
+    "eurostat:population":641,
+    "eurostat:population_year":2020,
     "geom:area":0.006914,
-    "geom:area_square_m":63074150.554411,
+    "geom:area_square_m":63074150.554409,
     "geom:bbox":"1.06769542917,42.4091269599,1.22295291766,42.5201231643",
     "geom:latitude":42.460955,
     "geom:longitude":1.147292,
@@ -109,6 +121,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -117,7 +131,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25183",
         "esp-icgc:la_lc":"025183",
+        "eurostat:nuts_2021_id":"25183",
         "gn:id":6358919,
         "gp:id":12694071,
         "qs_pg:id":1149580
@@ -127,7 +143,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2e2b460121a29b3829975403a9b7edb8",
+    "wof:geomhash":"1676b085a0f0227431d50e2022065eec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404337979,
-    "wof:lastmodified":1582361561,
+    "wof:lastmodified":1684352367,
     "wof:name":"Rialp",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":641,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

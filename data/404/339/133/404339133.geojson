@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_29019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arenas",
+    "eurostat:nuts_2021_id":"29019",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES617",
+    "eurostat:nuts_2021_level_lau":"29019",
+    "eurostat:population":1177,
+    "eurostat:population_year":2020,
     "geom:area":0.002657,
     "geom:area_square_m":26298332.10442,
     "geom:bbox":"-4.12779374,36.77276818,-4.01723581,36.83780231",
@@ -75,6 +87,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -83,6 +97,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_29019",
+        "eurostat:nuts_2021_id":"29019",
         "gn:id":6359424,
         "gp:id":12689208,
         "qs_pg:id":1315229
@@ -91,7 +107,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"be4fc22f37fb2a5a6e7336acfd123669",
+    "wof:geomhash":"081da8b34c3a53085dfdfc9236d322f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,10 +118,12 @@
         }
     ],
     "wof:id":404339133,
-    "wof:lastmodified":1582361581,
+    "wof:lastmodified":1684352389,
     "wof:name":"Arenas",
     "wof:parent_id":85682787,
     "wof:placetype":"localadmin",
+    "wof:population":1177,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

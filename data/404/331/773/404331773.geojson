@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09083",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castil de Peones",
+    "eurostat:nuts_2021_id":"09083",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09083",
+    "eurostat:population":25,
+    "eurostat:population_year":2020,
     "geom:area":0.00153,
-    "geom:area_square_m":13957553.898947,
+    "geom:area_square_m":13957553.898946,
     "geom:bbox":"-3.40412819,42.44391425,-3.36257285,42.4981444",
     "geom:latitude":42.470333,
     "geom:longitude":-3.3852,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09083",
+        "eurostat:nuts_2021_id":"09083",
         "gn:id":6356398,
         "gp:id":12691443,
         "qs_pg:id":1025389
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ca0e863438720279488e8fcd8a9c863b",
+    "wof:geomhash":"77e73c90a04d20b69a74c956866b64c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404331773,
-    "wof:lastmodified":1582361514,
+    "wof:lastmodified":1684352258,
     "wof:name":"Castil De Peones",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":25,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

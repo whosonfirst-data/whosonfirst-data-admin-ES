@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":8299,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08299",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vilada",
+    "eurostat:nuts_2021_id":"08299",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08299",
+    "eurostat:population":419,
+    "eurostat:population_year":2020,
     "geom:area":0.00242,
     "geom:area_square_m":22193506.901982,
     "geom:bbox":"1.88029979078,42.1104182302,1.9662509751,42.1707729583",
@@ -127,6 +139,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -135,7 +149,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08299",
         "esp-icgc:la_lc":"08299",
+        "eurostat:nuts_2021_id":"08299",
         "gn:id":6356316,
         "gp:id":12693673,
         "qs_pg:id":1018189
@@ -145,7 +161,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"0df791a5daddf9bddbde7f22ea7f9b20",
+    "wof:geomhash":"022855c3a26bae74039e10160fac03c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404331547,
-    "wof:lastmodified":1582361512,
+    "wof:lastmodified":1684352255,
     "wof:name":"Vilada",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":419,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

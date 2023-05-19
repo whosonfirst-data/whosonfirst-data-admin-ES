@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brozas",
+    "eurostat:nuts_2021_id":"10032",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10032",
+    "eurostat:population":1804,
+    "eurostat:population_year":2020,
     "geom:area":0.041796,
-    "geom:area_square_m":398475970.561892,
+    "geom:area_square_m":398475970.561894,
     "geom:bbox":"-6.94260197,39.43963646,-6.62387042,39.708491",
     "geom:latitude":39.554047,
     "geom:longitude":-6.761277,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10032",
+        "eurostat:nuts_2021_id":"10032",
         "gn:id":6356729,
         "gp:id":12694514,
         "qs_pg:id":1166605
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e3910b4365a282babe32500a7a172a74",
+    "wof:geomhash":"9b03a31af7a0f07c296daa4e518b4205",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404332581,
-    "wof:lastmodified":1582361682,
+    "wof:lastmodified":1684352266,
     "wof:name":"Brozas",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":1804,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

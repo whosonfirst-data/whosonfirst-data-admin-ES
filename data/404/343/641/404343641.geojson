@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43111,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43111",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pobla de Montorn\u00e8s, La",
+    "eurostat:nuts_2021_id":"43111",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43111",
+    "eurostat:population":2884,
+    "eurostat:population_year":2020,
     "geom:area":0.001322,
-    "geom:area_square_m":12302006.328529,
+    "geom:area_square_m":12302032.222148,
     "geom:bbox":"1.381653,41.158927,1.424814,41.212646",
     "geom:latitude":41.183225,
     "geom:longitude":1.404874,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43111",
         "esp-icgc:la_lc":"043111",
+        "eurostat:nuts_2021_id":"43111",
         "gn:id":6361353,
         "gp:id":12694248,
         "qs_pg:id":259326
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"fb20823844ef1ecdb8a95b599a4715e0",
+    "wof:geomhash":"53096b8b19acb6dc9b5e3f521329f117",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404343641,
-    "wof:lastmodified":1669903068,
+    "wof:lastmodified":1684352459,
     "wof:name":"La Pobla de Montorn\u00e8s",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":2884,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

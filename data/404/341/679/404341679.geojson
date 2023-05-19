@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37273",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sagrada, La",
+    "eurostat:nuts_2021_id":"37273",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37273",
+    "eurostat:population":94,
+    "eurostat:population_year":2020,
     "geom:area":0.004353,
-    "geom:area_square_m":40785415.190258,
+    "geom:area_square_m":40785415.190259,
     "geom:bbox":"-6.11127626,40.68639409,-6.03668066,40.78337046",
     "geom:latitude":40.73735,
     "geom:longitude":-6.070798,
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37273",
+        "eurostat:nuts_2021_id":"37273",
         "gn:id":6360512,
         "qs_pg:id":621839
     },
@@ -105,7 +121,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d47df0a5f328b207aba7c2ea024cec54",
+    "wof:geomhash":"9e5452dd1ffc96141584f98e4b3d87ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +132,12 @@
         }
     ],
     "wof:id":404341679,
-    "wof:lastmodified":1582361637,
+    "wof:lastmodified":1684352427,
     "wof:name":"La Sagrada",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":94,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25157,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25157",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oss\u00f3 de Si\u00f3",
+    "eurostat:nuts_2021_id":"25157",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25157",
+    "eurostat:population":203,
+    "eurostat:population_year":2020,
     "geom:area":0.002819,
-    "geom:area_square_m":26010003.542266,
+    "geom:area_square_m":26009954.796189,
     "geom:bbox":"1.103031,41.710146,1.179824,41.787244",
     "geom:latitude":41.745906,
     "geom:longitude":1.147314,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25157",
         "esp-icgc:la_lc":"025157",
+        "eurostat:nuts_2021_id":"25157",
         "gn:id":6358897,
         "gp:id":12694049,
         "qs_pg:id":1015757
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"ccfdfa2d9bcd140c1133ad6dc76f9bb7",
+    "wof:geomhash":"86f33443943b7fb433f1872c837891d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404337929,
-    "wof:lastmodified":1669903029,
+    "wof:lastmodified":1684352365,
     "wof:name":"Oss\u00f3 de Si\u00f3",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":203,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

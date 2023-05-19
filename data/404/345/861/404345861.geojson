@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47213",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villalbarba",
+    "eurostat:nuts_2021_id":"47213",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47213",
+    "eurostat:population":115,
+    "eurostat:population_year":2020,
     "geom:area":0.002372,
-    "geom:area_square_m":21932120.088775,
+    "geom:area_square_m":21932120.088776,
     "geom:bbox":"-5.25368946,41.57722445,-5.15731961,41.63044604",
     "geom:latitude":41.60544,
     "geom:longitude":-5.207752,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_47213",
+        "eurostat:nuts_2021_id":"47213",
         "gn:id":6362333,
         "gp:id":12693107,
         "qs_pg:id":497256
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d357b66dc621c0453c865ca59dc4c92f",
+    "wof:geomhash":"017bc99b79101597e9d1dee398726508",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404345861,
-    "wof:lastmodified":1582361829,
+    "wof:lastmodified":1684352491,
     "wof:name":"Villalbarba",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":115,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

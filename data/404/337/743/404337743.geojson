@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25059,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25059",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Boss\u00f2st",
+    "eurostat:nuts_2021_id":"25059",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25059",
+    "eurostat:population":1115,
+    "eurostat:population_year":2020,
     "geom:area":0.003065,
-    "geom:area_square_m":27816128.673423,
+    "geom:area_square_m":27816244.815167,
     "geom:bbox":"0.642581,42.749667,0.759512,42.802776",
     "geom:latitude":42.778222,
     "geom:longitude":0.689304,
@@ -118,6 +130,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -126,7 +140,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25059",
         "esp-icgc:la_lc":"025059",
+        "eurostat:nuts_2021_id":"25059",
         "gn:id":6358815,
         "gp:id":12693958,
         "qs_pg:id":1208926
@@ -136,7 +152,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"cf1a4cf51ca0890a53705b45f1c47c36",
+    "wof:geomhash":"0444360f28b79d43b377c1f3acd5b2c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404337743,
-    "wof:lastmodified":1669903028,
+    "wof:lastmodified":1684352358,
     "wof:name":"Boss\u00f2st",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":1115,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cogollos de la Vega",
+    "eurostat:nuts_2021_id":"18050",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18050",
+    "eurostat:population":2007,
+    "eurostat:population_year":2020,
     "geom:area":0.005068,
-    "geom:area_square_m":49853169.699413,
+    "geom:area_square_m":49853169.699412,
     "geom:bbox":"-3.63965895,37.26714132,-3.48516773,37.32699346",
     "geom:latitude":37.298117,
     "geom:longitude":-3.558686,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18050",
+        "eurostat:nuts_2021_id":"18050",
         "gp:id":12688895,
         "qs_pg:id":48280
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3d5d70890a32e0d03aaae81fcb6f0886",
+    "wof:geomhash":"fc10f79defcfb357c26aa14602a77402",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404335151,
-    "wof:lastmodified":1582361696,
+    "wof:lastmodified":1684352321,
     "wof:name":"Cogollos De La Vega",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":2007,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

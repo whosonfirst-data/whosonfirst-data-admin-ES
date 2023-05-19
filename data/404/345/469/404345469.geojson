@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Camporredondo",
+    "eurostat:nuts_2021_id":"47032",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47032",
+    "eurostat:population":149,
+    "eurostat:population_year":2020,
     "geom:area":0.001882,
-    "geom:area_square_m":17434610.706884,
+    "geom:area_square_m":17434610.706883,
     "geom:bbox":"-4.55158672,41.44881147,-4.48072046,41.50574623",
     "geom:latitude":41.476411,
     "geom:longitude":-4.509016,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_47032",
+        "eurostat:nuts_2021_id":"47032",
         "gn:id":6362160,
         "gp:id":12692934,
         "qs_pg:id":1166348
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"85cc65266d690f9b855f815571065b83",
+    "wof:geomhash":"52b34ed8f573e420248d66064807803e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404345469,
-    "wof:lastmodified":1582361837,
+    "wof:lastmodified":1684352486,
     "wof:name":"Camporredondo",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":149,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

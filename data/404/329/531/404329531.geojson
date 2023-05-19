@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03127",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"T\u00e0rbena",
+    "eurostat:nuts_2021_id":"03127",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03127",
+    "eurostat:population":623,
+    "eurostat:population_year":2020,
     "geom:area":0.00328,
-    "geom:area_square_m":31648842.510711,
+    "geom:area_square_m":31648842.510712,
     "geom:bbox":"-0.15036794,38.67589937,-0.0495498,38.73751623",
     "geom:latitude":38.707183,
     "geom:longitude":-0.096578,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03127",
+        "eurostat:nuts_2021_id":"03127",
         "gn:id":6355500,
         "qs_pg:id":103347
     },
@@ -120,7 +136,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"43579e981674ed80dc1cfc879fda4100",
+    "wof:geomhash":"f5d5f526c51e49252d49ced22e35fa34",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404329531,
-    "wof:lastmodified":1582361797,
+    "wof:lastmodified":1684352211,
     "wof:name":"T\u00e0rbena",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":623,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

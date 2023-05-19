@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49189",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Justo",
+    "eurostat:nuts_2021_id":"49189",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49189",
+    "eurostat:population":208,
+    "eurostat:population_year":2020,
     "geom:area":0.008185,
-    "geom:area_square_m":75009437.130905,
+    "geom:area_square_m":75009414.163397,
     "geom:bbox":"-6.726631,42.104111,-6.574406,42.217296",
     "geom:latitude":42.172478,
     "geom:longitude":-6.643347,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_49189",
+        "eurostat:nuts_2021_id":"49189",
         "gn:id":6362622,
         "gp:id":12693301,
         "qs_pg:id":1149498
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"703900dab1e9d3a52e728cdd59fcc3e3",
+    "wof:geomhash":"f24ccc3f66a93a589e656e6b018fded7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404346547,
-    "wof:lastmodified":1636503321,
+    "wof:lastmodified":1684352500,
     "wof:name":"San Justo",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":208,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

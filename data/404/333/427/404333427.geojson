@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_13008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alcubillas",
+    "eurostat:nuts_2021_id":"13008",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES422",
+    "eurostat:nuts_2021_level_lau":"13008",
+    "eurostat:population":461,
+    "eurostat:population_year":2020,
     "geom:area":0.004918,
-    "geom:area_square_m":47426967.927876,
+    "geom:area_square_m":47426967.927877,
     "geom:bbox":"-3.18931893,38.72105505,-3.09930622,38.79114013",
     "geom:latitude":38.755516,
     "geom:longitude":-3.145457,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_13008",
+        "eurostat:nuts_2021_id":"13008",
         "gn:id":6357102,
         "gp:id":12690305,
         "qs_pg:id":1016029
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f284a4512be3ad075922372c81c2a953",
+    "wof:geomhash":"60242563d2e1a1c7fb69ab4051a74723",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404333427,
-    "wof:lastmodified":1582361778,
+    "wof:lastmodified":1684352278,
     "wof:name":"Alcubillas",
     "wof:parent_id":85682689,
     "wof:placetype":"localadmin",
+    "wof:population":461,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

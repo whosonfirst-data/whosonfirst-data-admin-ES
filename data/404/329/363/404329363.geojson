@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campello, el",
+    "eurostat:nuts_2021_id":"03050",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03050",
+    "eurostat:population":28930,
+    "eurostat:population_year":2020,
     "geom:area":0.0057,
-    "geom:area_square_m":55185473.116195,
+    "geom:area_square_m":55185473.116194,
     "geom:bbox":"-0.43454593,38.38187276,-0.30155586,38.51630183",
     "geom:latitude":38.462142,
     "geom:longitude":-0.372939,
@@ -129,6 +141,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -137,6 +151,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03050",
+        "eurostat:nuts_2021_id":"03050",
         "gn:id":6355426,
         "gp:id":12695315,
         "qs_pg:id":621512
@@ -145,7 +161,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9ad46cd0cdf03f2f029b5532dcbe4b88",
+    "wof:geomhash":"b531ad671252b36f866f512231bd11f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404329363,
-    "wof:lastmodified":1582361789,
+    "wof:lastmodified":1684352208,
     "wof:name":"El Campello",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":28930,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

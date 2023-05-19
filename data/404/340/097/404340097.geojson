@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_32011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Beariz",
+    "eurostat:nuts_2021_id":"32011",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES113",
+    "eurostat:nuts_2021_level_lau":"32011",
+    "eurostat:population":970,
+    "eurostat:population_year":2020,
     "geom:area":0.006128,
     "geom:area_square_m":55882177.572807,
     "geom:bbox":"-8.36634439,42.43407528,-8.22672559,42.53885916",
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_32011",
+        "eurostat:nuts_2021_id":"32011",
         "gn:id":6359829,
         "gp:id":12694873,
         "qs_pg:id":1208081
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4c1f4513039ae3e07394cc8ed58e9fe2",
+    "wof:geomhash":"34cb9d6ad5e2f8f8d366a77a8a025c8c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404340097,
-    "wof:lastmodified":1582361652,
+    "wof:lastmodified":1684352402,
     "wof:name":"Beariz",
     "wof:parent_id":85682801,
     "wof:placetype":"localadmin",
+    "wof:population":970,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

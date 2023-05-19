@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campillo de Ranas",
+    "eurostat:nuts_2021_id":"19060",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19060",
+    "eurostat:population":171,
+    "eurostat:population_year":2020,
     "geom:area":0.009826,
-    "geom:area_square_m":91620863.367154,
+    "geom:area_square_m":91620863.367152,
     "geom:bbox":"-3.407498,40.99937293,-3.25478597,41.12212652",
     "geom:latitude":41.054688,
     "geom:longitude":-3.327594,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19060",
+        "eurostat:nuts_2021_id":"19060",
         "gn:id":6357856,
         "gp:id":12690686,
         "qs_pg:id":1311032
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"047fafabfb521ea5bc0dbf11843a585b",
+    "wof:geomhash":"c938c3470fab38c8a0337b1b371ab2d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404335545,
-    "wof:lastmodified":1582361703,
+    "wof:lastmodified":1684352327,
     "wof:name":"Campillo De Ranas",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":171,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

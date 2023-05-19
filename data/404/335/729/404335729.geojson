@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19162",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Luzaga",
+    "eurostat:nuts_2021_id":"19162",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19162",
+    "eurostat:population":67,
+    "eurostat:population_year":2020,
     "geom:area":0.003177,
-    "geom:area_square_m":29664705.411629,
+    "geom:area_square_m":29664705.411631,
     "geom:bbox":"-2.49583555,40.91158686,-2.41075625,41.00597427",
     "geom:latitude":40.966987,
     "geom:longitude":-2.44692,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19162",
+        "eurostat:nuts_2021_id":"19162",
         "gn:id":6357937,
         "gp:id":12690767,
         "qs_pg:id":45945
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6a3c634e55399aee6894c95d35adfc8a",
+    "wof:geomhash":"58b7eee05cbee06cfd17597d14bb7e96",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404335729,
-    "wof:lastmodified":1582361712,
+    "wof:lastmodified":1684352329,
     "wof:name":"Luzaga",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":67,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

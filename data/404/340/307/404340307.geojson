@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_33013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caravia",
+    "eurostat:nuts_2021_id":"33013",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES12",
+    "eurostat:nuts_2021_level_3":"ES120",
+    "eurostat:nuts_2021_level_lau":"33013",
+    "eurostat:population":469,
+    "eurostat:population_year":2020,
     "geom:area":0.001485,
-    "geom:area_square_m":13324002.389645,
+    "geom:area_square_m":13324002.389647,
     "geom:bbox":"-5.21601705,43.43790505,-5.16207697,43.47863298",
     "geom:latitude":43.460353,
     "geom:longitude":-5.191581,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_33013",
+        "eurostat:nuts_2021_id":"33013",
         "gn:id":6359920,
         "gp:id":12688456,
         "qs_pg:id":1112619
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7ac941e9f3c5832b3905b9d968933847",
+    "wof:geomhash":"c28d25e5a05f36707beec13762625147",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404340307,
-    "wof:lastmodified":1582361645,
+    "wof:lastmodified":1684352405,
     "wof:name":"Caravia",
     "wof:parent_id":85682805,
     "wof:placetype":"localadmin",
+    "wof:population":469,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

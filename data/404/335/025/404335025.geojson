@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":17223,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17223",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vilaju\u00efga",
+    "eurostat:nuts_2021_id":"17223",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17223",
+    "eurostat:population":1116,
+    "eurostat:population_year":2020,
     "geom:area":0.001442,
     "geom:area_square_m":13176678.604521,
     "geom:bbox":"3.07569236637,42.3081952417,3.1343269575,42.3531173085",
@@ -136,6 +148,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -144,7 +158,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17223",
         "esp-icgc:la_lc":"017223",
+        "eurostat:nuts_2021_id":"17223",
         "gn:id":6534170,
         "gp:id":12693898,
         "qs_pg:id":1260172
@@ -154,7 +170,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2c536ebf7b05ec0d254b03afec41a5cb",
+    "wof:geomhash":"1e9c3a0ec59f4cc434c78a8cac9ff27a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -165,10 +181,12 @@
         }
     ],
     "wof:id":404335025,
-    "wof:lastmodified":1582361698,
+    "wof:lastmodified":1684352319,
     "wof:name":"Vilaju\u00efga",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":1116,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

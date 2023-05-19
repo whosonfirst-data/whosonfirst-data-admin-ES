@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8304,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08304",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vilob\u00ed del Pened\u00e8s",
+    "eurostat:nuts_2021_id":"08304",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08304",
+    "eurostat:population":1102,
+    "eurostat:population_year":2020,
     "geom:area":0.001013,
-    "geom:area_square_m":9394481.80386,
+    "geom:area_square_m":9394425.395342,
     "geom:bbox":"1.637869,41.368725,1.69941,41.407079",
     "geom:latitude":41.385643,
     "geom:longitude":1.666094,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08304",
         "esp-icgc:la_lc":"08304",
+        "eurostat:nuts_2021_id":"08304",
         "gn:id":6356321,
         "gp:id":12693684,
         "qs_pg:id":1058709
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"64e8fde09727a34496ab984deb1fa157",
+    "wof:geomhash":"57f75d4e524b9734815ce645886e50cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404331557,
-    "wof:lastmodified":1669902998,
+    "wof:lastmodified":1684352256,
     "wof:name":"Vilob\u00ed del Pened\u00e8s",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":1102,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31146",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Leache / Leatxe",
+    "eurostat:nuts_2021_id":"31146",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31146",
+    "eurostat:population":33,
+    "eurostat:population_year":2020,
     "geom:area":0.001605,
     "geom:area_square_m":14609318.811196,
     "geom:bbox":"-1.43795189,42.59221853,-1.38370926,42.64199449",
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31146",
+        "eurostat:nuts_2021_id":"31146",
         "gn:id":6359694,
         "gp:id":12688322,
         "qs_pg:id":44638
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5396952dff98937a4719f6e94d7011e0",
+    "wof:geomhash":"88d8d0bd5de744c26149e56632b01335",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404339783,
-    "wof:lastmodified":1582361589,
+    "wof:lastmodified":1684352398,
     "wof:name":"Leache",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":33,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

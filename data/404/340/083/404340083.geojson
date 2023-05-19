@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_32005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Baltar",
+    "eurostat:nuts_2021_id":"32005",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES113",
+    "eurostat:nuts_2021_level_lau":"32005",
+    "eurostat:population":942,
+    "eurostat:population_year":2020,
     "geom:area":0.010204,
-    "geom:area_square_m":93860204.293964,
+    "geom:area_square_m":93860204.293965,
     "geom:bbox":"-7.83768778,41.8821302,-7.6488503,41.98991109",
     "geom:latitude":41.935278,
     "geom:longitude":-7.737657,
@@ -57,6 +69,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -65,6 +79,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_32005",
+        "eurostat:nuts_2021_id":"32005",
         "gn:id":6359823,
         "gp:id":12694867,
         "qs_pg:id":1315443
@@ -73,7 +89,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2f9ce51e30fa69d66486f2b9c7ea1d77",
+    "wof:geomhash":"a796fc430c120f5ff2bf4cb215c2cbb4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +100,12 @@
         }
     ],
     "wof:id":404340083,
-    "wof:lastmodified":1582361649,
+    "wof:lastmodified":1684352402,
     "wof:name":"Baltar",
     "wof:parent_id":85682801,
     "wof:placetype":"localadmin",
+    "wof:population":942,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10210",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villamiel",
+    "eurostat:nuts_2021_id":"10210",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10210",
+    "eurostat:population":400,
+    "eurostat:population_year":2020,
     "geom:area":0.007725,
-    "geom:area_square_m":73006453.613846,
+    "geom:area_square_m":73006453.613843,
     "geom:bbox":"-6.87257386,40.10989625,-6.74085277,40.20422863",
     "geom:latitude":40.157211,
     "geom:longitude":-6.803951,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10210",
+        "eurostat:nuts_2021_id":"10210",
         "gn:id":6356905,
         "gp:id":12694692,
         "qs_pg:id":1137137
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8750df9b8f5bf8da28cdaaca630c51c6",
+    "wof:geomhash":"8bca953c86de27164bf9e0f2d945080c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404332979,
-    "wof:lastmodified":1582361682,
+    "wof:lastmodified":1684352272,
     "wof:name":"Villamiel",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":400,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

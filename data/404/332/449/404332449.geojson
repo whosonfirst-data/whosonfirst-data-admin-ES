@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09450",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villanueva de Carazo",
+    "eurostat:nuts_2021_id":"09450",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09450",
+    "eurostat:population":26,
+    "eurostat:population_year":2020,
     "geom:area":0.000802,
     "geom:area_square_m":7371593.658069,
     "geom:bbox":"-3.34737281,41.95526125,-3.2992592,42.00250238",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09450",
+        "eurostat:nuts_2021_id":"09450",
         "gn:id":6356672,
         "gp:id":12691724,
         "qs_pg:id":46365
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cb795a0692407a3084fb4bb12c12a309",
+    "wof:geomhash":"bb0d5194fe5a0be16eb5eff5582a4bfd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332449,
-    "wof:lastmodified":1582361679,
+    "wof:lastmodified":1684352264,
     "wof:name":"Villanueva De Carazo",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":26,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

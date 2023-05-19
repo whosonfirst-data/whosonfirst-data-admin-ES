@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_13903",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arenales de San Gregorio",
+    "eurostat:nuts_2021_id":"13903",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES422",
+    "eurostat:nuts_2021_level_lau":"13903",
+    "eurostat:population":588,
+    "eurostat:population_year":2020,
     "geom:area":0.003257,
-    "geom:area_square_m":31164736.741352,
+    "geom:area_square_m":31164736.741351,
     "geom:bbox":"-3.08398206,39.25300729,-2.99530241,39.33368596",
     "geom:latitude":39.300266,
     "geom:longitude":-3.042794,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_13903",
+        "eurostat:nuts_2021_id":"13903",
         "gn:id":6357194,
         "gp:id":23388487,
         "qs_pg:id":956132
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"84618e396c1d03e0c99177c304e3254b",
+    "wof:geomhash":"d04ce49945f07a789490e870f60c4408",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404333637,
-    "wof:lastmodified":1582361780,
+    "wof:lastmodified":1684352282,
     "wof:name":"Arenales De San Gregorio",
     "wof:parent_id":85682689,
     "wof:placetype":"localadmin",
+    "wof:population":588,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

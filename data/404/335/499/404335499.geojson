@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Argecilla",
+    "eurostat:nuts_2021_id":"19039",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19039",
+    "eurostat:population":59,
+    "eurostat:population_year":2020,
     "geom:area":0.004346,
     "geom:area_square_m":40623421.095403,
     "geom:bbox":"-2.8653365,40.84365338,-2.76966693,40.92351052",
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19039",
+        "eurostat:nuts_2021_id":"19039",
         "gn:id":6357836,
         "gp:id":12690666,
         "qs_pg:id":1023713
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"054539cdf09d2d3ceb2fe1d735394e7f",
+    "wof:geomhash":"9b23858d233dccbac948be7b042a7cf7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404335499,
-    "wof:lastmodified":1582361700,
+    "wof:lastmodified":1684352326,
     "wof:name":"Argecilla",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":59,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

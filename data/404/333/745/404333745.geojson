@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_14047",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Obejo",
+    "eurostat:nuts_2021_id":"14047",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES613",
+    "eurostat:nuts_2021_level_lau":"14047",
+    "eurostat:population":2008,
+    "eurostat:population_year":2020,
     "geom:area":0.022039,
-    "geom:area_square_m":214533700.983267,
+    "geom:area_square_m":214533700.983265,
     "geom:bbox":"-4.8896798,37.97446548,-4.65198284,38.15888906",
     "geom:latitude":38.074015,
     "geom:longitude":-4.760518,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_14047",
+        "eurostat:nuts_2021_id":"14047",
         "gn:id":6357242,
         "gp:id":12688818,
         "qs_pg:id":949776
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4a33a86a1a4b933c9ac08903baf3ea00",
+    "wof:geomhash":"492385c3b7efe3f9fdc6c79359ed1a03",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404333745,
-    "wof:lastmodified":1582361785,
+    "wof:lastmodified":1684352284,
     "wof:name":"Obejo",
     "wof:parent_id":85682697,
     "wof:placetype":"localadmin",
+    "wof:population":2008,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

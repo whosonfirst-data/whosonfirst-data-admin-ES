@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46097",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cofrentes",
+    "eurostat:nuts_2021_id":"46097",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46097",
+    "eurostat:population":1123,
+    "eurostat:population_year":2020,
     "geom:area":0.010768,
     "geom:area_square_m":103098204.461532,
     "geom:bbox":"-1.17688992,39.20589322,-0.99678055,39.31553678",
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46097",
+        "eurostat:nuts_2021_id":"46097",
         "gn:id":6361962,
         "gp:id":12695645,
         "qs_pg:id":1188973
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2b7bf7b7b76d29d88b364922c24b3219",
+    "wof:geomhash":"a351bc93cd2c26be83cc4a481f4b562a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404345017,
-    "wof:lastmodified":1582361837,
+    "wof:lastmodified":1684352481,
     "wof:name":"Cofrentes",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":1123,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

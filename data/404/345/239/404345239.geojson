@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46196",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pinet",
+    "eurostat:nuts_2021_id":"46196",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46196",
+    "eurostat:population":157,
+    "eurostat:population_year":2020,
     "geom:area":0.001236,
     "geom:area_square_m":11880251.180017,
     "geom:bbox":"-0.35263487,38.9622886,-0.28752217,39.00035863",
@@ -81,6 +93,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -89,6 +103,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46196",
+        "eurostat:nuts_2021_id":"46196",
         "gn:id":6362061,
         "gp:id":12695731,
         "qs_pg:id":48629
@@ -97,7 +113,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2d8de893cc93f7a80f00c4b1a2909ef8",
+    "wof:geomhash":"9a0e6f3efcd027a6262bc9e153f246f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,10 +124,12 @@
         }
     ],
     "wof:id":404345239,
-    "wof:lastmodified":1582361838,
+    "wof:lastmodified":1684352484,
     "wof:name":"Pinet",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":157,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

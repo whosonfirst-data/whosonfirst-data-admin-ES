@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ainz\u00f3n",
+    "eurostat:nuts_2021_id":"50006",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50006",
+    "eurostat:population":1064,
+    "eurostat:population_year":2020,
     "geom:area":0.004381,
-    "geom:area_square_m":40400600.291634,
+    "geom:area_square_m":40400600.291633,
     "geom:bbox":"-1.56478129,41.72716251,-1.49734413,41.82297996",
     "geom:latitude":41.772053,
     "geom:longitude":-1.530398,
@@ -105,6 +117,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -112,9 +126,12 @@
         404227363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_50006",
+        "eurostat:nuts_2021_id":"50006"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"bbd881cdbf4f88cbc82e0bde0f2096ec",
+    "wof:geomhash":"184532e4cba526b7c7e9c6ecf8bb2246",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +142,12 @@
         }
     ],
     "wof:id":404346727,
-    "wof:lastmodified":1566590286,
+    "wof:lastmodified":1684352502,
     "wof:name":"Ainz\u00f3n",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":1064,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

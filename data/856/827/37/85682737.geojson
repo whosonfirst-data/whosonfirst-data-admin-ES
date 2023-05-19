@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"ES",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Guadalajara",
+    "eurostat:name_local":"Guadalajara",
+    "eurostat:nuts_2021_id":"ES424",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:population":266401,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"2",
     "geom:area":1.303367,
-    "geom:area_square_m":12197438109.636889,
+    "geom:area_square_m":12197437989.438023,
     "geom:bbox":"-3.541098,40.152456,-1.535638,41.327632",
     "geom:latitude":40.813478,
     "geom:longitude":-2.623669,
@@ -387,6 +401,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "unlc:subdivision":"ES-GU",
     "wd:wordcount":9744,
     "wof:belongsto":[
@@ -397,6 +413,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":24011,
+        "eurostat:nuts_2021_id":"ES424",
         "fips:code":"SP84",
         "gn:id":3121069,
         "gp:id":12602113,
@@ -404,7 +421,7 @@
         "unlc:id":"ES-GU"
     },
     "wof:country":"ES",
-    "wof:geomhash":"da724cbb2abb9708fa72324feb431a24",
+    "wof:geomhash":"b76c9ffb6d70cf080b88d77acf11cfd1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -424,10 +441,12 @@
         "eus",
         "ast"
     ],
-    "wof:lastmodified":1617131360,
+    "wof:lastmodified":1684351554,
     "wof:name":"Guadalajara",
     "wof:parent_id":404227375,
     "wof:placetype":"region",
+    "wof:population":266401,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:shortcode":"CM",
     "wof:subdivision":"ES-GU",

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_02023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casas de Ves",
+    "eurostat:nuts_2021_id":"02023",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES421",
+    "eurostat:nuts_2021_level_lau":"02023",
+    "eurostat:population":563,
+    "eurostat:population_year":2020,
     "geom:area":0.013053,
-    "geom:area_square_m":124993308.272711,
+    "geom:area_square_m":124993308.27271,
     "geom:bbox":"-1.37029643,39.14491712,-1.21456105,39.33472405",
     "geom:latitude":39.249179,
     "geom:longitude":-1.300929,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_02023",
+        "eurostat:nuts_2021_id":"02023",
         "gn:id":6355315,
         "gp:id":12690234,
         "qs_pg:id":961831
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c08deb881d3a4b61393ac6cd0964733a",
+    "wof:geomhash":"f0ee1e5467357da91ecb4bfdeb317b06",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404329103,
-    "wof:lastmodified":1582361787,
+    "wof:lastmodified":1684352204,
     "wof:name":"Casas De Ves",
     "wof:parent_id":85682621,
     "wof:placetype":"localadmin",
+    "wof:population":563,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

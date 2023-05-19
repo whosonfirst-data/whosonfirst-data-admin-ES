@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40183",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Miguel de Bernuy",
+    "eurostat:nuts_2021_id":"40183",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40183",
+    "eurostat:population":148,
+    "eurostat:population_year":2020,
     "geom:area":0.001972,
-    "geom:area_square_m":18296572.972551,
+    "geom:area_square_m":18296572.97255,
     "geom:bbox":"-3.97103055,41.35754301,-3.91209147,41.42458733",
     "geom:latitude":41.39414,
     "geom:longitude":-3.948949,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_40183",
+        "eurostat:nuts_2021_id":"40183",
         "gn:id":6360905,
         "gp:id":12692673,
         "qs_pg:id":400561
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"58462b800d2010d300ff585e8be22ad3",
+    "wof:geomhash":"7e00e406f627125a528bff12d6ef0c8e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404342629,
-    "wof:lastmodified":1582361810,
+    "wof:lastmodified":1684352441,
     "wof:name":"San Miguel De Bernuy",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":148,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

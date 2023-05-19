@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50229",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ruesca",
+    "eurostat:nuts_2021_id":"50229",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50229",
+    "eurostat:population":76,
+    "eurostat:population_year":2020,
     "geom:area":0.00125,
     "geom:area_square_m":11619497.288815,
     "geom:bbox":"-1.4933341,41.26585832,-1.42460487,41.29669908",
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50229",
+        "eurostat:nuts_2021_id":"50229",
         "gn:id":6362915,
         "gp:id":12690055,
         "qs_pg:id":45579
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"190f8eb3cb5db2910741cee266e71827",
+    "wof:geomhash":"caa229709092e347055b34affa9edef3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404347211,
-    "wof:lastmodified":1582361670,
+    "wof:lastmodified":1684352508,
     "wof:name":"Ruesca",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":76,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

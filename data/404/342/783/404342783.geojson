@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_41018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brenes",
+    "eurostat:nuts_2021_id":"41018",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES618",
+    "eurostat:nuts_2021_level_lau":"41018",
+    "eurostat:population":12501,
+    "eurostat:population_year":2020,
     "geom:area":0.002187,
-    "geom:area_square_m":21438794.199637,
+    "geom:area_square_m":21438794.199635,
     "geom:bbox":"-5.92463482,37.52777354,-5.83410874,37.57966715",
     "geom:latitude":37.55361,
     "geom:longitude":-5.877162,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_41018",
+        "eurostat:nuts_2021_id":"41018",
         "gn:id":6360973,
         "gp:id":12689308,
         "qs_pg:id":1250192
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bfb7ad906a54e1611efe778309b12fe8",
+    "wof:geomhash":"46978ba7e0642747eb3c43700a49fabd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404342783,
-    "wof:lastmodified":1582361814,
+    "wof:lastmodified":1684352443,
     "wof:name":"Brenes",
     "wof:parent_id":85682841,
     "wof:placetype":"localadmin",
+    "wof:population":12501,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

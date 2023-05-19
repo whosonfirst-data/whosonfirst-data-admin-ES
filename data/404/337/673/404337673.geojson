@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":25027,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Anglesola",
+    "eurostat:nuts_2021_id":"25027",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25027",
+    "eurostat:population":1365,
+    "eurostat:population_year":2020,
     "geom:area":0.002559,
     "geom:area_square_m":23643527.007744,
     "geom:bbox":"1.0249862053,41.634273367,1.1096042468,41.6951795198",
@@ -106,6 +118,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -114,7 +128,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25027",
         "esp-icgc:la_lc":"025027",
+        "eurostat:nuts_2021_id":"25027",
         "gn:id":6358785,
         "gp:id":12693931,
         "qs_pg:id":218765
@@ -124,7 +140,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7a03cdd76ac230d6ac443b46ad6aca36",
+    "wof:geomhash":"cf91f46c62d00026ffb79e3b920e713f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404337673,
-    "wof:lastmodified":1582361555,
+    "wof:lastmodified":1684352356,
     "wof:name":"Anglesola",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":1365,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

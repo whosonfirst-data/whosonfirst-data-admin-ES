@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caraba\u00f1a",
+    "eurostat:nuts_2021_id":"28035",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28035",
+    "eurostat:population":2081,
+    "eurostat:population_year":2020,
     "geom:area":0.005047,
-    "geom:area_square_m":47624271.257148,
+    "geom:area_square_m":47624271.257147,
     "geom:bbox":"-3.28489664,40.21247239,-3.194449,40.30347948",
     "geom:latitude":40.254422,
     "geom:longitude":-3.246142,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28035",
+        "eurostat:nuts_2021_id":"28035",
         "gn:id":6359261,
         "gp:id":12687980,
         "qs_pg:id":499042
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d610a0139e55f2c336fe2a5e4a9109f8",
+    "wof:geomhash":"ac0b3d4cf4c8579c50522ca983724a55",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404338765,
-    "wof:lastmodified":1582361431,
+    "wof:lastmodified":1684352381,
     "wof:name":"Caraba\u00f1a",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":2081,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

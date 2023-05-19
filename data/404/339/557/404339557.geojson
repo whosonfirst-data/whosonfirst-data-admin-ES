@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Baztan",
+    "eurostat:nuts_2021_id":"31050",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31050",
+    "eurostat:population":7850,
+    "eurostat:population_year":2020,
     "geom:area":0.041321,
-    "geom:area_square_m":372716511.954839,
+    "geom:area_square_m":372716511.954841,
     "geom:bbox":"-1.64723279,43.03106134,-1.37779424,43.29493194",
     "geom:latitude":43.158457,
     "geom:longitude":-1.506286,
@@ -39,6 +51,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -47,6 +61,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31050",
+        "eurostat:nuts_2021_id":"31050",
         "gp:id":12688222,
         "qs_pg:id":1097620
     },
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a6a2790fa252a4fc24892f27facf6e33",
+    "wof:geomhash":"630cbb30db792966563f812ea48bc4cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404339557,
-    "wof:lastmodified":1582361581,
+    "wof:lastmodified":1684352396,
     "wof:name":"Baztan",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":7850,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05124",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Medinilla",
+    "eurostat:nuts_2021_id":"05124",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05124",
+    "eurostat:population":91,
+    "eurostat:population_year":2020,
     "geom:area":0.002429,
-    "geom:area_square_m":22852503.805711,
+    "geom:area_square_m":22852503.80571,
     "geom:bbox":"-5.64083511,40.42507616,-5.55962569,40.47753502",
     "geom:latitude":40.451454,
     "geom:longitude":-5.603165,
@@ -84,6 +96,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -92,6 +106,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05124",
+        "eurostat:nuts_2021_id":"05124",
         "gn:id":6355727,
         "gp:id":12691236,
         "qs_pg:id":497043
@@ -100,7 +116,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"299d1f08457d93cab7cbfcd02cfa1583",
+    "wof:geomhash":"4e9a28df3b4b9bc828c534437c566ff7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,10 +127,12 @@
         }
     ],
     "wof:id":404330043,
-    "wof:lastmodified":1582361537,
+    "wof:lastmodified":1684352218,
     "wof:name":"Medinilla",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":91,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

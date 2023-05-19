@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46085",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carlet",
+    "eurostat:nuts_2021_id":"46085",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46085",
+    "eurostat:population":15740,
+    "eurostat:population_year":2020,
     "geom:area":0.004759,
-    "geom:area_square_m":45583968.717483,
+    "geom:area_square_m":45583968.717482,
     "geom:bbox":"-0.60210825,39.2031695,-0.47242115,39.26877612",
     "geom:latitude":39.234655,
     "geom:longitude":-0.536197,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46085",
+        "eurostat:nuts_2021_id":"46085",
         "gn:id":6361950,
         "gp:id":12695626,
         "qs_pg:id":30343
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fe2f8e43af769073f8dc2043e1194bfb",
+    "wof:geomhash":"e272d8eb53001e6b5fd961f42ce92ca1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404344991,
-    "wof:lastmodified":1582361844,
+    "wof:lastmodified":1684352481,
     "wof:name":"Carlet",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":15740,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

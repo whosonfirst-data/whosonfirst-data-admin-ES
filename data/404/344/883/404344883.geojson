@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alqueria de la Comtessa, l'",
+    "eurostat:nuts_2021_id":"46037",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46037",
+    "eurostat:population":1496,
+    "eurostat:population_year":2020,
     "geom:area":0.000224,
     "geom:area_square_m":2151712.470943,
     "geom:bbox":"-0.16339503,38.92543096,-0.14215698,38.94646945",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227381
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_46037",
+        "eurostat:nuts_2021_id":"46037"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"6755304f92ac9f07b1b4d9e2e465387b",
+    "wof:geomhash":"336e674be12477b2778239271f410029",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404344883,
-    "wof:lastmodified":1566591108,
+    "wof:lastmodified":1684352479,
     "wof:name":"L'Alqueria De La Comtessa",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":1496,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

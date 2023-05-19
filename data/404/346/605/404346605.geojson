@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49224",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trefacio",
+    "eurostat:nuts_2021_id":"49224",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49224",
+    "eurostat:population":185,
+    "eurostat:population_year":2020,
     "geom:area":0.002776,
-    "geom:area_square_m":25446774.963089,
+    "geom:area_square_m":25446774.963091,
     "geom:bbox":"-6.75056825,42.09947765,-6.62419252,42.21491174",
     "geom:latitude":42.149939,
     "geom:longitude":-6.675669,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_49224",
+        "eurostat:nuts_2021_id":"49224",
         "gn:id":6362647,
         "gp:id":12693327,
         "qs_pg:id":1018403
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7f3b3acb1f25bfb4e5b925b3b65f6684",
+    "wof:geomhash":"704a83ad8e5f4604527b20f3b4cf1023",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404346605,
-    "wof:lastmodified":1582361610,
+    "wof:lastmodified":1684352501,
     "wof:name":"Trefacio",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":185,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17174,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17174",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Miquel de Campmajor",
+    "eurostat:nuts_2021_id":"17174",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17174",
+    "eurostat:population":229,
+    "eurostat:population_year":2020,
     "geom:area":0.003663,
-    "geom:area_square_m":33593649.264056,
+    "geom:area_square_m":33593744.355133,
     "geom:bbox":"2.636343,42.082637,2.707833,42.176498",
     "geom:latitude":42.128445,
     "geom:longitude":2.677657,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17174",
         "esp-icgc:la_lc":"017174",
+        "eurostat:nuts_2021_id":"17174",
         "gn:id":6534135,
         "gp:id":12693851,
         "qs_pg:id":1188750
@@ -67,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"099ee04d82ff2906e921727f933b0617",
+    "wof:geomhash":"26677a47d7c9d27e0aeacd0f9ed4a312",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404334919,
-    "wof:lastmodified":1669903055,
+    "wof:lastmodified":1684352315,
     "wof:name":"Sant Miquel de Campmajor",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":229,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

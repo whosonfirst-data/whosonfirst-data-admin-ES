@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05195",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Riofr\u00edo",
+    "eurostat:nuts_2021_id":"05195",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05195",
+    "eurostat:population":203,
+    "eurostat:population_year":2020,
     "geom:area":0.006966,
-    "geom:area_square_m":65461027.459632,
+    "geom:area_square_m":65461027.459633,
     "geom:bbox":"-4.83152444,40.50384928,-4.68022773,40.57975179",
     "geom:latitude":40.539597,
     "geom:longitude":-4.754982,
@@ -78,6 +90,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -86,6 +100,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05195",
+        "eurostat:nuts_2021_id":"05195",
         "gn:id":6355795,
         "gp:id":12691304,
         "qs_pg:id":540512
@@ -94,7 +110,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3591f80304def883fd3818571737680a",
+    "wof:geomhash":"a1f01dad107770de96eb2a2e0e5587d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,10 +121,12 @@
         }
     ],
     "wof:id":404330197,
-    "wof:lastmodified":1582361534,
+    "wof:lastmodified":1684352220,
     "wof:name":"Riofr\u00edo",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":203,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

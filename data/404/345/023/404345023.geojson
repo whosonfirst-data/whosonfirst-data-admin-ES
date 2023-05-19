@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46100",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cotes",
+    "eurostat:nuts_2021_id":"46100",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46100",
+    "eurostat:population":333,
+    "eurostat:population_year":2020,
     "geom:area":0.000658,
-    "geom:area_square_m":6320802.424003,
+    "geom:area_square_m":6320802.424005,
     "geom:bbox":"-0.62878527,39.04559948,-0.56993805,39.07621271",
     "geom:latitude":39.058458,
     "geom:longitude":-0.60088,
@@ -54,6 +66,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -62,6 +76,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46100",
+        "eurostat:nuts_2021_id":"46100",
         "gn:id":6361965,
         "gp:id":12695648,
         "qs_pg:id":48589
@@ -70,7 +86,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"30abf972c74faf6c6ced24a9236e0727",
+    "wof:geomhash":"cf4a9697c2a148247a9fdc9b2e80308e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +97,12 @@
         }
     ],
     "wof:id":404345023,
-    "wof:lastmodified":1582361827,
+    "wof:lastmodified":1684352481,
     "wof:name":"Cotes",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":333,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

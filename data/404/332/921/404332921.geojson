@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10184",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torno, El",
+    "eurostat:nuts_2021_id":"10184",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10184",
+    "eurostat:population":851,
+    "eurostat:population_year":2020,
     "geom:area":0.002352,
-    "geom:area_square_m":22236732.088121,
+    "geom:area_square_m":22236732.088119,
     "geom:bbox":"-6.00004979,40.08895466,-5.91007288,40.16454697",
     "geom:latitude":40.128257,
     "geom:longitude":-5.950318,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10184",
+        "eurostat:nuts_2021_id":"10184",
         "gn:id":6356879,
         "gp:id":12694666,
         "qs_pg:id":621581
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4441eae3953c4dbc46eab9bb55ad61bb",
+    "wof:geomhash":"c0b13d1f91040f3e224731e7ec201547",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404332921,
-    "wof:lastmodified":1582361692,
+    "wof:lastmodified":1684352271,
     "wof:name":"El Torno",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":851,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

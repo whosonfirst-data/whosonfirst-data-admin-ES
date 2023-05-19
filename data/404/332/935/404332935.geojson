@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10190",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torrej\u00f3n el Rubio",
+    "eurostat:nuts_2021_id":"10190",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10190",
+    "eurostat:population":546,
+    "eurostat:population_year":2020,
     "geom:area":0.023319,
-    "geom:area_square_m":221673937.100955,
+    "geom:area_square_m":221673937.100947,
     "geom:bbox":"-6.08235662,39.66115463,-5.85647044,39.8383247",
     "geom:latitude":39.754792,
     "geom:longitude":-5.976251,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10190",
+        "eurostat:nuts_2021_id":"10190",
         "gn:id":6356885,
         "gp:id":12694671,
         "qs_pg:id":902608
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6711a6b4ecf54d485308c9ea3f2143db",
+    "wof:geomhash":"25f175bd008f95b5a171530b36a5b482",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332935,
-    "wof:lastmodified":1582361685,
+    "wof:lastmodified":1684352271,
     "wof:name":"Torrej\u00f3n El Rubio",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":546,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

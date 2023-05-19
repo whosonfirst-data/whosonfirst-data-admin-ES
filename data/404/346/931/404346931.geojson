@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50099",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u00c9pila",
+    "eurostat:nuts_2021_id":"50099",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50099",
+    "eurostat:population":4372,
+    "eurostat:population_year":2020,
     "geom:area":0.020983,
     "geom:area_square_m":194059175.20288,
     "geom:bbox":"-1.50433325,41.49969678,-1.1622407,41.64784297",
@@ -108,6 +120,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -115,9 +129,12 @@
         404227363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_50099",
+        "eurostat:nuts_2021_id":"50099"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"8029eee8e185dd15bf2fca3954b06c89",
+    "wof:geomhash":"0d85c96fcb12eccde231012fa2609774",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +145,12 @@
         }
     ],
     "wof:id":404346931,
-    "wof:lastmodified":1566590219,
+    "wof:lastmodified":1684352505,
     "wof:name":"\u00c9pila",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":4372,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

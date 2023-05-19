@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45205",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Yuncos",
+    "eurostat:nuts_2021_id":"45205",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45205",
+    "eurostat:population":11646,
+    "eurostat:population_year":2020,
     "geom:area":0.001595,
-    "geom:area_square_m":15085237.123501,
+    "geom:area_square_m":15085237.123502,
     "geom:bbox":"-3.91936136,40.06261071,-3.86443449,40.11083844",
     "geom:latitude":40.087852,
     "geom:longitude":-3.889315,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45205",
+        "eurostat:nuts_2021_id":"45205",
         "gn:id":6361864,
         "gp:id":12691126,
         "qs_pg:id":1162712
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5df6201bebb68f5906bb78b13c674527",
+    "wof:geomhash":"3f3be675ffb9a429544d0aee2b05f727",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404344797,
-    "wof:lastmodified":1582361843,
+    "wof:lastmodified":1684352479,
     "wof:name":"Yuncos",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":11646,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

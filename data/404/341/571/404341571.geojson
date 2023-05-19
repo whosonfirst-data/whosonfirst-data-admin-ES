@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37225",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pajares de la Laguna",
+    "eurostat:nuts_2021_id":"37225",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37225",
+    "eurostat:population":106,
+    "eurostat:population_year":2020,
     "geom:area":0.001031,
-    "geom:area_square_m":9610897.289888,
+    "geom:area_square_m":9610897.289887,
     "geom:bbox":"-5.52692718,41.07599859,-5.49231186,41.12992831",
     "geom:latitude":41.099405,
     "geom:longitude":-5.510991,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37225",
+        "eurostat:nuts_2021_id":"37225",
         "gn:id":6360465,
         "gp:id":12692357,
         "qs_pg:id":497169
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c75de61726a8e53744ec27a38837d0b7",
+    "wof:geomhash":"398fc297b720bcb07a9d7138f5246609",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404341571,
-    "wof:lastmodified":1582361640,
+    "wof:lastmodified":1684352426,
     "wof:name":"Pajares De La Laguna",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":106,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

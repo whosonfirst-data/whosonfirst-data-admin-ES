@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_11901",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Benalup-Casas Viejas",
+    "eurostat:nuts_2021_id":"11901",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES612",
+    "eurostat:nuts_2021_level_lau":"11901",
+    "eurostat:population":6986,
+    "eurostat:population_year":2020,
     "geom:area":0.006093,
-    "geom:area_square_m":60691050.694746,
+    "geom:area_square_m":60691050.694745,
     "geom:bbox":"-5.84332667,36.29254142,-5.70514192,36.37250588",
     "geom:latitude":36.331869,
     "geom:longitude":-5.775525,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_11901",
+        "eurostat:nuts_2021_id":"11901",
         "gn:id":6356958,
         "gp:id":12688735,
         "qs_pg:id":1186790
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e61a4dc80e6070a358f40dba35df6940",
+    "wof:geomhash":"39d7345abf89ede68316ba9f2ccfd1ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404333103,
-    "wof:lastmodified":1582361759,
+    "wof:lastmodified":1684352274,
     "wof:name":"Benalup-Casas Viejas",
     "wof:parent_id":85682679,
     "wof:placetype":"localadmin",
+    "wof:population":6986,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

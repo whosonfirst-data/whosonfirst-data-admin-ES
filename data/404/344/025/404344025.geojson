@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44112",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fuentes Claras",
+    "eurostat:nuts_2021_id":"44112",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44112",
+    "eurostat:population":445,
+    "eurostat:population_year":2020,
     "geom:area":0.003942,
     "geom:area_square_m":36864250.100282,
     "geom:bbox":"-1.39632912,40.83098249,-1.25081061,40.90637719",
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44112",
+        "eurostat:nuts_2021_id":"44112",
         "gn:id":6361523,
         "gp:id":12689694,
         "qs_pg:id":275804
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ea99119f79c2d84a6c10788072e8c820",
+    "wof:geomhash":"8533177a2a1e2b6c3d452b30912cf6bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404344025,
-    "wof:lastmodified":1582361847,
+    "wof:lastmodified":1684352468,
     "wof:name":"Fuentes Claras",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":445,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

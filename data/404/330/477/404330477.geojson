@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06054",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fuente del Maestre",
+    "eurostat:nuts_2021_id":"06054",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06054",
+    "eurostat:population":6714,
+    "eurostat:population_year":2020,
     "geom:area":0.01857,
     "geom:area_square_m":179578255.634624,
     "geom:bbox":"-6.51249875,38.46356518,-6.37058015,38.63541725",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06054",
+        "eurostat:nuts_2021_id":"06054",
         "gn:id":6355919,
         "gp:id":12694373,
         "qs_pg:id":1149598
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6973460fa292b75191a32a4ef68ec39e",
+    "wof:geomhash":"584259f7d887bb58f57f89bab29add8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330477,
-    "wof:lastmodified":1582361523,
+    "wof:lastmodified":1684352224,
     "wof:name":"Fuente Del Maestre",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":6714,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

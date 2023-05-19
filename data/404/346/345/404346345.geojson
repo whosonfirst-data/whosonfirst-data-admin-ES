@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49094",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hermisende",
+    "eurostat:nuts_2021_id":"49094",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49094",
+    "eurostat:population":221,
+    "eurostat:population_year":2020,
     "geom:area":0.011814,
-    "geom:area_square_m":108589715.387478,
+    "geom:area_square_m":108589715.387479,
     "geom:bbox":"-6.99168186,41.93977918,-6.79870507,42.02720251",
     "geom:latitude":41.982851,
     "geom:longitude":-6.890927,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_49094",
+        "eurostat:nuts_2021_id":"49094",
         "gn:id":6362532,
         "gp:id":12693211,
         "qs_pg:id":250901
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bbafb76136d82419c646b8f1bb94a39a",
+    "wof:geomhash":"e22a06803651042168da3d4aea535452",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404346345,
-    "wof:lastmodified":1582361621,
+    "wof:lastmodified":1684352498,
     "wof:name":"Hermisende",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":221,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22096",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chimillas",
+    "eurostat:nuts_2021_id":"22096",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22096",
+    "eurostat:population":402,
+    "eurostat:population_year":2020,
     "geom:area":0.001094,
     "geom:area_square_m":10026540.78667,
     "geom:bbox":"-0.52181411,42.11077758,-0.439707,42.19604961",
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22096",
+        "eurostat:nuts_2021_id":"22096",
         "gn:id":6358334,
         "gp:id":12689475,
         "qs_pg:id":1218769
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7e5206aef6cfcd958a8e10dc2cce0001",
+    "wof:geomhash":"669cd64a07d49774b45d9696b23797e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404336641,
-    "wof:lastmodified":1582361473,
+    "wof:lastmodified":1684352341,
     "wof:name":"Chimillas",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":402,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

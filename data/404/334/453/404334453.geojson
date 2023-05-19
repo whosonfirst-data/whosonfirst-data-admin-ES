@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16234",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valsalobre",
+    "eurostat:nuts_2021_id":"16234",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16234",
+    "eurostat:population":22,
+    "eurostat:population_year":2020,
     "geom:area":0.004053,
-    "geom:area_square_m":38040596.559291,
+    "geom:area_square_m":38040596.559288,
     "geom:bbox":"-2.17034148,40.59024978,-2.07095411,40.65869237",
     "geom:latitude":40.626352,
     "geom:longitude":-2.120149,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16234",
+        "eurostat:nuts_2021_id":"16234",
         "gn:id":6357550,
         "gp:id":12690598,
         "qs_pg:id":1102568
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"be461613890c1c10151e5217d40991cd",
+    "wof:geomhash":"b35cbbbd5a410e91ac3e2b1d79ac1d3e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404334453,
-    "wof:lastmodified":1582361730,
+    "wof:lastmodified":1684352297,
     "wof:name":"Valsalobre",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":22,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

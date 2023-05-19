@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_23019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campillo de Arenas",
+    "eurostat:nuts_2021_id":"23019",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES616",
+    "eurostat:nuts_2021_level_lau":"23019",
+    "eurostat:population":1751,
+    "eurostat:population_year":2020,
     "geom:area":0.011907,
-    "geom:area_square_m":116674483.068726,
+    "geom:area_square_m":116674483.068732,
     "geom:bbox":"-3.7434792,37.5203257,-3.55161442,37.67413504",
     "geom:latitude":37.584959,
     "geom:longitude":-3.653031,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_23019",
+        "eurostat:nuts_2021_id":"23019",
         "gn:id":6358473,
         "gp:id":12689112,
         "qs_pg:id":968728
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1b3108e375003cce6eecfaa2281de44c",
+    "wof:geomhash":"98b001ecc9dc21619ebe8bc5bc24ad92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404336955,
-    "wof:lastmodified":1582361461,
+    "wof:lastmodified":1684352346,
     "wof:name":"Campillo De Arenas",
     "wof:parent_id":85682757,
     "wof:placetype":"localadmin",
+    "wof:population":1751,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

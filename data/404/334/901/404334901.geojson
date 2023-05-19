@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17166,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17166",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Jordi Desvalls",
+    "eurostat:nuts_2021_id":"17166",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17166",
+    "eurostat:population":760,
+    "eurostat:population_year":2020,
     "geom:area":0.001283,
-    "geom:area_square_m":11773484.68765,
+    "geom:area_square_m":11773492.925803,
     "geom:bbox":"2.932342,42.052111,2.978096,42.097761",
     "geom:latitude":42.073639,
     "geom:longitude":2.953812,
@@ -121,6 +133,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -129,7 +143,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17166",
         "esp-icgc:la_lc":"017166",
+        "eurostat:nuts_2021_id":"17166",
         "gn:id":6534129,
         "gp:id":12693845,
         "qs_pg:id":1009389
@@ -139,7 +155,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"07f426c0d578045f1e1615ad9cf06109",
+    "wof:geomhash":"ab9767d6516209dca9500b462d673077",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404334901,
-    "wof:lastmodified":1669903040,
+    "wof:lastmodified":1684352315,
     "wof:name":"Sant Jordi Desvalls",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":760,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

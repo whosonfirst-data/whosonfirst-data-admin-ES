@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40063",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cu\u00e9llar",
+    "eurostat:nuts_2021_id":"40063",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40063",
+    "eurostat:population":9659,
+    "eurostat:population_year":2020,
     "geom:area":0.029414,
-    "geom:area_square_m":272984442.147672,
+    "geom:area_square_m":272984442.147671,
     "geom:bbox":"-4.40266897,41.24537179,-4.14583939,41.4622633",
     "geom:latitude":41.362148,
     "geom:longitude":-4.287086,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_40063",
+        "eurostat:nuts_2021_id":"40063",
         "gn:id":6360803,
         "gp:id":12692570,
         "qs_pg:id":1311072
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"eac9acc1081b1dd9066ae1b6b28f6830",
+    "wof:geomhash":"b5d79942ebda1c7f6f904902250461cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404342399,
-    "wof:lastmodified":1582361807,
+    "wof:lastmodified":1684352439,
     "wof:name":"Cu\u00e9llar",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":9659,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

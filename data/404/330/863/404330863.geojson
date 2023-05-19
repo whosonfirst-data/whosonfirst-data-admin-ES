@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_07060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sineu",
+    "eurostat:nuts_2021_id":"07060",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES53",
+    "eurostat:nuts_2021_level_3":"ES532",
+    "eurostat:nuts_2021_level_lau":"07060",
+    "eurostat:population":4030,
+    "eurostat:population_year":2020,
     "geom:area":0.005009,
     "geom:area_square_m":47691830.504354,
     "geom:bbox":"2.96484639,39.6089838,3.08556989,39.68943737",
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_07060",
+        "eurostat:nuts_2021_id":"07060",
         "gn:id":6533977,
         "gp:id":12687767,
         "qs_pg:id":1188123
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8b42a23616baf692c1c98b92383a2fe5",
+    "wof:geomhash":"4b0cff212ec5c385f6f1f79f5bbdcef4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404330863,
-    "wof:lastmodified":1582361541,
+    "wof:lastmodified":1684352234,
     "wof:name":"Sineu",
     "wof:parent_id":85682647,
     "wof:placetype":"localadmin",
+    "wof:population":4030,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

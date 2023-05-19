@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_07003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alc\u00fadia",
+    "eurostat:nuts_2021_id":"07003",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES53",
+    "eurostat:nuts_2021_level_3":"ES532",
+    "eurostat:nuts_2021_level_lau":"07003",
+    "eurostat:population":20819,
+    "eurostat:population_year":2020,
     "geom:area":0.006328,
-    "geom:area_square_m":60080153.192163,
+    "geom:area_square_m":60080153.192168,
     "geom:bbox":"3.03563871,39.79892168,3.20445981,39.89337046",
     "geom:latitude":39.842403,
     "geom:longitude":3.111838,
@@ -144,6 +156,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -152,6 +166,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_07003",
+        "eurostat:nuts_2021_id":"07003",
         "gn:id":6533929,
         "gp:id":12687707,
         "qs_pg:id":1293454
@@ -160,7 +176,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"efa2683ab9b1daf4b2578fd390e883cd",
+    "wof:geomhash":"0cf1b9ea69971885a787e9733122301d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -171,10 +187,12 @@
         }
     ],
     "wof:id":404330735,
-    "wof:lastmodified":1582361533,
+    "wof:lastmodified":1684352228,
     "wof:name":"Alc\u00fadia",
     "wof:parent_id":85682647,
     "wof:placetype":"localadmin",
+    "wof:population":20819,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

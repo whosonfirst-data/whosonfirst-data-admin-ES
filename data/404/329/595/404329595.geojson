@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alic\u00fan",
+    "eurostat:nuts_2021_id":"04012",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04012",
+    "eurostat:population":201,
+    "eurostat:population_year":2020,
     "geom:area":0.000594,
-    "geom:area_square_m":5871002.654038,
+    "geom:area_square_m":5871002.654037,
     "geom:bbox":"-2.61877296,36.92485859,-2.58989551,36.97699782",
     "geom:latitude":36.949853,
     "geom:longitude":-2.603742,
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_04012",
+        "eurostat:nuts_2021_id":"04012",
         "gn:id":6355529,
         "gp:id":12688635,
         "qs_pg:id":44815
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bd202a9f119e96efe412e965bdbd4855",
+    "wof:geomhash":"b840998338bac8f6abbc6c1fa836eaee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404329595,
-    "wof:lastmodified":1582361788,
+    "wof:lastmodified":1684352212,
     "wof:name":"Alic\u00fan",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":201,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

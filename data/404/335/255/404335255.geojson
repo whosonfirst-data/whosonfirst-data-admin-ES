@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18112",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Juviles",
+    "eurostat:nuts_2021_id":"18112",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18112",
+    "eurostat:population":135,
+    "eurostat:population_year":2020,
     "geom:area":0.001516,
     "geom:area_square_m":14980184.606589,
     "geom:bbox":"-3.25052832,36.93757181,-3.20591026,36.99472808",
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18112",
+        "eurostat:nuts_2021_id":"18112",
         "gn:id":6357728,
         "gp:id":12688941,
         "qs_pg:id":45025
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d52a86cf34635b67b49dd1a7e8c134a7",
+    "wof:geomhash":"fc9ebd36e630384bc4bf6cd974f72038",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404335255,
-    "wof:lastmodified":1582361710,
+    "wof:lastmodified":1684352323,
     "wof:name":"Juviles",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":135,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

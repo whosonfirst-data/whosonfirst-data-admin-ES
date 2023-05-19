@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16192",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Mart\u00edn de Boniches",
+    "eurostat:nuts_2021_id":"16192",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16192",
+    "eurostat:population":42,
+    "eurostat:population_year":2020,
     "geom:area":0.007345,
-    "geom:area_square_m":69702289.808354,
+    "geom:area_square_m":69702289.808356,
     "geom:bbox":"-1.59991921,39.79441316,-1.51091775,39.94865678",
     "geom:latitude":39.874593,
     "geom:longitude":-1.561182,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16192",
+        "eurostat:nuts_2021_id":"16192",
         "gn:id":6357524,
         "gp:id":12690567,
         "qs_pg:id":1146990
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"49cc5fdc6563ffc91c11b61e6b9a0551",
+    "wof:geomhash":"91ba16d166e255ad34505464b49fab1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404334393,
-    "wof:lastmodified":1582361739,
+    "wof:lastmodified":1684352297,
     "wof:name":"San Mart\u00edn De Boniches",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":42,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

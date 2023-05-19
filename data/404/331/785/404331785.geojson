@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09085",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castrillo de la Vega",
+    "eurostat:nuts_2021_id":"09085",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09085",
+    "eurostat:population":650,
+    "eurostat:population_year":2020,
     "geom:area":0.002855,
     "geom:area_square_m":26379226.593656,
     "geom:bbox":"-3.81033062,41.62009986,-3.73227077,41.67335157",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09085",
+        "eurostat:nuts_2021_id":"09085",
         "gn:id":6356400,
         "qs_pg:id":244659
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d63a07419937fe21cb3f40aa74d404f0",
+    "wof:geomhash":"0eee6487be2ff14c8f6a753416ca4048",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404331785,
-    "wof:lastmodified":1582361496,
+    "wof:lastmodified":1684352258,
     "wof:name":"Castrillo De La Vega",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":650,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Colmenar del Arroyo",
+    "eurostat:nuts_2021_id":"28042",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28042",
+    "eurostat:population":1785,
+    "eurostat:population_year":2020,
     "geom:area":0.005231,
-    "geom:area_square_m":49252747.850631,
+    "geom:area_square_m":49252747.850628,
     "geom:bbox":"-4.25306111,40.34777408,-4.14634086,40.45516632",
     "geom:latitude":40.405891,
     "geom:longitude":-4.192918,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28042",
+        "eurostat:nuts_2021_id":"28042",
         "gn:id":6359268,
         "gp:id":12687992,
         "qs_pg:id":231332
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d1010134f32af806703c1176edcebfcc",
+    "wof:geomhash":"9f58d9a81a1fcfc119eed7328ceafd5a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404338783,
-    "wof:lastmodified":1582361442,
+    "wof:lastmodified":1684352381,
     "wof:name":"Colmenar Del Arroyo",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":1785,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

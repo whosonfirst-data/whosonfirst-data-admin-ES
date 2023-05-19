@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8107,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08107",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lli\u00e7\u00e0 d'Amunt",
+    "eurostat:nuts_2021_id":"08107",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08107",
+    "eurostat:population":15469,
+    "eurostat:population_year":2020,
     "geom:area":0.002414,
-    "geom:area_square_m":22314950.924805,
+    "geom:area_square_m":22315025.957042,
     "geom:bbox":"2.185548,41.579437,2.267955,41.6356",
     "geom:latitude":41.611535,
     "geom:longitude":2.224523,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08107",
         "esp-icgc:la_lc":"08107",
+        "eurostat:nuts_2021_id":"08107",
         "gn:id":6356137,
         "gp:id":12693486,
         "qs_pg:id":1123029
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"8abd35b08a5263a1d07d7cee767da273",
+    "wof:geomhash":"115b363def4249b64b5c9bd3716942c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404331119,
-    "wof:lastmodified":1669903005,
+    "wof:lastmodified":1684352242,
     "wof:name":"Lli\u00e7\u00e0 d'Amunt",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":15469,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

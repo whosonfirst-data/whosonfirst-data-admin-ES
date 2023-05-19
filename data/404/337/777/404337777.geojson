@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25076,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25076",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cogul, El",
+    "eurostat:nuts_2021_id":"25076",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25076",
+    "eurostat:population":151,
+    "eurostat:population_year":2020,
     "geom:area":0.001883,
-    "geom:area_square_m":17449368.619267,
+    "geom:area_square_m":17449368.619268,
     "geom:bbox":"0.662200494371,41.4238455794,0.723750415694,41.4795438076",
     "geom:latitude":41.457152,
     "geom:longitude":0.692881,
@@ -112,6 +124,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -120,7 +134,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25076",
         "esp-icgc:la_lc":"025076",
+        "eurostat:nuts_2021_id":"25076",
         "gn:id":6358830,
         "gp:id":12693975,
         "qs_pg:id":1190994
@@ -130,7 +146,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"9b4483d1680c81d750aeb22f6c926317",
+    "wof:geomhash":"d6e85fc0570e4c497778ff743292c854",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404337777,
-    "wof:lastmodified":1582361563,
+    "wof:lastmodified":1684352359,
     "wof:name":"El Cogul",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":151,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

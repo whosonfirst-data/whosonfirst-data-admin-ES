@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_11010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bornos",
+    "eurostat:nuts_2021_id":"11010",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES612",
+    "eurostat:nuts_2021_level_lau":"11010",
+    "eurostat:population":7654,
+    "eurostat:population_year":2020,
     "geom:area":0.005487,
-    "geom:area_square_m":54294056.715177,
+    "geom:area_square_m":54294056.715176,
     "geom:bbox":"-5.76392454,36.80310236,-5.66272884,36.90345007",
     "geom:latitude":36.849432,
     "geom:longitude":-5.713129,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_11010",
+        "eurostat:nuts_2021_id":"11010",
         "gn:id":6356925,
         "gp:id":12688737,
         "qs_pg:id":44890
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c202a717c8f38b95461f1b2809c9a096",
+    "wof:geomhash":"c69e492f744085bdd732b812d352ae33",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404333029,
-    "wof:lastmodified":1582361777,
+    "wof:lastmodified":1684352273,
     "wof:name":"Bornos",
     "wof:parent_id":85682679,
     "wof:placetype":"localadmin",
+    "wof:population":7654,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

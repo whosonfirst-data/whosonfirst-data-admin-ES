@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campanario",
+    "eurostat:nuts_2021_id":"06028",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06028",
+    "eurostat:population":4854,
+    "eurostat:population_year":2020,
     "geom:area":0.026712,
-    "geom:area_square_m":257128034.680228,
+    "geom:area_square_m":257128034.680223,
     "geom:bbox":"-5.79402136,38.7808596,-5.48203388,38.99070557",
     "geom:latitude":38.880305,
     "geom:longitude":-5.599168,
@@ -45,6 +57,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -53,6 +67,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06028",
+        "eurostat:nuts_2021_id":"06028",
         "gn:id":6355893,
         "gp:id":12694347,
         "qs_pg:id":248543
@@ -61,7 +77,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"250759069fa339abff47ae8b8862d535",
+    "wof:geomhash":"4a1d5adf611b563ce650d068a982d128",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
         }
     ],
     "wof:id":404330419,
-    "wof:lastmodified":1582361535,
+    "wof:lastmodified":1684352223,
     "wof:name":"Campanario",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":4854,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

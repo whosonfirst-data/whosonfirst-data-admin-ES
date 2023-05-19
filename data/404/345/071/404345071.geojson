@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46121",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Estubeny",
+    "eurostat:nuts_2021_id":"46121",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46121",
+    "eurostat:population":125,
+    "eurostat:population_year":2020,
     "geom:area":0.000668,
-    "geom:area_square_m":6413400.408539,
+    "geom:area_square_m":6413400.40854,
     "geom:bbox":"-0.63312962,39.00186463,-0.59586391,39.03038443",
     "geom:latitude":39.0172,
     "geom:longitude":-0.616878,
@@ -87,6 +99,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -94,9 +108,12 @@
         404227381
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_46121",
+        "eurostat:nuts_2021_id":"46121"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"57c07a270fe15f9f954c92312f5d27ed",
+    "wof:geomhash":"0728bf4f94139c3a040821b3d8757057",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +124,12 @@
         }
     ],
     "wof:id":404345071,
-    "wof:lastmodified":1566591002,
+    "wof:lastmodified":1684352482,
     "wof:name":"Estubeny",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":125,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

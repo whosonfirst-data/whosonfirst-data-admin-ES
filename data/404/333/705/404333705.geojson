@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_14029",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fuente Obejuna",
+    "eurostat:nuts_2021_id":"14029",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES613",
+    "eurostat:nuts_2021_level_lau":"14029",
+    "eurostat:population":4501,
+    "eurostat:population_year":2020,
     "geom:area":0.060881,
-    "geom:area_square_m":591071101.427282,
+    "geom:area_square_m":591071101.427274,
     "geom:bbox":"-5.58511952,38.11857432,-5.26760222,38.46020139",
     "geom:latitude":38.264787,
     "geom:longitude":-5.427881,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_14029",
+        "eurostat:nuts_2021_id":"14029",
         "gn:id":6357224,
         "gp:id":12688800,
         "qs_pg:id":1164432
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c02b83613aa4553e15e93fb06d76fe52",
+    "wof:geomhash":"a0d61bb1f2b50ed75f11080f28434706",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404333705,
-    "wof:lastmodified":1582361772,
+    "wof:lastmodified":1684352283,
     "wof:name":"Fuente Obejuna",
     "wof:parent_id":85682697,
     "wof:placetype":"localadmin",
+    "wof:population":4501,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

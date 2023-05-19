@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42183",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tejado",
+    "eurostat:nuts_2021_id":"42183",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42183",
+    "eurostat:population":101,
+    "eurostat:population_year":2020,
     "geom:area":0.008417,
-    "geom:area_square_m":77855884.584231,
+    "geom:area_square_m":77855884.584229,
     "geom:bbox":"-2.36742126,41.52979432,-2.22552595,41.62834066",
     "geom:latitude":41.579284,
     "geom:longitude":-2.301756,
@@ -174,6 +186,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -182,6 +196,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42183",
+        "eurostat:nuts_2021_id":"42183",
         "gn:id":6361212,
         "gp:id":12692871,
         "qs_pg:id":259245
@@ -190,7 +206,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7bf093472e05e589a700e83022f1916a",
+    "wof:geomhash":"16fca69650f4224f962bfe45550add66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -201,10 +217,12 @@
         }
     ],
     "wof:id":404343323,
-    "wof:lastmodified":1582361875,
+    "wof:lastmodified":1684352450,
     "wof:name":"Tejado",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":101,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

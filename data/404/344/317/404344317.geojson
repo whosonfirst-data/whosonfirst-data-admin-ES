@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44257",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villar del Cobo",
+    "eurostat:nuts_2021_id":"44257",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44257",
+    "eurostat:population":160,
+    "eurostat:population_year":2020,
     "geom:area":0.005742,
-    "geom:area_square_m":54069787.769826,
+    "geom:area_square_m":54069787.769825,
     "geom:bbox":"-1.72539734,40.33416782,-1.61272888,40.45393096",
     "geom:latitude":40.396245,
     "geom:longitude":-1.67484,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44257",
+        "eurostat:nuts_2021_id":"44257",
         "gn:id":6361651,
         "gp:id":12689823,
         "qs_pg:id":45495
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"67a8651da7176002cdb0e77b59fa406b",
+    "wof:geomhash":"bca3a043eb00496065bcfba8bfe6db24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404344317,
-    "wof:lastmodified":1582361859,
+    "wof:lastmodified":1684352472,
     "wof:name":"Villar Del Cobo",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":160,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

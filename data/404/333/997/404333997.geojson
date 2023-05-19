@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15084",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tordoia",
+    "eurostat:nuts_2021_id":"15084",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15084",
+    "eurostat:population":3259,
+    "eurostat:population_year":2020,
     "geom:area":0.013776,
-    "geom:area_square_m":124403621.844409,
+    "geom:area_square_m":124403621.844411,
     "geom:bbox":"-8.69764434,43.02095037,-8.44435642,43.1532912",
     "geom:latitude":43.0881,
     "geom:longitude":-8.56056,
@@ -111,6 +123,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -118,9 +132,12 @@
         404227385
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_15084",
+        "eurostat:nuts_2021_id":"15084"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"7221c3d1e281d32861aa5e98874d5f63",
+    "wof:geomhash":"0f29063b12d2e29b12151c38c531f99b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +148,12 @@
         }
     ],
     "wof:id":404333997,
-    "wof:lastmodified":1566590758,
+    "wof:lastmodified":1684352291,
     "wof:name":"Tordoia",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":3259,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04086",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sorbas",
+    "eurostat:nuts_2021_id":"04086",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04086",
+    "eurostat:population":2436,
+    "eurostat:population_year":2020,
     "geom:area":0.025256,
     "geom:area_square_m":249077454.072828,
     "geom:bbox":"-2.19942742,36.9797977,-1.98913771,37.21724315",
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_04086",
+        "eurostat:nuts_2021_id":"04086",
         "gn:id":6355598,
         "gp:id":12688708,
         "qs_pg:id":1297405
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"729ab3a75dc38537cc298a21906fdf90",
+    "wof:geomhash":"5e8a669beb4aef374d4a7872dfbe1e92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404329753,
-    "wof:lastmodified":1582361788,
+    "wof:lastmodified":1684352215,
     "wof:name":"Sorbas",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":2436,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

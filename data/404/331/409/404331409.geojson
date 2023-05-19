@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8238,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08238",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Quirze del Vall\u00e8s",
+    "eurostat:nuts_2021_id":"08238",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08238",
+    "eurostat:population":20195,
+    "eurostat:population_year":2020,
     "geom:area":0.001521,
-    "geom:area_square_m":14080267.153001,
+    "geom:area_square_m":14080289.530418,
     "geom:bbox":"2.03189,41.506599,2.099144,41.543048",
     "geom:latitude":41.524942,
     "geom:longitude":2.069732,
@@ -65,6 +77,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -73,7 +87,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08238",
         "esp-icgc:la_lc":"08238",
+        "eurostat:nuts_2021_id":"08238",
         "gn:id":6356259,
         "gp:id":12693614,
         "qs_pg:id":1295741
@@ -83,7 +99,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"1830313b269a79cfbf045c1ba8a25bb3",
+    "wof:geomhash":"9b747d9c24951d550fdf49b4c5b99870",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,10 +110,12 @@
         }
     ],
     "wof:id":404331409,
-    "wof:lastmodified":1669903002,
+    "wof:lastmodified":1684352250,
     "wof:name":"Sant Quirze del Vall\u00e8s",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":20195,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

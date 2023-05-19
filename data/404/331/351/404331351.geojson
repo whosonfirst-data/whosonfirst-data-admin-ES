@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8212,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08212",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Feliu Sasserra",
+    "eurostat:nuts_2021_id":"08212",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08212",
+    "eurostat:population":605,
+    "eurostat:population_year":2020,
     "geom:area":0.002506,
-    "geom:area_square_m":23052635.354035,
+    "geom:area_square_m":23052582.967018,
     "geom:bbox":"1.97068,41.899509,2.047987,41.970397",
     "geom:latitude":41.938522,
     "geom:longitude":2.007373,
@@ -130,6 +142,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -138,7 +152,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08212",
         "esp-icgc:la_lc":"08212",
+        "eurostat:nuts_2021_id":"08212",
         "gn:id":6356234,
         "gp:id":12693587,
         "qs_pg:id":955116
@@ -148,7 +164,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"e25ca041bc60902c42e98a2d4dc0da23",
+    "wof:geomhash":"b4d4952e9c590e218873938436806ea4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,10 +175,12 @@
         }
     ],
     "wof:id":404331351,
-    "wof:lastmodified":1669903007,
+    "wof:lastmodified":1684352249,
     "wof:name":"Sant Feliu Sasserra",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":605,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

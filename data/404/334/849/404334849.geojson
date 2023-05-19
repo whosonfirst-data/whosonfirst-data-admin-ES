@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17142,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17142",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Quart",
+    "eurostat:nuts_2021_id":"17142",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17142",
+    "eurostat:population":3798,
+    "eurostat:population_year":2020,
     "geom:area":0.004141,
-    "geom:area_square_m":38081926.243349,
+    "geom:area_square_m":38081881.661324,
     "geom:bbox":"2.819594,41.928753,2.949072,41.984539",
     "geom:latitude":41.95318,
     "geom:longitude":2.887118,
@@ -103,6 +115,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -111,7 +125,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17142",
         "esp-icgc:la_lc":"017142",
+        "eurostat:nuts_2021_id":"17142",
         "gn:id":6534109,
         "gp:id":12693817,
         "qs_pg:id":1315417
@@ -121,7 +137,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"97c4bd779b9c1086efe137eba9b4f333",
+    "wof:geomhash":"bb8d9ede9b38021a983693db1b9f8bcd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404334849,
-    "wof:lastmodified":1669903051,
+    "wof:lastmodified":1684352312,
     "wof:name":"Quart",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":3798,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

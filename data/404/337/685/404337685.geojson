@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25032,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ars\u00e8guel",
+    "eurostat:nuts_2021_id":"25032",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25032",
+    "eurostat:population":81,
+    "eurostat:population_year":2020,
     "geom:area":0.001147,
-    "geom:area_square_m":10482573.476008,
+    "geom:area_square_m":10482710.224201,
     "geom:bbox":"1.557268,42.33233,1.616638,42.369136",
     "geom:latitude":42.35188,
     "geom:longitude":1.585262,
@@ -118,6 +130,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -126,7 +140,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25032",
         "esp-icgc:la_lc":"025032",
+        "eurostat:nuts_2021_id":"25032",
         "gn:id":6358789,
         "gp:id":12693934,
         "qs_pg:id":290496
@@ -136,7 +152,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bc1f6bce5ac5cfc2f8f5eeb17b3a1400",
+    "wof:geomhash":"82f8a2a363e2bf7131bcfed323c00581",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404337685,
-    "wof:lastmodified":1669903027,
+    "wof:lastmodified":1684352356,
     "wof:name":"Ars\u00e8guel",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":81,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

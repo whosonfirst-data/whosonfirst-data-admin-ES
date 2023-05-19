@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47068",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fuente-Olmedo",
+    "eurostat:nuts_2021_id":"47068",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47068",
+    "eurostat:population":34,
+    "eurostat:population_year":2020,
     "geom:area":0.001462,
     "geom:area_square_m":13591653.28753,
     "geom:bbox":"-4.66954824,41.22411288,-4.61252941,41.27271343",
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_47068",
+        "eurostat:nuts_2021_id":"47068",
         "gn:id":6362196,
         "gp:id":12692970,
         "qs_pg:id":47002
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"691eaf78a0c8fe83679b1fcbd83bd9c9",
+    "wof:geomhash":"ab0dfbd24efbd5f534438e954b710fd6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404345551,
-    "wof:lastmodified":1582361825,
+    "wof:lastmodified":1684352487,
     "wof:name":"Fuente-Olmedo",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":34,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chillar\u00f3n del Rey",
+    "eurostat:nuts_2021_id":"19106",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19106",
+    "eurostat:population":90,
+    "eurostat:population_year":2020,
     "geom:area":0.001839,
     "geom:area_square_m":17272138.593981,
     "geom:bbox":"-2.73139038,40.56972267,-2.66130878,40.61997622",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19106",
+        "eurostat:nuts_2021_id":"19106",
         "gn:id":6357889,
         "gp:id":12690705,
         "qs_pg:id":1196435
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e9343ba943c4a20f3f2dbcc58525c2ca",
+    "wof:geomhash":"14f138cd9bf920d95ed5eb7f2138b39b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404335619,
-    "wof:lastmodified":1582361697,
+    "wof:lastmodified":1684352328,
     "wof:name":"Chillar\u00f3n Del Rey",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":90,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

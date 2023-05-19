@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50083",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cinco Olivas",
+    "eurostat:nuts_2021_id":"50083",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50083",
+    "eurostat:population":102,
+    "eurostat:population_year":2020,
     "geom:area":0.000242,
-    "geom:area_square_m":2248223.015471,
+    "geom:area_square_m":2248223.01547,
     "geom:bbox":"-0.37722706,41.3285942,-0.36105858,41.350767",
     "geom:latitude":41.340788,
     "geom:longitude":-0.368676,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50083",
+        "eurostat:nuts_2021_id":"50083",
         "gn:id":6362776,
         "gp:id":12689918,
         "qs_pg:id":496926
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"abd545ac9786f5bcc8ed8ee2bbf69800",
+    "wof:geomhash":"3207e38be41f0bdfe1c7a657d11793f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404346899,
-    "wof:lastmodified":1582361619,
+    "wof:lastmodified":1684352504,
     "wof:name":"Cinco Olivas",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":102,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Corcubi\u00f3n",
+    "eurostat:nuts_2021_id":"15028",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15028",
+    "eurostat:population":1590,
+    "eurostat:population_year":2020,
     "geom:area":0.000708,
-    "geom:area_square_m":6409206.421188,
+    "geom:area_square_m":6409206.421186,
     "geom:bbox":"-9.21793474,42.91531411,-9.18272888,42.95117181",
     "geom:latitude":42.931523,
     "geom:longitude":-9.198303,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_15028",
+        "eurostat:nuts_2021_id":"15028",
         "gn:id":6357298,
         "gp:id":12694730,
         "qs_pg:id":48099
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0e90f2a93adc1c377ed6b542156acfe2",
+    "wof:geomhash":"456e8a1c995528497fbd17e9b6a5ec30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404333871,
-    "wof:lastmodified":1582361778,
+    "wof:lastmodified":1684352287,
     "wof:name":"Corcubi\u00f3n",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":1590,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

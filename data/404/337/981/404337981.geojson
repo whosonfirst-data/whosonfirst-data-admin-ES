@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25185,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25185",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ribera d'Urgellet",
+    "eurostat:nuts_2021_id":"25185",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25185",
+    "eurostat:population":932,
+    "eurostat:population_year":2020,
     "geom:area":0.011668,
-    "geom:area_square_m":106723213.124783,
+    "geom:area_square_m":106723176.015846,
     "geom:bbox":"1.289917,42.224012,1.480232,42.347892",
     "geom:latitude":42.290833,
     "geom:longitude":1.398062,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25185",
         "esp-icgc:la_lc":"025185",
+        "eurostat:nuts_2021_id":"25185",
         "gp:id":12694073,
         "qs_pg:id":1264517
     },
@@ -66,7 +82,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"12ccd314ee7717e19814a28c2b8c7790",
+    "wof:geomhash":"2c09b3e1838872bd5ed8e0c2682ff5c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,10 +93,12 @@
         }
     ],
     "wof:id":404337981,
-    "wof:lastmodified":1669903030,
+    "wof:lastmodified":1684352367,
     "wof:name":"Ribera d'Urgellet",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":932,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

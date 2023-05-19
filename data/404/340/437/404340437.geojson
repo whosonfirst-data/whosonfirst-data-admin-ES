@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_33070",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tapia de Casariego",
+    "eurostat:nuts_2021_id":"33070",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES12",
+    "eurostat:nuts_2021_level_3":"ES120",
+    "eurostat:nuts_2021_level_lau":"33070",
+    "eurostat:population":3726,
+    "eurostat:population_year":2020,
     "geom:area":0.007345,
-    "geom:area_square_m":65854025.609879,
+    "geom:area_square_m":65854025.609876,
     "geom:bbox":"-6.99639327,43.46246376,-6.87263363,43.57788734",
     "geom:latitude":43.525418,
     "geom:longitude":-6.922482,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_33070",
+        "eurostat:nuts_2021_id":"33070",
         "gn:id":6359971,
         "gp:id":12688512,
         "qs_pg:id":1123018
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"887225d90f5c1099616446d10e0142ec",
+    "wof:geomhash":"65627534c4dab500ba5522f96558ab0b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404340437,
-    "wof:lastmodified":1582361651,
+    "wof:lastmodified":1684352408,
     "wof:name":"Tapia De Casariego",
     "wof:parent_id":85682805,
     "wof:placetype":"localadmin",
+    "wof:population":3726,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40215",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valtiendas",
+    "eurostat:nuts_2021_id":"40215",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40215",
+    "eurostat:population":82,
+    "eurostat:population_year":2020,
     "geom:area":0.004167,
-    "geom:area_square_m":38593857.34762,
+    "geom:area_square_m":38593857.347621,
     "geom:bbox":"-3.97240505,41.44944872,-3.84227652,41.53474692",
     "geom:latitude":41.490497,
     "geom:longitude":-3.901498,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_40215",
+        "eurostat:nuts_2021_id":"40215",
         "gn:id":6360934,
         "gp:id":12692708,
         "qs_pg:id":1025475
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"110855b37fc9b3b91936ab1803621cf7",
+    "wof:geomhash":"8f861ffa4b21c07d79efc70ad94d30a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404342695,
-    "wof:lastmodified":1582361812,
+    "wof:lastmodified":1684352442,
     "wof:name":"Valtiendas",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":82,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

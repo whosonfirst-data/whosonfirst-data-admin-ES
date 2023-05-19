@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16130",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montalbo",
+    "eurostat:nuts_2021_id":"16130",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16130",
+    "eurostat:population":655,
+    "eurostat:population_year":2020,
     "geom:area":0.007786,
-    "geom:area_square_m":73894132.20266,
+    "geom:area_square_m":73894132.202661,
     "geom:bbox":"-2.72589295,39.81077869,-2.60590986,39.91433421",
     "geom:latitude":39.864698,
     "geom:longitude":-2.656309,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16130",
+        "eurostat:nuts_2021_id":"16130",
         "gn:id":6357475,
         "gp:id":12690515,
         "qs_pg:id":394299
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fb3eb7cee9d00ab312e8899ae0165261",
+    "wof:geomhash":"594f1dafe3655822b4b7e6caf1115c40",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404334277,
-    "wof:lastmodified":1582361741,
+    "wof:lastmodified":1684352295,
     "wof:name":"Montalbo",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":655,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

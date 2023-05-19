@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_33003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Amieva",
+    "eurostat:nuts_2021_id":"33003",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES12",
+    "eurostat:nuts_2021_level_3":"ES120",
+    "eurostat:nuts_2021_level_lau":"33003",
+    "eurostat:population":628,
+    "eurostat:population_year":2020,
     "geom:area":0.012624,
     "geom:area_square_m":113708497.631343,
     "geom:bbox":"-5.20906855,43.17309652,-4.97007747,43.3073153",
@@ -120,6 +132,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -127,9 +141,12 @@
         404227365
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_33003",
+        "eurostat:nuts_2021_id":"33003"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"68744e9391828fa55bfbad679f13df3f",
+    "wof:geomhash":"324121ef24800f1ed387026038f2eb0e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +157,12 @@
         }
     ],
     "wof:id":404340285,
-    "wof:lastmodified":1566590423,
+    "wof:lastmodified":1684352404,
     "wof:name":"Amieva",
     "wof:parent_id":85682805,
     "wof:placetype":"localadmin",
+    "wof:population":628,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

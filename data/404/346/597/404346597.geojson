@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49220",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torre del Valle, La",
+    "eurostat:nuts_2021_id":"49220",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49220",
+    "eurostat:population":148,
+    "eurostat:population_year":2020,
     "geom:area":0.001793,
-    "geom:area_square_m":16450052.621233,
+    "geom:area_square_m":16450052.621232,
     "geom:bbox":"-5.75252908,42.07427304,-5.66405596,42.11162168",
     "geom:latitude":42.093276,
     "geom:longitude":-5.705775,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_49220",
+        "eurostat:nuts_2021_id":"49220",
         "gn:id":6362643,
         "qs_pg:id":621962
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2914cf5ff0059ccaf319ffa97a378676",
+    "wof:geomhash":"2a012974842ba648167781501331d5f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404346597,
-    "wof:lastmodified":1582361615,
+    "wof:lastmodified":1684352501,
     "wof:name":"La Torre Del Valle",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":148,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

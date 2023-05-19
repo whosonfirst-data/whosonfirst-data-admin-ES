@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10055",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casas del Monte",
+    "eurostat:nuts_2021_id":"10055",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10055",
+    "eurostat:population":811,
+    "eurostat:population_year":2020,
     "geom:area":0.00292,
-    "geom:area_square_m":27582152.323514,
+    "geom:area_square_m":27582152.323512,
     "geom:bbox":"-6.01074744,40.16818982,-5.90162805,40.22413461",
     "geom:latitude":40.196361,
     "geom:longitude":-5.95288,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10055",
+        "eurostat:nuts_2021_id":"10055",
         "gn:id":6356752,
         "gp:id":12694539,
         "qs_pg:id":201872
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fc4980b5ac98708c732f7ef3849afc33",
+    "wof:geomhash":"1546a291842a005dbd26f8fc055baee0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332633,
-    "wof:lastmodified":1582361680,
+    "wof:lastmodified":1684352267,
     "wof:name":"Casas Del Monte",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":811,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05154",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Navadijos",
+    "eurostat:nuts_2021_id":"05154",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05154",
+    "eurostat:population":31,
+    "eurostat:population_year":2020,
     "geom:area":0.002107,
-    "geom:area_square_m":19831686.928021,
+    "geom:area_square_m":19831686.92802,
     "geom:bbox":"-5.12685623,40.40107689,-5.0507538,40.44378641",
     "geom:latitude":40.420681,
     "geom:longitude":-5.089144,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05154",
+        "eurostat:nuts_2021_id":"05154",
         "gn:id":6355754,
         "gp:id":12691263,
         "qs_pg:id":46165
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fc1f64dabc508ad62b4b6f71b4e38621",
+    "wof:geomhash":"f0e55e31ac50890ee5c6cbf7d5c03804",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404330105,
-    "wof:lastmodified":1582361519,
+    "wof:lastmodified":1684352219,
     "wof:name":"Navadijos",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":31,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

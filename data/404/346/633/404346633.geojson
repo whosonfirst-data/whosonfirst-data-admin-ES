@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49236",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vidayanes",
+    "eurostat:nuts_2021_id":"49236",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49236",
+    "eurostat:population":85,
+    "eurostat:population_year":2020,
     "geom:area":0.001356,
     "geom:area_square_m":12473860.861647,
     "geom:bbox":"-5.61584202,41.89849953,-5.55325595,41.93817376",
@@ -96,6 +108,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -103,9 +117,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_49236",
+        "eurostat:nuts_2021_id":"49236"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"3074a323e1e3d0e4c663cb7f7b8f735b",
+    "wof:geomhash":"6373e4002c65134d97ae2322a0071393",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +133,12 @@
         }
     ],
     "wof:id":404346633,
-    "wof:lastmodified":1566590237,
+    "wof:lastmodified":1684352501,
     "wof:name":"Vidayanes",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":85,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

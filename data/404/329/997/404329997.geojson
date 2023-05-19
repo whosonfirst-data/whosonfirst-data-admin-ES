@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05102",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hoyo de Pinares, El",
+    "eurostat:nuts_2021_id":"05102",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05102",
+    "eurostat:population":2129,
+    "eurostat:population_year":2020,
     "geom:area":0.008576,
-    "geom:area_square_m":80622882.025138,
+    "geom:area_square_m":80622882.025137,
     "geom:bbox":"-4.50037342,40.45821795,-4.31567885,40.54262573",
     "geom:latitude":40.508442,
     "geom:longitude":-4.397727,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05102",
+        "eurostat:nuts_2021_id":"05102",
         "gn:id":6355706,
         "qs_pg:id":621539
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"190be7bfb71519db32e5389d1440db15",
+    "wof:geomhash":"5f65385e9184960263b3e37e8f2a9617",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404329997,
-    "wof:lastmodified":1582361788,
+    "wof:lastmodified":1684352218,
     "wof:name":"El Hoyo De Pinares",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":2129,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09414",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valle de Valdelaguna",
+    "eurostat:nuts_2021_id":"09414",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09414",
+    "eurostat:population":186,
+    "eurostat:population_year":2020,
     "geom:area":0.010084,
     "geom:area_square_m":92525244.806118,
     "geom:bbox":"-3.22924958,42.02361729,-3.05411278,42.18321989",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_09414",
+        "eurostat:nuts_2021_id":"09414"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"fe18c13ce102f70a4c7313c998c10a54",
+    "wof:geomhash":"2293c38bbca8a0618c813d8cc406b810",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404332375,
-    "wof:lastmodified":1566590540,
+    "wof:lastmodified":1684352263,
     "wof:name":"Valle De Valdelaguna",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":186,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

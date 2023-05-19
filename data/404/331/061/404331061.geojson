@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8081,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08081",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fogars de Montcl\u00fas",
+    "eurostat:nuts_2021_id":"08081",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08081",
+    "eurostat:population":475,
+    "eurostat:population_year":2020,
     "geom:area":0.004351,
-    "geom:area_square_m":40137871.963519,
+    "geom:area_square_m":40137878.510217,
     "geom:bbox":"2.397515,41.703825,2.482158,41.7906",
     "geom:latitude":41.753934,
     "geom:longitude":2.439214,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08081",
         "esp-icgc:la_lc":"08081",
+        "eurostat:nuts_2021_id":"08081",
         "gn:id":6356113,
         "gp:id":12693461,
         "qs_pg:id":1102806
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"398cf160b61f378dfb5fe409339fe5ef",
+    "wof:geomhash":"3906a80a15ccadbfe8b6a832c1ad448f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404331061,
-    "wof:lastmodified":1669903011,
+    "wof:lastmodified":1684352240,
     "wof:name":"Fogars de Montcl\u00fas",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":475,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

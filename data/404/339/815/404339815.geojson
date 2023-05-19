@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31159",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lumbier",
+    "eurostat:nuts_2021_id":"31159",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31159",
+    "eurostat:population":1299,
+    "eurostat:population_year":2020,
     "geom:area":0.006301,
-    "geom:area_square_m":57308475.015529,
+    "geom:area_square_m":57308475.015527,
     "geom:bbox":"-1.41887712,42.6131207,-1.17121911,42.68802837",
     "geom:latitude":42.647929,
     "geom:longitude":-1.290003,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31159",
+        "eurostat:nuts_2021_id":"31159",
         "gn:id":6359707,
         "gp:id":12688336,
         "qs_pg:id":1310986
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"46c6f7a6790cc855f45086471526b385",
+    "wof:geomhash":"3fabef715ab27dbafc5e6ec70a49bba6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404339815,
-    "wof:lastmodified":1582361592,
+    "wof:lastmodified":1684352399,
     "wof:name":"Lumbier",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":1299,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

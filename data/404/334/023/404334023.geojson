@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Acebr\u00f3n, El",
+    "eurostat:nuts_2021_id":"16002",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16002",
+    "eurostat:population":231,
+    "eurostat:population_year":2020,
     "geom:area":0.002329,
     "geom:area_square_m":22086560.975862,
     "geom:bbox":"-3.02175562,39.85250238,-2.94743925,39.95772753",
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16002",
+        "eurostat:nuts_2021_id":"16002",
         "gn:id":2518765,
         "gp:id":12690399,
         "qs_pg:id":496961
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a8c6fcba0e0c02d13d60f8da4d934ee0",
+    "wof:geomhash":"94ea7e5f5122ba1995b9bc51ad7f753c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404334023,
-    "wof:lastmodified":1582361720,
+    "wof:lastmodified":1684352292,
     "wof:name":"El Acebr\u00f3n",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":231,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

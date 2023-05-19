@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_02077",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villa de Ves",
+    "eurostat:nuts_2021_id":"02077",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES421",
+    "eurostat:nuts_2021_level_lau":"02077",
+    "eurostat:population":61,
+    "eurostat:population_year":2020,
     "geom:area":0.005999,
-    "geom:area_square_m":57489065.17513,
+    "geom:area_square_m":57489065.175133,
     "geom:bbox":"-1.30093936,39.15162504,-1.18918223,39.24424973",
     "geom:latitude":39.194343,
     "geom:longitude":-1.248497,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_02077",
+        "eurostat:nuts_2021_id":"02077",
         "gn:id":6355367,
         "gp:id":12690288,
         "qs_pg:id":243090
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a6ea6723327948f29806b1256ecb52da",
+    "wof:geomhash":"a23ccdade50046a08f1c45651ac4df95",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404329227,
-    "wof:lastmodified":1582361789,
+    "wof:lastmodified":1684352206,
     "wof:name":"Villa De Ves",
     "wof:parent_id":85682621,
     "wof:placetype":"localadmin",
+    "wof:population":61,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

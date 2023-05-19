@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_23021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carboneros",
+    "eurostat:nuts_2021_id":"23021",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES616",
+    "eurostat:nuts_2021_level_lau":"23021",
+    "eurostat:population":591,
+    "eurostat:population_year":2020,
     "geom:area":0.006029,
-    "geom:area_square_m":58570651.756648,
+    "geom:area_square_m":58570651.756647,
     "geom:bbox":"-3.69581155,38.15348318,-3.56351859,38.27587873",
     "geom:latitude":38.217113,
     "geom:longitude":-3.629679,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_23021",
+        "eurostat:nuts_2021_id":"23021",
         "gn:id":6358475,
         "gp:id":12689114,
         "qs_pg:id":45112
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"60c6c9401a64c3f5ca9dea16059cd2f3",
+    "wof:geomhash":"efe9b2f0e9ed52da755479a3a63f9a68",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404336959,
-    "wof:lastmodified":1582361469,
+    "wof:lastmodified":1684352346,
     "wof:name":"Carboneros",
     "wof:parent_id":85682757,
     "wof:placetype":"localadmin",
+    "wof:population":591,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28169",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Venturada",
+    "eurostat:nuts_2021_id":"28169",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28169",
+    "eurostat:population":2241,
+    "eurostat:population_year":2020,
     "geom:area":0.001092,
-    "geom:area_square_m":10218543.907852,
+    "geom:area_square_m":10218543.907851,
     "geom:bbox":"-3.65097301,40.78197531,-3.59348704,40.81253292",
     "geom:latitude":40.797235,
     "geom:longitude":-3.622334,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28169",
+        "eurostat:nuts_2021_id":"28169",
         "gn:id":6359388,
         "gp:id":12688110,
         "qs_pg:id":1009367
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fef8af11b4f9f2d5389698a02a79a9bc",
+    "wof:geomhash":"f5d2126ed172fd2e6e4c48a0169965ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404339053,
-    "wof:lastmodified":1582361585,
+    "wof:lastmodified":1684352387,
     "wof:name":"Venturada",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":2241,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

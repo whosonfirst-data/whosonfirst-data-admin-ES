@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_26158",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tudelilla",
+    "eurostat:nuts_2021_id":"26158",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES23",
+    "eurostat:nuts_2021_level_3":"ES230",
+    "eurostat:nuts_2021_level_lau":"26158",
+    "eurostat:population":341,
+    "eurostat:population_year":2020,
     "geom:area":0.002081,
     "geom:area_square_m":19035583.901816,
     "geom:bbox":"-2.15560098,42.26799197,-2.06760942,42.3195723",
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_26158",
+        "eurostat:nuts_2021_id":"26158",
         "gn:id":6359141,
         "gp:id":12687922,
         "qs_pg:id":953286
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f984bf353f997a9c356aa3885624bd46",
+    "wof:geomhash":"2274adf1edaefb2cbb36819b1c0b992a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404338481,
-    "wof:lastmodified":1582361448,
+    "wof:lastmodified":1684352376,
     "wof:name":"Tudelilla",
     "wof:parent_id":85682773,
     "wof:placetype":"localadmin",
+    "wof:population":341,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

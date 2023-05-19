@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8179,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08179",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rellinars",
+    "eurostat:nuts_2021_id":"08179",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08179",
+    "eurostat:population":809,
+    "eurostat:population_year":2020,
     "geom:area":0.001928,
-    "geom:area_square_m":17816507.496774,
+    "geom:area_square_m":17816507.496773,
     "geom:bbox":"1.88649789034,41.6190557401,1.95802264963,41.6660561564",
     "geom:latitude":41.643522,
     "geom:longitude":1.918623,
@@ -118,6 +130,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -126,7 +140,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08179",
         "esp-icgc:la_lc":"08179",
+        "eurostat:nuts_2021_id":"08179",
         "gn:id":6356204,
         "gp:id":12693559,
         "qs_pg:id":191247
@@ -136,7 +152,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a89c6326d0933e56629359c1f5fe369b",
+    "wof:geomhash":"3dff36ab4b33ae0ee041f9dae8f13d5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404331279,
-    "wof:lastmodified":1582361504,
+    "wof:lastmodified":1684352247,
     "wof:name":"Rellinars",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":809,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

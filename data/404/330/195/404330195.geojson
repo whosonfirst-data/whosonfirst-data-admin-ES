@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05194",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Riocabado",
+    "eurostat:nuts_2021_id":"05194",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05194",
+    "eurostat:population":137,
+    "eurostat:population_year":2020,
     "geom:area":0.002111,
-    "geom:area_square_m":19750520.169233,
+    "geom:area_square_m":19750520.169232,
     "geom:bbox":"-4.82513788,40.80454425,-4.77171402,40.878949",
     "geom:latitude":40.837355,
     "geom:longitude":-4.801431,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05194",
+        "eurostat:nuts_2021_id":"05194",
         "gn:id":6355794,
         "gp:id":12691303,
         "qs_pg:id":1025381
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"91144c858ca95d5287c623a676e525c1",
+    "wof:geomhash":"670a2f466fc37b11294affc5939e0c35",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404330195,
-    "wof:lastmodified":1582361519,
+    "wof:lastmodified":1684352220,
     "wof:name":"Riocabado",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":137,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

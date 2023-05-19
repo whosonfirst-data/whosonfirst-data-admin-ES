@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Coru\u00f1a, A",
+    "eurostat:nuts_2021_id":"15030",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15030",
+    "eurostat:population":247604,
+    "eurostat:population_year":2020,
     "geom:area":0.004281,
-    "geom:area_square_m":38497808.576473,
+    "geom:area_square_m":38497808.576468,
     "geom:bbox":"-8.46908416,43.301233,-8.37429406,43.38997258",
     "geom:latitude":43.346125,
     "geom:longitude":-8.422239,
@@ -283,6 +295,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -291,6 +305,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_15030",
+        "eurostat:nuts_2021_id":"15030",
         "gn:id":6357300,
         "gp:id":12694732,
         "qs_pg:id":201883
@@ -299,7 +315,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d3e2d39252125a4ae472e17ffd2b3f37",
+    "wof:geomhash":"a475b07ace88aa6a63869a223931e7ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -310,10 +326,12 @@
         }
     ],
     "wof:id":404333875,
-    "wof:lastmodified":1582361764,
+    "wof:lastmodified":1684352287,
     "wof:name":"A Coru\u00f1a",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":247604,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

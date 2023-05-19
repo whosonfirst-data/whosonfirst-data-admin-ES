@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8228,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08228",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Mart\u00ed Sesgueioles",
+    "eurostat:nuts_2021_id":"08228",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08228",
+    "eurostat:population":342,
+    "eurostat:population_year":2020,
     "geom:area":0.000418,
-    "geom:area_square_m":3859844.432064,
+    "geom:area_square_m":3859890.658194,
     "geom:bbox":"1.485189,41.695301,1.517955,41.713254",
     "geom:latitude":41.703423,
     "geom:longitude":1.503195,
@@ -127,6 +139,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -135,7 +149,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08228",
         "esp-icgc:la_lc":"08228",
+        "eurostat:nuts_2021_id":"08228",
         "gn:id":6356250,
         "gp:id":12693604,
         "qs_pg:id":1174166
@@ -145,7 +161,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e3397e146f88d0b29ad87c010497171a",
+    "wof:geomhash":"4a67c9a208dd7c0ee099e379a522c7f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404331387,
-    "wof:lastmodified":1669903013,
+    "wof:lastmodified":1684352250,
     "wof:name":"Sant Mart\u00ed Sesgueioles",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":342,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

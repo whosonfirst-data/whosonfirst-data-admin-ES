@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37216",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Navales",
+    "eurostat:nuts_2021_id":"37216",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37216",
+    "eurostat:population":317,
+    "eurostat:population_year":2020,
     "geom:area":0.001832,
-    "geom:area_square_m":17151563.582405,
+    "geom:area_square_m":17151563.582404,
     "geom:bbox":"-5.51054415,40.75196269,-5.44972961,40.80450059",
     "geom:latitude":40.779874,
     "geom:longitude":-5.477009,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37216",
+        "eurostat:nuts_2021_id":"37216",
         "gn:id":6360457,
         "gp:id":12692349,
         "qs_pg:id":46691
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"81340b0583ad1a08b49e3c558a579fe2",
+    "wof:geomhash":"23ee8a19c1be55309fa074acb98c5273",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404341553,
-    "wof:lastmodified":1582361635,
+    "wof:lastmodified":1684352426,
     "wof:name":"Navales",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":317,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

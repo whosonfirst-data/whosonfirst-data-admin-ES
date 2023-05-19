@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25161,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25161",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Conca de Dalt",
+    "eurostat:nuts_2021_id":"25161",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25161",
+    "eurostat:population":410,
+    "eurostat:population_year":2020,
     "geom:area":0.018077,
-    "geom:area_square_m":165479312.264987,
+    "geom:area_square_m":165479332.355791,
     "geom:bbox":"0.852452,42.179411,1.15837,42.305094",
     "geom:latitude":42.240677,
     "geom:longitude":1.009499,
@@ -48,6 +60,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -56,13 +70,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"025161"
+        "eg:gisco_id":"ES_25161",
+        "esp-icgc:la_lc":"025161",
+        "eurostat:nuts_2021_id":"25161"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b1e34f73335d900c17fdcf2149565cb9",
+    "wof:geomhash":"baceb2d327b144ea09a0487a13ae303b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,10 +89,12 @@
         }
     ],
     "wof:id":404337935,
-    "wof:lastmodified":1669903025,
+    "wof:lastmodified":1684352365,
     "wof:name":"Conca de Dalt",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":410,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43118,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43118",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pratdip",
+    "eurostat:nuts_2021_id":"43118",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43118",
+    "eurostat:population":726,
+    "eurostat:population_year":2020,
     "geom:area":0.003879,
-    "geom:area_square_m":36172678.543873,
+    "geom:area_square_m":36172678.543872,
     "geom:bbox":"0.832925412826,41.0250365434,0.922112282299,41.0871775095",
     "geom:latitude":41.054444,
     "geom:longitude":0.881083,
@@ -121,6 +133,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -129,7 +143,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43118",
         "esp-icgc:la_lc":"043118",
+        "eurostat:nuts_2021_id":"43118",
         "gn:id":6361360,
         "gp:id":12694255,
         "qs_pg:id":229978
@@ -139,7 +155,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bd93010745507107d5ed425020304f76",
+    "wof:geomhash":"a844eb4ee527472c3834211770fd82bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404343655,
-    "wof:lastmodified":1582361888,
+    "wof:lastmodified":1684352459,
     "wof:name":"Pratdip",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":726,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

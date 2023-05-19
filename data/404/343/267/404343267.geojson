@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42154",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Renieblas",
+    "eurostat:nuts_2021_id":"42154",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42154",
+    "eurostat:population":103,
+    "eurostat:population_year":2020,
     "geom:area":0.003925,
-    "geom:area_square_m":36183946.736094,
+    "geom:area_square_m":36183946.736092,
     "geom:bbox":"-2.40099904,41.75182003,-2.31847065,41.84526939",
     "geom:latitude":41.798905,
     "geom:longitude":-2.362867,
@@ -168,6 +180,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -176,6 +190,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42154",
+        "eurostat:nuts_2021_id":"42154",
         "gn:id":6361187,
         "gp:id":12692846,
         "qs_pg:id":1148932
@@ -184,7 +200,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"35ae7cb5343c9518e1266576e72a7661",
+    "wof:geomhash":"d3ed53bb36f92446daadee66f3683f9f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -195,10 +211,12 @@
         }
     ],
     "wof:id":404343267,
-    "wof:lastmodified":1582361872,
+    "wof:lastmodified":1684352449,
     "wof:name":"Renieblas",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":103,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

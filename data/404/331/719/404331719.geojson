@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09061",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caba\u00f1es de Esgueva",
+    "eurostat:nuts_2021_id":"09061",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09061",
+    "eurostat:population":160,
+    "eurostat:population_year":2020,
     "geom:area":0.00288,
-    "geom:area_square_m":26529346.121637,
+    "geom:area_square_m":26529346.121636,
     "geom:bbox":"-3.82494676,41.80219859,-3.76899938,41.86640731",
     "geom:latitude":41.835607,
     "geom:longitude":-3.794731,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09061",
+        "eurostat:nuts_2021_id":"09061",
         "gn:id":6356379,
         "gp:id":12691425,
         "qs_pg:id":265302
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4226e2079828afab6ff7afbc5e46c0dc",
+    "wof:geomhash":"198cedd2342c50658278c7db59b56dfa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404331719,
-    "wof:lastmodified":1582361513,
+    "wof:lastmodified":1684352257,
     "wof:name":"Caba\u00f1es De Esgueva",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":160,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

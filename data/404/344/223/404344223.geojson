@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44209",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Eulalia",
+    "eurostat:nuts_2021_id":"44209",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44209",
+    "eurostat:population":1050,
+    "eurostat:population_year":2020,
     "geom:area":0.008608,
-    "geom:area_square_m":80878524.800164,
+    "geom:area_square_m":80878524.800168,
     "geom:bbox":"-1.39068159,40.50224601,-1.1901043,40.58935659",
     "geom:latitude":40.552429,
     "geom:longitude":-1.313396,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44209",
+        "eurostat:nuts_2021_id":"44209",
         "gn:id":6361610,
         "gp:id":12689782,
         "qs_pg:id":345291
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cabd8f8495ae12496cb743ca4c8102c5",
+    "wof:geomhash":"e560d4a6c4ab017c6dfd7d7a2679a842",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404344223,
-    "wof:lastmodified":1582361854,
+    "wof:lastmodified":1684352471,
     "wof:name":"Santa Eulalia",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":1050,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

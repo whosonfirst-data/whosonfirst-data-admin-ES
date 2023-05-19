@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_21055",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Palos de la Frontera",
+    "eurostat:nuts_2021_id":"21055",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES615",
+    "eurostat:nuts_2021_level_lau":"21055",
+    "eurostat:population":11742,
+    "eurostat:population_year":2020,
     "geom:area":0.004975,
-    "geom:area_square_m":49001025.670725,
+    "geom:area_square_m":49001025.670728,
     "geom:bbox":"-6.94191864,37.08991566,-6.72953338,37.24969007",
     "geom:latitude":37.19394,
     "geom:longitude":-6.892656,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_21055",
+        "eurostat:nuts_2021_id":"21055",
         "gn:id":6358231,
         "gp:id":12689069,
         "qs_pg:id":905597
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ebece20d420fb61e135ea30d790c3041",
+    "wof:geomhash":"fddc791f646e77ff8136d98f6d43b483",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404336405,
-    "wof:lastmodified":1582361474,
+    "wof:lastmodified":1684352338,
     "wof:name":"Palos De La Frontera",
     "wof:parent_id":85682749,
     "wof:placetype":"localadmin",
+    "wof:population":11742,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

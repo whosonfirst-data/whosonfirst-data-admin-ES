@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49056",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cubillos",
+    "eurostat:nuts_2021_id":"49056",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49056",
+    "eurostat:population":300,
+    "eurostat:population_year":2020,
     "geom:area":0.002667,
-    "geom:area_square_m":24663021.655604,
+    "geom:area_square_m":24663021.655603,
     "geom:bbox":"-5.79392054,41.55860266,-5.71529999,41.62066163",
     "geom:latitude":41.587929,
     "geom:longitude":-5.757951,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_49056",
+        "eurostat:nuts_2021_id":"49056",
         "gn:id":6362500,
         "gp:id":12693179,
         "qs_pg:id":1095215
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fa39d870d06de6938f80077529550f83",
+    "wof:geomhash":"bcbedc1d97818fcff1a0bda47fcf2f9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404346273,
-    "wof:lastmodified":1582361609,
+    "wof:lastmodified":1684352497,
     "wof:name":"Cubillos",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":300,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

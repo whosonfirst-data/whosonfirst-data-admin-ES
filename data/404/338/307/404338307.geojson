@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_26075",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hormilla",
+    "eurostat:nuts_2021_id":"26075",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES23",
+    "eurostat:nuts_2021_level_3":"ES230",
+    "eurostat:nuts_2021_level_lau":"26075",
+    "eurostat:population":418,
+    "eurostat:population_year":2020,
     "geom:area":0.001735,
     "geom:area_square_m":15831710.316812,
     "geom:bbox":"-2.81142977,42.42207713,-2.75145846,42.47916017",
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_26075",
+        "eurostat:nuts_2021_id":"26075",
         "gn:id":6359065,
         "gp:id":12687846,
         "qs_pg:id":1164940
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6b154737f36610cf0078b8da432cc21a",
+    "wof:geomhash":"ea2fa4305c2b8937e44aedf72e0b145a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404338307,
-    "wof:lastmodified":1582361429,
+    "wof:lastmodified":1684352374,
     "wof:name":"Hormilla",
     "wof:parent_id":85682773,
     "wof:placetype":"localadmin",
+    "wof:population":418,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

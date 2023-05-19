@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12092",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Puebla de Arenoso",
+    "eurostat:nuts_2021_id":"12092",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12092",
+    "eurostat:population":152,
+    "eurostat:population_year":2020,
     "geom:area":0.004492,
     "geom:area_square_m":42484691.827041,
     "geom:bbox":"-0.62870277,40.06067731,-0.51225453,40.13723105",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12092",
+        "eurostat:nuts_2021_id":"12092",
         "gn:id":6357042,
         "gp:id":12695491,
         "qs_pg:id":1102931
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5962439acfb8ed4d69ca6ba910cf680b",
+    "wof:geomhash":"df6ec89e6683771dd7f803ab254b410d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404333293,
-    "wof:lastmodified":1582361767,
+    "wof:lastmodified":1684352277,
     "wof:name":"Puebla De Arenoso",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":152,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

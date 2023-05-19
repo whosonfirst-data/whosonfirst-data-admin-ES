@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24070",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fabero",
+    "eurostat:nuts_2021_id":"24070",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24070",
+    "eurostat:population":4386,
+    "eurostat:population_year":2020,
     "geom:area":0.005992,
-    "geom:area_square_m":54380926.880603,
+    "geom:area_square_m":54380926.880601,
     "geom:bbox":"-6.68584952,42.73848952,-6.55523615,42.83090478",
     "geom:latitude":42.779843,
     "geom:longitude":-6.617801,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_24070",
+        "eurostat:nuts_2021_id":"24070",
         "gn:id":6358616,
         "gp:id":12691812,
         "qs_pg:id":886935
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"69f3a0a7112ab03bb4dbfb378709fc5b",
+    "wof:geomhash":"7bab800ae67042b938747d503df0c33b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404337281,
-    "wof:lastmodified":1582361555,
+    "wof:lastmodified":1684352351,
     "wof:name":"Fabero",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":4386,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

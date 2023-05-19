@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25151,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25151",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Olius",
+    "eurostat:nuts_2021_id":"25151",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25151",
+    "eurostat:population":981,
+    "eurostat:population_year":2020,
     "geom:area":0.005947,
-    "geom:area_square_m":54653290.801186,
+    "geom:area_square_m":54653290.801182,
     "geom:bbox":"1.45820983835,41.9408321453,1.59899869657,42.0471215502",
     "geom:latitude":41.992423,
     "geom:longitude":1.530455,
@@ -112,6 +124,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -120,7 +134,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25151",
         "esp-icgc:la_lc":"025151",
+        "eurostat:nuts_2021_id":"25151",
         "gn:id":6358891,
         "gp:id":12694043,
         "qs_pg:id":1291874
@@ -130,7 +146,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"3fb838899fcc06c0634a84347e371a73",
+    "wof:geomhash":"9b78c7d78bd64e195bcc9f1e41d4551f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404337917,
-    "wof:lastmodified":1582361577,
+    "wof:lastmodified":1684352364,
     "wof:name":"Olius",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":981,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

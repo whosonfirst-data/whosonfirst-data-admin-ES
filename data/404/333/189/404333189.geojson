@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12041",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castillo de Villamalefa",
+    "eurostat:nuts_2021_id":"12041",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12041",
+    "eurostat:population":101,
+    "eurostat:population_year":2020,
     "geom:area":0.003989,
-    "geom:area_square_m":37700314.751129,
+    "geom:area_square_m":37700314.751127,
     "geom:bbox":"-0.4238735,40.10114302,-0.31983739,40.22051057",
     "geom:latitude":40.14592,
     "geom:longitude":-0.36706,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12041",
+        "eurostat:nuts_2021_id":"12041",
         "gn:id":6356996,
         "gp:id":12695444,
         "qs_pg:id":400680
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9892532344f4300cd6389fe24d467662",
+    "wof:geomhash":"9a0a5b725dea9a23e09dfb1156633b78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404333189,
-    "wof:lastmodified":1582361769,
+    "wof:lastmodified":1684352275,
     "wof:name":"Castillo De Villamalefa",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":101,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

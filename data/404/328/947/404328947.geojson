@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_01009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Asparrena",
+    "eurostat:nuts_2021_id":"01009",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES211",
+    "eurostat:nuts_2021_level_lau":"01009",
+    "eurostat:population":1623,
+    "eurostat:population_year":2020,
     "geom:area":0.007183,
-    "geom:area_square_m":65074216.545437,
+    "geom:area_square_m":65074216.545438,
     "geom:bbox":"-2.40610727,42.84117594,-2.23593958,42.95104821",
     "geom:latitude":42.894228,
     "geom:longitude":-2.315963,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_01009",
+        "eurostat:nuts_2021_id":"01009",
         "gn:id":6355249,
         "gp:id":12695023,
         "qs_pg:id":1198289
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"eba7dbc0ec3aa62935f5359c57a64b07",
+    "wof:geomhash":"fffe07a7b9ce7d42ade1ba957b8218a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404328947,
-    "wof:lastmodified":1582361842,
+    "wof:lastmodified":1684352202,
     "wof:name":"Asparrena",
     "wof:parent_id":85682615,
     "wof:placetype":"localadmin",
+    "wof:population":1623,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48087",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trucios-Turtzioz",
+    "eurostat:nuts_2021_id":"48087",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48087",
+    "eurostat:population":509,
+    "eurostat:population_year":2020,
     "geom:area":0.003437,
-    "geom:area_square_m":30939357.612772,
+    "geom:area_square_m":30939357.612771,
     "geom:bbox":"-3.34312836,43.25868851,-3.21763093,43.30893685",
     "geom:latitude":43.283028,
     "geom:longitude":-3.277054,
@@ -93,6 +105,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -100,9 +114,12 @@
         404227393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_48087",
+        "eurostat:nuts_2021_id":"48087"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"60df30fe2afdf9625e89fbd89e51b193",
+    "wof:geomhash":"1de410d9d746c42c3f365f5e11188eb0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,10 +130,12 @@
         }
     ],
     "wof:id":404346099,
-    "wof:lastmodified":1566590241,
+    "wof:lastmodified":1684352495,
     "wof:name":"Trucios-Turtzioz",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":509,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

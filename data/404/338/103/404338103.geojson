@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25252,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25252",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vila-sana",
+    "eurostat:nuts_2021_id":"25252",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25252",
+    "eurostat:population":734,
+    "eurostat:population_year":2020,
     "geom:area":0.002053,
-    "geom:area_square_m":18962127.004092,
+    "geom:area_square_m":18962126.637184,
     "geom:bbox":"0.878308,41.639899,0.950994,41.688336",
     "geom:latitude":41.662194,
     "geom:longitude":0.921407,
@@ -48,6 +60,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -56,13 +70,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"025252"
+        "eg:gisco_id":"ES_25252",
+        "esp-icgc:la_lc":"025252",
+        "eurostat:nuts_2021_id":"25252"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0435832ccbcda25eaf7e79336d12adf6",
+    "wof:geomhash":"9ce4be3239d0a1f43d67124ec8f2ca5a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,10 +89,12 @@
         }
     ],
     "wof:id":404338103,
-    "wof:lastmodified":1669902990,
+    "wof:lastmodified":1684352371,
     "wof:name":"Vila-sana",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":734,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

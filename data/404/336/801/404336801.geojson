@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22203",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Salillas",
+    "eurostat:nuts_2021_id":"22203",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22203",
+    "eurostat:population":91,
+    "eurostat:population_year":2020,
     "geom:area":0.003078,
     "geom:area_square_m":28292507.496169,
     "geom:bbox":"-0.22931664,41.95259207,-0.1179173,42.01636917",
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22203",
+        "eurostat:nuts_2021_id":"22203",
         "gn:id":6358405,
         "gp:id":12689551,
         "qs_pg:id":45355
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b1bef5f20304c1591f10eb12202e0e35",
+    "wof:geomhash":"c7d8b8b7beec44dcafdf7069d3ef83a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404336801,
-    "wof:lastmodified":1582361475,
+    "wof:lastmodified":1684352344,
     "wof:name":"Salillas",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":91,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

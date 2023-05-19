@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46096",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cerd\u00e0",
+    "eurostat:nuts_2021_id":"46096",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46096",
+    "eurostat:population":331,
+    "eurostat:population_year":2020,
     "geom:area":0.000158,
     "geom:area_square_m":1520923.773595,
     "geom:bbox":"-0.63185332,38.97696907,-0.5596934,38.9944181",
@@ -87,6 +99,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -95,6 +109,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46096",
+        "eurostat:nuts_2021_id":"46096",
         "gn:id":6361961,
         "gp:id":12695638,
         "qs_pg:id":48586
@@ -103,7 +119,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ce667f81da77c2875771e439754764b3",
+    "wof:geomhash":"6fcf7f2132da59d2f4d4a4039cc9f139",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,10 +130,12 @@
         }
     ],
     "wof:id":404345015,
-    "wof:lastmodified":1582361827,
+    "wof:lastmodified":1684352481,
     "wof:name":"Cerd\u00e0",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":331,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

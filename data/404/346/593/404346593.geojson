@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49216",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tapioles",
+    "eurostat:nuts_2021_id":"49216",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49216",
+    "eurostat:population":151,
+    "eurostat:population_year":2020,
     "geom:area":0.002997,
-    "geom:area_square_m":27603310.278465,
+    "geom:area_square_m":27603310.278464,
     "geom:bbox":"-5.54845255,41.82703065,-5.45978489,41.87773604",
     "geom:latitude":41.854503,
     "geom:longitude":-5.501876,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_49216",
+        "eurostat:nuts_2021_id":"49216",
         "gn:id":6362641,
         "gp:id":12693321,
         "qs_pg:id":955111
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"42aeab841a75b40c12f512c641c3e299",
+    "wof:geomhash":"549c7e741eef218bb482ff5b735c465c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404346593,
-    "wof:lastmodified":1582361606,
+    "wof:lastmodified":1684352501,
     "wof:name":"Tapioles",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":151,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

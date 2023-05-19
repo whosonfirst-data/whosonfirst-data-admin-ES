@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28055",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Estremera",
+    "eurostat:nuts_2021_id":"28055",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28055",
+    "eurostat:population":1334,
+    "eurostat:population_year":2020,
     "geom:area":0.00837,
-    "geom:area_square_m":79117420.288245,
+    "geom:area_square_m":79117420.288248,
     "geom:bbox":"-3.1626332,40.0614287,-3.05298331,40.22283827",
     "geom:latitude":40.146386,
     "geom:longitude":-3.108814,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28055",
+        "eurostat:nuts_2021_id":"28055",
         "gn:id":6359281,
         "gp:id":12688000,
         "qs_pg:id":291452
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"70ebdfd2258df87bfec7fe682f77ef97",
+    "wof:geomhash":"7c1e9f958b67de8a41f8aafb727c9e37",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404338811,
-    "wof:lastmodified":1582361433,
+    "wof:lastmodified":1684352382,
     "wof:name":"Estremera",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":1334,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

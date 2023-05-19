@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_11039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vejer de la Frontera",
+    "eurostat:nuts_2021_id":"11039",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES612",
+    "eurostat:nuts_2021_level_lau":"11039",
+    "eurostat:population":12622,
+    "eurostat:population_year":2020,
     "geom:area":0.02637,
-    "geom:area_square_m":262850851.089214,
+    "geom:area_square_m":262850851.089212,
     "geom:bbox":"-6.07914843,36.20575693,-5.78227728,36.37595022",
     "geom:latitude":36.282066,
     "geom:longitude":-5.94159,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_11039",
+        "eurostat:nuts_2021_id":"11039",
         "gn:id":6356954,
         "gp:id":12688767,
         "qs_pg:id":44896
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"44decec34580636fab29449a311756e7",
+    "wof:geomhash":"9e12dea1a228dde934a9773fcef4b4b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404333095,
-    "wof:lastmodified":1582361779,
+    "wof:lastmodified":1684352274,
     "wof:name":"Vejer De La Frontera",
     "wof:parent_id":85682679,
     "wof:placetype":"localadmin",
+    "wof:population":12622,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40181",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Real Sitio de San Ildefonso",
+    "eurostat:nuts_2021_id":"40181",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40181",
+    "eurostat:population":5285,
+    "eurostat:population_year":2020,
     "geom:area":0.015476,
-    "geom:area_square_m":144753201.346922,
+    "geom:area_square_m":144753201.346921,
     "geom:bbox":"-4.16707513,40.7811916,-3.9423547,40.92275078",
     "geom:latitude":40.85157,
     "geom:longitude":-4.023723,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_40181",
+        "eurostat:nuts_2021_id":"40181",
         "gn:id":6360903,
         "gp:id":12692671,
         "qs_pg:id":244226
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"56efe4603a8f79d648931992630d3489",
+    "wof:geomhash":"ec84dd27b669c90f67d212f5964e34ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404342625,
-    "wof:lastmodified":1582361817,
+    "wof:lastmodified":1684352441,
     "wof:name":"Real Sitio De San Ildefonso",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":5285,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

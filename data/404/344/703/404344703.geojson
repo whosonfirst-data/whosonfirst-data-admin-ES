@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45162",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sevilleja de la Jara",
+    "eurostat:nuts_2021_id":"45162",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45162",
+    "eurostat:population":668,
+    "eurostat:population_year":2020,
     "geom:area":0.024508,
-    "geom:area_square_m":233737300.213636,
+    "geom:area_square_m":233737300.213628,
     "geom:bbox":"-5.03944257,39.393104,-4.86312293,39.67355312",
     "geom:latitude":39.52966,
     "geom:longitude":-4.955504,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45162",
+        "eurostat:nuts_2021_id":"45162",
         "gn:id":6361822,
         "gp:id":12691084,
         "qs_pg:id":1322839
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"358d8ed302be6cb74d686af936696601",
+    "wof:geomhash":"8a321844f30ecfeccb8cd146794a3e6b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404344703,
-    "wof:lastmodified":1582361853,
+    "wof:lastmodified":1684352477,
     "wof:name":"Sevilleja De La Jara",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":668,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43152,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43152",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torre de l'Espanyol, La",
+    "eurostat:nuts_2021_id":"43152",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43152",
+    "eurostat:population":601,
+    "eurostat:population_year":2020,
     "geom:area":0.002997,
-    "geom:area_square_m":27885473.901071,
+    "geom:area_square_m":27885484.312289,
     "geom:bbox":"0.603923,41.17805,0.706008,41.229955",
     "geom:latitude":41.203964,
     "geom:longitude":0.651769,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43152",
         "esp-icgc:la_lc":"043152",
+        "eurostat:nuts_2021_id":"43152",
         "gn:id":6361394,
         "gp:id":12694292,
         "qs_pg:id":334985
@@ -67,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2895acede2b04b215f92662d0b9850cc",
+    "wof:geomhash":"529d375967b00bf62498e99e4e40bc03",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404343733,
-    "wof:lastmodified":1669903065,
+    "wof:lastmodified":1684352462,
     "wof:name":"La Torre de l'Espanyol",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":601,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

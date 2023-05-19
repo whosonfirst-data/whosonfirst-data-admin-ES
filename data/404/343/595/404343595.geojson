@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43091,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43091",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mont-ral",
+    "eurostat:nuts_2021_id":"43091",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43091",
+    "eurostat:population":168,
+    "eurostat:population_year":2020,
     "geom:area":0.003717,
-    "geom:area_square_m":34530793.016689,
+    "geom:area_square_m":34530798.569495,
     "geom:bbox":"1.042872,41.263738,1.145891,41.326286",
     "geom:latitude":41.292796,
     "geom:longitude":1.091775,
@@ -65,6 +77,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -73,7 +87,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43091",
         "esp-icgc:la_lc":"043091",
+        "eurostat:nuts_2021_id":"43091",
         "gn:id":6361333,
         "gp:id":12694224,
         "qs_pg:id":425935
@@ -83,7 +99,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bac68bb32bb55502f1f36a5b90d60f4e",
+    "wof:geomhash":"c6b6420057c455b77b8282e1a8b73b59",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,10 +110,12 @@
         }
     ],
     "wof:id":404343595,
-    "wof:lastmodified":1669903060,
+    "wof:lastmodified":1684352457,
     "wof:name":"Mont-ral",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":168,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

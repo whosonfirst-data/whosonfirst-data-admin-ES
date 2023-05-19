@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_30015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caravaca de la Cruz",
+    "eurostat:nuts_2021_id":"30015",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES62",
+    "eurostat:nuts_2021_level_3":"ES620",
+    "eurostat:nuts_2021_level_lau":"30015",
+    "eurostat:population":25688,
+    "eurostat:population_year":2020,
     "geom:area":0.088174,
     "geom:area_square_m":859082427.990516,
     "geom:bbox":"-2.2991954,37.86822259,-1.81005704,38.1473695",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_30015",
+        "eurostat:nuts_2021_id":"30015",
         "gn:id":6359520,
         "gp:id":12688140,
         "qs_pg:id":1084194
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0eef40f0cfaee8fb0517b4d60b8003a5",
+    "wof:geomhash":"4b6a77d01ea71ca26868709626e82475",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404339351,
-    "wof:lastmodified":1582361590,
+    "wof:lastmodified":1684352392,
     "wof:name":"Caravaca De La Cruz",
     "wof:parent_id":85682791,
     "wof:placetype":"localadmin",
+    "wof:population":25688,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50121",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gotor",
+    "eurostat:nuts_2021_id":"50121",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50121",
+    "eurostat:population":302,
+    "eurostat:population_year":2020,
     "geom:area":0.001675,
     "geom:area_square_m":15497806.217631,
     "geom:bbox":"-1.69276325,41.51296441,-1.62737255,41.58928741",
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50121",
+        "eurostat:nuts_2021_id":"50121",
         "gn:id":6362811,
         "gp:id":12689951,
         "qs_pg:id":45535
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a5b66aaf1a7267962170a486b1039a5a",
+    "wof:geomhash":"3283dc11cda7c7a36c37c3b99670f669",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404346977,
-    "wof:lastmodified":1582361612,
+    "wof:lastmodified":1684352505,
     "wof:name":"Gotor",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":302,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

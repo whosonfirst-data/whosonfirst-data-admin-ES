@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40111",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lastras del Pozo",
+    "eurostat:nuts_2021_id":"40111",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40111",
+    "eurostat:population":62,
+    "eurostat:population_year":2020,
     "geom:area":0.003473,
-    "geom:area_square_m":32466813.955058,
+    "geom:area_square_m":32466813.955059,
     "geom:bbox":"-4.37340199,40.82922675,-4.27068201,40.90520549",
     "geom:latitude":40.876543,
     "geom:longitude":-4.324928,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_40111",
+        "eurostat:nuts_2021_id":"40111",
         "gn:id":6360843,
         "gp:id":12692610,
         "qs_pg:id":46779
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"09a072939d4ce461aaf756837cbbf7b6",
+    "wof:geomhash":"bef1431d9054e6acaaadc3be7fe22f90",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404342489,
-    "wof:lastmodified":1582361819,
+    "wof:lastmodified":1684352440,
     "wof:name":"Lastras Del Pozo",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":62,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

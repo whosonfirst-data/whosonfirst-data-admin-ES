@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50170",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monegrillo",
+    "eurostat:nuts_2021_id":"50170",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50170",
+    "eurostat:population":394,
+    "eurostat:population_year":2020,
     "geom:area":0.01979,
-    "geom:area_square_m":182911707.114799,
+    "geom:area_square_m":182911707.114797,
     "geom:bbox":"-0.52712255,41.53957794,-0.32393757,41.71514767",
     "geom:latitude":41.62677,
     "geom:longitude":-0.420566,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50170",
+        "eurostat:nuts_2021_id":"50170",
         "gn:id":6362857,
         "gp:id":12689997,
         "qs_pg:id":1263232
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"462480c925de1d566ee7ea31497544ed",
+    "wof:geomhash":"bcf3e5efe22ea669b4116e9ad5f7eb3e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404347081,
-    "wof:lastmodified":1582361673,
+    "wof:lastmodified":1684352507,
     "wof:name":"Monegrillo",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":394,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

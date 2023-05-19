@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17027,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Breda",
+    "eurostat:nuts_2021_id":"17027",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17027",
+    "eurostat:population":3762,
+    "eurostat:population_year":2020,
     "geom:area":0.000543,
-    "geom:area_square_m":5012292.056058,
+    "geom:area_square_m":5012292.056059,
     "geom:bbox":"2.538316355,41.7306320987,2.57068531345,41.7688575727",
     "geom:latitude":41.753248,
     "geom:longitude":2.556518,
@@ -264,6 +276,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -272,13 +286,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"017027"
+        "eg:gisco_id":"ES_17027",
+        "esp-icgc:la_lc":"017027",
+        "eurostat:nuts_2021_id":"17027"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d88a61f6bf59d8337cee5a322339e50c",
+    "wof:geomhash":"b39c2182a40f0212daec65fdc8dbdbc3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -289,10 +305,12 @@
         }
     ],
     "wof:id":404334613,
-    "wof:lastmodified":1582361741,
+    "wof:lastmodified":1684352301,
     "wof:name":"Breda",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":3762,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

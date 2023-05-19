@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47225",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villasexmir",
+    "eurostat:nuts_2021_id":"47225",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47225",
+    "eurostat:population":72,
+    "eurostat:population_year":2020,
     "geom:area":0.00153,
-    "geom:area_square_m":14136959.130614,
+    "geom:area_square_m":14136959.130615,
     "geom:bbox":"-5.10096496,41.60202615,-5.02804519,41.65413571",
     "geom:latitude":41.632779,
     "geom:longitude":-5.064039,
@@ -99,6 +111,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -106,9 +120,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_47225",
+        "eurostat:nuts_2021_id":"47225"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"0afe0845edce73ec2e29edf829b9e4d0",
+    "wof:geomhash":"75a140ba73580e2e3d3efff7d9229bef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +136,12 @@
         }
     ],
     "wof:id":404345887,
-    "wof:lastmodified":1566590999,
+    "wof:lastmodified":1684352491,
     "wof:name":"Villasexmir",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":72,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

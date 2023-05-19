@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42087",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fuentecantos",
+    "eurostat:nuts_2021_id":"42087",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42087",
+    "eurostat:population":63,
+    "eurostat:population_year":2020,
     "geom:area":0.000956,
     "geom:area_square_m":8802525.629271,
     "geom:bbox":"-2.45827887,41.82873108,-2.40307685,41.85955572",
@@ -174,6 +186,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -182,6 +196,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42087",
+        "eurostat:nuts_2021_id":"42087",
         "gn:id":6361138,
         "gp:id":12692797,
         "qs_pg:id":46884
@@ -190,7 +206,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bf26195f16364e0601a7711dadcd5d33",
+    "wof:geomhash":"b3c82d010e8d6b00f5905d5e3721a746",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -201,10 +217,12 @@
         }
     ],
     "wof:id":404343155,
-    "wof:lastmodified":1582361882,
+    "wof:lastmodified":1684352448,
     "wof:name":"Fuentecantos",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":63,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_13067",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pozuelos de Calatrava, Los",
+    "eurostat:nuts_2021_id":"13067",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES422",
+    "eurostat:nuts_2021_level_lau":"13067",
+    "eurostat:population":359,
+    "eurostat:population_year":2020,
     "geom:area":0.008725,
-    "geom:area_square_m":83933676.567013,
+    "geom:area_square_m":83933676.567012,
     "geom:bbox":"-4.26044686,38.86830399,-4.12032372,38.97612202",
     "geom:latitude":38.923961,
     "geom:longitude":-4.191593,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_13067",
+        "eurostat:nuts_2021_id":"13067",
         "gn:id":6357161,
         "gp:id":12690364,
         "qs_pg:id":1019358
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f6dacb68896b9d1dea67be611a6d39c5",
+    "wof:geomhash":"8f64c1eb2d85f29fc2fce2da4796980b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404333561,
-    "wof:lastmodified":1582361760,
+    "wof:lastmodified":1684352281,
     "wof:name":"Los Pozuelos De Calatrava",
     "wof:parent_id":85682689,
     "wof:placetype":"localadmin",
+    "wof:population":359,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

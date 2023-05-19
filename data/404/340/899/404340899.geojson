@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_35007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Betancuria",
+    "eurostat:nuts_2021_id":"35007",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES7",
+    "eurostat:nuts_2021_level_2":"ES70",
+    "eurostat:nuts_2021_level_3":"ES704",
+    "eurostat:nuts_2021_level_lau":"35007",
+    "eurostat:population":773,
+    "eurostat:population_year":2020,
     "geom:area":0.009554,
-    "geom:area_square_m":103882679.429096,
+    "geom:area_square_m":103882679.429095,
     "geom:bbox":"-14.15907591,28.37540503,-14.01707482,28.49502042",
     "geom:latitude":28.434398,
     "geom:longitude":-14.087193,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_35007",
+        "eurostat:nuts_2021_id":"35007",
         "gn:id":6360177,
         "gp:id":12690131,
         "qs_pg:id":1315272
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dd79621a764b97c98acec336e02d9173",
+    "wof:geomhash":"68c9fc2496e289adb3725f2c7cba3074",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404340899,
-    "wof:lastmodified":1582361664,
+    "wof:lastmodified":1684352414,
     "wof:name":"Betancuria",
     "wof:parent_id":85682821,
     "wof:placetype":"localadmin",
+    "wof:population":773,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

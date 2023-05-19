@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_13046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Guadalmez",
+    "eurostat:nuts_2021_id":"13046",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES422",
+    "eurostat:nuts_2021_level_lau":"13046",
+    "eurostat:population":697,
+    "eurostat:population_year":2020,
     "geom:area":0.007457,
-    "geom:area_square_m":71941867.345404,
+    "geom:area_square_m":71941867.345403,
     "geom:bbox":"-5.04694842,38.68136195,-4.87663662,38.77600632",
     "geom:latitude":38.722613,
     "geom:longitude":-4.955032,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_13046",
+        "eurostat:nuts_2021_id":"13046",
         "gn:id":6357140,
         "gp:id":12690343,
         "qs_pg:id":1146929
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"93371aaa0be9e4f615eb4eeea82ee812",
+    "wof:geomhash":"f8f3f1f0b5e766be35383fbbefa76d5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404333513,
-    "wof:lastmodified":1582361784,
+    "wof:lastmodified":1684352280,
     "wof:name":"Guadalmez",
     "wof:parent_id":85682689,
     "wof:placetype":"localadmin",
+    "wof:population":697,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

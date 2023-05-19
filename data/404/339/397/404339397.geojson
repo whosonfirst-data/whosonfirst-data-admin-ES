@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_30035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Javier",
+    "eurostat:nuts_2021_id":"30035",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES62",
+    "eurostat:nuts_2021_level_3":"ES620",
+    "eurostat:nuts_2021_level_lau":"30035",
+    "eurostat:population":33129,
+    "eurostat:population_year":2020,
     "geom:area":0.007692,
-    "geom:area_square_m":75139814.885913,
+    "geom:area_square_m":75139842.470441,
     "geom:bbox":"-0.911842,37.668316,-0.697608,37.881748",
     "geom:latitude":37.809811,
     "geom:longitude":-0.837557,
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_30035",
+        "eurostat:nuts_2021_id":"30035",
         "gn:id":6359539,
         "gp:id":12688160,
         "qs_pg:id":468077
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"042bc751a25c428c61eb0d0579450695",
+    "wof:geomhash":"40f3599f5de64ff5fdbd766a31c55db1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404339397,
-    "wof:lastmodified":1636503319,
+    "wof:lastmodified":1684352394,
     "wof:name":"San Javier",
     "wof:parent_id":85682791,
     "wof:placetype":"localadmin",
+    "wof:population":33129,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

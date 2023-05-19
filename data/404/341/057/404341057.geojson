@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_36043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ponte Caldelas",
+    "eurostat:nuts_2021_id":"36043",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES114",
+    "eurostat:nuts_2021_level_lau":"36043",
+    "eurostat:population":5533,
+    "eurostat:population_year":2020,
     "geom:area":0.00951,
-    "geom:area_square_m":86862205.350795,
+    "geom:area_square_m":86862205.350798,
     "geom:bbox":"-8.59516009,42.33713855,-8.4316945,42.43043421",
     "geom:latitude":42.385057,
     "geom:longitude":-8.516811,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_36043",
+        "eurostat:nuts_2021_id":"36043",
         "gn:id":6360242,
         "gp:id":12694993,
         "qs_pg:id":907200
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4b48b61524b724b0b2e89829b5f52ac8",
+    "wof:geomhash":"feb2a54635c640c7dc71b643f955427a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404341057,
-    "wof:lastmodified":1582361639,
+    "wof:lastmodified":1684352419,
     "wof:name":"Ponte Caldelas",
     "wof:parent_id":85682825,
     "wof:placetype":"localadmin",
+    "wof:population":5533,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

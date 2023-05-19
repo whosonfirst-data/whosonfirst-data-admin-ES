@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31053",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Berbinzana",
+    "eurostat:nuts_2021_id":"31053",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31053",
+    "eurostat:population":666,
+    "eurostat:population_year":2020,
     "geom:area":0.001422,
     "geom:area_square_m":12962833.777045,
     "geom:bbox":"-1.88433239,42.50259943,-1.78876043,42.53378195",
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31053",
+        "eurostat:nuts_2021_id":"31053",
         "gn:id":6359601,
         "gp:id":12688227,
         "qs_pg:id":1003587
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"16b39728ef403f20f8acf1f20baedf19",
+    "wof:geomhash":"48cd314f63a507eb9bff8a90b3c4c7b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404339563,
-    "wof:lastmodified":1582361590,
+    "wof:lastmodified":1684352396,
     "wof:name":"Berbinzana",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":666,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

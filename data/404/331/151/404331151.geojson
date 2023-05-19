@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8121,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08121",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Matar\u00f3",
+    "eurostat:nuts_2021_id":"08121",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08121",
+    "eurostat:population":129661,
+    "eurostat:population_year":2020,
     "geom:area":0.002422,
-    "geom:area_square_m":22406817.535505,
+    "geom:area_square_m":22406817.535504,
     "geom:bbox":"2.41528694072,41.5190714437,2.48713679699,41.5805243572",
     "geom:latitude":41.554186,
     "geom:longitude":2.446658,
@@ -187,6 +199,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -195,7 +209,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08121",
         "esp-icgc:la_lc":"08121",
+        "eurostat:nuts_2021_id":"08121",
         "gn:id":6356150,
         "gp:id":12693502,
         "qs_pg:id":1311100
@@ -205,7 +221,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"61721f3bc356190d77e270496c782202",
+    "wof:geomhash":"981e6b372d43bad53f944796ef2177c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -216,10 +232,12 @@
         }
     ],
     "wof:id":404331151,
-    "wof:lastmodified":1582361484,
+    "wof:lastmodified":1684352242,
     "wof:name":"Matar\u00f3",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":129661,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

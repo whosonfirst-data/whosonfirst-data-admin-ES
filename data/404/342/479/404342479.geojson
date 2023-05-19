@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40107",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Labajos",
+    "eurostat:nuts_2021_id":"40107",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40107",
+    "eurostat:population":101,
+    "eurostat:population_year":2020,
     "geom:area":0.002239,
     "geom:area_square_m":20937243.870799,
     "geom:bbox":"-4.55891942,40.82554652,-4.47966846,40.88539315",
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_40107",
+        "eurostat:nuts_2021_id":"40107",
         "gn:id":6360839,
         "gp:id":12692606,
         "qs_pg:id":265336
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7ad4e61f3bb3ab26388f4119e9154ac9",
+    "wof:geomhash":"b1a7d7979908195eb2f5a93e29a72877",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404342479,
-    "wof:lastmodified":1582361809,
+    "wof:lastmodified":1684352440,
     "wof:name":"Labajos",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":101,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brieva",
+    "eurostat:nuts_2021_id":"40033",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40033",
+    "eurostat:population":93,
+    "eurostat:population_year":2020,
     "geom:area":0.001467,
     "geom:area_square_m":13684630.338253,
     "geom:bbox":"-4.08366593,41.01284343,-4.00815706,41.05423021",
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_40033",
+        "eurostat:nuts_2021_id":"40033",
         "gn:id":6360776,
         "gp:id":12692541,
         "qs_pg:id":906940
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bd3e1368638f9341aac629a5cf9cefd3",
+    "wof:geomhash":"d03e2f48c7b8d8d02a2a38ccba92607a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404342337,
-    "wof:lastmodified":1582361806,
+    "wof:lastmodified":1684352438,
     "wof:name":"Brieva",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":93,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

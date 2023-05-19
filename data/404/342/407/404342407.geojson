@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40070",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Duruelo",
+    "eurostat:nuts_2021_id":"40070",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40070",
+    "eurostat:population":166,
+    "eurostat:population_year":2020,
     "geom:area":0.001854,
     "geom:area_square_m":17242077.875189,
     "geom:bbox":"-3.6728784,41.19504829,-3.61766907,41.24874764",
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_40070",
+        "eurostat:nuts_2021_id":"40070",
         "gn:id":6360807,
         "gp:id":12692574,
         "qs_pg:id":1148785
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1aebad9375350b05fc5ecc3fa9d218ed",
+    "wof:geomhash":"e8f7ec3e599653f7546d5214faeb2491",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404342407,
-    "wof:lastmodified":1582361811,
+    "wof:lastmodified":1684352439,
     "wof:name":"Duruelo",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":166,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

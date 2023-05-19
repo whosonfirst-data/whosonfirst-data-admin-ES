@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17089,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17089",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Llagostera",
+    "eurostat:nuts_2021_id":"17089",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17089",
+    "eurostat:population":8647,
+    "eurostat:population_year":2020,
     "geom:area":0.008351,
-    "geom:area_square_m":76957601.397606,
+    "geom:area_square_m":76957601.39761,
     "geom:bbox":"2.84809675588,41.7575217114,2.97088419089,41.8652247292",
     "geom:latitude":41.815013,
     "geom:longitude":2.908154,
@@ -130,6 +142,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -138,7 +152,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17089",
         "esp-icgc:la_lc":"017089",
+        "eurostat:nuts_2021_id":"17089",
         "gn:id":6534074,
         "gp:id":12693770,
         "qs_pg:id":1150949
@@ -148,7 +164,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"41b5ca835013a2addea3b9426c8add9d",
+    "wof:geomhash":"c4003ff0bfb6b10a710f7406b5a746f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,10 +175,12 @@
         }
     ],
     "wof:id":404334743,
-    "wof:lastmodified":1582361752,
+    "wof:lastmodified":1684352307,
     "wof:name":"Llagostera",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":8647,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_13006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alcoba",
+    "eurostat:nuts_2021_id":"13006",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES422",
+    "eurostat:nuts_2021_level_lau":"13006",
+    "eurostat:population":542,
+    "eurostat:population_year":2020,
     "geom:area":0.032071,
-    "geom:area_square_m":306836823.583482,
+    "geom:area_square_m":306836823.583484,
     "geom:bbox":"-4.55338895,39.22112026,-4.26503644,39.39860319",
     "geom:latitude":39.310008,
     "geom:longitude":-4.415009,
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_13006",
+        "eurostat:nuts_2021_id":"13006",
         "gn:id":6357100,
         "gp:id":12690303,
         "qs_pg:id":45706
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4dee77595606f2ed4f30e48b03fd3376",
+    "wof:geomhash":"783263419a6e437f0f69c408bc9d9f6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404333423,
-    "wof:lastmodified":1582361765,
+    "wof:lastmodified":1684352278,
     "wof:name":"Alcoba",
     "wof:parent_id":85682689,
     "wof:placetype":"localadmin",
+    "wof:population":542,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

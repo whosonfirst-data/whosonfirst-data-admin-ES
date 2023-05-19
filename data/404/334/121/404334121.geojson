@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ca\u00f1amares",
+    "eurostat:nuts_2021_id":"16048",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16048",
+    "eurostat:population":457,
+    "eurostat:population_year":2020,
     "geom:area":0.004301,
-    "geom:area_square_m":40472818.976364,
+    "geom:area_square_m":40472818.976362,
     "geom:bbox":"-2.27809284,40.3958928,-2.19323513,40.48791607",
     "geom:latitude":40.441094,
     "geom:longitude":-2.240654,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16048",
+        "eurostat:nuts_2021_id":"16048",
         "gn:id":6357405,
         "gp:id":12690443,
         "qs_pg:id":1196389
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"132afb5e36aa4bc3db2115e6654541f0",
+    "wof:geomhash":"876d302e6df389e67c91990b2250da91",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404334121,
-    "wof:lastmodified":1582361734,
+    "wof:lastmodified":1684352293,
     "wof:name":"Ca\u00f1amares",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":457,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

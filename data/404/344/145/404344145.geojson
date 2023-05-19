@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44171",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Olba",
+    "eurostat:nuts_2021_id":"44171",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44171",
+    "eurostat:population":233,
+    "eurostat:population_year":2020,
     "geom:area":0.002217,
-    "geom:area_square_m":20965020.075777,
+    "geom:area_square_m":20965020.075776,
     "geom:bbox":"-0.67983642,40.09833721,-0.60595003,40.14602215",
     "geom:latitude":40.123901,
     "geom:longitude":-0.641991,
@@ -45,6 +57,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -53,6 +67,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44171",
+        "eurostat:nuts_2021_id":"44171",
         "gn:id":6361575,
         "gp:id":12689747,
         "qs_pg:id":499277
@@ -61,7 +77,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"24cfc1c15c960a39a654b2af607ede94",
+    "wof:geomhash":"82ed616b6f7ae1e95e16218152afa82b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
         }
     ],
     "wof:id":404344145,
-    "wof:lastmodified":1582361849,
+    "wof:lastmodified":1684352470,
     "wof:name":"Olba",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":233,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

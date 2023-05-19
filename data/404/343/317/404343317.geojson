@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42178",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Talveila",
+    "eurostat:nuts_2021_id":"42178",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42178",
+    "eurostat:population":96,
+    "eurostat:population_year":2020,
     "geom:area":0.005734,
-    "geom:area_square_m":52902701.608895,
+    "geom:area_square_m":52902701.608898,
     "geom:bbox":"-3.00131957,41.66304688,-2.92901627,41.81674157",
     "geom:latitude":41.741094,
     "geom:longitude":-2.969464,
@@ -171,6 +183,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -179,6 +193,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42178",
+        "eurostat:nuts_2021_id":"42178",
         "gn:id":6361209,
         "gp:id":12692868,
         "qs_pg:id":968762
@@ -187,7 +203,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c2f6673c3394b054458a74298a2ddb1d",
+    "wof:geomhash":"c2d1d2ab819fce259dffa109ec135716",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -198,10 +214,12 @@
         }
     ],
     "wof:id":404343317,
-    "wof:lastmodified":1582361894,
+    "wof:lastmodified":1684352450,
     "wof:name":"Talveila",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":96,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

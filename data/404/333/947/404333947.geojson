@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15062",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Outes",
+    "eurostat:nuts_2021_id":"15062",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15062",
+    "eurostat:population":6155,
+    "eurostat:population_year":2020,
     "geom:area":0.011068,
     "geom:area_square_m":100337611.403026,
     "geom:bbox":"-8.9981113,42.78049401,-8.82981838,42.91011224",
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_15062",
+        "eurostat:nuts_2021_id":"15062",
         "gn:id":6357331,
         "gp:id":12694764,
         "qs_pg:id":1137138
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8ffbc03e425e6845b589002639b71f19",
+    "wof:geomhash":"9d6c31d762013e1d0e22022fcdb15907",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404333947,
-    "wof:lastmodified":1582361770,
+    "wof:lastmodified":1684352290,
     "wof:name":"Outes",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":6155,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

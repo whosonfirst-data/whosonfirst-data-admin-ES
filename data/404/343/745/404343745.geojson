@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":43158,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43158",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vallclara",
+    "eurostat:nuts_2021_id":"43158",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43158",
+    "eurostat:population":88,
+    "eurostat:population_year":2020,
     "geom:area":0.001447,
     "geom:area_square_m":13430876.766688,
     "geom:bbox":"0.961650760426,41.346050269,1.01531298511,41.3917470602",
@@ -118,6 +130,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -126,7 +140,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43158",
         "esp-icgc:la_lc":"043158",
+        "eurostat:nuts_2021_id":"43158",
         "gn:id":6361400,
         "gp:id":12694298,
         "qs_pg:id":47803
@@ -136,7 +152,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"66f9d02c05e32f7b190199b07a721976",
+    "wof:geomhash":"093a28cd99951c0fda80bbf1581e4e28",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404343745,
-    "wof:lastmodified":1582361895,
+    "wof:lastmodified":1684352463,
     "wof:name":"Vallclara",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":88,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_30009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Archena",
+    "eurostat:nuts_2021_id":"30009",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES62",
+    "eurostat:nuts_2021_level_3":"ES620",
+    "eurostat:nuts_2021_level_lau":"30009",
+    "eurostat:population":19428,
+    "eurostat:population_year":2020,
     "geom:area":0.001684,
-    "geom:area_square_m":16386146.090391,
+    "geom:area_square_m":16386146.09039,
     "geom:bbox":"-1.32558488,38.08621777,-1.2656607,38.1402875",
     "geom:latitude":38.11158,
     "geom:longitude":-1.295229,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_30009",
+        "eurostat:nuts_2021_id":"30009",
         "gn:id":6359514,
         "gp:id":12688134,
         "qs_pg:id":1093441
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"198564a4b34f62996719568ece117188",
+    "wof:geomhash":"8d2021af3cc309f87891e50c7f3babd7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404339339,
-    "wof:lastmodified":1582361581,
+    "wof:lastmodified":1684352392,
     "wof:name":"Archena",
     "wof:parent_id":85682791,
     "wof:placetype":"localadmin",
+    "wof:population":19428,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

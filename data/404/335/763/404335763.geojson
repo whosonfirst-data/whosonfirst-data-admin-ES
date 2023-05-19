@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19178",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Megina",
+    "eurostat:nuts_2021_id":"19178",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19178",
+    "eurostat:population":29,
+    "eurostat:population_year":2020,
     "geom:area":0.002969,
-    "geom:area_square_m":27861785.253062,
+    "geom:area_square_m":27861785.253063,
     "geom:bbox":"-1.90953345,40.59845226,-1.82882244,40.66718858",
     "geom:latitude":40.635214,
     "geom:longitude":-1.864627,
@@ -96,6 +108,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -103,9 +117,12 @@
         404227375
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_19178",
+        "eurostat:nuts_2021_id":"19178"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"62eb88f1a7aeaec0ae1306988c469398",
+    "wof:geomhash":"59d1b78ac27a2e7bcfb2368442ae69c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +133,12 @@
         }
     ],
     "wof:id":404335763,
-    "wof:lastmodified":1566590543,
+    "wof:lastmodified":1684352329,
     "wof:name":"Megina",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":29,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

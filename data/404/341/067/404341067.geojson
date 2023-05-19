@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_36047",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rodeiro",
+    "eurostat:nuts_2021_id":"36047",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES114",
+    "eurostat:nuts_2021_level_lau":"36047",
+    "eurostat:population":2393,
+    "eurostat:population_year":2020,
     "geom:area":0.017007,
-    "geom:area_square_m":154651087.378769,
+    "geom:area_square_m":154651087.378771,
     "geom:bbox":"-8.03613625,42.56661514,-7.86142801,42.73974303",
     "geom:latitude":42.659097,
     "geom:longitude":-7.945513,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_36047",
+        "eurostat:nuts_2021_id":"36047",
         "gn:id":6360245,
         "gp:id":12695001,
         "qs_pg:id":1206138
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"23a409a14309df4ba42ff3865368b82b",
+    "wof:geomhash":"ab82baaba499a70b0295750ee6fb26ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404341067,
-    "wof:lastmodified":1582361640,
+    "wof:lastmodified":1684352419,
     "wof:name":"Rodeiro",
     "wof:parent_id":85682825,
     "wof:placetype":"localadmin",
+    "wof:population":2393,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

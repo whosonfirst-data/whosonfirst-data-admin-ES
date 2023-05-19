@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cortes de Arenoso",
+    "eurostat:nuts_2021_id":"12048",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12048",
+    "eurostat:population":300,
+    "eurostat:population_year":2020,
     "geom:area":0.00852,
-    "geom:area_square_m":80503722.639092,
+    "geom:area_square_m":80503722.639093,
     "geom:bbox":"-0.58013406,40.10419544,-0.48224185,40.25165947",
     "geom:latitude":40.171591,
     "geom:longitude":-0.528985,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12048",
+        "eurostat:nuts_2021_id":"12048",
         "gn:id":6357002,
         "gp:id":12695454,
         "qs_pg:id":242554
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"38baa56c1f4f7e593a4b1088970e565f",
+    "wof:geomhash":"bab1082a9cd2f84c86346eed098a1d76",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404333203,
-    "wof:lastmodified":1582361767,
+    "wof:lastmodified":1684352275,
     "wof:name":"Cortes De Arenoso",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":300,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

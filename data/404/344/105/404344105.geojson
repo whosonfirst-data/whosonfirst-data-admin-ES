@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44151",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Molinos",
+    "eurostat:nuts_2021_id":"44151",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44151",
+    "eurostat:population":222,
+    "eurostat:population_year":2020,
     "geom:area":0.008496,
-    "geom:area_square_m":79515965.470224,
+    "geom:area_square_m":79515965.470225,
     "geom:bbox":"-0.55716534,40.7512724,-0.3969525,40.85515888",
     "geom:latitude":40.812341,
     "geom:longitude":-0.473856,
@@ -72,6 +84,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -80,6 +94,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44151",
+        "eurostat:nuts_2021_id":"44151",
         "gn:id":6361558,
         "gp:id":12689730,
         "qs_pg:id":78261
@@ -88,7 +104,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b5d5c24ec46f3b827d0faf7af73f9bc4",
+    "wof:geomhash":"888e1a71b0c34e0d02e3f0b3a1274956",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,10 +115,12 @@
         }
     ],
     "wof:id":404344105,
-    "wof:lastmodified":1582361844,
+    "wof:lastmodified":1684352469,
     "wof:name":"Molinos",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":222,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

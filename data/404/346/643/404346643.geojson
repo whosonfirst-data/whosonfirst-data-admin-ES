@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49241",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villaescusa",
+    "eurostat:nuts_2021_id":"49241",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49241",
+    "eurostat:population":246,
+    "eurostat:population_year":2020,
     "geom:area":0.004626,
     "geom:area_square_m":43037042.004401,
     "geom:bbox":"-5.51474447,41.14550319,-5.39131388,41.24557728",
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_49241",
+        "eurostat:nuts_2021_id":"49241",
         "gn:id":6362664,
         "gp:id":12693344,
         "qs_pg:id":1005687
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1f6974ab92188fcf8d2c45b5dcb73841",
+    "wof:geomhash":"993cd1fab898bb48d4f8df50bf0a5e2d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404346643,
-    "wof:lastmodified":1582361608,
+    "wof:lastmodified":1684352501,
     "wof:name":"Villaescusa",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":246,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

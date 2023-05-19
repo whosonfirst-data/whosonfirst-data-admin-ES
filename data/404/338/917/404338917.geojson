@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28107",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Patones",
+    "eurostat:nuts_2021_id":"28107",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28107",
+    "eurostat:population":539,
+    "eurostat:population_year":2020,
     "geom:area":0.003745,
-    "geom:area_square_m":35015554.436929,
+    "geom:area_square_m":35015554.43693,
     "geom:bbox":"-3.525145,40.84621922,-3.43954349,40.91860035",
     "geom:latitude":40.882766,
     "geom:longitude":-3.484801,
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28107",
+        "eurostat:nuts_2021_id":"28107",
         "gn:id":6359328,
         "gp:id":12688048,
         "qs_pg:id":1060896
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"32f48d0729dc15c2673d81ef805a62c6",
+    "wof:geomhash":"a148c435175abd5917ba9b3e21e88572",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404338917,
-    "wof:lastmodified":1582361456,
+    "wof:lastmodified":1684352384,
     "wof:name":"Patones",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":539,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

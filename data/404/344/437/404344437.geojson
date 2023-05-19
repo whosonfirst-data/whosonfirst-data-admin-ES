@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castillo de Bayuela",
+    "eurostat:nuts_2021_id":"45043",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45043",
+    "eurostat:population":920,
+    "eurostat:population_year":2020,
     "geom:area":0.003935,
     "geom:area_square_m":37234703.880539,
     "geom:bbox":"-4.72479818,40.02199081,-4.65657532,40.13724838",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45043",
+        "eurostat:nuts_2021_id":"45043",
         "gn:id":6361704,
         "gp:id":12690965,
         "qs_pg:id":1009380
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"51d6161bc02ec4f74b869b9ea0423f07",
+    "wof:geomhash":"3bd504f2c8f9edf90094f76efc32ac85",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404344437,
-    "wof:lastmodified":1582361848,
+    "wof:lastmodified":1684352474,
     "wof:name":"Castillo De Bayuela",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":920,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

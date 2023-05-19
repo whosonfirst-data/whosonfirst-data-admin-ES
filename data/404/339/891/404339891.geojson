@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31193",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cendea de Olza / Oltza Zendea",
+    "eurostat:nuts_2021_id":"31193",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31193",
+    "eurostat:population":1860,
+    "eurostat:population_year":2020,
     "geom:area":0.004541,
-    "geom:area_square_m":41185025.701514,
+    "geom:area_square_m":41185025.701512,
     "geom:bbox":"-1.83918322,42.79128076,-1.69002162,42.86024945",
     "geom:latitude":42.820758,
     "geom:longitude":-1.765821,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227391
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_31193",
+        "eurostat:nuts_2021_id":"31193"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"953ef4b6fb43bc82aa4513eb8e702239",
+    "wof:geomhash":"b6ba9a2a8c8ed4438ff4e7c3c269c1b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404339891,
-    "wof:lastmodified":1566590130,
+    "wof:lastmodified":1684352400,
     "wof:name":"Cendea De Olza/Oltza Zendea",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":1860,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

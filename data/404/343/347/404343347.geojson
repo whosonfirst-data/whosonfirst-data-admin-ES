@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42195",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valdenebro",
+    "eurostat:nuts_2021_id":"42195",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42195",
+    "eurostat:population":94,
+    "eurostat:population_year":2020,
     "geom:area":0.005551,
     "geom:area_square_m":51343032.961629,
     "geom:bbox":"-2.99241638,41.5419513,-2.85744763,41.62692323",
@@ -165,6 +177,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -173,6 +187,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42195",
+        "eurostat:nuts_2021_id":"42195",
         "gn:id":6361223,
         "gp:id":12692882,
         "qs_pg:id":262682
@@ -181,7 +197,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fadbc45cb78fd57096459849029b56bf",
+    "wof:geomhash":"820d2a5280002ae76ea3a23dbad772fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -192,10 +208,12 @@
         }
     ],
     "wof:id":404343347,
-    "wof:lastmodified":1582361876,
+    "wof:lastmodified":1684352450,
     "wof:name":"Valdenebro",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":94,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19126",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gal\u00e1pagos",
+    "eurostat:nuts_2021_id":"19126",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19126",
+    "eurostat:population":2475,
+    "eurostat:population_year":2020,
     "geom:area":0.003625,
-    "geom:area_square_m":33973989.767902,
+    "geom:area_square_m":33973989.767903,
     "geom:bbox":"-3.40051125,40.67815767,-3.29911876,40.73713986",
     "geom:latitude":40.708983,
     "geom:longitude":-3.351168,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19126",
+        "eurostat:nuts_2021_id":"19126",
         "gn:id":6357909,
         "gp:id":12690739,
         "qs_pg:id":289910
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2ba659e7b7d115d11955621b78fb04c9",
+    "wof:geomhash":"b45a7fcdc832fd5be44cf0394c870974",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404335667,
-    "wof:lastmodified":1582361700,
+    "wof:lastmodified":1684352328,
     "wof:name":"Gal\u00e1pagos",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":2475,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

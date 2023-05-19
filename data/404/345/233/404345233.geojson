@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46193",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Picanya",
+    "eurostat:nuts_2021_id":"46193",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46193",
+    "eurostat:population":11606,
+    "eurostat:population_year":2020,
     "geom:area":0.000745,
     "geom:area_square_m":7110907.283826,
     "geom:bbox":"-0.45690474,39.41300704,-0.41973324,39.45250991",
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46193",
+        "eurostat:nuts_2021_id":"46193",
         "gn:id":6362058,
         "gp:id":12695728,
         "qs_pg:id":1095502
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6826a999e283e0e793c84a56b5c91e92",
+    "wof:geomhash":"4446a330d963078bd1d45002286b5815",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404345233,
-    "wof:lastmodified":1582361830,
+    "wof:lastmodified":1684352484,
     "wof:name":"Picanya",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":11606,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

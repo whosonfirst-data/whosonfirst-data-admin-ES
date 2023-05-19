@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ador",
+    "eurostat:nuts_2021_id":"46002",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46002",
+    "eurostat:population":1730,
+    "eurostat:population_year":2020,
     "geom:area":0.001435,
-    "geom:area_square_m":13802385.727544,
+    "geom:area_square_m":13802385.727545,
     "geom:bbox":"-0.30286862,38.89486725,-0.19487916,38.96843043",
     "geom:latitude":38.9237,
     "geom:longitude":-0.241829,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46002",
+        "eurostat:nuts_2021_id":"46002",
         "gn:id":6361867,
         "gp:id":12695543,
         "qs_pg:id":343385
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7d8596be15b363348a0765cf337a340d",
+    "wof:geomhash":"a66363f31eeab36dea48d7e52a7dbc2a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404344803,
-    "wof:lastmodified":1582361848,
+    "wof:lastmodified":1684352479,
     "wof:name":"Ador",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":1730,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

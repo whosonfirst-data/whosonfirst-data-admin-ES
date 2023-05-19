@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10129",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Morcillo",
+    "eurostat:nuts_2021_id":"10129",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10129",
+    "eurostat:population":358,
+    "eurostat:population_year":2020,
     "geom:area":0.001712,
-    "geom:area_square_m":16215643.308657,
+    "geom:area_square_m":16215643.308658,
     "geom:bbox":"-6.43106123,39.9598904,-6.39116476,40.03724099",
     "geom:latitude":40.000208,
     "geom:longitude":-6.407263,
@@ -99,6 +111,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -106,9 +120,12 @@
         404227383
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_10129",
+        "eurostat:nuts_2021_id":"10129"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"a314df8af6394bb7381f38fd75af20fa",
+    "wof:geomhash":"064788a46ae45f67aa061236da96b7a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +136,12 @@
         }
     ],
     "wof:id":404332797,
-    "wof:lastmodified":1566590472,
+    "wof:lastmodified":1684352269,
     "wof:name":"Morcillo",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":358,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_14021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"C\u00f3rdoba",
+    "eurostat:nuts_2021_id":"14021",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES613",
+    "eurostat:nuts_2021_level_lau":"14021",
+    "eurostat:population":326039,
+    "eurostat:population_year":2020,
     "geom:area":0.128493,
-    "geom:area_square_m":1254595223.43556,
+    "geom:area_square_m":1254595250.868404,
     "geom:bbox":"-4.998599,37.665823,-4.351428,38.031517",
     "geom:latitude":37.849225,
     "geom:longitude":-4.701758,
@@ -316,14 +328,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
-        404227361,
-        85682697
+        85682697,
+        404227361
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_14021",
+        "eurostat:nuts_2021_id":"14021",
         "gn:id":2519240,
         "gp:id":12688792,
         "qs_pg:id":839997
@@ -332,7 +348,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"20d7f23325389fcb7d8061bcab7d5226",
+    "wof:geomhash":"ab61b3d50af6890e56c192b79b225108",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -343,10 +359,12 @@
         }
     ],
     "wof:id":404333687,
-    "wof:lastmodified":1654531074,
+    "wof:lastmodified":1684352283,
     "wof:name":"Cordoba",
     "wof:parent_id":85682697,
     "wof:placetype":"localadmin",
+    "wof:population":326039,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

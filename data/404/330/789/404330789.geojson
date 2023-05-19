@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_07027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Inca",
+    "eurostat:nuts_2021_id":"07027",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES53",
+    "eurostat:nuts_2021_level_3":"ES532",
+    "eurostat:nuts_2021_level_lau":"07027",
+    "eurostat:population":33679,
+    "eurostat:population_year":2020,
     "geom:area":0.006127,
-    "geom:area_square_m":58282939.294054,
+    "geom:area_square_m":58282939.294053,
     "geom:bbox":"2.87806418,39.67070072,2.99970859,39.7508091",
     "geom:latitude":39.711727,
     "geom:longitude":2.942162,
@@ -57,6 +69,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -65,6 +79,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_07027",
+        "eurostat:nuts_2021_id":"07027",
         "gn:id":6533948,
         "gp:id":12687733,
         "qs_pg:id":77810
@@ -73,7 +89,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8b3ee960dcfb087605cead2c68f5d983",
+    "wof:geomhash":"21a57a557db8b3ba0c8524f411e81ddf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +100,12 @@
         }
     ],
     "wof:id":404330789,
-    "wof:lastmodified":1582361544,
+    "wof:lastmodified":1684352230,
     "wof:name":"Inca",
     "wof:parent_id":85682647,
     "wof:placetype":"localadmin",
+    "wof:population":33679,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

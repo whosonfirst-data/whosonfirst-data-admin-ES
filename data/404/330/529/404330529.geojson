@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06077",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Malcocinado",
+    "eurostat:nuts_2021_id":"06077",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06077",
+    "eurostat:population":356,
+    "eurostat:population_year":2020,
     "geom:area":0.002696,
     "geom:area_square_m":26228354.501001,
     "geom:bbox":"-5.74073725,38.08104692,-5.68340579,38.17135221",
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06077",
+        "eurostat:nuts_2021_id":"06077",
         "gn:id":6355942,
         "gp:id":12694396,
         "qs_pg:id":47888
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7385db42e53a54d91f89d7a1c0eec28b",
+    "wof:geomhash":"a0bc77d0640151a414fd365d87cdea15",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404330529,
-    "wof:lastmodified":1582361531,
+    "wof:lastmodified":1684352225,
     "wof:name":"Malcocinado",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":356,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

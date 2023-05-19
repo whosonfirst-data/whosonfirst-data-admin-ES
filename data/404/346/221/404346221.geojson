@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bustillo del Oro",
+    "eurostat:nuts_2021_id":"49030",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49030",
+    "eurostat:population":80,
+    "eurostat:population_year":2020,
     "geom:area":0.001661,
     "geom:area_square_m":15340090.320753,
     "geom:bbox":"-5.49622107,41.65490791,-5.41325242,41.69197325",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_49030",
+        "eurostat:nuts_2021_id":"49030",
         "gn:id":6362477,
         "gp:id":12693156,
         "qs_pg:id":1149366
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0be4a99f8573d173317820071ee07f00",
+    "wof:geomhash":"34f2b4f216cbc8d5b155b3534bf10fd7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404346221,
-    "wof:lastmodified":1582361609,
+    "wof:lastmodified":1684352497,
     "wof:name":"Bustillo Del Oro",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":80,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

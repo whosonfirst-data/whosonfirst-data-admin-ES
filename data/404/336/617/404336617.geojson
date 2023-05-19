@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22083",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castej\u00f3n de Monegros",
+    "eurostat:nuts_2021_id":"22083",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22083",
+    "eurostat:population":510,
+    "eurostat:population_year":2020,
     "geom:area":0.017868,
-    "geom:area_square_m":165104266.677545,
+    "geom:area_square_m":165104266.677543,
     "geom:bbox":"-0.33621414,41.57253497,-0.09344016,41.7464294",
     "geom:latitude":41.645919,
     "geom:longitude":-0.208887,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22083",
+        "eurostat:nuts_2021_id":"22083",
         "gn:id":6358324,
         "gp:id":12689465,
         "qs_pg:id":1146483
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3c7d612ec3ddcfbac522755d791f8371",
+    "wof:geomhash":"0346aa0ca96b38e6ec37d46d8491c3ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404336617,
-    "wof:lastmodified":1582361462,
+    "wof:lastmodified":1684352341,
     "wof:name":"Castej\u00f3n De Monegros",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":510,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

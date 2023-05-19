@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8084,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08084",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fonollosa",
+    "eurostat:nuts_2021_id":"08084",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08084",
+    "eurostat:population":1459,
+    "eurostat:population_year":2020,
     "geom:area":0.005685,
-    "geom:area_square_m":52433265.846391,
+    "geom:area_square_m":52433265.846393,
     "geom:bbox":"1.62927563434,41.7334250154,1.7896047033,41.8037406843",
     "geom:latitude":41.764928,
     "geom:longitude":1.712582,
@@ -127,6 +139,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -135,7 +149,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08084",
         "esp-icgc:la_lc":"08084",
+        "eurostat:nuts_2021_id":"08084",
         "gn:id":6356115,
         "gp:id":12693464,
         "qs_pg:id":955112
@@ -145,7 +161,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"1ca12174c18c3abe5c453aa212773f52",
+    "wof:geomhash":"94b937d091f97109d2f9d68680b31d68",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404331067,
-    "wof:lastmodified":1582361511,
+    "wof:lastmodified":1684352240,
     "wof:name":"Fonollosa",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":1459,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

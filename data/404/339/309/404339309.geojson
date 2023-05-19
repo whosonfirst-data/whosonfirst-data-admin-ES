@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_29098",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villanueva de Tapia",
+    "eurostat:nuts_2021_id":"29098",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES617",
+    "eurostat:nuts_2021_level_lau":"29098",
+    "eurostat:population":1460,
+    "eurostat:population_year":2020,
     "geom:area":0.002245,
-    "geom:area_square_m":22115761.583456,
+    "geom:area_square_m":22115761.583457,
     "geom:bbox":"-4.37352186,37.15057137,-4.30936719,37.21475641",
     "geom:latitude":37.181804,
     "geom:longitude":-4.342348,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_29098",
+        "eurostat:nuts_2021_id":"29098",
         "gn:id":6359502,
         "gp:id":12689285,
         "qs_pg:id":953822
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"70a26a4488447a5513415caa325fc663",
+    "wof:geomhash":"e159725bbbf27e80154c9e2053e68ab5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404339309,
-    "wof:lastmodified":1582361580,
+    "wof:lastmodified":1684352392,
     "wof:name":"Villanueva De Tapia",
     "wof:parent_id":85682787,
     "wof:placetype":"localadmin",
+    "wof:population":1460,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

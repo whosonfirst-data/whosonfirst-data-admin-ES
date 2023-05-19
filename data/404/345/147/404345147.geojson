@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46155",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Llaur\u00ed",
+    "eurostat:nuts_2021_id":"46155",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46155",
+    "eurostat:population":1130,
+    "eurostat:population_year":2020,
     "geom:area":0.001419,
     "geom:area_square_m":13613796.743775,
     "geom:bbox":"-0.34758681,39.11190165,-0.29569101,39.17612368",
@@ -87,6 +99,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -95,6 +109,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46155",
+        "eurostat:nuts_2021_id":"46155",
         "gn:id":6362020,
         "gp:id":12695683,
         "qs_pg:id":1023758
@@ -103,7 +119,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"33130f0e3cf0c53f41881192990e15c2",
+    "wof:geomhash":"f3e7020621dc4dc34c6dd5d795b8505f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,10 +130,12 @@
         }
     ],
     "wof:id":404345147,
-    "wof:lastmodified":1582361841,
+    "wof:lastmodified":1684352483,
     "wof:name":"Llaur\u00ed",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":1130,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

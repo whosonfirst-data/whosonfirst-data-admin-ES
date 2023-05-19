@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bigastro",
+    "eurostat:nuts_2021_id":"03044",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03044",
+    "eurostat:population":6909,
+    "eurostat:population_year":2020,
     "geom:area":0.000421,
-    "geom:area_square_m":4095751.903351,
+    "geom:area_square_m":4095751.90335,
     "geom:bbox":"-0.91156622,38.04464963,-0.87444037,38.07344697",
     "geom:latitude":38.060211,
     "geom:longitude":-0.895407,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03044",
+        "eurostat:nuts_2021_id":"03044",
         "gn:id":6355420,
         "gp:id":12695309,
         "qs_pg:id":384554
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"45611322e283ee2a59efe47ad0b413a6",
+    "wof:geomhash":"050fb6b91253b8738a333d01d72b2a34",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404329351,
-    "wof:lastmodified":1582361796,
+    "wof:lastmodified":1684352208,
     "wof:name":"Bigastro",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":6909,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

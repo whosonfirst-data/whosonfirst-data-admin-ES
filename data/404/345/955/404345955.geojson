@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Artea",
+    "eurostat:nuts_2021_id":"48023",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48023",
+    "eurostat:population":733,
+    "eurostat:population_year":2020,
     "geom:area":0.001366,
     "geom:area_square_m":12324899.192738,
     "geom:bbox":"-2.82940327,43.10212568,-2.77143906,43.14986925",
@@ -99,6 +111,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -106,9 +120,12 @@
         404227393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_48023",
+        "eurostat:nuts_2021_id":"48023"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"4bebec1e36317b440fcddeb13bcdf7be",
+    "wof:geomhash":"1a24cca64d785ae348cf0084755c109e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +136,12 @@
         }
     ],
     "wof:id":404345955,
-    "wof:lastmodified":1566590995,
+    "wof:lastmodified":1684352492,
     "wof:name":"Artea",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":733,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

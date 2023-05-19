@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31185",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ochagav\u00eda / Otsagabia",
+    "eurostat:nuts_2021_id":"31185",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31185",
+    "eurostat:population":501,
+    "eurostat:population_year":2020,
     "geom:area":0.0143,
-    "geom:area_square_m":129405198.148863,
+    "geom:area_square_m":129405198.148862,
     "geom:bbox":"-1.17010147,42.89532453,-0.97088809,43.02392855",
     "geom:latitude":42.958538,
     "geom:longitude":-1.075829,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227391
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_31185",
+        "eurostat:nuts_2021_id":"31185"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"b0d8bb7bd857c6ea6d1fa3baed449dd2",
+    "wof:geomhash":"acb231974264db3f66bb201bf972cec7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404339873,
-    "wof:lastmodified":1566590085,
+    "wof:lastmodified":1684352399,
     "wof:name":"Ochagav\u00eda/Otsagabia",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":501,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

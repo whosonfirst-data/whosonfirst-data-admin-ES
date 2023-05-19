@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_14065",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Victoria, La",
+    "eurostat:nuts_2021_id":"14065",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES613",
+    "eurostat:nuts_2021_level_lau":"14065",
+    "eurostat:population":2289,
+    "eurostat:population_year":2020,
     "geom:area":0.001979,
-    "geom:area_square_m":19363323.564152,
+    "geom:area_square_m":19363325.25389,
     "geom:bbox":"-4.882355,37.651604,-4.823114,37.731679",
     "geom:latitude":37.696414,
     "geom:longitude":-4.85459,
@@ -126,6 +138,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -134,6 +148,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_14065",
+        "eurostat:nuts_2021_id":"14065",
         "gn:id":6357260,
         "qs_pg:id":621610
     },
@@ -141,7 +157,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a043696c3ae7be607d4803fc081c1423",
+    "wof:geomhash":"088858c25c84038e9fb381807b931c11",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404333785,
-    "wof:lastmodified":1636503325,
+    "wof:lastmodified":1684352284,
     "wof:name":"La Victoria",
     "wof:parent_id":85682697,
     "wof:placetype":"localadmin",
+    "wof:population":2289,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

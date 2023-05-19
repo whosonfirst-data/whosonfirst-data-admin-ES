@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Acedera",
+    "eurostat:nuts_2021_id":"06001",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06001",
+    "eurostat:population":826,
+    "eurostat:population_year":2020,
     "geom:area":0.008584,
-    "geom:area_square_m":82403896.665066,
+    "geom:area_square_m":82403896.665065,
     "geom:bbox":"-5.67217068,39.01004361,-5.51444157,39.14312125",
     "geom:latitude":39.071148,
     "geom:longitude":-5.594416,
@@ -117,6 +129,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -124,9 +138,12 @@
         404227383
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_06001",
+        "eurostat:nuts_2021_id":"06001"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"2766db0d5104375b39113e09b28567d2",
+    "wof:geomhash":"7358f3e54ebc3bcd4fbf5e03b6642d11",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +154,12 @@
         }
     ],
     "wof:id":404330359,
-    "wof:lastmodified":1566589910,
+    "wof:lastmodified":1684352222,
     "wof:name":"Acedera",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":826,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

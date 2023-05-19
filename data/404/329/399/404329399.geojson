@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03066",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Elda",
+    "eurostat:nuts_2021_id":"03066",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03066",
+    "eurostat:population":52813,
+    "eurostat:population_year":2020,
     "geom:area":0.004727,
-    "geom:area_square_m":45760201.086471,
+    "geom:area_square_m":45760201.08647,
     "geom:bbox":"-0.87428707,38.43077668,-0.78026264,38.51302925",
     "geom:latitude":38.474903,
     "geom:longitude":-0.820687,
@@ -141,6 +153,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -148,9 +162,12 @@
         404227381
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_03066",
+        "eurostat:nuts_2021_id":"03066"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"067dd440eb6ac86d7e459c517c86286e",
+    "wof:geomhash":"fcda9fb6325a0a041d02daec6dea6c82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +178,12 @@
         }
     ],
     "wof:id":404329399,
-    "wof:lastmodified":1566590844,
+    "wof:lastmodified":1684352209,
     "wof:name":"Elda",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":52813,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

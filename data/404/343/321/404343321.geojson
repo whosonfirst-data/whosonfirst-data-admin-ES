@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42182",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Taroda",
+    "eurostat:nuts_2021_id":"42182",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42182",
+    "eurostat:population":47,
+    "eurostat:population_year":2020,
     "geom:area":0.00397,
-    "geom:area_square_m":36863430.917043,
+    "geom:area_square_m":36863430.917044,
     "geom:bbox":"-2.45423777,41.28542936,-2.36737638,41.36890281",
     "geom:latitude":41.333141,
     "geom:longitude":-2.419101,
@@ -177,6 +189,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -185,6 +199,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42182",
+        "eurostat:nuts_2021_id":"42182",
         "gn:id":6361211,
         "gp:id":12692870,
         "qs_pg:id":1019402
@@ -193,7 +209,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"957e7131d8327f2f81c5b84be4f206e1",
+    "wof:geomhash":"f80a7267b9455981aae2b2a9fb041b06",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -204,10 +220,12 @@
         }
     ],
     "wof:id":404343321,
-    "wof:lastmodified":1582361894,
+    "wof:lastmodified":1684352450,
     "wof:name":"Taroda",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":47,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

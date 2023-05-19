@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_34067",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dehesa de Montejo",
+    "eurostat:nuts_2021_id":"34067",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES414",
+    "eurostat:nuts_2021_level_lau":"34067",
+    "eurostat:population":127,
+    "eurostat:population_year":2020,
     "geom:area":0.004819,
-    "geom:area_square_m":43711275.118433,
+    "geom:area_square_m":43711275.118432,
     "geom:bbox":"-4.59048048,42.76604532,-4.45246206,42.85985168",
     "geom:latitude":42.820095,
     "geom:longitude":-4.515086,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_34067",
+        "eurostat:nuts_2021_id":"34067",
         "gn:id":6360031,
         "gp:id":12692009,
         "qs_pg:id":1016852
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5ec05f01a6d681c67e5b02ceb246d947",
+    "wof:geomhash":"75290dc999154d87cd5c27849b838250",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404340571,
-    "wof:lastmodified":1582361665,
+    "wof:lastmodified":1684352410,
     "wof:name":"Dehesa De Montejo",
     "wof:parent_id":85682815,
     "wof:placetype":"localadmin",
+    "wof:population":127,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

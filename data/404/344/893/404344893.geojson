@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aielo de Malferit",
+    "eurostat:nuts_2021_id":"46042",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46042",
+    "eurostat:population":4625,
+    "eurostat:population_year":2020,
     "geom:area":0.002776,
     "geom:area_square_m":26719680.503396,
     "geom:bbox":"-0.66102209,38.8591585,-0.56650084,38.92255079",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46042",
+        "eurostat:nuts_2021_id":"46042",
         "gn:id":6361907,
         "gp:id":12695546,
         "qs_pg:id":1298563
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"636af715c63e83ee5a5242cbf3cf2f36",
+    "wof:geomhash":"40e9737c000acc6473484786412d41cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404344893,
-    "wof:lastmodified":1582361849,
+    "wof:lastmodified":1684352480,
     "wof:name":"Aielo De Malferit",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":4625,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

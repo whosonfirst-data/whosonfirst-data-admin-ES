@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Almuniente",
+    "eurostat:nuts_2021_id":"22023",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22023",
+    "eurostat:population":457,
+    "eurostat:population_year":2020,
     "geom:area":0.004077,
-    "geom:area_square_m":37503213.418215,
+    "geom:area_square_m":37503213.418216,
     "geom:bbox":"-0.48132463,41.89674585,-0.3829621,41.97165977",
     "geom:latitude":41.93124,
     "geom:longitude":-0.432239,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22023",
+        "eurostat:nuts_2021_id":"22023",
         "gn:id":6358276,
         "gp:id":12689417,
         "qs_pg:id":45299
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"748cb74cb32ef833c4c580d282baa014",
+    "wof:geomhash":"99bc987ffe3d61b30d06bc411ab88523",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404336505,
-    "wof:lastmodified":1582361459,
+    "wof:lastmodified":1684352339,
     "wof:name":"Almuniente",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":457,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

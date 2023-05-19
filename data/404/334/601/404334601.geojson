@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17022,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bisbal d'Empord\u00e0, La",
+    "eurostat:nuts_2021_id":"17022",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17022",
+    "eurostat:population":11159,
+    "eurostat:population_year":2020,
     "geom:area":0.002251,
-    "geom:area_square_m":20707177.960901,
+    "geom:area_square_m":20707169.941272,
     "geom:bbox":"3.021403,41.901057,3.06684,41.991216",
     "geom:latitude":41.944048,
     "geom:longitude":3.042959,
@@ -59,6 +71,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -67,7 +81,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17022",
         "esp-icgc:la_lc":"017022",
+        "eurostat:nuts_2021_id":"17022",
         "gn:id":6534020,
         "gp:id":12693704,
         "qs_pg:id":1298391
@@ -77,7 +93,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"50b66a2f9b501cd2f82c54360cd5a21c",
+    "wof:geomhash":"208a7ed88dc358f1d076e8b03cf17d67",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,10 +104,12 @@
         }
     ],
     "wof:id":404334601,
-    "wof:lastmodified":1669903053,
+    "wof:lastmodified":1684352300,
     "wof:name":"La Bisbal d'Empord\u00e0",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":11159,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

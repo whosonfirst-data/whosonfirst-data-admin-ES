@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Atalaya del Ca\u00f1avate",
+    "eurostat:nuts_2021_id":"16026",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16026",
+    "eurostat:population":98,
+    "eurostat:population_year":2020,
     "geom:area":0.004856,
-    "geom:area_square_m":46321276.305144,
+    "geom:area_square_m":46321276.305142,
     "geom:bbox":"-2.29817383,39.47590163,-2.18917918,39.55319011",
     "geom:latitude":39.514647,
     "geom:longitude":-2.245671,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16026",
+        "eurostat:nuts_2021_id":"16026",
         "gn:id":6357386,
         "gp:id":12690422,
         "qs_pg:id":954174
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"59779e77bde41636e063aa61a400998e",
+    "wof:geomhash":"caea557d0fef295832409aa4064ffde9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404334075,
-    "wof:lastmodified":1582361746,
+    "wof:lastmodified":1684352293,
     "wof:name":"Atalaya Del Ca\u00f1avate",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":98,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

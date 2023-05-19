@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05162",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Navalperal de Tormes",
+    "eurostat:nuts_2021_id":"05162",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05162",
+    "eurostat:population":81,
+    "eurostat:population_year":2020,
     "geom:area":0.00646,
     "geom:area_square_m":60894736.574083,
     "geom:bbox":"-5.3269541,40.24815426,-5.23243422,40.41420231",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05162",
+        "eurostat:nuts_2021_id":"05162",
         "gn:id":6355762,
         "gp:id":12691271,
         "qs_pg:id":482767
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d576662688026738cc5a10f2411dacb9",
+    "wof:geomhash":"f2d19f4ce91e12bb90e93bd927f75ebb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330123,
-    "wof:lastmodified":1582361541,
+    "wof:lastmodified":1684352219,
     "wof:name":"Navalperal De Tormes",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":81,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

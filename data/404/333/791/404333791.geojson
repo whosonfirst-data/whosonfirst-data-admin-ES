@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_14068",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villaharta",
+    "eurostat:nuts_2021_id":"14068",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES613",
+    "eurostat:nuts_2021_level_lau":"14068",
+    "eurostat:population":621,
+    "eurostat:population_year":2020,
     "geom:area":0.001229,
-    "geom:area_square_m":11956239.171034,
+    "geom:area_square_m":11956239.171033,
     "geom:bbox":"-4.92889527,38.11556729,-4.87785139,38.15956982",
     "geom:latitude":38.138605,
     "geom:longitude":-4.899835,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_14068",
+        "eurostat:nuts_2021_id":"14068",
         "gn:id":6357263,
         "gp:id":12688839,
         "qs_pg:id":1018474
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2b757c5f3d5ced9971d5f8e41a413039",
+    "wof:geomhash":"e106b2c91c160eb55fea02577dbfd657",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404333791,
-    "wof:lastmodified":1582361760,
+    "wof:lastmodified":1684352284,
     "wof:name":"Villaharta",
     "wof:parent_id":85682697,
     "wof:placetype":"localadmin",
+    "wof:population":621,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

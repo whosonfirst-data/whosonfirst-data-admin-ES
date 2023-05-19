@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09169",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hortig\u00fcela",
+    "eurostat:nuts_2021_id":"09169",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09169",
+    "eurostat:population":105,
+    "eurostat:population_year":2020,
     "geom:area":0.002247,
     "geom:area_square_m":20631188.519496,
     "geom:bbox":"-3.498396,42.0334645,-3.39934264,42.08829499",
@@ -108,6 +120,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -115,9 +129,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_09169",
+        "eurostat:nuts_2021_id":"09169"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"645e1b2e27d75b7f6eb9f622357b0288",
+    "wof:geomhash":"a029fff56e22d9a0d5b1d68aa61ec02d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +145,12 @@
         }
     ],
     "wof:id":404331933,
-    "wof:lastmodified":1566589814,
+    "wof:lastmodified":1684352259,
     "wof:name":"Hortig\u00fcela",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":105,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

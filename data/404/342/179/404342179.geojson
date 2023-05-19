@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_39062",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ribamont\u00e1n al Monte",
+    "eurostat:nuts_2021_id":"39062",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES13",
+    "eurostat:nuts_2021_level_3":"ES130",
+    "eurostat:nuts_2021_level_lau":"39062",
+    "eurostat:population":2303,
+    "eurostat:population_year":2020,
     "geom:area":0.0047,
     "geom:area_square_m":42222415.348886,
     "geom:bbox":"-3.71845981,43.37478175,-3.61125841,43.44140413",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227371
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_39062",
+        "eurostat:nuts_2021_id":"39062"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"2d893171eccb5318b4c2dfda170245a3",
+    "wof:geomhash":"c8ae21602453da165ed21c4140d17c6e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404342179,
-    "wof:lastmodified":1566590982,
+    "wof:lastmodified":1684352436,
     "wof:name":"Ribamont\u00e1n Al Monte",
     "wof:parent_id":85682833,
     "wof:placetype":"localadmin",
+    "wof:population":2303,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

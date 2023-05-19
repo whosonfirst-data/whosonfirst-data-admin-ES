@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bernardos",
+    "eurostat:nuts_2021_id":"40030",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40030",
+    "eurostat:population":465,
+    "eurostat:population_year":2020,
     "geom:area":0.003124,
     "geom:area_square_m":29089712.394775,
     "geom:bbox":"-4.38516363,41.10076536,-4.30658959,41.17996823",
@@ -87,6 +99,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -94,9 +108,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_40030",
+        "eurostat:nuts_2021_id":"40030"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"444124528da0841a7f51dfb76cc47cb8",
+    "wof:geomhash":"0e665cd305c95369e3ba0f53d4a274f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +124,12 @@
         }
     ],
     "wof:id":404342331,
-    "wof:lastmodified":1566590913,
+    "wof:lastmodified":1684352438,
     "wof:name":"Bernardos",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":465,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31238",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Unzu\u00e9 / Untzue",
+    "eurostat:nuts_2021_id":"31238",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31238",
+    "eurostat:population":154,
+    "eurostat:population_year":2020,
     "geom:area":0.002073,
-    "geom:area_square_m":18847985.616443,
+    "geom:area_square_m":18847985.616442,
     "geom:bbox":"-1.6727849,42.63362911,-1.56803047,42.69376951",
     "geom:latitude":42.663216,
     "geom:longitude":-1.623402,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227391
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_31238",
+        "eurostat:nuts_2021_id":"31238"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"1116ab670caffd9c1f5dbbaca42eedad",
+    "wof:geomhash":"7fb281770651a49cce73a9c02c86fe81",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404339991,
-    "wof:lastmodified":1566590073,
+    "wof:lastmodified":1684352401,
     "wof:name":"Unzu\u00e9/Untzue",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":154,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

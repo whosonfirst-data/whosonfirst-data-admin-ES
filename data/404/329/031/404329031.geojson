@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_01056",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Harana / Valle de Arana",
+    "eurostat:nuts_2021_id":"01056",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES211",
+    "eurostat:nuts_2021_level_lau":"01056",
+    "eurostat:population":218,
+    "eurostat:population_year":2020,
     "geom:area":0.004302,
-    "geom:area_square_m":39059001.686576,
+    "geom:area_square_m":39059001.686577,
     "geom:bbox":"-2.38040289,42.71600876,-2.26207536,42.79717741",
     "geom:latitude":42.757209,
     "geom:longitude":-2.318377,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_01056",
+        "eurostat:nuts_2021_id":"01056"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"7e37bccbe9d33985394d18c054a4e267",
+    "wof:geomhash":"443319962b01cbaf2b8fcfc6f2b9db7c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404329031,
-    "wof:lastmodified":1566590861,
+    "wof:lastmodified":1684352203,
     "wof:name":"Harana/Valle De Arana",
     "wof:parent_id":85682615,
     "wof:placetype":"localadmin",
+    "wof:population":218,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

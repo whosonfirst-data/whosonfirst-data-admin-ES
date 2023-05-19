@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_30020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fortuna",
+    "eurostat:nuts_2021_id":"30020",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES62",
+    "eurostat:nuts_2021_level_3":"ES620",
+    "eurostat:nuts_2021_level_lau":"30020",
+    "eurostat:population":10289,
+    "eurostat:population_year":2020,
     "geom:area":0.015359,
-    "geom:area_square_m":149238616.330332,
+    "geom:area_square_m":149238616.33033,
     "geom:bbox":"-1.21313399,38.11349373,-1.03060682,38.31621412",
     "geom:latitude":38.203239,
     "geom:longitude":-1.136063,
@@ -177,6 +189,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -185,6 +199,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_30020",
+        "eurostat:nuts_2021_id":"30020",
         "gn:id":6359525,
         "gp:id":12688145,
         "qs_pg:id":245006
@@ -193,7 +209,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3ff74357381b8eab98c0d70576213534",
+    "wof:geomhash":"2b4e8acecfb0014b4a270e174fe89b24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -204,10 +220,12 @@
         }
     ],
     "wof:id":404339363,
-    "wof:lastmodified":1582361582,
+    "wof:lastmodified":1684352393,
     "wof:name":"Fortuna",
     "wof:parent_id":85682791,
     "wof:placetype":"localadmin",
+    "wof:population":10289,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

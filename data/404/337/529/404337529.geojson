@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24187",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valdevimbre",
+    "eurostat:nuts_2021_id":"24187",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24187",
+    "eurostat:population":958,
+    "eurostat:population_year":2020,
     "geom:area":0.007438,
-    "geom:area_square_m":67909359.340092,
+    "geom:area_square_m":67909359.340095,
     "geom:bbox":"-5.72050445,42.35203454,-5.5701612,42.46338914",
     "geom:latitude":42.411691,
     "geom:longitude":-5.648595,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_24187",
+        "eurostat:nuts_2021_id":"24187",
         "gn:id":6358721,
         "gp:id":12691919,
         "qs_pg:id":892903
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e0eed5e6827492b81c9d598256e05d0e",
+    "wof:geomhash":"ed5e48357d98d0b5fd9d74ce6c05a893",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404337529,
-    "wof:lastmodified":1582361563,
+    "wof:lastmodified":1684352353,
     "wof:name":"Valdevimbre",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":958,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

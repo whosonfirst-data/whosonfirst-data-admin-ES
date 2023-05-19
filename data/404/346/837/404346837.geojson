@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50056",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Botorrita",
+    "eurostat:nuts_2021_id":"50056",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50056",
+    "eurostat:population":490,
+    "eurostat:population_year":2020,
     "geom:area":0.002136,
-    "geom:area_square_m":19783711.068676,
+    "geom:area_square_m":19783711.068675,
     "geom:bbox":"-1.06027878,41.45056257,-1.00704392,41.52772021",
     "geom:latitude":41.489633,
     "geom:longitude":-1.031133,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50056",
+        "eurostat:nuts_2021_id":"50056",
         "gn:id":6362749,
         "gp:id":12689889,
         "qs_pg:id":1095312
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"02fab5e39970783cabfe228489f8a121",
+    "wof:geomhash":"f14b0add33358e1a1ad7b8302814cbe0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404346837,
-    "wof:lastmodified":1582361619,
+    "wof:lastmodified":1684352503,
     "wof:name":"Botorrita",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":490,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_41011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arahal",
+    "eurostat:nuts_2021_id":"41011",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES618",
+    "eurostat:nuts_2021_level_lau":"41011",
+    "eurostat:population":19533,
+    "eurostat:population_year":2020,
     "geom:area":0.02041,
-    "geom:area_square_m":201018005.964975,
+    "geom:area_square_m":201018005.964982,
     "geom:bbox":"-5.65861292,37.0670903,-5.43129197,37.28104542",
     "geom:latitude":37.20055,
     "geom:longitude":-5.573429,
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_41011",
+        "eurostat:nuts_2021_id":"41011",
         "gn:id":6360966,
         "gp:id":12689301,
         "qs_pg:id":45235
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9027b2540cf5bb17f4c67a792399e54f",
+    "wof:geomhash":"5cf8588bec7e5fd05715c7cde81e0e5d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404342767,
-    "wof:lastmodified":1582361815,
+    "wof:lastmodified":1684352443,
     "wof:name":"Arahal",
     "wof:parent_id":85682841,
     "wof:placetype":"localadmin",
+    "wof:population":19533,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

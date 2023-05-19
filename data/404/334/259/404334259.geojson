@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16121",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Majadas, Las",
+    "eurostat:nuts_2021_id":"16121",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16121",
+    "eurostat:population":234,
+    "eurostat:population_year":2020,
     "geom:area":0.009243,
-    "geom:area_square_m":87161736.004694,
+    "geom:area_square_m":87161736.004691,
     "geom:bbox":"-2.05472894,40.2321372,-1.94981561,40.3734046",
     "geom:latitude":40.303176,
     "geom:longitude":-2.003222,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16121",
+        "eurostat:nuts_2021_id":"16121",
         "gn:id":6357467,
         "gp:id":12690507,
         "qs_pg:id":621628
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"12f7fe90f06ad6ce26768061e4115ff7",
+    "wof:geomhash":"cc2bbd6f279eb0a84d339b758706f829",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404334259,
-    "wof:lastmodified":1582361726,
+    "wof:lastmodified":1684352295,
     "wof:name":"Las Majadas",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":234,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aldeanueva de Guadalajara",
+    "eurostat:nuts_2021_id":"19015",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19015",
+    "eurostat:population":86,
+    "eurostat:population_year":2020,
     "geom:area":0.001721,
     "geom:area_square_m":16133605.967027,
     "geom:bbox":"-3.07854216,40.66753893,-3.02292873,40.71559757",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19015",
+        "eurostat:nuts_2021_id":"19015",
         "gn:id":6357818,
         "gp:id":12690648,
         "qs_pg:id":400388
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d7ae7ebc5cc0f9c479934518f96ff96d",
+    "wof:geomhash":"f5c96c72330a813ee7dc3f2c8910b6bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404335459,
-    "wof:lastmodified":1582361710,
+    "wof:lastmodified":1684352326,
     "wof:name":"Aldeanueva De Guadalajara",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":86,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

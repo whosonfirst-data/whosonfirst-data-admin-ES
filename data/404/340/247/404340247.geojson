@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_32078",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sarreaus",
+    "eurostat:nuts_2021_id":"32078",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES113",
+    "eurostat:nuts_2021_level_lau":"32078",
+    "eurostat:population":1145,
+    "eurostat:population_year":2020,
     "geom:area":0.008413,
-    "geom:area_square_m":77178394.93544,
+    "geom:area_square_m":77178394.935435,
     "geom:bbox":"-7.68475269,42.04028567,-7.55308645,42.15601526",
     "geom:latitude":42.106894,
     "geom:longitude":-7.603249,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_32078",
+        "eurostat:nuts_2021_id":"32078",
         "gn:id":6359894,
         "gp:id":12694937,
         "qs_pg:id":1188913
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2008e5ab7df60ea8a7e10143b0cf0e15",
+    "wof:geomhash":"f28c19e80b5fc93d01e33c75c41e87f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404340247,
-    "wof:lastmodified":1582361661,
+    "wof:lastmodified":1684352404,
     "wof:name":"Sarreaus",
     "wof:parent_id":85682801,
     "wof:placetype":"localadmin",
+    "wof:population":1145,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

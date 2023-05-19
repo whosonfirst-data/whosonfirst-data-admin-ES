@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Estopi\u00f1\u00e1n del Castillo",
+    "eurostat:nuts_2021_id":"22105",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22105",
+    "eurostat:population":121,
+    "eurostat:population_year":2020,
     "geom:area":0.009642,
-    "geom:area_square_m":88583807.009286,
+    "geom:area_square_m":88583807.009285,
     "geom:bbox":"0.45856734,41.95503944,0.61917228,42.08917226",
     "geom:latitude":42.010196,
     "geom:longitude":0.549573,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22105",
+        "eurostat:nuts_2021_id":"22105",
         "gn:id":6358338,
         "gp:id":12689480,
         "qs_pg:id":1001364
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"597a1982136d4e10ea4e39d63bd11559",
+    "wof:geomhash":"b5f7a9ecc23535f6823e84bda648a56d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404336649,
-    "wof:lastmodified":1582361471,
+    "wof:lastmodified":1684352341,
     "wof:name":"Estopi\u00f1\u00e1n Del Castillo",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":121,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

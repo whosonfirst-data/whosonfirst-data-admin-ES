@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05225",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Mar\u00eda del Berrocal",
+    "eurostat:nuts_2021_id":"05225",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05225",
+    "eurostat:population":388,
+    "eurostat:population_year":2020,
     "geom:area":0.003012,
     "geom:area_square_m":28313347.24281,
     "geom:bbox":"-5.46285902,40.47911955,-5.3673357,40.5342113",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05225",
+        "eurostat:nuts_2021_id":"05225",
         "gn:id":6355822,
         "gp:id":12691334,
         "qs_pg:id":288019
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c345701cd5aad3021a7b8413634b84c3",
+    "wof:geomhash":"28d94c93abe4254e467cc2e41c759d5b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330257,
-    "wof:lastmodified":1582361525,
+    "wof:lastmodified":1684352221,
     "wof:name":"Santa Mar\u00eda Del Berrocal",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":388,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

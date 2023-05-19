@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12115",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Toro, El",
+    "eurostat:nuts_2021_id":"12115",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12115",
+    "eurostat:population":241,
+    "eurostat:population_year":2020,
     "geom:area":0.011589,
-    "geom:area_square_m":109838475.862848,
+    "geom:area_square_m":109838475.862847,
     "geom:bbox":"-0.8462969,39.88324526,-0.70421749,40.04660831",
     "geom:latitude":39.960704,
     "geom:longitude":-0.7744,
@@ -57,6 +69,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -65,6 +79,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12115",
+        "eurostat:nuts_2021_id":"12115",
         "gn:id":6357065,
         "qs_pg:id":621598
     },
@@ -72,7 +88,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fcc53aa6f8777329e05e19ab63ab6725",
+    "wof:geomhash":"6fc15a11b933404277021442c40b9ee5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,10 +99,12 @@
         }
     ],
     "wof:id":404333345,
-    "wof:lastmodified":1582361784,
+    "wof:lastmodified":1684352277,
     "wof:name":"El Toro",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":241,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

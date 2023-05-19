@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45047",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cedillo del Condado",
+    "eurostat:nuts_2021_id":"45047",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45047",
+    "eurostat:population":3826,
+    "eurostat:population_year":2020,
     "geom:area":0.002793,
-    "geom:area_square_m":26423780.44512,
+    "geom:area_square_m":26423780.445119,
     "geom:bbox":"-3.95939223,40.04766636,-3.8977757,40.13209329",
     "geom:latitude":40.091338,
     "geom:longitude":-3.929007,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45047",
+        "eurostat:nuts_2021_id":"45047",
         "gn:id":6361707,
         "gp:id":12690968,
         "qs_pg:id":289915
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3e5e83e1abfe2177718cab27306fd496",
+    "wof:geomhash":"b9f0efdf0bd139c19dede815811b393c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404344443,
-    "wof:lastmodified":1582361854,
+    "wof:lastmodified":1684352474,
     "wof:name":"Cedillo Del Condado",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":3826,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19333",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zaorejas",
+    "eurostat:nuts_2021_id":"19333",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19333",
+    "eurostat:population":104,
+    "eurostat:population_year":2020,
     "geom:area":0.02017,
-    "geom:area_square_m":188917308.090305,
+    "geom:area_square_m":188917308.090303,
     "geom:bbox":"-2.32873353,40.67599314,-2.07094702,40.84614568",
     "geom:latitude":40.7596,
     "geom:longitude":-2.186933,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19333",
+        "eurostat:nuts_2021_id":"19333",
         "gn:id":6358089,
         "gp:id":12690920,
         "qs_pg:id":901562
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d7d6a276abdc8e5f2d168a1e40cb76af",
+    "wof:geomhash":"9b7919e411a82c5ade73509bd29b5aef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404336073,
-    "wof:lastmodified":1582361471,
+    "wof:lastmodified":1684352333,
     "wof:name":"Zaorejas",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":104,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

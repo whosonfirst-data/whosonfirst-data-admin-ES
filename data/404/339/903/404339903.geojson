@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31198",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oronz / Orontze",
+    "eurostat:nuts_2021_id":"31198",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31198",
+    "eurostat:population":48,
+    "eurostat:population_year":2020,
     "geom:area":0.001271,
-    "geom:area_square_m":11521545.07558,
+    "geom:area_square_m":11521545.075582,
     "geom:bbox":"-1.12088379,42.86116336,-1.01444333,42.88967434",
     "geom:latitude":42.875403,
     "geom:longitude":-1.073428,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227391
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_31198",
+        "eurostat:nuts_2021_id":"31198"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"ce28ef3838b6637896e3fc95199c8745",
+    "wof:geomhash":"0673879d6e333e629e590b01e5dbcee2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404339903,
-    "wof:lastmodified":1566590113,
+    "wof:lastmodified":1684352400,
     "wof:name":"Oronz/Orontze",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":48,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

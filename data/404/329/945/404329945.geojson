@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05077",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fuente el Sa\u00faz",
+    "eurostat:nuts_2021_id":"05077",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05077",
+    "eurostat:population":159,
+    "eurostat:population_year":2020,
     "geom:area":0.00105,
-    "geom:area_square_m":9801095.912483,
+    "geom:area_square_m":9801095.912484,
     "geom:bbox":"-4.92641889,40.95101913,-4.87340264,40.9907245",
     "geom:latitude":40.973623,
     "geom:longitude":-4.896528,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_05077",
+        "eurostat:nuts_2021_id":"05077"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"06b11fb94226e021fc51dc30c6874869",
+    "wof:geomhash":"b8e0c45b95b7bf500a7798e5b006925f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404329945,
-    "wof:lastmodified":1566590906,
+    "wof:lastmodified":1684352217,
     "wof:name":"Fuente El Sa\u00faz",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":159,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8286,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08286",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torre de Claramunt, La",
+    "eurostat:nuts_2021_id":"08286",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08286",
+    "eurostat:population":3741,
+    "eurostat:population_year":2020,
     "geom:area":0.001612,
-    "geom:area_square_m":14925384.406052,
+    "geom:area_square_m":14925497.259752,
     "geom:bbox":"1.61461,41.506671,1.702254,41.545133",
     "geom:latitude":41.523718,
     "geom:longitude":1.659093,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08286",
         "esp-icgc:la_lc":"08286",
+        "eurostat:nuts_2021_id":"08286",
         "gp:id":12693660,
         "qs_pg:id":327823
     },
@@ -66,7 +82,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"25cb969acac2173cb7d35baed92bc27a",
+    "wof:geomhash":"e66890645dbca47b219d7381b5fcbda5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,10 +93,12 @@
         }
     ],
     "wof:id":404331517,
-    "wof:lastmodified":1669903003,
+    "wof:lastmodified":1684352254,
     "wof:name":"La Torre de Claramunt",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":3741,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

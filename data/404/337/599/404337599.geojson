@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24224",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villares de \u00d3rbigo",
+    "eurostat:nuts_2021_id":"24224",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24224",
+    "eurostat:population":596,
+    "eurostat:population_year":2020,
     "geom:area":0.00283,
     "geom:area_square_m":25811965.457854,
     "geom:bbox":"-5.97370095,42.44563049,-5.88189169,42.49973201",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_24224",
+        "eurostat:nuts_2021_id":"24224"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"eb95f88536e01350a87d5848e7b4d7ec",
+    "wof:geomhash":"4ea7f09e4d1322502ff4214c4950d450",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404337599,
-    "wof:lastmodified":1566590025,
+    "wof:lastmodified":1684352354,
     "wof:name":"Villares De \u00d3rbigo",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":596,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Abla",
+    "eurostat:nuts_2021_id":"04001",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04001",
+    "eurostat:population":1248,
+    "eurostat:population_year":2020,
     "geom:area":0.00459,
-    "geom:area_square_m":45228959.284383,
+    "geom:area_square_m":45228959.284384,
     "geom:bbox":"-2.78903162,37.08489333,-2.74170006,37.2455947",
     "geom:latitude":37.162399,
     "geom:longitude":-2.766766,
@@ -132,6 +144,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -140,6 +154,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_04001",
+        "eurostat:nuts_2021_id":"04001",
         "gn:id":6355518,
         "gp:id":12688624,
         "qs_pg:id":1085703
@@ -148,7 +164,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2d1f69d74bd3def3dd0ccddc36fdf8b9",
+    "wof:geomhash":"c6515234fd58f32e3a79bc9a4489d70f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,10 +175,12 @@
         }
     ],
     "wof:id":404329571,
-    "wof:lastmodified":1582361802,
+    "wof:lastmodified":1684352211,
     "wof:name":"Abla",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":1248,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

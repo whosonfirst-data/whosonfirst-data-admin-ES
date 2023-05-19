@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_38046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tegueste",
+    "eurostat:nuts_2021_id":"38046",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES7",
+    "eurostat:nuts_2021_level_2":"ES70",
+    "eurostat:nuts_2021_level_3":"ES709",
+    "eurostat:nuts_2021_level_lau":"38046",
+    "eurostat:population":11287,
+    "eurostat:population_year":2020,
     "geom:area":0.002438,
-    "geom:area_square_m":26484371.77228,
+    "geom:area_square_m":26484371.772289,
     "geom:bbox":"-16.37300285,28.49037481,-16.29231347,28.54592373",
     "geom:latitude":28.520048,
     "geom:longitude":-16.335848,
@@ -45,6 +57,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -53,6 +67,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_38046",
+        "eurostat:nuts_2021_id":"38046",
         "gn:id":6360645,
         "gp:id":12690204,
         "qs_pg:id":468042
@@ -61,7 +77,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"89bc210011f1ceb5296cabf959015f11",
+    "wof:geomhash":"442d1d2ff60346a330aa8def0cb60523",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
         }
     ],
     "wof:id":404342021,
-    "wof:lastmodified":1582361819,
+    "wof:lastmodified":1684352433,
     "wof:name":"Tegueste",
     "wof:parent_id":85682831,
     "wof:placetype":"localadmin",
+    "wof:population":11287,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

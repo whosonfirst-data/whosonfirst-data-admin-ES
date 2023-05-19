@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Betx\u00ed",
+    "eurostat:nuts_2021_id":"12021",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12021",
+    "eurostat:population":5618,
+    "eurostat:population_year":2020,
     "geom:area":0.002258,
     "geom:area_square_m":21417354.692797,
     "geom:bbox":"-0.23424223,39.89500626,-0.16811943,39.94908535",
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12021",
+        "eurostat:nuts_2021_id":"12021",
         "gn:id":6356979,
         "gp:id":12695434,
         "qs_pg:id":246087
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ab3140aca4ecfc222c1ce11306a6b880",
+    "wof:geomhash":"4466a29d150e2b9b011d4b4224c248e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404333151,
-    "wof:lastmodified":1582361761,
+    "wof:lastmodified":1684352275,
     "wof:name":"Betx\u00ed",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":5618,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

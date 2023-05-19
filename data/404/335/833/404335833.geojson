@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19213",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pedregal, El",
+    "eurostat:nuts_2021_id":"19213",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19213",
+    "eurostat:population":72,
+    "eurostat:population_year":2020,
     "geom:area":0.002475,
-    "geom:area_square_m":23169887.939096,
+    "geom:area_square_m":23169887.939095,
     "geom:bbox":"-1.60095399,40.75008132,-1.53924447,40.82348239",
     "geom:latitude":40.784348,
     "geom:longitude":-1.562755,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19213",
+        "eurostat:nuts_2021_id":"19213",
         "gn:id":6357982,
         "qs_pg:id":621653
     },
@@ -111,7 +127,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"33ba2ec24ab27ce072f59f09515433c5",
+    "wof:geomhash":"d34bd16d8ec814ed3f946443259db287",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +138,12 @@
         }
     ],
     "wof:id":404335833,
-    "wof:lastmodified":1582361701,
+    "wof:lastmodified":1684352330,
     "wof:name":"El Pedregal",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":72,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

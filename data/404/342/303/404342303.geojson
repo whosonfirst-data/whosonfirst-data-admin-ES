@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aldeonte",
+    "eurostat:nuts_2021_id":"40016",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40016",
+    "eurostat:population":57,
+    "eurostat:population_year":2020,
     "geom:area":0.002212,
-    "geom:area_square_m":20533950.581813,
+    "geom:area_square_m":20533950.581815,
     "geom:bbox":"-3.74566545,41.30297227,-3.64238789,41.36552661",
     "geom:latitude":41.332223,
     "geom:longitude":-3.696135,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_40016",
+        "eurostat:nuts_2021_id":"40016",
         "gn:id":6360761,
         "gp:id":12692526,
         "qs_pg:id":892223
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8ffce60d021daa176930d7f53e6b06c6",
+    "wof:geomhash":"380497f4c88aed81551bb9f1bcab0c44",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404342303,
-    "wof:lastmodified":1582361815,
+    "wof:lastmodified":1684352438,
     "wof:name":"Aldeonte",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":57,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

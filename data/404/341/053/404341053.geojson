@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_36041",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Poio",
+    "eurostat:nuts_2021_id":"36041",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES114",
+    "eurostat:nuts_2021_level_lau":"36041",
+    "eurostat:population":17073,
+    "eurostat:population_year":2020,
     "geom:area":0.003698,
     "geom:area_square_m":33743717.890474,
     "geom:bbox":"-8.76001211,42.40181657,-8.64980292,42.48190241",
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_36041",
+        "eurostat:nuts_2021_id":"36041",
         "gn:id":6360240,
         "gp:id":12694992,
         "qs_pg:id":248815
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4e99349336639a2aff5deee9ba54fb36",
+    "wof:geomhash":"fcca167cb20cea78a4f347b72017201e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404341053,
-    "wof:lastmodified":1582361628,
+    "wof:lastmodified":1684352419,
     "wof:name":"Poio",
     "wof:parent_id":85682825,
     "wof:placetype":"localadmin",
+    "wof:population":17073,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

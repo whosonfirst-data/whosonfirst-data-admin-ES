@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25122,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25122",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Linyola",
+    "eurostat:nuts_2021_id":"25122",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25122",
+    "eurostat:population":2717,
+    "eurostat:population_year":2020,
     "geom:area":0.003118,
-    "geom:area_square_m":28778918.358647,
+    "geom:area_square_m":28778976.056,
     "geom:bbox":"0.856834,41.677501,0.927778,41.740646",
     "geom:latitude":41.707439,
     "geom:longitude":0.890286,
@@ -118,6 +130,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -126,7 +140,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25122",
         "esp-icgc:la_lc":"025122",
+        "eurostat:nuts_2021_id":"25122",
         "gn:id":6358864,
         "gp:id":12694014,
         "qs_pg:id":1174279
@@ -136,7 +152,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4e44f1aad15abc1773ad544c59414905",
+    "wof:geomhash":"19a6ad722bee79ed1a3e6ad2bad03946",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404337855,
-    "wof:lastmodified":1669903028,
+    "wof:lastmodified":1684352362,
     "wof:name":"Linyola",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":2717,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28122",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ribatejada",
+    "eurostat:nuts_2021_id":"28122",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28122",
+    "eurostat:population":801,
+    "eurostat:population_year":2020,
     "geom:area":0.00343,
-    "geom:area_square_m":32174367.066954,
+    "geom:area_square_m":32174367.066953,
     "geom:bbox":"-3.48268038,40.63047058,-3.36232045,40.69245827",
     "geom:latitude":40.66281,
     "geom:longitude":-3.411581,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28122",
+        "eurostat:nuts_2021_id":"28122",
         "gn:id":6359343,
         "gp:id":12688064,
         "qs_pg:id":204484
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5d90f05999124fa004f61a7cd4914f7a",
+    "wof:geomhash":"aca481f6bff017fcbb9da15a5b5a660e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404338951,
-    "wof:lastmodified":1582361445,
+    "wof:lastmodified":1684352385,
     "wof:name":"Ribatejada",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":801,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

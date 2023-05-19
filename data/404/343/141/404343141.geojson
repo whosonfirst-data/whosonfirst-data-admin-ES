@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42081",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Espej\u00f3n",
+    "eurostat:nuts_2021_id":"42081",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42081",
+    "eurostat:population":147,
+    "eurostat:population_year":2020,
     "geom:area":0.002382,
     "geom:area_square_m":21943057.711837,
     "geom:bbox":"-3.28956989,41.81459141,-3.23438867,41.88380964",
@@ -174,6 +186,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -182,6 +196,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42081",
+        "eurostat:nuts_2021_id":"42081",
         "gn:id":6361132,
         "gp:id":12692791,
         "qs_pg:id":46881
@@ -190,7 +206,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5b142d47948553c86c8de1732d0ede4b",
+    "wof:geomhash":"c378f1f939a74e2e89df355181915a2d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -201,10 +217,12 @@
         }
     ],
     "wof:id":404343141,
-    "wof:lastmodified":1582361894,
+    "wof:lastmodified":1684352448,
     "wof:name":"Espej\u00f3n",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":147,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

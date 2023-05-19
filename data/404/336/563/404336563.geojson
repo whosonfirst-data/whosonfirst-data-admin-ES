@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22054",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Benasque",
+    "eurostat:nuts_2021_id":"22054",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22054",
+    "eurostat:population":2184,
+    "eurostat:population_year":2020,
     "geom:area":0.025607,
-    "geom:area_square_m":232935909.630603,
+    "geom:area_square_m":232935909.630604,
     "geom:bbox":"0.43168956,42.5411749,0.7021196,42.70552222",
     "geom:latitude":42.636453,
     "geom:longitude":0.571745,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22054",
+        "eurostat:nuts_2021_id":"22054",
         "gn:id":6358301,
         "gp:id":12689442,
         "qs_pg:id":191202
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3222feb34032874c108b73561085696b",
+    "wof:geomhash":"fbe1a1dfdecb912e0af79413e4839286",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404336563,
-    "wof:lastmodified":1582361469,
+    "wof:lastmodified":1684352340,
     "wof:name":"Benasque",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":2184,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

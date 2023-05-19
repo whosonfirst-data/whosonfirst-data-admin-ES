@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_33031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Langreo",
+    "eurostat:nuts_2021_id":"33031",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES12",
+    "eurostat:nuts_2021_level_3":"ES120",
+    "eurostat:nuts_2021_level_lau":"33031",
+    "eurostat:population":39183,
+    "eurostat:population_year":2020,
     "geom:area":0.009147,
-    "geom:area_square_m":82314368.285732,
+    "geom:area_square_m":82314368.28573,
     "geom:bbox":"-5.77397495,43.22873087,-5.61520713,43.34597487",
     "geom:latitude":43.297405,
     "geom:longitude":-5.694188,
@@ -141,6 +153,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -149,6 +163,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_33031",
+        "eurostat:nuts_2021_id":"33031",
         "gn:id":6359936,
         "gp:id":12688474,
         "qs_pg:id":1146067
@@ -157,7 +173,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ec1d388e0756335104c63a03b3d4d9f1",
+    "wof:geomhash":"a3da9ed686e66e6d96dff7f834779ffb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,10 +184,12 @@
         }
     ],
     "wof:id":404340349,
-    "wof:lastmodified":1582361655,
+    "wof:lastmodified":1684352406,
     "wof:name":"Langreo",
     "wof:parent_id":85682805,
     "wof:placetype":"localadmin",
+    "wof:population":39183,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

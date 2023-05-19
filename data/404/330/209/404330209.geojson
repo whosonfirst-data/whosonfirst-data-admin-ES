@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Bartolom\u00e9 de Pinares",
+    "eurostat:nuts_2021_id":"05201",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05201",
+    "eurostat:population":534,
+    "eurostat:population_year":2020,
     "geom:area":0.007938,
-    "geom:area_square_m":74593718.137686,
+    "geom:area_square_m":74593718.137685,
     "geom:bbox":"-4.56592621,40.48724468,-4.3201105,40.58436337",
     "geom:latitude":40.538475,
     "geom:longitude":-4.483277,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05201",
+        "eurostat:nuts_2021_id":"05201",
         "gn:id":6355801,
         "gp:id":12691310,
         "qs_pg:id":209640
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"660f484ac48b4fb97816fa1ecdfa7bc4",
+    "wof:geomhash":"c294dc5162a88e6d89416df90ec4757a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330209,
-    "wof:lastmodified":1582361538,
+    "wof:lastmodified":1684352220,
     "wof:name":"San Bartolom\u00e9 De Pinares",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":534,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

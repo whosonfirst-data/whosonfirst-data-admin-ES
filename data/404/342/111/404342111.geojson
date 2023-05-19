@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_39031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hazas de Cesto",
+    "eurostat:nuts_2021_id":"39031",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES13",
+    "eurostat:nuts_2021_level_3":"ES130",
+    "eurostat:nuts_2021_level_lau":"39031",
+    "eurostat:population":1580,
+    "eurostat:population_year":2020,
     "geom:area":0.002431,
-    "geom:area_square_m":21838080.201416,
+    "geom:area_square_m":21838080.201417,
     "geom:bbox":"-3.62066834,43.38132842,-3.53957942,43.42965271",
     "geom:latitude":43.404903,
     "geom:longitude":-3.585968,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_39031",
+        "eurostat:nuts_2021_id":"39031",
         "gn:id":6360678,
         "qs_pg:id":1037148
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6b504763e38784438f9facfaa676876b",
+    "wof:geomhash":"4392cfbdba7c69ec5e5e868722e277e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404342111,
-    "wof:lastmodified":1582361813,
+    "wof:lastmodified":1684352435,
     "wof:name":"Hazas De Cesto",
     "wof:parent_id":85682833,
     "wof:placetype":"localadmin",
+    "wof:population":1580,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

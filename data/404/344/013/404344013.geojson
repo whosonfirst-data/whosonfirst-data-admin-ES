@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44107",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Foz-Calanda",
+    "eurostat:nuts_2021_id":"44107",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44107",
+    "eurostat:population":258,
+    "eurostat:population_year":2020,
     "geom:area":0.004048,
     "geom:area_square_m":37824962.622903,
     "geom:bbox":"-0.32223336,40.88576545,-0.21576889,40.95051371",
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44107",
+        "eurostat:nuts_2021_id":"44107",
         "gn:id":6361518,
         "gp:id":12689689,
         "qs_pg:id":1005670
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4421c02712423b56317ffe3e0ef4d2db",
+    "wof:geomhash":"b8713ee11be5bd430f8895397216b627",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404344013,
-    "wof:lastmodified":1582361846,
+    "wof:lastmodified":1684352468,
     "wof:name":"Foz-Calanda",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":258,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

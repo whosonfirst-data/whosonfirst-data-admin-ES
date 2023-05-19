@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_33014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carre\u00f1o",
+    "eurostat:nuts_2021_id":"33014",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES12",
+    "eurostat:nuts_2021_level_3":"ES120",
+    "eurostat:nuts_2021_level_lau":"33014",
+    "eurostat:population":10301,
+    "eurostat:population_year":2020,
     "geom:area":0.00743,
     "geom:area_square_m":66588316.269311,
     "geom:bbox":"-5.86301042,43.50252986,-5.70927786,43.60070195",
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_33014",
+        "eurostat:nuts_2021_id":"33014",
         "gn:id":6359921,
         "gp:id":12688457,
         "qs_pg:id":1317228
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ec57058c9451606ac5903e4ec2b810a0",
+    "wof:geomhash":"42262b48ced1383a0a0930585aba3c72",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404340311,
-    "wof:lastmodified":1582361665,
+    "wof:lastmodified":1684352405,
     "wof:name":"Carre\u00f1o",
     "wof:parent_id":85682805,
     "wof:placetype":"localadmin",
+    "wof:population":10301,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

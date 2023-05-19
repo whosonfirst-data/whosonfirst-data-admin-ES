@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09167",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hornillos del Camino",
+    "eurostat:nuts_2021_id":"09167",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09167",
+    "eurostat:population":59,
+    "eurostat:population_year":2020,
     "geom:area":0.001538,
-    "geom:area_square_m":14057457.080968,
+    "geom:area_square_m":14057457.08097,
     "geom:bbox":"-3.97673035,42.31679465,-3.87938284,42.35129647",
     "geom:latitude":42.339077,
     "geom:longitude":-3.929171,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09167",
+        "eurostat:nuts_2021_id":"09167",
         "gn:id":6356457,
         "gp:id":12691504,
         "qs_pg:id":1014695
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7d5802ca2f007da984c52a90e2bfeb48",
+    "wof:geomhash":"5a487aecaec38098b6fa8c667908df2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404331929,
-    "wof:lastmodified":1582361512,
+    "wof:lastmodified":1684352259,
     "wof:name":"Hornillos Del Camino",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":59,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

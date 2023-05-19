@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_26086",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ledesma de la Cogolla",
+    "eurostat:nuts_2021_id":"26086",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES23",
+    "eurostat:nuts_2021_level_3":"ES230",
+    "eurostat:nuts_2021_level_lau":"26086",
+    "eurostat:population":16,
+    "eurostat:population_year":2020,
     "geom:area":0.001325,
-    "geom:area_square_m":12113508.122174,
+    "geom:area_square_m":12113508.122173,
     "geom:bbox":"-2.74784366,42.30314874,-2.67272373,42.3322096",
     "geom:latitude":42.318656,
     "geom:longitude":-2.705846,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_26086",
+        "eurostat:nuts_2021_id":"26086",
         "gn:id":6359075,
         "gp:id":12687856,
         "qs_pg:id":977048
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2cb324301dd41208eafb9939f893513f",
+    "wof:geomhash":"82d7ba8246e3c9ec7604f4df45a68829",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404338331,
-    "wof:lastmodified":1582361430,
+    "wof:lastmodified":1684352374,
     "wof:name":"Ledesma De La Cogolla",
     "wof:parent_id":85682773,
     "wof:placetype":"localadmin",
+    "wof:population":16,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

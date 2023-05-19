@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campo Real",
+    "eurostat:nuts_2021_id":"28033",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28033",
+    "eurostat:population":6420,
+    "eurostat:population_year":2020,
     "geom:area":0.00655,
-    "geom:area_square_m":61746376.759485,
+    "geom:area_square_m":61746376.759486,
     "geom:bbox":"-3.43204372,40.2653334,-3.31286026,40.36328175",
     "geom:latitude":40.322999,
     "geom:longitude":-3.373282,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28033",
+        "eurostat:nuts_2021_id":"28033",
         "gn:id":6359259,
         "gp:id":12687978,
         "qs_pg:id":407901
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"08a97e332d5900e645d8d32ade5a6dda",
+    "wof:geomhash":"3b4057a4bdfaeb7ae40bca4df8048411",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404338759,
-    "wof:lastmodified":1582361446,
+    "wof:lastmodified":1684352381,
     "wof:name":"Campo Real",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":6420,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

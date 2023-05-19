@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_23066",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Peal de Becerro",
+    "eurostat:nuts_2021_id":"23066",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES616",
+    "eurostat:nuts_2021_level_lau":"23066",
+    "eurostat:population":5240,
+    "eurostat:population_year":2020,
     "geom:area":0.015091,
-    "geom:area_square_m":147285319.037037,
+    "geom:area_square_m":147285319.037036,
     "geom:bbox":"-3.25787965,37.75994392,-2.87270963,37.95802777",
     "geom:latitude":37.880613,
     "geom:longitude":-3.099045,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_23066",
+        "eurostat:nuts_2021_id":"23066",
         "gn:id":6358516,
         "gp:id":12689157,
         "qs_pg:id":1118129
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bf2aabe2577b6ba070cd25a5abdd88bf",
+    "wof:geomhash":"c6ec88307e878420cc76736a3f9d22cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404337055,
-    "wof:lastmodified":1582361558,
+    "wof:lastmodified":1684352347,
     "wof:name":"Peal De Becerro",
     "wof:parent_id":85682757,
     "wof:placetype":"localadmin",
+    "wof:population":5240,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

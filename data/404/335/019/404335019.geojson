@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17220,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17220",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Viladrau",
+    "eurostat:nuts_2021_id":"17220",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17220",
+    "eurostat:population":1047,
+    "eurostat:population_year":2020,
     "geom:area":0.005502,
-    "geom:area_square_m":50678023.658385,
+    "geom:area_square_m":50678023.658382,
     "geom:bbox":"2.32344393921,41.8016549425,2.42426163627,41.8891531794",
     "geom:latitude":41.844471,
     "geom:longitude":2.37256,
@@ -127,6 +139,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -135,7 +149,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17220",
         "esp-icgc:la_lc":"017220",
+        "eurostat:nuts_2021_id":"17220",
         "gn:id":6357637,
         "gp:id":12693896,
         "qs_pg:id":1197895
@@ -145,7 +161,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c5fabdb58253bec76a99300e72e7a3b0",
+    "wof:geomhash":"199ab4f76f62391d264e0a6b906be41f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404335019,
-    "wof:lastmodified":1582361707,
+    "wof:lastmodified":1684352319,
     "wof:name":"Viladrau",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":1047,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

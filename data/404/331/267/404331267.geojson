@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8174,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08174",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Puigd\u00e0lber",
+    "eurostat:nuts_2021_id":"08174",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08174",
+    "eurostat:population":524,
+    "eurostat:population_year":2020,
     "geom:area":0.000067,
-    "geom:area_square_m":623383.169884,
+    "geom:area_square_m":623407.550508,
     "geom:bbox":"1.692932,41.397706,1.725064,41.408561",
     "geom:latitude":41.403631,
     "geom:longitude":1.703303,
@@ -124,6 +136,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -132,7 +146,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08174",
         "esp-icgc:la_lc":"08174",
+        "eurostat:nuts_2021_id":"08174",
         "gn:id":6356199,
         "gp:id":12693555,
         "qs_pg:id":47294
@@ -142,7 +158,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b75ef47a4683c672f81ababae9169193",
+    "wof:geomhash":"a69c1d3ef7a734cf2b75b411faa63729",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,10 +169,12 @@
         }
     ],
     "wof:id":404331267,
-    "wof:lastmodified":1669903002,
+    "wof:lastmodified":1684352246,
     "wof:name":"Puigd\u00e0lber",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":524,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

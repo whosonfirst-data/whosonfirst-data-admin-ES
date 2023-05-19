@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25244,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25244",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vilagrassa",
+    "eurostat:nuts_2021_id":"25244",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25244",
+    "eurostat:population":560,
+    "eurostat:population_year":2020,
     "geom:area":0.002126,
-    "geom:area_square_m":19647652.588519,
+    "geom:area_square_m":19647600.579209,
     "geom:bbox":"1.042701,41.610901,1.125894,41.687287",
     "geom:latitude":41.643097,
     "geom:longitude":1.08806,
@@ -112,6 +124,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -120,7 +134,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25244",
         "esp-icgc:la_lc":"025244",
+        "eurostat:nuts_2021_id":"25244",
         "gn:id":6358967,
         "gp:id":12694127,
         "qs_pg:id":1013008
@@ -130,7 +146,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"61cffdfa03730ab755584b0cb3482e38",
+    "wof:geomhash":"a409612a10fdb495590441e64e7da3ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404338087,
-    "wof:lastmodified":1669902994,
+    "wof:lastmodified":1684352370,
     "wof:name":"Vilagrassa",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":560,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aranjuez",
+    "eurostat:nuts_2021_id":"28013",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28013",
+    "eurostat:population":60332,
+    "eurostat:population_year":2020,
     "geom:area":0.01995,
-    "geom:area_square_m":188985290.65463,
+    "geom:area_square_m":188985290.654626,
     "geom:bbox":"-3.87569023,39.88471951,-3.51354229,40.13062928",
     "geom:latitude":39.994879,
     "geom:longitude":-3.678872,
@@ -192,6 +204,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -200,6 +214,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28013",
+        "eurostat:nuts_2021_id":"28013",
         "gn:id":6359239,
         "gp:id":12687958,
         "qs_pg:id":906548
@@ -208,7 +224,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"566a6c3eb344ab7d24d8a6627281ea1b",
+    "wof:geomhash":"8d3d9b0efbba260730508c8ff69a5ae9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -219,10 +235,12 @@
         }
     ],
     "wof:id":404338713,
-    "wof:lastmodified":1582361440,
+    "wof:lastmodified":1684352380,
     "wof:name":"Aranjuez",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":60332,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

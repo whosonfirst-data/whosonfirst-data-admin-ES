@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44176",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Palomar de Arroyos",
+    "eurostat:nuts_2021_id":"44176",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44176",
+    "eurostat:population":170,
+    "eurostat:population_year":2020,
     "geom:area":0.003586,
-    "geom:area_square_m":33581232.800418,
+    "geom:area_square_m":33581232.800417,
     "geom:bbox":"-0.79604593,40.75312315,-0.65397014,40.80343465",
     "geom:latitude":40.775308,
     "geom:longitude":-0.732284,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44176",
+        "eurostat:nuts_2021_id":"44176",
         "gn:id":6361580,
         "gp:id":12689752,
         "qs_pg:id":954101
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b4854aa7c9933f27d4fe1c34c95bf208",
+    "wof:geomhash":"7287e52f7ac0a46158b40562432c7d4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404344155,
-    "wof:lastmodified":1582361853,
+    "wof:lastmodified":1684352470,
     "wof:name":"Palomar De Arroyos",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":170,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

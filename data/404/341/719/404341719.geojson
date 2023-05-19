@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37291",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Pedro de Rozados",
+    "eurostat:nuts_2021_id":"37291",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37291",
+    "eurostat:population":281,
+    "eurostat:population_year":2020,
     "geom:area":0.010906,
-    "geom:area_square_m":102066654.13396,
+    "geom:area_square_m":102066654.133962,
     "geom:bbox":"-5.85240318,40.74177853,-5.71365393,40.87964721",
     "geom:latitude":40.810825,
     "geom:longitude":-5.782286,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_37291",
+        "eurostat:nuts_2021_id":"37291"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"3559dbc686f9a1be0c9e124855862def",
+    "wof:geomhash":"c3f2fa2633998e4ab1273807b1707685",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404341719,
-    "wof:lastmodified":1566590361,
+    "wof:lastmodified":1684352428,
     "wof:name":"San Pedro De Rozados",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":281,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16045",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Canalejas del Arroyo",
+    "eurostat:nuts_2021_id":"16045",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16045",
+    "eurostat:population":177,
+    "eurostat:population_year":2020,
     "geom:area":0.006464,
-    "geom:area_square_m":60881279.169372,
+    "geom:area_square_m":60881279.169373,
     "geom:bbox":"-2.53268969,40.33541693,-2.40753305,40.43964063",
     "geom:latitude":40.386824,
     "geom:longitude":-2.468815,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16045",
+        "eurostat:nuts_2021_id":"16045",
         "gn:id":6357402,
         "gp:id":12690442,
         "qs_pg:id":45792
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3e555ef20060a6934c8e800d4a1989cd",
+    "wof:geomhash":"6b79ee78e8af38428504a2049502886a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404334113,
-    "wof:lastmodified":1582361755,
+    "wof:lastmodified":1684352293,
     "wof:name":"Canalejas Del Arroyo",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":177,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

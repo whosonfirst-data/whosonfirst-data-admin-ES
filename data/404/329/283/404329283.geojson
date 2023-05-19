@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Almorad\u00ed",
+    "eurostat:nuts_2021_id":"03015",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03015",
+    "eurostat:population":21208,
+    "eurostat:population_year":2020,
     "geom:area":0.004386,
-    "geom:area_square_m":42697864.846043,
+    "geom:area_square_m":42697864.846042,
     "geom:bbox":"-0.8275049,38.00049063,-0.74853401,38.13063611",
     "geom:latitude":38.072093,
     "geom:longitude":-0.791489,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03015",
+        "eurostat:nuts_2021_id":"03015",
         "gn:id":6355391,
         "gp:id":12695280,
         "qs_pg:id":1123044
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e2a7e58419cd2297b622404fea736b21",
+    "wof:geomhash":"7f509e7a75ce5817a27e8aba95dacef4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404329283,
-    "wof:lastmodified":1582361798,
+    "wof:lastmodified":1684352207,
     "wof:name":"Almorad\u00ed",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":21208,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

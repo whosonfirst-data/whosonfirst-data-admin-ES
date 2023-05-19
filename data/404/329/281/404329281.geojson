@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alicante / Alacant",
+    "eurostat:nuts_2021_id":"03014",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03014",
+    "eurostat:population":337482,
+    "eurostat:population_year":2020,
     "geom:area":0.020752,
-    "geom:area_square_m":201140767.031262,
+    "geom:area_square_m":201140767.031261,
     "geom:bbox":"-0.656695,38.2747846,-0.3750868,38.53706605",
     "geom:latitude":38.382845,
     "geom:longitude":-0.537801,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227381
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_03014",
+        "eurostat:nuts_2021_id":"03014"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"d9209076cb55eefacebfb1cfd82584d4",
+    "wof:geomhash":"875ea82f3351e984ebbe38b5e03848bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404329281,
-    "wof:lastmodified":1566590856,
+    "wof:lastmodified":1684352207,
     "wof:name":"Alacant/Alicante",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":337482,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

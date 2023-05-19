@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47194",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Viloria",
+    "eurostat:nuts_2021_id":"47194",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47194",
+    "eurostat:population":339,
+    "eurostat:population_year":2020,
     "geom:area":0.001219,
-    "geom:area_square_m":11296427.343427,
+    "geom:area_square_m":11296427.343428,
     "geom:bbox":"-4.41624531,41.43600242,-4.36134906,41.47543411",
     "geom:latitude":41.454749,
     "geom:longitude":-4.386528,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_47194",
+        "eurostat:nuts_2021_id":"47194",
         "gn:id":6362316,
         "gp:id":12693124,
         "qs_pg:id":1311095
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"442e023a312309c3fbbe33bc6d60c396",
+    "wof:geomhash":"39bbf4c7303cb91a6de013883cb6e460",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404345823,
-    "wof:lastmodified":1582361836,
+    "wof:lastmodified":1684352490,
     "wof:name":"Viloria",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":339,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

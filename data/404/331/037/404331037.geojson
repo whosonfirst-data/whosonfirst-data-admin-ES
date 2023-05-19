@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8071,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08071",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Copons",
+    "eurostat:nuts_2021_id":"08071",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08071",
+    "eurostat:population":321,
+    "eurostat:population_year":2020,
     "geom:area":0.002021,
-    "geom:area_square_m":18670941.410927,
+    "geom:area_square_m":18670913.589023,
     "geom:bbox":"1.430915,41.618262,1.547145,41.662402",
     "geom:latitude":41.64298,
     "geom:longitude":1.50508,
@@ -115,6 +127,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -123,7 +137,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08071",
         "esp-icgc:la_lc":"08071",
+        "eurostat:nuts_2021_id":"08071",
         "gn:id":6356103,
         "gp:id":12693450,
         "qs_pg:id":988797
@@ -133,7 +149,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"ec660034d5163650523747c52a4f5bd9",
+    "wof:geomhash":"44c5bda679f667e109ff33aef866b975",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404331037,
-    "wof:lastmodified":1669903003,
+    "wof:lastmodified":1684352239,
     "wof:name":"Copons",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":321,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

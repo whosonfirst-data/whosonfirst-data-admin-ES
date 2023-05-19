@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16246",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villalba del Rey",
+    "eurostat:nuts_2021_id":"16246",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16246",
+    "eurostat:population":513,
+    "eurostat:population_year":2020,
     "geom:area":0.010078,
-    "geom:area_square_m":94969225.508496,
+    "geom:area_square_m":94969225.508497,
     "geom:bbox":"-2.73284265,40.28699503,-2.58085851,40.41982477",
     "geom:latitude":40.347655,
     "geom:longitude":-2.664209,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227375
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_16246",
+        "eurostat:nuts_2021_id":"16246"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"0cee841bf423c91354431cbed8aaa365",
+    "wof:geomhash":"031f069789efc99334f423c5d29dc6fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404334475,
-    "wof:lastmodified":1566590710,
+    "wof:lastmodified":1684352298,
     "wof:name":"Villalba Del Rey",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":513,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

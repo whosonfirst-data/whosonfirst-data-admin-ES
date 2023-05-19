@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31133",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Izalzu / Itzaltzu",
+    "eurostat:nuts_2021_id":"31133",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31133",
+    "eurostat:population":37,
+    "eurostat:population_year":2020,
     "geom:area":0.000821,
-    "geom:area_square_m":7433141.273118,
+    "geom:area_square_m":7433141.273117,
     "geom:bbox":"-1.0639003,42.90991944,-1.01643589,42.94504786",
     "geom:latitude":42.928302,
     "geom:longitude":-1.036717,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227391
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_31133",
+        "eurostat:nuts_2021_id":"31133"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"590adfd54eea65d198e2fffdbdc5ceab",
+    "wof:geomhash":"344782edd64980e3402f20ac99b3eb96",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404339753,
-    "wof:lastmodified":1566590076,
+    "wof:lastmodified":1684352398,
     "wof:name":"Izalzu/Itzaltzu",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":37,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

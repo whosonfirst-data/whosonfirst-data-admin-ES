@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_39058",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rasines",
+    "eurostat:nuts_2021_id":"39058",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES13",
+    "eurostat:nuts_2021_level_3":"ES130",
+    "eurostat:nuts_2021_level_lau":"39058",
+    "eurostat:population":955,
+    "eurostat:population_year":2020,
     "geom:area":0.004847,
-    "geom:area_square_m":43617517.578282,
+    "geom:area_square_m":43617517.578281,
     "geom:bbox":"-3.48134037,43.26393725,-3.33953328,43.33179623",
     "geom:latitude":43.298111,
     "geom:longitude":-3.401878,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_39058",
+        "eurostat:nuts_2021_id":"39058",
         "gn:id":6360703,
         "gp:id":12688579,
         "qs_pg:id":1003592
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1dea63491edb277a67b6a3698e8a171e",
+    "wof:geomhash":"05182663ff9705acc16202ba8212f61e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404342171,
-    "wof:lastmodified":1582361824,
+    "wof:lastmodified":1684352436,
     "wof:name":"Rasines",
     "wof:parent_id":85682833,
     "wof:placetype":"localadmin",
+    "wof:population":955,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

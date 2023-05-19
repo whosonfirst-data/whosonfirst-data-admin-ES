@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alerre",
+    "eurostat:nuts_2021_id":"22019",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22019",
+    "eurostat:population":200,
+    "eurostat:population_year":2020,
     "geom:area":0.000974,
-    "geom:area_square_m":8927970.912052,
+    "geom:area_square_m":8927970.912053,
     "geom:bbox":"-0.5119527,42.15087471,-0.45406606,42.17704815",
     "geom:latitude":42.163913,
     "geom:longitude":-0.480194,
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22019",
+        "eurostat:nuts_2021_id":"22019",
         "gn:id":6358272,
         "gp:id":12689413,
         "qs_pg:id":45297
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"53810f2641116a3f034a5549d4ac5508",
+    "wof:geomhash":"844981c1d04e4cc9d8ea2aaf8e59c49a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404336497,
-    "wof:lastmodified":1582361464,
+    "wof:lastmodified":1684352339,
     "wof:name":"Alerre",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":200,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

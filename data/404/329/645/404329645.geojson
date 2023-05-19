@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cuevas del Almanzora",
+    "eurostat:nuts_2021_id":"04035",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04035",
+    "eurostat:population":14455,
+    "eurostat:population_year":2020,
     "geom:area":0.026883,
-    "geom:area_square_m":264346472.245384,
+    "geom:area_square_m":264346472.245382,
     "geom:bbox":"-1.94831704,37.23004022,-1.69100244,37.42068161",
     "geom:latitude":37.323195,
     "geom:longitude":-1.815365,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_04035",
+        "eurostat:nuts_2021_id":"04035",
         "gn:id":6355550,
         "gp:id":12688659,
         "qs_pg:id":1317267
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c14836289669fe09a79e17296add4862",
+    "wof:geomhash":"ee8cbff8c8174510246df9debe0ea693",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404329645,
-    "wof:lastmodified":1582361790,
+    "wof:lastmodified":1684352213,
     "wof:name":"Cuevas Del Almanzora",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":14455,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

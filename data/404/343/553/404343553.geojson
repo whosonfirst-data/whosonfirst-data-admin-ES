@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43071,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43071",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Horta de Sant Joan",
+    "eurostat:nuts_2021_id":"43071",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43071",
+    "eurostat:population":1146,
+    "eurostat:population_year":2020,
     "geom:area":0.012743,
-    "geom:area_square_m":119031213.205276,
+    "geom:area_square_m":119031243.536727,
     "geom:bbox":"0.258818,40.83954,0.376104,41.021071",
     "geom:latitude":40.937233,
     "geom:longitude":0.322924,
@@ -69,6 +81,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -77,7 +91,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43071",
         "esp-icgc:la_lc":"043071",
+        "eurostat:nuts_2021_id":"43071",
         "gn:id":6361314,
         "gp:id":12694209,
         "qs_pg:id":246077
@@ -87,7 +103,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"72a659fbd8b1ea0e37b5e26646a47272",
+    "wof:geomhash":"726fdad6678f2c55d787b11a1b8f0741",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,10 +114,12 @@
         }
     ],
     "wof:id":404343553,
-    "wof:lastmodified":1669903066,
+    "wof:lastmodified":1684352456,
     "wof:name":"Horta de Sant Joan",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":1146,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

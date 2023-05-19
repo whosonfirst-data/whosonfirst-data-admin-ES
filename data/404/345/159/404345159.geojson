@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46160",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Manuel",
+    "eurostat:nuts_2021_id":"46160",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46160",
+    "eurostat:population":2436,
+    "eurostat:population_year":2020,
     "geom:area":0.000629,
-    "geom:area_square_m":6043713.784743,
+    "geom:area_square_m":6043713.784742,
     "geom:bbox":"-0.51105786,39.03739444,-0.47223902,39.07193188",
     "geom:latitude":39.054408,
     "geom:longitude":-0.492103,
@@ -78,6 +90,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -86,6 +100,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46160",
+        "eurostat:nuts_2021_id":"46160",
         "gn:id":6362025,
         "gp:id":12695695,
         "qs_pg:id":1023759
@@ -94,7 +110,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ab17c02497402b7ae3accddd746c3509",
+    "wof:geomhash":"c642d52d98805a31163373748b117fb0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,10 +121,12 @@
         }
     ],
     "wof:id":404345159,
-    "wof:lastmodified":1582361825,
+    "wof:lastmodified":1684352483,
     "wof:name":"Manuel",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":2436,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

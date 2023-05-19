@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12111",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"T\u00edrig",
+    "eurostat:nuts_2021_id":"12111",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12111",
+    "eurostat:population":420,
+    "eurostat:population_year":2020,
     "geom:area":0.004493,
     "geom:area_square_m":42290908.272867,
     "geom:bbox":"0.02922601,40.3873343,0.11548697,40.48107516",
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12111",
+        "eurostat:nuts_2021_id":"12111",
         "gn:id":6357061,
         "gp:id":12695510,
         "qs_pg:id":289946
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cbc927867dfe90a609aca12db01dc02d",
+    "wof:geomhash":"43de05ca477d8eddadffcda02cf474a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404333335,
-    "wof:lastmodified":1582361774,
+    "wof:lastmodified":1684352277,
     "wof:name":"T\u00edrig",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":420,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

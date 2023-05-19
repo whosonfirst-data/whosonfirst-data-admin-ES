@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06901",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valdelacalzada",
+    "eurostat:nuts_2021_id":"06901",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06901",
+    "eurostat:population":2721,
+    "eurostat:population_year":2020,
     "geom:area":0.003301,
-    "geom:area_square_m":31767092.355213,
+    "geom:area_square_m":31767092.355211,
     "geom:bbox":"-6.74805595,38.86551529,-6.64387339,38.91039484",
     "geom:latitude":38.887634,
     "geom:longitude":-6.693349,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06901",
+        "eurostat:nuts_2021_id":"06901",
         "gn:id":6356028,
         "gp:id":12694457,
         "qs_pg:id":1286564
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bf0b8d4d8f294251ef0a9097a4b30aff",
+    "wof:geomhash":"0afd1c00e7e50fe821b3a3a8e1719117",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404330723,
-    "wof:lastmodified":1582361531,
+    "wof:lastmodified":1684352228,
     "wof:name":"Valdelacalzada",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":2721,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

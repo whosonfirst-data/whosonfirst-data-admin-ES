@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43041,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43041",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caseres",
+    "eurostat:nuts_2021_id":"43041",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43041",
+    "eurostat:population":237,
+    "eurostat:population_year":2020,
     "geom:area":0.004552,
-    "geom:area_square_m":42448198.264576,
+    "geom:area_square_m":42448285.996813,
     "geom:bbox":"0.217545,41.006938,0.342177,41.075563",
     "geom:latitude":41.042547,
     "geom:longitude":0.28175,
@@ -112,6 +124,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -120,7 +134,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43041",
         "esp-icgc:la_lc":"043041",
+        "eurostat:nuts_2021_id":"43041",
         "gn:id":6361284,
         "qs_pg:id":1037150
     },
@@ -129,7 +145,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9b12feb103564d4a93e463110e3423b3",
+    "wof:geomhash":"fa1b5c67fb1f7a2807defbc38145a353",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404343485,
-    "wof:lastmodified":1669903061,
+    "wof:lastmodified":1684352454,
     "wof:name":"Caseres",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":237,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

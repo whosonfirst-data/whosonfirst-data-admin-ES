@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44131",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Josa",
+    "eurostat:nuts_2021_id":"44131",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44131",
+    "eurostat:population":34,
+    "eurostat:population_year":2020,
     "geom:area":0.003019,
-    "geom:area_square_m":28194855.849622,
+    "geom:area_square_m":28194855.849621,
     "geom:bbox":"-0.81399922,40.92400397,-0.74256273,40.99509476",
     "geom:latitude":40.957461,
     "geom:longitude":-0.77477,
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44131",
+        "eurostat:nuts_2021_id":"44131",
         "gn:id":6361542,
         "gp:id":12689713,
         "qs_pg:id":325832
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bc12e0d0f68b8a4a99bbd0183aa0a33d",
+    "wof:geomhash":"330d0b8a6287bc5a9f2db4efc70bd908",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404344067,
-    "wof:lastmodified":1582361858,
+    "wof:lastmodified":1684352469,
     "wof:name":"Josa",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":34,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

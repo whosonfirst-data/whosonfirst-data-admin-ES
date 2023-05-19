@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_11041",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villamart\u00edn",
+    "eurostat:nuts_2021_id":"11041",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES612",
+    "eurostat:nuts_2021_level_lau":"11041",
+    "eurostat:population":12134,
+    "eurostat:population_year":2020,
     "geom:area":0.021414,
-    "geom:area_square_m":211818406.10089,
+    "geom:area_square_m":211818406.100894,
     "geom:bbox":"-5.73630588,36.76260623,-5.52319922,36.9759899",
     "geom:latitude":36.872847,
     "geom:longitude":-5.616507,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_11041",
+        "eurostat:nuts_2021_id":"11041",
         "gn:id":6356956,
         "gp:id":12688769,
         "qs_pg:id":213845
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fa8c1236dfb0766f4ac593e7a19f299b",
+    "wof:geomhash":"62ddd2226a66d11325e65af728acb59a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404333099,
-    "wof:lastmodified":1582361767,
+    "wof:lastmodified":1684352274,
     "wof:name":"Villamart\u00edn",
     "wof:parent_id":85682679,
     "wof:placetype":"localadmin",
+    "wof:population":12134,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

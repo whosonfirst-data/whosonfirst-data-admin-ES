@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8285,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08285",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torell\u00f3",
+    "eurostat:nuts_2021_id":"08285",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08285",
+    "eurostat:population":14400,
+    "eurostat:population_year":2020,
     "geom:area":0.00147,
-    "geom:area_square_m":13496212.145882,
+    "geom:area_square_m":13496212.145881,
     "geom:bbox":"2.23512901115,42.0121361481,2.29490020101,42.061153051",
     "geom:latitude":42.038291,
     "geom:longitude":2.266404,
@@ -126,6 +138,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -134,13 +148,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"08285"
+        "eg:gisco_id":"ES_08285",
+        "esp-icgc:la_lc":"08285",
+        "eurostat:nuts_2021_id":"08285"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5ae4a52a4da01062231976de146cee17",
+    "wof:geomhash":"369b538008b5faa355a62b2d430c511c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +167,12 @@
         }
     ],
     "wof:id":404331515,
-    "wof:lastmodified":1582361515,
+    "wof:lastmodified":1684352254,
     "wof:name":"Torell\u00f3",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":14400,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

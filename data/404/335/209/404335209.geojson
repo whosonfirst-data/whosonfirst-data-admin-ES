@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18086",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gorafe",
+    "eurostat:nuts_2021_id":"18086",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18086",
+    "eurostat:population":383,
+    "eurostat:population_year":2020,
     "geom:area":0.007853,
-    "geom:area_square_m":77015747.933248,
+    "geom:area_square_m":77015747.933243,
     "geom:bbox":"-3.10393507,37.44341872,-2.97792515,37.59087412",
     "geom:latitude":37.519771,
     "geom:longitude":-3.036094,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18086",
+        "eurostat:nuts_2021_id":"18086",
         "gn:id":6357708,
         "gp:id":12688920,
         "qs_pg:id":961817
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c2199b8cc4442210852cacdd287c5176",
+    "wof:geomhash":"803babcbda1802e3f3d1aa8de5bf3f83",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404335209,
-    "wof:lastmodified":1582361708,
+    "wof:lastmodified":1684352322,
     "wof:name":"Gorafe",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":383,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

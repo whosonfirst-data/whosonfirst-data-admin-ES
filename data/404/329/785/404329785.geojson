@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04100",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vera",
+    "eurostat:nuts_2021_id":"04100",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04100",
+    "eurostat:population":16996,
+    "eurostat:population_year":2020,
     "geom:area":0.005903,
-    "geom:area_square_m":58116813.521257,
+    "geom:area_square_m":58116790.493914,
     "geom:bbox":"-1.918484,37.187334,-1.797275,37.271035",
     "geom:latitude":37.225199,
     "geom:longitude":-1.856544,
@@ -177,6 +189,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -185,6 +199,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_04100",
+        "eurostat:nuts_2021_id":"04100",
         "gn:id":6355612,
         "gp:id":12688723,
         "qs_pg:id":242337
@@ -193,7 +209,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dc81ac4ca52d7e8b8ae4eb10fe3502c1",
+    "wof:geomhash":"e5ccb58d36fe2650e3c62aff38a2f556",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -204,10 +220,12 @@
         }
     ],
     "wof:id":404329785,
-    "wof:lastmodified":1636503327,
+    "wof:lastmodified":1684352215,
     "wof:name":"Vera",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":16996,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

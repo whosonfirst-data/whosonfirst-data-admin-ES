@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18064",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dehesas de Guadix",
+    "eurostat:nuts_2021_id":"18064",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18064",
+    "eurostat:population":422,
+    "eurostat:population_year":2020,
     "geom:area":0.005811,
-    "geom:area_square_m":56929461.204762,
+    "geom:area_square_m":56929461.204763,
     "geom:bbox":"-3.26357901,37.56082927,-2.96279218,37.64448878",
     "geom:latitude":37.594245,
     "geom:longitude":-3.078595,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18064",
+        "eurostat:nuts_2021_id":"18064",
         "gn:id":6357692,
         "gp:id":12688903,
         "qs_pg:id":45000
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"994926760597937af37973984e7e5670",
+    "wof:geomhash":"037ac7ab2db7291ec5bd6e815231c85c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404335173,
-    "wof:lastmodified":1582361701,
+    "wof:lastmodified":1684352321,
     "wof:name":"Dehesas De Guadix",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":422,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

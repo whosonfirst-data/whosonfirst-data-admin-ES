@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castrojimeno",
+    "eurostat:nuts_2021_id":"40048",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40048",
+    "eurostat:population":33,
+    "eurostat:population_year":2020,
     "geom:area":0.001973,
     "geom:area_square_m":18299349.938212,
     "geom:bbox":"-3.89027211,41.37614391,-3.81326267,41.43034075",
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_40048",
+        "eurostat:nuts_2021_id":"40048",
         "gn:id":6360789,
         "gp:id":12692554,
         "qs_pg:id":46761
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c14b2efa76d9d7142779a4c60680e42d",
+    "wof:geomhash":"198049c9630bc7bc143bd19099abbf3e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404342367,
-    "wof:lastmodified":1582361816,
+    "wof:lastmodified":1684352439,
     "wof:name":"Castrojimeno",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":33,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

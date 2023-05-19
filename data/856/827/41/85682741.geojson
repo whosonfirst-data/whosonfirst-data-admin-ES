@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"1",
+    "eurostat:country_code":"ES",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"2",
+    "eurostat:name_latin":"Gipuzkoa",
+    "eurostat:name_local":"Gipuzkoa",
+    "eurostat:nuts_2021_id":"ES212",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES212",
+    "eurostat:population":713439,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"1",
     "geom:area":0.219338,
-    "geom:area_square_m":1978888350.465699,
+    "geom:area_square_m":1978888578.100886,
     "geom:bbox":"-2.602684,42.895245,-1.729343,43.39591",
     "geom:latitude":43.14384,
     "geom:longitude":-2.194197,
@@ -381,6 +395,8 @@
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "unlc:subdivision":"ES-SS",
     "wd:wordcount":1887,
     "wof:belongsto":[
@@ -391,6 +407,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":11458,
+        "eurostat:nuts_2021_id":"ES212",
         "fips:code":"SP94",
         "gn:id":3120935,
         "gp:id":12602135,
@@ -402,7 +419,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"730060cef076bb88c87165795de72d82",
+    "wof:geomhash":"261590c7148b02b4e5b6c6445e38ba14",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -422,10 +439,12 @@
         "eus",
         "ast"
     ],
-    "wof:lastmodified":1583882767,
+    "wof:lastmodified":1684351555,
     "wof:name":"Gipuzkoa",
     "wof:parent_id":404227393,
     "wof:placetype":"region",
+    "wof:population":713439,
+    "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:shortcode":"PV",
     "wof:subdivision":"ES-SS",

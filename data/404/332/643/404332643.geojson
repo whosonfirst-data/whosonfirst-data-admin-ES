@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10059",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casillas de Coria",
+    "eurostat:nuts_2021_id":"10059",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10059",
+    "eurostat:population":345,
+    "eurostat:population_year":2020,
     "geom:area":0.006533,
-    "geom:area_square_m":61910734.647604,
+    "geom:area_square_m":61910734.647608,
     "geom:bbox":"-6.73665163,39.92405133,-6.59562706,40.01717955",
     "geom:latitude":39.967148,
     "geom:longitude":-6.662154,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10059",
+        "eurostat:nuts_2021_id":"10059",
         "gn:id":6356756,
         "gp:id":12694541,
         "qs_pg:id":47988
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"21699296b563a77d122a8a6a1f7d7570",
+    "wof:geomhash":"45453ed38275688eb6a2c26c4c341f54",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332643,
-    "wof:lastmodified":1582361678,
+    "wof:lastmodified":1684352267,
     "wof:name":"Casillas De Coria",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":345,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

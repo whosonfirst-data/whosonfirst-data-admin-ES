@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05239",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sotalbo",
+    "eurostat:nuts_2021_id":"05239",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05239",
+    "eurostat:population":232,
+    "eurostat:population_year":2020,
     "geom:area":0.009612,
     "geom:area_square_m":90358010.966048,
     "geom:bbox":"-5.0263549,40.45242895,-4.71016531,40.60181447",
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05239",
+        "eurostat:nuts_2021_id":"05239",
         "gn:id":6355836,
         "gp:id":12691348,
         "qs_pg:id":954448
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"eaa5ba01ddb640442d9cabfa8549d295",
+    "wof:geomhash":"9db0f2dd32896b199dcc141133267414",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404330289,
-    "wof:lastmodified":1582361523,
+    "wof:lastmodified":1684352221,
     "wof:name":"Sotalbo",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":232,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Almu\u00f1\u00e9car",
+    "eurostat:nuts_2021_id":"18017",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18017",
+    "eurostat:population":25927,
+    "eurostat:population_year":2020,
     "geom:area":0.008414,
     "geom:area_square_m":83343075.479741,
     "geom:bbox":"-3.79061095,36.71917479,-3.63559033,36.82278816",
@@ -159,6 +171,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -167,6 +181,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18017",
+        "eurostat:nuts_2021_id":"18017",
         "gn:id":6357653,
         "gp:id":12688861,
         "qs_pg:id":1118778
@@ -175,7 +191,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"94618c6895432daeac28218e239d6609",
+    "wof:geomhash":"29b184bbff37567db1689d11de031b03",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -186,10 +202,12 @@
         }
     ],
     "wof:id":404335085,
-    "wof:lastmodified":1582361698,
+    "wof:lastmodified":1684352320,
     "wof:name":"Almu\u00f1\u00e9car",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":25927,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

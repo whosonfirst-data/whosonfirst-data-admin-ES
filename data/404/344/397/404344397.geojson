@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caba\u00f1as de la Sagra",
+    "eurostat:nuts_2021_id":"45025",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45025",
+    "eurostat:population":1857,
+    "eurostat:population_year":2020,
     "geom:area":0.001742,
-    "geom:area_square_m":16503009.252727,
+    "geom:area_square_m":16503009.252726,
     "geom:bbox":"-3.97701162,39.97070834,-3.92519101,40.0350787",
     "geom:latitude":40.001667,
     "geom:longitude":-3.950938,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45025",
+        "eurostat:nuts_2021_id":"45025",
         "gn:id":6361686,
         "gp:id":12690947,
         "qs_pg:id":417949
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a917be022e0b483f48d2b5b4a8125629",
+    "wof:geomhash":"bef8156a6e247425e9690622222f070c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404344397,
-    "wof:lastmodified":1582361845,
+    "wof:lastmodified":1684352473,
     "wof:name":"Caba\u00f1as De La Sagra",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":1857,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

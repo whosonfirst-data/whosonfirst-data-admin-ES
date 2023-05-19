@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50090",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cubel",
+    "eurostat:nuts_2021_id":"50090",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50090",
+    "eurostat:population":155,
+    "eurostat:population_year":2020,
     "geom:area":0.006283,
-    "geom:area_square_m":58546988.0049,
+    "geom:area_square_m":58546988.004899,
     "geom:bbox":"-1.72001724,41.05315311,-1.55220715,41.12936924",
     "geom:latitude":41.093639,
     "geom:longitude":-1.630424,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50090",
+        "eurostat:nuts_2021_id":"50090",
         "gn:id":6362783,
         "gp:id":12689925,
         "qs_pg:id":233504
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0b343c2fd45c9745916e19596aacabe3",
+    "wof:geomhash":"9fc0e93d6aa9280a40814542a8c858ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404346913,
-    "wof:lastmodified":1582361614,
+    "wof:lastmodified":1684352504,
     "wof:name":"Cubel",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":155,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

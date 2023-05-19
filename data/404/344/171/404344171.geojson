@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44183",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pitarque",
+    "eurostat:nuts_2021_id":"44183",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44183",
+    "eurostat:population":68,
+    "eurostat:population_year":2020,
     "geom:area":0.005784,
-    "geom:area_square_m":54283469.257075,
+    "geom:area_square_m":54283469.257076,
     "geom:bbox":"-0.65159311,40.57603525,-0.55452555,40.66760861",
     "geom:latitude":40.61935,
     "geom:longitude":-0.601365,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44183",
+        "eurostat:nuts_2021_id":"44183",
         "gn:id":6361587,
         "gp:id":12689759,
         "qs_pg:id":900198
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"82e4f3797fea0ceba39102206598420a",
+    "wof:geomhash":"75c43ec0a442c42fab7b4e3eac805108",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404344171,
-    "wof:lastmodified":1582361860,
+    "wof:lastmodified":1684352470,
     "wof:name":"Pitarque",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":68,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

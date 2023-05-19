@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8257,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08257",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Maria de Miralles",
+    "eurostat:nuts_2021_id":"08257",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08257",
+    "eurostat:population":119,
+    "eurostat:population_year":2020,
     "geom:area":0.002726,
-    "geom:area_square_m":25243204.700975,
+    "geom:area_square_m":25243154.938323,
     "geom:bbox":"1.473574,41.471902,1.559245,41.541659",
     "geom:latitude":41.505428,
     "geom:longitude":1.515943,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08257",
         "esp-icgc:la_lc":"08257",
+        "eurostat:nuts_2021_id":"08257",
         "gp:id":12693637,
         "qs_pg:id":498056
     },
@@ -66,7 +82,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"756d93355f228b3541d569a06014d08f",
+    "wof:geomhash":"8364c2750b08e3303119a7e71a585357",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,10 +93,12 @@
         }
     ],
     "wof:id":404331451,
-    "wof:lastmodified":1669903011,
+    "wof:lastmodified":1684352252,
     "wof:name":"Santa Maria de Miralles",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":119,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

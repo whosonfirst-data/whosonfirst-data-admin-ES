@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16240",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vellisca",
+    "eurostat:nuts_2021_id":"16240",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16240",
+    "eurostat:population":100,
+    "eurostat:population_year":2020,
     "geom:area":0.004541,
     "geom:area_square_m":42936088.362586,
     "geom:bbox":"-2.84216562,40.08739701,-2.75591627,40.16303468",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16240",
+        "eurostat:nuts_2021_id":"16240",
         "gn:id":6357554,
         "gp:id":12690603,
         "qs_pg:id":1025327
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6ce4117771fe7911921f126a1532b5d8",
+    "wof:geomhash":"d4c5168dac8da83b53017360b53b3d56",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404334465,
-    "wof:lastmodified":1582361730,
+    "wof:lastmodified":1684352297,
     "wof:name":"Vellisca",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":100,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25226,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25226",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torrebesses",
+    "eurostat:nuts_2021_id":"25226",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25226",
+    "eurostat:population":267,
+    "eurostat:population_year":2020,
     "geom:area":0.002984,
-    "geom:area_square_m":27664214.658245,
+    "geom:area_square_m":27664221.108338,
     "geom:bbox":"0.563114,41.38981,0.631791,41.453112",
     "geom:latitude":41.420579,
     "geom:longitude":0.598411,
@@ -118,6 +130,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -126,7 +140,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25226",
         "esp-icgc:la_lc":"025226",
+        "eurostat:nuts_2021_id":"25226",
         "gn:id":6358954,
         "gp:id":12694111,
         "qs_pg:id":47667
@@ -136,7 +152,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0422332e7ec8cb426f8a26a61f8184b7",
+    "wof:geomhash":"22b1cc3e04fe9502af0d10275fb9f80e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404338057,
-    "wof:lastmodified":1669902995,
+    "wof:lastmodified":1684352369,
     "wof:name":"Torrebesses",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":267,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

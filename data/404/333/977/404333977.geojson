@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15075",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sada",
+    "eurostat:nuts_2021_id":"15075",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15075",
+    "eurostat:population":16186,
+    "eurostat:population_year":2020,
     "geom:area":0.003082,
-    "geom:area_square_m":27706590.876343,
+    "geom:area_square_m":27706590.876342,
     "geom:bbox":"-8.31209442,43.30773948,-8.24197855,43.38699005",
     "geom:latitude":43.353755,
     "geom:longitude":-8.282129,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_15075",
+        "eurostat:nuts_2021_id":"15075",
         "gn:id":6357343,
         "gp:id":12694777,
         "qs_pg:id":837857
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d644692a5574d6226594c972dfd4a1b5",
+    "wof:geomhash":"f096a26077da9b2e4a5a7f9a4e3189ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404333977,
-    "wof:lastmodified":1582361769,
+    "wof:lastmodified":1684352291,
     "wof:name":"Sada",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":16186,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

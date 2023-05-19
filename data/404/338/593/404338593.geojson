@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_27027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lourenz\u00e1",
+    "eurostat:nuts_2021_id":"27027",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES112",
+    "eurostat:nuts_2021_level_lau":"27027",
+    "eurostat:population":2139,
+    "eurostat:population_year":2020,
     "geom:area":0.006966,
-    "geom:area_square_m":62524537.683613,
+    "geom:area_square_m":62524537.683612,
     "geom:bbox":"-7.33054514,43.39445255,-7.23526776,43.52535028",
     "geom:latitude":43.454434,
     "geom:longitude":-7.283488,
@@ -102,6 +114,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -109,9 +123,12 @@
         404227385
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_27027",
+        "eurostat:nuts_2021_id":"27027"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"65e771b5ad7c1d29090afec43f52e3fe",
+    "wof:geomhash":"a0ce22c2e5670f93a5c0e48cdd2a39a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +139,12 @@
         }
     ],
     "wof:id":404338593,
-    "wof:lastmodified":1566589582,
+    "wof:lastmodified":1684352378,
     "wof:name":"Lourenz\u00e1",
     "wof:parent_id":85682775,
     "wof:placetype":"localadmin",
+    "wof:population":2139,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

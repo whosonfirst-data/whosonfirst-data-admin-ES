@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arroyomolinos de la Vera",
+    "eurostat:nuts_2021_id":"10022",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10022",
+    "eurostat:population":441,
+    "eurostat:population_year":2020,
     "geom:area":0.002448,
-    "geom:area_square_m":23169163.566014,
+    "geom:area_square_m":23169163.566012,
     "geom:bbox":"-5.92414402,40.01702979,-5.82923971,40.08066126",
     "geom:latitude":40.049915,
     "geom:longitude":-5.871661,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10022",
+        "eurostat:nuts_2021_id":"10022",
         "gn:id":6356719,
         "gp:id":12694505,
         "qs_pg:id":1311114
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"70d69d69d29726a8c5765dc7cec0f444",
+    "wof:geomhash":"d088b28b7cc6a858326b6f219112bbf0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332559,
-    "wof:lastmodified":1582361677,
+    "wof:lastmodified":1684352266,
     "wof:name":"Arroyomolinos De La Vera",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":441,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

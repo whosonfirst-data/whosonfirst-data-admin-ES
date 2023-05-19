@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_07002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alaior",
+    "eurostat:nuts_2021_id":"07002",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES53",
+    "eurostat:nuts_2021_level_3":"ES533",
+    "eurostat:nuts_2021_level_lau":"07002",
+    "eurostat:population":9467,
+    "eurostat:population_year":2020,
     "geom:area":0.011566,
-    "geom:area_square_m":109690389.848531,
+    "geom:area_square_m":109690389.848532,
     "geom:bbox":"4.05411668,39.85504617,4.20992599,39.97585237",
     "geom:latitude":39.918631,
     "geom:longitude":4.135398,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_07002",
+        "eurostat:nuts_2021_id":"07002",
         "gn:id":6533928,
         "gp:id":12687705,
         "qs_pg:id":1059701
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b4e0c247349162b5ee71dfa0780a21fa",
+    "wof:geomhash":"dff9ec3bd7754ccb063bd1af5a352955",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404330731,
-    "wof:lastmodified":1582361521,
+    "wof:lastmodified":1684352228,
     "wof:name":"Alaior",
     "wof:parent_id":85682647,
     "wof:placetype":"localadmin",
+    "wof:population":9467,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_30028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Moratalla",
+    "eurostat:nuts_2021_id":"30028",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES62",
+    "eurostat:nuts_2021_level_3":"ES620",
+    "eurostat:nuts_2021_level_lau":"30028",
+    "eurostat:population":7804,
+    "eurostat:population_year":2020,
     "geom:area":0.098206,
-    "geom:area_square_m":954303503.997101,
+    "geom:area_square_m":954303503.997094,
     "geom:bbox":"-2.34441142,38.00105335,-1.66931917,38.38129038",
     "geom:latitude":38.1989,
     "geom:longitude":-1.990947,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227389
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_30028",
+        "eurostat:nuts_2021_id":"30028"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"e09bed9c75abb3c65163401500caf65d",
+    "wof:geomhash":"dcc3975ad2f61866134c99fabdecb9cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404339381,
-    "wof:lastmodified":1566590144,
+    "wof:lastmodified":1684352393,
     "wof:name":"Moratalla",
     "wof:parent_id":85682791,
     "wof:placetype":"localadmin",
+    "wof:population":7804,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

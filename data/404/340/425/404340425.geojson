@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_33065",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sariego",
+    "eurostat:nuts_2021_id":"33065",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES12",
+    "eurostat:nuts_2021_level_3":"ES120",
+    "eurostat:nuts_2021_level_lau":"33065",
+    "eurostat:population":1254,
+    "eurostat:population_year":2020,
     "geom:area":0.002858,
-    "geom:area_square_m":25672149.207814,
+    "geom:area_square_m":25672149.207812,
     "geom:bbox":"-5.60061585,43.38901802,-5.49637334,43.44322609",
     "geom:latitude":43.41207,
     "geom:longitude":-5.551581,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_33065",
+        "eurostat:nuts_2021_id":"33065",
         "gn:id":6359967,
         "gp:id":12688507,
         "qs_pg:id":213844
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"20c0c1999c30b7aa1c03f161ec2c89f0",
+    "wof:geomhash":"74d68f6f61c99ce191d21591751826a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404340425,
-    "wof:lastmodified":1582361649,
+    "wof:lastmodified":1684352408,
     "wof:name":"Sariego",
     "wof:parent_id":85682805,
     "wof:placetype":"localadmin",
+    "wof:population":1254,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

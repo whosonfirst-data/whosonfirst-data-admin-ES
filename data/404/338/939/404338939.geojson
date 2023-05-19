@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28117",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pr\u00e1dena del Rinc\u00f3n",
+    "eurostat:nuts_2021_id":"28117",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28117",
+    "eurostat:population":125,
+    "eurostat:population_year":2020,
     "geom:area":0.002411,
-    "geom:area_square_m":22490518.640501,
+    "geom:area_square_m":22490518.640503,
     "geom:bbox":"-3.55942552,41.0125545,-3.46527262,41.06591582",
     "geom:latitude":41.03972,
     "geom:longitude":-3.50973,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28117",
+        "eurostat:nuts_2021_id":"28117",
         "gn:id":6359338,
         "gp:id":12688058,
         "qs_pg:id":44470
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"afc3bac4023171c05d4b764479785e68",
+    "wof:geomhash":"43f6058f92031238d524267c2a6fb092",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404338939,
-    "wof:lastmodified":1582361431,
+    "wof:lastmodified":1684352385,
     "wof:name":"Pr\u00e1dena Del Rinc\u00f3n",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":125,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

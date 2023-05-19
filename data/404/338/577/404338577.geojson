@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_27020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Friol",
+    "eurostat:nuts_2021_id":"27020",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES112",
+    "eurostat:nuts_2021_level_lau":"27020",
+    "eurostat:population":3664,
+    "eurostat:population_year":2020,
     "geom:area":0.032288,
-    "geom:area_square_m":291793496.466483,
+    "geom:area_square_m":291793496.466486,
     "geom:bbox":"-7.94298544,42.93043482,-7.67941153,43.13514915",
     "geom:latitude":43.040812,
     "geom:longitude":-7.813567,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_27020",
+        "eurostat:nuts_2021_id":"27020",
         "gn:id":6359181,
         "gp:id":12694817,
         "qs_pg:id":51840
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4c246560341b647b11a17e65d89977cb",
+    "wof:geomhash":"85ad1616c1692d40cd738c8dca575e24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404338577,
-    "wof:lastmodified":1582361457,
+    "wof:lastmodified":1684352378,
     "wof:name":"Friol",
     "wof:parent_id":85682775,
     "wof:placetype":"localadmin",
+    "wof:population":3664,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

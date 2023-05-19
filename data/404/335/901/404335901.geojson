@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19244",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sacecorbo",
+    "eurostat:nuts_2021_id":"19244",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19244",
+    "eurostat:population":89,
+    "eurostat:population_year":2020,
     "geom:area":0.007734,
-    "geom:area_square_m":72359441.860047,
+    "geom:area_square_m":72359441.860052,
     "geom:bbox":"-2.49778095,40.77871573,-2.32565691,40.88418589",
     "geom:latitude":40.827269,
     "geom:longitude":-2.414011,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19244",
+        "eurostat:nuts_2021_id":"19244",
         "gn:id":6358012,
         "gp:id":12690842,
         "qs_pg:id":240108
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"189c808d7686dafd73b839993bee12d2",
+    "wof:geomhash":"9e3c5146f9fd128b8c12306d3673c51c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404335901,
-    "wof:lastmodified":1582361694,
+    "wof:lastmodified":1684352331,
     "wof:name":"Sacecorbo",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":89,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

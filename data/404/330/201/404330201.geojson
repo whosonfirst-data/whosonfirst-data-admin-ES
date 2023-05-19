@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05197",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Salobral",
+    "eurostat:nuts_2021_id":"05197",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05197",
+    "eurostat:population":112,
+    "eurostat:population_year":2020,
     "geom:area":0.000803,
-    "geom:area_square_m":7541229.477314,
+    "geom:area_square_m":7541229.477313,
     "geom:bbox":"-4.8277579,40.59047943,-4.78545376,40.62818633",
     "geom:latitude":40.611027,
     "geom:longitude":-4.806367,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05197",
+        "eurostat:nuts_2021_id":"05197",
         "gn:id":6355797,
         "gp:id":12691306,
         "qs_pg:id":46184
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e48cf6b06a9bb63938ef82ec8a962244",
+    "wof:geomhash":"6b4333708d9f857e21f913ea13992a1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404330201,
-    "wof:lastmodified":1582361539,
+    "wof:lastmodified":1684352220,
     "wof:name":"Salobral",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":112,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

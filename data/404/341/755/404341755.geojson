@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37309",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sierpe, La",
+    "eurostat:nuts_2021_id":"37309",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37309",
+    "eurostat:population":40,
+    "eurostat:population_year":2020,
     "geom:area":0.001582,
-    "geom:area_square_m":14839814.669172,
+    "geom:area_square_m":14839814.669173,
     "geom:bbox":"-5.88765059,40.62477773,-5.8202192,40.66414351",
     "geom:latitude":40.647238,
     "geom:longitude":-5.852381,
@@ -51,6 +63,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -59,6 +73,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37309",
+        "eurostat:nuts_2021_id":"37309",
         "gn:id":6360546,
         "qs_pg:id":621842
     },
@@ -66,7 +82,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ce346a6664623bf29dfe68e9c0950341",
+    "wof:geomhash":"df9474b4363b21c26da7f4b35cf562ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,10 +93,12 @@
         }
     ],
     "wof:id":404341755,
-    "wof:lastmodified":1582361623,
+    "wof:lastmodified":1684352428,
     "wof:name":"La Sierpe",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":40,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

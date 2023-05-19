@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alfafara",
+    "eurostat:nuts_2021_id":"03010",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03010",
+    "eurostat:population":406,
+    "eurostat:population_year":2020,
     "geom:area":0.00205,
-    "geom:area_square_m":19763370.364807,
+    "geom:area_square_m":19763370.364808,
     "geom:bbox":"-0.59630356,38.75385635,-0.53152104,38.80570107",
     "geom:latitude":38.780872,
     "geom:longitude":-0.563743,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03010",
+        "eurostat:nuts_2021_id":"03010",
         "gn:id":6355386,
         "gp:id":12695275,
         "qs_pg:id":269663
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"00d9fc0a220cf5e45672fac9e3a1f551",
+    "wof:geomhash":"43b335bdcad955a06239e8f2312e1cfd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404329271,
-    "wof:lastmodified":1582361799,
+    "wof:lastmodified":1684352207,
     "wof:name":"Alfafara",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":406,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

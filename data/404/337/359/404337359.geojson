@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24107",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pajares de los Oteros",
+    "eurostat:nuts_2021_id":"24107",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24107",
+    "eurostat:population":248,
+    "eurostat:population_year":2020,
     "geom:area":0.006753,
     "geom:area_square_m":61727999.99223,
     "geom:bbox":"-5.52351857,42.29079368,-5.39862142,42.38708342",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_24107",
+        "eurostat:nuts_2021_id":"24107",
         "gn:id":6358649,
         "gp:id":12691846,
         "qs_pg:id":200617
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7085662a22dc41bebde333273bfcc86d",
+    "wof:geomhash":"aa4875f92c7b7bdd5d679925691ddc8c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404337359,
-    "wof:lastmodified":1582361564,
+    "wof:lastmodified":1684352351,
     "wof:name":"Pajares De Los Oteros",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":248,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alcu\u00e9scar",
+    "eurostat:nuts_2021_id":"10010",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10010",
+    "eurostat:population":2554,
+    "eurostat:population_year":2020,
     "geom:area":0.011353,
-    "geom:area_square_m":108843286.847204,
+    "geom:area_square_m":108843286.847202,
     "geom:bbox":"-6.31941519,39.05650149,-6.16785705,39.23772782",
     "geom:latitude":39.164351,
     "geom:longitude":-6.235609,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10010",
+        "eurostat:nuts_2021_id":"10010",
         "gn:id":6356707,
         "gp:id":12694492,
         "qs_pg:id":1149620
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6081d73285b4d46e27c8abbeee898f1d",
+    "wof:geomhash":"cc9ce064180d0d6302f95b8b18cb77e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404332531,
-    "wof:lastmodified":1582361685,
+    "wof:lastmodified":1684352265,
     "wof:name":"Alcu\u00e9scar",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":2554,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

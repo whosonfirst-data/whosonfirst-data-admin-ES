@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":43112,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43112",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Poboleda",
+    "eurostat:nuts_2021_id":"43112",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43112",
+    "eurostat:population":321,
+    "eurostat:population_year":2020,
     "geom:area":0.001481,
     "geom:area_square_m":13772836.664712,
     "geom:bbox":"0.817291647433,41.2075528493,0.869020236055,41.2533889811",
@@ -112,6 +124,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -120,7 +134,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43112",
         "esp-icgc:la_lc":"043112",
+        "eurostat:nuts_2021_id":"43112",
         "gn:id":6361354,
         "gp:id":12694249,
         "qs_pg:id":220772
@@ -130,7 +146,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"144a62882c0399b8b78570afd5ea68d0",
+    "wof:geomhash":"5a20b8bdebe82926c64e44615453a3d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404343643,
-    "wof:lastmodified":1582361866,
+    "wof:lastmodified":1684352459,
     "wof:name":"Poboleda",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":321,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

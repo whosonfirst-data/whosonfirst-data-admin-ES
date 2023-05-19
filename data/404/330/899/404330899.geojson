@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8009,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Argentona",
+    "eurostat:nuts_2021_id":"08009",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08009",
+    "eurostat:population":12536,
+    "eurostat:population_year":2020,
     "geom:area":0.002736,
-    "geom:area_square_m":25317008.304431,
+    "geom:area_square_m":25317008.304429,
     "geom:bbox":"2.35589392843,41.5305151067,2.42690978356,41.5951236365",
     "geom:latitude":41.561959,
     "geom:longitude":2.391315,
@@ -145,6 +157,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -153,7 +167,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08009",
         "esp-icgc:la_lc":"08009",
+        "eurostat:nuts_2021_id":"08009",
         "gn:id":6356045,
         "gp:id":12693385,
         "qs_pg:id":499392
@@ -163,7 +179,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4c95d8c02041360dd2c450414dc8d24a",
+    "wof:geomhash":"f7291097a2a90d3bb38a1e4e1334bb1c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -174,10 +190,12 @@
         }
     ],
     "wof:id":404330899,
-    "wof:lastmodified":1582361540,
+    "wof:lastmodified":1684352234,
     "wof:name":"Argentona",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":12536,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

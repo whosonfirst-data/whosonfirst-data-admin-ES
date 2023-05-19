@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19268",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tierzo",
+    "eurostat:nuts_2021_id":"19268",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19268",
+    "eurostat:population":55,
+    "eurostat:population_year":2020,
     "geom:area":0.004271,
-    "geom:area_square_m":40009815.432686,
+    "geom:area_square_m":40009815.432685,
     "geom:bbox":"-1.98268404,40.71573038,-1.86690684,40.78319904",
     "geom:latitude":40.748008,
     "geom:longitude":-1.92177,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19268",
+        "eurostat:nuts_2021_id":"19268",
         "gn:id":6358035,
         "gp:id":12690866,
         "qs_pg:id":45617
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"18994cbf2dd5c249d73f81eb82df6d60",
+    "wof:geomhash":"e250d17d44b0994c4819f1e142ca81d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404335951,
-    "wof:lastmodified":1582361705,
+    "wof:lastmodified":1684352331,
     "wof:name":"Tierzo",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":55,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Benizal\u00f3n",
+    "eurostat:nuts_2021_id":"04027",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04027",
+    "eurostat:population":262,
+    "eurostat:population_year":2020,
     "geom:area":0.003245,
-    "geom:area_square_m":31959871.920982,
+    "geom:area_square_m":31959871.920983,
     "geom:bbox":"-2.2574711,37.15631565,-2.15727853,37.23769844",
     "geom:latitude":37.202932,
     "geom:longitude":-2.217378,
@@ -123,6 +135,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -130,9 +144,12 @@
         404227361
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_04027",
+        "eurostat:nuts_2021_id":"04027"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"08528be883fee406f1aae3542f5f504a",
+    "wof:geomhash":"a685391ac175bfd4fe2b7c003aba0fe4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +160,12 @@
         }
     ],
     "wof:id":404329627,
-    "wof:lastmodified":1566590854,
+    "wof:lastmodified":1684352212,
     "wof:name":"Benizal\u00f3n",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":262,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15091",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vilarmaior",
+    "eurostat:nuts_2021_id":"15091",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15091",
+    "eurostat:population":1209,
+    "eurostat:population_year":2020,
     "geom:area":0.003355,
-    "geom:area_square_m":30164963.824588,
+    "geom:area_square_m":30164963.824586,
     "geom:bbox":"-8.16665563,43.31560564,-8.08622257,43.39450512",
     "geom:latitude":43.356586,
     "geom:longitude":-8.123154,
@@ -117,6 +129,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -124,9 +138,12 @@
         404227385
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_15091",
+        "eurostat:nuts_2021_id":"15091"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"3842c0c580e6ab3864ddfb301f086c5c",
+    "wof:geomhash":"11762c721cee6c30b79cf03fa1af78c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +154,12 @@
         }
     ],
     "wof:id":404334013,
-    "wof:lastmodified":1566590650,
+    "wof:lastmodified":1684352292,
     "wof:name":"Vilarmaior",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":1209,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

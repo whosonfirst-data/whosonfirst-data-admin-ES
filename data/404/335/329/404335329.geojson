@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18153",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Peligros",
+    "eurostat:nuts_2021_id":"18153",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18153",
+    "eurostat:population":11492,
+    "eurostat:population_year":2020,
     "geom:area":0.00103,
     "geom:area_square_m":10139326.832598,
     "geom:bbox":"-3.64835401,37.21822979,-3.61148244,37.2650361",
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18153",
+        "eurostat:nuts_2021_id":"18153",
         "gn:id":6357761,
         "gp:id":12688975,
         "qs_pg:id":1027854
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2ac4ca44d15a22a1b6f83b1913ddba68",
+    "wof:geomhash":"c4b7d03261a79e20877ef98153b70222",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404335329,
-    "wof:lastmodified":1582361711,
+    "wof:lastmodified":1684352324,
     "wof:name":"Peligros",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":11492,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

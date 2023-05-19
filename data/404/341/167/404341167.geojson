@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"A\u00f1over de Tormes",
+    "eurostat:nuts_2021_id":"37030",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37030",
+    "eurostat:population":89,
+    "eurostat:population_year":2020,
     "geom:area":0.00217,
     "geom:area_square_m":20210603.594016,
     "geom:bbox":"-5.95286009,41.10439329,-5.88203682,41.15990171",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_37030",
+        "eurostat:nuts_2021_id":"37030"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"a1df343dac6efdf291bc991ecd3035f0",
+    "wof:geomhash":"83001c8e54007be4b8cb79f7df8597ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404341167,
-    "wof:lastmodified":1566590297,
+    "wof:lastmodified":1684352421,
     "wof:name":"A\u00f1over De Tormes",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":89,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

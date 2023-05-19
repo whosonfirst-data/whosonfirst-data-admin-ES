@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37088",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carrascal del Obispo",
+    "eurostat:nuts_2021_id":"37088",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37088",
+    "eurostat:population":206,
+    "eurostat:population_year":2020,
     "geom:area":0.00437,
-    "geom:area_square_m":40922074.430834,
+    "geom:area_square_m":40922074.430835,
     "geom:bbox":"-6.09054884,40.7340102,-5.92500791,40.80480162",
     "geom:latitude":40.767747,
     "geom:longitude":-5.996112,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_37088",
+        "eurostat:nuts_2021_id":"37088"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"e9c6668730ce1d346252e678198d8b1a",
+    "wof:geomhash":"a3548f74175ff6bbf08381985f2b47ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404341279,
-    "wof:lastmodified":1566590341,
+    "wof:lastmodified":1684352422,
     "wof:name":"Carrascal Del Obispo",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":206,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

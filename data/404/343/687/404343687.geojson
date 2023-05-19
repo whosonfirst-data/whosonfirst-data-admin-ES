@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43132,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43132",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rodony\u00e0",
+    "eurostat:nuts_2021_id":"43132",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43132",
+    "eurostat:population":494,
+    "eurostat:population_year":2020,
     "geom:area":0.000898,
-    "geom:area_square_m":8341477.499653,
+    "geom:area_square_m":8341480.200028,
     "geom:bbox":"1.381869,41.263218,1.439497,41.292281",
     "geom:latitude":41.278661,
     "geom:longitude":1.40725,
@@ -127,6 +139,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -135,7 +149,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43132",
         "esp-icgc:la_lc":"043132",
+        "eurostat:nuts_2021_id":"43132",
         "gn:id":6361374,
         "gp:id":12694269,
         "qs_pg:id":204785
@@ -145,7 +161,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"b47308dbaed1e7dbe4e4a84486d25ad1",
+    "wof:geomhash":"24cf3bf6957fe8999bfc66ac8e78f0e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404343687,
-    "wof:lastmodified":1669903062,
+    "wof:lastmodified":1684352460,
     "wof:name":"Rodony\u00e0",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":494,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

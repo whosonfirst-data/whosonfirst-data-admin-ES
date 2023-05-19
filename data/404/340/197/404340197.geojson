@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_32056",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Padrenda",
+    "eurostat:nuts_2021_id":"32056",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES113",
+    "eurostat:nuts_2021_level_lau":"32056",
+    "eurostat:population":1671,
+    "eurostat:population_year":2020,
     "geom:area":0.00621,
-    "geom:area_square_m":56953497.198044,
+    "geom:area_square_m":56953497.198043,
     "geom:bbox":"-8.19904175,42.06658135,-8.10629866,42.17276315",
     "geom:latitude":42.119078,
     "geom:longitude":-8.154886,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_32056",
+        "eurostat:nuts_2021_id":"32056",
         "gn:id":6359873,
         "gp:id":12694915,
         "qs_pg:id":1149657
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"eee7c36f5108e0b1aed629d0592d6cd9",
+    "wof:geomhash":"e3371bbcd086e203511c216a0db2649a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404340197,
-    "wof:lastmodified":1582361659,
+    "wof:lastmodified":1684352403,
     "wof:name":"Padrenda",
     "wof:parent_id":85682801,
     "wof:placetype":"localadmin",
+    "wof:population":1671,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

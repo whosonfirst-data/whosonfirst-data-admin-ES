@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37036",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Miguel del Robledo",
+    "eurostat:nuts_2021_id":"37036",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37036",
+    "eurostat:population":52,
+    "eurostat:population_year":2020,
     "geom:area":0.001104,
-    "geom:area_square_m":10373404.414736,
+    "geom:area_square_m":10373404.414737,
     "geom:bbox":"-6.07582185,40.52402012,-6.01049386,40.56274948",
     "geom:latitude":40.542918,
     "geom:longitude":-6.045572,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_37036",
+        "eurostat:nuts_2021_id":"37036"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"e6ce64c844f8dd258346fcb0594bd293",
+    "wof:geomhash":"f2cd0a4445bc59e1d466f4fbba9afaa8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404341181,
-    "wof:lastmodified":1566590324,
+    "wof:lastmodified":1684352421,
     "wof:name":"San Miguel Del Robledo",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":52,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

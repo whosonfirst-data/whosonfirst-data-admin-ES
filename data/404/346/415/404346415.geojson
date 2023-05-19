@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49126",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Moraleja de Sayago",
+    "eurostat:nuts_2021_id":"49126",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49126",
+    "eurostat:population":291,
+    "eurostat:population_year":2020,
     "geom:area":0.003616,
-    "geom:area_square_m":33657230.728692,
+    "geom:area_square_m":33657230.728693,
     "geom:bbox":"-6.02823151,41.14010043,-5.92675488,41.21342538",
     "geom:latitude":41.176664,
     "geom:longitude":-5.981909,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_49126",
+        "eurostat:nuts_2021_id":"49126"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"20941512c58024d9327606041af53abf",
+    "wof:geomhash":"3ebbd3c477aa72275210c01b4b1063fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404346415,
-    "wof:lastmodified":1566590235,
+    "wof:lastmodified":1684352499,
     "wof:name":"Moraleja De Sayago",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":291,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

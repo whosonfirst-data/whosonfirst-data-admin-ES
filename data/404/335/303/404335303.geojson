@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18141",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Murtas",
+    "eurostat:nuts_2021_id":"18141",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18141",
+    "eurostat:population":455,
+    "eurostat:population_year":2020,
     "geom:area":0.007245,
-    "geom:area_square_m":71674482.640918,
+    "geom:area_square_m":71674482.640916,
     "geom:bbox":"-3.1927107,36.79047367,-3.06076393,36.93155897",
     "geom:latitude":36.866862,
     "geom:longitude":-3.130388,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18141",
+        "eurostat:nuts_2021_id":"18141",
         "gn:id":6357750,
         "gp:id":12688963,
         "qs_pg:id":1315228
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b34ad2b9cf618eae2ca2e9392dbced44",
+    "wof:geomhash":"fa3e5d6832e1c62520b241219db9b7d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404335303,
-    "wof:lastmodified":1582361704,
+    "wof:lastmodified":1684352324,
     "wof:name":"Murtas",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":455,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

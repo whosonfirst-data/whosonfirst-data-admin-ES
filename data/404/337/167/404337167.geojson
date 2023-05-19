@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Benuza",
+    "eurostat:nuts_2021_id":"24016",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24016",
+    "eurostat:population":482,
+    "eurostat:population_year":2020,
     "geom:area":0.018901,
     "geom:area_square_m":172640236.526717,
     "geom:bbox":"-6.77415572,42.29699255,-6.57255641,42.46007611",
@@ -99,6 +111,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -106,9 +120,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_24016",
+        "eurostat:nuts_2021_id":"24016"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"326913a63db8902793f94a313d9a2dee",
+    "wof:geomhash":"7757f12ea862fe0ed2d3f5f1ef916a72",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +136,12 @@
         }
     ],
     "wof:id":404337167,
-    "wof:lastmodified":1566589974,
+    "wof:lastmodified":1684352349,
     "wof:name":"Benuza",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":482,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

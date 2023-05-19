@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19198",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Negredo",
+    "eurostat:nuts_2021_id":"19198",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19198",
+    "eurostat:population":17,
+    "eurostat:population_year":2020,
     "geom:area":0.001963,
-    "geom:area_square_m":18314122.222856,
+    "geom:area_square_m":18314122.222857,
     "geom:bbox":"-2.89053872,41.00805381,-2.82579521,41.04887002",
     "geom:latitude":41.029137,
     "geom:longitude":-2.859858,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19198",
+        "eurostat:nuts_2021_id":"19198",
         "gn:id":6357970,
         "gp:id":12690800,
         "qs_pg:id":540341
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3171e9e7405b866a11d82f5ecfa8ab99",
+    "wof:geomhash":"aca679062ad403ba937b42edbe903341",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404335805,
-    "wof:lastmodified":1582361701,
+    "wof:lastmodified":1684352330,
     "wof:name":"Negredo",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":17,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

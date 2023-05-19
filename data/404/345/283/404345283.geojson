@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46215",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Riola",
+    "eurostat:nuts_2021_id":"46215",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46215",
+    "eurostat:population":1790,
+    "eurostat:population_year":2020,
     "geom:area":0.000583,
     "geom:area_square_m":5584816.950436,
     "geom:bbox":"-0.35230327,39.16443643,-0.32195187,39.20843712",
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46215",
+        "eurostat:nuts_2021_id":"46215",
         "gn:id":6362080,
         "gp:id":12695754,
         "qs_pg:id":1025552
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d59d1624239fbdf8b0998f3fbdaa2f32",
+    "wof:geomhash":"0e0b3051c11d2b168ad26471651901a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404345283,
-    "wof:lastmodified":1582361835,
+    "wof:lastmodified":1684352484,
     "wof:name":"Riola",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":1790,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

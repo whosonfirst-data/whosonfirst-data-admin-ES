@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_13010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alhambra",
+    "eurostat:nuts_2021_id":"13010",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES422",
+    "eurostat:nuts_2021_level_lau":"13010",
+    "eurostat:population":1005,
+    "eurostat:population_year":2020,
     "geom:area":0.060266,
-    "geom:area_square_m":579820746.813309,
+    "geom:area_square_m":579820746.813306,
     "geom:bbox":"-3.28610498,38.74232705,-2.80500977,39.09888958",
     "geom:latitude":38.915805,
     "geom:longitude":-3.058642,
@@ -252,6 +264,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -260,6 +274,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_13010",
+        "eurostat:nuts_2021_id":"13010",
         "gn:id":6357104,
         "gp:id":12690307,
         "qs_pg:id":1014910
@@ -268,7 +284,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"60d0a3f0a823be0a603feb95da9c2828",
+    "wof:geomhash":"135a2e51ef1ee56275e0088dc0cc9f94",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -279,10 +295,12 @@
         }
     ],
     "wof:id":404333431,
-    "wof:lastmodified":1582361767,
+    "wof:lastmodified":1684352278,
     "wof:name":"Alhambra",
     "wof:parent_id":85682689,
     "wof:placetype":"localadmin",
+    "wof:population":1005,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

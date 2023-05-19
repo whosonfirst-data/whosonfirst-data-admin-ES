@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8005,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ametlla del Vall\u00e8s, L'",
+    "eurostat:nuts_2021_id":"08005",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08005",
+    "eurostat:population":8646,
+    "eurostat:population_year":2020,
     "geom:area":0.001517,
-    "geom:area_square_m":14016647.79378,
+    "geom:area_square_m":14016664.456201,
     "geom:bbox":"2.231212,41.635361,2.278324,41.703141",
     "geom:latitude":41.663461,
     "geom:longitude":2.256211,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08005",
         "esp-icgc:la_lc":"08005",
+        "eurostat:nuts_2021_id":"08005",
         "gn:id":6356043,
         "gp:id":12693381,
         "qs_pg:id":1078649
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"9ded80f226b3f9c1e530059fdb54cda5",
+    "wof:geomhash":"151c6620047a69cc1fb0f98a995fab0f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404330889,
-    "wof:lastmodified":1669903015,
+    "wof:lastmodified":1684352234,
     "wof:name":"L'Ametlla del Vall\u00e8s",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":8646,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

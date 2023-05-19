@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25903,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25903",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Guingueta d'\u00c0neu, La",
+    "eurostat:nuts_2021_id":"25903",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25903",
+    "eurostat:population":289,
+    "eurostat:population_year":2020,
     "geom:area":0.01187,
-    "geom:area_square_m":108038423.909325,
+    "geom:area_square_m":108038511.125542,
     "geom:bbox":"1.079832,42.509682,1.210886,42.707215",
     "geom:latitude":42.602864,
     "geom:longitude":1.15435,
@@ -48,6 +60,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -56,13 +70,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"025903"
+        "eg:gisco_id":"ES_25903",
+        "esp-icgc:la_lc":"025903",
+        "eurostat:nuts_2021_id":"25903"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0701cb3293bd2bffdb26cbae28a73b86",
+    "wof:geomhash":"6b0e88cf2d84fe4fc68198ce1f5c6c77",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,10 +89,12 @@
         }
     ],
     "wof:id":404338117,
-    "wof:lastmodified":1669902993,
+    "wof:lastmodified":1684352371,
     "wof:name":"La Guingueta d'\u00c0neu",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":289,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

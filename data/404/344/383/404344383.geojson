@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bargas",
+    "eurostat:nuts_2021_id":"45019",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45019",
+    "eurostat:population":10535,
+    "eurostat:population_year":2020,
     "geom:area":0.00943,
-    "geom:area_square_m":89387393.51233,
+    "geom:area_square_m":89387393.512327,
     "geom:bbox":"-4.17016895,39.90318611,-4.00878153,40.03576953",
     "geom:latitude":39.948204,
     "geom:longitude":-4.074225,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45019",
+        "eurostat:nuts_2021_id":"45019",
         "gn:id":6361680,
         "gp:id":12690941,
         "qs_pg:id":1197802
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9173444246e753b096570ca56bcf24ca",
+    "wof:geomhash":"347ee09c7aceebe97f0b6b92d08209e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404344383,
-    "wof:lastmodified":1582361849,
+    "wof:lastmodified":1684352473,
     "wof:name":"Bargas",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":10535,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

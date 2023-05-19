@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09148",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grijalba",
+    "eurostat:nuts_2021_id":"09148",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09148",
+    "eurostat:population":112,
+    "eurostat:population_year":2020,
     "geom:area":0.002161,
     "geom:area_square_m":19721422.155827,
     "geom:bbox":"-4.15631625,42.40726597,-4.08237887,42.44883317",
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09148",
+        "eurostat:nuts_2021_id":"09148",
         "gn:id":6356445,
         "gp:id":12691492,
         "qs_pg:id":46275
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ea94542c830e0394ef5a0c1aa89dc3d4",
+    "wof:geomhash":"cd08ee92db19581023ead328279dfc67",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404331895,
-    "wof:lastmodified":1582361489,
+    "wof:lastmodified":1684352259,
     "wof:name":"Grijalba",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":112,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

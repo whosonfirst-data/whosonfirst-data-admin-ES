@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28100",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nuevo Bazt\u00e1n",
+    "eurostat:nuts_2021_id":"28100",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28100",
+    "eurostat:population":6454,
+    "eurostat:population_year":2020,
     "geom:area":0.002134,
-    "geom:area_square_m":20098139.65768,
+    "geom:area_square_m":20098139.657682,
     "geom:bbox":"-3.27991841,40.34618269,-3.2193186,40.40304935",
     "geom:latitude":40.375043,
     "geom:longitude":-3.25334,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28100",
+        "eurostat:nuts_2021_id":"28100",
         "gn:id":6359323,
         "gp:id":12688043,
         "qs_pg:id":44461
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0b11048f370bbf4e8dbcdcbccac480fa",
+    "wof:geomhash":"85e9af96b721f2bfb5667825bcf51005",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404338907,
-    "wof:lastmodified":1582361430,
+    "wof:lastmodified":1684352384,
     "wof:name":"Nuevo Bazt\u00e1n",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":6454,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

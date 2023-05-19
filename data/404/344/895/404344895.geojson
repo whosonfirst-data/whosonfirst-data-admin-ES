@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aielo de Rugat",
+    "eurostat:nuts_2021_id":"46043",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46043",
+    "eurostat:population":160,
+    "eurostat:population_year":2020,
     "geom:area":0.000813,
     "geom:area_square_m":7825009.724662,
     "geom:bbox":"-0.37113209,38.86154916,-0.31271408,38.90460117",
@@ -33,6 +45,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -41,6 +55,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46043",
+        "eurostat:nuts_2021_id":"46043",
         "gn:id":6361908,
         "gp:id":12695584,
         "qs_pg:id":1020018
@@ -49,7 +65,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1a165c30ac8e3164b46f4d6af04ef678",
+    "wof:geomhash":"1d3f79b48387f05d98515d8ed753c15a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +76,12 @@
         }
     ],
     "wof:id":404344895,
-    "wof:lastmodified":1582361847,
+    "wof:lastmodified":1684352480,
     "wof:name":"Aielo De Rugat",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":160,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42097",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gormaz",
+    "eurostat:nuts_2021_id":"42097",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42097",
+    "eurostat:population":20,
+    "eurostat:population_year":2020,
     "geom:area":0.001695,
-    "geom:area_square_m":15694341.394935,
+    "geom:area_square_m":15694341.394934,
     "geom:bbox":"-3.02972529,41.48169135,-2.98900883,41.54435571",
     "geom:latitude":41.508924,
     "geom:longitude":-3.008087,
@@ -174,6 +186,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -182,6 +196,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42097",
+        "eurostat:nuts_2021_id":"42097",
         "gn:id":6361147,
         "gp:id":12692806,
         "qs_pg:id":1066577
@@ -190,7 +206,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7407e3a75915aaab62f0e394e824ee45",
+    "wof:geomhash":"3e8048ecbca96592e10e0773c97c06e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -201,10 +217,12 @@
         }
     ],
     "wof:id":404343175,
-    "wof:lastmodified":1582361876,
+    "wof:lastmodified":1684352448,
     "wof:name":"Gormaz",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":20,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28083",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Meco",
+    "eurostat:nuts_2021_id":"28083",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28083",
+    "eurostat:population":14670,
+    "eurostat:population_year":2020,
     "geom:area":0.003717,
     "geom:area_square_m":34916388.687677,
     "geom:bbox":"-3.36349376,40.52128007,-3.28310259,40.60092104",
@@ -69,6 +81,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -77,6 +91,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28083",
+        "eurostat:nuts_2021_id":"28083",
         "gn:id":6359307,
         "gp:id":12688027,
         "qs_pg:id":1310979
@@ -85,7 +101,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b2dbe3bbf8f602ace404bfe72d34b6eb",
+    "wof:geomhash":"56c4f966053def0b2407e8b37370e918",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,10 +112,12 @@
         }
     ],
     "wof:id":404338871,
-    "wof:lastmodified":1582361448,
+    "wof:lastmodified":1684352383,
     "wof:name":"Meco",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":14670,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

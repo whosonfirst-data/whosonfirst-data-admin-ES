@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47053",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cogeces de \u00cdscar",
+    "eurostat:nuts_2021_id":"47053",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47053",
+    "eurostat:population":136,
+    "eurostat:population_year":2020,
     "geom:area":0.00146,
-    "geom:area_square_m":13542983.531014,
+    "geom:area_square_m":13542983.531015,
     "geom:bbox":"-4.56852974,41.38794912,-4.51433406,41.43233823",
     "geom:latitude":41.410287,
     "geom:longitude":-4.539412,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_47053",
+        "eurostat:nuts_2021_id":"47053"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"67fbcc5fc4e925ed0d0c0e27c2f8a18c",
+    "wof:geomhash":"348e9ca39d4b8c859bb16c446eff6364",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404345517,
-    "wof:lastmodified":1566591014,
+    "wof:lastmodified":1684352487,
     "wof:name":"Cogeces De \u00cdscar",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":136,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50129",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jaraba",
+    "eurostat:nuts_2021_id":"50129",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50129",
+    "eurostat:population":282,
+    "eurostat:population_year":2020,
     "geom:area":0.004595,
     "geom:area_square_m":42751866.16665,
     "geom:bbox":"-1.95126853,41.145525,-1.85042445,41.23367829",
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50129",
+        "eurostat:nuts_2021_id":"50129",
         "gn:id":6362818,
         "gp:id":29400326,
         "qs_pg:id":273602
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"78a874d8c51f802ab47df3529c2eac7d",
+    "wof:geomhash":"d757368e6a4ab86ba84e3d752c237b89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404346993,
-    "wof:lastmodified":1582361615,
+    "wof:lastmodified":1684352506,
     "wof:name":"Jaraba",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":282,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

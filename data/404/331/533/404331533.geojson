@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8293,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08293",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vallcebre",
+    "eurostat:nuts_2021_id":"08293",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08293",
+    "eurostat:population":249,
+    "eurostat:population_year":2020,
     "geom:area":0.003059,
-    "geom:area_square_m":28018957.045397,
+    "geom:area_square_m":28018957.045396,
     "geom:bbox":"1.76952422801,42.1794636127,1.85345302973,42.2407839024",
     "geom:latitude":42.206234,
     "geom:longitude":1.812311,
@@ -127,6 +139,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -135,7 +149,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08293",
         "esp-icgc:la_lc":"08293",
+        "eurostat:nuts_2021_id":"08293",
         "gn:id":6356310,
         "gp:id":12693667,
         "qs_pg:id":1208063
@@ -145,7 +161,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"31d6e34f7f99118ec0e42c0f979a396a",
+    "wof:geomhash":"165702b241650a7c8ccb0a0fc8e5a139",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404331533,
-    "wof:lastmodified":1582361482,
+    "wof:lastmodified":1684352255,
     "wof:name":"Vallcebre",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":249,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

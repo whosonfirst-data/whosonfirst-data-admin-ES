@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15077",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Comba",
+    "eurostat:nuts_2021_id":"15077",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15077",
+    "eurostat:population":9362,
+    "eurostat:population_year":2020,
     "geom:area":0.022508,
-    "geom:area_square_m":203399171.001099,
+    "geom:area_square_m":203399171.001103,
     "geom:bbox":"-8.91631379,42.95803438,-8.68319948,43.11878578",
     "geom:latitude":43.045446,
     "geom:longitude":-8.806812,
@@ -75,6 +87,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -83,6 +97,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_15077",
+        "eurostat:nuts_2021_id":"15077",
         "gn:id":6357345,
         "gp:id":12694779,
         "qs_pg:id":1001412
@@ -91,7 +107,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"74f2cf6a571fffc6ce24ee4578109267",
+    "wof:geomhash":"56ebe320f8e64cb66d55078f9c9ce044",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,10 +118,12 @@
         }
     ],
     "wof:id":404333981,
-    "wof:lastmodified":1582361785,
+    "wof:lastmodified":1684352291,
     "wof:name":"Santa Comba",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":9362,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Benafer",
+    "eurostat:nuts_2021_id":"12024",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12024",
+    "eurostat:population":164,
+    "eurostat:population_year":2020,
     "geom:area":0.001796,
-    "geom:area_square_m":17016155.943228,
+    "geom:area_square_m":17016155.943227,
     "geom:bbox":"-0.64750225,39.9268246,-0.56364373,40.01748899",
     "geom:latitude":39.96999,
     "geom:longitude":-0.605745,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12024",
+        "eurostat:nuts_2021_id":"12024",
         "gn:id":6356981,
         "gp:id":12695428,
         "qs_pg:id":1198399
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d5297ff39beadd86a62495e166757390",
+    "wof:geomhash":"0227275c997da5f49db6ac3d7b9425f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404333155,
-    "wof:lastmodified":1582361775,
+    "wof:lastmodified":1684352275,
     "wof:name":"Benafer",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":164,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

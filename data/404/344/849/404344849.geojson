@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alfafar",
+    "eurostat:nuts_2021_id":"46022",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46022",
+    "eurostat:population":21395,
+    "eurostat:population_year":2020,
     "geom:area":0.001056,
-    "geom:area_square_m":10088543.552745,
+    "geom:area_square_m":10088543.552744,
     "geom:bbox":"-0.40365325,39.36475564,-0.33014295,39.42890146",
     "geom:latitude":39.403046,
     "geom:longitude":-0.361741,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46022",
+        "eurostat:nuts_2021_id":"46022",
         "gn:id":6361887,
         "gp:id":12695563,
         "qs_pg:id":1311136
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"89003e7d7b1be72f74864df8809863ab",
+    "wof:geomhash":"9a35fe92abe33b78359fee96702ea1f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404344849,
-    "wof:lastmodified":1582361855,
+    "wof:lastmodified":1684352479,
     "wof:name":"Alfafar",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":21395,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

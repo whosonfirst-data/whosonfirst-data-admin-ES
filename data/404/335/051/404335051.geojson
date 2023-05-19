@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17903,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17903",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Juli\u00e0 del Llor i Bonmat\u00ed",
+    "eurostat:nuts_2021_id":"17903",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17903",
+    "eurostat:population":1313,
+    "eurostat:population_year":2020,
     "geom:area":0.001049,
-    "geom:area_square_m":9647455.095328,
+    "geom:area_square_m":9647523.041502,
     "geom:bbox":"2.626934,41.960877,2.674005,41.992826",
     "geom:latitude":41.975229,
     "geom:longitude":2.650334,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17903",
         "esp-icgc:la_lc":"017903",
+        "eurostat:nuts_2021_id":"17903",
         "gn:id":6534131,
         "gp:id":12693847,
         "qs_pg:id":247644
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"de354b9254e7fba44fbe21a1d4708ea9",
+    "wof:geomhash":"c957320a8727f2c2f51ff545e0b29efb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404335051,
-    "wof:lastmodified":1669903039,
+    "wof:lastmodified":1684352319,
     "wof:name":"Sant Juli\u00e0 del Llor i Bonmat\u00ed",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":1313,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

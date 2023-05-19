@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_02049",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Molinicos",
+    "eurostat:nuts_2021_id":"02049",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES421",
+    "eurostat:nuts_2021_level_lau":"02049",
+    "eurostat:population":813,
+    "eurostat:population_year":2020,
     "geom:area":0.014826,
-    "geom:area_square_m":143492513.049102,
+    "geom:area_square_m":143492513.049101,
     "geom:bbox":"-2.39211846,38.4285453,-2.17304265,38.55878298",
     "geom:latitude":38.491877,
     "geom:longitude":-2.291718,
@@ -147,6 +159,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -155,6 +169,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_02049",
+        "eurostat:nuts_2021_id":"02049",
         "gn:id":6355340,
         "gp:id":12690260,
         "qs_pg:id":45687
@@ -163,7 +179,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a2d8d8f18e3b4cd1594208ebb95068fe",
+    "wof:geomhash":"0ac4edc734df9d5e4909ccdd6af6da71",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -174,10 +190,12 @@
         }
     ],
     "wof:id":404329163,
-    "wof:lastmodified":1582361796,
+    "wof:lastmodified":1684352205,
     "wof:name":"Molinicos",
     "wof:parent_id":85682621,
     "wof:placetype":"localadmin",
+    "wof:population":813,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45062",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Escalonilla",
+    "eurostat:nuts_2021_id":"45062",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45062",
+    "eurostat:population":1420,
+    "eurostat:population_year":2020,
     "geom:area":0.005367,
-    "geom:area_square_m":50899650.987776,
+    "geom:area_square_m":50899650.987774,
     "geom:bbox":"-4.38912697,39.87001533,-4.2961362,39.96659432",
     "geom:latitude":39.920361,
     "geom:longitude":-4.345631,
@@ -105,6 +117,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -112,9 +126,12 @@
         404227375
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_45062",
+        "eurostat:nuts_2021_id":"45062"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"86ffc7771b4e645339714e13236ff74d",
+    "wof:geomhash":"67f701641806877c319089a0cbdeb171",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +142,12 @@
         }
     ],
     "wof:id":404344477,
-    "wof:lastmodified":1566591076,
+    "wof:lastmodified":1684352474,
     "wof:name":"Escalonilla",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":1420,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

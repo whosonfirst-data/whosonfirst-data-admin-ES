@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10161",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ruanes",
+    "eurostat:nuts_2021_id":"10161",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10161",
+    "eurostat:population":80,
+    "eurostat:population_year":2020,
     "geom:area":0.001578,
-    "geom:area_square_m":15093581.963496,
+    "geom:area_square_m":15093581.963495,
     "geom:bbox":"-6.04102281,39.29658802,-5.98646796,39.35190776",
     "geom:latitude":39.329069,
     "geom:longitude":-6.011123,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10161",
+        "eurostat:nuts_2021_id":"10161",
         "gn:id":6356856,
         "gp:id":12694643,
         "qs_pg:id":48044
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1eb396d475499532d9322f6eee5ad3db",
+    "wof:geomhash":"c0fba4105338ae7c0f90ef03788ae27e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404332869,
-    "wof:lastmodified":1582361681,
+    "wof:lastmodified":1684352270,
     "wof:name":"Ruanes",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":80,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

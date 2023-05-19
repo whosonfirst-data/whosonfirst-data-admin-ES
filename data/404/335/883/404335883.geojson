@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19235",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Riba de Saelices",
+    "eurostat:nuts_2021_id":"19235",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19235",
+    "eurostat:population":102,
+    "eurostat:population_year":2020,
     "geom:area":0.007126,
-    "geom:area_square_m":66597130.829971,
+    "geom:area_square_m":66597130.829972,
     "geom:bbox":"-2.34286649,40.84786827,-2.23841522,40.96428439",
     "geom:latitude":40.904652,
     "geom:longitude":-2.287099,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19235",
+        "eurostat:nuts_2021_id":"19235",
         "gn:id":6358004,
         "gp:id":12690834,
         "qs_pg:id":1020074
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8dad8a52734ea3a60452c34885f108e9",
+    "wof:geomhash":"e3b8fdd93027da584ff5797b48421ac6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404335883,
-    "wof:lastmodified":1582361706,
+    "wof:lastmodified":1684352331,
     "wof:name":"Riba De Saelices",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":102,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

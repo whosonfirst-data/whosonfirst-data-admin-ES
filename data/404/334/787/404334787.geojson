@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17110,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17110",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mont-ras",
+    "eurostat:nuts_2021_id":"17110",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17110",
+    "eurostat:population":1680,
+    "eurostat:population_year":2020,
     "geom:area":0.001348,
-    "geom:area_square_m":12407998.700831,
+    "geom:area_square_m":12407922.841644,
     "geom:bbox":"3.12357,41.867032,3.180352,41.918815",
     "geom:latitude":41.893894,
     "geom:longitude":3.148898,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17110",
         "esp-icgc:la_lc":"017110",
+        "eurostat:nuts_2021_id":"17110",
         "gn:id":6534087,
         "gp:id":12693788,
         "qs_pg:id":191279
@@ -67,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f88b090d52d89d3c93810675e8df9fa1",
+    "wof:geomhash":"1d5f386d06d02fc3846fee5da6420549",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404334787,
-    "wof:lastmodified":1669903055,
+    "wof:lastmodified":1684352309,
     "wof:name":"Mont-ras",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":1680,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

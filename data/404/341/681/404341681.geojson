@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37274",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Salamanca",
+    "eurostat:nuts_2021_id":"37274",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37274",
+    "eurostat:population":144825,
+    "eurostat:population_year":2020,
     "geom:area":0.004208,
-    "geom:area_square_m":39287940.270721,
+    "geom:area_square_m":39287940.270718,
     "geom:bbox":"-5.73495029,40.91462763,-5.62254938,40.99412468",
     "geom:latitude":40.961769,
     "geom:longitude":-5.679571,
@@ -300,6 +312,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -308,6 +322,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37274",
+        "eurostat:nuts_2021_id":"37274",
         "gn:id":6360513,
         "gp:id":12692406,
         "qs_pg:id":220895
@@ -316,7 +332,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"888a468c1bf041d6dd9407b4ecc14dcf",
+    "wof:geomhash":"c52b755e85365e1fa13779577ff57af0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -327,10 +343,12 @@
         }
     ],
     "wof:id":404341681,
-    "wof:lastmodified":1582361626,
+    "wof:lastmodified":1684352427,
     "wof:name":"Salamanca",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":144825,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

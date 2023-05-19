@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03100",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Parcent",
+    "eurostat:nuts_2021_id":"03100",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03100",
+    "eurostat:population":967,
+    "eurostat:population_year":2020,
     "geom:area":0.00122,
-    "geom:area_square_m":11761957.661843,
+    "geom:area_square_m":11761957.661844,
     "geom:bbox":"-0.09825493,38.72297411,-0.0514642,38.75927684",
     "geom:latitude":38.739188,
     "geom:longitude":-0.073883,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03100",
+        "eurostat:nuts_2021_id":"03100",
         "gn:id":6355475,
         "gp:id":12695364,
         "qs_pg:id":1118852
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2b5b4de7e69faebd77012bbecf18ccb0",
+    "wof:geomhash":"825b1138184bf643bb5682b52ca642a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404329475,
-    "wof:lastmodified":1582361799,
+    "wof:lastmodified":1684352210,
     "wof:name":"Parcent",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":967,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

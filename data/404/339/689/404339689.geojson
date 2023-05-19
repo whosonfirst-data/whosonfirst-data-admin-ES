@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31108",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fusti\u00f1ana",
+    "eurostat:nuts_2021_id":"31108",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31108",
+    "eurostat:population":2483,
+    "eurostat:population_year":2020,
     "geom:area":0.007274,
-    "geom:area_square_m":66806983.627025,
+    "geom:area_square_m":66806983.627024,
     "geom:bbox":"-1.51375169,41.98895648,-1.3706189,42.07989671",
     "geom:latitude":42.034515,
     "geom:longitude":-1.443146,
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31108",
+        "eurostat:nuts_2021_id":"31108",
         "gn:id":6359656,
         "gp:id":12688283,
         "qs_pg:id":1196263
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"eddd02dbf826d5864cea8a89a75797a4",
+    "wof:geomhash":"f210a10fd95264a6149513c0b342f826",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404339689,
-    "wof:lastmodified":1582361584,
+    "wof:lastmodified":1684352397,
     "wof:name":"Fusti\u00f1ana",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":2483,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_32026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Coles",
+    "eurostat:nuts_2021_id":"32026",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES113",
+    "eurostat:nuts_2021_level_lau":"32026",
+    "eurostat:population":3075,
+    "eurostat:population_year":2020,
     "geom:area":0.004168,
     "geom:area_square_m":38052715.563126,
     "geom:bbox":"-7.8853855,42.37018677,-7.79684794,42.44497197",
@@ -63,6 +75,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -71,6 +85,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_32026",
+        "eurostat:nuts_2021_id":"32026",
         "gn:id":6359844,
         "gp:id":12694889,
         "qs_pg:id":1025996
@@ -79,7 +95,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"44c828d68e190452feab3fdc5b2f5232",
+    "wof:geomhash":"c1f04ae0d2803768e7a723b76196fa36",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,10 +106,12 @@
         }
     ],
     "wof:id":404340131,
-    "wof:lastmodified":1582361658,
+    "wof:lastmodified":1684352402,
     "wof:name":"Coles",
     "wof:parent_id":85682801,
     "wof:placetype":"localadmin",
+    "wof:population":3075,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

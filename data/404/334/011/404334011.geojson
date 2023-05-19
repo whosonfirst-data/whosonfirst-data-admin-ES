@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15090",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vilasantar",
+    "eurostat:nuts_2021_id":"15090",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15090",
+    "eurostat:population":1211,
+    "eurostat:population_year":2020,
     "geom:area":0.006539,
-    "geom:area_square_m":59067522.52819,
+    "geom:area_square_m":59067522.528189,
     "geom:bbox":"-8.16302812,43.03240073,-8.02854262,43.1191025",
     "geom:latitude":43.072147,
     "geom:longitude":-8.099353,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_15090",
+        "eurostat:nuts_2021_id":"15090",
         "gn:id":6357357,
         "gp:id":12694793,
         "qs_pg:id":955152
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"80998db7da658591f22bf70a397dcbc4",
+    "wof:geomhash":"885fc12f95f72af156c17a2f77cb907a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404334011,
-    "wof:lastmodified":1582361745,
+    "wof:lastmodified":1684352291,
     "wof:name":"Vilasantar",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":1211,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

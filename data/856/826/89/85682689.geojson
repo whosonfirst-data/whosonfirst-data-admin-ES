@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"ES",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"Ciudad Real",
+    "eurostat:name_local":"Ciudad Real",
+    "eurostat:nuts_2021_id":"ES422",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES422",
+    "eurostat:population":489913,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"2",
     "geom:area":2.058142,
-    "geom:area_square_m":19798368420.353466,
+    "geom:area_square_m":19798368450.371307,
     "geom:bbox":"-5.046948,38.342757,-2.63789,39.576761",
     "geom:latitude":38.925598,
     "geom:longitude":-3.828067,
@@ -273,6 +287,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "unlc:subdivision":"ES-CR",
     "wof:belongsto":[
         102191581,
@@ -282,6 +298,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":24013,
+        "eurostat:nuts_2021_id":"ES422",
         "fips:code":"SP84",
         "gn:id":2519401,
         "gp:id":12602111,
@@ -289,7 +306,7 @@
         "unlc:id":"ES-CR"
     },
     "wof:country":"ES",
-    "wof:geomhash":"e0cb36dd78d475df5737c0de87e00d3a",
+    "wof:geomhash":"7cbf4cd09ff3000e027dc5b7859f67b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -309,10 +326,12 @@
         "eus",
         "ast"
     ],
-    "wof:lastmodified":1583882741,
+    "wof:lastmodified":1684351541,
     "wof:name":"Ciudad Real",
     "wof:parent_id":404227375,
     "wof:placetype":"region",
+    "wof:population":489913,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:shortcode":"CM",
     "wof:subdivision":"ES-CR",

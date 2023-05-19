@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alange",
+    "eurostat:nuts_2021_id":"06004",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06004",
+    "eurostat:population":1856,
+    "eurostat:population_year":2020,
     "geom:area":0.016603,
-    "geom:area_square_m":160170241.820361,
+    "geom:area_square_m":160170241.82036,
     "geom:bbox":"-6.35744574,38.65320824,-6.18573305,38.80559494",
     "geom:latitude":38.725007,
     "geom:longitude":-6.265822,
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06004",
+        "eurostat:nuts_2021_id":"06004",
         "gn:id":6355870,
         "gp:id":12694323,
         "qs_pg:id":51824
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2cec02fe84b7a6ee0617d5ea44ce133f",
+    "wof:geomhash":"f3ca2803c50653efdffdab38d9a81270",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404330365,
-    "wof:lastmodified":1582361518,
+    "wof:lastmodified":1684352222,
     "wof:name":"Alange",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":1856,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

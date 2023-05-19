@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24191",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vallecillo",
+    "eurostat:nuts_2021_id":"24191",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24191",
+    "eurostat:population":125,
+    "eurostat:population_year":2020,
     "geom:area":0.002552,
-    "geom:area_square_m":23324881.266722,
+    "geom:area_square_m":23324881.26672,
     "geom:bbox":"-5.2585113,42.31567389,-5.1750965,42.37692547",
     "geom:latitude":42.348741,
     "geom:longitude":-5.208311,
@@ -60,6 +72,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -68,6 +82,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_24191",
+        "eurostat:nuts_2021_id":"24191",
         "gn:id":6358725,
         "gp:id":12691921,
         "qs_pg:id":46459
@@ -76,7 +92,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fea6be3320bf4e5d6ba010884031a717",
+    "wof:geomhash":"54f03b23a46af2abf9698eeaa1acd71d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,10 +103,12 @@
         }
     ],
     "wof:id":404337539,
-    "wof:lastmodified":1582361564,
+    "wof:lastmodified":1684352353,
     "wof:name":"Vallecillo",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":125,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45072",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Herencias, Las",
+    "eurostat:nuts_2021_id":"45072",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45072",
+    "eurostat:population":772,
+    "eurostat:population_year":2020,
     "geom:area":0.009551,
-    "geom:area_square_m":90639802.068476,
+    "geom:area_square_m":90639802.068472,
     "geom:bbox":"-4.94213953,39.82769777,-4.75149559,39.93863219",
     "geom:latitude":39.871625,
     "geom:longitude":-4.849403,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45072",
+        "eurostat:nuts_2021_id":"45072",
         "gn:id":2515375,
         "gp:id":12690993,
         "qs_pg:id":1013131
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f7ae2dd8e6ee7c139299e65d69f20d1e",
+    "wof:geomhash":"773b87fc172c85d3de446e4ac0b6369e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404344499,
-    "wof:lastmodified":1582361848,
+    "wof:lastmodified":1684352474,
     "wof:name":"Las Herencias",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":772,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

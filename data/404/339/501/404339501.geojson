@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arce / Artzi",
+    "eurostat:nuts_2021_id":"31028",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31028",
+    "eurostat:population":262,
+    "eurostat:population_year":2020,
     "geom:area":0.016013,
-    "geom:area_square_m":145103243.944406,
+    "geom:area_square_m":145103243.944407,
     "geom:bbox":"-1.43553684,42.81138501,-1.24418076,42.96724648",
     "geom:latitude":42.875076,
     "geom:longitude":-1.348556,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227391
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_31028",
+        "eurostat:nuts_2021_id":"31028"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"07e8fda12c8180719ccaf362e8b38b4c",
+    "wof:geomhash":"9d83a9e7945a06b47d9ad1a5a2899e7e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404339501,
-    "wof:lastmodified":1566590111,
+    "wof:lastmodified":1684352395,
     "wof:name":"Arce/Artzi",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":262,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

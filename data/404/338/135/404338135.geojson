@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25911,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25911",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Plans de Si\u00f3, Els",
+    "eurostat:nuts_2021_id":"25911",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25911",
+    "eurostat:population":491,
+    "eurostat:population_year":2020,
     "geom:area":0.006045,
-    "geom:area_square_m":55780868.164675,
+    "geom:area_square_m":55780940.56059,
     "geom:bbox":"1.156575,41.672882,1.249413,41.796",
     "geom:latitude":41.735565,
     "geom:longitude":1.206504,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25911",
         "esp-icgc:la_lc":"025911",
+        "eurostat:nuts_2021_id":"25911",
         "gn:id":6358988,
         "gp:id":12694056,
         "qs_pg:id":1149578
@@ -67,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c6cd27267d69df55fa368e6bc138187f",
+    "wof:geomhash":"1895952a37e9c3153aaa38826d7c302b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404338135,
-    "wof:lastmodified":1669902990,
+    "wof:lastmodified":1684352372,
     "wof:name":"Els Plans de Si\u00f3",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":491,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8062,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08062",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castellnou de Bages",
+    "eurostat:nuts_2021_id":"08062",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08062",
+    "eurostat:population":1437,
+    "eurostat:population_year":2020,
     "geom:area":0.003158,
-    "geom:area_square_m":29096106.50749,
+    "geom:area_square_m":29096094.480795,
     "geom:bbox":"1.781496,41.795596,1.85757,41.875679",
     "geom:latitude":41.83284,
     "geom:longitude":1.818132,
@@ -48,6 +60,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -56,13 +70,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"08062"
+        "eg:gisco_id":"ES_08062",
+        "esp-icgc:la_lc":"08062",
+        "eurostat:nuts_2021_id":"08062"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a1adc55fbf027445062e82807accd15f",
+    "wof:geomhash":"e496389b7437f4a6b5146f4c00160313",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,10 +89,12 @@
         }
     ],
     "wof:id":404331017,
-    "wof:lastmodified":1669903010,
+    "wof:lastmodified":1684352238,
     "wof:name":"Castellnou de Bages",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":1437,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

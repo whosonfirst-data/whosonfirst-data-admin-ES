@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aldealengua",
+    "eurostat:nuts_2021_id":"37016",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37016",
+    "eurostat:population":666,
+    "eurostat:population_year":2020,
     "geom:area":0.000586,
     "geom:area_square_m":5470673.618363,
     "geom:bbox":"-5.56400119,40.97217147,-5.52914439,41.00425651",
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37016",
+        "eurostat:nuts_2021_id":"37016",
         "gn:id":6360274,
         "gp:id":12692165,
         "qs_pg:id":1019121
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d16f2a7b55bb5fec7eeb9d3825db6cb9",
+    "wof:geomhash":"5b28c228c56ac29788d4e156b982918b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404341135,
-    "wof:lastmodified":1582361623,
+    "wof:lastmodified":1684352421,
     "wof:name":"Aldealengua",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":666,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

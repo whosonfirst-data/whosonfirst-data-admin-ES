@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42187",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torrubia de Soria",
+    "eurostat:nuts_2021_id":"42187",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42187",
+    "eurostat:population":64,
+    "eurostat:population_year":2020,
     "geom:area":0.005654,
-    "geom:area_square_m":52257871.12814,
+    "geom:area_square_m":52257871.128138,
     "geom:bbox":"-2.11349345,41.57822275,-2.01356648,41.66634062",
     "geom:latitude":41.623945,
     "geom:longitude":-2.064616,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42187",
+        "eurostat:nuts_2021_id":"42187",
         "gn:id":6361215,
         "gp:id":12692874,
         "qs_pg:id":1148952
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3eb3ccebc81d2bbc3c35a283735ac8a6",
+    "wof:geomhash":"dcde30ba5f1a88a2a08d06bdc4246c3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404343329,
-    "wof:lastmodified":1582361893,
+    "wof:lastmodified":1684352450,
     "wof:name":"Torrubia De Soria",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":64,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

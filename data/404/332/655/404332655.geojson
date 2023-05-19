@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10065",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Collado de la Vera",
+    "eurostat:nuts_2021_id":"10065",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10065",
+    "eurostat:population":191,
+    "eurostat:population_year":2020,
     "geom:area":0.004742,
-    "geom:area_square_m":44895315.592738,
+    "geom:area_square_m":44895315.592739,
     "geom:bbox":"-5.73415421,39.98376368,-5.62674537,40.06877363",
     "geom:latitude":40.027458,
     "geom:longitude":-5.687971,
@@ -42,6 +54,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -50,6 +64,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10065",
+        "eurostat:nuts_2021_id":"10065",
         "gn:id":6356762,
         "gp:id":12694547,
         "qs_pg:id":1149628
@@ -58,7 +74,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f7691548807f5200075c482ef8deb270",
+    "wof:geomhash":"cdf75e0e7f78be566dc10cf9f8a4d2f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +85,12 @@
         }
     ],
     "wof:id":404332655,
-    "wof:lastmodified":1582361688,
+    "wof:lastmodified":1684352267,
     "wof:name":"Collado",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":191,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

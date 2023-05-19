@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42117",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Molinos de Duero",
+    "eurostat:nuts_2021_id":"42117",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42117",
+    "eurostat:population":158,
+    "eurostat:population_year":2020,
     "geom:area":0.002971,
-    "geom:area_square_m":27353651.543324,
+    "geom:area_square_m":27353651.543326,
     "geom:bbox":"-2.88514312,41.86136996,-2.77524533,41.90964762",
     "geom:latitude":41.881734,
     "geom:longitude":-2.825847,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42117",
+        "eurostat:nuts_2021_id":"42117",
         "gn:id":6361160,
         "gp:id":12692819,
         "qs_pg:id":500521
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c5b6cd2c211a8c13a96ad00dfc1fc6ef",
+    "wof:geomhash":"fd0f6192ef3352fcbc386da2a8d7dfdf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404343205,
-    "wof:lastmodified":1582361873,
+    "wof:lastmodified":1684352448,
     "wof:name":"Molinos De Duero",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":158,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_26154",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torremontalbo",
+    "eurostat:nuts_2021_id":"26154",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES23",
+    "eurostat:nuts_2021_level_3":"ES230",
+    "eurostat:nuts_2021_level_lau":"26154",
+    "eurostat:population":10,
+    "eurostat:population_year":2020,
     "geom:area":0.000543,
     "geom:area_square_m":4949232.564838,
     "geom:bbox":"-2.70070145,42.49251575,-2.6684021,42.5261168",
@@ -96,6 +108,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -103,9 +117,12 @@
         404227397
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_26154",
+        "eurostat:nuts_2021_id":"26154"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"eda0ffbdbe12655d5dfe2085a8f5ce1c",
+    "wof:geomhash":"380bd4f37b5a52cef42a2ebddeb756d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +133,12 @@
         }
     ],
     "wof:id":404338475,
-    "wof:lastmodified":1566589641,
+    "wof:lastmodified":1684352376,
     "wof:name":"Torremontalbo",
     "wof:parent_id":85682773,
     "wof:placetype":"localadmin",
+    "wof:population":10,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

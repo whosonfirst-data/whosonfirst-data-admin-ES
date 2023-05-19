@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22182",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Plan",
+    "eurostat:nuts_2021_id":"22182",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22182",
+    "eurostat:population":273,
+    "eurostat:population_year":2020,
     "geom:area":0.010232,
-    "geom:area_square_m":93208979.76991,
+    "geom:area_square_m":93208979.769909,
     "geom:bbox":"0.2067976,42.50760725,0.40786958,42.59306699",
     "geom:latitude":42.548685,
     "geom:longitude":0.301357,
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22182",
+        "eurostat:nuts_2021_id":"22182",
         "gn:id":6358391,
         "gp:id":12689536,
         "qs_pg:id":217617
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0f666f4508ed5f04a7e28b3095188fee",
+    "wof:geomhash":"bc9e24e39918a662fb821e602be3fb88",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404336769,
-    "wof:lastmodified":1582361469,
+    "wof:lastmodified":1684352343,
     "wof:name":"Plan",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":273,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

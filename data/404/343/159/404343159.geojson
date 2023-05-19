@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42089",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fuentelsaz de Soria",
+    "eurostat:nuts_2021_id":"42089",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42089",
+    "eurostat:population":61,
+    "eurostat:population_year":2020,
     "geom:area":0.002857,
-    "geom:area_square_m":26307689.415666,
+    "geom:area_square_m":26307689.415665,
     "geom:bbox":"-2.4719159,41.83929928,-2.36869594,41.8902343",
     "geom:latitude":41.868288,
     "geom:longitude":-2.420036,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42089",
+        "eurostat:nuts_2021_id":"42089",
         "gn:id":6361140,
         "gp:id":12692799,
         "qs_pg:id":892230
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"51e6da96f37af9752fbb26e35a6ac48b",
+    "wof:geomhash":"0663ea5db9625c4f4019fa62c499098a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404343159,
-    "wof:lastmodified":1582361863,
+    "wof:lastmodified":1684352448,
     "wof:name":"Fuentelsaz De Soria",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":61,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

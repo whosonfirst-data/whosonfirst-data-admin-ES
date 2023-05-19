@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09144",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gallega, La",
+    "eurostat:nuts_2021_id":"09144",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09144",
+    "eurostat:population":45,
+    "eurostat:population_year":2020,
     "geom:area":0.001883,
-    "geom:area_square_m":17329914.06798,
+    "geom:area_square_m":17329914.067981,
     "geom:bbox":"-3.28375766,41.86569219,-3.23140127,41.92396847",
     "geom:latitude":41.896054,
     "geom:longitude":-3.259517,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09144",
+        "eurostat:nuts_2021_id":"09144",
         "gn:id":3119699,
         "gp:id":12691491,
         "qs_pg:id":46270
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ea651676aea8e6858eccd7c7274292ad",
+    "wof:geomhash":"5c2d331d5516c79b03837451eee75326",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404331893,
-    "wof:lastmodified":1582361493,
+    "wof:lastmodified":1684352259,
     "wof:name":"La Gallega",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":45,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25085,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25085",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Estar\u00e0s",
+    "eurostat:nuts_2021_id":"25085",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25085",
+    "eurostat:population":156,
+    "eurostat:population_year":2020,
     "geom:area":0.002287,
-    "geom:area_square_m":21117334.757462,
+    "geom:area_square_m":21117341.030945,
     "geom:bbox":"1.333477,41.663773,1.424722,41.745893",
     "geom:latitude":41.703696,
     "geom:longitude":1.381129,
@@ -111,6 +123,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,13 +133,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"025085"
+        "eg:gisco_id":"ES_25085",
+        "esp-icgc:la_lc":"025085",
+        "eurostat:nuts_2021_id":"25085"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d80d6e8593520349921f405a1fee430a",
+    "wof:geomhash":"f37f41c1273a187b123869a000407e83",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,10 +152,12 @@
         }
     ],
     "wof:id":404337791,
-    "wof:lastmodified":1669903019,
+    "wof:lastmodified":1684352360,
     "wof:name":"Estar\u00e0s",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":156,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

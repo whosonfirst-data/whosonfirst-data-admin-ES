@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_39067",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ruesga",
+    "eurostat:nuts_2021_id":"39067",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES13",
+    "eurostat:nuts_2021_level_3":"ES130",
+    "eurostat:nuts_2021_level_lau":"39067",
+    "eurostat:population":836,
+    "eurostat:population_year":2020,
     "geom:area":0.009713,
-    "geom:area_square_m":87432112.573718,
+    "geom:area_square_m":87432112.573715,
     "geom:bbox":"-3.71202822,43.23322108,-3.47351495,43.34370952",
     "geom:latitude":43.285713,
     "geom:longitude":-3.570229,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_39067",
+        "eurostat:nuts_2021_id":"39067",
         "gn:id":6360712,
         "gp:id":12688588,
         "qs_pg:id":198797
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"833e9ef37bda685da86066e593ce6ea7",
+    "wof:geomhash":"469e63646bc01d285725e9eb20aa9d53",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404342191,
-    "wof:lastmodified":1582361815,
+    "wof:lastmodified":1684352436,
     "wof:name":"Ruesga",
     "wof:parent_id":85682833,
     "wof:placetype":"localadmin",
+    "wof:population":836,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

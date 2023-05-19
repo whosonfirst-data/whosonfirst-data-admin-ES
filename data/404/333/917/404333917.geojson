@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15049",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Moeche",
+    "eurostat:nuts_2021_id":"15049",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15049",
+    "eurostat:population":1186,
+    "eurostat:population_year":2020,
     "geom:area":0.005403,
-    "geom:area_square_m":48413426.416371,
+    "geom:area_square_m":48413426.41637,
     "geom:bbox":"-8.0363716,43.52296645,-7.9161101,43.60089793",
     "geom:latitude":43.565381,
     "geom:longitude":-7.979088,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_15049",
+        "eurostat:nuts_2021_id":"15049",
         "gn:id":6357318,
         "gp:id":12694751,
         "qs_pg:id":955145
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c65879f9628fd491016e233939ad83e7",
+    "wof:geomhash":"8380365e23b7feae645dee7b8fd37ddd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404333917,
-    "wof:lastmodified":1582361785,
+    "wof:lastmodified":1684352288,
     "wof:name":"Moeche",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":1186,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

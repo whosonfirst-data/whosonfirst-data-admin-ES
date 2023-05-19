@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Abanto",
+    "eurostat:nuts_2021_id":"50001",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50001",
+    "eurostat:population":92,
+    "eurostat:population_year":2020,
     "geom:area":0.006847,
     "geom:area_square_m":63763294.766349,
     "geom:bbox":"-1.74718111,41.08199173,-1.61776292,41.17997236",
@@ -105,6 +117,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -112,9 +126,12 @@
         404227363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_50001",
+        "eurostat:nuts_2021_id":"50001"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"03322a1d74dac225306ec0e290cd87bb",
+    "wof:geomhash":"953e1b0906155f9ee0c6b68e4d5cf4f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +142,12 @@
         }
     ],
     "wof:id":404346715,
-    "wof:lastmodified":1566590250,
+    "wof:lastmodified":1684352502,
     "wof:name":"Abanto",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":92,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

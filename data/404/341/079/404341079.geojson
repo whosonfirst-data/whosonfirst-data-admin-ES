@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_36053",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Soutomaior",
+    "eurostat:nuts_2021_id":"36053",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES114",
+    "eurostat:nuts_2021_level_lau":"36053",
+    "eurostat:population":7426,
+    "eurostat:population_year":2020,
     "geom:area":0.00273,
-    "geom:area_square_m":24949505.409182,
+    "geom:area_square_m":24949505.409181,
     "geom:bbox":"-8.61603849,42.30693739,-8.52128476,42.37034088",
     "geom:latitude":42.334878,
     "geom:longitude":-8.567259,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_36053",
+        "eurostat:nuts_2021_id":"36053",
         "gn:id":6360250,
         "gp:id":12695007,
         "qs_pg:id":218780
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ae6b164640e384b09fd9f888b05e505c",
+    "wof:geomhash":"347d30201b1d2d6c6ee307f43a93c084",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404341079,
-    "wof:lastmodified":1582361626,
+    "wof:lastmodified":1684352420,
     "wof:name":"Soutomaior",
     "wof:parent_id":85682825,
     "wof:placetype":"localadmin",
+    "wof:population":7426,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

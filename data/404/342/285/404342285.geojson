@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aldealengua de Pedraza",
+    "eurostat:nuts_2021_id":"40007",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40007",
+    "eurostat:population":73,
+    "eurostat:population_year":2020,
     "geom:area":0.003757,
     "geom:area_square_m":35037017.403244,
     "geom:bbox":"-3.83333816,40.98482751,-3.76674964,41.10857788",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_40007",
+        "eurostat:nuts_2021_id":"40007",
         "gn:id":6360753,
         "gp:id":12692519,
         "qs_pg:id":1016856
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d41e0d9afd5d6314ed71815bf6592854",
+    "wof:geomhash":"29d32801e84073df46fa5e86f12cf577",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404342285,
-    "wof:lastmodified":1582361818,
+    "wof:lastmodified":1684352438,
     "wof:name":"Aldealengua De Pedraza",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":73,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

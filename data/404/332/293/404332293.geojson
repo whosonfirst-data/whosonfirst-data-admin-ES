@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09366",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Solarana",
+    "eurostat:nuts_2021_id":"09366",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09366",
+    "eurostat:population":77,
+    "eurostat:population_year":2020,
     "geom:area":0.001591,
     "geom:area_square_m":14627226.068929,
     "geom:bbox":"-3.67917843,41.93010145,-3.63798091,42.00674208",
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09366",
+        "eurostat:nuts_2021_id":"09366",
         "gn:id":6356605,
         "gp:id":12691655,
         "qs_pg:id":1005676
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4b49880283e461061e2f073b9bbc1433",
+    "wof:geomhash":"32dac55d22a0b8ac702093f784841590",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404332293,
-    "wof:lastmodified":1582361681,
+    "wof:lastmodified":1684352263,
     "wof:name":"Solarana",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":77,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

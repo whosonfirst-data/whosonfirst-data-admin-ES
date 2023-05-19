@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arruazu",
+    "eurostat:nuts_2021_id":"31037",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31037",
+    "eurostat:population":106,
+    "eurostat:population_year":2020,
     "geom:area":0.000629,
     "geom:area_square_m":5697086.398936,
     "geom:bbox":"-2.0179044,42.91097493,-1.98186209,42.95669174",
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31037",
+        "eurostat:nuts_2021_id":"31037",
         "gn:id":6359586,
         "gp:id":12688206,
         "qs_pg:id":378203
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a68f3e3eddf3031155f2d887ac477c98",
+    "wof:geomhash":"05b61f4dbd9bfd5da4182dd897d06f26",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404339523,
-    "wof:lastmodified":1582361598,
+    "wof:lastmodified":1684352395,
     "wof:name":"Arruazu",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":106,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

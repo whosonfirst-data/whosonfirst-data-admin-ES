@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06099",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Parra, La",
+    "eurostat:nuts_2021_id":"06099",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06099",
+    "eurostat:population":1327,
+    "eurostat:population_year":2020,
     "geom:area":0.00808,
     "geom:area_square_m":78153920.104173,
     "geom:bbox":"-6.68724471,38.475652,-6.54749263,38.59157909",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06099",
+        "eurostat:nuts_2021_id":"06099",
         "gn:id":6355964,
         "gp:id":12694418,
         "qs_pg:id":1014987
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4c80849c81be32bf65954c141895b39b",
+    "wof:geomhash":"9ccb4554949400313b4ae43b04c2aaef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404330579,
-    "wof:lastmodified":1582361544,
+    "wof:lastmodified":1684352226,
     "wof:name":"La Parra",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":1327,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

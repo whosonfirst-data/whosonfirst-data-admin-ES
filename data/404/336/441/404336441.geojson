@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_21071",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valdelarco",
+    "eurostat:nuts_2021_id":"21071",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES615",
+    "eurostat:nuts_2021_level_lau":"21071",
+    "eurostat:population":231,
+    "eurostat:population_year":2020,
     "geom:area":0.001524,
     "geom:area_square_m":14860719.406269,
     "geom:bbox":"-6.70133692,37.92273329,-6.64084106,37.98341936",
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_21071",
+        "eurostat:nuts_2021_id":"21071",
         "gn:id":6358247,
         "gp:id":12689085,
         "qs_pg:id":289892
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"91e3dfde854977c0e249c7a7ec286d5d",
+    "wof:geomhash":"a4cda621a1c126fae5c7f4928dbcd48c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404336441,
-    "wof:lastmodified":1582361463,
+    "wof:lastmodified":1684352339,
     "wof:name":"Valdelarco",
     "wof:parent_id":85682749,
     "wof:placetype":"localadmin",
+    "wof:population":231,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

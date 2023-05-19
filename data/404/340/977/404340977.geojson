@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_36007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campo Lameiro",
+    "eurostat:nuts_2021_id":"36007",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES114",
+    "eurostat:nuts_2021_level_lau":"36007",
+    "eurostat:population":1778,
+    "eurostat:population_year":2020,
     "geom:area":0.006988,
-    "geom:area_square_m":63664893.301764,
+    "geom:area_square_m":63664893.301766,
     "geom:bbox":"-8.59710456,42.48640053,-8.44272078,42.58932607",
     "geom:latitude":42.543952,
     "geom:longitude":-8.52479,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_36007",
+        "eurostat:nuts_2021_id":"36007",
         "gp:id":12694962,
         "qs_pg:id":1171972
     },
@@ -129,7 +145,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9ec7eb273f812246bb01cc0e8de7bf87",
+    "wof:geomhash":"ead4b8d6892ebc84e9a3f2d7d55ad2ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404340977,
-    "wof:lastmodified":1582361653,
+    "wof:lastmodified":1684352418,
     "wof:name":"Campo Lameiro",
     "wof:parent_id":85682825,
     "wof:placetype":"localadmin",
+    "wof:population":1778,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

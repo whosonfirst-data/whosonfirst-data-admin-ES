@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10902",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vegaviana",
+    "eurostat:nuts_2021_id":"10902",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10902",
+    "eurostat:population":868,
+    "eurostat:population_year":2020,
     "geom:area":0.002433,
-    "geom:area_square_m":23034965.840207,
+    "geom:area_square_m":23034965.840209,
     "geom:bbox":"-6.75746879,40.01260666,-6.69422601,40.08072141",
     "geom:latitude":40.041961,
     "geom:longitude":-6.72593,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227383
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_10902",
+        "eurostat:nuts_2021_id":"10902"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"a833c6c1e9cb6db60d97c1a0a397d987",
+    "wof:geomhash":"785c3b03511f021ab5f5d81bdd319c61",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404333005,
-    "wof:lastmodified":1566590822,
+    "wof:lastmodified":1684352272,
     "wof:name":"Vegaviana",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":868,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":17215,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17215",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vilablareix",
+    "eurostat:nuts_2021_id":"17215",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17215",
+    "eurostat:population":3063,
+    "eurostat:population_year":2020,
     "geom:area":0.000667,
     "geom:area_square_m":6133283.333351,
     "geom:bbox":"2.75478200117,41.941856662,2.80540101849,41.9655097901",
@@ -118,6 +130,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -126,7 +140,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17215",
         "esp-icgc:la_lc":"017215",
+        "eurostat:nuts_2021_id":"17215",
         "gn:id":6534165,
         "gp:id":12693892,
         "qs_pg:id":386031
@@ -136,7 +152,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7fba327ef30d1e01f2bf8c8fdcbd32c5",
+    "wof:geomhash":"78bd19202d43bf31655d100789e385f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404335009,
-    "wof:lastmodified":1582361700,
+    "wof:lastmodified":1684352318,
     "wof:name":"Vilablareix",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":3063,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

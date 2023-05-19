@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50297",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zaragoza",
+    "eurostat:nuts_2021_id":"50297",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50297",
+    "eurostat:population":681877,
+    "eurostat:population_year":2020,
     "geom:area":0.105298,
-    "geom:area_square_m":972436263.634777,
+    "geom:area_square_m":972436263.634776,
     "geom:bbox":"-1.17372894,41.45166247,-0.6803895,41.9314873",
     "geom:latitude":41.680786,
     "geom:longitude":-0.927533,
@@ -351,6 +363,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -359,6 +373,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50297",
+        "eurostat:nuts_2021_id":"50297",
         "gn:id":6362983,
         "gp:id":12690123,
         "qs_pg:id":45608
@@ -367,7 +383,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2e61306423fb1cbc06e2477bfe262b98",
+    "wof:geomhash":"86a0fcae583896651cfc777aa5720ce3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -378,10 +394,12 @@
         }
     ],
     "wof:id":404347363,
-    "wof:lastmodified":1582361669,
+    "wof:lastmodified":1684352510,
     "wof:name":"Zaragoza",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":681877,
+    "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

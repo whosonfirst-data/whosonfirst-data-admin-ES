@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37045",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bastida, La",
+    "eurostat:nuts_2021_id":"37045",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37045",
+    "eurostat:population":25,
+    "eurostat:population_year":2020,
     "geom:area":0.001971,
     "geom:area_square_m":18509473.696007,
     "geom:bbox":"-6.10176442,40.5515424,-6.00077697,40.61397844",
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37045",
+        "eurostat:nuts_2021_id":"37045",
         "gn:id":6360301,
         "gp:id":12692192,
         "qs_pg:id":1018677
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b4eed99c7ebc584f705b1627e50a7eb4",
+    "wof:geomhash":"47fbbcce250bcf9ad71e01bb25a63324",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404341199,
-    "wof:lastmodified":1582361635,
+    "wof:lastmodified":1684352421,
     "wof:name":"La Bastida",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":25,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

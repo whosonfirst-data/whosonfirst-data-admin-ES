@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jarilla",
+    "eurostat:nuts_2021_id":"10106",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10106",
+    "eurostat:population":138,
+    "eurostat:population_year":2020,
     "geom:area":0.00301,
-    "geom:area_square_m":28436974.747403,
+    "geom:area_square_m":28436974.747404,
     "geom:bbox":"-6.05723434,40.14735838,-5.95076374,40.20582595",
     "geom:latitude":40.177024,
     "geom:longitude":-5.999589,
@@ -42,6 +54,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -50,6 +64,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10106",
+        "eurostat:nuts_2021_id":"10106",
         "gn:id":6355238,
         "gp:id":12694587,
         "qs_pg:id":48017
@@ -58,7 +74,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3bcebda213843d3b26533918c74b11cb",
+    "wof:geomhash":"a44129878e3f04fd01eef2d1bce7423d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +85,12 @@
         }
     ],
     "wof:id":404332745,
-    "wof:lastmodified":1582361692,
+    "wof:lastmodified":1684352268,
     "wof:name":"Jarilla",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":138,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16247",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villalgordo del Marquesado",
+    "eurostat:nuts_2021_id":"16247",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16247",
+    "eurostat:population":82,
+    "eurostat:population_year":2020,
     "geom:area":0.003181,
     "geom:area_square_m":30269960.324393,
     "geom:bbox":"-2.56829951,39.65785703,-2.46053827,39.70458876",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16247",
+        "eurostat:nuts_2021_id":"16247",
         "gn:id":6357560,
         "gp:id":12690609,
         "qs_pg:id":1016833
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"32417a0cdc1c8ba677dfab56c42db48b",
+    "wof:geomhash":"e4917740ca66d9f5061a455111f0b4a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404334479,
-    "wof:lastmodified":1582361724,
+    "wof:lastmodified":1684352298,
     "wof:name":"Villalgordo Del Marquesado",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":82,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

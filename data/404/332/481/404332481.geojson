@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09476",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villoruebo",
+    "eurostat:nuts_2021_id":"09476",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09476",
+    "eurostat:population":72,
+    "eurostat:population_year":2020,
     "geom:area":0.002806,
-    "geom:area_square_m":25715640.453335,
+    "geom:area_square_m":25715640.453338,
     "geom:bbox":"-3.49842781,42.14108092,-3.40018714,42.20085401",
     "geom:latitude":42.172281,
     "geom:longitude":-3.447303,
@@ -102,6 +114,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -109,9 +123,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_09476",
+        "eurostat:nuts_2021_id":"09476"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"e4e36516052d2e788b13d136503573aa",
+    "wof:geomhash":"00c8b06d24be7a56fd05ebb16ddf6e18",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +139,12 @@
         }
     ],
     "wof:id":404332481,
-    "wof:lastmodified":1566590519,
+    "wof:lastmodified":1684352264,
     "wof:name":"Villoruebo",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":72,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

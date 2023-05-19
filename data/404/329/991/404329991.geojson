@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05100",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hornillo, El",
+    "eurostat:nuts_2021_id":"05100",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05100",
+    "eurostat:population":277,
+    "eurostat:population_year":2020,
     "geom:area":0.002464,
-    "geom:area_square_m":23245313.733387,
+    "geom:area_square_m":23245313.733388,
     "geom:bbox":"-5.18251196,40.23371266,-5.07986922,40.29221464",
     "geom:latitude":40.261757,
     "geom:longitude":-5.127424,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05100",
+        "eurostat:nuts_2021_id":"05100",
         "gn:id":6355704,
         "gp:id":12691213,
         "qs_pg:id":621538
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"52abf8cf14b36349a79d53555e3542bb",
+    "wof:geomhash":"9598d119b156f448b2d936b027f769cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404329991,
-    "wof:lastmodified":1582361787,
+    "wof:lastmodified":1684352218,
     "wof:name":"El Hornillo",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":277,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

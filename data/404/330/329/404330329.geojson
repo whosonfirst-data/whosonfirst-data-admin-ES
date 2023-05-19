@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05260",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villanueva del Campillo",
+    "eurostat:nuts_2021_id":"05260",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05260",
+    "eurostat:population":101,
+    "eurostat:population_year":2020,
     "geom:area":0.004892,
-    "geom:area_square_m":45935018.594764,
+    "geom:area_square_m":45935018.594762,
     "geom:bbox":"-5.24606303,40.54840235,-5.13244103,40.62427042",
     "geom:latitude":40.584029,
     "geom:longitude":-5.192248,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05260",
+        "eurostat:nuts_2021_id":"05260",
         "gn:id":6355854,
         "gp:id":12691367,
         "qs_pg:id":46209
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a6b086429a49f735e59d2b630fb048af",
+    "wof:geomhash":"2916e32eca9b71776afb01b25e30ca30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330329,
-    "wof:lastmodified":1582361542,
+    "wof:lastmodified":1684352222,
     "wof:name":"Villanueva Del Campillo",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":101,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

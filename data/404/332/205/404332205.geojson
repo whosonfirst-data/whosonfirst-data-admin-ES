@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09315",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Revillarruz",
+    "eurostat:nuts_2021_id":"09315",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09315",
+    "eurostat:population":523,
+    "eurostat:population_year":2020,
     "geom:area":0.001852,
-    "geom:area_square_m":16955412.379066,
+    "geom:area_square_m":16955412.379065,
     "geom:bbox":"-3.70629456,42.20530458,-3.62902067,42.24829248",
     "geom:latitude":42.227125,
     "geom:longitude":-3.663796,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09315",
+        "eurostat:nuts_2021_id":"09315",
         "gn:id":6356568,
         "gp:id":12691619,
         "qs_pg:id":1197812
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"782f7b545d58f57a43fe49e9c5af7db3",
+    "wof:geomhash":"09e45634d9be9e0185bb17f3efe17837",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404332205,
-    "wof:lastmodified":1582361682,
+    "wof:lastmodified":1684352262,
     "wof:name":"Revillarruz",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":523,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

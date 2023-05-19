@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04062",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Macael",
+    "eurostat:nuts_2021_id":"04062",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04062",
+    "eurostat:population":5480,
+    "eurostat:population_year":2020,
     "geom:area":0.004448,
-    "geom:area_square_m":43743282.703413,
+    "geom:area_square_m":43743282.703412,
     "geom:bbox":"-2.33683211,37.26489221,-2.2431378,37.34684646",
     "geom:latitude":37.309085,
     "geom:longitude":-2.296207,
@@ -129,6 +141,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -137,6 +151,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_04062",
+        "eurostat:nuts_2021_id":"04062",
         "gn:id":6355574,
         "gp:id":12688683,
         "qs_pg:id":265219
@@ -145,7 +161,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f7fea28e4f154321265fbb18bdc15012",
+    "wof:geomhash":"a8372909210c25a6ab6a3d8dca837e2b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404329699,
-    "wof:lastmodified":1582361800,
+    "wof:lastmodified":1684352214,
     "wof:name":"Macael",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":5480,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_26008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aldeanueva de Ebro",
+    "eurostat:nuts_2021_id":"26008",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES23",
+    "eurostat:nuts_2021_level_3":"ES230",
+    "eurostat:nuts_2021_level_lau":"26008",
+    "eurostat:population":2760,
+    "eurostat:population_year":2020,
     "geom:area":0.004262,
-    "geom:area_square_m":39024044.864037,
+    "geom:area_square_m":39024044.864038,
     "geom:bbox":"-1.968302,42.17301331,-1.8680168,42.26849614",
     "geom:latitude":42.228722,
     "geom:longitude":-1.909877,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_26008",
+        "eurostat:nuts_2021_id":"26008",
         "gn:id":6358998,
         "gp:id":12687779,
         "qs_pg:id":1164003
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a0ecd0135113d0da3d2c723f2426e3e0",
+    "wof:geomhash":"e1c782709b6078350345c8122156a9b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404338157,
-    "wof:lastmodified":1582361430,
+    "wof:lastmodified":1684352372,
     "wof:name":"Aldeanueva De Ebro",
     "wof:parent_id":85682773,
     "wof:placetype":"localadmin",
+    "wof:population":2760,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

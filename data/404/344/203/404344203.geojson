@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44199",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rubiales",
+    "eurostat:nuts_2021_id":"44199",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44199",
+    "eurostat:population":49,
+    "eurostat:population_year":2020,
     "geom:area":0.002903,
     "geom:area_square_m":27387683.581539,
     "geom:bbox":"-1.31436791,40.2364133,-1.23244172,40.30496462",
@@ -60,6 +72,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -68,6 +82,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44199",
+        "eurostat:nuts_2021_id":"44199",
         "gn:id":6361601,
         "gp:id":12689773,
         "qs_pg:id":45470
@@ -76,7 +92,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0e0313912fea511255447bfc8de014e9",
+    "wof:geomhash":"761f4c6f74e6b44ceefe6172a95a6fee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,10 +103,12 @@
         }
     ],
     "wof:id":404344203,
-    "wof:lastmodified":1582361848,
+    "wof:lastmodified":1684352471,
     "wof:name":"Rubiales",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":49,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

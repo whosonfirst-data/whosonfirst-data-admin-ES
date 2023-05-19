@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22212",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santaliestra y San Qu\u00edlez",
+    "eurostat:nuts_2021_id":"22212",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22212",
+    "eurostat:population":80,
+    "eurostat:population_year":2020,
     "geom:area":0.002548,
-    "geom:area_square_m":23298950.468458,
+    "geom:area_square_m":23298950.468457,
     "geom:bbox":"0.32098203,42.28568027,0.39590354,42.35059163",
     "geom:latitude":42.317529,
     "geom:longitude":0.359569,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22212",
+        "eurostat:nuts_2021_id":"22212",
         "gn:id":6358412,
         "gp:id":12689560,
         "qs_pg:id":45372
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"35156a9bd2fbb737e9e94b72f73b044e",
+    "wof:geomhash":"8b9b84d611c8934ba801ef5c3a7fb110",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404336815,
-    "wof:lastmodified":1582361472,
+    "wof:lastmodified":1684352344,
     "wof:name":"Santaliestra Y San Qu\u00edlez",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":80,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

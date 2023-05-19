@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45092",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marjaliza",
+    "eurostat:nuts_2021_id":"45092",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45092",
+    "eurostat:population":243,
+    "eurostat:population_year":2020,
     "geom:area":0.006895,
-    "geom:area_square_m":65736723.566428,
+    "geom:area_square_m":65736723.566429,
     "geom:bbox":"-4.04177807,39.51659613,-3.88475878,39.58158076",
     "geom:latitude":39.548681,
     "geom:longitude":-3.967953,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45092",
+        "eurostat:nuts_2021_id":"45092",
         "gn:id":6361752,
         "gp:id":12691013,
         "qs_pg:id":334441
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d5c5904a043a78391ce3bcc84dc1af65",
+    "wof:geomhash":"25f59acfe8f738b2753a455e7703d09b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404344545,
-    "wof:lastmodified":1582361851,
+    "wof:lastmodified":1684352475,
     "wof:name":"Marjaliza",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":243,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

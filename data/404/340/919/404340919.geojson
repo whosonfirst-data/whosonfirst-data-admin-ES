@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_35016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Palmas de Gran Canaria, Las",
+    "eurostat:nuts_2021_id":"35016",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES7",
+    "eurostat:nuts_2021_level_2":"ES70",
+    "eurostat:nuts_2021_level_3":"ES705",
+    "eurostat:nuts_2021_level_lau":"35016",
+    "eurostat:population":381223,
+    "eurostat:population_year":2020,
     "geom:area":0.009326,
-    "geom:area_square_m":101728192.737367,
+    "geom:area_square_m":101728192.737311,
     "geom:bbox":"-15.5285194,28.02622569,-15.39528555,28.18108667",
     "geom:latitude":28.091087,
     "geom:longitude":-15.455332,
@@ -154,6 +166,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -162,6 +176,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_35016",
+        "eurostat:nuts_2021_id":"35016",
         "gn:id":6360186,
         "gp:id":12690140,
         "qs_pg:id":903344
@@ -170,7 +186,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"219a00bf1a3ad615a94f483a932e0c64",
+    "wof:geomhash":"abe417aa78df17d5102dee9c2a26fc8e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -181,10 +197,12 @@
         }
     ],
     "wof:id":404340919,
-    "wof:lastmodified":1582361667,
+    "wof:lastmodified":1684352415,
     "wof:name":"Las Palmas De Gran Canaria",
     "wof:parent_id":85682821,
     "wof:placetype":"localadmin",
+    "wof:population":381223,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arenas de San Pedro",
+    "eurostat:nuts_2021_id":"05014",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05014",
+    "eurostat:population":6344,
+    "eurostat:population_year":2020,
     "geom:area":0.020577,
-    "geom:area_square_m":194413057.200013,
+    "geom:area_square_m":194413057.200017,
     "geom:bbox":"-5.24105748,40.08476062,-4.94871595,40.26810808",
     "geom:latitude":40.172864,
     "geom:longitude":-5.11181,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05014",
+        "eurostat:nuts_2021_id":"05014",
         "gn:id":6355627,
         "gp:id":12691135,
         "qs_pg:id":1163683
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"aef051f2b7527d1a91e7da5b927b546b",
+    "wof:geomhash":"30ca3974a1d95b37a10c57a42bad0636",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404329819,
-    "wof:lastmodified":1582361790,
+    "wof:lastmodified":1684352216,
     "wof:name":"Arenas De San Pedro",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":6344,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

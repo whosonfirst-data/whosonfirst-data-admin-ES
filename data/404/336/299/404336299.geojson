@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_21008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aroche",
+    "eurostat:nuts_2021_id":"21008",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES615",
+    "eurostat:nuts_2021_level_lau":"21008",
+    "eurostat:population":3054,
+    "eurostat:population_year":2020,
     "geom:area":0.051089,
-    "geom:area_square_m":498164224.395708,
+    "geom:area_square_m":498164224.395689,
     "geom:bbox":"-7.12966471,37.82686734,-6.81220947,38.09184484",
     "geom:latitude":37.947823,
     "geom:longitude":-6.989779,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_21008",
+        "eurostat:nuts_2021_id":"21008",
         "gn:id":6358184,
         "gp:id":12689022,
         "qs_pg:id":1173522
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bd50fe9104a3c1c2c271d325ad866bd8",
+    "wof:geomhash":"cb7dae719ec64c84cb0db776d5eeefef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404336299,
-    "wof:lastmodified":1582361476,
+    "wof:lastmodified":1684352336,
     "wof:name":"Aroche",
     "wof:parent_id":85682749,
     "wof:placetype":"localadmin",
+    "wof:population":3054,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

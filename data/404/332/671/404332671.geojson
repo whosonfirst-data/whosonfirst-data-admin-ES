@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10072",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Eljas",
+    "eurostat:nuts_2021_id":"10072",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10072",
+    "eurostat:population":901,
+    "eurostat:population_year":2020,
     "geom:area":0.003444,
-    "geom:area_square_m":32511525.880389,
+    "geom:area_square_m":32511525.88039,
     "geom:bbox":"-6.88674673,40.19206747,-6.77789014,40.25559571",
     "geom:latitude":40.222878,
     "geom:longitude":-6.832669,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10072",
+        "eurostat:nuts_2021_id":"10072",
         "gn:id":6356769,
         "gp:id":12694554,
         "qs_pg:id":1095270
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"59ef89512b47e74ff5eb3a58ca2850e0",
+    "wof:geomhash":"d4228000a763400dd5393cdff1054826",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404332671,
-    "wof:lastmodified":1582361687,
+    "wof:lastmodified":1684352267,
     "wof:name":"Eljas",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":901,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

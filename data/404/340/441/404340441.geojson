@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_33072",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Teverga",
+    "eurostat:nuts_2021_id":"33072",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES12",
+    "eurostat:nuts_2021_level_3":"ES120",
+    "eurostat:nuts_2021_level_lau":"33072",
+    "eurostat:population":1554,
+    "eurostat:population_year":2020,
     "geom:area":0.019232,
-    "geom:area_square_m":173521391.610347,
+    "geom:area_square_m":173521391.610352,
     "geom:bbox":"-6.21820561,43.05465218,-6.00143585,43.23548116",
     "geom:latitude":43.140591,
     "geom:longitude":-6.108045,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_33072",
+        "eurostat:nuts_2021_id":"33072",
         "gn:id":6359973,
         "gp:id":12688514,
         "qs_pg:id":1102439
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"04e8851938424e68739d5af3f9c0d65e",
+    "wof:geomhash":"b8899124753e3c35bba2735c4e072526",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404340441,
-    "wof:lastmodified":1582361650,
+    "wof:lastmodified":1684352408,
     "wof:name":"Teverga",
     "wof:parent_id":85682805,
     "wof:placetype":"localadmin",
+    "wof:population":1554,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

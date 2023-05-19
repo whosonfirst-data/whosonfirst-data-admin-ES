@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44133",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lanzuela",
+    "eurostat:nuts_2021_id":"44133",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44133",
+    "eurostat:population":22,
+    "eurostat:population_year":2020,
     "geom:area":0.001525,
-    "geom:area_square_m":14205099.263426,
+    "geom:area_square_m":14205099.263425,
     "geom:bbox":"-1.22703654,41.08908732,-1.15475994,41.1280544",
     "geom:latitude":41.107472,
     "geom:longitude":-1.186765,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44133",
+        "eurostat:nuts_2021_id":"44133",
         "gn:id":6361544,
         "gp:id":12689715,
         "qs_pg:id":496893
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"227d4f719709101840d8036476bf8175",
+    "wof:geomhash":"9abbad6d22c7203ba0495dc60c4b1c15",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404344073,
-    "wof:lastmodified":1582361854,
+    "wof:lastmodified":1684352469,
     "wof:name":"Lanzuela",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":22,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

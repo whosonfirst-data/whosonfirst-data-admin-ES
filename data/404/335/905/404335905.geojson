@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19246",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Saelices de la Sal",
+    "eurostat:nuts_2021_id":"19246",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19246",
+    "eurostat:population":39,
+    "eurostat:population_year":2020,
     "geom:area":0.00207,
     "geom:area_square_m":19344827.54816,
     "geom:bbox":"-2.37103947,40.88244909,-2.30804249,40.93291985",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19246",
+        "eurostat:nuts_2021_id":"19246",
         "gn:id":6358014,
         "gp:id":12690844,
         "qs_pg:id":45987
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"542be573bd868213ead2e4dba0d5b4af",
+    "wof:geomhash":"7919bb7be755321c37937a78cb6e2674",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404335905,
-    "wof:lastmodified":1582361705,
+    "wof:lastmodified":1684352331,
     "wof:name":"Saelices De La Sal",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":39,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

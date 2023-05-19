@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22176",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Peraltilla",
+    "eurostat:nuts_2021_id":"22176",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22176",
+    "eurostat:population":209,
+    "eurostat:population_year":2020,
     "geom:area":0.001761,
-    "geom:area_square_m":16173047.160464,
+    "geom:area_square_m":16173047.160463,
     "geom:bbox":"-0.04929353,42.01964279,0.02143127,42.07212352",
     "geom:latitude":42.04699,
     "geom:longitude":-0.013128,
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22176",
+        "eurostat:nuts_2021_id":"22176",
         "gn:id":6358387,
         "gp:id":12689532,
         "qs_pg:id":1115503
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2cb595df9b44a4aa17db8443967097aa",
+    "wof:geomhash":"36dfaa69ff2a59104cce7b483a3d2332",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404336759,
-    "wof:lastmodified":1582361471,
+    "wof:lastmodified":1684352343,
     "wof:name":"Peraltilla",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":209,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44180",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Peracense",
+    "eurostat:nuts_2021_id":"44180",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44180",
+    "eurostat:population":77,
+    "eurostat:population_year":2020,
     "geom:area":0.003051,
-    "geom:area_square_m":28626419.019879,
+    "geom:area_square_m":28626419.01988,
     "geom:bbox":"-1.49864846,40.61585647,-1.41528643,40.68433566",
     "geom:latitude":40.648714,
     "geom:longitude":-1.456949,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44180",
+        "eurostat:nuts_2021_id":"44180",
         "gn:id":6361584,
         "gp:id":12689756,
         "qs_pg:id":199648
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7ae50c755c0ce7eaaf86bbb577228277",
+    "wof:geomhash":"483293543c1aa81c604c92d357837dbb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404344165,
-    "wof:lastmodified":1582361852,
+    "wof:lastmodified":1684352470,
     "wof:name":"Peracense",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":77,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

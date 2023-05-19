@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"ES",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"\u00c1vila",
+    "eurostat:name_local":"\u00c1vila",
+    "eurostat:nuts_2021_id":"ES411",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:population":159037,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"3",
     "geom:area":0.856066,
-    "geom:area_square_m":8040609532.295452,
+    "geom:area_square_m":8040609254.441285,
     "geom:bbox":"-5.737562,40.08245,-4.160234,41.16425",
     "geom:latitude":40.571045,
     "geom:longitude":-4.945568,
@@ -150,6 +164,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "unlc:subdivision":"ES-AV",
     "wd:wordcount":180,
     "wof:belongsto":[
@@ -160,6 +176,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":24002,
+        "eurostat:nuts_2021_id":"ES411",
         "fips:code":"SP85",
         "gn:id":3129138,
         "gp:id":12602115,
@@ -167,7 +184,7 @@
         "unlc:id":"ES-AV"
     },
     "wof:country":"ES",
-    "wof:geomhash":"6c7320809b4ee99e4d9486831f3f9823",
+    "wof:geomhash":"07ac0cceeef254ddd5f784ae8f3f55f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -187,10 +204,12 @@
         "eus",
         "ast"
     ],
-    "wof:lastmodified":1583882733,
+    "wof:lastmodified":1684351537,
     "wof:name":"Avila",
     "wof:parent_id":404227373,
     "wof:placetype":"region",
+    "wof:population":159037,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:shortcode":"CL",
     "wof:subdivision":"ES-AV",

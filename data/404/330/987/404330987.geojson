@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8048,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carme",
+    "eurostat:nuts_2021_id":"08048",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08048",
+    "eurostat:population":785,
+    "eurostat:population_year":2020,
     "geom:area":0.001222,
-    "geom:area_square_m":11315235.157558,
+    "geom:area_square_m":11315227.660564,
     "geom:bbox":"1.585104,41.513028,1.6525,41.549577",
     "geom:latitude":41.533906,
     "geom:longitude":1.624535,
@@ -106,6 +118,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -114,7 +128,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08048",
         "esp-icgc:la_lc":"08048",
+        "eurostat:nuts_2021_id":"08048",
         "gn:id":6356081,
         "gp:id":12693425,
         "qs_pg:id":204709
@@ -124,7 +140,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"eeb48b65d96e8129b91ba08e02e5355c",
+    "wof:geomhash":"10b36023a8541075511523909e57b96e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404330987,
-    "wof:lastmodified":1669903018,
+    "wof:lastmodified":1684352237,
     "wof:name":"Carme",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":785,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

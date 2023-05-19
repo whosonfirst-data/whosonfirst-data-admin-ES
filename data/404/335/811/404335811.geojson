@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19200",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Olivar, El",
+    "eurostat:nuts_2021_id":"19200",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19200",
+    "eurostat:population":69,
+    "eurostat:population_year":2020,
     "geom:area":0.001838,
-    "geom:area_square_m":17251397.966304,
+    "geom:area_square_m":17251397.966303,
     "geom:bbox":"-2.8017515,40.57689903,-2.72404742,40.62226553",
     "geom:latitude":40.600483,
     "geom:longitude":-2.761145,
@@ -42,6 +54,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -50,6 +64,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19200",
+        "eurostat:nuts_2021_id":"19200",
         "gn:id":6357972,
         "qs_pg:id":621650
     },
@@ -57,7 +73,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4fd9ea3909137073f3d3cb413646a434",
+    "wof:geomhash":"320e6113f86e3dc925de6bba27ceef74",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,10 +84,12 @@
         }
     ],
     "wof:id":404335811,
-    "wof:lastmodified":1582361696,
+    "wof:lastmodified":1684352330,
     "wof:name":"El Olivar",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":69,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

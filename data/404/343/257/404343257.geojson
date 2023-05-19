@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42149",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"R\u00e1banos, Los",
+    "eurostat:nuts_2021_id":"42149",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42149",
+    "eurostat:population":445,
+    "eurostat:population_year":2020,
     "geom:area":0.010961,
-    "geom:area_square_m":101228582.392159,
+    "geom:area_square_m":101228582.392158,
     "geom:bbox":"-2.57149394,41.62453633,-2.3564697,41.738581",
     "geom:latitude":41.681431,
     "geom:longitude":-2.463877,
@@ -168,6 +180,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -176,6 +190,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42149",
+        "eurostat:nuts_2021_id":"42149",
         "gn:id":6361183,
         "gp:id":12692842,
         "qs_pg:id":621892
@@ -184,7 +200,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"74a5b2a819cec4b58bbf65694b7ee3cd",
+    "wof:geomhash":"4a8f22bc8d8357fbca47c3e4a3be417b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -195,10 +211,12 @@
         }
     ],
     "wof:id":404343257,
-    "wof:lastmodified":1582361870,
+    "wof:lastmodified":1684352449,
     "wof:name":"Los R\u00e1banos",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":445,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25168,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25168",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Poal, El",
+    "eurostat:nuts_2021_id":"25168",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25168",
+    "eurostat:population":670,
+    "eurostat:population_year":2020,
     "geom:area":0.000958,
-    "geom:area_square_m":8846056.061741,
+    "geom:area_square_m":8846082.275316,
     "geom:bbox":"0.83804,41.664126,0.910499,41.691027",
     "geom:latitude":41.675666,
     "geom:longitude":0.871369,
@@ -106,6 +118,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -114,7 +128,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25168",
         "esp-icgc:la_lc":"025168",
+        "eurostat:nuts_2021_id":"25168",
         "gn:id":6358905,
         "gp:id":12694057,
         "qs_pg:id":204728
@@ -124,7 +140,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"6bb4357094d09fbe239ee458c2647952",
+    "wof:geomhash":"1bde06e9e961856a90df9a8d310b7e88",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404337947,
-    "wof:lastmodified":1669903024,
+    "wof:lastmodified":1684352366,
     "wof:name":"El Poal",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":670,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

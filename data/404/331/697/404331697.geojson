@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Berberana",
+    "eurostat:nuts_2021_id":"09050",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09050",
+    "eurostat:population":60,
+    "eurostat:population_year":2020,
     "geom:area":0.003717,
     "geom:area_square_m":33664430.88182,
     "geom:bbox":"-3.13909331,42.8487079,-2.98118882,42.95502318",
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09050",
+        "eurostat:nuts_2021_id":"09050",
         "gn:id":6356369,
         "gp:id":12691415,
         "qs_pg:id":215930
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7e2102d26bf8cddb905f51208b85a9bf",
+    "wof:geomhash":"eb9b0c099f4024b74e24e060ab64d302",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404331697,
-    "wof:lastmodified":1582361509,
+    "wof:lastmodified":1684352257,
     "wof:name":"Berberana",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":60,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

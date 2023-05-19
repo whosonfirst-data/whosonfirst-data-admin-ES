@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":43146,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43146",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Senan",
+    "eurostat:nuts_2021_id":"43146",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43146",
+    "eurostat:population":44,
+    "eurostat:population_year":2020,
     "geom:area":0.001281,
     "geom:area_square_m":11863737.370268,
     "geom:bbox":"1.03739435858,41.4596813707,1.10806788965,41.5013751586",
@@ -73,6 +85,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -81,7 +95,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43146",
         "esp-icgc:la_lc":"043146",
+        "eurostat:nuts_2021_id":"43146",
         "gn:id":6361388,
         "gp:id":12694285,
         "qs_pg:id":47802
@@ -91,7 +107,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"02a75fac75151f21d5e1f5ffa6359982",
+    "wof:geomhash":"56390947a47412761d118632934255a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,10 +118,12 @@
         }
     ],
     "wof:id":404343719,
-    "wof:lastmodified":1582361893,
+    "wof:lastmodified":1684352462,
     "wof:name":"Senan",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":44,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

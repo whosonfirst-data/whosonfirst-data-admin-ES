@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_20037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gaintza",
+    "eurostat:nuts_2021_id":"20037",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES212",
+    "eurostat:nuts_2021_level_lau":"20037",
+    "eurostat:population":121,
+    "eurostat:population_year":2020,
     "geom:area":0.000658,
-    "geom:area_square_m":5949191.936856,
+    "geom:area_square_m":5949191.936855,
     "geom:bbox":"-2.14893193,43.04044018,-2.11378576,43.06858144",
     "geom:latitude":43.053902,
     "geom:longitude":-2.131042,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_20037",
+        "eurostat:nuts_2021_id":"20037",
         "gn:id":6358126,
         "qs_pg:id":621685
     },
@@ -123,7 +139,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"82ca2c63e584dc000087d324bd26e366",
+    "wof:geomhash":"dd073dcaf113f90ac27dcfc70de96462",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404336165,
-    "wof:lastmodified":1582361469,
+    "wof:lastmodified":1684352334,
     "wof:name":"Gaintza",
     "wof:parent_id":85682741,
     "wof:placetype":"localadmin",
+    "wof:population":121,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

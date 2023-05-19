@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25152,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25152",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oluges, Les",
+    "eurostat:nuts_2021_id":"25152",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25152",
+    "eurostat:population":171,
+    "eurostat:population_year":2020,
     "geom:area":0.002065,
-    "geom:area_square_m":19064368.376393,
+    "geom:area_square_m":19064429.813888,
     "geom:bbox":"1.295001,41.670987,1.381586,41.714719",
     "geom:latitude":41.693139,
     "geom:longitude":1.339541,
@@ -112,6 +124,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -120,7 +134,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25152",
         "esp-icgc:la_lc":"025152",
+        "eurostat:nuts_2021_id":"25152",
         "gn:id":6358892,
         "gp:id":12694044,
         "qs_pg:id":1291875
@@ -130,7 +146,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8c10f3067541d84b14e24f7fd673e432",
+    "wof:geomhash":"dabe6d82e19dd66183df4b99c8ec4fb5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404337919,
-    "wof:lastmodified":1669903030,
+    "wof:lastmodified":1684352364,
     "wof:name":"Les Oluges",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":171,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

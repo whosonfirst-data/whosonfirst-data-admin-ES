@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alcal\u00e0 de Xivert",
+    "eurostat:nuts_2021_id":"12004",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12004",
+    "eurostat:population":6638,
+    "eurostat:population_year":2020,
     "geom:area":0.017745,
-    "geom:area_square_m":167355438.915993,
+    "geom:area_square_m":167355438.915992,
     "geom:bbox":"0.15380644,40.20346725,0.32220849,40.39342254",
     "geom:latitude":40.295829,
     "geom:longitude":0.231251,
@@ -54,6 +66,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -62,6 +76,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12004",
+        "eurostat:nuts_2021_id":"12004",
         "gn:id":6356963,
         "gp:id":12695409,
         "qs_pg:id":1198398
@@ -70,7 +86,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ef5542ac169fa5695eeef788fa70fed4",
+    "wof:geomhash":"0f703d018eb9ed7b513a4781c0290650",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +97,12 @@
         }
     ],
     "wof:id":404333115,
-    "wof:lastmodified":1582361783,
+    "wof:lastmodified":1684352274,
     "wof:name":"Alcal\u00e0 De Xivert",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":6638,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

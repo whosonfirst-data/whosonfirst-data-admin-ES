@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_39037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Li\u00e9rganes",
+    "eurostat:nuts_2021_id":"39037",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES13",
+    "eurostat:nuts_2021_level_3":"ES130",
+    "eurostat:nuts_2021_level_lau":"39037",
+    "eurostat:population":2407,
+    "eurostat:population_year":2020,
     "geom:area":0.00409,
-    "geom:area_square_m":36784931.031389,
+    "geom:area_square_m":36784931.03139,
     "geom:bbox":"-3.80822282,43.29192837,-3.70996329,43.37895498",
     "geom:latitude":43.33627,
     "geom:longitude":-3.763045,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_39037",
+        "eurostat:nuts_2021_id":"39037",
         "gp:id":12688558,
         "qs_pg:id":235953
     },
@@ -126,7 +142,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"34d831a8bec5f0e36fc2c6787ad90447",
+    "wof:geomhash":"a2d02674a76ef5d653d6786d490fa1ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404342123,
-    "wof:lastmodified":1582361822,
+    "wof:lastmodified":1684352435,
     "wof:name":"Li\u00e9rganes",
     "wof:parent_id":85682833,
     "wof:placetype":"localadmin",
+    "wof:population":2407,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

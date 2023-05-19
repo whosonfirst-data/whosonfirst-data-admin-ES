@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05073",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Flores de \u00c1vila",
+    "eurostat:nuts_2021_id":"05073",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05073",
+    "eurostat:population":295,
+    "eurostat:population_year":2020,
     "geom:area":0.004603,
     "geom:area_square_m":42992439.700424,
     "geom:bbox":"-5.12817121,40.89532404,-5.03739111,40.98174119",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_05073",
+        "eurostat:nuts_2021_id":"05073"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"1baa6e0549322737eb56719b3133a4c8",
+    "wof:geomhash":"5420b6483c848aaff3b5fc03e50d112a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404329935,
-    "wof:lastmodified":1566590876,
+    "wof:lastmodified":1684352217,
     "wof:name":"Flores De \u00c1vila",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":295,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

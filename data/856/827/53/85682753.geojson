@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"ES",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"2",
+    "eurostat:name_latin":"Huesca",
+    "eurostat:name_local":"Huesca",
+    "eurostat:nuts_2021_id":"ES241",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:population":222236,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"2",
     "geom:area":1.70462,
-    "geom:area_square_m":15613585359.411915,
+    "geom:area_square_m":15613585934.563194,
     "geom:bbox":"-0.934168,41.347806,0.771307,42.924495",
     "geom:latitude":42.203077,
     "geom:longitude":-0.072999,
@@ -297,6 +311,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "unlc:subdivision":"ES-HU",
     "wof:belongsto":[
         102191581,
@@ -306,6 +322,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":23883,
+        "eurostat:nuts_2021_id":"ES241",
         "fips:code":"SP81",
         "gn:id":3120513,
         "gp:id":12602105,
@@ -313,7 +330,7 @@
         "unlc:id":"ES-HU"
     },
     "wof:country":"ES",
-    "wof:geomhash":"468b7036cacba10002fd79b93508f4f1",
+    "wof:geomhash":"6ec7d7a8af73607dcab3acc9af0cd216",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -333,10 +350,12 @@
         "eus",
         "ast"
     ],
-    "wof:lastmodified":1636503244,
+    "wof:lastmodified":1684351555,
     "wof:name":"Huesca",
     "wof:parent_id":404227363,
     "wof:placetype":"region",
+    "wof:population":222236,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:shortcode":"AR",
     "wof:subdivision":"ES-HU",

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31902",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Berrioplano / Berriobeiti",
+    "eurostat:nuts_2021_id":"31902",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31902",
+    "eurostat:population":7457,
+    "eurostat:population_year":2020,
     "geom:area":0.002867,
     "geom:area_square_m":25985118.055963,
     "geom:bbox":"-1.74182114,42.83083461,-1.65086741,42.89325318",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227391
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_31902",
+        "eurostat:nuts_2021_id":"31902"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"1da04907a4e8e9c63e6359ee936d3016",
+    "wof:geomhash":"3e878ffd749dd19e9b5d937193457fd6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404340059,
-    "wof:lastmodified":1566590428,
+    "wof:lastmodified":1684352401,
     "wof:name":"Berrioplano/Berriobeiti",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":7457,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

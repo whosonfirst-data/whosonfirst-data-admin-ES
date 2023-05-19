@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43164,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43164",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vespella de Gai\u00e0",
+    "eurostat:nuts_2021_id":"43164",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43164",
+    "eurostat:population":417,
+    "eurostat:population_year":2020,
     "geom:area":0.001939,
-    "geom:area_square_m":18040244.212741,
+    "geom:area_square_m":18040228.38338,
     "geom:bbox":"1.327427,41.173043,1.395199,41.225372",
     "geom:latitude":41.202941,
     "geom:longitude":1.361272,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43164",
         "esp-icgc:la_lc":"043164",
+        "eurostat:nuts_2021_id":"43164",
         "gn:id":6361406,
         "gp:id":12694304,
         "qs_pg:id":1061630
@@ -67,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"85f6d6ef31029f2e94eca06db481a57d",
+    "wof:geomhash":"45ecf570b1c814580d7913350916835a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404343759,
-    "wof:lastmodified":1669903066,
+    "wof:lastmodified":1684352464,
     "wof:name":"Vespella de Gai\u00e0",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":417,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

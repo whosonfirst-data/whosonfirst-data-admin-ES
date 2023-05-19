@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_13012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Almadenejos",
+    "eurostat:nuts_2021_id":"13012",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES422",
+    "eurostat:nuts_2021_level_lau":"13012",
+    "eurostat:population":405,
+    "eurostat:population_year":2020,
     "geom:area":0.010664,
-    "geom:area_square_m":102803344.631365,
+    "geom:area_square_m":102803344.631374,
     "geom:bbox":"-4.74711848,38.71156571,-4.59923328,38.83410648",
     "geom:latitude":38.772578,
     "geom:longitude":-4.6672,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_13012",
+        "eurostat:nuts_2021_id":"13012",
         "gn:id":6357106,
         "gp:id":12690309,
         "qs_pg:id":45709
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6b11c79bf0e0b425d17b303368c301de",
+    "wof:geomhash":"12f8e1c833df8fe914e0a1af99ab86b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404333437,
-    "wof:lastmodified":1582361766,
+    "wof:lastmodified":1684352279,
     "wof:name":"Almadenejos",
     "wof:parent_id":85682689,
     "wof:placetype":"localadmin",
+    "wof:population":405,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

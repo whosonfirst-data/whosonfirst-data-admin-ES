@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Atz\u00fabia, l'",
+    "eurostat:nuts_2021_id":"03001",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03001",
+    "eurostat:population":611,
+    "eurostat:population_year":2020,
     "geom:area":0.001522,
-    "geom:area_square_m":14658910.99003,
+    "geom:area_square_m":14658910.990031,
     "geom:bbox":"-0.19763695,38.83356886,-0.14616316,38.88739143",
     "geom:latitude":38.859031,
     "geom:longitude":-0.168733,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03001",
+        "eurostat:nuts_2021_id":"03001",
         "gn:id":6355377,
         "gp:id":12695266,
         "qs_pg:id":48379
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"718830ef4ca3db3c0e9e5a2962f882b6",
+    "wof:geomhash":"43b895babead354287a63ea9bf7e4984",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404329251,
-    "wof:lastmodified":1582361792,
+    "wof:lastmodified":1684352207,
     "wof:name":"Adsubia",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":611,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

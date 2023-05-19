@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45180",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valmojado",
+    "eurostat:nuts_2021_id":"45180",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45180",
+    "eurostat:population":4371,
+    "eurostat:population_year":2020,
     "geom:area":0.002774,
-    "geom:area_square_m":26193640.909123,
+    "geom:area_square_m":26193640.90912,
     "geom:bbox":"-4.1437285,40.18341362,-4.06883232,40.24898074",
     "geom:latitude":40.214276,
     "geom:longitude":-4.104323,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45180",
+        "eurostat:nuts_2021_id":"45180",
         "gn:id":6361839,
         "gp:id":12691101,
         "qs_pg:id":1208042
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cba84174ebf1773656d2184a6b482c5b",
+    "wof:geomhash":"3ae0d083edae1ad7beef8991a538c55d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404344741,
-    "wof:lastmodified":1582361851,
+    "wof:lastmodified":1684352478,
     "wof:name":"Valmojado",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":4371,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hoyos del Collado",
+    "eurostat:nuts_2021_id":"05104",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05104",
+    "eurostat:population":33,
+    "eurostat:population_year":2020,
     "geom:area":0.001048,
-    "geom:area_square_m":9871771.178,
+    "geom:area_square_m":9871771.177998,
     "geom:bbox":"-5.21674253,40.34305716,-5.1864526,40.40751763",
     "geom:latitude":40.36936,
     "geom:longitude":-5.203587,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05104",
+        "eurostat:nuts_2021_id":"05104",
         "gn:id":6355708,
         "gp:id":12691218,
         "qs_pg:id":265295
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c4a7f73ccf1a380ccd5e064ad818b4a9",
+    "wof:geomhash":"06d53b669cf9b9eb6b1d0d8ef114ac8a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330001,
-    "wof:lastmodified":1582361528,
+    "wof:lastmodified":1684352218,
     "wof:name":"Hoyos Del Collado",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":33,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

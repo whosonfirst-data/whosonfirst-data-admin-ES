@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_21034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Galaroza",
+    "eurostat:nuts_2021_id":"21034",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES615",
+    "eurostat:nuts_2021_level_lau":"21034",
+    "eurostat:population":1382,
+    "eurostat:population_year":2020,
     "geom:area":0.002282,
     "geom:area_square_m":22253693.436044,
     "geom:bbox":"-6.72617287,37.89957126,-6.64260916,37.95534201",
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_21034",
+        "eurostat:nuts_2021_id":"21034",
         "gn:id":6358210,
         "gp:id":12689048,
         "qs_pg:id":1146299
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"be8afd57cf3cdcc26dc1ad1eebe00023",
+    "wof:geomhash":"4a2012a10a74587a7b1bd9da119514b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404336357,
-    "wof:lastmodified":1582361469,
+    "wof:lastmodified":1684352337,
     "wof:name":"Galaroza",
     "wof:parent_id":85682749,
     "wof:placetype":"localadmin",
+    "wof:population":1382,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25197,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25197",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Guim de la Plana",
+    "eurostat:nuts_2021_id":"25197",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25197",
+    "eurostat:population":181,
+    "eurostat:population_year":2020,
     "geom:area":0.001334,
-    "geom:area_square_m":12302596.249377,
+    "geom:area_square_m":12302498.912053,
     "geom:bbox":"1.310275,41.746695,1.373575,41.790167",
     "geom:latitude":41.763815,
     "geom:longitude":1.344604,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25197",
         "esp-icgc:la_lc":"025197",
+        "eurostat:nuts_2021_id":"25197",
         "gn:id":6358929,
         "gp:id":12694080,
         "qs_pg:id":1003886
@@ -67,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"135b0f242c3ed83736e74614db98caec",
+    "wof:geomhash":"a287b38f85a6e30343813abf95910ec4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404338001,
-    "wof:lastmodified":1669902992,
+    "wof:lastmodified":1684352367,
     "wof:name":"Sant Guim de la Plana",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":181,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

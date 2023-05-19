@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24099",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Matanza",
+    "eurostat:nuts_2021_id":"24099",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24099",
+    "eurostat:population":161,
+    "eurostat:population_year":2020,
     "geom:area":0.005847,
-    "geom:area_square_m":53502991.785787,
+    "geom:area_square_m":53502991.785788,
     "geom:bbox":"-5.43482491,42.21793954,-5.30643884,42.31510061",
     "geom:latitude":42.265728,
     "geom:longitude":-5.366553,
@@ -57,6 +69,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -65,6 +79,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_24099",
+        "eurostat:nuts_2021_id":"24099",
         "gn:id":6358641,
         "gp:id":12691838,
         "qs_pg:id":1147903
@@ -73,7 +89,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"98a6d3d866e0747ebd9a30d2c299db41",
+    "wof:geomhash":"67a51182a157d7426dc9bbc317240ae3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +100,12 @@
         }
     ],
     "wof:id":404337341,
-    "wof:lastmodified":1582361560,
+    "wof:lastmodified":1684352351,
     "wof:name":"Matanza",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":161,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

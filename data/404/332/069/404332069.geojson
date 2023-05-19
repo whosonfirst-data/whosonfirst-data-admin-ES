@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09244",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Padrones de Bureba",
+    "eurostat:nuts_2021_id":"09244",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09244",
+    "eurostat:population":46,
+    "eurostat:population_year":2020,
     "geom:area":0.002234,
     "geom:area_square_m":20298065.202449,
     "geom:bbox":"-3.60743147,42.67959068,-3.50965857,42.72429957",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09244",
+        "eurostat:nuts_2021_id":"09244",
         "gn:id":6356517,
         "gp:id":12691566,
         "qs_pg:id":46295
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2c80f19b0c1bbd4dac49381caedafee1",
+    "wof:geomhash":"094333315e0d580c0eb8d4a82ecafe36",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332069,
-    "wof:lastmodified":1582361690,
+    "wof:lastmodified":1684352261,
     "wof:name":"Padrones De Bureba",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":46,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

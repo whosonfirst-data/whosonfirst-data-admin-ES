@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16116",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lagunaseca",
+    "eurostat:nuts_2021_id":"16116",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16116",
+    "eurostat:population":66,
+    "eurostat:population_year":2020,
     "geom:area":0.003695,
-    "geom:area_square_m":34735415.993454,
+    "geom:area_square_m":34735415.993453,
     "geom:bbox":"-2.05261011,40.47618807,-1.94269647,40.54046827",
     "geom:latitude":40.513062,
     "geom:longitude":-1.99574,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16116",
+        "eurostat:nuts_2021_id":"16116",
         "gn:id":6357463,
         "gp:id":12690503,
         "qs_pg:id":45827
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"75f62d05f969be7e46416e66af4404ee",
+    "wof:geomhash":"149fe38655c83330ce5e415050c18d6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404334251,
-    "wof:lastmodified":1582361729,
+    "wof:lastmodified":1684352295,
     "wof:name":"Lagunaseca",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":66,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

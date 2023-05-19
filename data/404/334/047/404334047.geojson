@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alconchel de la Estrella",
+    "eurostat:nuts_2021_id":"16012",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16012",
+    "eurostat:population":85,
+    "eurostat:population_year":2020,
     "geom:area":0.004511,
     "geom:area_square_m":42901769.788159,
     "geom:bbox":"-2.62390691,39.67865177,-2.5365519,39.75756312",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227375
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_16012",
+        "eurostat:nuts_2021_id":"16012"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"ae252356918545694d299f7facee9cc6",
+    "wof:geomhash":"eee5263a199c8d9dff88dee82dadd005",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404334047,
-    "wof:lastmodified":1566590655,
+    "wof:lastmodified":1684352292,
     "wof:name":"Alconchel De La Estrella",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":85,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

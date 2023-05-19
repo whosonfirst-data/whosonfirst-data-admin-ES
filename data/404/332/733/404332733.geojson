@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10100",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hoyos",
+    "eurostat:nuts_2021_id":"10100",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10100",
+    "eurostat:population":880,
+    "eurostat:population_year":2020,
     "geom:area":0.001596,
-    "geom:area_square_m":15078384.728128,
+    "geom:area_square_m":15078384.728129,
     "geom:bbox":"-6.74791028,40.13314614,-6.69169473,40.18587591",
     "geom:latitude":40.164525,
     "geom:longitude":-6.722366,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10100",
+        "eurostat:nuts_2021_id":"10100",
         "gn:id":6356796,
         "gp:id":12694581,
         "qs_pg:id":48021
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"31b6cbdda491172a6e5b2c784e81cba7",
+    "wof:geomhash":"b22b8211263cea61fe5985d7518ab27f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404332733,
-    "wof:lastmodified":1582361684,
+    "wof:lastmodified":1684352268,
     "wof:name":"Hoyos",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":880,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

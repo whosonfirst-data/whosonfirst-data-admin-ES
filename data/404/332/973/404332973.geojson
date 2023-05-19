@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10207",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villa del Campo",
+    "eurostat:nuts_2021_id":"10207",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10207",
+    "eurostat:population":478,
+    "eurostat:population_year":2020,
     "geom:area":0.006016,
-    "geom:area_square_m":56863721.622386,
+    "geom:area_square_m":56863721.622394,
     "geom:bbox":"-6.54006789,40.10787159,-6.41806023,40.19605999",
     "geom:latitude":40.147336,
     "geom:longitude":-6.480526,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10207",
+        "eurostat:nuts_2021_id":"10207",
         "gn:id":6356902,
         "gp:id":12694689,
         "qs_pg:id":955144
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"54e315c202f640d5e3dd90aa7949cb27",
+    "wof:geomhash":"76cf5f3739c8bf18541ef4d8956ca41b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332973,
-    "wof:lastmodified":1582361691,
+    "wof:lastmodified":1684352272,
     "wof:name":"Villa Del Campo",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":478,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

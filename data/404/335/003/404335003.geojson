@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17212,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17212",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vidr\u00e0",
+    "eurostat:nuts_2021_id":"17212",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17212",
+    "eurostat:population":177,
+    "eurostat:population_year":2020,
     "geom:area":0.003757,
-    "geom:area_square_m":34445504.466594,
+    "geom:area_square_m":34445541.957035,
     "geom:bbox":"2.264891,42.102642,2.385995,42.176098",
     "geom:latitude":42.14223,
     "geom:longitude":2.327519,
@@ -127,6 +139,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -135,7 +149,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17212",
         "esp-icgc:la_lc":"017212",
+        "eurostat:nuts_2021_id":"17212",
         "gn:id":6357636,
         "gp:id":12693888,
         "qs_pg:id":1117017
@@ -145,7 +161,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"41657098477dc5efa8f6428ec8a98cc4",
+    "wof:geomhash":"ba657c576cf1a9e16d45e9043e5a81ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404335003,
-    "wof:lastmodified":1669903039,
+    "wof:lastmodified":1684352318,
     "wof:name":"Vidr\u00e0",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":177,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

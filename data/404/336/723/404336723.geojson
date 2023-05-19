@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22155",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monesma y Cajigar",
+    "eurostat:nuts_2021_id":"22155",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22155",
+    "eurostat:population":72,
+    "eurostat:population_year":2020,
     "geom:area":0.006826,
     "geom:area_square_m":62501930.917394,
     "geom:bbox":"0.53806301,42.16710361,0.67301451,42.28260109",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22155",
+        "eurostat:nuts_2021_id":"22155",
         "gn:id":6358371,
         "gp:id":12689516,
         "qs_pg:id":953901
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9accbe0edca7dbd6cd8f035f66af8357",
+    "wof:geomhash":"d35d4a18246f6196eed3294dc91778d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404336723,
-    "wof:lastmodified":1582361467,
+    "wof:lastmodified":1684352343,
     "wof:name":"Monesma Y Cajigar",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":72,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

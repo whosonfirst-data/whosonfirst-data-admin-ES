@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44198",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Royuela",
+    "eurostat:nuts_2021_id":"44198",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44198",
+    "eurostat:population":210,
+    "eurostat:population_year":2020,
     "geom:area":0.003446,
-    "geom:area_square_m":32467558.33715,
+    "geom:area_square_m":32467558.337151,
     "geom:bbox":"-1.54614799,40.32465213,-1.47360775,40.39417865",
     "geom:latitude":40.36102,
     "geom:longitude":-1.507124,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44198",
+        "eurostat:nuts_2021_id":"44198",
         "gn:id":6361600,
         "gp:id":12689772,
         "qs_pg:id":1102489
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"40967d49e89d085777db4e6364050ce1",
+    "wof:geomhash":"4ed91b08138a2c8d1884c14195cb45a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404344201,
-    "wof:lastmodified":1582361857,
+    "wof:lastmodified":1684352471,
     "wof:name":"Royuela",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":210,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

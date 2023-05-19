@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_07058",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Selva",
+    "eurostat:nuts_2021_id":"07058",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES53",
+    "eurostat:nuts_2021_level_3":"ES532",
+    "eurostat:nuts_2021_level_lau":"07058",
+    "eurostat:population":4080,
+    "eurostat:population_year":2020,
     "geom:area":0.005124,
-    "geom:area_square_m":48700921.163918,
+    "geom:area_square_m":48700921.163917,
     "geom:bbox":"2.84350971,39.72404442,2.96242353,39.81646702",
     "geom:latitude":39.768765,
     "geom:longitude":2.908995,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_07058",
+        "eurostat:nuts_2021_id":"07058",
         "gn:id":6533975,
         "gp:id":12687765,
         "qs_pg:id":1188122
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3bebae8500423841ba33a909e5b7500d",
+    "wof:geomhash":"bbfbe435046e7907504346183b60d9d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404330857,
-    "wof:lastmodified":1582361525,
+    "wof:lastmodified":1684352233,
     "wof:name":"Selva",
     "wof:parent_id":85682647,
     "wof:placetype":"localadmin",
+    "wof:population":4080,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

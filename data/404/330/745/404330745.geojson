@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_07008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Binissalem",
+    "eurostat:nuts_2021_id":"07008",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES53",
+    "eurostat:nuts_2021_level_3":"ES532",
+    "eurostat:nuts_2021_level_lau":"07008",
+    "eurostat:population":8756,
+    "eurostat:population_year":2020,
     "geom:area":0.003126,
-    "geom:area_square_m":29743816.846224,
+    "geom:area_square_m":29743816.846225,
     "geom:bbox":"2.81173457,39.65453971,2.90523768,39.71526407",
     "geom:latitude":39.684515,
     "geom:longitude":2.85682,
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_07008",
+        "eurostat:nuts_2021_id":"07008",
         "gn:id":6533933,
         "gp:id":12687713,
         "qs_pg:id":1188114
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d03b8683ab94fd297ae2492e354686eb",
+    "wof:geomhash":"56347f26ed6749c0ad4214fc19c63658",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404330745,
-    "wof:lastmodified":1582361545,
+    "wof:lastmodified":1684352229,
     "wof:name":"Binissalem",
     "wof:parent_id":85682647,
     "wof:placetype":"localadmin",
+    "wof:population":8756,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

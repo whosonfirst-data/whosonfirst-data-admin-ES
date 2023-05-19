@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31262",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zabalza / Zabaltza",
+    "eurostat:nuts_2021_id":"31262",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31262",
+    "eurostat:population":301,
+    "eurostat:population_year":2020,
     "geom:area":0.001544,
     "geom:area_square_m":14014888.457045,
     "geom:bbox":"-1.83139487,42.74382094,-1.77105336,42.79071841",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227391
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_31262",
+        "eurostat:nuts_2021_id":"31262"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"015863ad703b77017c3e321d348bec96",
+    "wof:geomhash":"80476036d96afd58fddb1d522a19be66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404340047,
-    "wof:lastmodified":1566590386,
+    "wof:lastmodified":1684352401,
     "wof:name":"Zabalza/Zabaltza",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":301,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

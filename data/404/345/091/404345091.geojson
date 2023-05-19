@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46130",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gavarda",
+    "eurostat:nuts_2021_id":"46130",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46130",
+    "eurostat:population":1042,
+    "eurostat:population_year":2020,
     "geom:area":0.000815,
-    "geom:area_square_m":7824584.326274,
+    "geom:area_square_m":7824584.326275,
     "geom:bbox":"-0.5824982,39.0744119,-0.53373719,39.11371588",
     "geom:latitude":39.092994,
     "geom:longitude":-0.560263,
@@ -87,6 +99,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -94,9 +108,12 @@
         404227381
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_46130",
+        "eurostat:nuts_2021_id":"46130"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"309d2f3ea774a4e347bdfef214bd2196",
+    "wof:geomhash":"91d248366dbabcc2ea76eb04688f0c61",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +124,12 @@
         }
     ],
     "wof:id":404345091,
-    "wof:lastmodified":1566591005,
+    "wof:lastmodified":1684352482,
     "wof:name":"Gavarda",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":1042,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

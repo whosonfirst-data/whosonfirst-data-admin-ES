@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fuentidue\u00f1a de Tajo",
+    "eurostat:nuts_2021_id":"28060",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28060",
+    "eurostat:population":2136,
+    "eurostat:population_year":2020,
     "geom:area":0.006362,
-    "geom:area_square_m":60163621.892862,
+    "geom:area_square_m":60163621.892863,
     "geom:bbox":"-3.20459748,40.0614287,-3.10743272,40.16152606",
     "geom:latitude":40.110997,
     "geom:longitude":-3.159108,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28060",
+        "eurostat:nuts_2021_id":"28060",
         "gn:id":6359286,
         "gp:id":12688005,
         "qs_pg:id":953321
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c6159ff0535a1fef44e937f4772fc745",
+    "wof:geomhash":"5b4b1f8ee9ac891f0f25deefa11e73a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404338823,
-    "wof:lastmodified":1582361447,
+    "wof:lastmodified":1684352382,
     "wof:name":"Fuentidue\u00f1a De Tajo",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":2136,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

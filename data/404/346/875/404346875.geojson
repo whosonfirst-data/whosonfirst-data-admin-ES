@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50073",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cari\u00f1ena",
+    "eurostat:nuts_2021_id":"50073",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50073",
+    "eurostat:population":3355,
+    "eurostat:population_year":2020,
     "geom:area":0.008877,
-    "geom:area_square_m":82402206.349499,
+    "geom:area_square_m":82402206.349501,
     "geom:bbox":"-1.26895065,41.29981431,-1.14462755,41.41447125",
     "geom:latitude":41.350486,
     "geom:longitude":-1.208476,
@@ -57,6 +69,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -65,6 +79,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50073",
+        "eurostat:nuts_2021_id":"50073",
         "gn:id":6362766,
         "gp:id":12689906,
         "qs_pg:id":1188262
@@ -73,7 +89,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9d0608e5a84565908cff8e6c5d77ef9d",
+    "wof:geomhash":"cbfd0a18c79213a4b29ea3059093e773",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +100,12 @@
         }
     ],
     "wof:id":404346875,
-    "wof:lastmodified":1582361610,
+    "wof:lastmodified":1684352504,
     "wof:name":"Cari\u00f1ena",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":3355,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

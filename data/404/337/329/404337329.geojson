@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24094",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mansilla de las Mulas",
+    "eurostat:nuts_2021_id":"24094",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24094",
+    "eurostat:population":1743,
+    "eurostat:population_year":2020,
     "geom:area":0.003872,
-    "geom:area_square_m":35302402.024623,
+    "geom:area_square_m":35302402.024626,
     "geom:bbox":"-5.44305917,42.45821443,-5.28225929,42.53173795",
     "geom:latitude":42.499856,
     "geom:longitude":-5.374374,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_24094",
+        "eurostat:nuts_2021_id":"24094"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"2e24c3e5f1e08a3b69468706e76d2024",
+    "wof:geomhash":"9f6a34a54aa0cd5880bab5f327e0c78e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404337329,
-    "wof:lastmodified":1566590058,
+    "wof:lastmodified":1684352351,
     "wof:name":"Mansilla De Las Mulas",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":1743,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

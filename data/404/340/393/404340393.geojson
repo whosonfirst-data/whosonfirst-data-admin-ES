@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_33051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pravia",
+    "eurostat:nuts_2021_id":"33051",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES12",
+    "eurostat:nuts_2021_level_3":"ES120",
+    "eurostat:nuts_2021_level_lau":"33051",
+    "eurostat:population":7984,
+    "eurostat:population_year":2020,
     "geom:area":0.011456,
     "geom:area_square_m":102775380.029726,
     "geom:bbox":"-6.2354625,43.41694021,-6.06473208,43.54713028",
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_33051",
+        "eurostat:nuts_2021_id":"33051",
         "gn:id":6359954,
         "gp:id":12688493,
         "qs_pg:id":1197591
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f9b9a3c2d2b4b589c91c774fcea8916d",
+    "wof:geomhash":"c98feb35ac0a628026ece9d4dcbe9a66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404340393,
-    "wof:lastmodified":1582361659,
+    "wof:lastmodified":1684352407,
     "wof:name":"Pravia",
     "wof:parent_id":85682805,
     "wof:placetype":"localadmin",
+    "wof:population":7984,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_20053",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lezo",
+    "eurostat:nuts_2021_id":"20053",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES212",
+    "eurostat:nuts_2021_level_lau":"20053",
+    "eurostat:population":6103,
+    "eurostat:population_year":2020,
     "geom:area":0.000953,
-    "geom:area_square_m":8576013.171468,
+    "geom:area_square_m":8576013.171469,
     "geom:bbox":"-1.91001278,43.31110552,-1.84942724,43.34375248",
     "geom:latitude":43.327665,
     "geom:longitude":-1.877594,
@@ -48,6 +60,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -56,6 +70,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_20053",
+        "eurostat:nuts_2021_id":"20053",
         "gn:id":6358142,
         "gp:id":12695125,
         "qs_pg:id":279573
@@ -64,7 +80,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f596967f51f1746d460be325507d3be3",
+    "wof:geomhash":"ea004edb26f246b4abcc5935c3a63bb7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,10 +91,12 @@
         }
     ],
     "wof:id":404336201,
-    "wof:lastmodified":1582361475,
+    "wof:lastmodified":1684352334,
     "wof:name":"Lezo",
     "wof:parent_id":85682741,
     "wof:placetype":"localadmin",
+    "wof:population":6103,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

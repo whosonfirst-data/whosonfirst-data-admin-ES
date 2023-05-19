@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37315",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tala, La",
+    "eurostat:nuts_2021_id":"37315",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37315",
+    "eurostat:population":84,
+    "eurostat:population_year":2020,
     "geom:area":0.001311,
-    "geom:area_square_m":12307441.429068,
+    "geom:area_square_m":12307441.429067,
     "geom:bbox":"-5.55118482,40.56961452,-5.50148991,40.61538141",
     "geom:latitude":40.594522,
     "geom:longitude":-5.526703,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37315",
+        "eurostat:nuts_2021_id":"37315",
         "gn:id":6360552,
         "gp:id":12692445,
         "qs_pg:id":621843
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d296fd636142e416c1850396cc3917c6",
+    "wof:geomhash":"3ed2341016837dd125e961c59fcf9994",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404341769,
-    "wof:lastmodified":1582361634,
+    "wof:lastmodified":1684352428,
     "wof:name":"La Tala",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":84,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_21039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hinojales",
+    "eurostat:nuts_2021_id":"21039",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES615",
+    "eurostat:nuts_2021_level_lau":"21039",
+    "eurostat:population":330,
+    "eurostat:population_year":2020,
     "geom:area":0.00274,
-    "geom:area_square_m":26696320.211192,
+    "geom:area_square_m":26696320.211191,
     "geom:bbox":"-6.6234121,37.97204249,-6.50023851,38.02677829",
     "geom:latitude":38.001134,
     "geom:longitude":-6.5723,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_21039",
+        "eurostat:nuts_2021_id":"21039",
         "gn:id":6358215,
         "gp:id":12689053,
         "qs_pg:id":1023701
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"26b91ade849c622c982afb1c2a29283c",
+    "wof:geomhash":"4135bcb4e5fe735b064455c77bdc915f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404336369,
-    "wof:lastmodified":1582361469,
+    "wof:lastmodified":1684352337,
     "wof:name":"Hinojales",
     "wof:parent_id":85682749,
     "wof:placetype":"localadmin",
+    "wof:population":330,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

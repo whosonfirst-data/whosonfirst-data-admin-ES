@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25130,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25130",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mald\u00e0",
+    "eurostat:nuts_2021_id":"25130",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25130",
+    "eurostat:population":227,
+    "eurostat:population_year":2020,
     "geom:area":0.003403,
-    "geom:area_square_m":31495555.526537,
+    "geom:area_square_m":31495457.460858,
     "geom:bbox":"0.978831,41.503161,1.070878,41.558175",
     "geom:latitude":41.531592,
     "geom:longitude":1.023764,
@@ -106,6 +118,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -114,7 +128,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25130",
         "esp-icgc:la_lc":"025130",
+        "eurostat:nuts_2021_id":"25130",
         "gn:id":6358872,
         "gp:id":12694024,
         "qs_pg:id":1149576
@@ -124,7 +140,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"b5539aa1a68ca6a5e2d9ef40878b321d",
+    "wof:geomhash":"2ee9152807d01d41e08eac5351f489eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404337873,
-    "wof:lastmodified":1669903021,
+    "wof:lastmodified":1684352363,
     "wof:name":"Mald\u00e0",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":227,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19038",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arbeteta",
+    "eurostat:nuts_2021_id":"19038",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19038",
+    "eurostat:population":20,
+    "eurostat:population_year":2020,
     "geom:area":0.00671,
     "geom:area_square_m":62926059.979312,
     "geom:bbox":"-2.46206352,40.6285918,-2.32370754,40.72330801",
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19038",
+        "eurostat:nuts_2021_id":"19038",
         "gn:id":6357835,
         "gp:id":12690665,
         "qs_pg:id":1018751
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b5d9c7c07bfc95b59d2d5aee8bec61f8",
+    "wof:geomhash":"e5dc81a453765e716d469bdfc1daea17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404335497,
-    "wof:lastmodified":1582361699,
+    "wof:lastmodified":1684352326,
     "wof:name":"Arbeteta",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":20,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

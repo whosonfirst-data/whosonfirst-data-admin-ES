@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43100,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43100",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pallaresos, Els",
+    "eurostat:nuts_2021_id":"43100",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43100",
+    "eurostat:population":4850,
+    "eurostat:population_year":2020,
     "geom:area":0.000539,
-    "geom:area_square_m":5017999.881128,
+    "geom:area_square_m":5017911.771144,
     "geom:bbox":"1.233411,41.158284,1.279959,41.183007",
     "geom:latitude":41.168284,
     "geom:longitude":1.259992,
@@ -121,6 +133,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -129,7 +143,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43100",
         "esp-icgc:la_lc":"043100",
+        "eurostat:nuts_2021_id":"43100",
         "gn:id":6361342,
         "gp:id":12694236,
         "qs_pg:id":259322
@@ -139,7 +155,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"2d80969cfde8c2b66a4e2ecaca58012a",
+    "wof:geomhash":"95e60ecaaa0584aa04add858a13bc224",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404343615,
-    "wof:lastmodified":1669903068,
+    "wof:lastmodified":1684352458,
     "wof:name":"Els Pallaresos",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":4850,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

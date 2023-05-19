@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46117",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Emperador",
+    "eurostat:nuts_2021_id":"46117",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46117",
+    "eurostat:population":688,
+    "eurostat:population_year":2020,
     "geom:area":0.000003,
     "geom:area_square_m":25793.453893,
     "geom:bbox":"-0.33985151,39.55284121,-0.33768222,39.55501374",
@@ -42,6 +54,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -49,9 +63,12 @@
         404227381
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_46117",
+        "eurostat:nuts_2021_id":"46117"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"4816a376ca47eed454680c34a147d352",
+    "wof:geomhash":"0a890ff21ac0ae35d4f71ba49db36807",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,10 +79,12 @@
         }
     ],
     "wof:id":404345063,
-    "wof:lastmodified":1566591010,
+    "wof:lastmodified":1684352481,
     "wof:name":"Emperador",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":688,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

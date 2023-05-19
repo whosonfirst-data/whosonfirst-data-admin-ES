@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cijuela",
+    "eurostat:nuts_2021_id":"18048",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18048",
+    "eurostat:population":3415,
+    "eurostat:population_year":2020,
     "geom:area":0.001818,
-    "geom:area_square_m":17912511.785684,
+    "geom:area_square_m":17912511.785685,
     "geom:bbox":"-3.86154537,37.14249231,-3.80149263,37.20787924",
     "geom:latitude":37.170095,
     "geom:longitude":-3.826031,
@@ -132,6 +144,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -140,6 +154,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18048",
+        "eurostat:nuts_2021_id":"18048",
         "gn:id":6357680,
         "gp:id":12688893,
         "qs_pg:id":51550
@@ -148,7 +164,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"94caa117e10e4db5f682997686a4467d",
+    "wof:geomhash":"e0e4dd2df3468d86bbb9726aa1f83a91",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,10 +175,12 @@
         }
     ],
     "wof:id":404335147,
-    "wof:lastmodified":1582361712,
+    "wof:lastmodified":1684352321,
     "wof:name":"Cijuela",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":3415,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

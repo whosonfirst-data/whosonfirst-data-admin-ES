@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18045",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castill\u00e9jar",
+    "eurostat:nuts_2021_id":"18045",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18045",
+    "eurostat:population":1321,
+    "eurostat:population_year":2020,
     "geom:area":0.013423,
-    "geom:area_square_m":131263502.312535,
+    "geom:area_square_m":131263502.312538,
     "geom:bbox":"-2.76383703,37.66506857,-2.61365986,37.81513143",
     "geom:latitude":37.735938,
     "geom:longitude":-2.678177,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18045",
+        "eurostat:nuts_2021_id":"18045",
         "gn:id":6357677,
         "gp:id":12688887,
         "qs_pg:id":247907
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3aaa70e0a5dffa28d15bd6b2f701e1ee",
+    "wof:geomhash":"5d4d72cbab03cd80fdfa56acc1798611",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404335139,
-    "wof:lastmodified":1582361705,
+    "wof:lastmodified":1684352321,
     "wof:name":"Castill\u00e9jar",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":1321,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17148,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17148",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Riudarenes",
+    "eurostat:nuts_2021_id":"17148",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17148",
+    "eurostat:population":2204,
+    "eurostat:population_year":2020,
     "geom:area":0.00515,
-    "geom:area_square_m":47458194.977494,
+    "geom:area_square_m":47458183.859983,
     "geom:bbox":"2.608369,41.784029,2.734051,41.851507",
     "geom:latitude":41.821843,
     "geom:longitude":2.671824,
@@ -124,6 +136,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -132,7 +146,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17148",
         "esp-icgc:la_lc":"017148",
+        "eurostat:nuts_2021_id":"17148",
         "gn:id":6534112,
         "gp:id":12693824,
         "qs_pg:id":47491
@@ -142,7 +158,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"9a2f56ec83269570f25f998855d73acd",
+    "wof:geomhash":"9a5bf1423d44f5c112452360a128c1b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,10 +169,12 @@
         }
     ],
     "wof:id":404334863,
-    "wof:lastmodified":1669903053,
+    "wof:lastmodified":1684352313,
     "wof:name":"Riudarenes",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":2204,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

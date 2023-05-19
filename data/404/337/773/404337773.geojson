@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25074,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25074",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ciutadilla",
+    "eurostat:nuts_2021_id":"25074",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25074",
+    "eurostat:population":208,
+    "eurostat:population_year":2020,
     "geom:area":0.001777,
-    "geom:area_square_m":16448254.028208,
+    "geom:area_square_m":16448254.028206,
     "geom:bbox":"1.1247360923,41.5146269264,1.16894087612,41.574230515",
     "geom:latitude":41.543029,
     "geom:longitude":1.14541,
@@ -109,6 +121,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -117,7 +131,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25074",
         "esp-icgc:la_lc":"025074",
+        "eurostat:nuts_2021_id":"25074",
         "gn:id":6358828,
         "gp:id":12693973,
         "qs_pg:id":1003882
@@ -127,7 +143,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0469fc008a6f720d5f36b2d75f72c1f2",
+    "wof:geomhash":"cf08215146612d9e39e6ce1741b35d1f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404337773,
-    "wof:lastmodified":1582361576,
+    "wof:lastmodified":1684352359,
     "wof:name":"Ciutadilla",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":208,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

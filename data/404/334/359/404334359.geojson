@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16171",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Provencio, El",
+    "eurostat:nuts_2021_id":"16171",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16171",
+    "eurostat:population":2432,
+    "eurostat:population_year":2020,
     "geom:area":0.010574,
-    "geom:area_square_m":101067017.874912,
+    "geom:area_square_m":101067017.874913,
     "geom:bbox":"-2.63983443,39.32345536,-2.51104578,39.45439812",
     "geom:latitude":39.380122,
     "geom:longitude":-2.570551,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16171",
+        "eurostat:nuts_2021_id":"16171",
         "gn:id":2518224,
         "gp:id":12690552,
         "qs_pg:id":1310844
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"062857bd123840c7e3b9a1805a4a79bd",
+    "wof:geomhash":"b01a0bae57ff3028a2a613c1e75800ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404334359,
-    "wof:lastmodified":1582361736,
+    "wof:lastmodified":1684352296,
     "wof:name":"El Provencio",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":2432,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

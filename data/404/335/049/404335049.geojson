@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17902,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17902",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Forallac",
+    "eurostat:nuts_2021_id":"17902",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17902",
+    "eurostat:population":1695,
+    "eurostat:population_year":2020,
     "geom:area":0.005452,
-    "geom:area_square_m":50145663.427173,
+    "geom:area_square_m":50145663.427172,
     "geom:bbox":"3.04384809585,41.8886738977,3.12715377037,41.9918282613",
     "geom:latitude":41.938931,
     "geom:longitude":3.085592,
@@ -118,6 +130,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -126,7 +140,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17902",
         "esp-icgc:la_lc":"017902",
+        "eurostat:nuts_2021_id":"17902",
         "gp:id":12693753,
         "qs_pg:id":1308285
     },
@@ -135,7 +151,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"61ff9825b7b08642e8b203e3faa4dfc2",
+    "wof:geomhash":"c9baacb913cd052b860fd07745a534c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404335049,
-    "wof:lastmodified":1582361698,
+    "wof:lastmodified":1684352319,
     "wof:name":"Forallac",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":1695,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

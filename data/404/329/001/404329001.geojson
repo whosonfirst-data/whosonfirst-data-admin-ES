@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_01041",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Navaridas",
+    "eurostat:nuts_2021_id":"01041",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES211",
+    "eurostat:nuts_2021_level_lau":"01041",
+    "eurostat:population":194,
+    "eurostat:population_year":2020,
     "geom:area":0.000977,
     "geom:area_square_m":8902494.791718,
     "geom:bbox":"-2.65132367,42.52069576,-2.61076373,42.55539099",
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_01041",
+        "eurostat:nuts_2021_id":"01041",
         "gn:id":6355272,
         "gp:id":12695047,
         "qs_pg:id":961875
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1c8fe46d805cc548c724bb0ae4546c20",
+    "wof:geomhash":"7db371e26f9bd991e29c86a610166543",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404329001,
-    "wof:lastmodified":1582361793,
+    "wof:lastmodified":1684352203,
     "wof:name":"Navaridas",
     "wof:parent_id":85682615,
     "wof:placetype":"localadmin",
+    "wof:population":194,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

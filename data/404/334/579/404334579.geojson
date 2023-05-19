@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17011,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Armentera, L'",
+    "eurostat:nuts_2021_id":"17011",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17011",
+    "eurostat:population":951,
+    "eurostat:population_year":2020,
     "geom:area":0.000637,
-    "geom:area_square_m":5841299.035274,
+    "geom:area_square_m":5841292.232323,
     "geom:bbox":"3.063059,42.149307,3.111348,42.18211",
     "geom:latitude":42.165968,
     "geom:longitude":3.085013,
@@ -136,6 +148,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -144,7 +158,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17011",
         "esp-icgc:la_lc":"017011",
+        "eurostat:nuts_2021_id":"17011",
         "gn:id":6534010,
         "gp:id":12693695,
         "qs_pg:id":1164949
@@ -154,7 +170,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"cad9c8c4fba349bd4c5f652b95089afd",
+    "wof:geomhash":"97cb49821fb11d0d59545a68ef4a642b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -165,10 +181,12 @@
         }
     ],
     "wof:id":404334579,
-    "wof:lastmodified":1669903055,
+    "wof:lastmodified":1684352299,
     "wof:name":"L'Armentera",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":951,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

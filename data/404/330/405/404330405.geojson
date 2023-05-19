@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Burguillos del Cerro",
+    "eurostat:nuts_2021_id":"06022",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06022",
+    "eurostat:population":3066,
+    "eurostat:population_year":2020,
     "geom:area":0.019336,
-    "geom:area_square_m":187414799.404575,
+    "geom:area_square_m":187414799.404588,
     "geom:bbox":"-6.67370832,38.29833546,-6.4910149,38.45931806",
     "geom:latitude":38.385668,
     "geom:longitude":-6.589113,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06022",
+        "eurostat:nuts_2021_id":"06022",
         "gn:id":6355887,
         "gp:id":12694341,
         "qs_pg:id":220899
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"79fa4d02fb54f74accdb1662942df806",
+    "wof:geomhash":"eed4ce3e698e59e7ae82359451a3b785",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330405,
-    "wof:lastmodified":1582361538,
+    "wof:lastmodified":1684352223,
     "wof:name":"Burguillos Del Cerro",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":3066,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

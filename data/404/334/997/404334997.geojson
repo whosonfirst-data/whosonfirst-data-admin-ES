@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17210,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17210",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ventall\u00f3",
+    "eurostat:nuts_2021_id":"17210",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17210",
+    "eurostat:population":846,
+    "eurostat:population_year":2020,
     "geom:area":0.002727,
-    "geom:area_square_m":24995875.702252,
+    "geom:area_square_m":24995875.702251,
     "geom:bbox":"2.99682039409,42.1214314676,3.09583162551,42.1792527712",
     "geom:latitude":42.151355,
     "geom:longitude":3.041695,
@@ -127,6 +139,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -135,7 +149,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17210",
         "esp-icgc:la_lc":"017210",
+        "eurostat:nuts_2021_id":"17210",
         "gn:id":6534161,
         "gp:id":12693886,
         "qs_pg:id":1149554
@@ -145,7 +161,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6b82c3f7528adf64a31c9b7dd1c64544",
+    "wof:geomhash":"29d3410f6a3e795ccb4b04d153d45e55",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404334997,
-    "wof:lastmodified":1582361719,
+    "wof:lastmodified":1684352318,
     "wof:name":"Ventall\u00f3",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":846,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

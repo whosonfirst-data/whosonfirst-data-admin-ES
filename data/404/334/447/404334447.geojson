@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16227",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valdemoro-Sierra",
+    "eurostat:nuts_2021_id":"16227",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16227",
+    "eurostat:population":108,
+    "eurostat:population_year":2020,
     "geom:area":0.01139,
-    "geom:area_square_m":107682935.210543,
+    "geom:area_square_m":107682935.210542,
     "geom:bbox":"-1.83419384,40.06563078,-1.71383023,40.22826652",
     "geom:latitude":40.129388,
     "geom:longitude":-1.77845,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16227",
+        "eurostat:nuts_2021_id":"16227",
         "gn:id":6357547,
         "gp:id":12690593,
         "qs_pg:id":954205
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cea9035315ed5102f8ddb32ec3d80ee0",
+    "wof:geomhash":"5558230b4075606dd56b592693712b66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404334447,
-    "wof:lastmodified":1582361720,
+    "wof:lastmodified":1684352297,
     "wof:name":"Valdemoro-Sierra",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":108,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

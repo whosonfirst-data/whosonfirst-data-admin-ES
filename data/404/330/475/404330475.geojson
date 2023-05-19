@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06053",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fuente del Arco",
+    "eurostat:nuts_2021_id":"06053",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06053",
+    "eurostat:population":681,
+    "eurostat:population_year":2020,
     "geom:area":0.01185,
-    "geom:area_square_m":115295115.017682,
+    "geom:area_square_m":115295115.017685,
     "geom:bbox":"-6.05214591,37.9953458,-5.85152329,38.19524759",
     "geom:latitude":38.105982,
     "geom:longitude":-5.941739,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06053",
+        "eurostat:nuts_2021_id":"06053",
         "gn:id":6355918,
         "gp:id":12694372,
         "qs_pg:id":270735
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c8f973f1128d8bebdfb67ae7149e1e52",
+    "wof:geomhash":"324ab7593c4deef8d869da04f93d5a9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330475,
-    "wof:lastmodified":1582361536,
+    "wof:lastmodified":1684352224,
     "wof:name":"Fuente Del Arco",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":681,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

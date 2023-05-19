@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_30027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Molina de Segura",
+    "eurostat:nuts_2021_id":"30027",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES62",
+    "eurostat:nuts_2021_level_3":"ES620",
+    "eurostat:nuts_2021_level_lau":"30027",
+    "eurostat:population":73095,
+    "eurostat:population_year":2020,
     "geom:area":0.017415,
-    "geom:area_square_m":169403478.775378,
+    "geom:area_square_m":169403478.775379,
     "geom:bbox":"-1.27355743,38.00194025,-1.13149927,38.27168169",
     "geom:latitude":38.122744,
     "geom:longitude":-1.199334,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_30027",
+        "eurostat:nuts_2021_id":"30027",
         "gn:id":6359532,
         "gp:id":12688152,
         "qs_pg:id":1146020
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3ccf5d8d33d3adc69c9b14af5b6ed429",
+    "wof:geomhash":"a6fa897b0bcf91bdc10bb78ae608eab3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404339379,
-    "wof:lastmodified":1582361587,
+    "wof:lastmodified":1684352393,
     "wof:name":"Molina De Segura",
     "wof:parent_id":85682791,
     "wof:placetype":"localadmin",
+    "wof:population":73095,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

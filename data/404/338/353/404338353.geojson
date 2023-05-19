@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_26098",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Munilla",
+    "eurostat:nuts_2021_id":"26098",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES23",
+    "eurostat:nuts_2021_level_3":"ES230",
+    "eurostat:nuts_2021_level_lau":"26098",
+    "eurostat:population":102,
+    "eurostat:population_year":2020,
     "geom:area":0.005907,
     "geom:area_square_m":54104559.818091,
     "geom:bbox":"-2.40193423,42.13695047,-2.25515196,42.24878126",
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_26098",
+        "eurostat:nuts_2021_id":"26098",
         "gn:id":6359085,
         "gp:id":12687866,
         "qs_pg:id":959038
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c485b189987ffefd83ea286149830e5c",
+    "wof:geomhash":"7c9a8a1f6b9368c5d48fd526c52d415e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404338353,
-    "wof:lastmodified":1582361430,
+    "wof:lastmodified":1684352375,
     "wof:name":"Munilla",
     "wof:parent_id":85682773,
     "wof:placetype":"localadmin",
+    "wof:population":102,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

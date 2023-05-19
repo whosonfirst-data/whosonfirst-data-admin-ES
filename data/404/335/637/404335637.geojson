@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19113",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Espinosa de Henares",
+    "eurostat:nuts_2021_id":"19113",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19113",
+    "eurostat:population":629,
+    "eurostat:population_year":2020,
     "geom:area":0.004212,
-    "geom:area_square_m":39370144.841356,
+    "geom:area_square_m":39370144.841354,
     "geom:bbox":"-3.11861057,40.84894779,-2.98304784,40.93364735",
     "geom:latitude":40.898617,
     "geom:longitude":-3.046085,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19113",
+        "eurostat:nuts_2021_id":"19113",
         "gn:id":6357896,
         "gp:id":12690726,
         "qs_pg:id":78588
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dbbe3e693b4ad9c8fa8e666458522693",
+    "wof:geomhash":"c7e3427d131ba2db75a0726e51e413af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404335637,
-    "wof:lastmodified":1582361709,
+    "wof:lastmodified":1684352328,
     "wof:name":"Espinosa De Henares",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":629,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ardisa",
+    "eurostat:nuts_2021_id":"50033",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50033",
+    "eurostat:population":74,
+    "eurostat:population_year":2020,
     "geom:area":0.002974,
     "geom:area_square_m":27241452.076943,
     "geom:bbox":"-0.82246255,42.156225,-0.7504724,42.23134013",
@@ -99,6 +111,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -106,9 +120,12 @@
         404227363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_50033",
+        "eurostat:nuts_2021_id":"50033"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"e4a9e6cebb0b579bee678ec343cb3f1a",
+    "wof:geomhash":"cd921af981eb746eeb9200de3a05e12d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +136,12 @@
         }
     ],
     "wof:id":404346787,
-    "wof:lastmodified":1566590283,
+    "wof:lastmodified":1684352503,
     "wof:name":"Ardisa",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":74,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

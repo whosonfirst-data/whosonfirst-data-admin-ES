@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46252",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vallanca",
+    "eurostat:nuts_2021_id":"46252",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46252",
+    "eurostat:population":133,
+    "eurostat:population_year":2020,
     "geom:area":0.005975,
-    "geom:area_square_m":56552398.193258,
+    "geom:area_square_m":56552398.193256,
     "geom:bbox":"-1.42028559,40.01046846,-1.30799469,40.10140367",
     "geom:latitude":40.054465,
     "geom:longitude":-1.354934,
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46252",
+        "eurostat:nuts_2021_id":"46252",
         "gn:id":6362117,
         "gp:id":12695791,
         "qs_pg:id":1149708
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8cf14577a22dc0f3958be47cafb4dff0",
+    "wof:geomhash":"8e5dfa283c860c10669d45adf8b90f09",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404345365,
-    "wof:lastmodified":1582361825,
+    "wof:lastmodified":1684352485,
     "wof:name":"Vallanca",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":133,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

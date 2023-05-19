@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8139,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08139",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mura",
+    "eurostat:nuts_2021_id":"08139",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08139",
+    "eurostat:population":220,
+    "eurostat:population_year":2020,
     "geom:area":0.005181,
-    "geom:area_square_m":47844455.14604,
+    "geom:area_square_m":47844455.146038,
     "geom:bbox":"1.91377862756,41.6441866124,2.02240621295,41.7302891396",
     "geom:latitude":41.683652,
     "geom:longitude":1.975076,
@@ -118,6 +130,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -126,7 +140,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08139",
         "esp-icgc:la_lc":"08139",
+        "eurostat:nuts_2021_id":"08139",
         "gn:id":6356168,
         "gp:id":12693519,
         "qs_pg:id":1209011
@@ -136,7 +152,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d199a68a1c4143b8ed119dd7f75428c4",
+    "wof:geomhash":"ed8e89f6cd06e6434f352c4c8dc9e039",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404331191,
-    "wof:lastmodified":1582361499,
+    "wof:lastmodified":1684352244,
     "wof:name":"Mura",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":220,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

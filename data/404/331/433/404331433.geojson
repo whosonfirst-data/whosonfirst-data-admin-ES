@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8249,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08249",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Fe del Pened\u00e8s",
+    "eurostat:nuts_2021_id":"08249",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08249",
+    "eurostat:population":367,
+    "eurostat:population_year":2020,
     "geom:area":0.000364,
-    "geom:area_square_m":3373372.662976,
+    "geom:area_square_m":3373380.80806,
     "geom:bbox":"1.701113,41.379715,1.742942,41.395892",
     "geom:latitude":41.388461,
     "geom:longitude":1.720149,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08249",
         "esp-icgc:la_lc":"08249",
+        "eurostat:nuts_2021_id":"08249",
         "gn:id":6356270,
         "gp:id":12693629,
         "qs_pg:id":191257
@@ -67,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"015cd6b671768616465390e1cb0a7c02",
+    "wof:geomhash":"7faa8c3afa2ffc7e267a7fe94e0ddd43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404331433,
-    "wof:lastmodified":1669903011,
+    "wof:lastmodified":1684352251,
     "wof:name":"Santa Fe del Pened\u00e8s",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":367,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

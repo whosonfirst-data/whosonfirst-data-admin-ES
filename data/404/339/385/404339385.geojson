@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_30030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Murcia",
+    "eurostat:nuts_2021_id":"30030",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES62",
+    "eurostat:nuts_2021_level_3":"ES620",
+    "eurostat:nuts_2021_level_lau":"30030",
+    "eurostat:population":459403,
+    "eurostat:population_year":2020,
     "geom:area":0.090781,
-    "geom:area_square_m":885503746.488781,
+    "geom:area_square_m":885503746.488788,
     "geom:bbox":"-1.38483351,37.71601131,-0.85088987,38.11791848",
     "geom:latitude":37.921603,
     "geom:longitude":-1.107225,
@@ -282,6 +294,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -290,6 +304,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_30030",
+        "eurostat:nuts_2021_id":"30030",
         "gn:id":6362997,
         "gp:id":12688155,
         "qs_pg:id":44556
@@ -298,7 +314,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5d99a6e34fb7344f8d0828d957824536",
+    "wof:geomhash":"9d20d7ae69ee5391339d0c98a2c308c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -309,10 +325,12 @@
         }
     ],
     "wof:id":404339385,
-    "wof:lastmodified":1582361588,
+    "wof:lastmodified":1684352394,
     "wof:name":"Murcia",
     "wof:parent_id":85682791,
     "wof:placetype":"localadmin",
+    "wof:population":459403,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

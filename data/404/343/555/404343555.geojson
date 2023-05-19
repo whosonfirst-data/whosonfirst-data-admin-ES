@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43072,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43072",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lloar, El",
+    "eurostat:nuts_2021_id":"43072",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43072",
+    "eurostat:population":105,
+    "eurostat:population_year":2020,
     "geom:area":0.000715,
-    "geom:area_square_m":6657445.893128,
+    "geom:area_square_m":6657419.116997,
     "geom:bbox":"0.712543,41.172456,0.761255,41.212826",
     "geom:latitude":41.192296,
     "geom:longitude":0.740525,
@@ -118,6 +130,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -126,7 +140,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43072",
         "esp-icgc:la_lc":"043072",
+        "eurostat:nuts_2021_id":"43072",
         "gn:id":6361315,
         "gp:id":12694210,
         "qs_pg:id":47729
@@ -136,7 +152,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"ca59688286b5dd409ea45b49003c926d",
+    "wof:geomhash":"f8d40076d4cd12253c9ecebf8a04c47d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404343555,
-    "wof:lastmodified":1669903065,
+    "wof:lastmodified":1684352456,
     "wof:name":"El Lloar",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":105,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_02055",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nerpio",
+    "eurostat:nuts_2021_id":"02055",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES421",
+    "eurostat:nuts_2021_level_lau":"02055",
+    "eurostat:population":1178,
+    "eurostat:population_year":2020,
     "geom:area":0.044788,
-    "geom:area_square_m":435552068.585035,
+    "geom:area_square_m":435552068.585034,
     "geom:bbox":"-2.55129637,38.02244023,-2.21351187,38.27463586",
     "geom:latitude":38.143504,
     "geom:longitude":-2.359933,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_02055",
+        "eurostat:nuts_2021_id":"02055",
         "gn:id":6355346,
         "gp:id":12690266,
         "qs_pg:id":1188287
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cc32fff36568c4bb858b44049bbf68a2",
+    "wof:geomhash":"da4f0b9ea4ecae2374df3adb3bf87c10",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404329177,
-    "wof:lastmodified":1582361803,
+    "wof:lastmodified":1684352205,
     "wof:name":"Nerpio",
     "wof:parent_id":85682621,
     "wof:placetype":"localadmin",
+    "wof:population":1178,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

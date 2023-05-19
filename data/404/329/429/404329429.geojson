@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03079",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ibi",
+    "eurostat:nuts_2021_id":"03079",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03079",
+    "eurostat:population":23564,
+    "eurostat:population_year":2020,
     "geom:area":0.006468,
     "geom:area_square_m":62483148.213588,
     "geom:bbox":"-0.61964791,38.58975595,-0.49561495,38.65927384",
@@ -54,6 +66,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -62,6 +76,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03079",
+        "eurostat:nuts_2021_id":"03079",
         "gn:id":6355455,
         "gp:id":12695343,
         "qs_pg:id":1293634
@@ -70,7 +86,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6ea65d12e61187d5ae855bbaf949c6c9",
+    "wof:geomhash":"5f9db6b05dbdbc7d2003367575d0f4cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +97,12 @@
         }
     ],
     "wof:id":404329429,
-    "wof:lastmodified":1582361799,
+    "wof:lastmodified":1684352209,
     "wof:name":"Ibi",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":23564,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

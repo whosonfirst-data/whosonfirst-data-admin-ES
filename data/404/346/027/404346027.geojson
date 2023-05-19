@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48055",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lemoa",
+    "eurostat:nuts_2021_id":"48055",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48055",
+    "eurostat:population":3504,
+    "eurostat:population_year":2020,
     "geom:area":0.001707,
-    "geom:area_square_m":15388820.65278,
+    "geom:area_square_m":15388820.652779,
     "geom:bbox":"-2.79995436,43.18207172,-2.73681302,43.2304648",
     "geom:latitude":43.204428,
     "geom:longitude":-2.770602,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_48055",
+        "eurostat:nuts_2021_id":"48055",
         "gn:id":3118550,
         "gp:id":12695222,
         "qs_pg:id":1013932
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e144e01a59e4d32a8726ada790800293",
+    "wof:geomhash":"e608f6499f08425e5315299391a43e3f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404346027,
-    "wof:lastmodified":1582361616,
+    "wof:lastmodified":1684352493,
     "wof:name":"Lemoa",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":3504,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

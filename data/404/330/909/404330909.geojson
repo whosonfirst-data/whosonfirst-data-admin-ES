@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8014,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aiguafreda",
+    "eurostat:nuts_2021_id":"08014",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08014",
+    "eurostat:population":2512,
+    "eurostat:population_year":2020,
     "geom:area":0.00086,
-    "geom:area_square_m":7927998.473173,
+    "geom:area_square_m":7927998.473172,
     "geom:bbox":"2.24520449464,41.7628619108,2.28929594891,41.80427011",
     "geom:latitude":41.781367,
     "geom:longitude":2.264474,
@@ -127,6 +139,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -135,7 +149,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08014",
         "esp-icgc:la_lc":"08014",
+        "eurostat:nuts_2021_id":"08014",
         "gn:id":6356050,
         "gp:id":12693378,
         "qs_pg:id":1149528
@@ -145,7 +161,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"dd313d8fb7e9025052e7fcc46c87634a",
+    "wof:geomhash":"5b0168548ffbd30b0f6cc4a11e4322ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404330909,
-    "wof:lastmodified":1582361517,
+    "wof:lastmodified":1684352235,
     "wof:name":"Aiguafreda",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":2512,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

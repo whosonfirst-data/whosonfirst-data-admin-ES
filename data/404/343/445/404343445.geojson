@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43023,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bellmunt del Priorat",
+    "eurostat:nuts_2021_id":"43023",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43023",
+    "eurostat:population":273,
+    "eurostat:population_year":2020,
     "geom:area":0.000954,
-    "geom:area_square_m":8878712.438692,
+    "geom:area_square_m":8878785.649663,
     "geom:bbox":"0.734148,41.142284,0.784719,41.172618",
     "geom:latitude":41.159024,
     "geom:longitude":0.7595,
@@ -48,6 +60,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -56,13 +70,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"043023"
+        "eg:gisco_id":"ES_43023",
+        "esp-icgc:la_lc":"043023",
+        "eurostat:nuts_2021_id":"43023"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7ef8ae76c3122ae6e6376ba18650acde",
+    "wof:geomhash":"608dff7bd83fea9f31e08423bb685a69",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,10 +89,12 @@
         }
     ],
     "wof:id":404343445,
-    "wof:lastmodified":1669903068,
+    "wof:lastmodified":1684352453,
     "wof:name":"Bellmunt del Priorat",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":273,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15068",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ponteceso",
+    "eurostat:nuts_2021_id":"15068",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15068",
+    "eurostat:population":5497,
+    "eurostat:population_year":2020,
     "geom:area":0.010244,
-    "geom:area_square_m":92245167.28299,
+    "geom:area_square_m":92245167.283,
     "geom:bbox":"-8.99134839,43.21757364,-8.76046739,43.30676538",
     "geom:latitude":43.261137,
     "geom:longitude":-8.878476,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_15068",
+        "eurostat:nuts_2021_id":"15068",
         "gn:id":6357336,
         "gp:id":12694770,
         "qs_pg:id":1110031
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d955282236e1c304d99fe4d028d17a6e",
+    "wof:geomhash":"8ad553806f9022d6e365c576753be602",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404333961,
-    "wof:lastmodified":1582361773,
+    "wof:lastmodified":1684352290,
     "wof:name":"Ponteceso",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":5497,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10140",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Peraleda de la Mata",
+    "eurostat:nuts_2021_id":"10140",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10140",
+    "eurostat:population":1393,
+    "eurostat:population_year":2020,
     "geom:area":0.009691,
-    "geom:area_square_m":91974476.112098,
+    "geom:area_square_m":91974476.112095,
     "geom:bbox":"-5.52609541,39.80031322,-5.40107792,39.94319783",
     "geom:latitude":39.867896,
     "geom:longitude":-5.459722,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10140",
+        "eurostat:nuts_2021_id":"10140",
         "gn:id":6356835,
         "gp:id":12694621,
         "qs_pg:id":1163728
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cb1d51b4e3cedafab622957fbf34fb7e",
+    "wof:geomhash":"e24f378a8aa716d55abeb36150a350f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332823,
-    "wof:lastmodified":1582361687,
+    "wof:lastmodified":1684352269,
     "wof:name":"Peraleda De La Mata",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":1393,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

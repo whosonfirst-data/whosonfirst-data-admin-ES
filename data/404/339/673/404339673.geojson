@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ezcabarte",
+    "eurostat:nuts_2021_id":"31101",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31101",
+    "eurostat:population":1811,
+    "eurostat:population_year":2020,
     "geom:area":0.003763,
-    "geom:area_square_m":34103137.91921,
+    "geom:area_square_m":34103137.919211,
     "geom:bbox":"-1.68048985,42.83591525,-1.58497689,42.90896563",
     "geom:latitude":42.869337,
     "geom:longitude":-1.634099,
@@ -93,6 +105,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -100,9 +114,12 @@
         404227391
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_31101",
+        "eurostat:nuts_2021_id":"31101"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"f3bc21fd2ed3b440af494fd933e1a5b5",
+    "wof:geomhash":"be81cc40167a60c974ee91b489d7afeb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,10 +130,12 @@
         }
     ],
     "wof:id":404339673,
-    "wof:lastmodified":1566590087,
+    "wof:lastmodified":1684352397,
     "wof:name":"Ezcabarte",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":1811,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

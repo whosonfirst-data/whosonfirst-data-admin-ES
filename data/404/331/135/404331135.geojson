@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8114,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08114",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Martorell",
+    "eurostat:nuts_2021_id":"08114",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08114",
+    "eurostat:population":28772,
+    "eurostat:population_year":2020,
     "geom:area":0.001377,
-    "geom:area_square_m":12757609.687407,
+    "geom:area_square_m":12757609.687405,
     "geom:bbox":"1.88990395154,41.4541839671,1.95366063042,41.50321518",
     "geom:latitude":41.479002,
     "geom:longitude":1.917496,
@@ -150,6 +162,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -158,13 +172,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"08114"
+        "eg:gisco_id":"ES_08114",
+        "esp-icgc:la_lc":"08114",
+        "eurostat:nuts_2021_id":"08114"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"782d46aa4a5d2647d8bef9a24a0262cf",
+    "wof:geomhash":"4ff6462c2661f42a4fca29fd7ab22d7a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -175,10 +191,12 @@
         }
     ],
     "wof:id":404331135,
-    "wof:lastmodified":1582361480,
+    "wof:lastmodified":1684352242,
     "wof:name":"Martorell",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":28772,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

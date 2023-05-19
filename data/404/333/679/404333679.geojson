@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_14018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carpio, El",
+    "eurostat:nuts_2021_id":"14018",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES613",
+    "eurostat:nuts_2021_level_lau":"14018",
+    "eurostat:population":4363,
+    "eurostat:population_year":2020,
     "geom:area":0.004784,
-    "geom:area_square_m":46659991.741596,
+    "geom:area_square_m":46659991.741594,
     "geom:bbox":"-4.52614101,37.89341144,-4.44208719,37.98957764",
     "geom:latitude":37.933532,
     "geom:longitude":-4.490199,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_14018",
+        "eurostat:nuts_2021_id":"14018",
         "gn:id":6357213,
         "gp:id":12688789,
         "qs_pg:id":249597
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"48c34b3fccfdd306e9d785154b34f6b3",
+    "wof:geomhash":"aea90beb2550549ddb2b66e67db7ff13",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404333679,
-    "wof:lastmodified":1582361778,
+    "wof:lastmodified":1684352282,
     "wof:name":"El Carpio",
     "wof:parent_id":85682697,
     "wof:placetype":"localadmin",
+    "wof:population":4363,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06123",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Vicente de Alc\u00e1ntara",
+    "eurostat:nuts_2021_id":"06123",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06123",
+    "eurostat:population":5377,
+    "eurostat:population_year":2020,
     "geom:area":0.028763,
-    "geom:area_square_m":275076760.361518,
+    "geom:area_square_m":275076760.361531,
     "geom:bbox":"-7.2038584,39.23916256,-6.87348489,39.43667275",
     "geom:latitude":39.338215,
     "geom:longitude":-7.029406,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06123",
+        "eurostat:nuts_2021_id":"06123",
         "gn:id":6355988,
         "gp:id":12694438,
         "qs_pg:id":289939
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1b757ef2041e83f8322a8de35c2edb6c",
+    "wof:geomhash":"983d88e91ecc96da32a07dc4b9de96ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330633,
-    "wof:lastmodified":1582361525,
+    "wof:lastmodified":1684352227,
     "wof:name":"San Vicente De Alc\u00e1ntara",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":5377,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

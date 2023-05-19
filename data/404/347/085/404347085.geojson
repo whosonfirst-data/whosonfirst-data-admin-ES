@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50172",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monreal de Ariza",
+    "eurostat:nuts_2021_id":"50172",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50172",
+    "eurostat:population":189,
+    "eurostat:population_year":2020,
     "geom:area":0.006671,
-    "geom:area_square_m":61980662.437245,
+    "geom:area_square_m":61980662.437243,
     "geom:bbox":"-2.17367127,41.23406173,-2.05746027,41.34867345",
     "geom:latitude":41.287605,
     "geom:longitude":-2.116027,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50172",
+        "eurostat:nuts_2021_id":"50172",
         "gn:id":6362859,
         "gp:id":12689999,
         "qs_pg:id":1146872
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"85921bcf6fe6e374ef229fd6ea4deff3",
+    "wof:geomhash":"30bef2d8bc86f4716b0fbbd8e5829c0e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404347085,
-    "wof:lastmodified":1582361670,
+    "wof:lastmodified":1684352507,
     "wof:name":"Monreal De Ariza",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":189,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06160",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zalamea de la Serena",
+    "eurostat:nuts_2021_id":"06160",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06160",
+    "eurostat:population":3545,
+    "eurostat:population_year":2020,
     "geom:area":0.025416,
-    "geom:area_square_m":245538982.456256,
+    "geom:area_square_m":245538982.456246,
     "geom:bbox":"-5.85008698,38.51628615,-5.52609379,38.73087187",
     "geom:latitude":38.620653,
     "geom:longitude":-5.673996,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06160",
+        "eurostat:nuts_2021_id":"06160",
         "gn:id":6356025,
         "gp:id":12694480,
         "qs_pg:id":201863
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"55dca7fe86c01f225e6e3b96e5537173",
+    "wof:geomhash":"da3ca40a93506dd4e56dc2ffd4dabca9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330717,
-    "wof:lastmodified":1582361543,
+    "wof:lastmodified":1684352228,
     "wof:name":"Zalamea De La Serena",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":3545,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

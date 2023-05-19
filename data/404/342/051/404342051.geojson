@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_39006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arnuero",
+    "eurostat:nuts_2021_id":"39006",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES13",
+    "eurostat:nuts_2021_level_3":"ES130",
+    "eurostat:nuts_2021_level_lau":"39006",
+    "eurostat:population":2106,
+    "eurostat:population_year":2020,
     "geom:area":0.002747,
     "geom:area_square_m":24647264.019815,
     "geom:bbox":"-3.59466634,43.43882031,-3.51411389,43.50980049",
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_39006",
+        "eurostat:nuts_2021_id":"39006",
         "gn:id":6360653,
         "gp:id":12688527,
         "qs_pg:id":1197612
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b16e23f9151ca934f285405fd37661ff",
+    "wof:geomhash":"8fda876cbcf123d7c3cf38d9624f5dc3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404342051,
-    "wof:lastmodified":1582361822,
+    "wof:lastmodified":1684352435,
     "wof:name":"Arnuero",
     "wof:parent_id":85682833,
     "wof:placetype":"localadmin",
+    "wof:population":2106,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

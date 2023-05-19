@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22225",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tamarite de Litera",
+    "eurostat:nuts_2021_id":"22225",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22225",
+    "eurostat:population":3487,
+    "eurostat:population_year":2020,
     "geom:area":0.011982,
     "geom:area_square_m":110421938.623992,
     "geom:bbox":"0.31755112,41.70253513,0.46143764,41.8923177",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22225",
+        "eurostat:nuts_2021_id":"22225",
         "gn:id":6358422,
         "gp:id":12689571,
         "qs_pg:id":1025298
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e30db9e9e182dab45ed0432114a49a20",
+    "wof:geomhash":"1e60b94cdb6183e61a57f06b53cf869b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404336839,
-    "wof:lastmodified":1582361475,
+    "wof:lastmodified":1684352344,
     "wof:name":"Tamarite De Litera",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":3487,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8232,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08232",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Pere de Riudebitlles",
+    "eurostat:nuts_2021_id":"08232",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08232",
+    "eurostat:population":2380,
+    "eurostat:population_year":2020,
     "geom:area":0.000577,
-    "geom:area_square_m":5348036.461137,
+    "geom:area_square_m":5348014.275817,
     "geom:bbox":"1.676806,41.444623,1.712232,41.47423",
     "geom:latitude":41.458492,
     "geom:longitude":1.697434,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08232",
         "esp-icgc:la_lc":"08232",
+        "eurostat:nuts_2021_id":"08232",
         "gn:id":6356254,
         "gp:id":12693607,
         "qs_pg:id":201803
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"222383d732fd7eabb4e2b6998d6897a4",
+    "wof:geomhash":"8de829ee041fedfe33f7e5b6ff142704",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404331395,
-    "wof:lastmodified":1669903006,
+    "wof:lastmodified":1684352250,
     "wof:name":"Sant Pere de Riudebitlles",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":2380,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

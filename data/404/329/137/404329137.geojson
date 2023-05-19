@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_02037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hell\u00edn",
+    "eurostat:nuts_2021_id":"02037",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES421",
+    "eurostat:nuts_2021_level_lau":"02037",
+    "eurostat:population":30200,
+    "eurostat:population_year":2020,
     "geom:area":0.08063,
-    "geom:area_square_m":780676867.327702,
+    "geom:area_square_m":780676867.327699,
     "geom:bbox":"-1.87624773,38.30873727,-1.47488583,38.68929461",
     "geom:latitude":38.462119,
     "geom:longitude":-1.673362,
@@ -129,6 +141,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -137,6 +151,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_02037",
+        "eurostat:nuts_2021_id":"02037",
         "gn:id":2516798,
         "gp:id":12690248,
         "qs_pg:id":1311011
@@ -145,7 +161,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cce3fb947ad9acc38c80ffe5cfa04bbd",
+    "wof:geomhash":"9ac75decdd4992f802162be5d9c412ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404329137,
-    "wof:lastmodified":1582361797,
+    "wof:lastmodified":1684352205,
     "wof:name":"Hell\u00edn",
     "wof:parent_id":85682621,
     "wof:placetype":"localadmin",
+    "wof:population":30200,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

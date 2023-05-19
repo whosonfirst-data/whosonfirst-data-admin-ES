@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50180",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mozota",
+    "eurostat:nuts_2021_id":"50180",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50180",
+    "eurostat:population":120,
+    "eurostat:population_year":2020,
     "geom:area":0.000936,
     "geom:area_square_m":8669992.024769,
     "geom:bbox":"-1.07822082,41.456719,-1.03249276,41.49909382",
@@ -99,6 +111,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -106,9 +120,12 @@
         404227363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_50180",
+        "eurostat:nuts_2021_id":"50180"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"58b52de5530863e67225931daeb8f785",
+    "wof:geomhash":"7987f23d67072c7797e6cc7977c3465b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +136,12 @@
         }
     ],
     "wof:id":404347103,
-    "wof:lastmodified":1566590446,
+    "wof:lastmodified":1684352507,
     "wof:name":"Mozota",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":120,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

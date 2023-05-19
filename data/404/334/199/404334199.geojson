@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16091",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fuertescusa",
+    "eurostat:nuts_2021_id":"16091",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16091",
+    "eurostat:population":60,
+    "eurostat:population_year":2020,
     "geom:area":0.006872,
-    "geom:area_square_m":64653643.06958,
+    "geom:area_square_m":64653643.069582,
     "geom:bbox":"-2.2222489,40.4256214,-2.08487628,40.49468043",
     "geom:latitude":40.460957,
     "geom:longitude":-2.154165,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16091",
+        "eurostat:nuts_2021_id":"16091",
         "gn:id":6357440,
         "gp:id":12690480,
         "qs_pg:id":1196398
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"08155cf016199e705081c6f647e50084",
+    "wof:geomhash":"c08fe659ef85f13e2e19844f2d543977",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404334199,
-    "wof:lastmodified":1582361739,
+    "wof:lastmodified":1684352294,
     "wof:name":"Fuertescusa",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":60,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

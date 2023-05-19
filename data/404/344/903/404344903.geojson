@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Barx",
+    "eurostat:nuts_2021_id":"46046",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46046",
+    "eurostat:population":1303,
+    "eurostat:population_year":2020,
     "geom:area":0.001675,
     "geom:area_square_m":16090118.630927,
     "geom:bbox":"-0.35853863,38.99619214,-0.26860102,39.02623201",
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46046",
+        "eurostat:nuts_2021_id":"46046",
         "gn:id":6361911,
         "gp:id":12695586,
         "qs_pg:id":1172603
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1c205abf4b695731cf0a2426dbe9454d",
+    "wof:geomhash":"df83d7df619723e004ad3108b53bbd5d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404344903,
-    "wof:lastmodified":1582361852,
+    "wof:lastmodified":1684352480,
     "wof:name":"Barx",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":1303,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

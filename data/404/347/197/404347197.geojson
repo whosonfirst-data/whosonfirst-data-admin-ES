@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50222",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Quinto",
+    "eurostat:nuts_2021_id":"50222",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50222",
+    "eurostat:population":1949,
+    "eurostat:population_year":2020,
     "geom:area":0.012734,
-    "geom:area_square_m":118103144.606302,
+    "geom:area_square_m":118103144.606304,
     "geom:bbox":"-0.60385671,41.34549948,-0.44751169,41.48388099",
     "geom:latitude":41.406215,
     "geom:longitude":-0.530652,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50222",
+        "eurostat:nuts_2021_id":"50222",
         "gn:id":6362909,
         "gp:id":12690049,
         "qs_pg:id":1019780
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"43ab6b2c3699a9b3f84cce6746bdc128",
+    "wof:geomhash":"cc6746cf0338aaeac1551c10036548e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404347197,
-    "wof:lastmodified":1582361672,
+    "wof:lastmodified":1684352508,
     "wof:name":"Quinto",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":1949,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

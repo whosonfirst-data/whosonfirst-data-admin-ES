@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18072",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Esc\u00fazar",
+    "eurostat:nuts_2021_id":"18072",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18072",
+    "eurostat:population":791,
+    "eurostat:population_year":2020,
     "geom:area":0.004699,
-    "geom:area_square_m":46374499.615026,
+    "geom:area_square_m":46374499.615025,
     "geom:bbox":"-3.82929352,37.01515601,-3.726723,37.09175929",
     "geom:latitude":37.051178,
     "geom:longitude":-3.776407,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18072",
+        "eurostat:nuts_2021_id":"18072",
         "gn:id":6357699,
         "gp:id":12688910,
         "qs_pg:id":45006
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9bc307b3d5c6274e75e03d478c7cfc5d",
+    "wof:geomhash":"8ffe7981b477bb866b87d6cb0f8d8bc9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404335189,
-    "wof:lastmodified":1582361701,
+    "wof:lastmodified":1684352322,
     "wof:name":"Esc\u00fazar",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":791,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_33010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Candamo",
+    "eurostat:nuts_2021_id":"33010",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES12",
+    "eurostat:nuts_2021_level_3":"ES120",
+    "eurostat:nuts_2021_level_lau":"33010",
+    "eurostat:population":1969,
+    "eurostat:population_year":2020,
     "geom:area":0.008003,
-    "geom:area_square_m":71846201.079963,
+    "geom:area_square_m":71846201.079962,
     "geom:bbox":"-6.1212892,43.40183299,-5.98839049,43.50929846",
     "geom:latitude":43.448713,
     "geom:longitude":-6.056018,
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_33010",
+        "eurostat:nuts_2021_id":"33010",
         "gp:id":12688453,
         "qs_pg:id":1170578
     },
@@ -138,7 +154,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4fc7c470a14abca7b679c973972766ef",
+    "wof:geomhash":"999313005f653ffa7f3b575249ed560f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404340301,
-    "wof:lastmodified":1582361647,
+    "wof:lastmodified":1684352405,
     "wof:name":"Candamo",
     "wof:parent_id":85682805,
     "wof:placetype":"localadmin",
+    "wof:population":1969,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

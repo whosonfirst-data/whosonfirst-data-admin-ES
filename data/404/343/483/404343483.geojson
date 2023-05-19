@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43040,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cap\u00e7anes",
+    "eurostat:nuts_2021_id":"43040",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43040",
+    "eurostat:population":392,
+    "eurostat:population_year":2020,
     "geom:area":0.002382,
-    "geom:area_square_m":22200934.180842,
+    "geom:area_square_m":22200921.318455,
     "geom:bbox":"0.767328,41.066567,0.842944,41.123251",
     "geom:latitude":41.095029,
     "geom:longitude":0.799404,
@@ -118,6 +130,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -126,7 +140,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43040",
         "esp-icgc:la_lc":"043040",
+        "eurostat:nuts_2021_id":"43040",
         "gn:id":6361283,
         "gp:id":12694179,
         "qs_pg:id":1123038
@@ -136,7 +152,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"41b5b01a2ab2e53920b6d8c04fb7dde8",
+    "wof:geomhash":"f648a18d6604a865cf98d5c5e20ef573",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404343483,
-    "wof:lastmodified":1669903062,
+    "wof:lastmodified":1684352454,
     "wof:name":"Cap\u00e7anes",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":392,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

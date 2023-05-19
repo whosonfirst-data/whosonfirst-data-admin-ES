@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17048,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castell-Platja d'Aro",
+    "eurostat:nuts_2021_id":"17048",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17048",
+    "eurostat:population":11030,
+    "eurostat:population_year":2020,
     "geom:area":0.00235,
-    "geom:area_square_m":21657504.118777,
+    "geom:area_square_m":21657548.650869,
     "geom:bbox":"3.013894,41.786759,3.081471,41.850561",
     "geom:latitude":41.821544,
     "geom:longitude":3.046486,
@@ -58,6 +70,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -66,7 +80,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17048",
         "esp-icgc:la_lc":"017048",
+        "eurostat:nuts_2021_id":"17048",
         "gn:id":6534041,
         "gp:id":12693727,
         "qs_pg:id":1118832
@@ -76,7 +92,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fa085dfe9b6c9c5cd9b19911129e7455",
+    "wof:geomhash":"24f2bfc1e659e13ceb34f0aba813c824",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,10 +103,12 @@
         }
     ],
     "wof:id":404334659,
-    "wof:lastmodified":1669903045,
+    "wof:lastmodified":1684352304,
     "wof:name":"Castell-Platja d'Aro",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":11030,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

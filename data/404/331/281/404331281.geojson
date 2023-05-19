@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":8180,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08180",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ripollet",
+    "eurostat:nuts_2021_id":"08180",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08180",
+    "eurostat:population":39179,
+    "eurostat:population_year":2020,
     "geom:area":0.000465,
     "geom:area_square_m":4304864.719713,
     "geom:bbox":"2.1349380329,41.4885285278,2.17329863571,41.5113586205",
@@ -139,6 +151,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -147,7 +161,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08180",
         "esp-icgc:la_lc":"08180",
+        "eurostat:nuts_2021_id":"08180",
         "gn:id":6356205,
         "gp:id":12693560,
         "qs_pg:id":1293597
@@ -157,7 +173,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d9a361cf9502d5c133d85b2a3d224489",
+    "wof:geomhash":"a4f720a6e170a45111eac41e41af8ab0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,10 +184,12 @@
         }
     ],
     "wof:id":404331281,
-    "wof:lastmodified":1582361489,
+    "wof:lastmodified":1684352247,
     "wof:name":"Ripollet",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":39179,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_38042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Silos, Los",
+    "eurostat:nuts_2021_id":"38042",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES7",
+    "eurostat:nuts_2021_level_2":"ES70",
+    "eurostat:nuts_2021_level_3":"ES709",
+    "eurostat:nuts_2021_level_lau":"38042",
+    "eurostat:population":4743,
+    "eurostat:population_year":2020,
     "geom:area":0.002269,
-    "geom:area_square_m":24686078.793264,
+    "geom:area_square_m":24686078.793257,
     "geom:bbox":"-16.83555341,28.311278,-16.79328021,28.39422799",
     "geom:latitude":28.352154,
     "geom:longitude":-16.816538,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_38042",
+        "eurostat:nuts_2021_id":"38042",
         "gn:id":6360642,
         "gp:id":12690200,
         "qs_pg:id":493316
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4257b3073e657766a86eaf22b7e3c2e3",
+    "wof:geomhash":"f13f57b7e9e978ba8bbd2845df8c5fbf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404342011,
-    "wof:lastmodified":1582361818,
+    "wof:lastmodified":1684352433,
     "wof:name":"Los Silos",
     "wof:parent_id":85682831,
     "wof:placetype":"localadmin",
+    "wof:population":4743,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

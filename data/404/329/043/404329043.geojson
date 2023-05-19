@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_01061",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zalduondo",
+    "eurostat:nuts_2021_id":"01061",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES211",
+    "eurostat:nuts_2021_level_lau":"01061",
+    "eurostat:population":185,
+    "eurostat:population_year":2020,
     "geom:area":0.001325,
-    "geom:area_square_m":12005467.320979,
+    "geom:area_square_m":12005467.32098,
     "geom:bbox":"-2.36969922,42.87114581,-2.32286299,42.93639368",
     "geom:latitude":42.900257,
     "geom:longitude":-2.343782,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_01061",
+        "eurostat:nuts_2021_id":"01061",
         "gn:id":6355288,
         "gp:id":12695063,
         "qs_pg:id":1020077
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e2af93c245cfbb06eefda49b45dcbe11",
+    "wof:geomhash":"2c189707b81694434fc96cfc3905e89c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404329043,
-    "wof:lastmodified":1582361799,
+    "wof:lastmodified":1684352203,
     "wof:name":"Zalduondo",
     "wof:parent_id":85682615,
     "wof:placetype":"localadmin",
+    "wof:population":185,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

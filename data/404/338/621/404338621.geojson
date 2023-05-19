@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_27040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Palas de Rei",
+    "eurostat:nuts_2021_id":"27040",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES112",
+    "eurostat:nuts_2021_level_lau":"27040",
+    "eurostat:population":3326,
+    "eurostat:population_year":2020,
     "geom:area":0.022007,
     "geom:area_square_m":199352964.721907,
     "geom:bbox":"-7.9997322,42.81667296,-7.73572211,42.9801136",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_27040",
+        "eurostat:nuts_2021_id":"27040",
         "gn:id":6359200,
         "gp:id":12694834,
         "qs_pg:id":907314
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6bbacff5f43ade2df368dc1f7d277e36",
+    "wof:geomhash":"b53e8c63fbfd4b97ae183a98a10e146b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404338621,
-    "wof:lastmodified":1582361434,
+    "wof:lastmodified":1684352378,
     "wof:name":"Palas De Rei",
     "wof:parent_id":85682775,
     "wof:placetype":"localadmin",
+    "wof:population":3326,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16078",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cuenca",
+    "eurostat:nuts_2021_id":"16078",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16078",
+    "eurostat:population":54621,
+    "eurostat:population_year":2020,
     "geom:area":0.09637,
-    "geom:area_square_m":910095714.910742,
+    "geom:area_square_m":910095714.910757,
     "geom:bbox":"-2.35502235,39.82643838,-1.6972386,40.52300331",
     "geom:latitude":40.205202,
     "geom:longitude":-1.993823,
@@ -153,6 +165,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -161,6 +175,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16078",
+        "eurostat:nuts_2021_id":"16078",
         "gn:id":6357429,
         "gp:id":12690469,
         "qs_pg:id":1102545
@@ -169,7 +185,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a1dae34064404029ba39e6f1476b74c4",
+    "wof:geomhash":"14f24ca627a4f5ec3b4d4e21a488aeac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -180,10 +196,12 @@
         }
     ],
     "wof:id":404334175,
-    "wof:lastmodified":1582361734,
+    "wof:lastmodified":1684352294,
     "wof:name":"Cuenca",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":54621,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

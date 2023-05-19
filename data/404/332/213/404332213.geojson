@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09318",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Riocavado de la Sierra",
+    "eurostat:nuts_2021_id":"09318",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09318",
+    "eurostat:population":55,
+    "eurostat:population_year":2020,
     "geom:area":0.00472,
     "geom:area_square_m":43251314.530693,
     "geom:bbox":"-3.28203887,42.12979319,-3.18214626,42.22059702",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09318",
+        "eurostat:nuts_2021_id":"09318",
         "gn:id":6356571,
         "gp:id":12691621,
         "qs_pg:id":241603
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0c104534592bf288e8cad6307eb24b1a",
+    "wof:geomhash":"b446aab1fac7efd047b21433c5026749",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332213,
-    "wof:lastmodified":1582361688,
+    "wof:lastmodified":1684352262,
     "wof:name":"Riocavado De La Sierra",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":55,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

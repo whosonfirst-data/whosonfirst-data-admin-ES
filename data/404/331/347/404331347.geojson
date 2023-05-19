@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8210,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08210",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Feliu de Codines",
+    "eurostat:nuts_2021_id":"08210",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08210",
+    "eurostat:population":6363,
+    "eurostat:population_year":2020,
     "geom:area":0.001617,
-    "geom:area_square_m":14927455.002675,
+    "geom:area_square_m":14927348.135914,
     "geom:bbox":"2.133049,41.676664,2.188863,41.718387",
     "geom:latitude":41.698638,
     "geom:longitude":2.161125,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08210",
         "esp-icgc:la_lc":"08210",
+        "eurostat:nuts_2021_id":"08210",
         "gn:id":6356232,
         "gp:id":12693585,
         "qs_pg:id":191246
@@ -67,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"492e39702b8d78275701d6d2758ff5e9",
+    "wof:geomhash":"60b90641a8ae85d9df26e27be7d781dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404331347,
-    "wof:lastmodified":1669903005,
+    "wof:lastmodified":1684352249,
     "wof:name":"Sant Feliu de Codines",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":6363,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ambel",
+    "eurostat:nuts_2021_id":"50027",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50027",
+    "eurostat:population":253,
+    "eurostat:population_year":2020,
     "geom:area":0.006654,
     "geom:area_square_m":61370016.597047,
     "geom:bbox":"-1.68746217,41.71513537,-1.57240927,41.81187734",
@@ -81,6 +93,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -89,6 +103,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50027",
+        "eurostat:nuts_2021_id":"50027",
         "gn:id":6362721,
         "gp:id":12689860,
         "qs_pg:id":496909
@@ -97,7 +113,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0cfe0dea17916dac746d356472f5f7e1",
+    "wof:geomhash":"dcf71bcbf4a2774dea5d2dcc6018e80b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,10 +124,12 @@
         }
     ],
     "wof:id":404346775,
-    "wof:lastmodified":1582361620,
+    "wof:lastmodified":1684352503,
     "wof:name":"Ambel",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":253,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

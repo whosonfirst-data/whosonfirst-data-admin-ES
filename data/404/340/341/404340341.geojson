@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_33028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ibias",
+    "eurostat:nuts_2021_id":"33028",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES12",
+    "eurostat:nuts_2021_level_3":"ES120",
+    "eurostat:nuts_2021_level_lau":"33028",
+    "eurostat:population":1207,
+    "eurostat:population_year":2020,
     "geom:area":0.036797,
-    "geom:area_square_m":332744839.406355,
+    "geom:area_square_m":332744839.406361,
     "geom:bbox":"-6.99717178,42.8825428,-6.63878299,43.11803104",
     "geom:latitude":43.00453,
     "geom:longitude":-6.812769,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_33028",
+        "eurostat:nuts_2021_id":"33028",
         "gn:id":6359933,
         "gp:id":12688471,
         "qs_pg:id":198769
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0e40e4f6d884f3180e8dddd2b75c6ab6",
+    "wof:geomhash":"e8a675fe93a7e9e884c4c59424dca8f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404340341,
-    "wof:lastmodified":1582361653,
+    "wof:lastmodified":1684352406,
     "wof:name":"Ibias",
     "wof:parent_id":85682805,
     "wof:placetype":"localadmin",
+    "wof:population":1207,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

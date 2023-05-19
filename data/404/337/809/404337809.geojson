@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25096,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25096",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fuliola, La",
+    "eurostat:nuts_2021_id":"25096",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25096",
+    "eurostat:population":1250,
+    "eurostat:population_year":2020,
     "geom:area":0.001204,
-    "geom:area_square_m":11115238.976602,
+    "geom:area_square_m":11115205.110578,
     "geom:bbox":"0.974191,41.698134,1.029858,41.732071",
     "geom:latitude":41.716293,
     "geom:longitude":1.00153,
@@ -112,6 +124,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -120,7 +134,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25096",
         "esp-icgc:la_lc":"025096",
+        "eurostat:nuts_2021_id":"25096",
         "gn:id":6358844,
         "gp:id":12693991,
         "qs_pg:id":265386
@@ -130,7 +146,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3113d086e26ed0c7a2690a459da21f9a",
+    "wof:geomhash":"1f41f8d0a573264615f717c8ec67709f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404337809,
-    "wof:lastmodified":1669903027,
+    "wof:lastmodified":1684352360,
     "wof:name":"La Fuliola",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":1250,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

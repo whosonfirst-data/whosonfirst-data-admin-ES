@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44155",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montalb\u00e1n",
+    "eurostat:nuts_2021_id":"44155",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44155",
+    "eurostat:population":1245,
+    "eurostat:population_year":2020,
     "geom:area":0.008761,
-    "geom:area_square_m":81940957.81685,
+    "geom:area_square_m":81940957.816849,
     "geom:bbox":"-0.87103707,40.7802232,-0.73379686,40.90050611",
     "geom:latitude":40.849618,
     "geom:longitude":-0.79713,
@@ -72,6 +84,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -80,6 +94,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44155",
+        "eurostat:nuts_2021_id":"44155",
         "gn:id":6361562,
         "gp:id":12689734,
         "qs_pg:id":45451
@@ -88,7 +104,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c7876ff5a1768b293c73d4a69a1cd82e",
+    "wof:geomhash":"5ff9c6dd42cc7b24aad511b38d579edd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,10 +115,12 @@
         }
     ],
     "wof:id":404344115,
-    "wof:lastmodified":1582361858,
+    "wof:lastmodified":1684352470,
     "wof:name":"Montalb\u00e1n",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":1245,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

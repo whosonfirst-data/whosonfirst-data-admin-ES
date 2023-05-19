@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_13049",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Horcajo de los Montes",
+    "eurostat:nuts_2021_id":"13049",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES422",
+    "eurostat:nuts_2021_level_lau":"13049",
+    "eurostat:population":833,
+    "eurostat:population_year":2020,
     "geom:area":0.021784,
-    "geom:area_square_m":208258758.390874,
+    "geom:area_square_m":208258758.390864,
     "geom:bbox":"-4.76101182,39.25491676,-4.51509753,39.45440061",
     "geom:latitude":39.361241,
     "geom:longitude":-4.638463,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_13049",
+        "eurostat:nuts_2021_id":"13049",
         "gn:id":6357143,
         "gp:id":12690346,
         "qs_pg:id":1165208
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"68388f1da2f48cf42f286e60022d975e",
+    "wof:geomhash":"c8e4b8086f22b7fc02a801d34eb5ff84",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404333519,
-    "wof:lastmodified":1582361769,
+    "wof:lastmodified":1684352280,
     "wof:name":"Horcajo De Los Montes",
     "wof:parent_id":85682689,
     "wof:placetype":"localadmin",
+    "wof:population":833,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

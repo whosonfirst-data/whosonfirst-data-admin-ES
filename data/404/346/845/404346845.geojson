@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50059",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bujaraloz",
+    "eurostat:nuts_2021_id":"50059",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50059",
+    "eurostat:population":980,
+    "eurostat:population_year":2020,
     "geom:area":0.013029,
-    "geom:area_square_m":120757985.86053,
+    "geom:area_square_m":120757985.860531,
     "geom:bbox":"-0.2369852,41.36918748,-0.07223668,41.53529453",
     "geom:latitude":41.450221,
     "geom:longitude":-0.140383,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50059",
+        "eurostat:nuts_2021_id":"50059",
         "gn:id":6362752,
         "gp:id":12689892,
         "qs_pg:id":1066823
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e116a8970a68becd9625c35dd8b55854",
+    "wof:geomhash":"ed6762f35e6efda9dc98348b337348b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404346845,
-    "wof:lastmodified":1582361609,
+    "wof:lastmodified":1684352503,
     "wof:name":"Bujaraloz",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":980,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

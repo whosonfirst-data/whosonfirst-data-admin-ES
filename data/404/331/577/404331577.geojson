@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8905,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08905",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Palma de Cervell\u00f3, La",
+    "eurostat:nuts_2021_id":"08905",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08905",
+    "eurostat:population":2992,
+    "eurostat:population_year":2020,
     "geom:area":0.000581,
-    "geom:area_square_m":5386160.238082,
+    "geom:area_square_m":5386194.246819,
     "geom:bbox":"1.935648,41.399724,1.989158,41.419023",
     "geom:latitude":41.410206,
     "geom:longitude":1.963276,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08905",
         "esp-icgc:la_lc":"08905",
+        "eurostat:nuts_2021_id":"08905",
         "gn:id":6356330,
         "gp:id":20078346,
         "qs_pg:id":1060908
@@ -67,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1a416a263a86da3781aafc66b0ae70c1",
+    "wof:geomhash":"b9d02192461b7aa0d496b5d2881b0303",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404331577,
-    "wof:lastmodified":1669903013,
+    "wof:lastmodified":1684352256,
     "wof:name":"La Palma de Cervell\u00f3",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":2992,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

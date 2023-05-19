@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8036,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08036",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calonge de Segarra",
+    "eurostat:nuts_2021_id":"08036",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08036",
+    "eurostat:population":188,
+    "eurostat:population_year":2020,
     "geom:area":0.004019,
-    "geom:area_square_m":37076461.181951,
+    "geom:area_square_m":37076534.008483,
     "geom:bbox":"1.43579,41.708145,1.532671,41.791137",
     "geom:latitude":41.750114,
     "geom:longitude":1.485384,
@@ -48,6 +60,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -56,13 +70,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"08036"
+        "eg:gisco_id":"ES_08036",
+        "esp-icgc:la_lc":"08036",
+        "eurostat:nuts_2021_id":"08036"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"181c59350ed43a474c72dcf7c3df79e3",
+    "wof:geomhash":"9876bcd993fb425ae4a8cb97dd2ebfb4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,10 +89,12 @@
         }
     ],
     "wof:id":404330959,
-    "wof:lastmodified":1669903016,
+    "wof:lastmodified":1684352236,
     "wof:name":"Calonge de Segarra",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":188,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

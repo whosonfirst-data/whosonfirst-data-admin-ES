@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_26050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cirue\u00f1a",
+    "eurostat:nuts_2021_id":"26050",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES23",
+    "eurostat:nuts_2021_level_3":"ES230",
+    "eurostat:nuts_2021_level_lau":"26050",
+    "eurostat:population":168,
+    "eurostat:population_year":2020,
     "geom:area":0.001329,
-    "geom:area_square_m":12126824.018561,
+    "geom:area_square_m":12126824.018562,
     "geom:bbox":"-2.91060648,42.40461574,-2.84882792,42.43574331",
     "geom:latitude":42.421068,
     "geom:longitude":-2.883278,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_26050",
+        "eurostat:nuts_2021_id":"26050",
         "gn:id":6359040,
         "gp:id":12687821,
         "qs_pg:id":1026155
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"51493d51bbd90e29ab6e2d09c15a7f79",
+    "wof:geomhash":"53c79e2c31d8483a8dc0ba18ce855f89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404338251,
-    "wof:lastmodified":1582361438,
+    "wof:lastmodified":1684352373,
     "wof:name":"Cirue\u00f1a",
     "wof:parent_id":85682773,
     "wof:placetype":"localadmin",
+    "wof:population":168,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

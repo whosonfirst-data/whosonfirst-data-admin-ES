@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04056",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Laroya",
+    "eurostat:nuts_2021_id":"04056",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04056",
+    "eurostat:population":198,
+    "eurostat:population_year":2020,
     "geom:area":0.002201,
     "geom:area_square_m":21653054.120222,
     "geom:bbox":"-2.36732528,37.25320213,-2.31638119,37.32740891",
@@ -129,6 +141,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -137,6 +151,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_04056",
+        "eurostat:nuts_2021_id":"04056",
         "gn:id":6355568,
         "gp:id":12688677,
         "qs_pg:id":1146238
@@ -145,7 +161,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bdecd1b2c66a3a13edbd1c021d36cd1d",
+    "wof:geomhash":"133c683e106d1ac05e8ef7fe77a86643",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404329685,
-    "wof:lastmodified":1582361798,
+    "wof:lastmodified":1684352214,
     "wof:name":"Laroya",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":198,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

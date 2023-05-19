@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44268",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zoma, La",
+    "eurostat:nuts_2021_id":"44268",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44268",
+    "eurostat:population":32,
+    "eurostat:population_year":2020,
     "geom:area":0.001547,
-    "geom:area_square_m":14485259.387975,
+    "geom:area_square_m":14485259.387976,
     "geom:bbox":"-0.65011902,40.75606759,-0.57638628,40.79948296",
     "geom:latitude":40.776325,
     "geom:longitude":-0.617551,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44268",
+        "eurostat:nuts_2021_id":"44268",
         "gn:id":6361661,
         "qs_pg:id":621910
     },
@@ -117,7 +133,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"eef509a91e286fc3b88c00e7f8a54e74",
+    "wof:geomhash":"c06d292a0c0adbedd880a9b88206211e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +144,12 @@
         }
     ],
     "wof:id":404344339,
-    "wof:lastmodified":1582361844,
+    "wof:lastmodified":1684352472,
     "wof:name":"La Zoma",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":32,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

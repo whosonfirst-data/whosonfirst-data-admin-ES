@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_14024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Encinas Reales",
+    "eurostat:nuts_2021_id":"14024",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES613",
+    "eurostat:nuts_2021_level_lau":"14024",
+    "eurostat:population":2254,
+    "eurostat:population_year":2020,
     "geom:area":0.003476,
-    "geom:area_square_m":34202980.964534,
+    "geom:area_square_m":34202980.964532,
     "geom:bbox":"-4.52283549,37.2370011,-4.4149013,37.31138444",
     "geom:latitude":37.278381,
     "geom:longitude":-4.474951,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_14024",
+        "eurostat:nuts_2021_id":"14024",
         "gn:id":6357219,
         "gp:id":12688795,
         "qs_pg:id":1164430
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"07dad92768a136796a389fb082dc0243",
+    "wof:geomhash":"3f7d5b1a2b37432d19936a51f516d314",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404333693,
-    "wof:lastmodified":1582361767,
+    "wof:lastmodified":1684352283,
     "wof:name":"Encinas Reales",
     "wof:parent_id":85682697,
     "wof:placetype":"localadmin",
+    "wof:population":2254,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

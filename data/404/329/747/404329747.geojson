@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04083",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ser\u00f3n",
+    "eurostat:nuts_2021_id":"04083",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04083",
+    "eurostat:population":2033,
+    "eurostat:population_year":2020,
     "geom:area":0.01692,
-    "geom:area_square_m":166335878.835319,
+    "geom:area_square_m":166335878.835326,
     "geom:bbox":"-2.6192771,37.24189793,-2.4761329,37.46204418",
     "geom:latitude":37.34191,
     "geom:longitude":-2.546484,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_04083",
+        "eurostat:nuts_2021_id":"04083",
         "gn:id":6355595,
         "gp:id":12688705,
         "qs_pg:id":49352
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1642b05196a4375bfe1ce7da2a524c5c",
+    "wof:geomhash":"52f06c30fd9bbb6abebc6c1df573a7ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404329747,
-    "wof:lastmodified":1582361794,
+    "wof:lastmodified":1684352215,
     "wof:name":"Ser\u00f3n",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":2033,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

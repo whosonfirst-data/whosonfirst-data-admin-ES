@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_29022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Benadalid",
+    "eurostat:nuts_2021_id":"29022",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES617",
+    "eurostat:nuts_2021_level_lau":"29022",
+    "eurostat:population":233,
+    "eurostat:population_year":2020,
     "geom:area":0.002083,
-    "geom:area_square_m":20669865.965989,
+    "geom:area_square_m":20669865.96599,
     "geom:bbox":"-5.32030509,36.59516546,-5.23284828,36.63446972",
     "geom:latitude":36.614513,
     "geom:longitude":-5.276576,
@@ -114,6 +126,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -121,9 +135,12 @@
         404227361
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_29022",
+        "eurostat:nuts_2021_id":"29022"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"7cc2529cdc32af918311d40f157472aa",
+    "wof:geomhash":"af3f18440ffe43a920beb0f4271dbe8c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +151,12 @@
         }
     ],
     "wof:id":404339141,
-    "wof:lastmodified":1566590140,
+    "wof:lastmodified":1684352389,
     "wof:name":"Benadalid",
     "wof:parent_id":85682787,
     "wof:placetype":"localadmin",
+    "wof:population":233,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

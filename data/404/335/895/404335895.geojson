@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19242",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Romanones",
+    "eurostat:nuts_2021_id":"19242",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19242",
+    "eurostat:population":95,
+    "eurostat:population_year":2020,
     "geom:area":0.003071,
-    "geom:area_square_m":28843176.65689,
+    "geom:area_square_m":28843176.656888,
     "geom:bbox":"-3.02366204,40.54173939,-2.93225036,40.5986329",
     "geom:latitude":40.572278,
     "geom:longitude":-2.984413,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19242",
+        "eurostat:nuts_2021_id":"19242",
         "gn:id":6358010,
         "gp:id":12690840,
         "qs_pg:id":45984
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1d36a9357879396f3b09badc9081c533",
+    "wof:geomhash":"26d6bb40d56487f745f7c7d3d30e4dca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404335895,
-    "wof:lastmodified":1582361699,
+    "wof:lastmodified":1684352331,
     "wof:name":"Romanones",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":95,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

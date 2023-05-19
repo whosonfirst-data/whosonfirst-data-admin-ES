@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ab\u00e1rzuza / Abartzuza",
+    "eurostat:nuts_2021_id":"31002",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31002",
+    "eurostat:population":544,
+    "eurostat:population_year":2020,
     "geom:area":0.002531,
     "geom:area_square_m":22983956.006963,
     "geom:bbox":"-2.07371423,42.71022847,-2.00433603,42.8071008",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227391
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_31002",
+        "eurostat:nuts_2021_id":"31002"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"1bb1050a9d7afb7a42ce63ce135b9db1",
+    "wof:geomhash":"2d51bca4872229c674a99b1bb9e7f272",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404339437,
-    "wof:lastmodified":1566590091,
+    "wof:lastmodified":1684352394,
     "wof:name":"Ab\u00e1rzuza/Abartzuza",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":544,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

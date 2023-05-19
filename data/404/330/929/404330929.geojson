@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8023,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bigues i Riells",
+    "eurostat:nuts_2021_id":"08023",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08023",
+    "eurostat:population":9358,
+    "eurostat:population_year":2020,
     "geom:area":0.003102,
-    "geom:area_square_m":28646736.546613,
+    "geom:area_square_m":28646703.690427,
     "geom:bbox":"2.1629,41.6502,2.247035,41.716445",
     "geom:latitude":41.68179,
     "geom:longitude":2.205121,
@@ -68,6 +80,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -76,7 +90,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08023",
         "esp-icgc:la_lc":"08023",
+        "eurostat:nuts_2021_id":"08023",
         "gn:id":6356059,
         "gp:id":12693400,
         "qs_pg:id":191227
@@ -86,7 +102,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c07290276159c31538b92276a51b2568",
+    "wof:geomhash":"05a3e4d25db88e8db0bfc267160e94df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,10 +113,12 @@
         }
     ],
     "wof:id":404330929,
-    "wof:lastmodified":1669903017,
+    "wof:lastmodified":1684352236,
     "wof:name":"Bigues i Riells",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":9358,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

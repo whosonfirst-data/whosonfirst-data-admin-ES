@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45126",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Otero",
+    "eurostat:nuts_2021_id":"45126",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45126",
+    "eurostat:population":315,
+    "eurostat:population_year":2020,
     "geom:area":0.003119,
-    "geom:area_square_m":29540051.850871,
+    "geom:area_square_m":29540051.850872,
     "geom:bbox":"-4.55512907,39.98048767,-4.45642571,40.06386182",
     "geom:latitude":40.019239,
     "geom:longitude":-4.50702,
@@ -54,6 +66,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -62,6 +76,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45126",
+        "eurostat:nuts_2021_id":"45126",
         "gn:id":6361786,
         "gp:id":12691047,
         "qs_pg:id":1165449
@@ -70,7 +86,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2b0ea2a0befc329b989581b5240bf886",
+    "wof:geomhash":"bff67f3461eb663879bd99ca04b0d79e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +97,12 @@
         }
     ],
     "wof:id":404344621,
-    "wof:lastmodified":1582361846,
+    "wof:lastmodified":1684352476,
     "wof:name":"Otero",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":315,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04053",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hu\u00e9rcal-Overa",
+    "eurostat:nuts_2021_id":"04053",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04053",
+    "eurostat:population":19432,
+    "eurostat:population_year":2020,
     "geom:area":0.032341,
-    "geom:area_square_m":317563842.711967,
+    "geom:area_square_m":317563842.711962,
     "geom:bbox":"-2.03444169,37.29623777,-1.80894553,37.53863856",
     "geom:latitude":37.428781,
     "geom:longitude":-1.939509,
@@ -132,6 +144,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -140,6 +154,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_04053",
+        "eurostat:nuts_2021_id":"04053",
         "gn:id":6355565,
         "gp:id":12688674,
         "qs_pg:id":1297404
@@ -148,7 +164,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"98cc222960afae9958213009546a2fd4",
+    "wof:geomhash":"855940f327d1b0f0bd5bb6e1037e88fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,10 +175,12 @@
         }
     ],
     "wof:id":404329679,
-    "wof:lastmodified":1582361799,
+    "wof:lastmodified":1684352213,
     "wof:name":"Hu\u00e9rcal-Overa",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":19432,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

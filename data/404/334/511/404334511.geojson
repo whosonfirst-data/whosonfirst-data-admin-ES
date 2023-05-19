@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16270",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villarrubio",
+    "eurostat:nuts_2021_id":"16270",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16270",
+    "eurostat:population":191,
+    "eurostat:population_year":2020,
     "geom:area":0.002978,
-    "geom:area_square_m":28228159.239074,
+    "geom:area_square_m":28228159.239075,
     "geom:bbox":"-2.96423259,39.92260509,-2.84399243,39.97399157",
     "geom:latitude":39.946857,
     "geom:longitude":-2.907194,
@@ -96,6 +108,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -103,9 +117,12 @@
         404227375
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_16270",
+        "eurostat:nuts_2021_id":"16270"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"a952c0f176748a2b5602aa0daa3297d4",
+    "wof:geomhash":"eabebc0e0452c327dee314bc5c81423d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +133,12 @@
         }
     ],
     "wof:id":404334511,
-    "wof:lastmodified":1566590682,
+    "wof:lastmodified":1684352298,
     "wof:name":"Villarrubio",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":191,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

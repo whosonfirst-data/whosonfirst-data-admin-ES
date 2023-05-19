@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22094",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chalamera",
+    "eurostat:nuts_2021_id":"22094",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22094",
+    "eurostat:population":113,
+    "eurostat:population_year":2020,
     "geom:area":0.001243,
     "geom:area_square_m":11482168.15424,
     "geom:bbox":"0.12236578,41.64224113,0.18592424,41.68949268",
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22094",
+        "eurostat:nuts_2021_id":"22094",
         "gn:id":6358332,
         "gp:id":12689473,
         "qs_pg:id":45317
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7ac2e72c81dace08a60417eb45c90ea3",
+    "wof:geomhash":"b999e9adb76fbf41fcdb61e97d2c0ee1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404336635,
-    "wof:lastmodified":1582361465,
+    "wof:lastmodified":1684352341,
     "wof:name":"Chalamera",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":113,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

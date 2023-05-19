@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_11008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Barrios, Los",
+    "eurostat:nuts_2021_id":"11008",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES612",
+    "eurostat:nuts_2021_level_lau":"11008",
+    "eurostat:population":23777,
+    "eurostat:population_year":2020,
     "geom:area":0.03321,
-    "geom:area_square_m":331286483.313575,
+    "geom:area_square_m":331286483.313577,
     "geom:bbox":"-5.70738871,36.10934567,-5.41386658,36.35049874",
     "geom:latitude":36.22086,
     "geom:longitude":-5.558724,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_11008",
+        "eurostat:nuts_2021_id":"11008",
         "gn:id":6356923,
         "gp:id":12688734,
         "qs_pg:id":621582
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"083fcae160ffb2add38b46ff026928ed",
+    "wof:geomhash":"190bd13b6ec128c26bcd882a784de049",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404333025,
-    "wof:lastmodified":1582361764,
+    "wof:lastmodified":1684352273,
     "wof:name":"Los Barrios",
     "wof:parent_id":85682679,
     "wof:placetype":"localadmin",
+    "wof:population":23777,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

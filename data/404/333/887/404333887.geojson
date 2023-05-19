@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fene",
+    "eurostat:nuts_2021_id":"15035",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15035",
+    "eurostat:population":12868,
+    "eurostat:population_year":2020,
     "geom:area":0.003008,
-    "geom:area_square_m":26992411.700593,
+    "geom:area_square_m":26992411.700591,
     "geom:bbox":"-8.20486503,43.4230687,-8.09857599,43.48759618",
     "geom:latitude":43.462088,
     "geom:longitude":-8.159655,
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_15035",
+        "eurostat:nuts_2021_id":"15035",
         "gn:id":6357305,
         "gp:id":12694737,
         "qs_pg:id":201885
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c1c07fe5e729077820909f821ac724f4",
+    "wof:geomhash":"cab4afbdda9bce3dc72720e24edf431c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404333887,
-    "wof:lastmodified":1582361763,
+    "wof:lastmodified":1684352287,
     "wof:name":"Fene",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":12868,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

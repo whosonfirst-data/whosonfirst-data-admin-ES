@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_13019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Argamasilla de Alba",
+    "eurostat:nuts_2021_id":"13019",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES422",
+    "eurostat:nuts_2021_level_lau":"13019",
+    "eurostat:population":6955,
+    "eurostat:population_year":2020,
     "geom:area":0.04135,
     "geom:area_square_m":396915122.761334,
     "geom:bbox":"-3.20662805,38.95475198,-2.89013528,39.20321583",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_13019",
+        "eurostat:nuts_2021_id":"13019",
         "gn:id":6357113,
         "gp:id":12690316,
         "qs_pg:id":78464
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b38d4d48c73a6cabc932681c8e38bab9",
+    "wof:geomhash":"3d71b27c075d6cf087169fea8a97a455",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404333453,
-    "wof:lastmodified":1582361768,
+    "wof:lastmodified":1684352279,
     "wof:name":"Argamasilla De Alba",
     "wof:parent_id":85682689,
     "wof:placetype":"localadmin",
+    "wof:population":6955,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

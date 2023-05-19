@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_26094",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Manzanares de Rioja",
+    "eurostat:nuts_2021_id":"26094",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES23",
+    "eurostat:nuts_2021_level_3":"ES230",
+    "eurostat:nuts_2021_level_lau":"26094",
+    "eurostat:population":65,
+    "eurostat:population_year":2020,
     "geom:area":0.001958,
-    "geom:area_square_m":17884461.930289,
+    "geom:area_square_m":17884461.93029,
     "geom:bbox":"-2.94209012,42.34104747,-2.87729463,42.40934299",
     "geom:latitude":42.384284,
     "geom:longitude":-2.910652,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_26094",
+        "eurostat:nuts_2021_id":"26094",
         "gn:id":6359082,
         "gp:id":12687863,
         "qs_pg:id":1151490
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"301da369c0626db15538e5e65bd55a39",
+    "wof:geomhash":"ee41653b83320504ee0296801e3f15ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404338345,
-    "wof:lastmodified":1582361455,
+    "wof:lastmodified":1684352375,
     "wof:name":"Manzanares De Rioja",
     "wof:parent_id":85682773,
     "wof:placetype":"localadmin",
+    "wof:population":65,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

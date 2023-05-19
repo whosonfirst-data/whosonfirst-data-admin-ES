@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Capilla",
+    "eurostat:nuts_2021_id":"06030",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06030",
+    "eurostat:population":172,
+    "eurostat:population_year":2020,
     "geom:area":0.015241,
-    "geom:area_square_m":146886037.8732,
+    "geom:area_square_m":146886037.873201,
     "geom:bbox":"-5.11815486,38.72428231,-4.95362507,38.86390569",
     "geom:latitude":38.795576,
     "geom:longitude":-5.037433,
@@ -51,6 +63,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -59,6 +73,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06030",
+        "eurostat:nuts_2021_id":"06030",
         "gn:id":6355895,
         "gp:id":12694349,
         "qs_pg:id":1102855
@@ -67,7 +83,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"81e5c3851612d0a4d997557c16494782",
+    "wof:geomhash":"2dada36548618570f5b672e6b3874f7e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404330423,
-    "wof:lastmodified":1582361525,
+    "wof:lastmodified":1684352224,
     "wof:name":"Capilla",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":172,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8224,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08224",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Mart\u00ed de Centelles",
+    "eurostat:nuts_2021_id":"08224",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08224",
+    "eurostat:population":1184,
+    "eurostat:population_year":2020,
     "geom:area":0.002803,
-    "geom:area_square_m":25855926.602907,
+    "geom:area_square_m":25855925.084358,
     "geom:bbox":"2.184473,41.726488,2.263149,41.78207",
     "geom:latitude":41.75079,
     "geom:longitude":2.218076,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08224",
         "esp-icgc:la_lc":"08224",
+        "eurostat:nuts_2021_id":"08224",
         "gn:id":6356246,
         "gp:id":12693601,
         "qs_pg:id":334592
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"12981ce236679c07c79507bd34daf09d",
+    "wof:geomhash":"43ee0d65c3f1c4609d20a87b7989cad4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404331377,
-    "wof:lastmodified":1669903004,
+    "wof:lastmodified":1684352250,
     "wof:name":"Sant Mart\u00ed de Centelles",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":1184,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

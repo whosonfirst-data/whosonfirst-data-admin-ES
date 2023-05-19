@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19080",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cendejas de Enmedio",
+    "eurostat:nuts_2021_id":"19080",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19080",
+    "eurostat:population":68,
+    "eurostat:population_year":2020,
     "geom:area":0.002043,
     "geom:area_square_m":19069699.315725,
     "geom:bbox":"-2.91758027,40.95792539,-2.82928119,41.01248349",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19080",
+        "eurostat:nuts_2021_id":"19080",
         "gn:id":6357870,
         "gp:id":12690700,
         "qs_pg:id":1322838
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0b4be029905dc2d0094e9b8a3e1ae27f",
+    "wof:geomhash":"d28a52db8910133bb374041e5303c99c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404335577,
-    "wof:lastmodified":1582361712,
+    "wof:lastmodified":1684352327,
     "wof:name":"Cendejas De Enmedio",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":68,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Adrada de Haza",
+    "eurostat:nuts_2021_id":"09003",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09003",
+    "eurostat:population":203,
+    "eurostat:population_year":2020,
     "geom:area":0.00111,
-    "geom:area_square_m":10264357.147746,
+    "geom:area_square_m":10264357.147747,
     "geom:bbox":"-3.84867024,41.57990373,-3.78670817,41.61597879",
     "geom:latitude":41.598118,
     "geom:longitude":-3.818125,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09003",
+        "eurostat:nuts_2021_id":"09003",
         "gn:id":6356332,
         "gp:id":12691376,
         "qs_pg:id":46214
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"03cf2b4c1676e24ff1aa385bf8aae5a5",
+    "wof:geomhash":"d67d1909ac514b7ebe59f9d8cc865eaf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404331583,
-    "wof:lastmodified":1582361515,
+    "wof:lastmodified":1684352256,
     "wof:name":"Adrada De Haza",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":203,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

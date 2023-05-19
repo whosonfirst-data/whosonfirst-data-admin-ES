@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31208",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ribaforada",
+    "eurostat:nuts_2021_id":"31208",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31208",
+    "eurostat:population":3738,
+    "eurostat:population_year":2020,
     "geom:area":0.003145,
     "geom:area_square_m":28908946.570199,
     "geom:bbox":"-1.55613448,41.94165056,-1.48201998,42.02178209",
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31208",
+        "eurostat:nuts_2021_id":"31208",
         "gn:id":6359756,
         "gp:id":12688389,
         "qs_pg:id":961801
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ffaad83ea06acecc9a845e3df391cca9",
+    "wof:geomhash":"3f946ffdad645762ff5becd3f80a24ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404339925,
-    "wof:lastmodified":1582361589,
+    "wof:lastmodified":1684352400,
     "wof:name":"Ribaforada",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":3738,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

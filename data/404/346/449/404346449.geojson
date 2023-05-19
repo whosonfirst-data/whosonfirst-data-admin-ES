@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49142",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Palacios del Pan",
+    "eurostat:nuts_2021_id":"49142",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49142",
+    "eurostat:population":259,
+    "eurostat:population_year":2020,
     "geom:area":0.00343,
     "geom:area_square_m":31707523.148716,
     "geom:bbox":"-5.92861653,41.56396596,-5.85436947,41.65154969",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_49142",
+        "eurostat:nuts_2021_id":"49142",
         "gn:id":6362578,
         "gp:id":12693258,
         "qs_pg:id":1001503
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f3e93e5acac70cbd5b540e5b01e60f04",
+    "wof:geomhash":"76e05f99dded27918a591fd8580f5ea3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404346449,
-    "wof:lastmodified":1582361609,
+    "wof:lastmodified":1684352499,
     "wof:name":"Palacios Del Pan",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":259,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24179",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valdepi\u00e9lago",
+    "eurostat:nuts_2021_id":"24179",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24179",
+    "eurostat:population":307,
+    "eurostat:population_year":2020,
     "geom:area":0.006259,
-    "geom:area_square_m":56714706.818237,
+    "geom:area_square_m":56714706.818235,
     "geom:bbox":"-5.4819332,42.83382302,-5.36212331,42.92049015",
     "geom:latitude":42.881994,
     "geom:longitude":-5.422218,
@@ -96,6 +108,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -103,9 +117,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_24179",
+        "eurostat:nuts_2021_id":"24179"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"d8da708e2cdb3ce92186f4f86a3a0160",
+    "wof:geomhash":"1162ae6c0b4da4f35ac8ce0ebe33375c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +133,12 @@
         }
     ],
     "wof:id":404337513,
-    "wof:lastmodified":1566590060,
+    "wof:lastmodified":1684352353,
     "wof:name":"Valdepi\u00e9lago",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":307,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8155,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08155",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Palafolls",
+    "eurostat:nuts_2021_id":"08155",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08155",
+    "eurostat:population":9613,
+    "eurostat:population_year":2020,
     "geom:area":0.001785,
-    "geom:area_square_m":16491371.542043,
+    "geom:area_square_m":16491371.542042,
     "geom:bbox":"2.69393415419,41.651693678,2.76528895815,41.6930119813",
     "geom:latitude":41.671457,
     "geom:longitude":2.73017,
@@ -130,6 +142,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -138,7 +152,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08155",
         "esp-icgc:la_lc":"08155",
+        "eurostat:nuts_2021_id":"08155",
         "gn:id":6533992,
         "gp:id":12693535,
         "qs_pg:id":1063037
@@ -148,7 +164,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a8ca70a61bdfdc74640e6b2272a3d297",
+    "wof:geomhash":"1ba9bf8e22c76130806a3fc2074f9e88",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,10 +175,12 @@
         }
     ],
     "wof:id":404331227,
-    "wof:lastmodified":1582361485,
+    "wof:lastmodified":1684352245,
     "wof:name":"Palafolls",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":9613,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

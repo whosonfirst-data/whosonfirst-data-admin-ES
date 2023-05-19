@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37231",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Parada de Rubiales",
+    "eurostat:nuts_2021_id":"37231",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37231",
+    "eurostat:population":247,
+    "eurostat:population_year":2020,
     "geom:area":0.003389,
-    "geom:area_square_m":31548447.347879,
+    "geom:area_square_m":31548447.34788,
     "geom:bbox":"-5.4768779,41.12543568,-5.39657842,41.18776189",
     "geom:latitude":41.160499,
     "geom:longitude":-5.436989,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37231",
+        "eurostat:nuts_2021_id":"37231",
         "gn:id":6360470,
         "gp:id":12692362,
         "qs_pg:id":1095113
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ad1bedf3981dd37168273c3b868a75cd",
+    "wof:geomhash":"27e182449981f4153437c627b7c26187",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404341581,
-    "wof:lastmodified":1582361631,
+    "wof:lastmodified":1684352426,
     "wof:name":"Parada De Rubiales",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":247,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

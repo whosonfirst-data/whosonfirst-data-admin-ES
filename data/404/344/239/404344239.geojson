@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44216",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Teruel",
+    "eurostat:nuts_2021_id":"44216",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44216",
+    "eurostat:population":36240,
+    "eurostat:population_year":2020,
     "geom:area":0.04669,
-    "geom:area_square_m":439940494.610804,
+    "geom:area_square_m":439940088.521774,
     "geom:bbox":"-1.278484,40.227296,-0.953869,40.511067",
     "geom:latitude":40.356405,
     "geom:longitude":-1.119777,
@@ -207,6 +219,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -215,6 +229,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44216",
+        "eurostat:nuts_2021_id":"44216",
         "gn:id":6361616,
         "gp:id":12689788,
         "qs_pg:id":1297418
@@ -223,7 +239,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d7b67e14b5d81a14bc5dc64b2f1fd086",
+    "wof:geomhash":"679529b7cd335c199027497f74243ec8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -234,10 +250,12 @@
         }
     ],
     "wof:id":404344239,
-    "wof:lastmodified":1636503330,
+    "wof:lastmodified":1684352471,
     "wof:name":"Teruel",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":36240,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

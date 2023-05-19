@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_01003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aramaio",
+    "eurostat:nuts_2021_id":"01003",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES211",
+    "eurostat:nuts_2021_level_lau":"01003",
+    "eurostat:population":1442,
+    "eurostat:population_year":2020,
     "geom:area":0.008093,
-    "geom:area_square_m":73134053.496788,
+    "geom:area_square_m":73134053.496789,
     "geom:bbox":"-2.66167434,42.98222777,-2.52485144,43.08800913",
     "geom:latitude":43.046102,
     "geom:longitude":-2.593717,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_01003",
+        "eurostat:nuts_2021_id":"01003",
         "gp:id":12695018,
         "qs_pg:id":64826
     },
@@ -132,7 +148,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d23a2db123aec32a6fab258b90ae3ada",
+    "wof:geomhash":"c65451e2fef3f55d4ab0f501a3536f23",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404328939,
-    "wof:lastmodified":1582361842,
+    "wof:lastmodified":1684352202,
     "wof:name":"Aramaio",
     "wof:parent_id":85682615,
     "wof:placetype":"localadmin",
+    "wof:population":1442,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

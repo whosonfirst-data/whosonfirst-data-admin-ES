@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09413",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valle de Valdebezana",
+    "eurostat:nuts_2021_id":"09413",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09413",
+    "eurostat:population":456,
+    "eurostat:population_year":2020,
     "geom:area":0.01728,
-    "geom:area_square_m":156342289.412543,
+    "geom:area_square_m":156342289.412544,
     "geom:bbox":"-3.94546478,42.89616802,-3.68805945,43.0438546",
     "geom:latitude":42.969947,
     "geom:longitude":-3.823316,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09413",
+        "eurostat:nuts_2021_id":"09413",
         "gn:id":6356639,
         "gp:id":12691692,
         "qs_pg:id":1297871
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8bdc807edca7920a20dfc62f90df0a9c",
+    "wof:geomhash":"2076c525dc208beb1c8735a318fb4db0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332373,
-    "wof:lastmodified":1582361691,
+    "wof:lastmodified":1684352263,
     "wof:name":"Valle De Valdebezana",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":456,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

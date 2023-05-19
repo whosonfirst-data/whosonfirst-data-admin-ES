@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43088,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43088",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montbri\u00f3 del Camp",
+    "eurostat:nuts_2021_id":"43088",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43088",
+    "eurostat:population":2909,
+    "eurostat:population_year":2020,
     "geom:area":0.001131,
-    "geom:area_square_m":10538319.587858,
+    "geom:area_square_m":10538359.675898,
     "geom:bbox":"0.975055,41.10145,1.030102,41.133876",
     "geom:latitude":41.117642,
     "geom:longitude":1.001309,
@@ -58,6 +70,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -66,7 +80,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43088",
         "esp-icgc:la_lc":"043088",
+        "eurostat:nuts_2021_id":"43088",
         "gn:id":6361330,
         "gp:id":12694227,
         "qs_pg:id":191302
@@ -76,7 +92,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"d47cb64f493c38e32e5f3d32dcef6b13",
+    "wof:geomhash":"a93dbedff65e6536ee7a6a34ba28d10e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,10 +103,12 @@
         }
     ],
     "wof:id":404343589,
-    "wof:lastmodified":1669903064,
+    "wof:lastmodified":1684352457,
     "wof:name":"Montbri\u00f3 del Camp",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":2909,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

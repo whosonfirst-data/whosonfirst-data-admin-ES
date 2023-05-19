@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25208,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25208",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Soriguera",
+    "eurostat:nuts_2021_id":"25208",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25208",
+    "eurostat:population":420,
+    "eurostat:population_year":2020,
     "geom:area":0.011593,
-    "geom:area_square_m":105897710.296664,
+    "geom:area_square_m":105897710.296665,
     "geom:bbox":"1.02487678465,42.3287932775,1.26025101301,42.4415013595",
     "geom:latitude":42.37585,
     "geom:longitude":1.146188,
@@ -102,6 +114,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,13 +124,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"025208"
+        "eg:gisco_id":"ES_25208",
+        "esp-icgc:la_lc":"025208",
+        "eurostat:nuts_2021_id":"25208"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b66aa668c4b625d9833dc00a5917fd50",
+    "wof:geomhash":"f3c033d1a296e0ee74906438d4fbe35c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -127,10 +143,12 @@
         }
     ],
     "wof:id":404338021,
-    "wof:lastmodified":1582361450,
+    "wof:lastmodified":1684352368,
     "wof:name":"Soriguera",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":420,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

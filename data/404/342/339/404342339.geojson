@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caballar",
+    "eurostat:nuts_2021_id":"40034",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40034",
+    "eurostat:population":82,
+    "eurostat:population_year":2020,
     "geom:area":0.001805,
-    "geom:area_square_m":16810496.322162,
+    "geom:area_square_m":16810496.322161,
     "geom:bbox":"-3.99335808,41.09885603,-3.93636154,41.14889042",
     "geom:latitude":41.122622,
     "geom:longitude":-3.964247,
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_40034",
+        "eurostat:nuts_2021_id":"40034",
         "gn:id":6360777,
         "gp:id":12692542,
         "qs_pg:id":1263265
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0d9da7bb8dbef8766db19b8095658623",
+    "wof:geomhash":"2fc125e913798b3bedd6357393f573ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404342339,
-    "wof:lastmodified":1582361807,
+    "wof:lastmodified":1684352438,
     "wof:name":"Caballar",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":82,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

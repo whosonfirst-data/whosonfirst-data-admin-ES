@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09220",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Miraveche",
+    "eurostat:nuts_2021_id":"09220",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09220",
+    "eurostat:population":70,
+    "eurostat:population_year":2020,
     "geom:area":0.002494,
-    "geom:area_square_m":22667765.740359,
+    "geom:area_square_m":22667765.740361,
     "geom:bbox":"-3.22149915,42.65037581,-3.15532695,42.70558655",
     "geom:latitude":42.677844,
     "geom:longitude":-3.190755,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09220",
+        "eurostat:nuts_2021_id":"09220",
         "gn:id":6356498,
         "gp:id":12691547,
         "qs_pg:id":1317134
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8f1de298041047ba84e8228e62753e7d",
+    "wof:geomhash":"b78b583f365f1c9138ef3a369eea9e72",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404332023,
-    "wof:lastmodified":1582361678,
+    "wof:lastmodified":1684352260,
     "wof:name":"Miraveche",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":70,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_14010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Benamej\u00ed",
+    "eurostat:nuts_2021_id":"14010",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES613",
+    "eurostat:nuts_2021_level_lau":"14010",
+    "eurostat:population":4963,
+    "eurostat:population_year":2020,
     "geom:area":0.005418,
     "geom:area_square_m":53326898.215637,
     "geom:bbox":"-4.60437459,37.20916172,-4.48943838,37.28969341",
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_14010",
+        "eurostat:nuts_2021_id":"14010",
         "gn:id":6357205,
         "gp:id":12688781,
         "qs_pg:id":1003597
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"30d234a18e0f301e2bb7fcfdb0605408",
+    "wof:geomhash":"113f0ee6fd97e1100c329f2c4e155454",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404333661,
-    "wof:lastmodified":1582361768,
+    "wof:lastmodified":1684352282,
     "wof:name":"Benamej\u00ed",
     "wof:parent_id":85682697,
     "wof:placetype":"localadmin",
+    "wof:population":4963,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

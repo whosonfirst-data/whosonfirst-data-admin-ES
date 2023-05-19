@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Almarza",
+    "eurostat:nuts_2021_id":"42019",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42019",
+    "eurostat:population":602,
+    "eurostat:population_year":2020,
     "geom:area":0.010979,
-    "geom:area_square_m":100984670.129347,
+    "geom:area_square_m":100984670.129349,
     "geom:bbox":"-2.52613676,41.86374434,-2.39362191,42.01711508",
     "geom:latitude":41.936363,
     "geom:longitude":-2.461808,
@@ -216,6 +228,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -224,6 +238,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42019",
+        "eurostat:nuts_2021_id":"42019",
         "gn:id":6361077,
         "gp:id":12692736,
         "qs_pg:id":1148898
@@ -232,7 +248,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"738d7ddf9409e87a3b3f13cbe1893549",
+    "wof:geomhash":"8f527ab13e2ed8c68a9fdd43f12a948a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -243,10 +259,12 @@
         }
     ],
     "wof:id":404343017,
-    "wof:lastmodified":1582361887,
+    "wof:lastmodified":1684352446,
     "wof:name":"Almarza",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":602,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

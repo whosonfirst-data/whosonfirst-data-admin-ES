@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_32091",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vilardev\u00f3s",
+    "eurostat:nuts_2021_id":"32091",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES113",
+    "eurostat:nuts_2021_level_lau":"32091",
+    "eurostat:population":1802,
+    "eurostat:population_year":2020,
     "geom:area":0.016507,
     "geom:area_square_m":151914892.966972,
     "geom:bbox":"-7.40778663,41.84010995,-7.1817866,41.99262765",
@@ -105,6 +117,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -112,9 +126,12 @@
         404227385
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_32091",
+        "eurostat:nuts_2021_id":"32091"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"0351c1e88a1b63d547ccc635aa45e653",
+    "wof:geomhash":"13d934bec49a867ad952989f5fd39108",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +142,12 @@
         }
     ],
     "wof:id":404340277,
-    "wof:lastmodified":1566590418,
+    "wof:lastmodified":1684352404,
     "wof:name":"Vilardev\u00f3s",
     "wof:parent_id":85682801,
     "wof:placetype":"localadmin",
+    "wof:population":1802,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

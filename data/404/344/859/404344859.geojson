@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alfarras\u00ed",
+    "eurostat:nuts_2021_id":"46027",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46027",
+    "eurostat:population":1219,
+    "eurostat:population_year":2020,
     "geom:area":0.000663,
     "geom:area_square_m":6375179.35134,
     "geom:bbox":"-0.5189001,38.89061404,-0.48569646,38.92745433",
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46027",
+        "eurostat:nuts_2021_id":"46027",
         "gn:id":6361892,
         "gp:id":12695567,
         "qs_pg:id":204876
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d7c481ee9bf80ec5813f078f1551ed4e",
+    "wof:geomhash":"452c81019937d61ca2e867e1bf4f4fbe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404344859,
-    "wof:lastmodified":1582361847,
+    "wof:lastmodified":1684352479,
     "wof:name":"Alfarras\u00ed",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":1219,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

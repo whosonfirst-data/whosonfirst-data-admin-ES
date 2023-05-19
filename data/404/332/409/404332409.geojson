@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09430",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villaespasa",
+    "eurostat:nuts_2021_id":"09430",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09430",
+    "eurostat:population":27,
+    "eurostat:population_year":2020,
     "geom:area":0.002122,
-    "geom:area_square_m":19465955.644596,
+    "geom:area_square_m":19465955.644597,
     "geom:bbox":"-3.42647963,42.0793509,-3.36674175,42.15119666",
     "geom:latitude":42.114792,
     "geom:longitude":-3.392419,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09430",
+        "eurostat:nuts_2021_id":"09430",
         "gn:id":6356654,
         "gp:id":12691706,
         "qs_pg:id":46355
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"edf7c0f87af50bdbbfc200b02f8d903b",
+    "wof:geomhash":"4a54096bca1165bb12984302a7dfba6e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404332409,
-    "wof:lastmodified":1582361681,
+    "wof:lastmodified":1684352264,
     "wof:name":"Villaespasa",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":27,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

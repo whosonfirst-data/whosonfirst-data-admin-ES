@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8191,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08191",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sallent",
+    "eurostat:nuts_2021_id":"08191",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08191",
+    "eurostat:population":6735,
+    "eurostat:population_year":2020,
     "geom:area":0.007068,
-    "geom:area_square_m":65117098.968473,
+    "geom:area_square_m":65116900.909729,
     "geom:bbox":"1.846679,41.772371,1.963869,41.906462",
     "geom:latitude":41.832238,
     "geom:longitude":1.905987,
@@ -142,6 +154,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -150,7 +164,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08191",
         "esp-icgc:la_lc":"08191",
+        "eurostat:nuts_2021_id":"08191",
         "gn:id":6356215,
         "gp:id":12693569,
         "qs_pg:id":1315330
@@ -160,7 +176,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"62bb4057c0f299fc36e789ef708c198f",
+    "wof:geomhash":"217017f1f2d60bbece04db3c52dd0eaa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -171,10 +187,12 @@
         }
     ],
     "wof:id":404331303,
-    "wof:lastmodified":1669903006,
+    "wof:lastmodified":1684352248,
     "wof:name":"Sallent",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":6735,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

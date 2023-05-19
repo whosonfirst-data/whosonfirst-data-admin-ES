@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37320",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tejeda y Segoyuela",
+    "eurostat:nuts_2021_id":"37320",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37320",
+    "eurostat:population":89,
+    "eurostat:population_year":2020,
     "geom:area":0.004695,
     "geom:area_square_m":44049742.767243,
     "geom:bbox":"-6.08694876,40.61602937,-5.95636006,40.68780304",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37320",
+        "eurostat:nuts_2021_id":"37320",
         "gn:id":6360557,
         "gp:id":12692450,
         "qs_pg:id":185500
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"30564cbe3e27ad273c81dac26433c025",
+    "wof:geomhash":"989d3c72bbbb4f2df189d4b22b7fa8d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404341779,
-    "wof:lastmodified":1582361632,
+    "wof:lastmodified":1684352428,
     "wof:name":"Tejeda Y Segoyuela",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":89,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

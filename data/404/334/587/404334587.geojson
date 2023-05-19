@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17014,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vajol, La",
+    "eurostat:nuts_2021_id":"17014",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17014",
+    "eurostat:population":89,
+    "eurostat:population_year":2020,
     "geom:area":0.000524,
-    "geom:area_square_m":4784337.018108,
+    "geom:area_square_m":4784339.476784,
     "geom:bbox":"2.771149,42.392588,2.821183,42.418754",
     "geom:latitude":42.405496,
     "geom:longitude":2.798964,
@@ -130,6 +142,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -138,7 +152,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17014",
         "esp-icgc:la_lc":"017014",
+        "eurostat:nuts_2021_id":"17014",
         "gn:id":6534013,
         "gp:id":12693881,
         "qs_pg:id":1003881
@@ -148,7 +164,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"26480547e5093ec85438b36f1942812b",
+    "wof:geomhash":"1f187bc01fd9645bc342b7c481d1c2c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,10 +175,12 @@
         }
     ],
     "wof:id":404334587,
-    "wof:lastmodified":1669903047,
+    "wof:lastmodified":1684352300,
     "wof:name":"La Vajol",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":89,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

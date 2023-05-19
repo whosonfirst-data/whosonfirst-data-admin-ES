@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10078",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Garganta, La",
+    "eurostat:nuts_2021_id":"10078",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10078",
+    "eurostat:population":365,
+    "eurostat:population_year":2020,
     "geom:area":0.002551,
-    "geom:area_square_m":24051974.285973,
+    "geom:area_square_m":24051974.285972,
     "geom:bbox":"-5.85699739,40.28501577,-5.78199228,40.35375055",
     "geom:latitude":40.322038,
     "geom:longitude":-5.812186,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10078",
+        "eurostat:nuts_2021_id":"10078",
         "gn:id":6356774,
         "qs_pg:id":621577
     },
@@ -120,7 +136,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1e99884baceffde9f4e0e9c99ba2b186",
+    "wof:geomhash":"7fc073a013fc6b3d42a5897c679470a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404332683,
-    "wof:lastmodified":1582361688,
+    "wof:lastmodified":1684352267,
     "wof:name":"La Garganta",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":365,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

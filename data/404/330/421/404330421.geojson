@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06029",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campillo de Llerena",
+    "eurostat:nuts_2021_id":"06029",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06029",
+    "eurostat:population":1343,
+    "eurostat:population_year":2020,
     "geom:area":0.024171,
-    "geom:area_square_m":233885844.617757,
+    "geom:area_square_m":233885844.617755,
     "geom:bbox":"-5.954362,38.41747141,-5.67991611,38.60185254",
     "geom:latitude":38.505022,
     "geom:longitude":-5.80318,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06029",
+        "eurostat:nuts_2021_id":"06029",
         "gn:id":6355894,
         "gp:id":12694348,
         "qs_pg:id":1019408
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"75ad0abd1f26035fe5413a58bcbf0dd6",
+    "wof:geomhash":"b1c94be3f163cbf4e8b358bc9ba81088",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330421,
-    "wof:lastmodified":1582361536,
+    "wof:lastmodified":1684352223,
     "wof:name":"Campillo De Llerena",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":1343,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

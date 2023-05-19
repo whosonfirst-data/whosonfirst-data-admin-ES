@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ferreruela de Huerva",
+    "eurostat:nuts_2021_id":"44101",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44101",
+    "eurostat:population":64,
+    "eurostat:population_year":2020,
     "geom:area":0.002189,
-    "geom:area_square_m":20414924.843939,
+    "geom:area_square_m":20414924.843937,
     "geom:bbox":"-1.28743148,41.03164417,-1.20488164,41.0793073",
     "geom:latitude":41.053749,
     "geom:longitude":-1.24632,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44101",
+        "eurostat:nuts_2021_id":"44101",
         "gn:id":6361513,
         "gp:id":12689684,
         "qs_pg:id":45441
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bfedfee2c1e93ac4941e01551aed437f",
+    "wof:geomhash":"805dc8ae117d96df1cd49ecb4ef263b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404344003,
-    "wof:lastmodified":1582361856,
+    "wof:lastmodified":1684352468,
     "wof:name":"Ferreruela De Huerva",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":64,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":8091,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08091",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gelida",
+    "eurostat:nuts_2021_id":"08091",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08091",
+    "eurostat:population":7670,
+    "eurostat:population_year":2020,
     "geom:area":0.002856,
     "geom:area_square_m":26478352.853966,
     "geom:bbox":"1.8146720737,41.3989438515,1.89713524454,41.4654139633",
@@ -127,6 +139,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -135,7 +149,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08091",
         "esp-icgc:la_lc":"08091",
+        "eurostat:nuts_2021_id":"08091",
         "gn:id":6356121,
         "gp:id":12693471,
         "qs_pg:id":1076902
@@ -145,7 +161,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"03bf44ab9e8a40852287665fcbf5e5a5",
+    "wof:geomhash":"6a31c33544e46646d762799dad49f3e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404331083,
-    "wof:lastmodified":1582361486,
+    "wof:lastmodified":1684352240,
     "wof:name":"Gelida",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":7670,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

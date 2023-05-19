@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50115",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fuentes de Ebro",
+    "eurostat:nuts_2021_id":"50115",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50115",
+    "eurostat:population":4549,
+    "eurostat:population_year":2020,
     "geom:area":0.015277,
-    "geom:area_square_m":141544008.022948,
+    "geom:area_square_m":141544008.022947,
     "geom:bbox":"-0.69889657,41.38550237,-0.55473893,41.55915406",
     "geom:latitude":41.472035,
     "geom:longitude":-0.628336,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50115",
+        "eurostat:nuts_2021_id":"50115",
         "gn:id":6362805,
         "gp:id":12689945,
         "qs_pg:id":207035
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d8bfb8dca0893ef741d530d0674196ce",
+    "wof:geomhash":"e082b18b3ed4d159b42e2d9601f3c390",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404346963,
-    "wof:lastmodified":1582361608,
+    "wof:lastmodified":1684352505,
     "wof:name":"Fuentes De Ebro",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":4549,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

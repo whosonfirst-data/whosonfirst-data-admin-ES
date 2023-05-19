@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ar\u00e9n",
+    "eurostat:nuts_2021_id":"22035",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22035",
+    "eurostat:population":308,
+    "eurostat:population_year":2020,
     "geom:area":0.013024,
-    "geom:area_square_m":119135788.068386,
+    "geom:area_square_m":119135788.068387,
     "geom:bbox":"0.6128036,42.20403077,0.7397658,42.38219533",
     "geom:latitude":42.290062,
     "geom:longitude":0.674857,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22035",
+        "eurostat:nuts_2021_id":"22035",
         "gn:id":6358283,
         "gp:id":12689424,
         "qs_pg:id":352100
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5ac9641fac3e030bd969dcfa43a1aafa",
+    "wof:geomhash":"c9ea1bd3c69ef88a19a093e164c16cfd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404336523,
-    "wof:lastmodified":1582361478,
+    "wof:lastmodified":1684352340,
     "wof:name":"Ar\u00e9n",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":308,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

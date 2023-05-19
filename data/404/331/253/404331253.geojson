@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8167,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08167",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Poliny\u00e0",
+    "eurostat:nuts_2021_id":"08167",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08167",
+    "eurostat:population":8504,
+    "eurostat:population_year":2020,
     "geom:area":0.000973,
-    "geom:area_square_m":9006395.275458,
+    "geom:area_square_m":9006338.85294,
     "geom:bbox":"2.126072,41.536638,2.174471,41.576298",
     "geom:latitude":41.557748,
     "geom:longitude":2.152259,
@@ -121,6 +133,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -129,7 +143,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08167",
         "esp-icgc:la_lc":"08167",
+        "eurostat:nuts_2021_id":"08167",
         "gn:id":6356193,
         "gp:id":12693546,
         "qs_pg:id":312999
@@ -139,7 +155,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"94704f6984e50df0521721dc021304f2",
+    "wof:geomhash":"f5720951f44778da50633388189a1a21",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404331253,
-    "wof:lastmodified":1669903011,
+    "wof:lastmodified":1684352246,
     "wof:name":"Poliny\u00e0",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":8504,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

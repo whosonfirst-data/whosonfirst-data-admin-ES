@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_13016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Almuradiel",
+    "eurostat:nuts_2021_id":"13016",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES422",
+    "eurostat:nuts_2021_level_lau":"13016",
+    "eurostat:population":761,
+    "eurostat:population_year":2020,
     "geom:area":0.00683,
-    "geom:area_square_m":66120871.419061,
+    "geom:area_square_m":66120871.419062,
     "geom:bbox":"-3.53111839,38.41308503,-3.42550885,38.52385231",
     "geom:latitude":38.469097,
     "geom:longitude":-3.488469,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_13016",
+        "eurostat:nuts_2021_id":"13016",
         "gn:id":6357110,
         "gp:id":12690313,
         "qs_pg:id":78450
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2016c7688530c56e6da244b06921611a",
+    "wof:geomhash":"b00aad1c85e529eccd52ccf9e14e6d20",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404333445,
-    "wof:lastmodified":1582361778,
+    "wof:lastmodified":1684352279,
     "wof:name":"Almuradiel",
     "wof:parent_id":85682689,
     "wof:placetype":"localadmin",
+    "wof:population":761,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

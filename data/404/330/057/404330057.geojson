@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05130",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mironcillo",
+    "eurostat:nuts_2021_id":"05130",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05130",
+    "eurostat:population":106,
+    "eurostat:population_year":2020,
     "geom:area":0.001619,
-    "geom:area_square_m":15214700.04738,
+    "geom:area_square_m":15214700.047381,
     "geom:bbox":"-4.84402782,40.52358758,-4.79519315,40.5873142",
     "geom:latitude":40.555555,
     "geom:longitude":-4.822698,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05130",
+        "eurostat:nuts_2021_id":"05130",
         "gn:id":6355733,
         "gp:id":12691242,
         "qs_pg:id":954378
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cf8dbd9800009d1109c233edcc53555e",
+    "wof:geomhash":"e96381923a5cce255284fe6a1425b178",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404330057,
-    "wof:lastmodified":1582361539,
+    "wof:lastmodified":1684352219,
     "wof:name":"Mironcillo",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":106,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

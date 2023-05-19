@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37310",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sieteiglesias de Tormes",
+    "eurostat:nuts_2021_id":"37310",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37310",
+    "eurostat:population":193,
+    "eurostat:population_year":2020,
     "geom:area":0.001524,
     "geom:area_square_m":14278070.723916,
     "geom:bbox":"-5.62846214,40.7133464,-5.55739275,40.76438804",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_37310",
+        "eurostat:nuts_2021_id":"37310"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"ec7036a04000ee6edf7be4b0c16d62c7",
+    "wof:geomhash":"950c5663269a63b465c91482ce3fd6b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404341757,
-    "wof:lastmodified":1566590336,
+    "wof:lastmodified":1684352428,
     "wof:name":"Sieteiglesias De Tormes",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":193,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

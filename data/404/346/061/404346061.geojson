@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48070",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aulesti",
+    "eurostat:nuts_2021_id":"48070",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48070",
+    "eurostat:population":657,
+    "eurostat:population_year":2020,
     "geom:area":0.002807,
-    "geom:area_square_m":25264198.517757,
+    "geom:area_square_m":25264198.517756,
     "geom:bbox":"-2.60214945,43.26851722,-2.51417726,43.32889556",
     "geom:latitude":43.294967,
     "geom:longitude":-2.55631,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_48070",
+        "eurostat:nuts_2021_id":"48070",
         "gn:id":3115877,
         "gp:id":12695171,
         "qs_pg:id":303465
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f0fe717a3c044c1f91c085ab05ce05fd",
+    "wof:geomhash":"5602e9bcea717caf6f96cdad5444aa00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404346061,
-    "wof:lastmodified":1582361618,
+    "wof:lastmodified":1684352494,
     "wof:name":"Aulesti",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":657,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

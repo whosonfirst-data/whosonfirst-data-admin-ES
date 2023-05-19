@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45054",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Corral de Almaguer",
+    "eurostat:nuts_2021_id":"45054",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45054",
+    "eurostat:population":5246,
+    "eurostat:population_year":2020,
     "geom:area":0.034548,
-    "geom:area_square_m":328400054.670896,
+    "geom:area_square_m":328400054.670895,
     "geom:bbox":"-3.35085097,39.65268505,-3.01536361,39.86373867",
     "geom:latitude":39.759814,
     "geom:longitude":-3.189794,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45054",
+        "eurostat:nuts_2021_id":"45054",
         "gn:id":6361714,
         "gp:id":12690977,
         "qs_pg:id":51678
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7e83070d2c55da859a34e9df5488d21a",
+    "wof:geomhash":"fa28ebd25d3d7084641dc3fc82863dc7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404344459,
-    "wof:lastmodified":1582361857,
+    "wof:lastmodified":1684352474,
     "wof:name":"Corral De Almaguer",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":5246,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

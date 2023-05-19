@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44088",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cuba, La",
+    "eurostat:nuts_2021_id":"44088",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44088",
+    "eurostat:population":43,
+    "eurostat:population_year":2020,
     "geom:area":0.000693,
     "geom:area_square_m":6507533.789875,
     "geom:bbox":"-0.31771957,40.56619093,-0.29231108,40.6110414",
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44088",
+        "eurostat:nuts_2021_id":"44088",
         "gn:id":6361503,
         "qs_pg:id":621902
     },
@@ -111,7 +127,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1ed86d6d4312f6fc9bd3064f8f69b459",
+    "wof:geomhash":"48cc14e9b405ae51b6c0a79717bd01f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +138,12 @@
         }
     ],
     "wof:id":404343979,
-    "wof:lastmodified":1582361874,
+    "wof:lastmodified":1684352468,
     "wof:name":"La Cuba",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":43,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

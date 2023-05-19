@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17080,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17080",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gombr\u00e8n",
+    "eurostat:nuts_2021_id":"17080",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17080",
+    "eurostat:population":192,
+    "eurostat:population_year":2020,
     "geom:area":0.004724,
-    "geom:area_square_m":43233576.11418,
+    "geom:area_square_m":43233594.857809,
     "geom:bbox":"2.017029,42.214494,2.124588,42.291158",
     "geom:latitude":42.250653,
     "geom:longitude":2.070281,
@@ -120,6 +132,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,13 +142,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"017080"
+        "eg:gisco_id":"ES_17080",
+        "esp-icgc:la_lc":"017080",
+        "eurostat:nuts_2021_id":"17080"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"557c72c647fcfb27c1134c2c34b5a554",
+    "wof:geomhash":"172f323b41cc65fb4ea82cd6a453bb1c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,10 +161,12 @@
         }
     ],
     "wof:id":404334723,
-    "wof:lastmodified":1669903047,
+    "wof:lastmodified":1684352306,
     "wof:name":"Gombr\u00e8n",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":192,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

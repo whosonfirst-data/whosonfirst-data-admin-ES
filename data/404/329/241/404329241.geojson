@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_02083",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villavaliente",
+    "eurostat:nuts_2021_id":"02083",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES421",
+    "eurostat:nuts_2021_level_lau":"02083",
+    "eurostat:population":220,
+    "eurostat:population_year":2020,
     "geom:area":0.003629,
-    "geom:area_square_m":34813551.914541,
+    "geom:area_square_m":34813551.914539,
     "geom:bbox":"-1.52317804,39.08370987,-1.41596928,39.1502051",
     "geom:latitude":39.117837,
     "geom:longitude":-1.468242,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_02083",
+        "eurostat:nuts_2021_id":"02083",
         "gn:id":6355373,
         "gp:id":12690294,
         "qs_pg:id":1260255
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fc290c3337331045c8ea86537b743dcf",
+    "wof:geomhash":"d45ba7b0fdc2cd51c0bad74cab097876",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404329241,
-    "wof:lastmodified":1582361798,
+    "wof:lastmodified":1684352206,
     "wof:name":"Villavaliente",
     "wof:parent_id":85682621,
     "wof:placetype":"localadmin",
+    "wof:population":220,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

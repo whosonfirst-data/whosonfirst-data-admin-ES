@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Irixoa",
+    "eurostat:nuts_2021_id":"15039",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15039",
+    "eurostat:population":1340,
+    "eurostat:population_year":2020,
     "geom:area":0.00759,
-    "geom:area_square_m":68316837.015166,
+    "geom:area_square_m":68316837.015161,
     "geom:bbox":"-8.14901445,43.24435354,-7.98492815,43.33101198",
     "geom:latitude":43.285497,
     "geom:longitude":-8.0696,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_15039",
+        "eurostat:nuts_2021_id":"15039",
         "gn:id":6357308,
         "gp:id":12694741,
         "qs_pg:id":1198241
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"074f3aadf001455dd415d1c52c8eb8e7",
+    "wof:geomhash":"865c426e07018727ecfacf557746a29a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404333895,
-    "wof:lastmodified":1582361765,
+    "wof:lastmodified":1684352288,
     "wof:name":"Irixoa",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":1340,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

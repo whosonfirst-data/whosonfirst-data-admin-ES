@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15082",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Teo",
+    "eurostat:nuts_2021_id":"15082",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15082",
+    "eurostat:population":18632,
+    "eurostat:population_year":2020,
     "geom:area":0.008726,
-    "geom:area_square_m":79172310.371935,
+    "geom:area_square_m":79172310.371936,
     "geom:bbox":"-8.63324685,42.74297826,-8.49117754,42.8463217",
     "geom:latitude":42.797257,
     "geom:longitude":-8.564938,
@@ -57,6 +69,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -65,6 +79,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_15082",
+        "eurostat:nuts_2021_id":"15082",
         "gn:id":6357350,
         "gp:id":12694784,
         "qs_pg:id":408791
@@ -73,7 +89,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a662079a86293b7f6d62503e01b415b5",
+    "wof:geomhash":"a363406b6ce51d944a34f163c150451e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +100,12 @@
         }
     ],
     "wof:id":404333993,
-    "wof:lastmodified":1582361774,
+    "wof:lastmodified":1684352291,
     "wof:name":"Teo",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":18632,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

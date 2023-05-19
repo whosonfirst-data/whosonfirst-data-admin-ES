@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45163",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sonseca",
+    "eurostat:nuts_2021_id":"45163",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45163",
+    "eurostat:population":11082,
+    "eurostat:population_year":2020,
     "geom:area":0.006249,
-    "geom:area_square_m":59502564.772258,
+    "geom:area_square_m":59502564.772259,
     "geom:bbox":"-4.04890207,39.59133983,-3.94778473,39.69541685",
     "geom:latitude":39.641404,
     "geom:longitude":-3.995182,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45163",
+        "eurostat:nuts_2021_id":"45163",
         "gn:id":6361823,
         "gp:id":12691085,
         "qs_pg:id":1003697
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5b6cf98b60ab1501228515bc56a9b23e",
+    "wof:geomhash":"cb9aa0ea81d5693e432f58f0585f0d78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404344705,
-    "wof:lastmodified":1582361852,
+    "wof:lastmodified":1684352477,
     "wof:name":"Sonseca",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":11082,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43013,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ametlla de Mar, L'",
+    "eurostat:nuts_2021_id":"43013",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43013",
+    "eurostat:population":6866,
+    "eurostat:population_year":2020,
     "geom:area":0.007165,
-    "geom:area_square_m":66955059.533581,
+    "geom:area_square_m":66955079.525294,
     "geom:bbox":"0.68469,40.845941,0.857773,40.94417",
     "geom:latitude":40.907309,
     "geom:longitude":0.775591,
@@ -59,6 +71,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -67,7 +81,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43013",
         "esp-icgc:la_lc":"043013",
+        "eurostat:nuts_2021_id":"43013",
         "gn:id":6361256,
         "gp:id":12694150,
         "qs_pg:id":1209020
@@ -77,7 +93,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e16a5f6bd5dbeac42f2291280f15e45f",
+    "wof:geomhash":"8f8dc0cd346f5b7f849dd618570d07d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,10 +104,12 @@
         }
     ],
     "wof:id":404343421,
-    "wof:lastmodified":1669903066,
+    "wof:lastmodified":1684352452,
     "wof:name":"L'Ametlla de Mar",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":6866,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

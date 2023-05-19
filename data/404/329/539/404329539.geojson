@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03131",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tormos",
+    "eurostat:nuts_2021_id":"03131",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03131",
+    "eurostat:population":318,
+    "eurostat:population_year":2020,
     "geom:area":0.000555,
-    "geom:area_square_m":5350124.297235,
+    "geom:area_square_m":5350124.297236,
     "geom:bbox":"-0.09697521,38.79396266,-0.03641065,38.81594031",
     "geom:latitude":38.803826,
     "geom:longitude":-0.072811,
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03131",
+        "eurostat:nuts_2021_id":"03131",
         "gn:id":6355504,
         "gp:id":12695397,
         "qs_pg:id":204860
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4701b64b91a1516e4ec116f91588a981",
+    "wof:geomhash":"a05039de34882d63b0b598213ba54eaa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404329539,
-    "wof:lastmodified":1582361795,
+    "wof:lastmodified":1684352211,
     "wof:name":"Tormos",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":318,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

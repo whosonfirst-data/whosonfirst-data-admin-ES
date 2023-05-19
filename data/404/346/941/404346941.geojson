@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Farlete",
+    "eurostat:nuts_2021_id":"50104",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50104",
+    "eurostat:population":366,
+    "eurostat:population_year":2020,
     "geom:area":0.011258,
-    "geom:area_square_m":103970239.510684,
+    "geom:area_square_m":103970239.510685,
     "geom:bbox":"-0.60043742,41.61203177,-0.46309044,41.73456959",
     "geom:latitude":41.681224,
     "geom:longitude":-0.537537,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50104",
+        "eurostat:nuts_2021_id":"50104",
         "gn:id":6362795,
         "gp:id":12689935,
         "qs_pg:id":1146851
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"de1c6d064c9150379fece570393a75a6",
+    "wof:geomhash":"14e08792586562fae1a1eb10398c2e75",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404346941,
-    "wof:lastmodified":1582361612,
+    "wof:lastmodified":1684352505,
     "wof:name":"Farlete",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":366,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

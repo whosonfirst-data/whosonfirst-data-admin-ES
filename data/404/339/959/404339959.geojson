@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31224",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sesma",
+    "eurostat:nuts_2021_id":"31224",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31224",
+    "eurostat:population":1161,
+    "eurostat:population_year":2020,
     "geom:area":0.007808,
-    "geom:area_square_m":71217473.467892,
+    "geom:area_square_m":71217473.467891,
     "geom:bbox":"-2.16216138,42.41761578,-2.01007643,42.52868966",
     "geom:latitude":42.470661,
     "geom:longitude":-2.087122,
@@ -87,6 +99,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -95,6 +109,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31224",
+        "eurostat:nuts_2021_id":"31224",
         "gn:id":6359771,
         "gp:id":12688402,
         "qs_pg:id":953355
@@ -103,7 +119,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f69a3a8e6b38f5d463b4b3e64a525c1f",
+    "wof:geomhash":"6b19c795ed05b5b3c44c81653ed87d97",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,10 +130,12 @@
         }
     ],
     "wof:id":404339959,
-    "wof:lastmodified":1582361590,
+    "wof:lastmodified":1684352400,
     "wof:name":"Sesma",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":1161,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

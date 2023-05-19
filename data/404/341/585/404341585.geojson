@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37233",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pastores",
+    "eurostat:nuts_2021_id":"37233",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37233",
+    "eurostat:population":56,
+    "eurostat:population_year":2020,
     "geom:area":0.001348,
-    "geom:area_square_m":12673161.064662,
+    "geom:area_square_m":12673161.064663,
     "geom:bbox":"-6.5241165,40.49643511,-6.47704773,40.54472018",
     "geom:latitude":40.520087,
     "geom:longitude":-6.498705,
@@ -63,6 +75,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -71,6 +85,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37233",
+        "eurostat:nuts_2021_id":"37233",
         "gn:id":6360472,
         "gp:id":12692364,
         "qs_pg:id":497175
@@ -79,7 +95,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"378b5a74940d455876166ac583258983",
+    "wof:geomhash":"da44712c8a3d2a0e74d13762bdf3ec67",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,10 +106,12 @@
         }
     ],
     "wof:id":404341585,
-    "wof:lastmodified":1582361640,
+    "wof:lastmodified":1684352426,
     "wof:name":"Pastores",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":56,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_20018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Azpeitia",
+    "eurostat:nuts_2021_id":"20018",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES212",
+    "eurostat:nuts_2021_level_lau":"20018",
+    "eurostat:population":15106,
+    "eurostat:population_year":2020,
     "geom:area":0.00768,
-    "geom:area_square_m":69268761.927253,
+    "geom:area_square_m":69268761.927252,
     "geom:bbox":"-2.30656466,43.10550652,-2.20425491,43.22495495",
     "geom:latitude":43.162555,
     "geom:longitude":-2.259751,
@@ -132,6 +144,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -140,6 +154,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_20018",
+        "eurostat:nuts_2021_id":"20018",
         "gn:id":3129059,
         "gp:id":12695087,
         "qs_pg:id":960106
@@ -148,7 +164,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ceb5943b67109ef559cd2fd3a6a5587c",
+    "wof:geomhash":"091341a5da32a22a43707850eb48ab00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,10 +175,12 @@
         }
     ],
     "wof:id":404336123,
-    "wof:lastmodified":1582361476,
+    "wof:lastmodified":1684352333,
     "wof:name":"Azpeitia",
     "wof:parent_id":85682741,
     "wof:placetype":"localadmin",
+    "wof:population":15106,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

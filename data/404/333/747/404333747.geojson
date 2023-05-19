@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_14048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Palenciana",
+    "eurostat:nuts_2021_id":"14048",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES613",
+    "eurostat:nuts_2021_level_lau":"14048",
+    "eurostat:population":1465,
+    "eurostat:population_year":2020,
     "geom:area":0.001638,
-    "geom:area_square_m":16126882.038741,
+    "geom:area_square_m":16126882.03874,
     "geom:bbox":"-4.61906922,37.22145884,-4.56531018,37.27731723",
     "geom:latitude":37.249011,
     "geom:longitude":-4.5915,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_14048",
+        "eurostat:nuts_2021_id":"14048",
         "gn:id":6357243,
         "gp:id":12688819,
         "qs_pg:id":44937
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8e83440777d3a3b9594aba286cd613e2",
+    "wof:geomhash":"e0db5ca2843feae5637e5e33c7fe8fae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404333747,
-    "wof:lastmodified":1582361770,
+    "wof:lastmodified":1684352284,
     "wof:name":"Palenciana",
     "wof:parent_id":85682697,
     "wof:placetype":"localadmin",
+    "wof:population":1465,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

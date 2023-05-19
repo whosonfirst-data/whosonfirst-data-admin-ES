@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_21077",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villarrasa",
+    "eurostat:nuts_2021_id":"21077",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES615",
+    "eurostat:nuts_2021_level_lau":"21077",
+    "eurostat:population":2211,
+    "eurostat:population_year":2020,
     "geom:area":0.007343,
-    "geom:area_square_m":72128036.509316,
+    "geom:area_square_m":72128036.509314,
     "geom:bbox":"-6.68070922,37.33593622,-6.57748926,37.45895625",
     "geom:latitude":37.400798,
     "geom:longitude":-6.62823,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_21077",
+        "eurostat:nuts_2021_id":"21077",
         "gn:id":6358253,
         "gp:id":12689091,
         "qs_pg:id":244875
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"829ab7420597a16ab781bb1cdcea9975",
+    "wof:geomhash":"0e3a50dfcc6d50895b651d824d95c68f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404336453,
-    "wof:lastmodified":1582361465,
+    "wof:lastmodified":1684352339,
     "wof:name":"Villarrasa",
     "wof:parent_id":85682749,
     "wof:placetype":"localadmin",
+    "wof:population":2211,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

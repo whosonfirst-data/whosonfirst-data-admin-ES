@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09058",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Buniel",
+    "eurostat:nuts_2021_id":"09058",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09058",
+    "eurostat:population":563,
+    "eurostat:population_year":2020,
     "geom:area":0.00145,
     "geom:area_square_m":13263254.127891,
     "geom:bbox":"-3.83454904,42.29296837,-3.76913273,42.3293234",
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09058",
+        "eurostat:nuts_2021_id":"09058",
         "gn:id":6356376,
         "gp:id":12691422,
         "qs_pg:id":1129945
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2d01530ce0651b688606eb41eb949a43",
+    "wof:geomhash":"618249f2f99115576f4863b968ea34de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404331713,
-    "wof:lastmodified":1582361495,
+    "wof:lastmodified":1684352257,
     "wof:name":"Buniel",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":563,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50120",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Godojos",
+    "eurostat:nuts_2021_id":"50120",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50120",
+    "eurostat:population":53,
+    "eurostat:population_year":2020,
     "geom:area":0.001802,
-    "geom:area_square_m":16750772.509001,
+    "geom:area_square_m":16750772.509002,
     "geom:bbox":"-1.90890662,41.24068637,-1.83026612,41.2860827",
     "geom:latitude":41.2624,
     "geom:longitude":-1.871053,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50120",
+        "eurostat:nuts_2021_id":"50120",
         "gn:id":6362810,
         "gp:id":12689950,
         "qs_pg:id":954142
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"52e996dcc3f8af3eea9d6ad8a0bfa777",
+    "wof:geomhash":"f22c7498f737b2f6239fcb938e2cea73",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404346975,
-    "wof:lastmodified":1582361622,
+    "wof:lastmodified":1684352505,
     "wof:name":"Godojos",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":53,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

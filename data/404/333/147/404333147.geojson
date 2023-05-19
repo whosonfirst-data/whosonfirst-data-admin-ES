@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Azu\u00e9bar",
+    "eurostat:nuts_2021_id":"12018",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12018",
+    "eurostat:population":310,
+    "eurostat:population_year":2020,
     "geom:area":0.002463,
-    "geom:area_square_m":23378413.914704,
+    "geom:area_square_m":23378413.914705,
     "geom:bbox":"-0.39785183,39.81787973,-0.32963616,39.88047576",
     "geom:latitude":39.850658,
     "geom:longitude":-0.366371,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12018",
+        "eurostat:nuts_2021_id":"12018",
         "gn:id":6356977,
         "gp:id":12695425,
         "qs_pg:id":48467
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"248eb4b84a4505b71ef25d3323075a47",
+    "wof:geomhash":"189c289a3f88026040fc397b141f0306",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404333147,
-    "wof:lastmodified":1582361785,
+    "wof:lastmodified":1684352275,
     "wof:name":"Azu\u00e9bar",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":310,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

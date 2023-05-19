@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alberite de San Juan",
+    "eurostat:nuts_2021_id":"50010",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50010",
+    "eurostat:population":74,
+    "eurostat:population_year":2020,
     "geom:area":0.001217,
-    "geom:area_square_m":11218712.364192,
+    "geom:area_square_m":11218712.364193,
     "geom:bbox":"-1.48633386,41.77202253,-1.43440008,41.83051457",
     "geom:latitude":41.80256,
     "geom:longitude":-1.461959,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50010",
+        "eurostat:nuts_2021_id":"50010",
         "gn:id":6362704,
         "gp:id":12689843,
         "qs_pg:id":496904
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"932715797e4325cf6cad191cd7958c85",
+    "wof:geomhash":"533acf13ebd2c469c1522732c8a6a8b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404346737,
-    "wof:lastmodified":1582361607,
+    "wof:lastmodified":1684352502,
     "wof:name":"Alberite De San Juan",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":74,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

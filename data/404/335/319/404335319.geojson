@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18149",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villa de Otura",
+    "eurostat:nuts_2021_id":"18149",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18149",
+    "eurostat:population":6982,
+    "eurostat:population_year":2020,
     "geom:area":0.002466,
-    "geom:area_square_m":24333440.718342,
+    "geom:area_square_m":24333440.718343,
     "geom:bbox":"-3.70005071,37.03450406,-3.60980294,37.10812737",
     "geom:latitude":37.073854,
     "geom:longitude":-3.652193,
@@ -39,6 +51,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -47,6 +61,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18149",
+        "eurostat:nuts_2021_id":"18149",
         "gn:id":6357757,
         "gp:id":12688971,
         "qs_pg:id":236865
@@ -55,7 +71,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"793ebbb1b6562af1d5afb52b9bdd0bd7",
+    "wof:geomhash":"483f595a89a3e8486c67a909d232531e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +82,12 @@
         }
     ],
     "wof:id":404335319,
-    "wof:lastmodified":1582361712,
+    "wof:lastmodified":1684352324,
     "wof:name":"Otura",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":6982,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

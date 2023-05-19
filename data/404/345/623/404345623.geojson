@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nava del Rey",
+    "eurostat:nuts_2021_id":"47101",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47101",
+    "eurostat:population":1975,
+    "eurostat:population_year":2020,
     "geom:area":0.013571,
-    "geom:area_square_m":125940152.181156,
+    "geom:area_square_m":125940152.181153,
     "geom:bbox":"-5.15980802,41.27514064,-5.03362683,41.46994411",
     "geom:latitude":41.366251,
     "geom:longitude":-5.093294,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_47101",
+        "eurostat:nuts_2021_id":"47101",
         "gn:id":6362228,
         "gp:id":12693002,
         "qs_pg:id":290480
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e796061a3cb498f1b95dc9655abec5ec",
+    "wof:geomhash":"35449307cda369b96875098966a7ec0f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404345623,
-    "wof:lastmodified":1582361836,
+    "wof:lastmodified":1684352488,
     "wof:name":"Nava Del Rey",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":1975,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45192",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villanueva de Alcardete",
+    "eurostat:nuts_2021_id":"45192",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45192",
+    "eurostat:population":3172,
+    "eurostat:population_year":2020,
     "geom:area":0.01546,
-    "geom:area_square_m":147123287.833771,
+    "geom:area_square_m":147123287.833775,
     "geom:bbox":"-3.13053993,39.62526306,-2.90823329,39.7644121",
     "geom:latitude":39.681412,
     "geom:longitude":-3.024604,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45192",
+        "eurostat:nuts_2021_id":"45192",
         "gn:id":6361851,
         "gp:id":12691113,
         "qs_pg:id":1016034
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f0fb1515525abce43d71e1d45b231686",
+    "wof:geomhash":"b11253a9bac3fa304cd15eaf70fbe179",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404344767,
-    "wof:lastmodified":1582361852,
+    "wof:lastmodified":1684352478,
     "wof:name":"Villanueva De Alcardete",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":3172,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

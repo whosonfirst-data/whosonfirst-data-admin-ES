@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_32012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Blancos, Os",
+    "eurostat:nuts_2021_id":"32012",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES113",
+    "eurostat:nuts_2021_level_lau":"32012",
+    "eurostat:population":755,
+    "eurostat:population_year":2020,
     "geom:area":0.005167,
     "geom:area_square_m":47491025.644311,
     "geom:bbox":"-7.81493619,41.94120639,-7.69934877,42.01631178",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_32012",
+        "eurostat:nuts_2021_id":"32012",
         "gn:id":6359830,
         "qs_pg:id":103397
     },
@@ -120,7 +136,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"93b93260bbd9d7e5bc92c4260f712ca5",
+    "wof:geomhash":"5af95504f02db7e1cb901bdb72da0685",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404340099,
-    "wof:lastmodified":1582361652,
+    "wof:lastmodified":1684352402,
     "wof:name":"Os Blancos",
     "wof:parent_id":85682801,
     "wof:placetype":"localadmin",
+    "wof:population":755,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25086,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25086",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Esterri d'\u00c0neu",
+    "eurostat:nuts_2021_id":"25086",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25086",
+    "eurostat:population":804,
+    "eurostat:population_year":2020,
     "geom:area":0.000921,
-    "geom:area_square_m":8376577.550235,
+    "geom:area_square_m":8376523.315058,
     "geom:bbox":"1.079832,42.593114,1.138959,42.645501",
     "geom:latitude":42.621976,
     "geom:longitude":1.118375,
@@ -48,6 +60,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -56,13 +70,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"025086"
+        "eg:gisco_id":"ES_25086",
+        "esp-icgc:la_lc":"025086",
+        "eurostat:nuts_2021_id":"25086"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ddc84099e320d26dd012db32c58c5abc",
+    "wof:geomhash":"5cea251a2f67f5d757f49c55ef2315d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,10 +89,12 @@
         }
     ],
     "wof:id":404337793,
-    "wof:lastmodified":1669903025,
+    "wof:lastmodified":1684352360,
     "wof:name":"Esterri d'\u00c0neu",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":804,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

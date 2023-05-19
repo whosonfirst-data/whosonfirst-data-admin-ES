@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8203,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08203",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Cebri\u00e0 de Vallalta",
+    "eurostat:nuts_2021_id":"08203",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08203",
+    "eurostat:population":3438,
+    "eurostat:population_year":2020,
     "geom:area":0.001689,
-    "geom:area_square_m":15611120.247368,
+    "geom:area_square_m":15611151.337949,
     "geom:bbox":"2.578978,41.59968,2.629165,41.659462",
     "geom:latitude":41.629605,
     "geom:longitude":2.604004,
@@ -48,6 +60,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -56,13 +70,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"08203"
+        "eg:gisco_id":"ES_08203",
+        "esp-icgc:la_lc":"08203",
+        "eurostat:nuts_2021_id":"08203"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9e8b6f37a9c9b28df5b0877a2ee9a1bb",
+    "wof:geomhash":"d23b75c6e7677c986013acdfbcc06a6b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,10 +89,12 @@
         }
     ],
     "wof:id":404331331,
-    "wof:lastmodified":1669902997,
+    "wof:lastmodified":1684352248,
     "wof:name":"Sant Cebri\u00e0 de Vallalta",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":3438,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

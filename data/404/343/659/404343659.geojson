@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43119,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43119",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Puigpelat",
+    "eurostat:nuts_2021_id":"43119",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43119",
+    "eurostat:population":1163,
+    "eurostat:population_year":2020,
     "geom:area":0.001025,
-    "geom:area_square_m":9521361.09999,
+    "geom:area_square_m":9521361.099992,
     "geom:bbox":"1.26785341078,41.264905513,1.32839961576,41.2916652171",
     "geom:latitude":41.279302,
     "geom:longitude":1.299808,
@@ -127,6 +139,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -135,7 +149,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43119",
         "esp-icgc:la_lc":"043119",
+        "eurostat:nuts_2021_id":"43119",
         "gn:id":6361361,
         "gp:id":12694256,
         "qs_pg:id":204774
@@ -145,7 +161,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"c1709b70346317418da169e9befdeae1",
+    "wof:geomhash":"aae359625ea7b541e0271c12e9297833",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404343659,
-    "wof:lastmodified":1582361872,
+    "wof:lastmodified":1684352459,
     "wof:name":"Puigpelat",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":1163,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

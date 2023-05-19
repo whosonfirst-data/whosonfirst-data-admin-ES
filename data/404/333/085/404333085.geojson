@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_11035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tarifa",
+    "eurostat:nuts_2021_id":"11035",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES612",
+    "eurostat:nuts_2021_level_lau":"11035",
+    "eurostat:population":18183,
+    "eurostat:population_year":2020,
     "geom:area":0.042014,
     "geom:area_square_m":419616619.396465,
     "geom:bbox":"-5.84180187,36.00010443,-5.49501797,36.26498514",
@@ -156,6 +168,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -164,6 +178,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_11035",
+        "eurostat:nuts_2021_id":"11035",
         "gn:id":6356950,
         "gp:id":12688763,
         "qs_pg:id":1197666
@@ -172,7 +188,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"595d8e398153aac79c653cd28076117d",
+    "wof:geomhash":"9cfd6a151488b2393e7c78fd76445c4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -183,10 +199,12 @@
         }
     ],
     "wof:id":404333085,
-    "wof:lastmodified":1582361764,
+    "wof:lastmodified":1684352274,
     "wof:name":"Tarifa",
     "wof:parent_id":85682679,
     "wof:placetype":"localadmin",
+    "wof:population":18183,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31225",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sorlada",
+    "eurostat:nuts_2021_id":"31225",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31225",
+    "eurostat:population":57,
+    "eurostat:population_year":2020,
     "geom:area":0.000673,
     "geom:area_square_m":6127504.315101,
     "geom:bbox":"-2.23802417,42.58864736,-2.19714063,42.62551514",
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31225",
+        "eurostat:nuts_2021_id":"31225",
         "gn:id":6359772,
         "gp:id":12688403,
         "qs_pg:id":425929
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"08f88178976b9ba7e633a45de1d77c8a",
+    "wof:geomhash":"417cccfa32e56b6d9a4b3f95a2519cf0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404339961,
-    "wof:lastmodified":1582361590,
+    "wof:lastmodified":1684352400,
     "wof:name":"Sorlada",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":57,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

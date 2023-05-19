@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Artana",
+    "eurostat:nuts_2021_id":"12016",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12016",
+    "eurostat:population":1955,
+    "eurostat:population_year":2020,
     "geom:area":0.003826,
-    "geom:area_square_m":36293160.443675,
+    "geom:area_square_m":36293160.443676,
     "geom:bbox":"-0.28970426,39.86101639,-0.19723456,39.93005462",
     "geom:latitude":39.895332,
     "geom:longitude":-0.246505,
@@ -39,6 +51,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -47,6 +61,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12016",
+        "eurostat:nuts_2021_id":"12016",
         "gn:id":6356975,
         "gp:id":12695422,
         "qs_pg:id":337903
@@ -55,7 +71,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ea5b708f534618fe766fd3a29cf1d3d7",
+    "wof:geomhash":"05719df7cd0f13e4b74cd6b2e6bd3d8f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +82,12 @@
         }
     ],
     "wof:id":404333141,
-    "wof:lastmodified":1582361784,
+    "wof:lastmodified":1684352275,
     "wof:name":"Artana",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":1955,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

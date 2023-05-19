@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47169",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torre de Esgueva",
+    "eurostat:nuts_2021_id":"47169",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47169",
+    "eurostat:population":65,
+    "eurostat:population_year":2020,
     "geom:area":0.002556,
-    "geom:area_square_m":23570791.170344,
+    "geom:area_square_m":23570791.170343,
     "geom:bbox":"-4.28657951,41.73340239,-4.18566761,41.81396866",
     "geom:latitude":41.782751,
     "geom:longitude":-4.225447,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_47169",
+        "eurostat:nuts_2021_id":"47169",
         "gn:id":6362291,
         "gp:id":12693063,
         "qs_pg:id":47046
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2c22c2989fbf80a96571e4a4f561f306",
+    "wof:geomhash":"f2640aed99767cb0b634d594164fb271",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404345767,
-    "wof:lastmodified":1582361834,
+    "wof:lastmodified":1684352490,
     "wof:name":"Torre De Esgueva",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":65,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

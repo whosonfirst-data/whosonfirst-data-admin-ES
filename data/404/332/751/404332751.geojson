@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10108",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ladrillar",
+    "eurostat:nuts_2021_id":"10108",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10108",
+    "eurostat:population":192,
+    "eurostat:population_year":2020,
     "geom:area":0.00563,
-    "geom:area_square_m":52975717.43196,
+    "geom:area_square_m":52975717.431963,
     "geom:bbox":"-6.27532612,40.40187711,-6.11612655,40.48665139",
     "geom:latitude":40.447138,
     "geom:longitude":-6.193615,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10108",
+        "eurostat:nuts_2021_id":"10108",
         "gn:id":6356803,
         "gp:id":12694589,
         "qs_pg:id":1196807
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c6b85dd1f2d7c7a40c3c2254129f6136",
+    "wof:geomhash":"249a94acfb2380bce64071f2f647986f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404332751,
-    "wof:lastmodified":1582361685,
+    "wof:lastmodified":1684352268,
     "wof:name":"Ladrillar",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":192,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

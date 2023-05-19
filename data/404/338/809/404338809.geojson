@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28054",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Escorial, El",
+    "eurostat:nuts_2021_id":"28054",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28054",
+    "eurostat:population":16365,
+    "eurostat:population_year":2020,
     "geom:area":0.007321,
-    "geom:area_square_m":68743718.158583,
+    "geom:area_square_m":68743718.158589,
     "geom:bbox":"-4.16000261,40.51867362,-4.03282887,40.63744831",
     "geom:latitude":40.58563,
     "geom:longitude":-4.094874,
@@ -198,6 +210,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -206,6 +220,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28054",
+        "eurostat:nuts_2021_id":"28054",
         "gn:id":6359280,
         "qs_pg:id":103386
     },
@@ -213,7 +229,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d752c01a90c87754f80a3496ad7b5a94",
+    "wof:geomhash":"4e4fcd36efd3033c788a46f4e9462916",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -224,10 +240,12 @@
         }
     ],
     "wof:id":404338809,
-    "wof:lastmodified":1582361451,
+    "wof:lastmodified":1684352382,
     "wof:name":"El Escorial",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":16365,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

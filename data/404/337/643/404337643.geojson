@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25012,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alcoletge",
+    "eurostat:nuts_2021_id":"25012",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25012",
+    "eurostat:population":3435,
+    "eurostat:population_year":2020,
     "geom:area":0.00178,
-    "geom:area_square_m":16443095.382033,
+    "geom:area_square_m":16443095.382032,
     "geom:bbox":"0.660662962386,41.6293400692,0.737002806985,41.6671684469",
     "geom:latitude":41.648457,
     "geom:longitude":0.699587,
@@ -112,6 +124,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -120,7 +134,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25012",
         "esp-icgc:la_lc":"025012",
+        "eurostat:nuts_2021_id":"25012",
         "gn:id":6358772,
         "gp:id":12693919,
         "qs_pg:id":1016873
@@ -130,7 +146,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"079e2e2a2153e257cf04a9ce22e81be8",
+    "wof:geomhash":"e5aa31e967f411c57b7bfaee21a60145",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404337643,
-    "wof:lastmodified":1582361552,
+    "wof:lastmodified":1684352355,
     "wof:name":"Alcoletge",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":3435,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

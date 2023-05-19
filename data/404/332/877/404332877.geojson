@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10164",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Mart\u00edn de Trevejo",
+    "eurostat:nuts_2021_id":"10164",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10164",
+    "eurostat:population":766,
+    "eurostat:population_year":2020,
     "geom:area":0.002619,
-    "geom:area_square_m":24731334.883259,
+    "geom:area_square_m":24731334.883261,
     "geom:bbox":"-6.88662993,40.17174993,-6.75560254,40.24552104",
     "geom:latitude":40.205758,
     "geom:longitude":-6.808868,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10164",
+        "eurostat:nuts_2021_id":"10164",
         "gn:id":6356859,
         "gp:id":12694646,
         "qs_pg:id":1085771
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c34137bf586fda5be10004a87e43aaaa",
+    "wof:geomhash":"686ea5be77c7ec7ed51fa9256aa91b05",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332877,
-    "wof:lastmodified":1582361687,
+    "wof:lastmodified":1684352270,
     "wof:name":"San Mart\u00edn De Trevejo",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":766,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19269",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Toba, La",
+    "eurostat:nuts_2021_id":"19269",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19269",
+    "eurostat:population":85,
+    "eurostat:population_year":2020,
     "geom:area":0.003917,
-    "geom:area_square_m":36552425.852128,
+    "geom:area_square_m":36552425.852127,
     "geom:bbox":"-3.0738965,40.97118392,-2.95466092,41.05202686",
     "geom:latitude":41.008252,
     "geom:longitude":-3.00606,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19269",
+        "eurostat:nuts_2021_id":"19269",
         "gn:id":6358036,
         "gp:id":12690867,
         "qs_pg:id":1171049
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7e4c6d874fd86799b50023f27dcce5cb",
+    "wof:geomhash":"9979f9a8f73527e469aec42b1572b3d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404335955,
-    "wof:lastmodified":1582361696,
+    "wof:lastmodified":1684352331,
     "wof:name":"La Toba",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":85,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

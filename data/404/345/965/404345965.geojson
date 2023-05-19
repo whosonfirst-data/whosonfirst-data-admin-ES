@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Durango",
+    "eurostat:nuts_2021_id":"48027",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48027",
+    "eurostat:population":30118,
+    "eurostat:population_year":2020,
     "geom:area":0.001187,
     "geom:area_square_m":10706975.279315,
     "geom:bbox":"-2.69645635,43.14691813,-2.6157964,43.17514056",
@@ -261,6 +273,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -269,6 +283,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_48027",
+        "eurostat:nuts_2021_id":"48027",
         "gn:id":6362372,
         "gp:id":12695188,
         "qs_pg:id":48341
@@ -277,7 +293,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d644d3ba779115a26e5fef50c4db6a36",
+    "wof:geomhash":"35af039bf3d165217a6c38f975a53764",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -288,10 +304,12 @@
         }
     ],
     "wof:id":404345965,
-    "wof:lastmodified":1582361825,
+    "wof:lastmodified":1684352492,
     "wof:name":"Durango",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":30118,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

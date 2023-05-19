@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09275",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Presencio",
+    "eurostat:nuts_2021_id":"09275",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09275",
+    "eurostat:population":184,
+    "eurostat:population_year":2020,
     "geom:area":0.003853,
-    "geom:area_square_m":35297578.976282,
+    "geom:area_square_m":35297578.97628,
     "geom:bbox":"-3.93432352,42.16077923,-3.81326904,42.21469354",
     "geom:latitude":42.185854,
     "geom:longitude":-3.869692,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09275",
+        "eurostat:nuts_2021_id":"09275",
         "gn:id":6356541,
         "gp:id":12691590,
         "qs_pg:id":954475
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0a1828109310825a0e92ba00a737ee31",
+    "wof:geomhash":"48e2ebf56bc09546eb39db66bc93c3b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404332129,
-    "wof:lastmodified":1582361682,
+    "wof:lastmodified":1684352261,
     "wof:name":"Presencio",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":184,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

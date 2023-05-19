@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19221",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Piqueras",
+    "eurostat:nuts_2021_id":"19221",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19221",
+    "eurostat:population":52,
+    "eurostat:population_year":2020,
     "geom:area":0.003441,
-    "geom:area_square_m":32271964.19076,
+    "geom:area_square_m":32271964.190759,
     "geom:bbox":"-1.76993448,40.63011884,-1.69326048,40.69857539",
     "geom:latitude":40.663208,
     "geom:longitude":-1.732682,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19221",
+        "eurostat:nuts_2021_id":"19221",
         "gn:id":6357990,
         "gp:id":12690820,
         "qs_pg:id":45969
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9a0f6e0098f88cf09e3d63ed16ae3f58",
+    "wof:geomhash":"308c194c05be8a9838fb4a3ea5dbc1b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404335851,
-    "wof:lastmodified":1582361700,
+    "wof:lastmodified":1684352330,
     "wof:name":"Piqueras",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":52,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

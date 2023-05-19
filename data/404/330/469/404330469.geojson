@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fregenal de la Sierra",
+    "eurostat:nuts_2021_id":"06050",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06050",
+    "eurostat:population":4836,
+    "eurostat:population_year":2020,
     "geom:area":0.024342,
-    "geom:area_square_m":236506783.034871,
+    "geom:area_square_m":236506783.034868,
     "geom:bbox":"-6.71814355,38.09620822,-6.42518601,38.30964698",
     "geom:latitude":38.209148,
     "geom:longitude":-6.583769,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06050",
+        "eurostat:nuts_2021_id":"06050",
         "gn:id":6355915,
         "gp:id":12694369,
         "qs_pg:id":467910
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1862cc57146b16d9a4f25064c33c88bf",
+    "wof:geomhash":"f0a5ed5cc20bf177a40b23b75d2a7bd9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330469,
-    "wof:lastmodified":1582361538,
+    "wof:lastmodified":1684352224,
     "wof:name":"Fregenal De La Sierra",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":4836,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

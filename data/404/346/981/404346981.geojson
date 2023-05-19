@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50123",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gris\u00e9n",
+    "eurostat:nuts_2021_id":"50123",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50123",
+    "eurostat:population":590,
+    "eurostat:population_year":2020,
     "geom:area":0.000514,
-    "geom:area_square_m":4745028.333675,
+    "geom:area_square_m":4745028.333677,
     "geom:bbox":"-1.18107439,41.7300491,-1.1416945,41.76091619",
     "geom:latitude":41.745533,
     "geom:longitude":-1.160017,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50123",
+        "eurostat:nuts_2021_id":"50123",
         "gn:id":6362813,
         "gp:id":12689953,
         "qs_pg:id":233506
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"170922d6a6eabd19cae0930f7eafa891",
+    "wof:geomhash":"e0465b34146179c29eb19f668254bb5e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404346981,
-    "wof:lastmodified":1582361621,
+    "wof:lastmodified":1684352505,
     "wof:name":"Gris\u00e9n",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":590,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

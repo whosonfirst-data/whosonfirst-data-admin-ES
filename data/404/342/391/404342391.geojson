@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Condado de Castilnovo",
+    "eurostat:nuts_2021_id":"40060",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40060",
+    "eurostat:population":85,
+    "eurostat:population_year":2020,
     "geom:area":0.002562,
-    "geom:area_square_m":23815039.894947,
+    "geom:area_square_m":23815039.894945,
     "geom:bbox":"-3.78552713,41.21535693,-3.72063585,41.28806855",
     "geom:latitude":41.245837,
     "geom:longitude":-3.749296,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_40060",
+        "eurostat:nuts_2021_id":"40060"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"e036e7cacc322e51138107b4f68aa5ff",
+    "wof:geomhash":"373fd35c0a3a3551145eaa4c71804849",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404342391,
-    "wof:lastmodified":1566590914,
+    "wof:lastmodified":1684352439,
     "wof:name":"Condado De Castilnovo",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":85,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

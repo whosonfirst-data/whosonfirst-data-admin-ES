@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19151",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Humanes",
+    "eurostat:nuts_2021_id":"19151",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19151",
+    "eurostat:population":1511,
+    "eurostat:population_year":2020,
     "geom:area":0.005128,
-    "geom:area_square_m":47961754.052763,
+    "geom:area_square_m":47961754.052762,
     "geom:bbox":"-3.20342807,40.80612643,-3.11051704,40.88637473",
     "geom:latitude":40.84956,
     "geom:longitude":-3.153425,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19151",
+        "eurostat:nuts_2021_id":"19151",
         "gn:id":6357927,
         "gp:id":12690757,
         "qs_pg:id":1196443
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f22c892d8151b6630c3a3e3e7e186f44",
+    "wof:geomhash":"76ca3a8acacf073741e8297fabb11b3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404335707,
-    "wof:lastmodified":1582361696,
+    "wof:lastmodified":1684352329,
     "wof:name":"Humanes",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":1511,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46138",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Guadass\u00e9quies",
+    "eurostat:nuts_2021_id":"46138",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46138",
+    "eurostat:population":456,
+    "eurostat:population_year":2020,
     "geom:area":0.000339,
-    "geom:area_square_m":3257360.790217,
+    "geom:area_square_m":3257360.790218,
     "geom:bbox":"-0.51281817,38.91789302,-0.4743668,38.93476362",
     "geom:latitude":38.927225,
     "geom:longitude":-0.494002,
@@ -81,6 +93,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -88,9 +102,12 @@
         404227381
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_46138",
+        "eurostat:nuts_2021_id":"46138"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"d58139bc54e040d96a35d7cefb8ee87e",
+    "wof:geomhash":"c2c66deb01e434dd6c0c8630e1f875bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,10 +118,12 @@
         }
     ],
     "wof:id":404345109,
-    "wof:lastmodified":1566591025,
+    "wof:lastmodified":1684352482,
     "wof:name":"Guadass\u00e9quies",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":456,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_39016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Camargo",
+    "eurostat:nuts_2021_id":"39016",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES13",
+    "eurostat:nuts_2021_level_3":"ES130",
+    "eurostat:nuts_2021_level_lau":"39016",
+    "eurostat:population":30320,
+    "eurostat:population_year":2020,
     "geom:area":0.004127,
-    "geom:area_square_m":37066452.25866,
+    "geom:area_square_m":37066506.194512,
     "geom:bbox":"-3.923762,43.374787,-3.803718,43.443559",
     "geom:latitude":43.412376,
     "geom:longitude":-3.872507,
@@ -132,6 +144,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -140,6 +154,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_39016",
+        "eurostat:nuts_2021_id":"39016",
         "gn:id":6360663,
         "gp:id":12688537,
         "qs_pg:id":220885
@@ -148,7 +164,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e77a0b66bb4b699334242f1830a11587",
+    "wof:geomhash":"e9266220a91cc41aa31f50fcfb5c3beb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,10 +175,12 @@
         }
     ],
     "wof:id":404342077,
-    "wof:lastmodified":1636503327,
+    "wof:lastmodified":1684352435,
     "wof:name":"Camargo",
     "wof:parent_id":85682833,
     "wof:placetype":"localadmin",
+    "wof:population":30320,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

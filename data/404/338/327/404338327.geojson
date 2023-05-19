@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_26084",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lardero",
+    "eurostat:nuts_2021_id":"26084",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES23",
+    "eurostat:nuts_2021_level_3":"ES230",
+    "eurostat:nuts_2021_level_lau":"26084",
+    "eurostat:population":10813,
+    "eurostat:population_year":2020,
     "geom:area":0.002227,
     "geom:area_square_m":20325321.478904,
     "geom:bbox":"-2.50817817,42.38971687,-2.43359615,42.44102954",
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_26084",
+        "eurostat:nuts_2021_id":"26084",
         "gn:id":6359074,
         "gp:id":12687855,
         "qs_pg:id":191138
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b26207279e3a91017751c5a8a7aa5e4a",
+    "wof:geomhash":"e5ef1c6afa69dd10373357ead0971d15",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404338327,
-    "wof:lastmodified":1582361454,
+    "wof:lastmodified":1684352374,
     "wof:name":"Lardero",
     "wof:parent_id":85682773,
     "wof:placetype":"localadmin",
+    "wof:population":10813,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

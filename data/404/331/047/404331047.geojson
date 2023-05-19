@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":8075,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08075",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dosrius",
+    "eurostat:nuts_2021_id":"08075",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08075",
+    "eurostat:population":5652,
+    "eurostat:population_year":2020,
     "geom:area":0.00439,
     "geom:area_square_m":40590248.083913,
     "geom:bbox":"2.37510020867,41.5755748462,2.49759754305,41.6312853095",
@@ -124,6 +136,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -132,7 +146,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08075",
         "esp-icgc:la_lc":"08075",
+        "eurostat:nuts_2021_id":"08075",
         "gn:id":6356107,
         "gp:id":12693454,
         "qs_pg:id":248695
@@ -142,7 +158,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"0ff71ea476e60de393d6d2db781808fd",
+    "wof:geomhash":"0d7ae50fa5ae4bcad9b5df10f8334ffa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,10 +169,12 @@
         }
     ],
     "wof:id":404331047,
-    "wof:lastmodified":1582361489,
+    "wof:lastmodified":1684352240,
     "wof:name":"Dosrius",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":5652,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

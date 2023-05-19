@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42076",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Deza",
+    "eurostat:nuts_2021_id":"42076",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42076",
+    "eurostat:population":217,
+    "eurostat:population_year":2020,
     "geom:area":0.012738,
-    "geom:area_square_m":117996804.048669,
+    "geom:area_square_m":117996804.048668,
     "geom:bbox":"-2.12199417,41.4242629,-1.94874038,41.53918325",
     "geom:latitude":41.480849,
     "geom:longitude":-2.034862,
@@ -51,6 +63,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -59,6 +73,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42076",
+        "eurostat:nuts_2021_id":"42076",
         "gn:id":6361128,
         "gp:id":12692787,
         "qs_pg:id":954939
@@ -67,7 +83,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bde62664959cca717311bd2e87e27492",
+    "wof:geomhash":"a6e6e88d97b7fca668d9f55761134b4b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404343131,
-    "wof:lastmodified":1582361879,
+    "wof:lastmodified":1684352448,
     "wof:name":"Deza",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":217,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

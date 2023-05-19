@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40059",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Collado Hermoso",
+    "eurostat:nuts_2021_id":"40059",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40059",
+    "eurostat:population":124,
+    "eurostat:population_year":2020,
     "geom:area":0.001753,
     "geom:area_square_m":16356779.260405,
     "geom:bbox":"-3.93656965,40.9728174,-3.88014912,41.0591125",
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_40059",
+        "eurostat:nuts_2021_id":"40059",
         "gn:id":6360799,
         "gp:id":12692565,
         "qs_pg:id":1003805
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5ffe0d07fef8b21af8e971e4399f92e6",
+    "wof:geomhash":"95bafa1ad5f303cfcd57936feb34303b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404342389,
-    "wof:lastmodified":1582361823,
+    "wof:lastmodified":1684352439,
     "wof:name":"Collado Hermoso",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":124,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

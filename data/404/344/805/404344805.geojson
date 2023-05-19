@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Atzeneta d'Albaida",
+    "eurostat:nuts_2021_id":"46003",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46003",
+    "eurostat:population":1162,
+    "eurostat:population_year":2020,
     "geom:area":0.000628,
     "geom:area_square_m":6051393.940919,
     "geom:bbox":"-0.50605841,38.80764539,-0.46136189,38.85521305",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46003",
+        "eurostat:nuts_2021_id":"46003",
         "gn:id":6361868,
         "gp:id":12695544,
         "qs_pg:id":1149674
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8d50967c086f86bf5cff10ffb7809f7c",
+    "wof:geomhash":"b8f2a72348ce7242e15bea0589e5bcd4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404344805,
-    "wof:lastmodified":1582361849,
+    "wof:lastmodified":1684352479,
     "wof:name":"Atzeneta D'Albaida",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":1162,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

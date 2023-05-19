@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43006,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aldover",
+    "eurostat:nuts_2021_id":"43006",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43006",
+    "eurostat:population":905,
+    "eurostat:population_year":2020,
     "geom:area":0.002158,
-    "geom:area_square_m":20175878.56577,
+    "geom:area_square_m":20175878.565769,
     "geom:bbox":"0.417477184209,40.8475484475,0.513682760547,40.8926494516",
     "geom:latitude":40.866576,
     "geom:longitude":0.474136,
@@ -112,6 +124,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -120,7 +134,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43006",
         "esp-icgc:la_lc":"043006",
+        "eurostat:nuts_2021_id":"43006",
         "gn:id":6361249,
         "gp:id":12694143,
         "qs_pg:id":621896
@@ -130,7 +146,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"0152d79e5b684bc69dd096aee6de4c7d",
+    "wof:geomhash":"d7382eba1ec1afef3cbc6611d8484539",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404343407,
-    "wof:lastmodified":1582361872,
+    "wof:lastmodified":1684352451,
     "wof:name":"Aldover",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":905,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

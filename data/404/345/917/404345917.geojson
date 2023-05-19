@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arantzazu",
+    "eurostat:nuts_2021_id":"48006",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48006",
+    "eurostat:population":408,
+    "eurostat:population_year":2020,
     "geom:area":0.000392,
-    "geom:area_square_m":3538240.064406,
+    "geom:area_square_m":3538240.064407,
     "geom:bbox":"-2.8096073,43.13549789,-2.77647767,43.16380088",
     "geom:latitude":43.151483,
     "geom:longitude":-2.792634,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_48006",
+        "eurostat:nuts_2021_id":"48006",
         "gn:id":6362357,
         "gp:id":12695163,
         "qs_pg:id":1163735
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"aa4024fc5725448ae172f694ebb42e7c",
+    "wof:geomhash":"25f7337cb384de1d5245c3ea07d44f04",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404345917,
-    "wof:lastmodified":1582361841,
+    "wof:lastmodified":1684352491,
     "wof:name":"Arantzazu",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":408,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

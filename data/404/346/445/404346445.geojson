@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49141",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pajares de la Lampreana",
+    "eurostat:nuts_2021_id":"49141",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49141",
+    "eurostat:population":306,
+    "eurostat:population_year":2020,
     "geom:area":0.003028,
-    "geom:area_square_m":27954076.74426,
+    "geom:area_square_m":27954076.744259,
     "geom:bbox":"-5.73912216,41.67021006,-5.64611103,41.73610167",
     "geom:latitude":41.709432,
     "geom:longitude":-5.695215,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_49141",
+        "eurostat:nuts_2021_id":"49141",
         "gn:id":6362577,
         "gp:id":12693256,
         "qs_pg:id":977771
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8cda1d73f02b4bedec305020632d0978",
+    "wof:geomhash":"5d503ece2570611e2df925ad3e770566",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404346445,
-    "wof:lastmodified":1582361618,
+    "wof:lastmodified":1684352499,
     "wof:name":"Pajares De La Lampreana",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":306,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

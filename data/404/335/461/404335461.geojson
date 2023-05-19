@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Algar de Mesa",
+    "eurostat:nuts_2021_id":"19016",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19016",
+    "eurostat:population":55,
+    "eurostat:population_year":2020,
     "geom:area":0.002555,
-    "geom:area_square_m":23798396.048838,
+    "geom:area_square_m":23798396.048837,
     "geom:bbox":"-1.98780264,41.09694494,-1.91722381,41.17248618",
     "geom:latitude":41.136738,
     "geom:longitude":-1.949859,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19016",
+        "eurostat:nuts_2021_id":"19016",
         "gn:id":6357819,
         "gp:id":12690649,
         "qs_pg:id":1147153
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1d46f1860d54f0dc9da017bf445c8ab0",
+    "wof:geomhash":"22673104608af3c285933fb2d303f820",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404335461,
-    "wof:lastmodified":1582361709,
+    "wof:lastmodified":1684352326,
     "wof:name":"Algar De Mesa",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":55,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

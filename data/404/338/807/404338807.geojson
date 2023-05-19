@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28053",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Daganzo de Arriba",
+    "eurostat:nuts_2021_id":"28053",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28053",
+    "eurostat:population":10337,
+    "eurostat:population_year":2020,
     "geom:area":0.004619,
-    "geom:area_square_m":43390177.187465,
+    "geom:area_square_m":43390177.187463,
     "geom:bbox":"-3.48318785,40.50890591,-3.39552584,40.61753187",
     "geom:latitude":40.559582,
     "geom:longitude":-3.444797,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28053",
+        "eurostat:nuts_2021_id":"28053",
         "gn:id":6359279,
         "gp:id":12687998,
         "qs_pg:id":386022
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"13af71e421f861db53d3b802ef87f799",
+    "wof:geomhash":"b86fc31cc9bb4382dcf74d84c0e51c39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404338807,
-    "wof:lastmodified":1582361450,
+    "wof:lastmodified":1684352382,
     "wof:name":"Daganzo De Arriba",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":10337,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

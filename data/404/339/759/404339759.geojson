@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31135",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Javier",
+    "eurostat:nuts_2021_id":"31135",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31135",
+    "eurostat:population":128,
+    "eurostat:population_year":2020,
     "geom:area":0.005104,
     "geom:area_square_m":46530204.435217,
     "geom:bbox":"-1.3461571,42.42393759,-1.17548339,42.61304476",
@@ -63,6 +75,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -71,6 +85,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31135",
+        "eurostat:nuts_2021_id":"31135",
         "gn:id":6359683,
         "gp:id":12688312,
         "qs_pg:id":1310983
@@ -79,7 +95,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2bc7373e807dcb15d182fba5783a0c0d",
+    "wof:geomhash":"e55ad3c311fcebfd9688a0187d9f43b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,10 +106,12 @@
         }
     ],
     "wof:id":404339759,
-    "wof:lastmodified":1582361591,
+    "wof:lastmodified":1684352398,
     "wof:name":"Javier",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":128,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

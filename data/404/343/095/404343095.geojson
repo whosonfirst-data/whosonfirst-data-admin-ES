@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42056",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castilfr\u00edo de la Sierra",
+    "eurostat:nuts_2021_id":"42056",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42056",
+    "eurostat:population":37,
+    "eurostat:population_year":2020,
     "geom:area":0.00132,
-    "geom:area_square_m":12139044.432785,
+    "geom:area_square_m":12139044.432786,
     "geom:bbox":"-2.32725725,41.91005351,-2.26586154,41.94962769",
     "geom:latitude":41.927855,
     "geom:longitude":-2.297939,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_42056",
+        "eurostat:nuts_2021_id":"42056"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"981d28191b3e3ca80c3f4171ec6a7717",
+    "wof:geomhash":"0bae483b069412774d6a281d88d8910c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404343095,
-    "wof:lastmodified":1566591232,
+    "wof:lastmodified":1684352447,
     "wof:name":"Castilfr\u00edo De La Sierra",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":37,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

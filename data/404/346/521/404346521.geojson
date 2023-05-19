@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49176",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Riofr\u00edo de Aliste",
+    "eurostat:nuts_2021_id":"49176",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49176",
+    "eurostat:population":635,
+    "eurostat:population_year":2020,
     "geom:area":0.012107,
-    "geom:area_square_m":111538295.710558,
+    "geom:area_square_m":111538295.71055,
     "geom:bbox":"-6.28242746,41.76827434,-6.10008236,41.89317393",
     "geom:latitude":41.836809,
     "geom:longitude":-6.182971,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_49176",
+        "eurostat:nuts_2021_id":"49176"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"2a636d7b8ec64ac0688833f439b67e5b",
+    "wof:geomhash":"0ac7b4b472c1fff179aa05209cf481a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404346521,
-    "wof:lastmodified":1566590248,
+    "wof:lastmodified":1684352500,
     "wof:name":"Riofr\u00edo De Aliste",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":635,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09229",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nava de Roa",
+    "eurostat:nuts_2021_id":"09229",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09229",
+    "eurostat:population":220,
+    "eurostat:population_year":2020,
     "geom:area":0.002414,
-    "geom:area_square_m":22315322.859745,
+    "geom:area_square_m":22315322.859749,
     "geom:bbox":"-4.00873429,41.5833726,-3.92410803,41.64340297",
     "geom:latitude":41.615193,
     "geom:longitude":-3.96425,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09229",
+        "eurostat:nuts_2021_id":"09229",
         "gn:id":6356506,
         "gp:id":12691555,
         "qs_pg:id":46292
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"57ccbd009c7cc6f52606d32aa4f4d4fc",
+    "wof:geomhash":"4234c8ffaa602ab0a50719b85ae21a59",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332043,
-    "wof:lastmodified":1582361688,
+    "wof:lastmodified":1684352260,
     "wof:name":"Nava De Roa",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":220,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

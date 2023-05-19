@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22102",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Estada",
+    "eurostat:nuts_2021_id":"22102",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22102",
+    "eurostat:population":199,
+    "eurostat:population_year":2020,
     "geom:area":0.001727,
-    "geom:area_square_m":15850835.203383,
+    "geom:area_square_m":15850835.203384,
     "geom:bbox":"0.20505554,42.0516741,0.29963977,42.10229772",
     "geom:latitude":42.07927,
     "geom:longitude":0.250313,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22102",
+        "eurostat:nuts_2021_id":"22102",
         "gn:id":6358336,
         "gp:id":12689478,
         "qs_pg:id":204558
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"805aa4f8d5ccaab4c9f4158f48a352b5",
+    "wof:geomhash":"1496315145c84e2121a98f5bfcfbdd75",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404336645,
-    "wof:lastmodified":1582361462,
+    "wof:lastmodified":1684352341,
     "wof:name":"Estada",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":199,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

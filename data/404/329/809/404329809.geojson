@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aldeaseca",
+    "eurostat:nuts_2021_id":"05008",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05008",
+    "eurostat:population":228,
+    "eurostat:population_year":2020,
     "geom:area":0.002597,
-    "geom:area_square_m":24216457.797829,
+    "geom:area_square_m":24216457.797831,
     "geom:bbox":"-4.8404518,41.01400772,-4.76694262,41.06575722",
     "geom:latitude":41.042762,
     "geom:longitude":-4.803127,
@@ -105,6 +117,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -112,9 +126,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_05008",
+        "eurostat:nuts_2021_id":"05008"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"d5a25cd2d2f9457ec4ca2dd2b10eb8bf",
+    "wof:geomhash":"67484f377cb71b8fdc173c48c544b2f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +142,12 @@
         }
     ],
     "wof:id":404329809,
-    "wof:lastmodified":1566590894,
+    "wof:lastmodified":1684352216,
     "wof:name":"Aldeaseca",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":228,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

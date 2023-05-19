@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50093",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chodes",
+    "eurostat:nuts_2021_id":"50093",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50093",
+    "eurostat:population":104,
+    "eurostat:population_year":2020,
     "geom:area":0.001722,
     "geom:area_square_m":15948734.430664,
     "geom:bbox":"-1.53196237,41.45817782,-1.42510696,41.50803175",
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50093",
+        "eurostat:nuts_2021_id":"50093",
         "gn:id":6362786,
         "gp:id":12689916,
         "qs_pg:id":207036
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bf45d54719d94ff71d1d6b414b00095f",
+    "wof:geomhash":"a441ea66555bdc82343a833537c5cf64",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404346921,
-    "wof:lastmodified":1582361621,
+    "wof:lastmodified":1684352504,
     "wof:name":"Chodes",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":104,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

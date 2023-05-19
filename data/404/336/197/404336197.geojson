@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_20051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Legazpi",
+    "eurostat:nuts_2021_id":"20051",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES212",
+    "eurostat:nuts_2021_level_lau":"20051",
+    "eurostat:population":8321,
+    "eurostat:population_year":2020,
     "geom:area":0.004621,
     "geom:area_square_m":41771339.319003,
     "geom:bbox":"-2.37811745,42.96831736,-2.31166492,43.08783992",
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_20051",
+        "eurostat:nuts_2021_id":"20051",
         "gn:id":6358140,
         "gp:id":12695122,
         "qs_pg:id":279572
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4f6ecbd441ed5de1b3f4ad5c47dcc939",
+    "wof:geomhash":"331d02262fa75e257e9221705bf03b1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404336197,
-    "wof:lastmodified":1582361470,
+    "wof:lastmodified":1684352334,
     "wof:name":"Legazpi",
     "wof:parent_id":85682741,
     "wof:placetype":"localadmin",
+    "wof:population":8321,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

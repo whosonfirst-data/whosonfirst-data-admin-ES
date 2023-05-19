@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_29015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Antequera",
+    "eurostat:nuts_2021_id":"29015",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES617",
+    "eurostat:nuts_2021_level_lau":"29015",
+    "eurostat:population":41318,
+    "eurostat:population_year":2020,
     "geom:area":0.075894,
-    "geom:area_square_m":749120535.263347,
+    "geom:area_square_m":749120535.263337,
     "geom:bbox":"-4.82778921,36.89368802,-4.34692905,37.23107749",
     "geom:latitude":37.036342,
     "geom:longitude":-4.583669,
@@ -150,6 +162,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -158,6 +172,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_29015",
+        "eurostat:nuts_2021_id":"29015",
         "gn:id":6359420,
         "gp:id":12689204,
         "qs_pg:id":1197710
@@ -166,7 +182,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1e1d30c9606de29ce7639200e446ca1c",
+    "wof:geomhash":"675ea8d51d18c490a6e5bb9a7100278c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,10 +193,12 @@
         }
     ],
     "wof:id":404339125,
-    "wof:lastmodified":1582361597,
+    "wof:lastmodified":1684352389,
     "wof:name":"Antequera",
     "wof:parent_id":85682787,
     "wof:placetype":"localadmin",
+    "wof:population":41318,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

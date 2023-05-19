@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_07039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Muro",
+    "eurostat:nuts_2021_id":"07039",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES53",
+    "eurostat:nuts_2021_level_3":"ES532",
+    "eurostat:nuts_2021_level_lau":"07039",
+    "eurostat:population":7394,
+    "eurostat:population_year":2020,
     "geom:area":0.006166,
-    "geom:area_square_m":58613739.737661,
+    "geom:area_square_m":58613739.737659,
     "geom:bbox":"3.01958408,39.70188783,3.14501714,39.81565712",
     "geom:latitude":39.7579,
     "geom:longitude":3.085594,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_07039",
+        "eurostat:nuts_2021_id":"07039",
         "gn:id":6533960,
         "gp:id":12687746,
         "qs_pg:id":44269
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9a972b6c77b782fa8ad13cc73ca06da4",
+    "wof:geomhash":"dbbd824ce58230443759a70d99b5ea80",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404330815,
-    "wof:lastmodified":1582361537,
+    "wof:lastmodified":1684352231,
     "wof:name":"Muro",
     "wof:parent_id":85682647,
     "wof:placetype":"localadmin",
+    "wof:population":7394,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

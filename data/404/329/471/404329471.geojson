@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03099",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Orihuela",
+    "eurostat:nuts_2021_id":"03099",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03099",
+    "eurostat:population":78505,
+    "eurostat:population_year":2020,
     "geom:area":0.037516,
     "geom:area_square_m":365212756.274976,
     "geom:bbox":"-1.03676153,37.88831578,-0.70490795,38.32961048",
@@ -153,6 +165,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -160,9 +174,12 @@
         404227381
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_03099",
+        "eurostat:nuts_2021_id":"03099"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"46cfa1b0acdb1c2f9ef8e61b1d85422d",
+    "wof:geomhash":"a6d4e236aa9259b6d7b17f9969374023",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +190,12 @@
         }
     ],
     "wof:id":404329471,
-    "wof:lastmodified":1566590848,
+    "wof:lastmodified":1684352210,
     "wof:name":"Orihuela",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":78505,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

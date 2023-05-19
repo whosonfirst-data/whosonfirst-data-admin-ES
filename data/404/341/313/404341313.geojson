@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37107",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ciudad Rodrigo",
+    "eurostat:nuts_2021_id":"37107",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37107",
+    "eurostat:population":12261,
+    "eurostat:population_year":2020,
     "geom:area":0.025554,
-    "geom:area_square_m":239849625.915668,
+    "geom:area_square_m":239849625.915663,
     "geom:bbox":"-6.60900425,40.53082816,-6.36526323,40.70315477",
     "geom:latitude":40.618097,
     "geom:longitude":-6.492322,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37107",
+        "eurostat:nuts_2021_id":"37107",
         "gn:id":6360352,
         "gp:id":12692245,
         "qs_pg:id":1291047
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"671b22b10f0aa04713cbfd85ce3d04ef",
+    "wof:geomhash":"bfc321e6210206fe3a1d60fb149f2d51",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404341313,
-    "wof:lastmodified":1582361632,
+    "wof:lastmodified":1684352423,
     "wof:name":"Ciudad Rodrigo",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":12261,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

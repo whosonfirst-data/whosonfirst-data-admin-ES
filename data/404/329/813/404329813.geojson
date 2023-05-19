@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Amavida",
+    "eurostat:nuts_2021_id":"05012",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05012",
+    "eurostat:population":127,
+    "eurostat:population_year":2020,
     "geom:area":0.001597,
     "geom:area_square_m":14999291.781082,
     "geom:bbox":"-5.09689455,40.54621739,-5.03002471,40.60734644",
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05012",
+        "eurostat:nuts_2021_id":"05012",
         "gn:id":6355625,
         "gp:id":12691133,
         "qs_pg:id":1165476
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1804d40f580a099b38db8f80e7489529",
+    "wof:geomhash":"48a586c5290ee18045d0e27d8ff25e7d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404329813,
-    "wof:lastmodified":1582361799,
+    "wof:lastmodified":1684352216,
     "wof:name":"Amavida",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":127,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

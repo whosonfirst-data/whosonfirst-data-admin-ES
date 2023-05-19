@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_14057",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rambla, La",
+    "eurostat:nuts_2021_id":"14057",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES613",
+    "eurostat:nuts_2021_level_lau":"14057",
+    "eurostat:population":7529,
+    "eurostat:population_year":2020,
     "geom:area":0.013841,
-    "geom:area_square_m":135472394.505554,
+    "geom:area_square_m":135472394.505552,
     "geom:bbox":"-4.98474355,37.58948533,-4.69408405,37.74508329",
     "geom:latitude":37.66854,
     "geom:longitude":-4.787802,
@@ -57,6 +69,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -65,6 +79,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_14057",
+        "eurostat:nuts_2021_id":"14057",
         "gn:id":6357252,
         "qs_pg:id":621609
     },
@@ -72,7 +88,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2378bb02c17f030a27ddffb4306fc780",
+    "wof:geomhash":"fbfe95d5899900829bb204eb3869f361",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,10 +99,12 @@
         }
     ],
     "wof:id":404333767,
-    "wof:lastmodified":1582361773,
+    "wof:lastmodified":1684352284,
     "wof:name":"La Rambla",
     "wof:parent_id":85682697,
     "wof:placetype":"localadmin",
+    "wof:population":7529,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

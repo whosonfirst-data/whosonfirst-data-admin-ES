@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castell de Cabres",
+    "eurostat:nuts_2021_id":"12037",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12037",
+    "eurostat:population":22,
+    "eurostat:population_year":2020,
     "geom:area":0.003272,
     "geom:area_square_m":30686180.983751,
     "geom:bbox":"-0.01025278,40.64434445,0.09997869,40.69614053",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12037",
+        "eurostat:nuts_2021_id":"12037",
         "gn:id":6356992,
         "gp:id":12695440,
         "qs_pg:id":961888
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5bd6b564594f82d7fe84009e5d1bba30",
+    "wof:geomhash":"61f1c7050803485575ec71f79d2d0e20",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404333179,
-    "wof:lastmodified":1582361784,
+    "wof:lastmodified":1684352275,
     "wof:name":"Castell De Cabres",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":22,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

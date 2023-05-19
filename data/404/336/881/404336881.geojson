@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22249",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villanova",
+    "eurostat:nuts_2021_id":"22249",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22249",
+    "eurostat:population":174,
+    "eurostat:population_year":2020,
     "geom:area":0.000772,
     "geom:area_square_m":7036948.112455,
     "geom:bbox":"0.4159302,42.5243528,0.48221684,42.57103714",
@@ -81,6 +93,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -88,9 +102,12 @@
         404227363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_22249",
+        "eurostat:nuts_2021_id":"22249"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"c594327ad76d022c1432e13adeb76d30",
+    "wof:geomhash":"e9dda3ab1fcf09008a53711354a42ee0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,10 +118,12 @@
         }
     ],
     "wof:id":404336881,
-    "wof:lastmodified":1566589686,
+    "wof:lastmodified":1684352345,
     "wof:name":"Villanova",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":174,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

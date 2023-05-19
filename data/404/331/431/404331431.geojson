@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8248,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08248",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Eul\u00e0lia de Ron\u00e7ana",
+    "eurostat:nuts_2021_id":"08248",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08248",
+    "eurostat:population":7426,
+    "eurostat:population_year":2020,
     "geom:area":0.001526,
-    "geom:area_square_m":14104350.656566,
+    "geom:area_square_m":14104318.357965,
     "geom:bbox":"2.187015,41.628652,2.253589,41.666877",
     "geom:latitude":41.647027,
     "geom:longitude":2.221891,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08248",
         "esp-icgc:la_lc":"08248",
+        "eurostat:nuts_2021_id":"08248",
         "gn:id":6356269,
         "gp:id":12693628,
         "qs_pg:id":1149537
@@ -67,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"df95051e38892ce3b22c9e5e700d5b37",
+    "wof:geomhash":"14f2445cfb4749409f84d92111d0ab88",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404331431,
-    "wof:lastmodified":1669903002,
+    "wof:lastmodified":1684352251,
     "wof:name":"Santa Eul\u00e0lia de Ron\u00e7ana",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":7426,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

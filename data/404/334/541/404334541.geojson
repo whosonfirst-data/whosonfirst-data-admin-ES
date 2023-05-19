@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16903",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valeras, Las",
+    "eurostat:nuts_2021_id":"16903",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16903",
+    "eurostat:population":1494,
+    "eurostat:population_year":2020,
     "geom:area":0.011879,
-    "geom:area_square_m":112852216.705594,
+    "geom:area_square_m":112852216.705595,
     "geom:bbox":"-2.20975641,39.71124386,-2.09211898,39.87699937",
     "geom:latitude":39.795974,
     "geom:longitude":-2.146976,
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16903",
+        "eurostat:nuts_2021_id":"16903",
         "gn:id":6357588,
         "gp:id":12690596,
         "qs_pg:id":247925
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"15a710785b3e0e16fb72bc7fbf64c46c",
+    "wof:geomhash":"b4ca23e809d94c25222c2429e310c41a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404334541,
-    "wof:lastmodified":1582361754,
+    "wof:lastmodified":1684352298,
     "wof:name":"Las Valeras",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":1494,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

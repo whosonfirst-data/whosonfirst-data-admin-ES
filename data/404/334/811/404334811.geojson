@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17123,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17123",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Palol de Revardit",
+    "eurostat:nuts_2021_id":"17123",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17123",
+    "eurostat:population":448,
+    "eurostat:population_year":2020,
     "geom:area":0.001967,
-    "geom:area_square_m":18055399.361468,
+    "geom:area_square_m":18055385.143963,
     "geom:bbox":"2.766701,42.031669,2.836533,42.080031",
     "geom:latitude":42.056188,
     "geom:longitude":2.803856,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17123",
         "esp-icgc:la_lc":"017123",
+        "eurostat:nuts_2021_id":"17123",
         "gn:id":6534096,
         "gp:id":12693800,
         "qs_pg:id":1310860
@@ -67,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"87280fd562e23b34c1ae8f90bffe9724",
+    "wof:geomhash":"c7236ac116ab26075930bba8b15e1476",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404334811,
-    "wof:lastmodified":1669903041,
+    "wof:lastmodified":1684352310,
     "wof:name":"Palol de Revardit",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":448,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

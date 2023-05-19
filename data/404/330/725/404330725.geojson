@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06902",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pueblonuevo del Guadiana",
+    "eurostat:nuts_2021_id":"06902",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06902",
+    "eurostat:population":2008,
+    "eurostat:population_year":2020,
     "geom:area":0.002965,
-    "geom:area_square_m":28527418.347032,
+    "geom:area_square_m":28527418.347031,
     "geom:bbox":"-6.80925767,38.88542601,-6.71462821,38.96164605",
     "geom:latitude":38.923508,
     "geom:longitude":-6.757611,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06902",
+        "eurostat:nuts_2021_id":"06902",
         "gn:id":6356029,
         "gp:id":23388476,
         "qs_pg:id":57731
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"de329f5cd306ef6a344d8efbdfb7e220",
+    "wof:geomhash":"3035947ab3fd99d3fe030124ea094834",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330725,
-    "wof:lastmodified":1582361528,
+    "wof:lastmodified":1684352228,
     "wof:name":"Pueblonuevo Del Guadiana",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":2008,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

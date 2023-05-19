@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22143",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Laspa\u00fales",
+    "eurostat:nuts_2021_id":"22143",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22143",
+    "eurostat:population":205,
+    "eurostat:population_year":2020,
     "geom:area":0.008947,
-    "geom:area_square_m":81612701.08427,
+    "geom:area_square_m":81612701.084271,
     "geom:bbox":"0.52379725,42.40544421,0.65258129,42.53067909",
     "geom:latitude":42.465083,
     "geom:longitude":0.596887,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22143",
+        "eurostat:nuts_2021_id":"22143",
         "gn:id":6358366,
         "gp:id":12689510,
         "qs_pg:id":1019671
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bfb5d933df3b7e8615a133b906ca130a",
+    "wof:geomhash":"6413428adece2dd09a81841a5f5db8c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404336713,
-    "wof:lastmodified":1582361466,
+    "wof:lastmodified":1684352342,
     "wof:name":"Laspa\u00fales",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":205,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

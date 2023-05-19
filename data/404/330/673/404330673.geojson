@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06141",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valencia del Ventoso",
+    "eurostat:nuts_2021_id":"06141",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06141",
+    "eurostat:population":1960,
+    "eurostat:population_year":2020,
     "geom:area":0.010211,
-    "geom:area_square_m":99129431.129417,
+    "geom:area_square_m":99129431.129418,
     "geom:bbox":"-6.5778969,38.17791632,-6.40541383,38.32037595",
     "geom:latitude":38.266153,
     "geom:longitude":-6.471888,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06141",
+        "eurostat:nuts_2021_id":"06141",
         "gn:id":6356006,
         "gp:id":12694461,
         "qs_pg:id":295245
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fe5730d25d0d75d0fe639dac6dabc6ce",
+    "wof:geomhash":"5dccc9e9b32a2a625116714569d82739",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330673,
-    "wof:lastmodified":1582361524,
+    "wof:lastmodified":1684352227,
     "wof:name":"Valencia Del Ventoso",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":1960,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

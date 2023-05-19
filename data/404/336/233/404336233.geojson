@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_20067",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Errenteria",
+    "eurostat:nuts_2021_id":"20067",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES212",
+    "eurostat:nuts_2021_level_lau":"20067",
+    "eurostat:population":39540,
+    "eurostat:population_year":2020,
     "geom:area":0.003576,
-    "geom:area_square_m":32200503.841509,
+    "geom:area_square_m":32200503.841513,
     "geom:bbox":"-1.93201091,43.20678848,-1.84908438,43.3229973",
     "geom:latitude":43.264385,
     "geom:longitude":-1.888511,
@@ -141,6 +153,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -149,6 +163,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_20067",
+        "eurostat:nuts_2021_id":"20067",
         "gn:id":6358155,
         "gp:id":23388439,
         "qs_pg:id":347400
@@ -157,7 +173,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"86a3c12f2b9147d78b3f059d3d515a78",
+    "wof:geomhash":"a1abd14f7e5d2b09a87943e3ae3c8f31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,10 +184,12 @@
         }
     ],
     "wof:id":404336233,
-    "wof:lastmodified":1582361465,
+    "wof:lastmodified":1684352335,
     "wof:name":"Errenteria",
     "wof:parent_id":85682741,
     "wof:placetype":"localadmin",
+    "wof:population":39540,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

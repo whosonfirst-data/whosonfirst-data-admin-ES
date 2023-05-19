@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_07013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campos",
+    "eurostat:nuts_2021_id":"07013",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES53",
+    "eurostat:nuts_2021_level_3":"ES532",
+    "eurostat:nuts_2021_level_lau":"07013",
+    "eurostat:population":11283,
+    "eurostat:population_year":2020,
     "geom:area":0.01565,
-    "geom:area_square_m":149521908.881297,
+    "geom:area_square_m":149521720.509921,
     "geom:bbox":"2.930929,39.325065,3.10096,39.476432",
     "geom:latitude":39.406841,
     "geom:longitude":3.014612,
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_07013",
+        "eurostat:nuts_2021_id":"07013",
         "gn:id":6533937,
         "gp:id":12687718,
         "qs_pg:id":1292331
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c867bdd4c165d2351c4231a4092bb78c",
+    "wof:geomhash":"066afb6af66ae5f54bae239048088041",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404330757,
-    "wof:lastmodified":1636503318,
+    "wof:lastmodified":1684352229,
     "wof:name":"Campos",
     "wof:parent_id":85682647,
     "wof:placetype":"localadmin",
+    "wof:population":11283,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

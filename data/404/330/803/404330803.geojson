@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_07034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mancor de la Vall",
+    "eurostat:nuts_2021_id":"07034",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES53",
+    "eurostat:nuts_2021_level_3":"ES532",
+    "eurostat:nuts_2021_level_lau":"07034",
+    "eurostat:population":1528,
+    "eurostat:population_year":2020,
     "geom:area":0.002091,
     "geom:area_square_m":19871673.000407,
     "geom:bbox":"2.83424577,39.73371205,2.89338497,39.79224138",
@@ -42,6 +54,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -50,6 +64,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_07034",
+        "eurostat:nuts_2021_id":"07034",
         "gn:id":6533955,
         "gp:id":12687740,
         "qs_pg:id":1188120
@@ -58,7 +74,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"35ede1d687ce894123a6cc09e66ba7e3",
+    "wof:geomhash":"61eb01c6f23557bd02d8ae0e7ffa1b11",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +85,12 @@
         }
     ],
     "wof:id":404330803,
-    "wof:lastmodified":1582361525,
+    "wof:lastmodified":1684352231,
     "wof:name":"Mancor De La Vall",
     "wof:parent_id":85682647,
     "wof:placetype":"localadmin",
+    "wof:population":1528,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

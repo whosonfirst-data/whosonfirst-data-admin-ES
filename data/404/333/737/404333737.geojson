@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_14044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monturque",
+    "eurostat:nuts_2021_id":"14044",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES613",
+    "eurostat:nuts_2021_level_lau":"14044",
+    "eurostat:population":1943,
+    "eurostat:population_year":2020,
     "geom:area":0.003344,
-    "geom:area_square_m":32815773.38947,
+    "geom:area_square_m":32815773.389473,
     "geom:bbox":"-4.62044426,37.43200483,-4.54828251,37.52029669",
     "geom:latitude":37.475731,
     "geom:longitude":-4.58138,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_14044",
+        "eurostat:nuts_2021_id":"14044",
         "gn:id":6357239,
         "gp:id":12688815,
         "qs_pg:id":1164448
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"84968cbcf0e6722fc19c0cd28dac8048",
+    "wof:geomhash":"9e823af8d69ee218f09310c76d3b16b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404333737,
-    "wof:lastmodified":1582361759,
+    "wof:lastmodified":1684352284,
     "wof:name":"Monturque",
     "wof:parent_id":85682697,
     "wof:placetype":"localadmin",
+    "wof:population":1943,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

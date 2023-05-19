@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cobreros",
+    "eurostat:nuts_2021_id":"49050",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49050",
+    "eurostat:population":568,
+    "eurostat:population_year":2020,
     "geom:area":0.008453,
-    "geom:area_square_m":77587265.201604,
+    "geom:area_square_m":77587265.201607,
     "geom:bbox":"-6.79584504,42.02532655,-6.62546752,42.10957351",
     "geom:latitude":42.073388,
     "geom:longitude":-6.719088,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_49050",
+        "eurostat:nuts_2021_id":"49050",
         "gn:id":6362495,
         "gp:id":12693174,
         "qs_pg:id":1118827
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"452c6ec730793baa913818f33d499d32",
+    "wof:geomhash":"15ac7ac8ee2b2b504535fc5169ff54b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404346261,
-    "wof:lastmodified":1582361610,
+    "wof:lastmodified":1684352497,
     "wof:name":"Cobreros",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":568,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ceinos de Campos",
+    "eurostat:nuts_2021_id":"47048",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47048",
+    "eurostat:population":210,
+    "eurostat:population_year":2020,
     "geom:area":0.003926,
     "geom:area_square_m":36062077.141539,
     "geom:bbox":"-5.18797979,41.98655639,-5.10192147,42.06592265",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_47048",
+        "eurostat:nuts_2021_id":"47048",
         "gn:id":6362176,
         "gp:id":12692950,
         "qs_pg:id":1095197
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bf9628e3f68671fabc44325f5b6a15e8",
+    "wof:geomhash":"65fcf4ea54a33c6b9b50530505371480",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404345505,
-    "wof:lastmodified":1582361826,
+    "wof:lastmodified":1684352487,
     "wof:name":"Ceinos De Campos",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":210,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

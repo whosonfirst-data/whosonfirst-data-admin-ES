@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50169",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Miedes de Arag\u00f3n",
+    "eurostat:nuts_2021_id":"50169",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50169",
+    "eurostat:population":415,
+    "eurostat:population_year":2020,
     "geom:area":0.005949,
-    "geom:area_square_m":55312335.223533,
+    "geom:area_square_m":55312335.223535,
     "geom:bbox":"-1.52904654,41.18718177,-1.3859668,41.28147487",
     "geom:latitude":41.245225,
     "geom:longitude":-1.459709,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_50169",
+        "eurostat:nuts_2021_id":"50169"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"6c6a4e62ca3050f91f3f2a1a968968b2",
+    "wof:geomhash":"8ecdc63c60edb87323cd79194b05dbf1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404347079,
-    "wof:lastmodified":1566590450,
+    "wof:lastmodified":1684352507,
     "wof:name":"Miedes De Arag\u00f3n",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":415,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

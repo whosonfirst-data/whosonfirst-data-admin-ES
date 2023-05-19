@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46129",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fuenterrobles",
+    "eurostat:nuts_2021_id":"46129",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46129",
+    "eurostat:population":694,
+    "eurostat:population_year":2020,
     "geom:area":0.005184,
-    "geom:area_square_m":49408369.989338,
+    "geom:area_square_m":49408369.989339,
     "geom:bbox":"-1.41813368,39.53518988,-1.32241505,39.61553525",
     "geom:latitude":39.578235,
     "geom:longitude":-1.368115,
@@ -81,6 +93,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -88,9 +102,12 @@
         404227381
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_46129",
+        "eurostat:nuts_2021_id":"46129"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"984af00ba494dd583c98f27a27286b1d",
+    "wof:geomhash":"14e389f265f2c0ffbd9858dc82620ac0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,10 +118,12 @@
         }
     ],
     "wof:id":404345089,
-    "wof:lastmodified":1566591032,
+    "wof:lastmodified":1684352482,
     "wof:name":"Fuenterrobles",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":694,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

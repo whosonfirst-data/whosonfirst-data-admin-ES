@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19167",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Malaguilla",
+    "eurostat:nuts_2021_id":"19167",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19167",
+    "eurostat:population":158,
+    "eurostat:population_year":2020,
     "geom:area":0.003043,
-    "geom:area_square_m":28472502.561998,
+    "geom:area_square_m":28472502.561999,
     "geom:bbox":"-3.29620826,40.80061109,-3.23216844,40.88092276",
     "geom:latitude":40.832791,
     "geom:longitude":-3.264327,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19167",
+        "eurostat:nuts_2021_id":"19167",
         "gn:id":6357941,
         "gp:id":12690771,
         "qs_pg:id":45947
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c93ebfa66df56871910905cb8ff67533",
+    "wof:geomhash":"cfd89cf2ad381914eb39f7877a378482",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404335739,
-    "wof:lastmodified":1582361694,
+    "wof:lastmodified":1684352329,
     "wof:name":"Malaguilla",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":158,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

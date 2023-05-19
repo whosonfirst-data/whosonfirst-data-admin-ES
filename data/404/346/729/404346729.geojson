@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aladr\u00e9n",
+    "eurostat:nuts_2021_id":"50007",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50007",
+    "eurostat:population":52,
+    "eurostat:population_year":2020,
     "geom:area":0.002262,
     "geom:area_square_m":21029632.660699,
     "geom:bbox":"-1.1966216,41.22600114,-1.12148036,41.27238025",
@@ -102,6 +114,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -109,9 +123,12 @@
         404227363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_50007",
+        "eurostat:nuts_2021_id":"50007"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"9da1a2b027825971acff41ffedf6472a",
+    "wof:geomhash":"8b6156a0fa6504debfe5669e67bfd58a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +139,12 @@
         }
     ],
     "wof:id":404346729,
-    "wof:lastmodified":1566590285,
+    "wof:lastmodified":1684352502,
     "wof:name":"Aladr\u00e9n",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":52,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

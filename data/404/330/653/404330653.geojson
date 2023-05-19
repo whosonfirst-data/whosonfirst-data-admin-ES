@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06132",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torremayor",
+    "eurostat:nuts_2021_id":"06132",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06132",
+    "eurostat:population":949,
+    "eurostat:population_year":2020,
     "geom:area":0.002181,
     "geom:area_square_m":20987463.099119,
     "geom:bbox":"-6.58429835,38.88376914,-6.50992132,38.93299415",
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06132",
+        "eurostat:nuts_2021_id":"06132",
         "gn:id":6355997,
         "gp:id":12694451,
         "qs_pg:id":47923
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c295620f7e2f39f2ad2e545e60b2fb12",
+    "wof:geomhash":"f5d7d078a0dd26451caac5931e9ff778",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404330653,
-    "wof:lastmodified":1582361539,
+    "wof:lastmodified":1684352227,
     "wof:name":"Torremayor",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":949,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

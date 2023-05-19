@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19059",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campillo de Due\u00f1as",
+    "eurostat:nuts_2021_id":"19059",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19059",
+    "eurostat:population":80,
+    "eurostat:population_year":2020,
     "geom:area":0.006475,
     "geom:area_square_m":60552882.0996,
     "geom:bbox":"-1.7294602,40.81577773,-1.59368376,40.90187959",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227375
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_19059",
+        "eurostat:nuts_2021_id":"19059"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"2ddb76337c839981ab537ec82dde413a",
+    "wof:geomhash":"018dd5702d982dea61773c0ef2103173",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404335543,
-    "wof:lastmodified":1566590575,
+    "wof:lastmodified":1684352327,
     "wof:name":"Campillo De Due\u00f1as",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":80,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

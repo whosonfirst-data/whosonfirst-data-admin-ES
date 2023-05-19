@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50206",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Perdiguera",
+    "eurostat:nuts_2021_id":"50206",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50206",
+    "eurostat:population":572,
+    "eurostat:population_year":2020,
     "geom:area":0.011881,
-    "geom:area_square_m":109615068.4241,
+    "geom:area_square_m":109615068.424102,
     "geom:bbox":"-0.71559665,41.69874302,-0.50069348,41.79036081",
     "geom:latitude":41.746082,
     "geom:longitude":-0.611776,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50206",
+        "eurostat:nuts_2021_id":"50206",
         "gn:id":6362893,
         "gp:id":12690033,
         "qs_pg:id":1263236
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"62fa4924aa6d7a0be84e20903629527e",
+    "wof:geomhash":"bfce6acf6b877ac9d4cb6eb5e446b7bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404347161,
-    "wof:lastmodified":1582361669,
+    "wof:lastmodified":1684352508,
     "wof:name":"Perdiguera",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":572,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

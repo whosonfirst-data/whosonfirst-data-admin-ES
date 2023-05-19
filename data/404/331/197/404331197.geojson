@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8142,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08142",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nou de Bergued\u00e0, La",
+    "eurostat:nuts_2021_id":"08142",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08142",
+    "eurostat:population":162,
+    "eurostat:population_year":2020,
     "geom:area":0.002738,
-    "geom:area_square_m":25091658.429866,
+    "geom:area_square_m":25091474.218354,
     "geom:bbox":"1.865918,42.134825,1.926495,42.209682",
     "geom:latitude":42.177084,
     "geom:longitude":1.891015,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08142",
         "esp-icgc:la_lc":"08142",
+        "eurostat:nuts_2021_id":"08142",
         "gn:id":6356171,
         "gp:id":12693522,
         "qs_pg:id":898854
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"cbbca6424f7762b3e0f1a51d4ef4199a",
+    "wof:geomhash":"8105473b996ac8983972eba0ab658baa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404331197,
-    "wof:lastmodified":1669903007,
+    "wof:lastmodified":1684352244,
     "wof:name":"La Nou de Bergued\u00e0",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":162,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

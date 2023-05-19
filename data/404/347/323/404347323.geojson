@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50279",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Velilla de Jiloca",
+    "eurostat:nuts_2021_id":"50279",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50279",
+    "eurostat:population":81,
+    "eurostat:population_year":2020,
     "geom:area":0.001118,
-    "geom:area_square_m":10391171.859808,
+    "geom:area_square_m":10391171.85981,
     "geom:bbox":"-1.61631237,41.24480156,-1.5608243,41.29171668",
     "geom:latitude":41.271858,
     "geom:longitude":-1.592406,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50279",
+        "eurostat:nuts_2021_id":"50279",
         "gn:id":6362965,
         "gp:id":12690105,
         "qs_pg:id":1003645
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d0081b917509667fd0381b3d18f0a603",
+    "wof:geomhash":"11f9077f6813a7a394a1bc96d4e1febe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404347323,
-    "wof:lastmodified":1582361671,
+    "wof:lastmodified":1684352510,
     "wof:name":"Velilla De Jiloca",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":81,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_38041",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sauzal, El",
+    "eurostat:nuts_2021_id":"38041",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES7",
+    "eurostat:nuts_2021_level_2":"ES70",
+    "eurostat:nuts_2021_level_3":"ES709",
+    "eurostat:nuts_2021_level_lau":"38041",
+    "eurostat:population":8940,
+    "eurostat:population_year":2020,
     "geom:area":0.001685,
     "geom:area_square_m":18319549.522887,
     "geom:bbox":"-16.45685307,28.4141447,-16.39625533,28.48741699",
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_38041",
+        "eurostat:nuts_2021_id":"38041",
         "gn:id":6360641,
         "qs_pg:id":621852
     },
@@ -117,7 +133,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ce053729d80a062d140fde810d82ba7d",
+    "wof:geomhash":"3c58cce941bd74117cbd47867882ed94",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +144,12 @@
         }
     ],
     "wof:id":404342009,
-    "wof:lastmodified":1582361811,
+    "wof:lastmodified":1684352433,
     "wof:name":"El Sauzal",
     "wof:parent_id":85682831,
     "wof:placetype":"localadmin",
+    "wof:population":8940,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

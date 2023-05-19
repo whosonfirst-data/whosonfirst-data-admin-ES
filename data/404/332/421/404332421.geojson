@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09438",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villalba de Duero",
+    "eurostat:nuts_2021_id":"09438",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09438",
+    "eurostat:population":705,
+    "eurostat:population_year":2020,
     "geom:area":0.001487,
-    "geom:area_square_m":13733194.496073,
+    "geom:area_square_m":13733194.496074,
     "geom:bbox":"-3.78649413,41.66506397,-3.7305299,41.70252056",
     "geom:latitude":41.683638,
     "geom:longitude":-3.756432,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09438",
+        "eurostat:nuts_2021_id":"09438",
         "gn:id":6356660,
         "gp:id":12691712,
         "qs_pg:id":1147709
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d0cc09000d19cb6a30bdc3e6eb28c752",
+    "wof:geomhash":"46d13ffb2a4643ba13367f7f44e5bdf2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332421,
-    "wof:lastmodified":1582361687,
+    "wof:lastmodified":1684352264,
     "wof:name":"Villalba De Duero",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":705,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

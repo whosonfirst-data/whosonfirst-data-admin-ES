@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_20903",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Astigarraga",
+    "eurostat:nuts_2021_id":"20903",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES212",
+    "eurostat:nuts_2021_level_lau":"20903",
+    "eurostat:population":7029,
+    "eurostat:population_year":2020,
     "geom:area":0.00132,
     "geom:area_square_m":11884889.466597,
     "geom:bbox":"-1.95903224,43.25283489,-1.91261935,43.30351386",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_20903",
+        "eurostat:nuts_2021_id":"20903",
         "gn:id":3129239,
         "gp:id":12695084,
         "qs_pg:id":499460
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"811a50ab60257b89c0adbc75f79f70ca",
+    "wof:geomhash":"bde95ba3fade78b37fd56aa7993b25e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404336271,
-    "wof:lastmodified":1582361473,
+    "wof:lastmodified":1684352336,
     "wof:name":"Astigarraga",
     "wof:parent_id":85682741,
     "wof:placetype":"localadmin",
+    "wof:population":7029,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

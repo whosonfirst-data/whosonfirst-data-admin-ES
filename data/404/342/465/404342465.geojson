@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40100",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hontalbilla",
+    "eurostat:nuts_2021_id":"40100",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40100",
+    "eurostat:population":303,
+    "eurostat:population_year":2020,
     "geom:area":0.004127,
-    "geom:area_square_m":38313933.745034,
+    "geom:area_square_m":38313933.745036,
     "geom:bbox":"-4.17857991,41.30069932,-4.05829002,41.37119157",
     "geom:latitude":41.338097,
     "geom:longitude":-4.117604,
@@ -87,6 +99,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -95,6 +109,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_40100",
+        "eurostat:nuts_2021_id":"40100",
         "gn:id":6360833,
         "gp:id":12692600,
         "qs_pg:id":1189077
@@ -103,7 +119,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2445de8e3d2b73938e58dda2d62b2080",
+    "wof:geomhash":"b0b4e3943e6d62a9ed3f88b0bb767520",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,10 +130,12 @@
         }
     ],
     "wof:id":404342465,
-    "wof:lastmodified":1582361812,
+    "wof:lastmodified":1684352439,
     "wof:name":"Hontalbilla",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":303,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

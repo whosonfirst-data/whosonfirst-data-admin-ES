@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49232",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vega de Villalobos",
+    "eurostat:nuts_2021_id":"49232",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49232",
+    "eurostat:population":92,
+    "eurostat:population_year":2020,
     "geom:area":0.001106,
     "geom:area_square_m":10164046.115086,
     "geom:bbox":"-5.5142243,41.95135581,-5.43343116,41.99553702",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_49232",
+        "eurostat:nuts_2021_id":"49232",
         "gn:id":6362655,
         "gp:id":12693335,
         "qs_pg:id":47167
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2ede988a158fc9b9a1fdc13d67a14d76",
+    "wof:geomhash":"98c2638c1634654c5a433b40aa9eeb03",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404346623,
-    "wof:lastmodified":1582361617,
+    "wof:lastmodified":1684352501,
     "wof:name":"Vega De Villalobos",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":92,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

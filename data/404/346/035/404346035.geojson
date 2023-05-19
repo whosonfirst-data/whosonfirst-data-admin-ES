@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48058",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mallabia",
+    "eurostat:nuts_2021_id":"48058",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48058",
+    "eurostat:population":1173,
+    "eurostat:population_year":2020,
     "geom:area":0.00256,
-    "geom:area_square_m":23073003.577894,
+    "geom:area_square_m":23073003.577895,
     "geom:bbox":"-2.57798782,43.17798765,-2.49640596,43.23122941",
     "geom:latitude":43.205921,
     "geom:longitude":-2.539391,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_48058",
+        "eurostat:nuts_2021_id":"48058",
         "gn:id":6362401,
         "gp:id":12695226,
         "qs_pg:id":1019703
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4c84a4cbcf617fb3593146643c8e0f01",
+    "wof:geomhash":"c8016251b812de47ba643a4a1ecf60f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404346035,
-    "wof:lastmodified":1582361618,
+    "wof:lastmodified":1684352493,
     "wof:name":"Mallabia",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":1173,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

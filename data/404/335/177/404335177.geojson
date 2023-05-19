@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18067",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Diezma",
+    "eurostat:nuts_2021_id":"18067",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18067",
+    "eurostat:population":764,
+    "eurostat:population_year":2020,
     "geom:area":0.004279,
-    "geom:area_square_m":42078290.362576,
+    "geom:area_square_m":42078290.362577,
     "geom:bbox":"-3.39589582,37.2812209,-3.28380823,37.36584422",
     "geom:latitude":37.324709,
     "geom:longitude":-3.352112,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18067",
+        "eurostat:nuts_2021_id":"18067",
         "gn:id":6357694,
         "gp:id":12688905,
         "qs_pg:id":998904
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"afc11f5f25a34d952f3311202de48807",
+    "wof:geomhash":"8d78e5020ec0131affd07e3c7e4e3080",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404335177,
-    "wof:lastmodified":1582361711,
+    "wof:lastmodified":1684352321,
     "wof:name":"Diezma",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":764,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

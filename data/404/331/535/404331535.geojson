@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":8294,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08294",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vallgorguina",
+    "eurostat:nuts_2021_id":"08294",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08294",
+    "eurostat:population":2988,
+    "eurostat:population_year":2020,
     "geom:area":0.002393,
     "geom:area_square_m":22113818.950391,
     "geom:bbox":"2.44535523672,41.6233095619,2.54128761568,41.6716834436",
@@ -133,6 +145,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -141,7 +155,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08294",
         "esp-icgc:la_lc":"08294",
+        "eurostat:nuts_2021_id":"08294",
         "gn:id":6356311,
         "gp:id":12693668,
         "qs_pg:id":345304
@@ -151,7 +167,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"997f306d9796c4a479a3611b297083d7",
+    "wof:geomhash":"cc5d1ff0ba2ba5e811568688e973cf03",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -162,10 +178,12 @@
         }
     ],
     "wof:id":404331535,
-    "wof:lastmodified":1582361484,
+    "wof:lastmodified":1684352255,
     "wof:name":"Vallgorguina",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":2988,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

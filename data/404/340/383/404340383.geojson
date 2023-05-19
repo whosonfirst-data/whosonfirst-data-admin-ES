@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_33046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pe\u00f1amellera Alta",
+    "eurostat:nuts_2021_id":"33046",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES12",
+    "eurostat:nuts_2021_level_3":"ES120",
+    "eurostat:nuts_2021_level_lau":"33046",
+    "eurostat:population":498,
+    "eurostat:population_year":2020,
     "geom:area":0.01023,
-    "geom:area_square_m":92031559.541903,
+    "geom:area_square_m":92031559.541904,
     "geom:bbox":"-4.78766988,43.25608951,-4.63398919,43.36512835",
     "geom:latitude":43.320784,
     "geom:longitude":-4.715545,
@@ -108,6 +120,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -115,9 +129,12 @@
         404227365
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_33046",
+        "eurostat:nuts_2021_id":"33046"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"02092a849e369ef96673af849201340b",
+    "wof:geomhash":"7f89a5e8fde0bf5fe1c2eeca0df64eca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +145,12 @@
         }
     ],
     "wof:id":404340383,
-    "wof:lastmodified":1566590396,
+    "wof:lastmodified":1684352407,
     "wof:name":"Pe\u00f1amellera Alta",
     "wof:parent_id":85682805,
     "wof:placetype":"localadmin",
+    "wof:population":498,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

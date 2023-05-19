@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hu\u00e9tor Vega",
+    "eurostat:nuts_2021_id":"18101",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18101",
+    "eurostat:population":12035,
+    "eurostat:population_year":2020,
     "geom:area":0.00043,
-    "geom:area_square_m":4236238.014059,
+    "geom:area_square_m":4236238.01406,
     "geom:bbox":"-3.58669695,37.1384783,-3.55072906,37.15858658",
     "geom:latitude":37.148188,
     "geom:longitude":-3.566552,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18101",
+        "eurostat:nuts_2021_id":"18101",
         "gn:id":6357720,
         "gp:id":12688933,
         "qs_pg:id":45021
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6fb290356adba094064c92e51f7eca15",
+    "wof:geomhash":"896a1ae0bc0e3ed987dd483afad20d45",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404335237,
-    "wof:lastmodified":1582361710,
+    "wof:lastmodified":1684352322,
     "wof:name":"Hu\u00e9tor Vega",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":12035,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

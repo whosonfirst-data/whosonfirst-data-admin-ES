@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25118,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25118",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Juncosa",
+    "eurostat:nuts_2021_id":"25118",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25118",
+    "eurostat:population":395,
+    "eurostat:population_year":2020,
     "geom:area":0.008257,
-    "geom:area_square_m":76607180.936445,
+    "geom:area_square_m":76607180.936443,
     "geom:bbox":"0.725236234945,41.3268215347,0.845498301546,41.4444605076",
     "geom:latitude":41.380348,
     "geom:longitude":0.786417,
@@ -109,6 +121,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -117,7 +131,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25118",
         "esp-icgc:la_lc":"025118",
+        "eurostat:nuts_2021_id":"25118",
         "gn:id":6358861,
         "gp:id":12694011,
         "qs_pg:id":47600
@@ -127,7 +143,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b5541c196f20de7bdca6d95652697235",
+    "wof:geomhash":"52ff3d323795b306292594ff9932c079",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404337847,
-    "wof:lastmodified":1582361570,
+    "wof:lastmodified":1684352361,
     "wof:name":"Juncosa",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":395,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

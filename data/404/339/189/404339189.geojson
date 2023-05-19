@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_29044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Comares",
+    "eurostat:nuts_2021_id":"29044",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES617",
+    "eurostat:nuts_2021_level_lau":"29044",
+    "eurostat:population":1330,
+    "eurostat:population_year":2020,
     "geom:area":0.002577,
-    "geom:area_square_m":25495778.752986,
+    "geom:area_square_m":25495778.752984,
     "geom:bbox":"-4.29191838,36.82802224,-4.21815133,36.88861737",
     "geom:latitude":36.855544,
     "geom:longitude":-4.257417,
@@ -141,6 +153,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -149,6 +163,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_29044",
+        "eurostat:nuts_2021_id":"29044",
         "gn:id":6359449,
         "gp:id":12689233,
         "qs_pg:id":1093480
@@ -157,7 +173,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"33ceb719c4b3368cabdd29111fed9f0b",
+    "wof:geomhash":"1a6cf38f3ce2159cb31e7ff6f49742e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,10 +184,12 @@
         }
     ],
     "wof:id":404339189,
-    "wof:lastmodified":1582361588,
+    "wof:lastmodified":1684352390,
     "wof:name":"Comares",
     "wof:parent_id":85682787,
     "wof:placetype":"localadmin",
+    "wof:population":1330,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

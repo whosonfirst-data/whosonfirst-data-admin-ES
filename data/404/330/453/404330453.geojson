@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Don \u00c1lvaro",
+    "eurostat:nuts_2021_id":"06043",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06043",
+    "eurostat:population":775,
+    "eurostat:population_year":2020,
     "geom:area":0.003329,
-    "geom:area_square_m":32050542.980599,
+    "geom:area_square_m":32050542.9806,
     "geom:bbox":"-6.32578124,38.83118587,-6.22937457,38.89233931",
     "geom:latitude":38.860312,
     "geom:longitude":-6.278098,
@@ -117,6 +129,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -124,9 +138,12 @@
         404227383
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_06043",
+        "eurostat:nuts_2021_id":"06043"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"c11ce06fa3ab94b3469c5768eb820b04",
+    "wof:geomhash":"69dac224b5985418b9e20c2948e6543d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +154,12 @@
         }
     ],
     "wof:id":404330453,
-    "wof:lastmodified":1566589896,
+    "wof:lastmodified":1684352224,
     "wof:name":"Don \u00c1lvaro",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":775,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

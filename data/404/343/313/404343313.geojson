@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42177",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tajueco",
+    "eurostat:nuts_2021_id":"42177",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42177",
+    "eurostat:population":58,
+    "eurostat:population_year":2020,
     "geom:area":0.001949,
     "geom:area_square_m":18041742.723173,
     "geom:bbox":"-2.87520688,41.51075509,-2.80544287,41.56552257",
@@ -174,6 +186,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -182,6 +196,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42177",
+        "eurostat:nuts_2021_id":"42177",
         "gn:id":6361208,
         "gp:id":12692867,
         "qs_pg:id":951172
@@ -190,7 +206,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f4c4e352d04a87527522306b392454c2",
+    "wof:geomhash":"2a2863203532a3d510aa15b0a8f3b6c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -201,10 +217,12 @@
         }
     ],
     "wof:id":404343313,
-    "wof:lastmodified":1582361877,
+    "wof:lastmodified":1684352450,
     "wof:name":"Tajueco",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":58,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

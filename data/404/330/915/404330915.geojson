@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8016,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bag\u00e0",
+    "eurostat:nuts_2021_id":"08016",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08016",
+    "eurostat:population":2140,
+    "eurostat:population_year":2020,
     "geom:area":0.004701,
-    "geom:area_square_m":43012374.317512,
+    "geom:area_square_m":43012220.239055,
     "geom:bbox":"1.670417,42.234005,1.943147,42.322961",
     "geom:latitude":42.278851,
     "geom:longitude":1.858146,
@@ -127,6 +139,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -135,7 +149,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08016",
         "esp-icgc:la_lc":"08016",
+        "eurostat:nuts_2021_id":"08016",
         "gn:id":6356052,
         "gp:id":12693392,
         "qs_pg:id":290484
@@ -145,7 +161,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0396b332f0cf2ebd4163f4dce13651af",
+    "wof:geomhash":"8558b1ff923ae597b951e65e0b103949",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404330915,
-    "wof:lastmodified":1669903015,
+    "wof:lastmodified":1684352235,
     "wof:name":"Bag\u00e0",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":2140,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

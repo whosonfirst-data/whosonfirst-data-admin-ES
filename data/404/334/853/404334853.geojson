@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":17144,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17144",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Regenc\u00f3s",
+    "eurostat:nuts_2021_id":"17144",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17144",
+    "eurostat:population":276,
+    "eurostat:population_year":2020,
     "geom:area":0.000682,
     "geom:area_square_m":6268870.644004,
     "geom:bbox":"3.14824357014,41.9371648532,3.19565055048,41.9626538979",
@@ -121,6 +133,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -129,7 +143,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17144",
         "esp-icgc:la_lc":"017144",
+        "eurostat:nuts_2021_id":"17144",
         "gn:id":6534111,
         "gp:id":12693820,
         "qs_pg:id":1206126
@@ -139,7 +155,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"8d76f47da103781095876626de1ab94f",
+    "wof:geomhash":"1c06165d0bb9789058908ee2b1ef17c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404334853,
-    "wof:lastmodified":1582361750,
+    "wof:lastmodified":1684352312,
     "wof:name":"Regenc\u00f3s",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":276,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

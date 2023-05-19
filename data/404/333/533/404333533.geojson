@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_13055",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mestanza",
+    "eurostat:nuts_2021_id":"13055",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES422",
+    "eurostat:nuts_2021_level_lau":"13055",
+    "eurostat:population":669,
+    "eurostat:population_year":2020,
     "geom:area":0.038201,
-    "geom:area_square_m":369760394.381585,
+    "geom:area_square_m":369760394.38159,
     "geom:bbox":"-4.11531232,38.36609584,-3.82428861,38.62070681",
     "geom:latitude":38.4838,
     "geom:longitude":-3.984578,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_13055",
+        "eurostat:nuts_2021_id":"13055",
         "gn:id":6357149,
         "gp:id":12690352,
         "qs_pg:id":1029314
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6ac9a1b908af0a50e86f2f000867d446",
+    "wof:geomhash":"87114ec2df57d8f0ae0b79a2d1cd3f26",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404333533,
-    "wof:lastmodified":1582361759,
+    "wof:lastmodified":1684352280,
     "wof:name":"Mestanza",
     "wof:parent_id":85682689,
     "wof:placetype":"localadmin",
+    "wof:population":669,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

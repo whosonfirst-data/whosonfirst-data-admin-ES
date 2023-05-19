@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_20066",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Errezil",
+    "eurostat:nuts_2021_id":"20066",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES212",
+    "eurostat:nuts_2021_level_lau":"20066",
+    "eurostat:population":578,
+    "eurostat:population_year":2020,
     "geom:area":0.003593,
-    "geom:area_square_m":32400659.763888,
+    "geom:area_square_m":32400659.76389,
     "geom:bbox":"-2.23101952,43.09800059,-2.14772474,43.20848157",
     "geom:latitude":43.175743,
     "geom:longitude":-2.185329,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_20066",
+        "eurostat:nuts_2021_id":"20066",
         "gn:id":6358154,
         "gp:id":12695102,
         "qs_pg:id":621690
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6acf884d35f5546ef7c5be6794b6d669",
+    "wof:geomhash":"9f921a15e82d55ece6f0dd4498f0bc75",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404336231,
-    "wof:lastmodified":1582361473,
+    "wof:lastmodified":1684352335,
     "wof:name":"Errezil",
     "wof:parent_id":85682741,
     "wof:placetype":"localadmin",
+    "wof:population":578,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

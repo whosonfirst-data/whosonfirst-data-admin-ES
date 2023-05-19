@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45167",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Toboso, El",
+    "eurostat:nuts_2021_id":"45167",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45167",
+    "eurostat:population":1741,
+    "eurostat:population_year":2020,
     "geom:area":0.015102,
     "geom:area_square_m":144058999.995669,
     "geom:bbox":"-3.07574243,39.44164427,-2.92051726,39.61325215",
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45167",
+        "eurostat:nuts_2021_id":"45167",
         "gn:id":6361827,
         "gp:id":12691089,
         "qs_pg:id":621929
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cb96f36c3d262ebce608327a72c85f36",
+    "wof:geomhash":"cd8fc8cdc8c604d94ea8076f99d20fa4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404344713,
-    "wof:lastmodified":1582361850,
+    "wof:lastmodified":1684352477,
     "wof:name":"El Toboso",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":1741,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_14016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carde\u00f1a",
+    "eurostat:nuts_2021_id":"14016",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES613",
+    "eurostat:nuts_2021_level_lau":"14016",
+    "eurostat:population":1471,
+    "eurostat:population_year":2020,
     "geom:area":0.052803,
-    "geom:area_square_m":512555464.878426,
+    "geom:area_square_m":512555464.878423,
     "geom:bbox":"-4.56131986,38.15762542,-4.19388343,38.40223491",
     "geom:latitude":38.276826,
     "geom:longitude":-4.367299,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_14016",
+        "eurostat:nuts_2021_id":"14016",
         "gn:id":6357211,
         "gp:id":12688787,
         "qs_pg:id":902570
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f597ce547ec88c68e0010b1dbf923c1d",
+    "wof:geomhash":"3f23bbb7fb3f3cbdfe365a359d1d5a13",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404333675,
-    "wof:lastmodified":1582361761,
+    "wof:lastmodified":1684352282,
     "wof:name":"Carde\u00f1a",
     "wof:parent_id":85682697,
     "wof:placetype":"localadmin",
+    "wof:population":1471,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05110",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lanzah\u00edta",
+    "eurostat:nuts_2021_id":"05110",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05110",
+    "eurostat:population":811,
+    "eurostat:population_year":2020,
     "geom:area":0.003561,
-    "geom:area_square_m":33636238.482762,
+    "geom:area_square_m":33636238.482764,
     "geom:bbox":"-4.97368814,40.15338246,-4.89665348,40.22323951",
     "geom:latitude":40.19202,
     "geom:longitude":-4.938508,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05110",
+        "eurostat:nuts_2021_id":"05110",
         "gp:id":12691223,
         "qs_pg:id":1026124
     },
@@ -120,7 +136,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cf83ba9edb5f7bea31a8b47856b1f438",
+    "wof:geomhash":"95194f13efb9e6f5a00d186a9b5727ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404330015,
-    "wof:lastmodified":1582361522,
+    "wof:lastmodified":1684352218,
     "wof:name":"Lanzah\u00edta",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":811,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

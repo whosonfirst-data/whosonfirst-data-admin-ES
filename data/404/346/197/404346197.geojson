@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Barcial del Barco",
+    "eurostat:nuts_2021_id":"49019",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49019",
+    "eurostat:population":247,
+    "eurostat:population_year":2020,
     "geom:area":0.002064,
-    "geom:area_square_m":18982188.606828,
+    "geom:area_square_m":18982188.606827,
     "geom:bbox":"-5.67877789,41.91133603,-5.60885053,41.96256908",
     "geom:latitude":41.935101,
     "geom:longitude":-5.644309,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_49019",
+        "eurostat:nuts_2021_id":"49019",
         "gn:id":6362466,
         "gp:id":12693145,
         "qs_pg:id":1019761
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a4c44099bd83aa162e2e6815b6530fbf",
+    "wof:geomhash":"295c7abf3875d95810fa0c7772f65c81",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404346197,
-    "wof:lastmodified":1582361615,
+    "wof:lastmodified":1684352496,
     "wof:name":"Barcial Del Barco",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":247,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

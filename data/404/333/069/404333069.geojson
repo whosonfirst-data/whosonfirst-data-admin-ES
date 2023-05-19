@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_11028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Puerto Real",
+    "eurostat:nuts_2021_id":"11028",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES612",
+    "eurostat:nuts_2021_level_lau":"11028",
+    "eurostat:population":41700,
+    "eurostat:population_year":2020,
     "geom:area":0.019718,
-    "geom:area_square_m":195935197.393956,
+    "geom:area_square_m":195935197.393957,
     "geom:bbox":"-6.25797252,36.45552295,-5.98013075,36.5993865",
     "geom:latitude":36.523475,
     "geom:longitude":-6.111329,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_11028",
+        "eurostat:nuts_2021_id":"11028",
         "gn:id":6356943,
         "gp:id":12688755,
         "qs_pg:id":1059710
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"134fb85af31af5655c0ee3cf37b53982",
+    "wof:geomhash":"bccce609b5605b26bce11bcd6ac8f824",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404333069,
-    "wof:lastmodified":1582361781,
+    "wof:lastmodified":1684352273,
     "wof:name":"Puerto Real",
     "wof:parent_id":85682679,
     "wof:placetype":"localadmin",
+    "wof:population":41700,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

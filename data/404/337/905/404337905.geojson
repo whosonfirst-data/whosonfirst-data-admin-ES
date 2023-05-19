@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25145,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25145",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nalec",
+    "eurostat:nuts_2021_id":"25145",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25145",
+    "eurostat:population":90,
+    "eurostat:population_year":2020,
     "geom:area":0.001043,
-    "geom:area_square_m":9655076.784163,
+    "geom:area_square_m":9655103.906795,
     "geom:bbox":"1.097052,41.51915,1.134127,41.571726",
     "geom:latitude":41.546856,
     "geom:longitude":1.117511,
@@ -115,6 +127,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -123,7 +137,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25145",
         "esp-icgc:la_lc":"025145",
+        "eurostat:nuts_2021_id":"25145",
         "gn:id":6358886,
         "gp:id":12694037,
         "qs_pg:id":1061623
@@ -133,7 +149,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"c172ad5684779c6b29f5add46ba5bc93",
+    "wof:geomhash":"4f62f65acda6664e48d3740d3727e37a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404337905,
-    "wof:lastmodified":1669903026,
+    "wof:lastmodified":1684352363,
     "wof:name":"Nalec",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":90,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

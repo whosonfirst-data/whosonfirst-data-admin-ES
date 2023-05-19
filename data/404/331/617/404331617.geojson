@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arauzo de Salce",
+    "eurostat:nuts_2021_id":"09021",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09021",
+    "eurostat:population":54,
+    "eurostat:population_year":2020,
     "geom:area":0.002005,
     "geom:area_square_m":18479837.568463,
     "geom:bbox":"-3.44689317,41.79966901,-3.36744502,41.84347921",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09021",
+        "eurostat:nuts_2021_id":"09021",
         "gn:id":6356346,
         "gp:id":12691391,
         "qs_pg:id":46219
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f50e63f1e71f6425b87a9dc61005d2a7",
+    "wof:geomhash":"c6e980283ba0f6a1b806c07b7a9205fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404331617,
-    "wof:lastmodified":1582361486,
+    "wof:lastmodified":1684352257,
     "wof:name":"Arauzo De Salce",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":54,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

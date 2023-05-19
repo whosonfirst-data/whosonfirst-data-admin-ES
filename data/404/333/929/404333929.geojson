@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15054",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nar\u00f3n",
+    "eurostat:nuts_2021_id":"15054",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15054",
+    "eurostat:population":39056,
+    "eurostat:population_year":2020,
     "geom:area":0.007473,
-    "geom:area_square_m":66983910.580063,
+    "geom:area_square_m":66983910.580069,
     "geom:bbox":"-8.25941084,43.48680353,-8.08483227,43.57816153",
     "geom:latitude":43.538817,
     "geom:longitude":-8.167593,
@@ -132,6 +144,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -140,6 +154,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_15054",
+        "eurostat:nuts_2021_id":"15054",
         "gn:id":6357323,
         "gp:id":12694756,
         "qs_pg:id":1102907
@@ -148,7 +164,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"583421d83acdfb6af436a045eb31eb6f",
+    "wof:geomhash":"11d555a26b520d71f252e99b936e6a6d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,10 +175,12 @@
         }
     ],
     "wof:id":404333929,
-    "wof:lastmodified":1582361783,
+    "wof:lastmodified":1684352289,
     "wof:name":"Nar\u00f3n",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":39056,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

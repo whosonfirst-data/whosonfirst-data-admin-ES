@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05093",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Herrad\u00f3n de Pinares",
+    "eurostat:nuts_2021_id":"05093",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05093",
+    "eurostat:population":419,
+    "eurostat:population_year":2020,
     "geom:area":0.005148,
-    "geom:area_square_m":48340461.374968,
+    "geom:area_square_m":48340461.374967,
     "geom:bbox":"-4.60290149,40.54788652,-4.47895075,40.6231899",
     "geom:latitude":40.586539,
     "geom:longitude":-4.540219,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05093",
+        "eurostat:nuts_2021_id":"05093",
         "gn:id":6355698,
         "gp:id":12691207,
         "qs_pg:id":348112
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ba957150f108a66fc84901e55fe419f0",
+    "wof:geomhash":"48da60aa5afd649c8c53b3395d64b47f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404329979,
-    "wof:lastmodified":1582361793,
+    "wof:lastmodified":1684352218,
     "wof:name":"Herrad\u00f3n De Pinares",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":419,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

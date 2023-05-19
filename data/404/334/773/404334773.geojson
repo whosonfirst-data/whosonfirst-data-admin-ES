@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17102,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17102",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ma\u00e7anet de Cabrenys",
+    "eurostat:nuts_2021_id":"17102",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17102",
+    "eurostat:population":698,
+    "eurostat:population_year":2020,
     "geom:area":0.007398,
-    "geom:area_square_m":67569478.392024,
+    "geom:area_square_m":67569528.910168,
     "geom:bbox":"2.651376,42.340213,2.796015,42.426241",
     "geom:latitude":42.384314,
     "geom:longitude":2.732741,
@@ -74,6 +86,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -82,7 +96,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17102",
         "esp-icgc:la_lc":"017102",
+        "eurostat:nuts_2021_id":"17102",
         "gn:id":6534079,
         "gp:id":12693778,
         "qs_pg:id":977823
@@ -92,7 +108,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e41a51be45525b94fa718155c026d0c1",
+    "wof:geomhash":"e1d198ce588b3a427f3b4f89829028b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,10 +119,12 @@
         }
     ],
     "wof:id":404334773,
-    "wof:lastmodified":1669903055,
+    "wof:lastmodified":1684352308,
     "wof:name":"Ma\u00e7anet de Cabrenys",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":698,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alconchel",
+    "eurostat:nuts_2021_id":"06007",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06007",
+    "eurostat:population":1659,
+    "eurostat:population_year":2020,
     "geom:area":0.030464,
-    "geom:area_square_m":294741585.802609,
+    "geom:area_square_m":294741585.802601,
     "geom:bbox":"-7.32262016,38.43408021,-6.99134566,38.61106657",
     "geom:latitude":38.51608,
     "geom:longitude":-7.145143,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06007",
+        "eurostat:nuts_2021_id":"06007",
         "gn:id":6355872,
         "gp:id":12694326,
         "qs_pg:id":259331
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9789c35c9946b8df51215bc1435d60a2",
+    "wof:geomhash":"e86f09ff7123b894903afe0a70a85e8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404330371,
-    "wof:lastmodified":1582361530,
+    "wof:lastmodified":1684352223,
     "wof:name":"Alconchel",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":1659,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_39044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Miengo",
+    "eurostat:nuts_2021_id":"39044",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES13",
+    "eurostat:nuts_2021_level_3":"ES130",
+    "eurostat:nuts_2021_level_lau":"39044",
+    "eurostat:population":4891,
+    "eurostat:population_year":2020,
     "geom:area":0.00273,
     "geom:area_square_m":24520024.687439,
     "geom:bbox":"-4.03641496,43.39712862,-3.95198524,43.45330579",
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_39044",
+        "eurostat:nuts_2021_id":"39044",
         "gn:id":6360690,
         "gp:id":12688565,
         "qs_pg:id":1059706
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3ba1d24da2ba671fdfdada4d0a0a5d95",
+    "wof:geomhash":"ec3e45e26ca5ab89e1f6f683f9b3a78d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404342139,
-    "wof:lastmodified":1582361816,
+    "wof:lastmodified":1684352436,
     "wof:name":"Miengo",
     "wof:parent_id":85682833,
     "wof:placetype":"localadmin",
+    "wof:population":4891,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

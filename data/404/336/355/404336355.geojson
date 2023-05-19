@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_21033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fuenteheridos",
+    "eurostat:nuts_2021_id":"21033",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES615",
+    "eurostat:nuts_2021_level_lau":"21033",
+    "eurostat:population":709,
+    "eurostat:population_year":2020,
     "geom:area":0.001119,
     "geom:area_square_m":10914508.977821,
     "geom:bbox":"-6.68720039,37.88899954,-6.63880899,37.92445642",
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_21033",
+        "eurostat:nuts_2021_id":"21033",
         "gn:id":6358209,
         "gp:id":12689047,
         "qs_pg:id":891489
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2ea933d7acf2fdd0b56055e94539b594",
+    "wof:geomhash":"b4bf116f43be5494dcee8ed95bbcd36b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404336355,
-    "wof:lastmodified":1582361461,
+    "wof:lastmodified":1684352337,
     "wof:name":"Fuenteheridos",
     "wof:parent_id":85682749,
     "wof:placetype":"localadmin",
+    "wof:population":709,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

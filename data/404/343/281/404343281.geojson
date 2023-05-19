@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42160",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Royo, El",
+    "eurostat:nuts_2021_id":"42160",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42160",
+    "eurostat:population":272,
+    "eurostat:population_year":2020,
     "geom:area":0.013682,
-    "geom:area_square_m":125874616.03884,
+    "geom:area_square_m":125874616.038838,
     "geom:bbox":"-2.74835328,41.84287497,-2.57652113,42.01579625",
     "geom:latitude":41.924586,
     "geom:longitude":-2.668548,
@@ -171,6 +183,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -179,6 +193,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42160",
+        "eurostat:nuts_2021_id":"42160",
         "gn:id":6361193,
         "gp:id":12692852,
         "qs_pg:id":327270
@@ -187,7 +203,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0ab0779cc121dda6562bdb4a66b5baec",
+    "wof:geomhash":"2f360e7d77413cd1a2100c79fb649151",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -198,10 +214,12 @@
         }
     ],
     "wof:id":404343281,
-    "wof:lastmodified":1582361870,
+    "wof:lastmodified":1684352449,
     "wof:name":"El Royo",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":272,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_39060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Reoc\u00edn",
+    "eurostat:nuts_2021_id":"39060",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES13",
+    "eurostat:nuts_2021_level_3":"ES130",
+    "eurostat:nuts_2021_level_lau":"39060",
+    "eurostat:population":8399,
+    "eurostat:population_year":2020,
     "geom:area":0.003563,
-    "geom:area_square_m":32037065.043044,
+    "geom:area_square_m":32037065.043047,
     "geom:bbox":"-4.17500368,43.32131902,-4.07656304,43.37962359",
     "geom:latitude":43.349103,
     "geom:longitude":-4.124073,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_39060",
+        "eurostat:nuts_2021_id":"39060",
         "gn:id":6360705,
         "gp:id":12688581,
         "qs_pg:id":289870
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f3d2277194f508caa6605ff6f1ad7e9d",
+    "wof:geomhash":"4cb6f6b39b11f594f9a50acd647ae578",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404342175,
-    "wof:lastmodified":1582361814,
+    "wof:lastmodified":1684352436,
     "wof:name":"Reoc\u00edn",
     "wof:parent_id":85682833,
     "wof:placetype":"localadmin",
+    "wof:population":8399,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44177",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pancrudo",
+    "eurostat:nuts_2021_id":"44177",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44177",
+    "eurostat:population":119,
+    "eurostat:population_year":2020,
     "geom:area":0.010682,
-    "geom:area_square_m":100007488.637728,
+    "geom:area_square_m":100007488.637729,
     "geom:bbox":"-1.08973328,40.71858623,-0.94015567,40.85502678",
     "geom:latitude":40.78692,
     "geom:longitude":-1.013033,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44177",
+        "eurostat:nuts_2021_id":"44177",
         "gn:id":6361581,
         "gp:id":12689753,
         "qs_pg:id":954103
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ed136b7c3d04e23536ab92cb271d6dea",
+    "wof:geomhash":"09f79900f76ed0085ca818d55a46e5e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404344157,
-    "wof:lastmodified":1582361844,
+    "wof:lastmodified":1684352470,
     "wof:name":"Pancrudo",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":119,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

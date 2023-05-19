@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46212",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Real",
+    "eurostat:nuts_2021_id":"46212",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46212",
+    "eurostat:population":2207,
+    "eurostat:population_year":2020,
     "geom:area":0.001913,
-    "geom:area_square_m":18299286.963719,
+    "geom:area_square_m":18299286.963717,
     "geom:bbox":"-0.68161455,39.29128024,-0.58090786,39.34360433",
     "geom:latitude":39.313512,
     "geom:longitude":-0.622515,
@@ -102,6 +114,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -109,9 +123,12 @@
         404227381
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_46212",
+        "eurostat:nuts_2021_id":"46212"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"7cdf09b5037d2a1b9eee7ce1f43d31c9",
+    "wof:geomhash":"5e9404b8bc7786f0f9f965e3be89ff28",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +139,12 @@
         }
     ],
     "wof:id":404345275,
-    "wof:lastmodified":1566591004,
+    "wof:lastmodified":1684352484,
     "wof:name":"Real",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":2207,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09908",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valle de Losa",
+    "eurostat:nuts_2021_id":"09908",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09908",
+    "eurostat:population":481,
+    "eurostat:population_year":2020,
     "geom:area":0.025126,
-    "geom:area_square_m":227271523.751176,
+    "geom:area_square_m":227271523.751169,
     "geom:bbox":"-3.35642476,42.88514866,-3.08353926,43.08954033",
     "geom:latitude":42.987797,
     "geom:longitude":-3.220335,
@@ -36,6 +48,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -44,6 +58,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09908",
+        "eurostat:nuts_2021_id":"09908",
         "gn:id":6356697,
         "gp:id":12691685,
         "qs_pg:id":907221
@@ -52,7 +68,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"62d44f50d10c35558927a9ac050dfce8",
+    "wof:geomhash":"b5161be8dbaca0afcdd0047465d3bff7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +79,12 @@
         }
     ],
     "wof:id":404332509,
-    "wof:lastmodified":1582361686,
+    "wof:lastmodified":1684352265,
     "wof:name":"Valle De Losa",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":481,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

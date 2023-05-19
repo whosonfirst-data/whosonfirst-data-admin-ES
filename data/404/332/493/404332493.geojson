@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09901",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Quintanilla del Agua y Tordueles",
+    "eurostat:nuts_2021_id":"09901",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09901",
+    "eurostat:population":360,
+    "eurostat:population_year":2020,
     "geom:area":0.003891,
     "geom:area_square_m":35734430.335313,
     "geom:bbox":"-3.69175483,42.00444969,-3.59058457,42.08194144",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09901",
+        "eurostat:nuts_2021_id":"09901",
         "gn:id":6356691,
         "gp:id":12691605,
         "qs_pg:id":820139
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"16109b4f1a070a71e6d052e6cc576d73",
+    "wof:geomhash":"13ed2c4a2af12ea91b698ed579dc1f87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332493,
-    "wof:lastmodified":1582361688,
+    "wof:lastmodified":1684352265,
     "wof:name":"Quintanilla Del Agua Y Tordueles",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":360,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

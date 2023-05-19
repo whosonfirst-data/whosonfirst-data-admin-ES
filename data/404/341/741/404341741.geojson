@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37302",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Saucelle",
+    "eurostat:nuts_2021_id":"37302",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37302",
+    "eurostat:population":280,
+    "eurostat:population_year":2020,
     "geom:area":0.004926,
     "geom:area_square_m":45937728.183672,
     "geom:bbox":"-6.8094865,41.0209882,-6.67962872,41.0810367",
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37302",
+        "eurostat:nuts_2021_id":"37302",
         "gn:id":6360540,
         "gp:id":12692434,
         "qs_pg:id":185499
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e01ab284117ed0e7ab4cad9cba7639c3",
+    "wof:geomhash":"8670ccb0895fc3f9f0a91b6f3a597421",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404341741,
-    "wof:lastmodified":1582361632,
+    "wof:lastmodified":1684352428,
     "wof:name":"Saucelle",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":280,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

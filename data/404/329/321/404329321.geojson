@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Benidorm",
+    "eurostat:nuts_2021_id":"03031",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03031",
+    "eurostat:population":70450,
+    "eurostat:population_year":2020,
     "geom:area":0.00398,
-    "geom:area_square_m":38482351.197033,
+    "geom:area_square_m":38482351.197032,
     "geom:bbox":"-0.18691091,38.50112373,-0.06628476,38.61013328",
     "geom:latitude":38.554896,
     "geom:longitude":-0.128886,
@@ -201,6 +213,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -209,6 +223,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03031",
+        "eurostat:nuts_2021_id":"03031",
         "gn:id":6355407,
         "gp:id":12695296,
         "qs_pg:id":1298466
@@ -217,7 +233,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"591c2140989cf7798b908ba7cc82e5a0",
+    "wof:geomhash":"b236a651fbe15474141e1d6c55733e7a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -228,10 +244,12 @@
         }
     ],
     "wof:id":404329321,
-    "wof:lastmodified":1582361804,
+    "wof:lastmodified":1684352208,
     "wof:name":"Benidorm",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":70450,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

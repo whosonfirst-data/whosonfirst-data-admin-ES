@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10196",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valdastillas",
+    "eurostat:nuts_2021_id":"10196",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10196",
+    "eurostat:population":321,
+    "eurostat:population_year":2020,
     "geom:area":0.000856,
-    "geom:area_square_m":8093182.833762,
+    "geom:area_square_m":8093182.83376,
     "geom:bbox":"-5.9540928,40.12475669,-5.86047156,40.16818982",
     "geom:latitude":40.142822,
     "geom:longitude":-5.902372,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10196",
+        "eurostat:nuts_2021_id":"10196",
         "gn:id":6356891,
         "gp:id":12694678,
         "qs_pg:id":79521
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b366fddd23861c07e0446703ce09ea16",
+    "wof:geomhash":"7817645497c10f10b4878089cd139fa7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404332949,
-    "wof:lastmodified":1582361683,
+    "wof:lastmodified":1684352271,
     "wof:name":"Valdastillas",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":321,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_01023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Elvillar / Bilar",
+    "eurostat:nuts_2021_id":"01023",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES211",
+    "eurostat:nuts_2021_level_lau":"01023",
+    "eurostat:population":330,
+    "eurostat:population_year":2020,
     "geom:area":0.001919,
-    "geom:area_square_m":17474633.420366,
+    "geom:area_square_m":17474633.420364,
     "geom:bbox":"-2.57074064,42.52097198,-2.51668284,42.59045911",
     "geom:latitude":42.562056,
     "geom:longitude":-2.540554,
@@ -114,6 +126,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -121,9 +135,12 @@
         404227393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_01023",
+        "eurostat:nuts_2021_id":"01023"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"5be8631f320b8ef4a78a866b28225dbc",
+    "wof:geomhash":"29e60e87e9650758c977788b5e96248d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +151,12 @@
         }
     ],
     "wof:id":404328977,
-    "wof:lastmodified":1566591059,
+    "wof:lastmodified":1684352202,
     "wof:name":"Elvillar/Bilar",
     "wof:parent_id":85682615,
     "wof:placetype":"localadmin",
+    "wof:population":330,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

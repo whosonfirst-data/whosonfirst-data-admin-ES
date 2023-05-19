@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_13018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arenas de San Juan",
+    "eurostat:nuts_2021_id":"13018",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES422",
+    "eurostat:nuts_2021_level_lau":"13018",
+    "eurostat:population":1011,
+    "eurostat:population_year":2020,
     "geom:area":0.00658,
-    "geom:area_square_m":63041707.392622,
+    "geom:area_square_m":63041707.392621,
     "geom:bbox":"-3.55373584,39.14763741,-3.4501693,39.26006368",
     "geom:latitude":39.207582,
     "geom:longitude":-3.507555,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_13018",
+        "eurostat:nuts_2021_id":"13018",
         "gn:id":6357112,
         "gp:id":12690315,
         "qs_pg:id":1009375
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d946522b4eaa62802b4ec573c4c05ef0",
+    "wof:geomhash":"27b1176f3f2ebfa96e7f9864974ff33e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404333449,
-    "wof:lastmodified":1582361762,
+    "wof:lastmodified":1684352279,
     "wof:name":"Arenas De San Juan",
     "wof:parent_id":85682689,
     "wof:placetype":"localadmin",
+    "wof:population":1011,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

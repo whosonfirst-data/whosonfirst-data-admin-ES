@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17136,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17136",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pont\u00f3s",
+    "eurostat:nuts_2021_id":"17136",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17136",
+    "eurostat:population":260,
+    "eurostat:population_year":2020,
     "geom:area":0.001468,
-    "geom:area_square_m":13454395.723803,
+    "geom:area_square_m":13454395.723804,
     "geom:bbox":"2.88901344033,42.1607704094,2.93893432465,42.2073802637",
     "geom:latitude":42.184731,
     "geom:longitude":2.911518,
@@ -124,6 +136,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -132,7 +146,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17136",
         "esp-icgc:la_lc":"017136",
+        "eurostat:nuts_2021_id":"17136",
         "gn:id":6534105,
         "gp:id":12693811,
         "qs_pg:id":1009388
@@ -142,7 +158,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3ac469984fc2e0a325dea1a5188ff62f",
+    "wof:geomhash":"b1eaee43d21882a88ab19b27bc7f3c5d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,10 +169,12 @@
         }
     ],
     "wof:id":404334835,
-    "wof:lastmodified":1582361728,
+    "wof:lastmodified":1684352311,
     "wof:name":"Pont\u00f3s",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":260,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

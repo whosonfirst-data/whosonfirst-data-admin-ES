@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alcoroches",
+    "eurostat:nuts_2021_id":"19013",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19013",
+    "eurostat:population":127,
+    "eurostat:population_year":2020,
     "geom:area":0.003432,
     "geom:area_square_m":32211079.521637,
     "geom:bbox":"-1.7961429,40.58914157,-1.70046119,40.6699994",
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19013",
+        "eurostat:nuts_2021_id":"19013",
         "gn:id":6357817,
         "gp:id":12690647,
         "qs_pg:id":51657
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f3f40354a515b24c6219d8b61c5d72d1",
+    "wof:geomhash":"b75ac651ccfe5dfb03d05fa2b3e4f735",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404335457,
-    "wof:lastmodified":1582361709,
+    "wof:lastmodified":1684352326,
     "wof:name":"Alcoroches",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":127,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

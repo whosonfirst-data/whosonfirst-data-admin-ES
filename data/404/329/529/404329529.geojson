@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03125",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Senija",
+    "eurostat:nuts_2021_id":"03125",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03125",
+    "eurostat:population":583,
+    "eurostat:population_year":2020,
     "geom:area":0.000496,
-    "geom:area_square_m":4783150.141493,
+    "geom:area_square_m":4783150.141494,
     "geom:bbox":"0.02976646,38.72064568,0.05532129,38.75003816",
     "geom:latitude":38.734436,
     "geom:longitude":0.044286,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03125",
+        "eurostat:nuts_2021_id":"03125",
         "gn:id":6355499,
         "gp:id":12695392,
         "qs_pg:id":269664
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4a770cce7d183582f9aeca1ab6b92698",
+    "wof:geomhash":"7281ff1ccea785a40cc0c7a4080f4385",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404329529,
-    "wof:lastmodified":1582361794,
+    "wof:lastmodified":1684352211,
     "wof:name":"Senija",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":583,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

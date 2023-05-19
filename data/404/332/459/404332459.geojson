@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09458",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villariezo",
+    "eurostat:nuts_2021_id":"09458",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09458",
+    "eurostat:population":645,
+    "eurostat:population_year":2020,
     "geom:area":0.001123,
     "geom:area_square_m":10278050.950254,
     "geom:bbox":"-3.7441059,42.24220265,-3.69892292,42.2878329",
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09458",
+        "eurostat:nuts_2021_id":"09458",
         "gn:id":6356677,
         "gp:id":12691730,
         "qs_pg:id":1059721
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d3ccf55e18612fbd60a43f0f6870cfd2",
+    "wof:geomhash":"ece0e2cfc062a1b2c2e02277d4987c90",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404332459,
-    "wof:lastmodified":1582361690,
+    "wof:lastmodified":1684352264,
     "wof:name":"Villariezo",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":645,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

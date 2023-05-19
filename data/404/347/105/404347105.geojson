@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50181",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Muel",
+    "eurostat:nuts_2021_id":"50181",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50181",
+    "eurostat:population":1401,
+    "eurostat:population_year":2020,
     "geom:area":0.008534,
-    "geom:area_square_m":79061873.225477,
+    "geom:area_square_m":79061873.225478,
     "geom:bbox":"-1.19292876,41.42198229,-1.02774368,41.52504031",
     "geom:latitude":41.47282,
     "geom:longitude":-1.126962,
@@ -84,6 +96,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -92,6 +106,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50181",
+        "eurostat:nuts_2021_id":"50181",
         "gn:id":6362868,
         "gp:id":12690008,
         "qs_pg:id":185464
@@ -100,7 +116,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fc1e7feb9427a66f6033aa96ede556c3",
+    "wof:geomhash":"591bef3b96d95f3655ae57814b1234b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,10 +127,12 @@
         }
     ],
     "wof:id":404347105,
-    "wof:lastmodified":1582361669,
+    "wof:lastmodified":1684352507,
     "wof:name":"Muel",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":1401,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

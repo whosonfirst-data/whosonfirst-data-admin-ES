@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17175,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17175",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Miquel de Fluvi\u00e0",
+    "eurostat:nuts_2021_id":"17175",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17175",
+    "eurostat:population":761,
+    "eurostat:population_year":2020,
     "geom:area":0.000383,
-    "geom:area_square_m":3506506.041423,
+    "geom:area_square_m":3506485.224407,
     "geom:bbox":"2.982653,42.166441,3.014116,42.18853",
     "geom:latitude":42.176769,
     "geom:longitude":2.994936,
@@ -71,6 +83,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -79,7 +93,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17175",
         "esp-icgc:la_lc":"017175",
+        "eurostat:nuts_2021_id":"17175",
         "gn:id":6534136,
         "gp:id":12693852,
         "qs_pg:id":1009390
@@ -89,7 +105,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"c519abd6aee33667c667378fa3d9f95c",
+    "wof:geomhash":"bfe268345dea8fa3df4231220f8e04b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,10 +116,12 @@
         }
     ],
     "wof:id":404334921,
-    "wof:lastmodified":1669903055,
+    "wof:lastmodified":1684352315,
     "wof:name":"Sant Miquel de Fluvi\u00e0",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":761,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

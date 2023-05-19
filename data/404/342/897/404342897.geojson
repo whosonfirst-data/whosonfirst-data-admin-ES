@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_41069",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Palacios y Villafranca, Los",
+    "eurostat:nuts_2021_id":"41069",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES618",
+    "eurostat:nuts_2021_level_lau":"41069",
+    "eurostat:population":38548,
+    "eurostat:population_year":2020,
     "geom:area":0.011104,
-    "geom:area_square_m":109434495.411409,
+    "geom:area_square_m":109434495.411412,
     "geom:bbox":"-5.99634524,37.07843964,-5.84217398,37.2133792",
     "geom:latitude":37.150242,
     "geom:longitude":-5.921084,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_41069",
+        "eurostat:nuts_2021_id":"41069",
         "gp:id":12689361,
         "qs_pg:id":231532
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dd39455654fadd36155f77b8d62541d3",
+    "wof:geomhash":"5c9bb1ffd448965ac328be91a5060655",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404342897,
-    "wof:lastmodified":1582361822,
+    "wof:lastmodified":1684352445,
     "wof:name":"Los Palacios Y Villafranca",
     "wof:parent_id":85682841,
     "wof:placetype":"localadmin",
+    "wof:population":38548,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

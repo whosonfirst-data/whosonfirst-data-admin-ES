@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42095",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Golmayo",
+    "eurostat:nuts_2021_id":"42095",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42095",
+    "eurostat:population":2778,
+    "eurostat:population_year":2020,
     "geom:area":0.020538,
-    "geom:area_square_m":189565879.957325,
+    "geom:area_square_m":189565879.957324,
     "geom:bbox":"-2.80630236,41.61575466,-2.493429,41.79665638",
     "geom:latitude":41.717663,
     "geom:longitude":-2.656421,
@@ -174,6 +186,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -182,6 +196,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42095",
+        "eurostat:nuts_2021_id":"42095",
         "gn:id":6361145,
         "gp:id":12692804,
         "qs_pg:id":396566
@@ -190,7 +206,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5f05ac403d276a61a500558e00b98106",
+    "wof:geomhash":"a8bbf9941cb14c75a55cc22fa45d07bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -201,10 +217,12 @@
         }
     ],
     "wof:id":404343169,
-    "wof:lastmodified":1582361866,
+    "wof:lastmodified":1684352448,
     "wof:name":"Golmayo",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":2778,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

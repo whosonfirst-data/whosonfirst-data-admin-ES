@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42200",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Velamaz\u00e1n",
+    "eurostat:nuts_2021_id":"42200",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42200",
+    "eurostat:population":73,
+    "eurostat:population_year":2020,
     "geom:area":0.007716,
-    "geom:area_square_m":71499555.373543,
+    "geom:area_square_m":71499555.373544,
     "geom:bbox":"-2.80910751,41.41276768,-2.66093043,41.50100301",
     "geom:latitude":41.461109,
     "geom:longitude":-2.72581,
@@ -180,6 +192,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -188,6 +202,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42200",
+        "eurostat:nuts_2021_id":"42200",
         "gn:id":6361227,
         "gp:id":12692886,
         "qs_pg:id":1129968
@@ -196,7 +212,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e0f0954397afa54697e693d0417c2dd7",
+    "wof:geomhash":"b57dd31a2da4739140da51338942870a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -207,10 +223,12 @@
         }
     ],
     "wof:id":404343357,
-    "wof:lastmodified":1582361879,
+    "wof:lastmodified":1684352450,
     "wof:name":"Velamaz\u00e1n",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":73,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

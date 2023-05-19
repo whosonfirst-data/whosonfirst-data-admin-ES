@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"1",
+    "eurostat:country_code":"ES",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"C\u00e1diz",
+    "eurostat:name_local":"C\u00e1diz",
+    "eurostat:nuts_2021_id":"ES612",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES612",
+    "eurostat:population":1259432,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"1",
     "geom:area":0.748429,
-    "geom:area_square_m":7434011676.944918,
+    "geom:area_square_m":7434011739.686198,
     "geom:bbox":"-6.472066,36.000104,-5.086769,37.052445",
     "geom:latitude":36.553987,
     "geom:longitude":-5.760434,
@@ -138,6 +152,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "unlc:subdivision":"ES-CA",
     "wof:belongsto":[
         102191581,
@@ -147,6 +163,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":11415,
+        "eurostat:nuts_2021_id":"ES612",
         "fips:code":"SP80",
         "gn:id":2520597,
         "gp:id":12602096,
@@ -154,7 +171,7 @@
         "unlc:id":"ES-CA"
     },
     "wof:country":"ES",
-    "wof:geomhash":"fc30292987246d6cff27714f0fc2b0d5",
+    "wof:geomhash":"b4a28492fb5411f339491884854c7f0f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -174,10 +191,12 @@
         "eus",
         "ast"
     ],
-    "wof:lastmodified":1636503254,
+    "wof:lastmodified":1684351540,
     "wof:name":"Cadiz",
     "wof:parent_id":404227361,
     "wof:placetype":"region",
+    "wof:population":1259432,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:shortcode":"AN",
     "wof:subdivision":"ES-CA",

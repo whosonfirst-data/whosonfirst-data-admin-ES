@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12125",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vall de Almonacid",
+    "eurostat:nuts_2021_id":"12125",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12125",
+    "eurostat:population":263,
+    "eurostat:population_year":2020,
     "geom:area":0.002224,
     "geom:area_square_m":21099687.743795,
     "geom:bbox":"-0.50241509,39.87871539,-0.40953332,39.92372031",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227381
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_12125",
+        "eurostat:nuts_2021_id":"12125"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"7fbfbcc877863eefce15866ec887cd84",
+    "wof:geomhash":"7cd00b37306f05ac8ad1a30f064abcde",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404333367,
-    "wof:lastmodified":1566590802,
+    "wof:lastmodified":1684352277,
     "wof:name":"Vall De Almonacid",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":263,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

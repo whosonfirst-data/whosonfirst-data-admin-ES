@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10163",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Salvatierra de Santiago",
+    "eurostat:nuts_2021_id":"10163",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10163",
+    "eurostat:population":298,
+    "eurostat:population_year":2020,
     "geom:area":0.003492,
-    "geom:area_square_m":33417933.156503,
+    "geom:area_square_m":33417933.156505,
     "geom:bbox":"-6.09495234,39.25486048,-6.00520337,39.33928117",
     "geom:latitude":39.296204,
     "geom:longitude":-6.048755,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10163",
+        "eurostat:nuts_2021_id":"10163",
         "gn:id":6356858,
         "gp:id":12694645,
         "qs_pg:id":48045
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"82ba15efbdffcec84156f837094abe40",
+    "wof:geomhash":"dff190a79cc7f85f22139f34c87a450e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332873,
-    "wof:lastmodified":1582361679,
+    "wof:lastmodified":1684352270,
     "wof:name":"Salvatierra De Santiago",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":298,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

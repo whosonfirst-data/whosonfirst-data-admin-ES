@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22208",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Cilia",
+    "eurostat:nuts_2021_id":"22208",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22208",
+    "eurostat:population":243,
+    "eurostat:population_year":2020,
     "geom:area":0.003078,
     "geom:area_square_m":28033205.981344,
     "geom:bbox":"-0.76684471,42.52175341,-0.67171104,42.60780051",
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22208",
+        "eurostat:nuts_2021_id":"22208",
         "gn:id":6358410,
         "gp:id":12689557,
         "qs_pg:id":247699
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a376f954a9813d5d1bef14e1fbbf9bfe",
+    "wof:geomhash":"07cc9c3c16c2b0f88f4beed8cc033f7e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404336811,
-    "wof:lastmodified":1582361461,
+    "wof:lastmodified":1684352344,
     "wof:name":"Santa Cilia",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":243,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

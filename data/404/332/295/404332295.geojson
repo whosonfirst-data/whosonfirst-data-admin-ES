@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09368",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sordillos",
+    "eurostat:nuts_2021_id":"09368",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09368",
+    "eurostat:population":33,
+    "eurostat:population_year":2020,
     "geom:area":0.001062,
-    "geom:area_square_m":9692429.159364,
+    "geom:area_square_m":9692429.159366,
     "geom:bbox":"-4.11896374,42.43843994,-4.0627981,42.47329874",
     "geom:latitude":42.45904,
     "geom:longitude":-4.093081,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09368",
+        "eurostat:nuts_2021_id":"09368",
         "gn:id":6356606,
         "gp:id":12691656,
         "qs_pg:id":1147690
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b8f85c35dff02aaf6fc81deba4601429",
+    "wof:geomhash":"85f9e58ccb0ba5f2297c782fbf442543",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404332295,
-    "wof:lastmodified":1582361680,
+    "wof:lastmodified":1684352263,
     "wof:name":"Sordillos",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":33,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

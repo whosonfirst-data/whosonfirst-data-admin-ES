@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03075",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castell de Guadalest, el",
+    "eurostat:nuts_2021_id":"03075",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03075",
+    "eurostat:population":224,
+    "eurostat:population_year":2020,
     "geom:area":0.001653,
-    "geom:area_square_m":15957208.540339,
+    "geom:area_square_m":15957208.540337,
     "geom:bbox":"-0.20400049,38.64422423,-0.14388774,38.70092143",
     "geom:latitude":38.670221,
     "geom:longitude":-0.16834,
@@ -33,6 +45,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -41,6 +55,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03075",
+        "eurostat:nuts_2021_id":"03075",
         "gn:id":6355451,
         "gp:id":12695339,
         "qs_pg:id":621514
@@ -49,7 +65,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c4f2dfdf02e1ec8e03c189c3aad5f376",
+    "wof:geomhash":"84a874c9ac3deb593712f8501cf63fd8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +76,12 @@
         }
     ],
     "wof:id":404329421,
-    "wof:lastmodified":1582361798,
+    "wof:lastmodified":1684352209,
     "wof:name":"El Castell De Guadalest",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":224,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49125",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Moraleja del Vino",
+    "eurostat:nuts_2021_id":"49125",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49125",
+    "eurostat:population":1732,
+    "eurostat:population_year":2020,
     "geom:area":0.0021,
     "geom:area_square_m":19463536.309067,
     "geom:bbox":"-5.6824803,41.41515516,-5.59786326,41.48184273",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_49125",
+        "eurostat:nuts_2021_id":"49125"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"21d39bcbc221735182925776c7ab314b",
+    "wof:geomhash":"1b01fd798015a2d13dc9e8571f33b5e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404346413,
-    "wof:lastmodified":1566590231,
+    "wof:lastmodified":1684352499,
     "wof:name":"Moraleja Del Vino",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":1732,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

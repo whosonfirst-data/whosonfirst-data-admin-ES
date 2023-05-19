@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":8104,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Llacuna, La",
+    "eurostat:nuts_2021_id":"08104",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08104",
+    "eurostat:population":903,
+    "eurostat:population_year":2020,
     "geom:area":0.005643,
     "geom:area_square_m":52288969.27259,
     "geom:bbox":"1.46864501968,41.4284593532,1.61052945378,41.5132491115",
@@ -130,6 +142,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -138,7 +152,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08104",
         "esp-icgc:la_lc":"08104",
+        "eurostat:nuts_2021_id":"08104",
         "gn:id":6356134,
         "gp:id":12693484,
         "qs_pg:id":47250
@@ -148,7 +164,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6cfe7aa3ab65fdbca28dfd326e514e0a",
+    "wof:geomhash":"bde339080bca209be928f772a54620df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,10 +175,12 @@
         }
     ],
     "wof:id":404331113,
-    "wof:lastmodified":1582361514,
+    "wof:lastmodified":1684352241,
     "wof:name":"La Llacuna",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":903,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

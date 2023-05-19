@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40225",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villacast\u00edn",
+    "eurostat:nuts_2021_id":"40225",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40225",
+    "eurostat:population":1483,
+    "eurostat:population_year":2020,
     "geom:area":0.011685,
-    "geom:area_square_m":109442399.249301,
+    "geom:area_square_m":109442399.249303,
     "geom:bbox":"-4.48156038,40.63298478,-4.368767,40.8628689",
     "geom:latitude":40.757915,
     "geom:longitude":-4.419131,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_40225",
+        "eurostat:nuts_2021_id":"40225",
         "gn:id":6360943,
         "gp:id":12692713,
         "qs_pg:id":1180982
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"055c2ef918f9f45bf058ef5da7acb929",
+    "wof:geomhash":"300f197d5a8560980c3593929ef5c248",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404342715,
-    "wof:lastmodified":1582361813,
+    "wof:lastmodified":1684352442,
     "wof:name":"Villacast\u00edn",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":1483,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

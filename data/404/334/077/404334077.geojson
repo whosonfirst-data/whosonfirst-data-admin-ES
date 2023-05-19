@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Barajas de Melo",
+    "eurostat:nuts_2021_id":"16027",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16027",
+    "eurostat:population":940,
+    "eurostat:population_year":2020,
     "geom:area":0.014438,
-    "geom:area_square_m":136524823.203379,
+    "geom:area_square_m":136524823.203381,
     "geom:bbox":"-3.09775061,40.06281768,-2.83186716,40.16825123",
     "geom:latitude":40.116924,
     "geom:longitude":-2.962357,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16027",
+        "eurostat:nuts_2021_id":"16027",
         "gn:id":6357387,
         "gp:id":12690423,
         "qs_pg:id":954175
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e166bc856703451baf6f9563e3155007",
+    "wof:geomhash":"d298a857ebbf7b8edb56efbd493c2005",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404334077,
-    "wof:lastmodified":1582361723,
+    "wof:lastmodified":1684352293,
     "wof:name":"Barajas De Melo",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":940,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

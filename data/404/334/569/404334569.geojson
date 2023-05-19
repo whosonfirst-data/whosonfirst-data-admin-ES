@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17006,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alp",
+    "eurostat:nuts_2021_id":"17006",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17006",
+    "eurostat:population":1593,
+    "eurostat:population_year":2020,
     "geom:area":0.004813,
-    "geom:area_square_m":43982011.326181,
+    "geom:area_square_m":43982157.652001,
     "geom:bbox":"1.868295,42.308373,2.019139,42.382558",
     "geom:latitude":42.346577,
     "geom:longitude":1.935887,
@@ -103,6 +115,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -111,7 +125,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17006",
         "esp-icgc:la_lc":"017006",
+        "eurostat:nuts_2021_id":"17006",
         "gn:id":6357595,
         "gp:id":12693690,
         "qs_pg:id":388742
@@ -121,7 +137,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4004b9b710a1e85167bf50290965e214",
+    "wof:geomhash":"744d1cd5a5502351ee634a1c2caf7797",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404334569,
-    "wof:lastmodified":1669903039,
+    "wof:lastmodified":1684352299,
     "wof:name":"Alp",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":1593,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

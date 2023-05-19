@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_30001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Abanilla",
+    "eurostat:nuts_2021_id":"30001",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES62",
+    "eurostat:nuts_2021_level_3":"ES620",
+    "eurostat:nuts_2021_level_lau":"30001",
+    "eurostat:population":6097,
+    "eurostat:population_year":2020,
     "geom:area":0.024251,
-    "geom:area_square_m":235472804.64395,
+    "geom:area_square_m":235472804.643951,
     "geom:bbox":"-1.14120722,38.13771967,-0.96767656,38.34621634",
     "geom:latitude":38.254995,
     "geom:longitude":-1.05171,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_30001",
+        "eurostat:nuts_2021_id":"30001",
         "gn:id":6359506,
         "gp:id":12688125,
         "qs_pg:id":49350
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"027079c171ef54d013bd3becc49bbbc4",
+    "wof:geomhash":"ef4e4a69837dedacdc6f3abd63ab9a9f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404339321,
-    "wof:lastmodified":1582361598,
+    "wof:lastmodified":1684352392,
     "wof:name":"Abanilla",
     "wof:parent_id":85682791,
     "wof:placetype":"localadmin",
+    "wof:population":6097,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

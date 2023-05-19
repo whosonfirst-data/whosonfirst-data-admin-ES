@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48906",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Forua",
+    "eurostat:nuts_2021_id":"48906",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48906",
+    "eurostat:population":907,
+    "eurostat:population_year":2020,
     "geom:area":0.000881,
-    "geom:area_square_m":7924384.608317,
+    "geom:area_square_m":7924384.608318,
     "geom:bbox":"-2.71121715,43.32276208,-2.65753446,43.34800147",
     "geom:latitude":43.336363,
     "geom:longitude":-2.686814,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_48906",
+        "eurostat:nuts_2021_id":"48906",
         "gn:id":6362440,
         "gp:id":12695197,
         "qs_pg:id":213876
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c0a95920bd496b44e43c6dcd5f0a1286",
+    "wof:geomhash":"6f07ff925ffafd2afb1a0fa3bcb951c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404346135,
-    "wof:lastmodified":1582361606,
+    "wof:lastmodified":1684352495,
     "wof:name":"Forua",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":907,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

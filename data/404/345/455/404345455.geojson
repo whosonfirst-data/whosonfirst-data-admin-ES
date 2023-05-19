@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bustillo de Chaves",
+    "eurostat:nuts_2021_id":"47026",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47026",
+    "eurostat:population":65,
+    "eurostat:population_year":2020,
     "geom:area":0.002386,
     "geom:area_square_m":21883271.720247,
     "geom:bbox":"-5.15700369,42.10347698,-5.07078079,42.14271811",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_47026",
+        "eurostat:nuts_2021_id":"47026",
         "gn:id":6362154,
         "gp:id":12692928,
         "qs_pg:id":497243
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dc509322f5bd50dd34526837ac9b5f74",
+    "wof:geomhash":"04a6bef45702eeb2d7b0fb66e45e130d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404345455,
-    "wof:lastmodified":1582361829,
+    "wof:lastmodified":1684352486,
     "wof:name":"Bustillo De Chaves",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":65,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

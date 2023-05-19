@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_01032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lanciego / Lantziego",
+    "eurostat:nuts_2021_id":"01032",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES211",
+    "eurostat:nuts_2021_level_lau":"01032",
+    "eurostat:population":709,
+    "eurostat:population_year":2020,
     "geom:area":0.002652,
     "geom:area_square_m":24158923.403233,
     "geom:bbox":"-2.52652077,42.49979822,-2.47471417,42.59035565",
@@ -120,6 +132,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -127,9 +141,12 @@
         404227393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_01032",
+        "eurostat:nuts_2021_id":"01032"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"2effc951f572a5932b491b4824c12624",
+    "wof:geomhash":"596073a313ef8141fc8828de3235b24d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +157,12 @@
         }
     ],
     "wof:id":404328989,
-    "wof:lastmodified":1566591061,
+    "wof:lastmodified":1684352202,
     "wof:name":"Lanciego/Lantziego",
     "wof:parent_id":85682615,
     "wof:placetype":"localadmin",
+    "wof:population":709,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

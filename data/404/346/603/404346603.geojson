@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49223",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trabazos",
+    "eurostat:nuts_2021_id":"49223",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49223",
+    "eurostat:population":835,
+    "eurostat:population_year":2020,
     "geom:area":0.01008,
-    "geom:area_square_m":93014961.200714,
+    "geom:area_square_m":93014961.200703,
     "geom:bbox":"-6.56898881,41.65695286,-6.45134645,41.81297124",
     "geom:latitude":41.734279,
     "geom:longitude":-6.513631,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_49223",
+        "eurostat:nuts_2021_id":"49223",
         "gn:id":6362646,
         "gp:id":12693326,
         "qs_pg:id":977785
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f5b53ff0c869c4b4621691d750e5e385",
+    "wof:geomhash":"fda4f19616a023f04f06df42822cf24c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404346603,
-    "wof:lastmodified":1582361611,
+    "wof:lastmodified":1684352501,
     "wof:name":"Trabazos",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":835,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

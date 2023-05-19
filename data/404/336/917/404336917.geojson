@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_23002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alcal\u00e1 la Real",
+    "eurostat:nuts_2021_id":"23002",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES616",
+    "eurostat:nuts_2021_level_lau":"23002",
+    "eurostat:population":21709,
+    "eurostat:population_year":2020,
     "geom:area":0.026615,
-    "geom:area_square_m":261257335.724366,
+    "geom:area_square_m":261257335.724364,
     "geom:bbox":"-4.0876689,37.37827809,-3.80220996,37.54106093",
     "geom:latitude":37.45343,
     "geom:longitude":-3.932037,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_23002",
+        "eurostat:nuts_2021_id":"23002",
         "gn:id":6358457,
         "gp:id":12689095,
         "qs_pg:id":240814
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1dfb061690ff3b63d907b4e5f508350e",
+    "wof:geomhash":"43a9fec8bd41efeab6acf0afc93d3218",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404336917,
-    "wof:lastmodified":1582361478,
+    "wof:lastmodified":1684352345,
     "wof:name":"Alcal\u00e1 La Real",
     "wof:parent_id":85682757,
     "wof:placetype":"localadmin",
+    "wof:population":21709,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

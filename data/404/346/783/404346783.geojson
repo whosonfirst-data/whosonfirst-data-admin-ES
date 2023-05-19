@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aranda de Moncayo",
+    "eurostat:nuts_2021_id":"50031",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50031",
+    "eurostat:population":145,
+    "eurostat:population_year":2020,
     "geom:area":0.009849,
     "geom:area_square_m":91080763.84779,
     "geom:bbox":"-1.87317331,41.53932202,-1.71359919,41.65233665",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50031",
+        "eurostat:nuts_2021_id":"50031",
         "gn:id":6362725,
         "gp:id":12689864,
         "qs_pg:id":496911
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"48f6afdfab26ad56db6021f0e0f4c2ca",
+    "wof:geomhash":"166bcfa1910059e612ddfe31600dd449",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404346783,
-    "wof:lastmodified":1582361613,
+    "wof:lastmodified":1684352503,
     "wof:name":"Aranda De Moncayo",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":145,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

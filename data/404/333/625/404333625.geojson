@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_13096",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villarrubia de los Ojos",
+    "eurostat:nuts_2021_id":"13096",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES422",
+    "eurostat:nuts_2021_level_lau":"13096",
+    "eurostat:population":9762,
+    "eurostat:population_year":2020,
     "geom:area":0.029396,
-    "geom:area_square_m":281623095.976698,
+    "geom:area_square_m":281623095.976697,
     "geom:bbox":"-3.77099316,39.12510679,-3.50947584,39.30766477",
     "geom:latitude":39.215748,
     "geom:longitude":-3.644095,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_13096",
+        "eurostat:nuts_2021_id":"13096",
         "gn:id":6357189,
         "gp:id":12690395,
         "qs_pg:id":1311018
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"964e190621df870f2975548cd8efa97a",
+    "wof:geomhash":"d27f44c8aaeff3d0a1830cc4fdb7df79",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404333625,
-    "wof:lastmodified":1582361776,
+    "wof:lastmodified":1684352281,
     "wof:name":"Villarrubia De Los Ojos",
     "wof:parent_id":85682689,
     "wof:placetype":"localadmin",
+    "wof:population":9762,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22156",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monflorite-Lascasas",
+    "eurostat:nuts_2021_id":"22156",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22156",
+    "eurostat:population":405,
+    "eurostat:population_year":2020,
     "geom:area":0.003173,
-    "geom:area_square_m":29121202.886309,
+    "geom:area_square_m":29121202.886308,
     "geom:bbox":"-0.42920495,42.05478258,-0.32337042,42.10802534",
     "geom:latitude":42.082351,
     "geom:longitude":-0.373251,
@@ -87,6 +99,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -94,9 +108,12 @@
         404227363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_22156",
+        "eurostat:nuts_2021_id":"22156"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"f3b9cfe135c828ec3b7e5fb9d6cc3263",
+    "wof:geomhash":"03055ba93831660101e6706fce74b66a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +124,12 @@
         }
     ],
     "wof:id":404336725,
-    "wof:lastmodified":1566589696,
+    "wof:lastmodified":1684352343,
     "wof:name":"Monflorite-Lascasas",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":405,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_01034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Leza",
+    "eurostat:nuts_2021_id":"01034",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES211",
+    "eurostat:nuts_2021_level_lau":"01034",
+    "eurostat:population":211,
+    "eurostat:population_year":2020,
     "geom:area":0.001088,
-    "geom:area_square_m":9905861.57521,
+    "geom:area_square_m":9905861.575211,
     "geom:bbox":"-2.65543533,42.5510818,-2.61615173,42.59610527",
     "geom:latitude":42.571238,
     "geom:longitude":-2.637456,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_01034",
+        "eurostat:nuts_2021_id":"01034",
         "gn:id":6355268,
         "gp:id":12695044,
         "qs_pg:id":1006762
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"84eb6f4def03fe1de9f754cdedf9ae0f",
+    "wof:geomhash":"c00995612941819a80f27ab75636dcb5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404328993,
-    "wof:lastmodified":1582361842,
+    "wof:lastmodified":1684352202,
     "wof:name":"Leza",
     "wof:parent_id":85682615,
     "wof:placetype":"localadmin",
+    "wof:population":211,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

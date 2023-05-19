@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Checa",
+    "eurostat:nuts_2021_id":"19103",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19103",
+    "eurostat:population":285,
+    "eurostat:population_year":2020,
     "geom:area":0.019091,
-    "geom:area_square_m":179479146.131672,
+    "geom:area_square_m":179479146.131673,
     "geom:bbox":"-1.88907404,40.39823049,-1.73551594,40.6271163",
     "geom:latitude":40.509893,
     "geom:longitude":-1.809953,
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19103",
+        "eurostat:nuts_2021_id":"19103",
         "gn:id":6357886,
         "gp:id":12690703,
         "qs_pg:id":1102582
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fef1bf71753cee707f93ee6684638aea",
+    "wof:geomhash":"329036f378341c46a4167e4f3add9435",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404335613,
-    "wof:lastmodified":1582361705,
+    "wof:lastmodified":1684352328,
     "wof:name":"Checa",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":285,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

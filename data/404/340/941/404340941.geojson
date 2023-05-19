@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_35025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tejeda",
+    "eurostat:nuts_2021_id":"35025",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES7",
+    "eurostat:nuts_2021_level_2":"ES70",
+    "eurostat:nuts_2021_level_3":"ES705",
+    "eurostat:nuts_2021_level_lau":"35025",
+    "eurostat:population":1883,
+    "eurostat:population_year":2020,
     "geom:area":0.009451,
-    "geom:area_square_m":103219020.914294,
+    "geom:area_square_m":103219020.914284,
     "geom:bbox":"-15.751461,27.91196185,-15.57169582,28.01912239",
     "geom:latitude":27.968591,
     "geom:longitude":-15.659662,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_35025",
+        "eurostat:nuts_2021_id":"35025",
         "gn:id":6360195,
         "gp:id":12690149,
         "qs_pg:id":221143
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ae4674df6466cbef97e14c5c352610ba",
+    "wof:geomhash":"ccc8e147c76f4a5450d5546959bae844",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404340941,
-    "wof:lastmodified":1582361654,
+    "wof:lastmodified":1684352416,
     "wof:name":"Tejeda",
     "wof:parent_id":85682821,
     "wof:placetype":"localadmin",
+    "wof:population":1883,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

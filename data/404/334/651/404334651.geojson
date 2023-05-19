@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17044,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cass\u00e0 de la Selva",
+    "eurostat:nuts_2021_id":"17044",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17044",
+    "eurostat:population":10410,
+    "eurostat:population_year":2020,
     "geom:area":0.004928,
-    "geom:area_square_m":45365495.948454,
+    "geom:area_square_m":45365484.608648,
     "geom:bbox":"2.831318,41.847664,2.956472,41.909937",
     "geom:latitude":41.879521,
     "geom:longitude":2.888076,
@@ -68,6 +80,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -76,7 +90,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17044",
         "esp-icgc:la_lc":"017044",
+        "eurostat:nuts_2021_id":"17044",
         "gn:id":6534037,
         "gp:id":12693726,
         "qs_pg:id":889382
@@ -86,7 +102,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"1ceaca596bbf7ce35067a6b56bab3cce",
+    "wof:geomhash":"9d0d9ead30a644ae021890d5d933e2c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,10 +113,12 @@
         }
     ],
     "wof:id":404334651,
-    "wof:lastmodified":1669903044,
+    "wof:lastmodified":1684352304,
     "wof:name":"Cass\u00e0 de la Selva",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":10410,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

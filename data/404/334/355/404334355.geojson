@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16169",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pozuelo, El",
+    "eurostat:nuts_2021_id":"16169",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16169",
+    "eurostat:population":44,
+    "eurostat:population_year":2020,
     "geom:area":0.00439,
-    "geom:area_square_m":41215001.536201,
+    "geom:area_square_m":41215001.536203,
     "geom:bbox":"-2.29766043,40.54231004,-2.22691226,40.64475381",
     "geom:latitude":40.596441,
     "geom:longitude":-2.264642,
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16169",
+        "eurostat:nuts_2021_id":"16169",
         "gn:id":3123330,
         "gp:id":12690550,
         "qs_pg:id":45845
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5ae9aeaa69da9ef3e52479981791ab30",
+    "wof:geomhash":"5a52ffa0e715d209d07fb6d3794cb92b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404334355,
-    "wof:lastmodified":1582361719,
+    "wof:lastmodified":1684352296,
     "wof:name":"El Pozuelo",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":44,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

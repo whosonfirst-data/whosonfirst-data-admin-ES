@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_36028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Meis",
+    "eurostat:nuts_2021_id":"36028",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES114",
+    "eurostat:nuts_2021_level_lau":"36028",
+    "eurostat:population":4754,
+    "eurostat:population_year":2020,
     "geom:area":0.005738,
-    "geom:area_square_m":52310906.824557,
+    "geom:area_square_m":52310906.824555,
     "geom:bbox":"-8.76913637,42.43639085,-8.66972575,42.56304886",
     "geom:latitude":42.496602,
     "geom:longitude":-8.722532,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_36028",
+        "eurostat:nuts_2021_id":"36028",
         "gn:id":6360229,
         "gp:id":12694982,
         "qs_pg:id":903243
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"68a41de3346aecb097668e51dfc055a5",
+    "wof:geomhash":"295639e3edf68e6f6f3ee317e18cd3c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404341023,
-    "wof:lastmodified":1582361626,
+    "wof:lastmodified":1684352419,
     "wof:name":"Meis",
     "wof:parent_id":85682825,
     "wof:placetype":"localadmin",
+    "wof:population":4754,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_39019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casta\u00f1eda",
+    "eurostat:nuts_2021_id":"39019",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES13",
+    "eurostat:nuts_2021_level_3":"ES130",
+    "eurostat:nuts_2021_level_lau":"39019",
+    "eurostat:population":2968,
+    "eurostat:population_year":2020,
     "geom:area":0.002123,
     "geom:area_square_m":19103590.972215,
     "geom:bbox":"-3.9615696,43.29185479,-3.89268915,43.34222559",
@@ -45,6 +57,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -53,6 +67,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_39019",
+        "eurostat:nuts_2021_id":"39019",
         "gn:id":6360666,
         "gp:id":12688540,
         "qs_pg:id":1186789
@@ -61,7 +77,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"00915e6cd34737ec052def46dcc2e0ea",
+    "wof:geomhash":"467ac129d03d5afc2b5ba8b291879d3f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
         }
     ],
     "wof:id":404342083,
-    "wof:lastmodified":1582361808,
+    "wof:lastmodified":1684352435,
     "wof:name":"Casta\u00f1eda",
     "wof:parent_id":85682833,
     "wof:placetype":"localadmin",
+    "wof:population":2968,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

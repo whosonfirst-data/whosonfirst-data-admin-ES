@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cabezuela del Valle",
+    "eurostat:nuts_2021_id":"10035",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10035",
+    "eurostat:population":2129,
+    "eurostat:population_year":2020,
     "geom:area":0.005984,
     "geom:area_square_m":56512172.802591,
     "geom:bbox":"-5.88493161,40.1549772,-5.73403054,40.24943407",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10035",
+        "eurostat:nuts_2021_id":"10035",
         "gn:id":6356732,
         "gp:id":12694517,
         "qs_pg:id":1293617
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"38c056780650a4c698388dec92e1c4eb",
+    "wof:geomhash":"ad827b7c5153e2c980e38f3b4bd71594",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332589,
-    "wof:lastmodified":1582361684,
+    "wof:lastmodified":1684352266,
     "wof:name":"Cabezuela Del Valle",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":2129,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

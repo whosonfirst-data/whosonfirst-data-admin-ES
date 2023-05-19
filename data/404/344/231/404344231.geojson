@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44212",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Seno",
+    "eurostat:nuts_2021_id":"44212",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44212",
+    "eurostat:population":39,
+    "eurostat:population_year":2020,
     "geom:area":0.001906,
-    "geom:area_square_m":17829596.441139,
+    "geom:area_square_m":17829596.441138,
     "geom:bbox":"-0.3983216,40.80611137,-0.32212716,40.85813935",
     "geom:latitude":40.827647,
     "geom:longitude":-0.348303,
@@ -57,6 +69,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -65,6 +79,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44212",
+        "eurostat:nuts_2021_id":"44212",
         "gn:id":6361613,
         "gp:id":12689785,
         "qs_pg:id":496900
@@ -73,7 +89,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"64e9dd9e87213d3620b32ca7057803b1",
+    "wof:geomhash":"4868ffef84e30cdc068f0bc7dbd9d6d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +100,12 @@
         }
     ],
     "wof:id":404344231,
-    "wof:lastmodified":1582361856,
+    "wof:lastmodified":1684352471,
     "wof:name":"Seno",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":39,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

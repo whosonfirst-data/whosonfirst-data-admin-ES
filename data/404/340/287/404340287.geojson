@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_33004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Avil\u00e9s",
+    "eurostat:nuts_2021_id":"33004",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES12",
+    "eurostat:nuts_2021_level_3":"ES120",
+    "eurostat:nuts_2021_level_lau":"33004",
+    "eurostat:population":77791,
+    "eurostat:population_year":2020,
     "geom:area":0.00299,
     "geom:area_square_m":26791520.908034,
     "geom:bbox":"-5.95379058,43.53053541,-5.87674743,43.59599522",
@@ -174,6 +186,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -182,6 +196,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_33004",
+        "eurostat:nuts_2021_id":"33004",
         "gp:id":12688447,
         "qs_pg:id":208382
     },
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"39ffdd136faf4ef34c3b2fbfedf6f84a",
+    "wof:geomhash":"2f223ad6878cbfd50f125a0d6a7d5c39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404340287,
-    "wof:lastmodified":1582361649,
+    "wof:lastmodified":1684352404,
     "wof:name":"Avil\u00e9s",
     "wof:parent_id":85682805,
     "wof:placetype":"localadmin",
+    "wof:population":77791,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

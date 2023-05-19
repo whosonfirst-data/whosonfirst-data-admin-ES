@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43075,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43075",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Margalef",
+    "eurostat:nuts_2021_id":"43075",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43075",
+    "eurostat:population":106,
+    "eurostat:population_year":2020,
     "geom:area":0.003737,
-    "geom:area_square_m":34712015.463356,
+    "geom:area_square_m":34712008.148123,
     "geom:bbox":"0.736655,41.266796,0.814651,41.334596",
     "geom:latitude":41.29986,
     "geom:longitude":0.774406,
@@ -124,6 +136,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -132,7 +146,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43075",
         "esp-icgc:la_lc":"043075",
+        "eurostat:nuts_2021_id":"43075",
         "gn:id":6361318,
         "gp:id":12694214,
         "qs_pg:id":328134
@@ -142,7 +158,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c56f249c8121569f359b3153fdb309c7",
+    "wof:geomhash":"569d00f9f383063fd1dbb09837d4d0fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,10 +169,12 @@
         }
     ],
     "wof:id":404343561,
-    "wof:lastmodified":1669903060,
+    "wof:lastmodified":1684352457,
     "wof:name":"Margalef",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":106,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

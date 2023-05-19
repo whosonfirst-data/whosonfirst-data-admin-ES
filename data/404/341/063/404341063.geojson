@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_36046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ribadumia",
+    "eurostat:nuts_2021_id":"36046",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES114",
+    "eurostat:nuts_2021_level_lau":"36046",
+    "eurostat:population":5105,
+    "eurostat:population_year":2020,
     "geom:area":0.002156,
-    "geom:area_square_m":19652697.135004,
+    "geom:area_square_m":19652697.135001,
     "geom:bbox":"-8.80579834,42.47940645,-8.70363326,42.54754015",
     "geom:latitude":42.513454,
     "geom:longitude":-8.757551,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_36046",
+        "eurostat:nuts_2021_id":"36046",
         "gn:id":6360244,
         "gp:id":12695000,
         "qs_pg:id":1019940
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6506f8b30d57644ff1d8e63ab4ef8ba0",
+    "wof:geomhash":"b7a0edac2b360ebd5b1c5ba9c0d5cdfb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404341063,
-    "wof:lastmodified":1582361630,
+    "wof:lastmodified":1684352419,
     "wof:name":"Ribadumia",
     "wof:parent_id":85682825,
     "wof:placetype":"localadmin",
+    "wof:population":5105,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

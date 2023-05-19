@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46183",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Olleria, l'",
+    "eurostat:nuts_2021_id":"46183",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46183",
+    "eurostat:population":8320,
+    "eurostat:population_year":2020,
     "geom:area":0.003347,
-    "geom:area_square_m":32200760.125317,
+    "geom:area_square_m":32200760.125316,
     "geom:bbox":"-0.58211724,38.88145661,-0.50703748,38.95012124",
     "geom:latitude":38.914595,
     "geom:longitude":-0.544966,
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46183",
+        "eurostat:nuts_2021_id":"46183",
         "gp:id":12695717,
         "qs_pg:id":1067657
     },
@@ -105,7 +121,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b1a76b9a7779195c94cf87763b392f32",
+    "wof:geomhash":"3d42a195f02d8511dc6bd2537eeb50fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +132,12 @@
         }
     ],
     "wof:id":404345211,
-    "wof:lastmodified":1582361827,
+    "wof:lastmodified":1684352483,
     "wof:name":"L'Olleria",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":8320,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

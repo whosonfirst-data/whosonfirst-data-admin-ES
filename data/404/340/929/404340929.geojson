@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_35020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aldea de San Nicol\u00e1s, La",
+    "eurostat:nuts_2021_id":"35020",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES7",
+    "eurostat:nuts_2021_level_2":"ES70",
+    "eurostat:nuts_2021_level_3":"ES705",
+    "eurostat:nuts_2021_level_lau":"35020",
+    "eurostat:population":7508,
+    "eurostat:population_year":2020,
     "geom:area":0.011365,
-    "geom:area_square_m":124134615.448169,
+    "geom:area_square_m":124134615.448153,
     "geom:bbox":"-15.83473397,27.85896752,-15.73414061,28.0321346",
     "geom:latitude":27.94958,
     "geom:longitude":-15.78738,
@@ -36,6 +48,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -44,6 +58,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_35020",
+        "eurostat:nuts_2021_id":"35020",
         "gn:id":6360190,
         "qs_pg:id":621803
     },
@@ -51,7 +67,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b4b1452a2ebe2d0ef26b414531a75dd6",
+    "wof:geomhash":"fe9d1773849ca1c601b13e1efbcb3aa9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,10 +78,12 @@
         }
     ],
     "wof:id":404340929,
-    "wof:lastmodified":1582361665,
+    "wof:lastmodified":1684352416,
     "wof:name":"La Aldea De San Nicol\u00e1s",
     "wof:parent_id":85682821,
     "wof:placetype":"localadmin",
+    "wof:population":7508,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mi\u00f1o",
+    "eurostat:nuts_2021_id":"15048",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15048",
+    "eurostat:population":6277,
+    "eurostat:population_year":2020,
     "geom:area":0.00365,
-    "geom:area_square_m":32814997.065378,
+    "geom:area_square_m":32814997.065376,
     "geom:bbox":"-8.22251742,43.31490988,-8.13207854,43.40093238",
     "geom:latitude":43.356105,
     "geom:longitude":-8.17875,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_15048",
+        "eurostat:nuts_2021_id":"15048",
         "gn:id":6357317,
         "gp:id":12694750,
         "qs_pg:id":1293625
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cf6b7c1f8d2ec7d6dbc43ab4c85c4ac1",
+    "wof:geomhash":"33cd05cd0c33bd140f9707b9d78e7e9e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404333915,
-    "wof:lastmodified":1582361769,
+    "wof:lastmodified":1684352288,
     "wof:name":"Mi\u00f1o",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":6277,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

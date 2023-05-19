@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8222,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08222",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Lloren\u00e7 d'Hortons",
+    "eurostat:nuts_2021_id":"08222",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08222",
+    "eurostat:population":2428,
+    "eurostat:population_year":2020,
     "geom:area":0.002094,
-    "geom:area_square_m":19402688.499578,
+    "geom:area_square_m":19402715.302846,
     "geom:bbox":"1.792439,41.443223,1.874887,41.495739",
     "geom:latitude":41.470352,
     "geom:longitude":1.834774,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08222",
         "esp-icgc:la_lc":"08222",
+        "eurostat:nuts_2021_id":"08222",
         "gn:id":6356244,
         "gp:id":12693598,
         "qs_pg:id":249428
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"af1f377319bbc9d2781123215418a8b3",
+    "wof:geomhash":"c687be7b0ceeb449c1c1c948b45f746d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404331373,
-    "wof:lastmodified":1669903013,
+    "wof:lastmodified":1684352249,
     "wof:name":"Sant Lloren\u00e7 d'Hortons",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":2428,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

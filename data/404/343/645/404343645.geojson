@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43113,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43113",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pont d'Armentera, El",
+    "eurostat:nuts_2021_id":"43113",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43113",
+    "eurostat:population":488,
+    "eurostat:population_year":2020,
     "geom:area":0.002337,
-    "geom:area_square_m":21674961.537516,
+    "geom:area_square_m":21674970.387038,
     "geom:bbox":"1.302763,41.360806,1.382539,41.448048",
     "geom:latitude":41.406727,
     "geom:longitude":1.340108,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43113",
         "esp-icgc:la_lc":"043113",
+        "eurostat:nuts_2021_id":"43113",
         "gn:id":6361355,
         "gp:id":12694250,
         "qs_pg:id":1020015
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"2f39c0cf859d990d53a1d50a5da2f8b6",
+    "wof:geomhash":"1db3110593a533cd116d356ac7f24c9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404343645,
-    "wof:lastmodified":1669903062,
+    "wof:lastmodified":1684352459,
     "wof:name":"El Pont d'Armentera",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":488,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

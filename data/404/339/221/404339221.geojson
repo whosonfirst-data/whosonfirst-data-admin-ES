@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_29058",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Guaro",
+    "eurostat:nuts_2021_id":"29058",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES617",
+    "eurostat:nuts_2021_level_lau":"29058",
+    "eurostat:population":2280,
+    "eurostat:population_year":2020,
     "geom:area":0.002257,
-    "geom:area_square_m":22386377.038329,
+    "geom:area_square_m":22386377.03833,
     "geom:bbox":"-4.87160456,36.64823915,-4.80755523,36.70597761",
     "geom:latitude":36.673896,
     "geom:longitude":-4.839851,
@@ -42,6 +54,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -50,6 +64,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_29058",
+        "eurostat:nuts_2021_id":"29058",
         "gn:id":6359463,
         "gp:id":12689247,
         "qs_pg:id":1163643
@@ -58,7 +74,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e03715bf3bfbef86e538c12b411c1f98",
+    "wof:geomhash":"ebc28cf9f458d2c6ea036b0f0ee5f31e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +85,12 @@
         }
     ],
     "wof:id":404339221,
-    "wof:lastmodified":1582361584,
+    "wof:lastmodified":1684352390,
     "wof:name":"Guaro",
     "wof:parent_id":85682787,
     "wof:placetype":"localadmin",
+    "wof:population":2280,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

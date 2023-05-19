@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28045",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Colmenar Viejo",
+    "eurostat:nuts_2021_id":"28045",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28045",
+    "eurostat:population":51938,
+    "eurostat:population_year":2020,
     "geom:area":0.019486,
-    "geom:area_square_m":182767942.155132,
+    "geom:area_square_m":182767942.155134,
     "geom:bbox":"-3.8651,40.59133061,-3.58456013,40.73204011",
     "geom:latitude":40.663951,
     "geom:longitude":-3.746074,
@@ -141,6 +153,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -149,6 +163,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28045",
+        "eurostat:nuts_2021_id":"28045",
         "gn:id":6359271,
         "gp:id":12687993,
         "qs_pg:id":247268
@@ -157,7 +173,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cd9f0d88a4c24462453760de1a6ac864",
+    "wof:geomhash":"533f8f5bdd7a215c88849fa89c8289d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,10 +184,12 @@
         }
     ],
     "wof:id":404338789,
-    "wof:lastmodified":1582361456,
+    "wof:lastmodified":1684352382,
     "wof:name":"Colmenar Viejo",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":51938,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

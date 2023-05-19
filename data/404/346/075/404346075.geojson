@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48076",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sukarrieta",
+    "eurostat:nuts_2021_id":"48076",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48076",
+    "eurostat:population":331,
+    "eurostat:population_year":2020,
     "geom:area":0.000255,
     "geom:area_square_m":2294867.332675,
     "geom:bbox":"-2.71974353,43.3835638,-2.68310631,43.39882191",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_48076",
+        "eurostat:nuts_2021_id":"48076",
         "gn:id":6362417,
         "gp:id":12695253,
         "qs_pg:id":1315562
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d56feb3cbf3e9cad5aa488e9882932ba",
+    "wof:geomhash":"aa3cf8e3feaaadf95bf1cb6048bb591b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404346075,
-    "wof:lastmodified":1582361617,
+    "wof:lastmodified":1684352494,
     "wof:name":"Sukarrieta",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":331,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

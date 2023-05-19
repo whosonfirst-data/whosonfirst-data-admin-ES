@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03139",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villajoyosa / Vila Joiosa, la",
+    "eurostat:nuts_2021_id":"03139",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03139",
+    "eurostat:population":35199,
+    "eurostat:population_year":2020,
     "geom:area":0.006081,
-    "geom:area_square_m":58832086.582715,
+    "geom:area_square_m":58832086.582716,
     "geom:bbox":"-0.33218749,38.48231472,-0.16624662,38.56276916",
     "geom:latitude":38.521191,
     "geom:longitude":-0.251489,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227381
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_03139",
+        "eurostat:nuts_2021_id":"03139"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"a15dc7c46d5eca0bd25d32996b66f398",
+    "wof:geomhash":"ab60c44b71b2586306faee5acc1bfa8e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404329557,
-    "wof:lastmodified":1566590843,
+    "wof:lastmodified":1684352211,
     "wof:name":"Villajoyosa/La Vila Joiosa",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":35199,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

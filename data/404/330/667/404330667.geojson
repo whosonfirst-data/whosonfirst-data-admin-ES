@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06138",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valdetorres",
+    "eurostat:nuts_2021_id":"06138",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06138",
+    "eurostat:population":1179,
+    "eurostat:population_year":2020,
     "geom:area":0.004122,
-    "geom:area_square_m":39661657.352972,
+    "geom:area_square_m":39661657.352973,
     "geom:bbox":"-6.1215227,38.86755955,-6.01224261,38.94704849",
     "geom:latitude":38.910902,
     "geom:longitude":-6.063666,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06138",
+        "eurostat:nuts_2021_id":"06138",
         "gn:id":6356003,
         "gp:id":12694458,
         "qs_pg:id":47924
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8cdbc3dae208b0bd8ef121b017f6fc8d",
+    "wof:geomhash":"884511eb837a22c561bbd7782423a386",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404330667,
-    "wof:lastmodified":1582361526,
+    "wof:lastmodified":1684352227,
     "wof:name":"Valdetorres",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":1179,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03076",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Guardamar del Segura",
+    "eurostat:nuts_2021_id":"03076",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03076",
+    "eurostat:population":15849,
+    "eurostat:population_year":2020,
     "geom:area":0.003643,
-    "geom:area_square_m":35460402.865504,
+    "geom:area_square_m":35460402.865503,
     "geom:bbox":"-0.6991574,38.02953437,-0.63737686,38.12836297",
     "geom:latitude":38.080964,
     "geom:longitude":-0.668963,
@@ -51,6 +63,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -59,6 +73,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03076",
+        "eurostat:nuts_2021_id":"03076",
         "gn:id":6355452,
         "gp:id":12695340,
         "qs_pg:id":1293633
@@ -67,7 +83,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"60bbc7a714a8eb1894197a308416ce7b",
+    "wof:geomhash":"a884a150c7cd70220726b84248bd3b51",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404329423,
-    "wof:lastmodified":1582361791,
+    "wof:lastmodified":1684352209,
     "wof:name":"Guardamar Del Segura",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":15849,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

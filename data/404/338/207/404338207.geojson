@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_26030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bezares",
+    "eurostat:nuts_2021_id":"26030",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES23",
+    "eurostat:nuts_2021_level_3":"ES230",
+    "eurostat:nuts_2021_level_lau":"26030",
+    "eurostat:population":22,
+    "eurostat:population_year":2020,
     "geom:area":0.000505,
     "geom:area_square_m":4612342.714472,
     "geom:bbox":"-2.68106653,42.34500527,-2.65973003,42.38206052",
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_26030",
+        "eurostat:nuts_2021_id":"26030",
         "gn:id":6359020,
         "gp:id":12687801,
         "qs_pg:id":44295
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"61bf1da80593add284305e0d77ddf4ed",
+    "wof:geomhash":"de9e291f453fb9a168131bd3b8654a4a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404338207,
-    "wof:lastmodified":1582361451,
+    "wof:lastmodified":1684352373,
     "wof:name":"Bezares",
     "wof:parent_id":85682773,
     "wof:placetype":"localadmin",
+    "wof:population":22,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

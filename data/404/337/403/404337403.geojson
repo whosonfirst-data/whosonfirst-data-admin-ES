@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24129",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Reyero",
+    "eurostat:nuts_2021_id":"24129",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24129",
+    "eurostat:population":123,
+    "eurostat:population_year":2020,
     "geom:area":0.00289,
-    "geom:area_square_m":26157864.931741,
+    "geom:area_square_m":26157864.93174,
     "geom:bbox":"-5.24245576,42.91962473,-5.16088938,42.9763519",
     "geom:latitude":42.950481,
     "geom:longitude":-5.1984,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_24129",
+        "eurostat:nuts_2021_id":"24129",
         "gn:id":6358668,
         "gp:id":12691866,
         "qs_pg:id":46420
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7dee78c6c0e386f7785b2979584d9049",
+    "wof:geomhash":"74bfeea2fc8ede3bf76c82e7fc34b701",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404337403,
-    "wof:lastmodified":1582361574,
+    "wof:lastmodified":1684352352,
     "wof:name":"Reyero",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":123,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

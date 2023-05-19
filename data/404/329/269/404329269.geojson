@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alcoy / Alcoi",
+    "eurostat:nuts_2021_id":"03009",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03009",
+    "eurostat:population":59354,
+    "eurostat:population_year":2020,
     "geom:area":0.013444,
-    "geom:area_square_m":129771556.011536,
+    "geom:area_square_m":129771556.011535,
     "geom:bbox":"-0.63485142,38.62024912,-0.4276012,38.74344386",
     "geom:latitude":38.68228,
     "geom:longitude":-0.516581,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227381
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_03009",
+        "eurostat:nuts_2021_id":"03009"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"9ff79ce5018d2e4ac139b99bcccc066b",
+    "wof:geomhash":"77474c84458ccb6b350d5ebe2731f728",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404329269,
-    "wof:lastmodified":1566590863,
+    "wof:lastmodified":1684352207,
     "wof:name":"Alcoy/Alcoi",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":59354,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

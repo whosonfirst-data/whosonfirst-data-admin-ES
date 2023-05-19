@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46079",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calles",
+    "eurostat:nuts_2021_id":"46079",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46079",
+    "eurostat:population":355,
+    "eurostat:population_year":2020,
     "geom:area":0.006781,
-    "geom:area_square_m":64474931.166095,
+    "geom:area_square_m":64474931.166098,
     "geom:bbox":"-1.04921651,39.66504095,-0.88226489,39.8038709",
     "geom:latitude":39.740839,
     "geom:longitude":-0.950071,
@@ -87,6 +99,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -95,6 +109,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46079",
+        "eurostat:nuts_2021_id":"46079",
         "gn:id":6361944,
         "gp:id":12695620,
         "qs_pg:id":832171
@@ -103,7 +119,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3f9e83a317cc72d084dd27e129cda076",
+    "wof:geomhash":"90c1781ede96abc3f2eacf0e6b223b45",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,10 +130,12 @@
         }
     ],
     "wof:id":404344977,
-    "wof:lastmodified":1582361849,
+    "wof:lastmodified":1684352480,
     "wof:name":"Calles",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":355,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

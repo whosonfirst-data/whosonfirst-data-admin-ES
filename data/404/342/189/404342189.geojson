@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_39066",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ruente",
+    "eurostat:nuts_2021_id":"39066",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES13",
+    "eurostat:nuts_2021_level_3":"ES130",
+    "eurostat:nuts_2021_level_lau":"39066",
+    "eurostat:population":1011,
+    "eurostat:population_year":2020,
     "geom:area":0.007298,
-    "geom:area_square_m":65744534.265108,
+    "geom:area_square_m":65744534.265106,
     "geom:bbox":"-4.32396208,43.1910663,-4.1769762,43.27898254",
     "geom:latitude":43.237526,
     "geom:longitude":-4.238934,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_39066",
+        "eurostat:nuts_2021_id":"39066",
         "gn:id":6360711,
         "gp:id":12688587,
         "qs_pg:id":1102451
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"363710c53dcfe8defeee846b40b28cc1",
+    "wof:geomhash":"db74095a1fef4a418ba8e40a48baf7e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404342189,
-    "wof:lastmodified":1582361813,
+    "wof:lastmodified":1684352436,
     "wof:name":"Ruente",
     "wof:parent_id":85682833,
     "wof:placetype":"localadmin",
+    "wof:population":1011,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

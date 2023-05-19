@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17172,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17172",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Mart\u00ed de Ll\u00e9mena",
+    "eurostat:nuts_2021_id":"17172",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17172",
+    "eurostat:population":641,
+    "eurostat:population_year":2020,
     "geom:area":0.004674,
-    "geom:area_square_m":42921175.263498,
+    "geom:area_square_m":42921174.924238,
     "geom:bbox":"2.630108,41.98914,2.717844,42.088984",
     "geom:latitude":42.037608,
     "geom:longitude":2.671166,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17172",
         "esp-icgc:la_lc":"017172",
+        "eurostat:nuts_2021_id":"17172",
         "gn:id":6534133,
         "gp:id":12693849,
         "qs_pg:id":47502
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"641907f2a4ee415be80dd244281c8c3e",
+    "wof:geomhash":"ff6d342cabd1af407adb6462740d3d5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404334915,
-    "wof:lastmodified":1669903046,
+    "wof:lastmodified":1684352315,
     "wof:name":"Sant Mart\u00ed de Ll\u00e9mena",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":641,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

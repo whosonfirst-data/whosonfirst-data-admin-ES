@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04070",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oria",
+    "eurostat:nuts_2021_id":"04070",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04070",
+    "eurostat:population":2239,
+    "eurostat:population_year":2020,
     "geom:area":0.023918,
     "geom:area_square_m":234652889.773684,
     "geom:bbox":"-2.46016117,37.41018694,-2.16211282,37.5577441",
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_04070",
+        "eurostat:nuts_2021_id":"04070",
         "gn:id":6355582,
         "gp:id":12688692,
         "qs_pg:id":27765
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1ce05c7811f2d1248cdd005d39e2d1fe",
+    "wof:geomhash":"a06327518d251adf21a7aae0e79a3166",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404329717,
-    "wof:lastmodified":1582361803,
+    "wof:lastmodified":1684352214,
     "wof:name":"Oria",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":2239,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

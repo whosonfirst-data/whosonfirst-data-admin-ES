@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_41083",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ronquillo, El",
+    "eurostat:nuts_2021_id":"41083",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES618",
+    "eurostat:nuts_2021_level_lau":"41083",
+    "eurostat:population":1377,
+    "eurostat:population_year":2020,
     "geom:area":0.007822,
-    "geom:area_square_m":76481034.166635,
+    "geom:area_square_m":76481034.166631,
     "geom:bbox":"-6.23481379,37.67077873,-6.12098934,37.80987973",
     "geom:latitude":37.748532,
     "geom:longitude":-6.178562,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_41083",
+        "eurostat:nuts_2021_id":"41083",
         "gn:id":6361038,
         "gp:id":12689375,
         "qs_pg:id":621884
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"316f32c73573a36ca827758eafb04a52",
+    "wof:geomhash":"375e8ce529a852436f0abcb2de88e246",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404342929,
-    "wof:lastmodified":1582361822,
+    "wof:lastmodified":1684352445,
     "wof:name":"El Ronquillo",
     "wof:parent_id":85682841,
     "wof:placetype":"localadmin",
+    "wof:population":1377,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

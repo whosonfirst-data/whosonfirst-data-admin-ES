@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":8031,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calaf",
+    "eurostat:nuts_2021_id":"08031",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08031",
+    "eurostat:population":3656,
+    "eurostat:population_year":2020,
     "geom:area":0.001001,
     "geom:area_square_m":9235397.38768,
     "geom:bbox":"1.45227639768,41.7076838935,1.54124900592,41.7376133598",
@@ -136,6 +148,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -144,7 +158,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08031",
         "esp-icgc:la_lc":"08031",
+        "eurostat:nuts_2021_id":"08031",
         "gn:id":6356067,
         "gp:id":12693408,
         "qs_pg:id":888676
@@ -154,7 +170,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"12436a2754d02df72fd85f85795ca388",
+    "wof:geomhash":"4e053dc4bf48857fb37ce6b01d6ef964",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -165,10 +181,12 @@
         }
     ],
     "wof:id":404330947,
-    "wof:lastmodified":1582361530,
+    "wof:lastmodified":1684352236,
     "wof:name":"Calaf",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":3656,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

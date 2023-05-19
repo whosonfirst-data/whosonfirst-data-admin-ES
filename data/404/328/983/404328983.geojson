@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_01030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lagr\u00e1n",
+    "eurostat:nuts_2021_id":"01030",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES211",
+    "eurostat:nuts_2021_level_lau":"01030",
+    "eurostat:population":162,
+    "eurostat:population_year":2020,
     "geom:area":0.005006,
-    "geom:area_square_m":45546529.219865,
+    "geom:area_square_m":45546529.219861,
     "geom:bbox":"-2.68438457,42.59236392,-2.53825316,42.6515599",
     "geom:latitude":42.621238,
     "geom:longitude":-2.608383,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_01030",
+        "eurostat:nuts_2021_id":"01030",
         "gn:id":6355264,
         "gp:id":12695038,
         "qs_pg:id":951826
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"56ab8baa9802d3787c1c1f0894bee198",
+    "wof:geomhash":"c158816ee8b71489d53dfb68b5005b08",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404328983,
-    "wof:lastmodified":1582361842,
+    "wof:lastmodified":1684352202,
     "wof:name":"Lagr\u00e1n",
     "wof:parent_id":85682615,
     "wof:placetype":"localadmin",
+    "wof:population":162,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

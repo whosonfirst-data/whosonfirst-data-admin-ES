@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alborache",
+    "eurostat:nuts_2021_id":"46012",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46012",
+    "eurostat:population":1229,
+    "eurostat:population_year":2020,
     "geom:area":0.002857,
-    "geom:area_square_m":27308803.144922,
+    "geom:area_square_m":27308803.14492,
     "geom:bbox":"-0.79714483,39.32126022,-0.72789788,39.42076535",
     "geom:latitude":39.377605,
     "geom:longitude":-0.755449,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46012",
+        "eurostat:nuts_2021_id":"46012",
         "gn:id":6361877,
         "gp:id":12695554,
         "qs_pg:id":1149677
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"94e7a2fecc49c628db91197969f4a666",
+    "wof:geomhash":"98ee235fd8b4d128547d0db993cae50c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404344825,
-    "wof:lastmodified":1582361855,
+    "wof:lastmodified":1684352479,
     "wof:name":"Alborache",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":1229,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

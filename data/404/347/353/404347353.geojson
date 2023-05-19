@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50292",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villarreal de Huerva",
+    "eurostat:nuts_2021_id":"50292",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50292",
+    "eurostat:population":273,
+    "eurostat:population_year":2020,
     "geom:area":0.002913,
-    "geom:area_square_m":27099933.208419,
+    "geom:area_square_m":27099933.20842,
     "geom:bbox":"-1.31598353,41.16837633,-1.22115846,41.25191624",
     "geom:latitude":41.202876,
     "geom:longitude":-1.262677,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50292",
+        "eurostat:nuts_2021_id":"50292",
         "gn:id":6362978,
         "gp:id":12690117,
         "qs_pg:id":959045
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4a1efbcef7be385dba53df5a55dda729",
+    "wof:geomhash":"39e91dda4b1ef81d34e89d0ecda81085",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404347353,
-    "wof:lastmodified":1582361669,
+    "wof:lastmodified":1684352510,
     "wof:name":"Villarreal De Huerva",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":273,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

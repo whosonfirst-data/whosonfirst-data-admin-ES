@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47165",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tordesillas",
+    "eurostat:nuts_2021_id":"47165",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47165",
+    "eurostat:population":8745,
+    "eurostat:population_year":2020,
     "geom:area":0.01528,
-    "geom:area_square_m":141493193.047215,
+    "geom:area_square_m":141493193.047214,
     "geom:bbox":"-5.15666172,41.45173566,-4.85841686,41.56136213",
     "geom:latitude":41.505814,
     "geom:longitude":-5.005805,
@@ -129,6 +141,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -137,6 +151,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_47165",
+        "eurostat:nuts_2021_id":"47165",
         "gn:id":6362287,
         "gp:id":12693062,
         "qs_pg:id":1317377
@@ -145,7 +161,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bc5787c436b7707e58f3fbb798fd763f",
+    "wof:geomhash":"250820cd058894daa49fe2063ef3ae1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404345757,
-    "wof:lastmodified":1582361835,
+    "wof:lastmodified":1684352489,
     "wof:name":"Tordesillas",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":8745,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

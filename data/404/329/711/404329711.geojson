@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04067",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ohanes",
+    "eurostat:nuts_2021_id":"04067",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04067",
+    "eurostat:population":558,
+    "eurostat:population_year":2020,
     "geom:area":0.003284,
-    "geom:area_square_m":32402756.612134,
+    "geom:area_square_m":32402756.612135,
     "geom:bbox":"-2.80409418,37.02279348,-2.72752381,37.0955471",
     "geom:latitude":37.061531,
     "geom:longitude":-2.76121,
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_04067",
+        "eurostat:nuts_2021_id":"04067",
         "gn:id":6355579,
         "gp:id":12688689,
         "qs_pg:id":44860
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"df130793cf538cd16fda370b684c33b9",
+    "wof:geomhash":"1cafa3284755f7da5ba555d043bf6e52",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404329711,
-    "wof:lastmodified":1582361804,
+    "wof:lastmodified":1684352214,
     "wof:name":"Ohanes",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":558,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

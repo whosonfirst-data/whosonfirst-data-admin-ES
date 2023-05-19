@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_23047",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Iruela, La",
+    "eurostat:nuts_2021_id":"23047",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES616",
+    "eurostat:nuts_2021_level_lau":"23047",
+    "eurostat:population":1879,
+    "eurostat:population_year":2020,
     "geom:area":0.01271,
     "geom:area_square_m":123902645.913725,
     "geom:bbox":"-3.0438169,37.9153828,-2.81427552,38.01538914",
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_23047",
+        "eurostat:nuts_2021_id":"23047",
         "gn:id":6358497,
         "gp:id":12689138,
         "qs_pg:id":621725
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ddb143a05f190dafda616ac271a288a7",
+    "wof:geomhash":"f689f1517dbe8e7cde52d8b677213ec2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404337011,
-    "wof:lastmodified":1582361569,
+    "wof:lastmodified":1684352347,
     "wof:name":"La Iruela",
     "wof:parent_id":85682757,
     "wof:placetype":"localadmin",
+    "wof:population":1879,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

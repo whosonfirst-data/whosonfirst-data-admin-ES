@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_14038",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lucena",
+    "eurostat:nuts_2021_id":"14038",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES613",
+    "eurostat:nuts_2021_level_lau":"14038",
+    "eurostat:population":42733,
+    "eurostat:population_year":2020,
     "geom:area":0.035708,
-    "geom:area_square_m":350967412.144257,
+    "geom:area_square_m":350967327.284104,
     "geom:bbox":"-4.68407,37.246703,-4.417005,37.463824",
     "geom:latitude":37.357339,
     "geom:longitude":-4.542058,
@@ -129,6 +141,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -137,6 +151,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_14038",
+        "eurostat:nuts_2021_id":"14038",
         "gn:id":6357233,
         "gp:id":12688809,
         "qs_pg:id":1310991
@@ -145,7 +161,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d30d4186d9b3288494452ab1d5f2311e",
+    "wof:geomhash":"600e6c96fe7f1182f4887bac1d22cdff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404333725,
-    "wof:lastmodified":1636503325,
+    "wof:lastmodified":1684352283,
     "wof:name":"Lucena",
     "wof:parent_id":85682697,
     "wof:placetype":"localadmin",
+    "wof:population":42733,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

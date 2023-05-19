@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Albendiego",
+    "eurostat:nuts_2021_id":"19008",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19008",
+    "eurostat:population":50,
+    "eurostat:population_year":2020,
     "geom:area":0.00246,
-    "geom:area_square_m":22876158.562258,
+    "geom:area_square_m":22876158.562261,
     "geom:bbox":"-3.08813704,41.19588345,-3.02227605,41.24483061",
     "geom:latitude":41.218809,
     "geom:longitude":-3.057004,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19008",
+        "eurostat:nuts_2021_id":"19008",
         "gn:id":6357813,
         "gp:id":12690643,
         "qs_pg:id":1023710
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ac6f9ea20372812e4820f92c3a49d009",
+    "wof:geomhash":"24edd157f3ebd49f084c5d05e491f180",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404335447,
-    "wof:lastmodified":1582361696,
+    "wof:lastmodified":1684352326,
     "wof:name":"Albendiego",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":50,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

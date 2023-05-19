@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Coves de Vinrom\u00e0, les",
+    "eurostat:nuts_2021_id":"12050",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12050",
+    "eurostat:population":1806,
+    "eurostat:population_year":2020,
     "geom:area":0.014457,
     "geom:area_square_m":136291236.203221,
     "geom:bbox":"0.02741632,40.23147394,0.18049739,40.41827526",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12050",
+        "eurostat:nuts_2021_id":"12050",
         "gn:id":6357004,
         "qs_pg:id":621589
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"465a055b9175b9ae44932d396aae0b84",
+    "wof:geomhash":"e1c2773b3b60b003bd4dd272eb8c8161",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404333207,
-    "wof:lastmodified":1582361779,
+    "wof:lastmodified":1684352275,
     "wof:name":"Les Coves De Vinrom\u00e0",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":1806,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37125",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Escurial de la Sierra",
+    "eurostat:nuts_2021_id":"37125",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37125",
+    "eurostat:population":241,
+    "eurostat:population_year":2020,
     "geom:area":0.002231,
-    "geom:area_square_m":20945924.204615,
+    "geom:area_square_m":20945924.204616,
     "geom:bbox":"-5.98601813,40.58148505,-5.92357528,40.64458454",
     "geom:latitude":40.61284,
     "geom:longitude":-5.957197,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37125",
+        "eurostat:nuts_2021_id":"37125",
         "gn:id":6360368,
         "gp:id":12692261,
         "qs_pg:id":46660
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"31b32db7ed635c9d8e96a083474381bd",
+    "wof:geomhash":"676da6e76b2aa8f32be50032caa2425e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404341351,
-    "wof:lastmodified":1582361634,
+    "wof:lastmodified":1684352423,
     "wof:name":"Escurial De La Sierra",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":241,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

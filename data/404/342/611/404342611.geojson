@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40174",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sacramenia",
+    "eurostat:nuts_2021_id":"40174",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40174",
+    "eurostat:population":385,
+    "eurostat:population_year":2020,
     "geom:area":0.004797,
-    "geom:area_square_m":44418576.157192,
+    "geom:area_square_m":44418576.157189,
     "geom:bbox":"-4.00852799,41.46913383,-3.88519809,41.54102136",
     "geom:latitude":41.505672,
     "geom:longitude":-3.950341,
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_40174",
+        "eurostat:nuts_2021_id":"40174",
         "gn:id":6360897,
         "gp:id":12692667,
         "qs_pg:id":400560
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f67f4c0c64b8a601e65afc99f799dde1",
+    "wof:geomhash":"8eb6ebfb89629ed086e129452e3f94c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404342611,
-    "wof:lastmodified":1582361810,
+    "wof:lastmodified":1684352441,
     "wof:name":"Sacramenia",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":385,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

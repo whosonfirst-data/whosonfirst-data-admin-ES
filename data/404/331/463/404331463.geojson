@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8262,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08262",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Vicen\u00e7 de Castellet",
+    "eurostat:nuts_2021_id":"08262",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08262",
+    "eurostat:population":9767,
+    "eurostat:population_year":2020,
     "geom:area":0.001871,
-    "geom:area_square_m":17284708.184947,
+    "geom:area_square_m":17284683.041459,
     "geom:bbox":"1.809669,41.655203,1.932844,41.690066",
     "geom:latitude":41.669125,
     "geom:longitude":1.876937,
@@ -74,6 +86,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -82,7 +96,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08262",
         "esp-icgc:la_lc":"08262",
+        "eurostat:nuts_2021_id":"08262",
         "gn:id":6356282,
         "gp:id":12693619,
         "qs_pg:id":1076905
@@ -92,7 +108,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"7d2dd99746fafbb84eb48c9b3e8efc4d",
+    "wof:geomhash":"b3383cd897ac2c63e4bb4683c44a1cbc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,10 +119,12 @@
         }
     ],
     "wof:id":404331463,
-    "wof:lastmodified":1669903001,
+    "wof:lastmodified":1684352252,
     "wof:name":"Sant Vicen\u00e7 de Castellet",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":9767,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

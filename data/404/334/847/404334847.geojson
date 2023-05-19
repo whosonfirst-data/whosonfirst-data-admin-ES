@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17141,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17141",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Puigcerd\u00e0",
+    "eurostat:nuts_2021_id":"17141",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17141",
+    "eurostat:population":9486,
+    "eurostat:population_year":2020,
     "geom:area":0.002047,
-    "geom:area_square_m":18688845.685129,
+    "geom:area_square_m":18688845.685127,
     "geom:bbox":"1.89929356819,42.3619277082,1.9864132591,42.4549682832",
     "geom:latitude":42.41586,
     "geom:longitude":1.938632,
@@ -151,6 +163,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -159,7 +173,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17141",
         "esp-icgc:la_lc":"017141",
+        "eurostat:nuts_2021_id":"17141",
         "gn:id":6357620,
         "gp:id":12693816,
         "qs_pg:id":1163717
@@ -169,7 +185,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"1fbc68d1755e4a3295adea19fde17756",
+    "wof:geomhash":"68c1ebca622df518e32b68bf2269364c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -180,10 +196,12 @@
         }
     ],
     "wof:id":404334847,
-    "wof:lastmodified":1582361747,
+    "wof:lastmodified":1684352312,
     "wof:name":"Puigcerd\u00e0",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":9486,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

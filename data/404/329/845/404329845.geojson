@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Berlanas, Las",
+    "eurostat:nuts_2021_id":"05027",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05027",
+    "eurostat:population":329,
+    "eurostat:population_year":2020,
     "geom:area":0.001781,
     "geom:area_square_m":16673031.127105,
     "geom:bbox":"-4.80241012,40.77816898,-4.73442636,40.82533118",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05027",
+        "eurostat:nuts_2021_id":"05027",
         "gn:id":6355639,
         "qs_pg:id":621532
     },
@@ -120,7 +136,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"514e93d6f5098047d5273ae7243f535d",
+    "wof:geomhash":"b01829e509b2a2669d0a55e30423128d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404329845,
-    "wof:lastmodified":1582361789,
+    "wof:lastmodified":1684352216,
     "wof:name":"Las Berlanas",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":329,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

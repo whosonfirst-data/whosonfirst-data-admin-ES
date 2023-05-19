@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31138",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lakuntza",
+    "eurostat:nuts_2021_id":"31138",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31138",
+    "eurostat:population":1275,
+    "eurostat:population_year":2020,
     "geom:area":0.001226,
     "geom:area_square_m":11098029.663881,
     "geom:bbox":"-2.04090371,42.90631165,-1.99017598,42.96535989",
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31138",
+        "eurostat:nuts_2021_id":"31138",
         "gn:id":6359686,
         "gp:id":12688314,
         "qs_pg:id":1019864
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0c01a0245f4e63a3debd91afecfa01cd",
+    "wof:geomhash":"e1911ae1d82150beedf939ba979c6165",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404339765,
-    "wof:lastmodified":1582361581,
+    "wof:lastmodified":1684352398,
     "wof:name":"Lakuntza",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":1275,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

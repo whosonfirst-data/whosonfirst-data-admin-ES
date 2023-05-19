@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42156",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Reznos",
+    "eurostat:nuts_2021_id":"42156",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42156",
+    "eurostat:population":33,
+    "eurostat:population_year":2020,
     "geom:area":0.002208,
     "geom:area_square_m":20416532.615227,
     "geom:bbox":"-2.0492748,41.56726051,-1.98450758,41.62251055",
@@ -174,6 +186,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -182,6 +196,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42156",
+        "eurostat:nuts_2021_id":"42156",
         "gn:id":6361189,
         "gp:id":12692848,
         "qs_pg:id":1148933
@@ -190,7 +206,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b872ff2b7a262c6b7c13fb8cda7e2744",
+    "wof:geomhash":"f0d0aa582d185dcdae0b97a379fcaa03",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -201,10 +217,12 @@
         }
     ],
     "wof:id":404343271,
-    "wof:lastmodified":1582361887,
+    "wof:lastmodified":1684352449,
     "wof:name":"Reznos",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":33,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

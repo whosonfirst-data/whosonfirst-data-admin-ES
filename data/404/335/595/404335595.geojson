@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19091",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cogollor",
+    "eurostat:nuts_2021_id":"19091",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19091",
+    "eurostat:population":24,
+    "eurostat:population_year":2020,
     "geom:area":0.000889,
-    "geom:area_square_m":8313585.797675,
+    "geom:area_square_m":8313585.797676,
     "geom:bbox":"-2.75388187,40.82527666,-2.71545297,40.86799023",
     "geom:latitude":40.841982,
     "geom:longitude":-2.737557,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19091",
+        "eurostat:nuts_2021_id":"19091",
         "gn:id":6357878,
         "gp:id":12690712,
         "qs_pg:id":45924
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"99ebf7213f1b5a5f53b40d164987905a",
+    "wof:geomhash":"7b0120381ba75e8d9ff30a0e21df1bfc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404335595,
-    "wof:lastmodified":1582361695,
+    "wof:lastmodified":1684352327,
     "wof:name":"Cogollor",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":24,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

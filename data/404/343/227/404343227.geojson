@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42128",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Narros",
+    "eurostat:nuts_2021_id":"42128",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42128",
+    "eurostat:population":46,
+    "eurostat:population_year":2020,
     "geom:area":0.001433,
-    "geom:area_square_m":13198978.844463,
+    "geom:area_square_m":13198978.844462,
     "geom:bbox":"-2.31822558,41.83575923,-2.25181735,41.86549167",
     "geom:latitude":41.849903,
     "geom:longitude":-2.285099,
@@ -177,6 +189,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -185,6 +199,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42128",
+        "eurostat:nuts_2021_id":"42128",
         "gn:id":6361169,
         "gp:id":12692828,
         "qs_pg:id":1019028
@@ -193,7 +209,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1d34f7165efe17d1b1e5b3a29f80a629",
+    "wof:geomhash":"64d9124533a49c4aa0c25dc0a82b07fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -204,10 +220,12 @@
         }
     ],
     "wof:id":404343227,
-    "wof:lastmodified":1582361866,
+    "wof:lastmodified":1684352449,
     "wof:name":"Narros",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":46,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

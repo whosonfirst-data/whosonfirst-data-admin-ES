@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":43157,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43157",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ulldemolins",
+    "eurostat:nuts_2021_id":"43157",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43157",
+    "eurostat:population":398,
+    "eurostat:population_year":2020,
     "geom:area":0.004091,
     "geom:area_square_m":37989526.145677,
     "geom:bbox":"0.795566418925,41.2974686719,0.909277955366,41.3623043136",
@@ -118,6 +130,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -126,7 +140,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43157",
         "esp-icgc:la_lc":"043157",
+        "eurostat:nuts_2021_id":"43157",
         "gn:id":6361399,
         "gp:id":12694297,
         "qs_pg:id":248670
@@ -136,7 +152,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ba6e2ea2083b4df0de1179a668defe10",
+    "wof:geomhash":"16edbf11a9e510ff5395c2fa944b988d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404343743,
-    "wof:lastmodified":1582361893,
+    "wof:lastmodified":1684352463,
     "wof:name":"Ulldemolins",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":398,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

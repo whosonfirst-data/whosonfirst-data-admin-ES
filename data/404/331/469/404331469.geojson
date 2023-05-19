@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8265,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08265",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Vicen\u00e7 de Torell\u00f3",
+    "eurostat:nuts_2021_id":"08265",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08265",
+    "eurostat:population":2058,
+    "eurostat:population_year":2020,
     "geom:area":0.000717,
-    "geom:area_square_m":6582758.025739,
+    "geom:area_square_m":6582765.185186,
     "geom:bbox":"2.237044,42.048509,2.290295,42.081693",
     "geom:latitude":42.06472,
     "geom:longitude":2.264863,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08265",
         "esp-icgc:la_lc":"08265",
+        "eurostat:nuts_2021_id":"08265",
         "gn:id":6356284,
         "gp:id":12693621,
         "qs_pg:id":1149533
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"f092362825e48aa6107d313a67d55fad",
+    "wof:geomhash":"01702b4ec57bf57c87bcccdc6eca001f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404331469,
-    "wof:lastmodified":1669903010,
+    "wof:lastmodified":1684352252,
     "wof:name":"Sant Vicen\u00e7 de Torell\u00f3",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":2058,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

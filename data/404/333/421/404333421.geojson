@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_13005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alc\u00e1zar de San Juan",
+    "eurostat:nuts_2021_id":"13005",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES422",
+    "eurostat:nuts_2021_level_lau":"13005",
+    "eurostat:population":30766,
+    "eurostat:population_year":2020,
     "geom:area":0.069611,
-    "geom:area_square_m":666235149.204103,
+    "geom:area_square_m":666235149.204104,
     "geom:bbox":"-3.36985545,39.10045329,-3.09299428,39.47636308",
     "geom:latitude":39.284233,
     "geom:longitude":-3.239528,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_13005",
+        "eurostat:nuts_2021_id":"13005",
         "gn:id":6357099,
         "gp:id":12690302,
         "qs_pg:id":45713
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f007013e0154d0e135acf1de15104853",
+    "wof:geomhash":"b2bb78bf698d2e7bd3e077099fcc42f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404333421,
-    "wof:lastmodified":1582361776,
+    "wof:lastmodified":1684352278,
     "wof:name":"Alc\u00e1zar De San Juan",
     "wof:parent_id":85682689,
     "wof:placetype":"localadmin",
+    "wof:population":30766,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

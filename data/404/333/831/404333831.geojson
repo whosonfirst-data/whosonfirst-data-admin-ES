@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Boimorto",
+    "eurostat:nuts_2021_id":"15010",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15010",
+    "eurostat:population":1959,
+    "eurostat:population_year":2020,
     "geom:area":0.009095,
-    "geom:area_square_m":82240493.544855,
+    "geom:area_square_m":82240493.544864,
     "geom:bbox":"-8.22225937,42.96792945,-8.02656207,43.05723888",
     "geom:latitude":43.008392,
     "geom:longitude":-8.130693,
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_15010",
+        "eurostat:nuts_2021_id":"15010",
         "gn:id":6357280,
         "gp:id":12694711,
         "qs_pg:id":1019763
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f0f9dc663158a0829404ae678cff491c",
+    "wof:geomhash":"80cc081ce8b072d8e41a082851369346",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404333831,
-    "wof:lastmodified":1582361779,
+    "wof:lastmodified":1684352285,
     "wof:name":"Boimorto",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":1959,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

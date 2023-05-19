@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31901",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bara\u00f1\u00e1in / Bara\u00f1ain",
+    "eurostat:nuts_2021_id":"31901",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31901",
+    "eurostat:population":20167,
+    "eurostat:population_year":2020,
     "geom:area":0.000153,
     "geom:area_square_m":1389682.523004,
     "geom:bbox":"-1.70270191,42.79861081,-1.67298831,42.80875468",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31901",
+        "eurostat:nuts_2021_id":"31901",
         "gn:id":6359813,
         "qs_pg:id":1037078
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7691ef8fcfbd0521b83908b9a71d0e5b",
+    "wof:geomhash":"b57c0440c61b6cd51f3227fb3c1403bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404340055,
-    "wof:lastmodified":1582361652,
+    "wof:lastmodified":1684352401,
     "wof:name":"Bara\u00f1ain",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":20167,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

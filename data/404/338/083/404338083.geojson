@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25242,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25242",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Verd\u00fa",
+    "eurostat:nuts_2021_id":"25242",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25242",
+    "eurostat:population":902,
+    "eurostat:population_year":2020,
     "geom:area":0.003871,
-    "geom:area_square_m":35801076.139518,
+    "geom:area_square_m":35801076.139519,
     "geom:bbox":"1.07677120708,41.5678325624,1.17979860963,41.6246331508",
     "geom:latitude":41.59512,
     "geom:longitude":1.126554,
@@ -109,6 +121,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -117,7 +131,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25242",
         "esp-icgc:la_lc":"025242",
+        "eurostat:nuts_2021_id":"25242",
         "gn:id":6358965,
         "gp:id":12694124,
         "qs_pg:id":1315426
@@ -127,7 +143,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"4d84ba0901c26ea6c7e13f21184ffa37",
+    "wof:geomhash":"9e42f882f9f8b03f845e4f66698f3469",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404338083,
-    "wof:lastmodified":1582361434,
+    "wof:lastmodified":1684352370,
     "wof:name":"Verd\u00fa",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":902,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

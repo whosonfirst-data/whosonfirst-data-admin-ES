@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_20017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Azkoitia",
+    "eurostat:nuts_2021_id":"20017",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES212",
+    "eurostat:nuts_2021_level_lau":"20017",
+    "eurostat:population":11627,
+    "eurostat:population_year":2020,
     "geom:area":0.006057,
-    "geom:area_square_m":54618495.150327,
+    "geom:area_square_m":54618495.150329,
     "geom:bbox":"-2.36738533,43.11978992,-2.28964647,43.23015964",
     "geom:latitude":43.17416,
     "geom:longitude":-2.329027,
@@ -126,6 +138,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -134,6 +148,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_20017",
+        "eurostat:nuts_2021_id":"20017",
         "gn:id":6358108,
         "gp:id":12695086,
         "qs_pg:id":621670
@@ -142,7 +158,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"03917bc50252046329c7073733949100",
+    "wof:geomhash":"f2f34e58499b71056cfca6b2b3f15aa5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,10 +169,12 @@
         }
     ],
     "wof:id":404336121,
-    "wof:lastmodified":1582361468,
+    "wof:lastmodified":1684352333,
     "wof:name":"Azkoitia",
     "wof:parent_id":85682741,
     "wof:placetype":"localadmin",
+    "wof:population":11627,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

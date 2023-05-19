@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Soneja",
+    "eurostat:nuts_2021_id":"12106",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12106",
+    "eurostat:population":1456,
+    "eurostat:population_year":2020,
     "geom:area":0.003061,
     "geom:area_square_m":29075726.361115,
     "geom:bbox":"-0.44489854,39.79964668,-0.31046221,39.85321381",
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12106",
+        "eurostat:nuts_2021_id":"12106",
         "gn:id":6357056,
         "gp:id":12695505,
         "qs_pg:id":489987
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b1c9ab75faa0eef4579d209ddc801f6c",
+    "wof:geomhash":"2e625b6c3aa38792dc613beb2095a2b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404333323,
-    "wof:lastmodified":1582361770,
+    "wof:lastmodified":1684352277,
     "wof:name":"Soneja",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":1456,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

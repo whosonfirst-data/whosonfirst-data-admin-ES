@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15036",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ferrol",
+    "eurostat:nuts_2021_id":"15036",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15036",
+    "eurostat:population":65560,
+    "eurostat:population_year":2020,
     "geom:area":0.009276,
-    "geom:area_square_m":83187015.19408,
+    "geom:area_square_m":83187015.194082,
     "geom:bbox":"-8.34806403,43.45835171,-8.18612848,43.56970656",
     "geom:latitude":43.509842,
     "geom:longitude":-8.270394,
@@ -69,6 +81,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -77,6 +91,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_15036",
+        "eurostat:nuts_2021_id":"15036",
         "gn:id":6357306,
         "gp:id":12694738,
         "qs_pg:id":1198242
@@ -85,7 +101,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a2145ecf3d8a6d1d78a9bbfab1806613",
+    "wof:geomhash":"b8b9be069fe89ca26e438f522819ce0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,10 +112,12 @@
         }
     ],
     "wof:id":404333889,
-    "wof:lastmodified":1582361762,
+    "wof:lastmodified":1684352287,
     "wof:name":"Ferrol",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":65560,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

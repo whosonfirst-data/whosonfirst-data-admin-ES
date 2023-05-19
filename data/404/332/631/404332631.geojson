@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10054",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casas del Casta\u00f1ar",
+    "eurostat:nuts_2021_id":"10054",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10054",
+    "eurostat:population":552,
+    "eurostat:population_year":2020,
     "geom:area":0.002602,
-    "geom:area_square_m":24608915.362512,
+    "geom:area_square_m":24608915.362511,
     "geom:bbox":"-6.00090537,40.07001545,-5.88766506,40.13256935",
     "geom:latitude":40.098776,
     "geom:longitude":-5.940602,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10054",
+        "eurostat:nuts_2021_id":"10054",
         "gn:id":6356751,
         "gp:id":12694538,
         "qs_pg:id":1095431
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f9bd9d0282fc086097c921aa5fdfe43e",
+    "wof:geomhash":"1b8bf8503708816b3992ff57e67092bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332631,
-    "wof:lastmodified":1582361690,
+    "wof:lastmodified":1684352267,
     "wof:name":"Casas Del Casta\u00f1ar",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":552,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

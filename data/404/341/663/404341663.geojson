@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37266",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Redonda, La",
+    "eurostat:nuts_2021_id":"37266",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37266",
+    "eurostat:population":71,
+    "eurostat:population_year":2020,
     "geom:area":0.001778,
-    "geom:area_square_m":16616424.094901,
+    "geom:area_square_m":16616424.0949,
     "geom:bbox":"-6.76803012,40.89114642,-6.7030854,40.9375785",
     "geom:latitude":40.908881,
     "geom:longitude":-6.742214,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37266",
+        "eurostat:nuts_2021_id":"37266",
         "gn:id":6360505,
         "gp:id":12692397,
         "qs_pg:id":621837
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2f977364047a04d7867ad2dfdddd0a6f",
+    "wof:geomhash":"f64e71243d2e71d75c6c58b58e1c726c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404341663,
-    "wof:lastmodified":1582361638,
+    "wof:lastmodified":1684352427,
     "wof:name":"La Redonda",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":71,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

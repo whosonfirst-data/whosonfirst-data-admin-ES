@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_23004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aldeaquemada",
+    "eurostat:nuts_2021_id":"23004",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES616",
+    "eurostat:nuts_2021_level_lau":"23004",
+    "eurostat:population":476,
+    "eurostat:population_year":2020,
     "geom:area":0.012404,
     "geom:area_square_m":120200110.236761,
     "geom:bbox":"-3.45316355,38.35156553,-3.28179367,38.47305983",
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_23004",
+        "eurostat:nuts_2021_id":"23004",
         "gn:id":6358459,
         "gp:id":12689097,
         "qs_pg:id":539510
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"536f249e97ad6eb5d2350cd1519a9e71",
+    "wof:geomhash":"e691b0a3c934339c72c4bd1734b2d3a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404336921,
-    "wof:lastmodified":1582361478,
+    "wof:lastmodified":1684352345,
     "wof:name":"Aldeaquemada",
     "wof:parent_id":85682757,
     "wof:placetype":"localadmin",
+    "wof:population":476,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

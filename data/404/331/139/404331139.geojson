@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8116,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08116",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Masies de Roda, Les",
+    "eurostat:nuts_2021_id":"08116",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08116",
+    "eurostat:population":719,
+    "eurostat:population_year":2020,
     "geom:area":0.001754,
-    "geom:area_square_m":16120732.958225,
+    "geom:area_square_m":16120797.717038,
     "geom:bbox":"2.28303,41.962241,2.367108,42.003393",
     "geom:latitude":41.982468,
     "geom:longitude":2.325568,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08116",
         "esp-icgc:la_lc":"08116",
+        "eurostat:nuts_2021_id":"08116",
         "gp:id":12693497,
         "qs_pg:id":1084463
     },
@@ -66,7 +82,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dcb0625bc44a5640ca2b9e56601f73d9",
+    "wof:geomhash":"4ca230226807119d61f2aab99cad5fb0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,10 +93,12 @@
         }
     ],
     "wof:id":404331139,
-    "wof:lastmodified":1669903007,
+    "wof:lastmodified":1684352242,
     "wof:name":"Les Masies de Roda",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":719,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

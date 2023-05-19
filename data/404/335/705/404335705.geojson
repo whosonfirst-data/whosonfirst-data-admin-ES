@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19150",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hueva",
+    "eurostat:nuts_2021_id":"19150",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19150",
+    "eurostat:population":120,
+    "eurostat:population_year":2020,
     "geom:area":0.003373,
-    "geom:area_square_m":31729876.574175,
+    "geom:area_square_m":31729876.574174,
     "geom:bbox":"-3.00677279,40.43285183,-2.90560078,40.48907812",
     "geom:latitude":40.46271,
     "geom:longitude":-2.961978,
@@ -87,6 +99,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -95,6 +109,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19150",
+        "eurostat:nuts_2021_id":"19150",
         "gn:id":6357926,
         "gp:id":12690756,
         "qs_pg:id":1015709
@@ -103,7 +119,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c2e968af329a7c4d945a05e09b1c63f8",
+    "wof:geomhash":"bc7e1f123feb3aa12d1a84674405540a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,10 +130,12 @@
         }
     ],
     "wof:id":404335705,
-    "wof:lastmodified":1582361703,
+    "wof:lastmodified":1684352329,
     "wof:name":"Hueva",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":120,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

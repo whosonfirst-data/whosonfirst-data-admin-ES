@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03903",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montesinos, Los",
+    "eurostat:nuts_2021_id":"03903",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03903",
+    "eurostat:population":5061,
+    "eurostat:population_year":2020,
     "geom:area":0.001544,
-    "geom:area_square_m":15043258.588409,
+    "geom:area_square_m":15043258.588411,
     "geom:bbox":"-0.78441861,37.99949209,-0.71751332,38.05908688",
     "geom:latitude":38.024694,
     "geom:longitude":-0.754964,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03903",
+        "eurostat:nuts_2021_id":"03903",
         "gn:id":6355516,
         "gp:id":12695353,
         "qs_pg:id":103351
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b0df6c3f2948be2083271d5da163fb89",
+    "wof:geomhash":"bdeb816d6bc490335725c05905797028",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404329567,
-    "wof:lastmodified":1582361787,
+    "wof:lastmodified":1684352211,
     "wof:name":"Los Montesinos",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":5061,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

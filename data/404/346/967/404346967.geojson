@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50117",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gallocanta",
+    "eurostat:nuts_2021_id":"50117",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50117",
+    "eurostat:population":136,
+    "eurostat:population_year":2020,
     "geom:area":0.003179,
-    "geom:area_square_m":29669395.317994,
+    "geom:area_square_m":29669395.317995,
     "geom:bbox":"-1.57940805,40.96064607,-1.47167743,41.02359494",
     "geom:latitude":40.996134,
     "geom:longitude":-1.520983,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50117",
+        "eurostat:nuts_2021_id":"50117",
         "gn:id":6362807,
         "gp:id":12689947,
         "qs_pg:id":1118790
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"322c469ae15d30d9e39a352659879461",
+    "wof:geomhash":"ba33f5935d18a0c5d0ea59df01cb8428",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404346967,
-    "wof:lastmodified":1582361615,
+    "wof:lastmodified":1684352505,
     "wof:name":"Gallocanta",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":136,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

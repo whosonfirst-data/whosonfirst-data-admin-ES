@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10049",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casar de C\u00e1ceres",
+    "eurostat:nuts_2021_id":"10049",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10049",
+    "eurostat:population":4499,
+    "eurostat:population_year":2020,
     "geom:area":0.013657,
-    "geom:area_square_m":130180002.039489,
+    "geom:area_square_m":130180002.039491,
     "geom:bbox":"-6.57051953,39.45907118,-6.3822619,39.62738756",
     "geom:latitude":39.565148,
     "geom:longitude":-6.473935,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227383
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_10049",
+        "eurostat:nuts_2021_id":"10049"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"97220fa4bd35ee728c1595690a1b01be",
+    "wof:geomhash":"0e5e6ed2a45da75ba840b838b984a553",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404332619,
-    "wof:lastmodified":1566590487,
+    "wof:lastmodified":1684352266,
     "wof:name":"Casar De C\u00e1ceres",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":4499,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

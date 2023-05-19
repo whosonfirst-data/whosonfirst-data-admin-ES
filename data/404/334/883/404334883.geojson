@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17158,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17158",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Climent Sescebes",
+    "eurostat:nuts_2021_id":"17158",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17158",
+    "eurostat:population":707,
+    "eurostat:population_year":2020,
     "geom:area":0.00265,
-    "geom:area_square_m":24204520.769618,
+    "geom:area_square_m":24204648.660904,
     "geom:bbox":"2.939193,42.352783,2.998496,42.434816",
     "geom:latitude":42.388091,
     "geom:longitude":2.966681,
@@ -133,6 +145,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -141,7 +155,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17158",
         "esp-icgc:la_lc":"017158",
+        "eurostat:nuts_2021_id":"17158",
         "gn:id":6534121,
         "gp:id":12693834,
         "qs_pg:id":1016871
@@ -151,7 +167,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"c6b9ff6533439b16128508a5955209dc",
+    "wof:geomhash":"132d877eec61941e88ef160094a211a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -162,10 +178,12 @@
         }
     ],
     "wof:id":404334883,
-    "wof:lastmodified":1669903050,
+    "wof:lastmodified":1684352314,
     "wof:name":"Sant Climent Sescebes",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":707,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

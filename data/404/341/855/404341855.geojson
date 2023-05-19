@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37355",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villanueva del Conde",
+    "eurostat:nuts_2021_id":"37355",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37355",
+    "eurostat:population":163,
+    "eurostat:population_year":2020,
     "geom:area":0.00138,
     "geom:area_square_m":12977081.934676,
     "geom:bbox":"-6.04602424,40.47292575,-5.9889357,40.53553961",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_37355",
+        "eurostat:nuts_2021_id":"37355"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"7e4dba857773ec958ec5f0b2b74d01ee",
+    "wof:geomhash":"db7adc2228d7e4580750c832ecf6ea53",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404341855,
-    "wof:lastmodified":1566590356,
+    "wof:lastmodified":1684352429,
     "wof:name":"Villanueva Del Conde",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":163,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

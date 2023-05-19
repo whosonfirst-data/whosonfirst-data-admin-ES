@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49180",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Roelos de Sayago",
+    "eurostat:nuts_2021_id":"49180",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49180",
+    "eurostat:population":145,
+    "eurostat:population_year":2020,
     "geom:area":0.00591,
-    "geom:area_square_m":54922115.10662,
+    "geom:area_square_m":54922115.106616,
     "geom:bbox":"-6.23318105,41.2151285,-6.12196774,41.32465691",
     "geom:latitude":41.270654,
     "geom:longitude":-6.174591,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_49180",
+        "eurostat:nuts_2021_id":"49180"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"7902d71546f700845581ab3d755f4925",
+    "wof:geomhash":"6acbefb57585df67270c6efeb946b426",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404346529,
-    "wof:lastmodified":1566590252,
+    "wof:lastmodified":1684352500,
     "wof:name":"Roelos De Sayago",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":145,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

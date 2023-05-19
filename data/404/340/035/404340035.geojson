@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31257",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villatuerta",
+    "eurostat:nuts_2021_id":"31257",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31257",
+    "eurostat:population":1220,
+    "eurostat:population_year":2020,
     "geom:area":0.002613,
-    "geom:area_square_m":23771801.522267,
+    "geom:area_square_m":23771801.522266,
     "geom:bbox":"-2.0110834,42.59008464,-1.89279722,42.67159848",
     "geom:latitude":42.639622,
     "geom:longitude":-1.954545,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31257",
+        "eurostat:nuts_2021_id":"31257",
         "gn:id":6359804,
         "gp:id":12688434,
         "qs_pg:id":44694
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"98544122ddf5750be5389955163dc266",
+    "wof:geomhash":"7d355ade0ee6a59f9e6c6c0886e30975",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404340035,
-    "wof:lastmodified":1582361663,
+    "wof:lastmodified":1684352401,
     "wof:name":"Villatuerta",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":1220,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

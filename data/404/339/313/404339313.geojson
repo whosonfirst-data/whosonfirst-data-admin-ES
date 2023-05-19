@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_29100",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Yunquera",
+    "eurostat:nuts_2021_id":"29100",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES617",
+    "eurostat:nuts_2021_level_lau":"29100",
+    "eurostat:population":2869,
+    "eurostat:population_year":2020,
     "geom:area":0.005564,
-    "geom:area_square_m":55139252.203123,
+    "geom:area_square_m":55139252.203124,
     "geom:bbox":"-5.0051367,36.70192719,-4.88628968,36.77231452",
     "geom:latitude":36.734768,
     "geom:longitude":-4.937859,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_29100",
+        "eurostat:nuts_2021_id":"29100",
         "gn:id":6359504,
         "gp:id":12689289,
         "qs_pg:id":400353
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"73f90e0b101f27c6709e5cf15c397fc5",
+    "wof:geomhash":"f6ddfa0817f8f17a167aee7abeb29d94",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404339313,
-    "wof:lastmodified":1582361589,
+    "wof:lastmodified":1684352392,
     "wof:name":"Yunquera",
     "wof:parent_id":85682787,
     "wof:placetype":"localadmin",
+    "wof:population":2869,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

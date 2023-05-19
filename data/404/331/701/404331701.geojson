@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09052",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Berzosa de Bureba",
+    "eurostat:nuts_2021_id":"09052",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09052",
+    "eurostat:population":29,
+    "eurostat:population_year":2020,
     "geom:area":0.00086,
     "geom:area_square_m":7825118.219143,
     "geom:bbox":"-3.29978455,42.60958198,-3.24965696,42.63887605",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09052",
+        "eurostat:nuts_2021_id":"09052",
         "gn:id":6356371,
         "gp:id":12691417,
         "qs_pg:id":1196503
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5f2a4c0a6393c435b90481717dbd7e98",
+    "wof:geomhash":"760383dd1abc1a468f647e69383c1c82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404331701,
-    "wof:lastmodified":1582361482,
+    "wof:lastmodified":1684352257,
     "wof:name":"Berzosa De Bureba",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":29,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

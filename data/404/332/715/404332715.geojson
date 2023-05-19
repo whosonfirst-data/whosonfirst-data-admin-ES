@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10092",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Herguijuela",
+    "eurostat:nuts_2021_id":"10092",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10092",
+    "eurostat:population":274,
+    "eurostat:population_year":2020,
     "geom:area":0.004386,
-    "geom:area_square_m":41929237.679351,
+    "geom:area_square_m":41929237.679354,
     "geom:bbox":"-5.81828862,39.31876374,-5.68772542,39.40051846",
     "geom:latitude":39.367604,
     "geom:longitude":-5.762172,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10092",
+        "eurostat:nuts_2021_id":"10092",
         "gn:id":6356788,
         "gp:id":12694573,
         "qs_pg:id":265418
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f5bf9068e3e0fe613a1b48397f411b65",
+    "wof:geomhash":"17c442c0ac85537787f0a3edbd233e24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404332715,
-    "wof:lastmodified":1582361683,
+    "wof:lastmodified":1684352268,
     "wof:name":"Herguijuela",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":274,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

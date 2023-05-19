@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8218,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08218",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Joan de Vilatorrada",
+    "eurostat:nuts_2021_id":"08218",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08218",
+    "eurostat:population":10998,
+    "eurostat:population_year":2020,
     "geom:area":0.001779,
-    "geom:area_square_m":16410651.626665,
+    "geom:area_square_m":16410552.773612,
     "geom:bbox":"1.765528,41.734272,1.829517,41.791602",
     "geom:latitude":41.763156,
     "geom:longitude":1.797395,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08218",
         "esp-icgc:la_lc":"08218",
+        "eurostat:nuts_2021_id":"08218",
         "gn:id":6356240,
         "gp:id":12693593,
         "qs_pg:id":1163706
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"416654555023b997a25b62fc349de799",
+    "wof:geomhash":"b33b294a629c9ffdeb473d363c0a4565",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404331365,
-    "wof:lastmodified":1669902997,
+    "wof:lastmodified":1684352249,
     "wof:name":"Sant Joan de Vilatorrada",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":10998,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

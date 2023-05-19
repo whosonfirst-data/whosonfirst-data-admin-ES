@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09078",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cascajares de la Sierra",
+    "eurostat:nuts_2021_id":"09078",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09078",
+    "eurostat:population":33,
+    "eurostat:population_year":2020,
     "geom:area":0.000741,
     "geom:area_square_m":6799095.564741,
     "geom:bbox":"-3.41916438,42.05118616,-3.37044523,42.08090684",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09078",
+        "eurostat:nuts_2021_id":"09078",
         "gn:id":6356395,
         "gp:id":12691441,
         "qs_pg:id":46244
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a004638b74ced211a0822221e3354abe",
+    "wof:geomhash":"2d16d56f29d90d78064a789809631044",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404331767,
-    "wof:lastmodified":1582361500,
+    "wof:lastmodified":1684352258,
     "wof:name":"Cascajares De La Sierra",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":33,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

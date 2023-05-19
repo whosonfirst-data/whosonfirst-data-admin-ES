@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_29010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Almargen",
+    "eurostat:nuts_2021_id":"29010",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES617",
+    "eurostat:nuts_2021_level_lau":"29010",
+    "eurostat:population":1947,
+    "eurostat:population_year":2020,
     "geom:area":0.003479,
-    "geom:area_square_m":34345543.773255,
+    "geom:area_square_m":34345543.773254,
     "geom:bbox":"-5.05575779,36.98294609,-4.98829119,37.06457736",
     "geom:latitude":37.023382,
     "geom:longitude":-5.019287,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_29010",
+        "eurostat:nuts_2021_id":"29010",
         "gn:id":6359415,
         "gp:id":12689199,
         "qs_pg:id":977206
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"48ab8dbeb6f56d7576cbf18c8c9c31ea",
+    "wof:geomhash":"e5e571538ae8a6ef91f0d135823841fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404339113,
-    "wof:lastmodified":1582361598,
+    "wof:lastmodified":1684352388,
     "wof:name":"Almargen",
     "wof:parent_id":85682787,
     "wof:placetype":"localadmin",
+    "wof:population":1947,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

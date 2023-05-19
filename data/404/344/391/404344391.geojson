@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Burguillos de Toledo",
+    "eurostat:nuts_2021_id":"45023",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45023",
+    "eurostat:population":3288,
+    "eurostat:population_year":2020,
     "geom:area":0.002995,
-    "geom:area_square_m":28461899.189941,
+    "geom:area_square_m":28461899.189942,
     "geom:bbox":"-4.02626301,39.74897893,-3.95960327,39.81552223",
     "geom:latitude":39.781338,
     "geom:longitude":-3.992085,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45023",
+        "eurostat:nuts_2021_id":"45023",
         "gn:id":6361684,
         "gp:id":12690945,
         "qs_pg:id":1234459
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"970ebe80b148393aaa1b12a82593f172",
+    "wof:geomhash":"05e2be62a943a9782eec57bd48ebba7c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404344391,
-    "wof:lastmodified":1582361843,
+    "wof:lastmodified":1684352473,
     "wof:name":"Burguillos De Toledo",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":3288,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

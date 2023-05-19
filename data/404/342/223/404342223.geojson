@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_39081",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Saro",
+    "eurostat:nuts_2021_id":"39081",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES13",
+    "eurostat:nuts_2021_level_3":"ES130",
+    "eurostat:nuts_2021_level_lau":"39081",
+    "eurostat:population":516,
+    "eurostat:population_year":2020,
     "geom:area":0.001997,
-    "geom:area_square_m":17983934.695694,
+    "geom:area_square_m":17983934.695693,
     "geom:bbox":"-3.84906327,43.24398574,-3.75858761,43.28343921",
     "geom:latitude":43.263334,
     "geom:longitude":-3.802562,
@@ -51,6 +63,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -59,6 +73,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_39081",
+        "eurostat:nuts_2021_id":"39081",
         "gn:id":6360726,
         "gp:id":12688602,
         "qs_pg:id":44802
@@ -67,7 +83,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5cb612aaafe2418fb305be37139555e3",
+    "wof:geomhash":"ee7db286c36e542a199987e0e431578d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404342223,
-    "wof:lastmodified":1582361817,
+    "wof:lastmodified":1684352437,
     "wof:name":"Saro",
     "wof:parent_id":85682833,
     "wof:placetype":"localadmin",
+    "wof:population":516,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

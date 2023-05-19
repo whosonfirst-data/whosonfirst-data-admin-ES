@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43135,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43135",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Salom\u00f3",
+    "eurostat:nuts_2021_id":"43135",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43135",
+    "eurostat:population":549,
+    "eurostat:population_year":2020,
     "geom:area":0.001327,
-    "geom:area_square_m":12338707.793118,
+    "geom:area_square_m":12338707.793117,
     "geom:bbox":"1.33370346223,41.220741078,1.41269856554,41.2547244038",
     "geom:latitude":41.234177,
     "geom:longitude":1.37346,
@@ -121,6 +133,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -129,7 +143,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43135",
         "esp-icgc:la_lc":"043135",
+        "eurostat:nuts_2021_id":"43135",
         "gn:id":6361377,
         "gp:id":12694272,
         "qs_pg:id":201843
@@ -139,7 +155,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"3600a5813408485b5c39bce5169b1407",
+    "wof:geomhash":"f4ac6a79e9002842d015fbc73f1a6a91",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404343695,
-    "wof:lastmodified":1582361873,
+    "wof:lastmodified":1684352460,
     "wof:name":"Salom\u00f3",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":549,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

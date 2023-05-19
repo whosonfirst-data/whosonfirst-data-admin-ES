@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8192,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08192",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santpedor",
+    "eurostat:nuts_2021_id":"08192",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08192",
+    "eurostat:population":7604,
+    "eurostat:population_year":2020,
     "geom:area":0.001813,
-    "geom:area_square_m":16715214.006797,
+    "geom:area_square_m":16715252.755788,
     "geom:bbox":"1.801894,41.763511,1.86558,41.809225",
     "geom:latitude":41.783722,
     "geom:longitude":1.835921,
@@ -145,6 +157,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -153,7 +167,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08192",
         "esp-icgc:la_lc":"08192",
+        "eurostat:nuts_2021_id":"08192",
         "gn:id":6356216,
         "gp:id":12693641,
         "qs_pg:id":353771
@@ -163,7 +179,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"80a7201a4fa20ff936d621d14bc46159",
+    "wof:geomhash":"f7b103c785997a2628091ff08813a161",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -174,10 +190,12 @@
         }
     ],
     "wof:id":404331305,
-    "wof:lastmodified":1669903008,
+    "wof:lastmodified":1684352248,
     "wof:name":"Santpedor",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":7604,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

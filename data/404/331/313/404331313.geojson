@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8195,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08195",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Agust\u00ed de Llu\u00e7an\u00e8s",
+    "eurostat:nuts_2021_id":"08195",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08195",
+    "eurostat:population":89,
+    "eurostat:population_year":2020,
     "geom:area":0.001478,
-    "geom:area_square_m":13561300.003784,
+    "geom:area_square_m":13561286.856338,
     "geom:bbox":"2.104745,42.057542,2.161012,42.101822",
     "geom:latitude":42.081501,
     "geom:longitude":2.131425,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08195",
         "esp-icgc:la_lc":"08195",
+        "eurostat:nuts_2021_id":"08195",
         "gn:id":6356218,
         "gp:id":12693571,
         "qs_pg:id":288022
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"19254bbfe3cbb40be9f33a544f1ef25a",
+    "wof:geomhash":"12cd68e386e4f9117f9ad4f713416ee3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404331313,
-    "wof:lastmodified":1669903005,
+    "wof:lastmodified":1684352248,
     "wof:name":"Sant Agust\u00ed de Llu\u00e7an\u00e8s",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":89,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

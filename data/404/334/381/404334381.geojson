@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16187",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Salinas del Manzano",
+    "eurostat:nuts_2021_id":"16187",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16187",
+    "eurostat:population":65,
+    "eurostat:population_year":2020,
     "geom:area":0.003553,
-    "geom:area_square_m":33611627.900117,
+    "geom:area_square_m":33611627.900116,
     "geom:bbox":"-1.59344287,40.04817688,-1.51586358,40.12589309",
     "geom:latitude":40.083771,
     "geom:longitude":-1.554614,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16187",
+        "eurostat:nuts_2021_id":"16187",
         "gn:id":6357519,
         "gp:id":12690562,
         "qs_pg:id":540242
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"757751a830b7cd6750e3bf262e84fbc4",
+    "wof:geomhash":"c3e31b93c37283994c68153fdbe1b23f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404334381,
-    "wof:lastmodified":1582361756,
+    "wof:lastmodified":1684352297,
     "wof:name":"Salinas Del Manzano",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":65,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

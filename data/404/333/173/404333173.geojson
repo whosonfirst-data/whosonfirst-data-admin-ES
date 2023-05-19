@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cabanes",
+    "eurostat:nuts_2021_id":"12033",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12033",
+    "eurostat:population":2978,
+    "eurostat:population_year":2020,
     "geom:area":0.013918,
-    "geom:area_square_m":131553763.037501,
+    "geom:area_square_m":131553763.0375,
     "geom:bbox":"0.0145876,40.07590959,0.20104933,40.20528145",
     "geom:latitude":40.144312,
     "geom:longitude":0.093767,
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12033",
+        "eurostat:nuts_2021_id":"12033",
         "gn:id":6356989,
         "gp:id":12695437,
         "qs_pg:id":1102919
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7ca137f974c4abf0a850cfc3f95c67ed",
+    "wof:geomhash":"3863a28cfdd93e43a0ded9eb50faa7a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404333173,
-    "wof:lastmodified":1582361769,
+    "wof:lastmodified":1684352275,
     "wof:name":"Cabanes",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":2978,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

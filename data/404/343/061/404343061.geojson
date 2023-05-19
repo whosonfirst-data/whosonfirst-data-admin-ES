@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Borobia",
+    "eurostat:nuts_2021_id":"42039",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42039",
+    "eurostat:population":246,
+    "eurostat:population_year":2020,
     "geom:area":0.006765,
-    "geom:area_square_m":62485207.377038,
+    "geom:area_square_m":62485207.377037,
     "geom:bbox":"-1.95596792,41.6324122,-1.80622398,41.71904557",
     "geom:latitude":41.675305,
     "geom:longitude":-1.8824,
@@ -180,6 +192,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -188,6 +202,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42039",
+        "eurostat:nuts_2021_id":"42039",
         "gn:id":6361097,
         "gp:id":12692756,
         "qs_pg:id":1102741
@@ -196,7 +212,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7a47e92dcc2eec12629bdf12ec173d92",
+    "wof:geomhash":"006edf83057cea5646ec2d7d407adcf2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -207,10 +223,12 @@
         }
     ],
     "wof:id":404343061,
-    "wof:lastmodified":1582361890,
+    "wof:lastmodified":1684352447,
     "wof:name":"Borobia",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":246,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

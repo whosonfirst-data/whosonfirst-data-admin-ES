@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09160",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hontangas",
+    "eurostat:nuts_2021_id":"09160",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09160",
+    "eurostat:population":87,
+    "eurostat:population_year":2020,
     "geom:area":0.001319,
-    "geom:area_square_m":12202618.436519,
+    "geom:area_square_m":12202618.436521,
     "geom:bbox":"-3.82523891,41.56428378,-3.76317329,41.61700637",
     "geom:latitude":41.58925,
     "geom:longitude":-3.78895,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09160",
+        "eurostat:nuts_2021_id":"09160",
         "gn:id":6356452,
         "gp:id":12691499,
         "qs_pg:id":46272
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2bff05ba4bc11cd1d05bb7d5a591a301",
+    "wof:geomhash":"34ec5de6e90612fa191c8319e09b0fa4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404331917,
-    "wof:lastmodified":1582361514,
+    "wof:lastmodified":1684352259,
     "wof:name":"Hontangas",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":87,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

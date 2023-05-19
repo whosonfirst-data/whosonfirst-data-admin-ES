@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28086",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Molar, El",
+    "eurostat:nuts_2021_id":"28086",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28086",
+    "eurostat:population":9287,
+    "eurostat:population_year":2020,
     "geom:area":0.00535,
-    "geom:area_square_m":50153686.676883,
+    "geom:area_square_m":50153686.676884,
     "geom:bbox":"-3.60797277,40.6435975,-3.52528379,40.75055696",
     "geom:latitude":40.700563,
     "geom:longitude":-3.571235,
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28086",
+        "eurostat:nuts_2021_id":"28086",
         "gn:id":6359310,
         "qs_pg:id":103388
     },
@@ -108,7 +124,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0368e42d6a843277761f929640120304",
+    "wof:geomhash":"794773de5a5f6d7469f11d6b599c77f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +135,12 @@
         }
     ],
     "wof:id":404338877,
-    "wof:lastmodified":1582361447,
+    "wof:lastmodified":1684352383,
     "wof:name":"El Molar",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":9287,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17167,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17167",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Joan de les Abadesses",
+    "eurostat:nuts_2021_id":"17167",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17167",
+    "eurostat:population":3224,
+    "eurostat:population_year":2020,
     "geom:area":0.005859,
-    "geom:area_square_m":53639927.692671,
+    "geom:area_square_m":53640014.387678,
     "geom:bbox":"2.228054,42.203652,2.376619,42.274405",
     "geom:latitude":42.233916,
     "geom:longitude":2.302029,
@@ -74,6 +86,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -82,7 +96,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17167",
         "esp-icgc:la_lc":"017167",
+        "eurostat:nuts_2021_id":"17167",
         "gn:id":6357627,
         "gp:id":12693842,
         "qs_pg:id":47500
@@ -92,7 +108,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"7e9e29147f6947d7cbf0c7670aafa3d2",
+    "wof:geomhash":"6762a0a1dad1e13668b079e398191f62",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,10 +119,12 @@
         }
     ],
     "wof:id":404334903,
-    "wof:lastmodified":1669903048,
+    "wof:lastmodified":1684352315,
     "wof:name":"Sant Joan de les Abadesses",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":3224,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

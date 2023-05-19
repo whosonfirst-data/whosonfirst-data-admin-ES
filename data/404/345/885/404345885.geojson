@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47224",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villarmentero de Esgueva",
+    "eurostat:nuts_2021_id":"47224",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47224",
+    "eurostat:population":106,
+    "eurostat:population_year":2020,
     "geom:area":0.001454,
-    "geom:area_square_m":13430210.859929,
+    "geom:area_square_m":13430210.85993,
     "geom:bbox":"-4.57222763,41.65643071,-4.53516752,41.71943831",
     "geom:latitude":41.688264,
     "geom:longitude":-4.552183,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_47224",
+        "eurostat:nuts_2021_id":"47224"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"8d242e21a47199011e002dda3b517007",
+    "wof:geomhash":"101a996f9f7985be27446420e53530dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404345885,
-    "wof:lastmodified":1566591036,
+    "wof:lastmodified":1684352491,
     "wof:name":"Villarmentero De Esgueva",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":106,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

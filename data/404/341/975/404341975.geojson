@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_38026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Orotava, La",
+    "eurostat:nuts_2021_id":"38026",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES7",
+    "eurostat:nuts_2021_level_2":"ES70",
+    "eurostat:nuts_2021_level_3":"ES709",
+    "eurostat:nuts_2021_level_lau":"38026",
+    "eurostat:population":42187,
+    "eurostat:population_year":2020,
     "geom:area":0.019036,
-    "geom:area_square_m":207254686.562841,
+    "geom:area_square_m":207254686.562914,
     "geom:bbox":"-16.68725213,28.19835713,-16.46348611,28.4248708",
     "geom:latitude":28.298966,
     "geom:longitude":-16.576914,
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_38026",
+        "eurostat:nuts_2021_id":"38026",
         "gn:id":6360633,
         "gp:id":12690183,
         "qs_pg:id":621850
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"62ad209821131daacdb1c1122aafcfe6",
+    "wof:geomhash":"e5c154bf88d4b98f1652e0e5e7b00b75",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404341975,
-    "wof:lastmodified":1582361643,
+    "wof:lastmodified":1684352432,
     "wof:name":"La Orotava",
     "wof:parent_id":85682831,
     "wof:placetype":"localadmin",
+    "wof:population":42187,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

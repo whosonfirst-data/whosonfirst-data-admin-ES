@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40193",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Seb\u00falcor",
+    "eurostat:nuts_2021_id":"40193",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40193",
+    "eurostat:population":274,
+    "eurostat:population_year":2020,
     "geom:area":0.002979,
     "geom:area_square_m":27678451.015304,
     "geom:bbox":"-3.91864477,41.25551195,-3.82646432,41.3160363",
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_40193",
+        "eurostat:nuts_2021_id":"40193",
         "gn:id":6360914,
         "gp:id":12692684,
         "qs_pg:id":1163696
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e3521923df92da169879160f5db1e837",
+    "wof:geomhash":"6c12b721b20efc713d145cd9ff30ae7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404342651,
-    "wof:lastmodified":1582361810,
+    "wof:lastmodified":1684352441,
     "wof:name":"Seb\u00falcor",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":274,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

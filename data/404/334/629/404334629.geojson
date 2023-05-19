@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17034,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calonge",
+    "eurostat:nuts_2021_id":"17034",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17034",
+    "eurostat:population":11331,
+    "eurostat:population_year":2020,
     "geom:area":0.003642,
-    "geom:area_square_m":33542383.717631,
+    "geom:area_square_m":33542358.886332,
     "geom:bbox":"3.021956,41.825178,3.11776,41.899772",
     "geom:latitude":41.8635,
     "geom:longitude":3.073028,
@@ -130,6 +142,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -138,7 +152,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17034",
         "esp-icgc:la_lc":"017034",
+        "eurostat:nuts_2021_id":"17034",
         "gn:id":6534031,
         "gp:id":12693717,
         "qs_pg:id":47422
@@ -148,7 +164,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"78767a862409a8ffd78c0ad869804723",
+    "wof:geomhash":"2405b1c99a1938b11785d1ef0a54a1b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,10 +175,12 @@
         }
     ],
     "wof:id":404334629,
-    "wof:lastmodified":1669903043,
+    "wof:lastmodified":1684352303,
     "wof:name":"Calonge i Sant Antoni",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":11331,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

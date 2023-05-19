@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44231",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torrijas",
+    "eurostat:nuts_2021_id":"44231",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44231",
+    "eurostat:population":43,
+    "eurostat:population_year":2020,
     "geom:area":0.006048,
-    "geom:area_square_m":57280093.79283,
+    "geom:area_square_m":57280093.792829,
     "geom:bbox":"-1.01381566,39.95607696,-0.89586076,40.06771757",
     "geom:latitude":40.010356,
     "geom:longitude":-0.956595,
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44231",
+        "eurostat:nuts_2021_id":"44231",
         "gn:id":6361631,
         "gp:id":12689803,
         "qs_pg:id":1006697
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d3b22935d4d07f0e3b24a9cc2b2496ce",
+    "wof:geomhash":"cda49024dd91b5d08d1690ad12537123",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404344273,
-    "wof:lastmodified":1582361846,
+    "wof:lastmodified":1684352471,
     "wof:name":"Torrijas",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":43,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

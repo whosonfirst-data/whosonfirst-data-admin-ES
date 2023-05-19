@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_26045",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cellorigo",
+    "eurostat:nuts_2021_id":"26045",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES23",
+    "eurostat:nuts_2021_level_3":"ES230",
+    "eurostat:nuts_2021_level_lau":"26045",
+    "eurostat:population":11,
+    "eurostat:population_year":2020,
     "geom:area":0.001364,
     "geom:area_square_m":12414854.718835,
     "geom:bbox":"-3.02453338,42.59958632,-2.97611871,42.6442647",
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_26045",
+        "eurostat:nuts_2021_id":"26045",
         "gn:id":6359035,
         "gp:id":12687816,
         "qs_pg:id":1000580
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"93c126eec1098815c9350702a8969fe3",
+    "wof:geomhash":"36bea4a246653f0e49f3b0c336e05f8c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404338241,
-    "wof:lastmodified":1582361447,
+    "wof:lastmodified":1684352373,
     "wof:name":"Cellorigo",
     "wof:parent_id":85682773,
     "wof:placetype":"localadmin",
+    "wof:population":11,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

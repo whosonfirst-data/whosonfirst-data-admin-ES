@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16113",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Iniesta",
+    "eurostat:nuts_2021_id":"16113",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16113",
+    "eurostat:population":4320,
+    "eurostat:population_year":2020,
     "geom:area":0.02431,
-    "geom:area_square_m":232098731.766745,
+    "geom:area_square_m":232098731.766754,
     "geom:bbox":"-1.85040859,39.35342159,-1.49632091,39.57451678",
     "geom:latitude":39.456634,
     "geom:longitude":-1.73628,
@@ -51,6 +63,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -59,6 +73,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16113",
+        "eurostat:nuts_2021_id":"16113",
         "gn:id":6357461,
         "gp:id":12690501,
         "qs_pg:id":1016829
@@ -67,7 +83,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3e7d12ac4643d4943070baa862c2a870",
+    "wof:geomhash":"439fe6d86994364d248c49079b2c9bdd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404334247,
-    "wof:lastmodified":1582361746,
+    "wof:lastmodified":1684352295,
     "wof:name":"Iniesta",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":4320,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

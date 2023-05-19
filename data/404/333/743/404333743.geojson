@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_14046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nueva Carteya",
+    "eurostat:nuts_2021_id":"14046",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES613",
+    "eurostat:nuts_2021_level_lau":"14046",
+    "eurostat:population":5341,
+    "eurostat:population_year":2020,
     "geom:area":0.007059,
-    "geom:area_square_m":69153404.300665,
+    "geom:area_square_m":69153404.300664,
     "geom:bbox":"-4.51303882,37.55282669,-4.38850843,37.67647841",
     "geom:latitude":37.59954,
     "geom:longitude":-4.447698,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_14046",
+        "eurostat:nuts_2021_id":"14046",
         "gn:id":6357241,
         "gp:id":12688817,
         "qs_pg:id":1146257
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"29fa1370139f1a85a1deeca4d5ecefe7",
+    "wof:geomhash":"577103f3cdd3b9cbb499b74a5f72af44",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404333743,
-    "wof:lastmodified":1582361783,
+    "wof:lastmodified":1684352284,
     "wof:name":"Nueva Carteya",
     "wof:parent_id":85682697,
     "wof:placetype":"localadmin",
+    "wof:population":5341,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

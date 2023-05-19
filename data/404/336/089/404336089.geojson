@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_20004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Albiztur",
+    "eurostat:nuts_2021_id":"20004",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES212",
+    "eurostat:nuts_2021_level_lau":"20004",
+    "eurostat:population":302,
+    "eurostat:population_year":2020,
     "geom:area":0.001448,
-    "geom:area_square_m":13063641.24313,
+    "geom:area_square_m":13063641.243132,
     "geom:bbox":"-2.18301152,43.09757032,-2.11082845,43.1734065",
     "geom:latitude":43.13157,
     "geom:longitude":-2.139549,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_20004",
+        "eurostat:nuts_2021_id":"20004",
         "gn:id":6358096,
         "gp:id":12695071,
         "qs_pg:id":621662
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8108ebdcbe3424316ae1802018948a47",
+    "wof:geomhash":"58a96ffb5beeb1959a2605a84da5337a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404336089,
-    "wof:lastmodified":1582361471,
+    "wof:lastmodified":1684352333,
     "wof:name":"Albiztur",
     "wof:parent_id":85682741,
     "wof:placetype":"localadmin",
+    "wof:population":302,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

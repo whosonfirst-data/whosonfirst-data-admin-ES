@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Berceruelo",
+    "eurostat:nuts_2021_id":"47018",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47018",
+    "eurostat:population":35,
+    "eurostat:population_year":2020,
     "geom:area":0.001505,
-    "geom:area_square_m":13922639.734567,
+    "geom:area_square_m":13922639.734568,
     "geom:bbox":"-5.04707529,41.56484951,-4.98002268,41.60958256",
     "geom:latitude":41.590238,
     "geom:longitude":-5.01568,
@@ -99,6 +111,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -106,9 +120,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_47018",
+        "eurostat:nuts_2021_id":"47018"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"be056db9c5f64df997ec4a9d7a0906bd",
+    "wof:geomhash":"3d38fa42c225bffa34e7836f97d3e265",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +136,12 @@
         }
     ],
     "wof:id":404345437,
-    "wof:lastmodified":1566591006,
+    "wof:lastmodified":1684352486,
     "wof:name":"Berceruelo",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":35,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

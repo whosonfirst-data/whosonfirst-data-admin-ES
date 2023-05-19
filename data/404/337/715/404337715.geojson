@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":25046,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Belianes",
+    "eurostat:nuts_2021_id":"25046",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25046",
+    "eurostat:population":520,
+    "eurostat:population_year":2020,
     "geom:area":0.001703,
     "geom:area_square_m":15750130.723412,
     "geom:bbox":"0.961129007089,41.5500633954,1.02576312721,41.5992465149",
@@ -106,6 +118,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -114,7 +128,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25046",
         "esp-icgc:la_lc":"025046",
+        "eurostat:nuts_2021_id":"25046",
         "gn:id":6358803,
         "gp:id":12693946,
         "qs_pg:id":47562
@@ -124,7 +140,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b3a65067464cae4d0baa4af741eb7a0e",
+    "wof:geomhash":"03786adecd4977072c21c25c99ee33a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404337715,
-    "wof:lastmodified":1582361562,
+    "wof:lastmodified":1684352357,
     "wof:name":"Belianes",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":520,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

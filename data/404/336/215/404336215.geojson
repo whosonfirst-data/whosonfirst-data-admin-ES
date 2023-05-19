@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_20059",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"O\u00f1ati",
+    "eurostat:nuts_2021_id":"20059",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES212",
+    "eurostat:nuts_2021_level_lau":"20059",
+    "eurostat:population":11497,
+    "eurostat:population_year":2020,
     "geom:area":0.011848,
-    "geom:area_square_m":107127187.948977,
+    "geom:area_square_m":107127187.948978,
     "geom:bbox":"-2.47960915,42.94678258,-2.35160392,43.08203884",
     "geom:latitude":43.011214,
     "geom:longitude":-2.413792,
@@ -132,6 +144,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -140,6 +154,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_20059",
+        "eurostat:nuts_2021_id":"20059",
         "gn:id":6358148,
         "gp:id":12695132,
         "qs_pg:id":103379
@@ -148,7 +164,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3e67e8fd75e208fe0401f73f8705abd9",
+    "wof:geomhash":"573b70c955ba2178e4c66e10842bbcba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,10 +175,12 @@
         }
     ],
     "wof:id":404336215,
-    "wof:lastmodified":1582361472,
+    "wof:lastmodified":1684352335,
     "wof:name":"O\u00f1ati",
     "wof:parent_id":85682741,
     "wof:placetype":"localadmin",
+    "wof:population":11497,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

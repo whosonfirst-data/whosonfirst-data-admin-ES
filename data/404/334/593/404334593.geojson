@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17018,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bellcaire d'Empord\u00e0",
+    "eurostat:nuts_2021_id":"17018",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17018",
+    "eurostat:population":678,
+    "eurostat:population_year":2020,
     "geom:area":0.001371,
-    "geom:area_square_m":12585012.930366,
+    "geom:area_square_m":12585067.167967,
     "geom:bbox":"3.071351,42.061445,3.132733,42.108461",
     "geom:latitude":42.086857,
     "geom:longitude":3.10404,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17018",
         "esp-icgc:la_lc":"017018",
+        "eurostat:nuts_2021_id":"17018",
         "gn:id":6534016,
         "gp:id":12693700,
         "qs_pg:id":191270
@@ -67,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4dc5250d5adb06bebc8cbcbd5c689137",
+    "wof:geomhash":"d2536dfe93ebdd3b4104dabe683d7c24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404334593,
-    "wof:lastmodified":1669903040,
+    "wof:lastmodified":1684352300,
     "wof:name":"Bellcaire d'Empord\u00e0",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":678,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

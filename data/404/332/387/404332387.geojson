@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09421",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vid y Barrios, La",
+    "eurostat:nuts_2021_id":"09421",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09421",
+    "eurostat:population":250,
+    "eurostat:population_year":2020,
     "geom:area":0.00406,
     "geom:area_square_m":37527390.346307,
     "geom:bbox":"-3.54862326,41.58848139,-3.43523065,41.65067555",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09421",
+        "eurostat:nuts_2021_id":"09421",
         "gn:id":6356646,
         "qs_pg:id":621572
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"329aa1c4f8663636cd19a69b7dd86ec5",
+    "wof:geomhash":"f2862bd1c04415eea7620991ed030182",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404332387,
-    "wof:lastmodified":1582361692,
+    "wof:lastmodified":1684352264,
     "wof:name":"La Vid Y Barrios",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":250,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

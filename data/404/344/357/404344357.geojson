@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aldea en Cabo",
+    "eurostat:nuts_2021_id":"45008",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45008",
+    "eurostat:population":168,
+    "eurostat:population_year":2020,
     "geom:area":0.002693,
     "geom:area_square_m":25433907.077012,
     "geom:bbox":"-4.52133213,40.15889907,-4.43237695,40.22199696",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45008",
+        "eurostat:nuts_2021_id":"45008",
         "gn:id":6361669,
         "gp:id":12690930,
         "qs_pg:id":46020
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7bf5e2a9a597c6607650a8a42f80a701",
+    "wof:geomhash":"b95189360fd8faca9a5fdc9e12ebefd5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404344357,
-    "wof:lastmodified":1582361852,
+    "wof:lastmodified":1684352473,
     "wof:name":"Aldea En Cabo",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":168,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

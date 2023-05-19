@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cabra de Mora",
+    "eurostat:nuts_2021_id":"44048",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44048",
+    "eurostat:population":51,
+    "eurostat:population_year":2020,
     "geom:area":0.003635,
-    "geom:area_square_m":34270703.055457,
+    "geom:area_square_m":34270703.055455,
     "geom:bbox":"-0.84462703,40.27564056,-0.76049335,40.35222038",
     "geom:latitude":40.315029,
     "geom:longitude":-0.809935,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44048",
+        "eurostat:nuts_2021_id":"44048",
         "gn:id":6361472,
         "gp:id":12689643,
         "qs_pg:id":539701
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"108250dac6adf666d11dd50329ff02f6",
+    "wof:geomhash":"6b149a0ca003b5c7e10969513672692f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404343911,
-    "wof:lastmodified":1582361892,
+    "wof:lastmodified":1684352467,
     "wof:name":"Cabra De Mora",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":51,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

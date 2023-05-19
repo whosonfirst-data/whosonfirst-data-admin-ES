@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50139",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Letux",
+    "eurostat:nuts_2021_id":"50139",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50139",
+    "eurostat:population":342,
+    "eurostat:population_year":2020,
     "geom:area":0.003238,
     "geom:area_square_m":30110674.957989,
     "geom:bbox":"-0.84071185,41.18106689,-0.74391183,41.27783643",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50139",
+        "eurostat:nuts_2021_id":"50139",
         "gn:id":6362828,
         "gp:id":12689968,
         "qs_pg:id":45543
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c5f7c1e0661a109db8133d032cf0cdeb",
+    "wof:geomhash":"7ca5a1cf3c81b7de00480c306aa2acd4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404347015,
-    "wof:lastmodified":1582361670,
+    "wof:lastmodified":1684352506,
     "wof:name":"Letux",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":342,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

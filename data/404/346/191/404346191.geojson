@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Asturianos",
+    "eurostat:nuts_2021_id":"49017",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49017",
+    "eurostat:population":260,
+    "eurostat:population_year":2020,
     "geom:area":0.004633,
-    "geom:area_square_m":42533623.162992,
+    "geom:area_square_m":42533623.162991,
     "geom:bbox":"-6.52262265,42.00632782,-6.42632729,42.1041092",
     "geom:latitude":42.054937,
     "geom:longitude":-6.471562,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_49017",
+        "eurostat:nuts_2021_id":"49017",
         "gn:id":6362464,
         "gp:id":12693143,
         "qs_pg:id":47076
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"424c46ef57817834a7410148171eda6b",
+    "wof:geomhash":"2bbf82ffeee701cd86eae980d640bd1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404346191,
-    "wof:lastmodified":1582361614,
+    "wof:lastmodified":1684352496,
     "wof:name":"Asturianos",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":260,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

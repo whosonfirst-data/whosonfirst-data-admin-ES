@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45090",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Manzaneque",
+    "eurostat:nuts_2021_id":"45090",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45090",
+    "eurostat:population":390,
+    "eurostat:population_year":2020,
     "geom:area":0.001282,
     "geom:area_square_m":12210360.221622,
     "geom:bbox":"-3.82369488,39.61393244,-3.76485432,39.66497204",
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45090",
+        "eurostat:nuts_2021_id":"45090",
         "gn:id":6361750,
         "gp:id":12691011,
         "qs_pg:id":46059
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c6d08250438ec411a0aa72f2670bd0aa",
+    "wof:geomhash":"b9737de7d42ed723810f455ed8eebd84",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404344541,
-    "wof:lastmodified":1582361859,
+    "wof:lastmodified":1684352475,
     "wof:name":"Manzaneque",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":390,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31102",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ezkurra",
+    "eurostat:nuts_2021_id":"31102",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31102",
+    "eurostat:population":138,
+    "eurostat:population_year":2020,
     "geom:area":0.00262,
     "geom:area_square_m":23658393.982367,
     "geom:bbox":"-1.86645185,43.06410337,-1.8098253,43.14328988",
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31102",
+        "eurostat:nuts_2021_id":"31102",
         "gn:id":6359650,
         "gp:id":12688277,
         "qs_pg:id":1146025
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f9e1f3c4d2f7aad1c35ae431cb0d0ffd",
+    "wof:geomhash":"b85c4a45efb3afe86547a2320acb2d2d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404339675,
-    "wof:lastmodified":1582361582,
+    "wof:lastmodified":1684352397,
     "wof:name":"Ezkurra",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":138,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_30006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aledo",
+    "eurostat:nuts_2021_id":"30006",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES62",
+    "eurostat:nuts_2021_level_3":"ES620",
+    "eurostat:nuts_2021_level_lau":"30006",
+    "eurostat:population":1031,
+    "eurostat:population_year":2020,
     "geom:area":0.005088,
     "geom:area_square_m":49714524.896703,
     "geom:bbox":"-1.66410961,37.75374297,-1.55913983,37.82191863",
@@ -60,6 +72,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -68,6 +82,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_30006",
+        "eurostat:nuts_2021_id":"30006",
         "gn:id":6359511,
         "gp:id":12688131,
         "qs_pg:id":221389
@@ -76,7 +92,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1bbb4ac0331bc81e83f83fe417d84562",
+    "wof:geomhash":"e3d754e3db731c2b5c18307697b26ae9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,10 +103,12 @@
         }
     ],
     "wof:id":404339331,
-    "wof:lastmodified":1582361580,
+    "wof:lastmodified":1684352392,
     "wof:name":"Aledo",
     "wof:parent_id":85682791,
     "wof:placetype":"localadmin",
+    "wof:population":1031,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

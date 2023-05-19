@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Buenavista",
+    "eurostat:nuts_2021_id":"37060",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37060",
+    "eurostat:population":350,
+    "eurostat:population_year":2020,
     "geom:area":0.002885,
     "geom:area_square_m":27012980.958074,
     "geom:bbox":"-5.67452648,40.74680384,-5.58159,40.82388503",
@@ -81,6 +93,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -89,6 +103,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37060",
+        "eurostat:nuts_2021_id":"37060",
         "gn:id":6360314,
         "gp:id":12692205,
         "qs_pg:id":1188561
@@ -97,7 +113,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c183f482cfa9ba4bab5158517b690e6a",
+    "wof:geomhash":"e0583245a31e97405df1087c5624ead9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,10 +124,12 @@
         }
     ],
     "wof:id":404341229,
-    "wof:lastmodified":1582361626,
+    "wof:lastmodified":1684352422,
     "wof:name":"Buenavista",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":350,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

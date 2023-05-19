@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49093",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Guarrate",
+    "eurostat:nuts_2021_id":"49093",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49093",
+    "eurostat:population":331,
+    "eurostat:population_year":2020,
     "geom:area":0.003397,
-    "geom:area_square_m":31559485.761072,
+    "geom:area_square_m":31559485.761073,
     "geom:bbox":"-5.54818005,41.27441587,-5.39709864,41.34105848",
     "geom:latitude":41.29982,
     "geom:longitude":-5.471623,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_49093",
+        "eurostat:nuts_2021_id":"49093",
         "gn:id":6362531,
         "gp:id":12693210,
         "qs_pg:id":497271
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0e019f38e29db6e2cfda758cf643661a",
+    "wof:geomhash":"49da2fb81412f8fd2112952b24e2fabe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404346343,
-    "wof:lastmodified":1582361622,
+    "wof:lastmodified":1684352498,
     "wof:name":"Guarrate",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":331,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50278",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Velilla de Ebro",
+    "eurostat:nuts_2021_id":"50278",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50278",
+    "eurostat:population":203,
+    "eurostat:population_year":2020,
     "geom:area":0.006437,
-    "geom:area_square_m":59712656.826859,
+    "geom:area_square_m":59712656.826858,
     "geom:bbox":"-0.45954663,41.33270881,-0.29692267,41.42880503",
     "geom:latitude":41.38868,
     "geom:longitude":-0.386259,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50278",
+        "eurostat:nuts_2021_id":"50278",
         "gn:id":6362964,
         "gp:id":12690104,
         "qs_pg:id":1025708
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"10fb48cd79aa18a72f90cb62b46f05f9",
+    "wof:geomhash":"4ddf3c333fc017c4b5d85c8fc42f6d22",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404347321,
-    "wof:lastmodified":1582361675,
+    "wof:lastmodified":1684352510,
     "wof:name":"Velilla De Ebro",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":203,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

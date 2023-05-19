@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_33007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Boal",
+    "eurostat:nuts_2021_id":"33007",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES12",
+    "eurostat:nuts_2021_level_3":"ES120",
+    "eurostat:nuts_2021_level_lau":"33007",
+    "eurostat:population":1482,
+    "eurostat:population_year":2020,
     "geom:area":0.013368,
-    "geom:area_square_m":120070459.743882,
+    "geom:area_square_m":120070459.743877,
     "geom:bbox":"-6.94268834,43.34801646,-6.71979602,43.47262536",
     "geom:latitude":43.41746,
     "geom:longitude":-6.822693,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_33007",
+        "eurostat:nuts_2021_id":"33007",
         "gn:id":6359914,
         "gp:id":12688450,
         "qs_pg:id":44708
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6989c093064048f206b920ba395bebab",
+    "wof:geomhash":"b6c1e66b2095fb174a16f997430aff35",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404340295,
-    "wof:lastmodified":1582361651,
+    "wof:lastmodified":1684352405,
     "wof:name":"Boal",
     "wof:parent_id":85682805,
     "wof:placetype":"localadmin",
+    "wof:population":1482,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

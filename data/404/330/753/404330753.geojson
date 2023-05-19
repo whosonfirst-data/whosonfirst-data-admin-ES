@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_07011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calvi\u00e0",
+    "eurostat:nuts_2021_id":"07011",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES53",
+    "eurostat:nuts_2021_level_3":"ES532",
+    "eurostat:nuts_2021_level_lau":"07011",
+    "eurostat:population":51710,
+    "eurostat:population_year":2020,
     "geom:area":0.01522,
-    "geom:area_square_m":145116285.772257,
+    "geom:area_square_m":145116285.772253,
     "geom:bbox":"2.42197663,39.45660072,2.60042682,39.64137874",
     "geom:latitude":39.551007,
     "geom:longitude":2.508114,
@@ -153,6 +165,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -161,6 +175,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_07011",
+        "eurostat:nuts_2021_id":"07011",
         "gn:id":6356031,
         "gp:id":12687716,
         "qs_pg:id":1188115
@@ -169,7 +185,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3a0d8a30a3f9e488c89e5e822d4de10e",
+    "wof:geomhash":"239e71228b95fa55ee8bca9736640cce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -180,10 +196,12 @@
         }
     ],
     "wof:id":404330753,
-    "wof:lastmodified":1582361520,
+    "wof:lastmodified":1684352229,
     "wof:name":"Calvi\u00e0",
     "wof:parent_id":85682647,
     "wof:placetype":"localadmin",
+    "wof:population":51710,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

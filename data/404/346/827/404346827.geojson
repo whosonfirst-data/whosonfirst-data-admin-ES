@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Biota",
+    "eurostat:nuts_2021_id":"50051",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50051",
+    "eurostat:population":930,
+    "eurostat:population_year":2020,
     "geom:area":0.01405,
-    "geom:area_square_m":128602432.187654,
+    "geom:area_square_m":128602432.187653,
     "geom:bbox":"-1.29343234,42.13214049,-1.07113581,42.32444277",
     "geom:latitude":42.248089,
     "geom:longitude":-1.181756,
@@ -84,6 +96,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -92,6 +106,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50051",
+        "eurostat:nuts_2021_id":"50051",
         "gn:id":6362744,
         "gp:id":12689884,
         "qs_pg:id":45516
@@ -100,7 +116,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ab6d686e31a84e483947da9a78b209f5",
+    "wof:geomhash":"9698fe0d6049ed2f7f681ad3570e4b71",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,10 +127,12 @@
         }
     ],
     "wof:id":404346827,
-    "wof:lastmodified":1582361608,
+    "wof:lastmodified":1684352503,
     "wof:name":"Biota",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":930,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

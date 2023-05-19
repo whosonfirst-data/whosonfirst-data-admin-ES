@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44207",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Mart\u00edn del R\u00edo",
+    "eurostat:nuts_2021_id":"44207",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44207",
+    "eurostat:population":132,
+    "eurostat:population_year":2020,
     "geom:area":0.001776,
-    "geom:area_square_m":16557468.001859,
+    "geom:area_square_m":16557468.001858,
     "geom:bbox":"-1.42230776,41.02362297,-1.35234615,41.08852773",
     "geom:latitude":41.054411,
     "geom:longitude":-1.387274,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44207",
+        "eurostat:nuts_2021_id":"44207",
         "gn:id":6361608,
         "gp:id":12689780,
         "qs_pg:id":45471
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cc53362dea29c22236985d2c8d1d2f63",
+    "wof:geomhash":"30a91fc5d59733b0352dce4c1da14ce4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404344219,
-    "wof:lastmodified":1582361846,
+    "wof:lastmodified":1684352471,
     "wof:name":"San Mart\u00edn Del R\u00edo",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":132,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19262",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tamaj\u00f3n",
+    "eurostat:nuts_2021_id":"19262",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19262",
+    "eurostat:population":137,
+    "eurostat:population_year":2020,
     "geom:area":0.01245,
     "geom:area_square_m":116132339.428979,
     "geom:bbox":"-3.30253617,40.94391126,-3.17412343,41.11031014",
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19262",
+        "eurostat:nuts_2021_id":"19262",
         "gn:id":6358029,
         "gp:id":12690860,
         "qs_pg:id":219057
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"448c70a63d31f1412caac95ea41fcef0",
+    "wof:geomhash":"483cd23ec71991174d8f06e788438f0b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404335939,
-    "wof:lastmodified":1582361695,
+    "wof:lastmodified":1684352331,
     "wof:name":"Tamaj\u00f3n",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":137,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

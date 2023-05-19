@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_23074",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rus",
+    "eurostat:nuts_2021_id":"23074",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES616",
+    "eurostat:nuts_2021_level_lau":"23074",
+    "eurostat:population":3531,
+    "eurostat:population_year":2020,
     "geom:area":0.004856,
-    "geom:area_square_m":47270375.663478,
+    "geom:area_square_m":47270375.66348,
     "geom:bbox":"-3.50556723,38.03058768,-3.40295369,38.12743032",
     "geom:latitude":38.07783,
     "geom:longitude":-3.454441,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_23074",
+        "eurostat:nuts_2021_id":"23074",
         "gn:id":6358523,
         "gp:id":12689164,
         "qs_pg:id":1000246
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7212030603c44e0c2cbbfe80a99c8763",
+    "wof:geomhash":"7e2981dd8fdedada3eb1f2f901a399dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404337071,
-    "wof:lastmodified":1582361555,
+    "wof:lastmodified":1684352348,
     "wof:name":"Rus",
     "wof:parent_id":85682757,
     "wof:placetype":"localadmin",
+    "wof:population":3531,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

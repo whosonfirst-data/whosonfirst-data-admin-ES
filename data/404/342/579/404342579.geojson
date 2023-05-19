@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40158",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Perosillo",
+    "eurostat:nuts_2021_id":"40158",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40158",
+    "eurostat:population":15,
+    "eurostat:population_year":2020,
     "geom:area":0.001089,
     "geom:area_square_m":10105647.125929,
     "geom:bbox":"-4.16926707,41.36705772,-4.1135788,41.41106992",
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_40158",
+        "eurostat:nuts_2021_id":"40158",
         "gn:id":6360883,
         "gp:id":12692653,
         "qs_pg:id":1148793
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2dfc29c310d91e25209f8c39927ad6a4",
+    "wof:geomhash":"9c2673e9fd7e0b6889f274acea3c1ca9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404342579,
-    "wof:lastmodified":1582361823,
+    "wof:lastmodified":1684352441,
     "wof:name":"Perosillo",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":15,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

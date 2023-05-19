@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17180,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17180",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Coloma de Farners",
+    "eurostat:nuts_2021_id":"17180",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17180",
+    "eurostat:population":13363,
+    "eurostat:population_year":2020,
     "geom:area":0.007693,
-    "geom:area_square_m":70841163.611788,
+    "geom:area_square_m":70841231.862322,
     "geom:bbox":"2.54974,41.829042,2.706967,41.913419",
     "geom:latitude":41.868705,
     "geom:longitude":2.625132,
@@ -71,6 +83,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -79,7 +93,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17180",
         "esp-icgc:la_lc":"017180",
+        "eurostat:nuts_2021_id":"17180",
         "gn:id":6534139,
         "gp:id":12693856,
         "qs_pg:id":1311103
@@ -89,7 +105,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"db2550c6cae96faebbcc56dcfe52447e",
+    "wof:geomhash":"36ebb88f8fd578c1766309787df9783b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,10 +116,12 @@
         }
     ],
     "wof:id":404334931,
-    "wof:lastmodified":1669903039,
+    "wof:lastmodified":1684352315,
     "wof:name":"Santa Coloma de Farners",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":13363,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

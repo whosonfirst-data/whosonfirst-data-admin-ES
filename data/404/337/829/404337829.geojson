@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25105,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Granyena de les Garrigues",
+    "eurostat:nuts_2021_id":"25105",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25105",
+    "eurostat:population":140,
+    "eurostat:population_year":2020,
     "geom:area":0.002187,
-    "geom:area_square_m":20274509.584632,
+    "geom:area_square_m":20274478.271501,
     "geom:bbox":"0.620523,41.412373,0.691126,41.457746",
     "geom:latitude":41.434968,
     "geom:longitude":0.653578,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25105",
         "esp-icgc:la_lc":"025105",
+        "eurostat:nuts_2021_id":"25105",
         "gn:id":6358853,
         "gp:id":12694000,
         "qs_pg:id":1003884
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"c326993cd710b2b0128f60f4c1de5725",
+    "wof:geomhash":"657a6b48e92eb1191bd0e63a03b1da1c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404337829,
-    "wof:lastmodified":1669903021,
+    "wof:lastmodified":1684352361,
     "wof:name":"Granyena de les Garrigues",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":140,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

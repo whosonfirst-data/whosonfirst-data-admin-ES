@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43109,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43109",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pobla de Mafumet, La",
+    "eurostat:nuts_2021_id":"43109",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43109",
+    "eurostat:population":3971,
+    "eurostat:population_year":2020,
     "geom:area":0.000653,
-    "geom:area_square_m":6075633.885803,
+    "geom:area_square_m":6075619.734724,
     "geom:bbox":"1.177031,41.169539,1.23424,41.195497",
     "geom:latitude":41.182605,
     "geom:longitude":1.212687,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43109",
         "esp-icgc:la_lc":"043109",
+        "eurostat:nuts_2021_id":"43109",
         "gn:id":6361351,
         "gp:id":12694246,
         "qs_pg:id":259324
@@ -67,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5c993a81433968f225327b81de4be4e6",
+    "wof:geomhash":"64ef6f9ca2dc7b07ebe580337137f3fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404343635,
-    "wof:lastmodified":1669903063,
+    "wof:lastmodified":1684352459,
     "wof:name":"La Pobla de Mafumet",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":3971,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

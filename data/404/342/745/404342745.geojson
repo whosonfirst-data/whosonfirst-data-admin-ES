@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_41001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aguadulce",
+    "eurostat:nuts_2021_id":"41001",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES618",
+    "eurostat:nuts_2021_level_lau":"41001",
+    "eurostat:population":2035,
+    "eurostat:population_year":2020,
     "geom:area":0.001391,
     "geom:area_square_m":13687994.053243,
     "geom:bbox":"-5.00815847,37.22787814,-4.94963001,37.2678346",
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_41001",
+        "eurostat:nuts_2021_id":"41001",
         "gn:id":6360956,
         "gp:id":12689291,
         "qs_pg:id":45229
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f110418b5b54d8696e5cc393a21e37bd",
+    "wof:geomhash":"c7124cf523dfaa72b790f1d9265c0f4b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404342745,
-    "wof:lastmodified":1582361824,
+    "wof:lastmodified":1684352442,
     "wof:name":"Aguadulce",
     "wof:parent_id":85682841,
     "wof:placetype":"localadmin",
+    "wof:population":2035,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

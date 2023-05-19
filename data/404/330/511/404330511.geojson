@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06069",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hornachos",
+    "eurostat:nuts_2021_id":"06069",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06069",
+    "eurostat:population":3537,
+    "eurostat:population_year":2020,
     "geom:area":0.030589,
-    "geom:area_square_m":295740373.706352,
+    "geom:area_square_m":295740373.706344,
     "geom:bbox":"-6.18744107,38.47545524,-5.90062766,38.65804722",
     "geom:latitude":38.565978,
     "geom:longitude":-6.05754,
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06069",
+        "eurostat:nuts_2021_id":"06069",
         "gn:id":6355934,
         "gp:id":12694388,
         "qs_pg:id":1149609
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a55d30c89bcc7e7353ed7699786c2d69",
+    "wof:geomhash":"0956b5b961b639675c30adedc03a65e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404330511,
-    "wof:lastmodified":1582361531,
+    "wof:lastmodified":1684352225,
     "wof:name":"Hornachos",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":3537,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

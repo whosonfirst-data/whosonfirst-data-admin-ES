@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16181",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rozal\u00e9n del Monte",
+    "eurostat:nuts_2021_id":"16181",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16181",
+    "eurostat:population":65,
+    "eurostat:population_year":2020,
     "geom:area":0.00323,
-    "geom:area_square_m":30597212.392017,
+    "geom:area_square_m":30597212.392019,
     "geom:bbox":"-2.83289495,39.95074842,-2.7628622,40.01749982",
     "geom:latitude":39.987583,
     "geom:longitude":-2.798961,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16181",
+        "eurostat:nuts_2021_id":"16181",
         "gn:id":6357516,
         "gp:id":12690559,
         "qs_pg:id":1146984
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f151e76372cecddb1af9005fbae99ac8",
+    "wof:geomhash":"7e7ecea6d3aadc2ebccc1621e4cf3bfe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404334375,
-    "wof:lastmodified":1582361756,
+    "wof:lastmodified":1684352296,
     "wof:name":"Rozal\u00e9n Del Monte",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":65,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

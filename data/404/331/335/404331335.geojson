@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8205,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08205",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Cugat del Vall\u00e8s",
+    "eurostat:nuts_2021_id":"08205",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08205",
+    "eurostat:population":92977,
+    "eurostat:population_year":2020,
     "geom:area":0.005201,
-    "geom:area_square_m":48193454.19179,
+    "geom:area_square_m":48193421.854038,
     "geom:bbox":"1.99973,41.414954,2.129953,41.519637",
     "geom:latitude":41.461893,
     "geom:longitude":2.073136,
@@ -80,6 +92,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -88,7 +102,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08205",
         "esp-icgc:la_lc":"08205",
+        "eurostat:nuts_2021_id":"08205",
         "gn:id":6356227,
         "gp:id":12693581,
         "qs_pg:id":191248
@@ -98,7 +114,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cabfe6214d942aa7c84be74989c014dc",
+    "wof:geomhash":"eb9cce9d6e217dbd6e37ae4dd87445af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,10 +125,12 @@
         }
     ],
     "wof:id":404331335,
-    "wof:lastmodified":1669903006,
+    "wof:lastmodified":1684352248,
     "wof:name":"Sant Cugat del Vall\u00e8s",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":92977,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

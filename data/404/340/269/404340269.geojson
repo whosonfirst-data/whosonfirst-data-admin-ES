@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_32088",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vilamart\u00edn de Valdeorras",
+    "eurostat:nuts_2021_id":"32088",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES113",
+    "eurostat:nuts_2021_level_lau":"32088",
+    "eurostat:population":1812,
+    "eurostat:population_year":2020,
     "geom:area":0.009659,
     "geom:area_square_m":88127747.370906,
     "geom:bbox":"-7.1212547,42.37612089,-6.99862556,42.50864287",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227385
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_32088",
+        "eurostat:nuts_2021_id":"32088"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"5563d0da18a6f3c92e85d206925b3767",
+    "wof:geomhash":"ae4150fcebd96672c0dba3dd78e7061c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404340269,
-    "wof:lastmodified":1566590393,
+    "wof:lastmodified":1684352404,
     "wof:name":"Vilamart\u00edn De Valdeorras",
     "wof:parent_id":85682801,
     "wof:placetype":"localadmin",
+    "wof:population":1812,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

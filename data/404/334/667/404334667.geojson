@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17052,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17052",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Siurana",
+    "eurostat:nuts_2021_id":"17052",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17052",
+    "eurostat:population":171,
+    "eurostat:population_year":2020,
     "geom:area":0.001146,
-    "geom:area_square_m":10499412.935052,
+    "geom:area_square_m":10499412.935053,
     "geom:bbox":"2.98289818123,42.1934555491,3.03453995874,42.2309561195",
     "geom:latitude":42.211884,
     "geom:longitude":3.007183,
@@ -82,6 +94,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -90,7 +104,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17052",
         "esp-icgc:la_lc":"017052",
+        "eurostat:nuts_2021_id":"17052",
         "gn:id":6534149,
         "gp:id":12693867,
         "qs_pg:id":1260090
@@ -100,7 +116,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"38d2b038247b3b8e18ec174c5f9f9684",
+    "wof:geomhash":"298898f99dbfb08a7e56dda79f71bc26",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,10 +127,12 @@
         }
     ],
     "wof:id":404334667,
-    "wof:lastmodified":1582361728,
+    "wof:lastmodified":1684352304,
     "wof:name":"Siurana",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":171,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

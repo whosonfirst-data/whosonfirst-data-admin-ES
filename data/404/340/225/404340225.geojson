@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_32068",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ramir\u00e1s",
+    "eurostat:nuts_2021_id":"32068",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES113",
+    "eurostat:nuts_2021_level_lau":"32068",
+    "eurostat:population":1551,
+    "eurostat:population_year":2020,
     "geom:area":0.004431,
-    "geom:area_square_m":40604353.495638,
+    "geom:area_square_m":40604353.495636,
     "geom:bbox":"-8.08519973,42.14473718,-7.97463419,42.22383152",
     "geom:latitude":42.182721,
     "geom:longitude":-8.037555,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_32068",
+        "eurostat:nuts_2021_id":"32068",
         "gp:id":12694927,
         "qs_pg:id":241333
     },
@@ -123,7 +139,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9ad86eaf753b57f3ba6d125f3c88b6f6",
+    "wof:geomhash":"a914e06db38258b584e3d09b5777cab5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404340225,
-    "wof:lastmodified":1582361662,
+    "wof:lastmodified":1684352404,
     "wof:name":"Ramir\u00e1s",
     "wof:parent_id":85682801,
     "wof:placetype":"localadmin",
+    "wof:population":1551,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

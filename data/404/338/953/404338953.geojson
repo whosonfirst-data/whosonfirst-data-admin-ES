@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28123",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rivas-Vaciamadrid",
+    "eurostat:nuts_2021_id":"28123",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28123",
+    "eurostat:population":90973,
+    "eurostat:population_year":2020,
     "geom:area":0.007138,
-    "geom:area_square_m":67274861.059222,
+    "geom:area_square_m":67274861.059224,
     "geom:bbox":"-3.58507444,40.28711992,-3.46996904,40.41103868",
     "geom:latitude":40.339846,
     "geom:longitude":-3.528269,
@@ -135,6 +147,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -142,9 +156,12 @@
         404227387
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_28123",
+        "eurostat:nuts_2021_id":"28123"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"c38800a083c1e8ba7518bef7e3311dc1",
+    "wof:geomhash":"1176e8f50e331c02fc1e85c220e35961",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +172,12 @@
         }
     ],
     "wof:id":404338953,
-    "wof:lastmodified":1566589584,
+    "wof:lastmodified":1684352385,
     "wof:name":"Rivas-Vaciamadrid",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":90973,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

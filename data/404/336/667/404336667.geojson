@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22115",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grado, El",
+    "eurostat:nuts_2021_id":"22115",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22115",
+    "eurostat:population":395,
+    "eurostat:population_year":2020,
     "geom:area":0.006944,
-    "geom:area_square_m":63678270.74269,
+    "geom:area_square_m":63678270.742688,
     "geom:bbox":"0.13052135,42.06231256,0.26604965,42.18602652",
     "geom:latitude":42.130622,
     "geom:longitude":0.202459,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22115",
+        "eurostat:nuts_2021_id":"22115",
         "gn:id":6358347,
         "gp:id":12689489,
         "qs_pg:id":1306604
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d3b762dd51ddca577c5e1223e450ecf1",
+    "wof:geomhash":"067da051887144a613ce3a98f7d8f7e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404336667,
-    "wof:lastmodified":1582361464,
+    "wof:lastmodified":1684352342,
     "wof:name":"El Grado",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":395,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

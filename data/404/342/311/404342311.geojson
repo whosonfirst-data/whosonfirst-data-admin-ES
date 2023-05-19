@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arahuetes",
+    "eurostat:nuts_2021_id":"40019",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40019",
+    "eurostat:population":28,
+    "eurostat:population_year":2020,
     "geom:area":0.001755,
-    "geom:area_square_m":16337367.630254,
+    "geom:area_square_m":16337367.630252,
     "geom:bbox":"-3.89511466,41.12753196,-3.83225191,41.17723542",
     "geom:latitude":41.148914,
     "geom:longitude":-3.860762,
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_40019",
+        "eurostat:nuts_2021_id":"40019",
         "gn:id":6360764,
         "gp:id":12692529,
         "qs_pg:id":892225
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1bbd15b9743937c41520b7768f4e9b08",
+    "wof:geomhash":"a5ab49a3efe23180605218a6509af006",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404342311,
-    "wof:lastmodified":1582361822,
+    "wof:lastmodified":1684352438,
     "wof:name":"Arahuetes",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":28,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

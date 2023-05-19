@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44149",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mirambel",
+    "eurostat:nuts_2021_id":"44149",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44149",
+    "eurostat:population":116,
+    "eurostat:population_year":2020,
     "geom:area":0.004836,
-    "geom:area_square_m":45418699.247091,
+    "geom:area_square_m":45418699.247092,
     "geom:bbox":"-0.42169834,40.54536323,-0.29328561,40.61291676",
     "geom:latitude":40.576023,
     "geom:longitude":-0.353756,
@@ -105,6 +117,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -112,9 +126,12 @@
         404227363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_44149",
+        "eurostat:nuts_2021_id":"44149"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"de909866d7f23fc181d0b3251565b3ad",
+    "wof:geomhash":"e204afd718f2e20471b3ece854d1d389",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +142,12 @@
         }
     ],
     "wof:id":404344101,
-    "wof:lastmodified":1566591104,
+    "wof:lastmodified":1684352469,
     "wof:name":"Mirambel",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":116,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

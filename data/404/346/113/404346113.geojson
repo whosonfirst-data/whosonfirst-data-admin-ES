@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48093",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Areatza",
+    "eurostat:nuts_2021_id":"48093",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48093",
+    "eurostat:population":1216,
+    "eurostat:population_year":2020,
     "geom:area":0.001008,
-    "geom:area_square_m":9100940.510151,
+    "geom:area_square_m":9100940.51015,
     "geom:bbox":"-2.81138253,43.07075234,-2.76308184,43.12822834",
     "geom:latitude":43.102224,
     "geom:longitude":-2.790346,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_48093",
+        "eurostat:nuts_2021_id":"48093",
         "gn:id":6362432,
         "gp:id":12695165,
         "qs_pg:id":1164960
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1994450bc88cd3cf6c83ad1c5dc10525",
+    "wof:geomhash":"1372f4427a943e74e39cd1cc435da3d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404346113,
-    "wof:lastmodified":1582361621,
+    "wof:lastmodified":1684352495,
     "wof:name":"Areatza",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":1216,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46220",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sagunto / Sagunt",
+    "eurostat:nuts_2021_id":"46220",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46220",
+    "eurostat:population":67173,
+    "eurostat:population_year":2020,
     "geom:area":0.013932,
-    "geom:area_square_m":132562056.431816,
+    "geom:area_square_m":132562056.431815,
     "geom:bbox":"-0.37936849,39.61350741,-0.18850181,39.80148214",
     "geom:latitude":39.690543,
     "geom:longitude":-0.278812,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46220",
+        "eurostat:nuts_2021_id":"46220",
         "gn:id":6362085,
         "qs_pg:id":103411
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"db1d02b2340150a98cd804d1d879150f",
+    "wof:geomhash":"32fabf406f5f96115f7567b0161b0361",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404345293,
-    "wof:lastmodified":1582361830,
+    "wof:lastmodified":1684352484,
     "wof:name":"Sagunto/Sagunt",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":67173,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16100",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hinojosos, Los",
+    "eurostat:nuts_2021_id":"16100",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16100",
+    "eurostat:population":784,
+    "eurostat:population_year":2020,
     "geom:area":0.011948,
-    "geom:area_square_m":113840504.302817,
+    "geom:area_square_m":113840504.302815,
     "geom:bbox":"-2.92551422,39.5353356,-2.78054574,39.65992196",
     "geom:latitude":39.597829,
     "geom:longitude":-2.853828,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16100",
+        "eurostat:nuts_2021_id":"16100",
         "gn:id":6357449,
         "gp:id":12690489,
         "qs_pg:id":1306854
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"562f3619d17c573ee90f80a3127fa397",
+    "wof:geomhash":"db3c8252f0ceb5590085dd30d010124c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404334219,
-    "wof:lastmodified":1582361724,
+    "wof:lastmodified":1684352295,
     "wof:name":"Los Hinojosos",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":784,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

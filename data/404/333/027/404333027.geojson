@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_11009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Benaocaz",
+    "eurostat:nuts_2021_id":"11009",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES612",
+    "eurostat:nuts_2021_level_lau":"11009",
+    "eurostat:population":673,
+    "eurostat:population_year":2020,
     "geom:area":0.006999,
-    "geom:area_square_m":69373728.095587,
+    "geom:area_square_m":69373728.095584,
     "geom:bbox":"-5.5437686,36.65450532,-5.38832991,36.75459308",
     "geom:latitude":36.712379,
     "geom:longitude":-5.452535,
@@ -132,6 +144,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -140,6 +154,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_11009",
+        "eurostat:nuts_2021_id":"11009",
         "gn:id":6356924,
         "gp:id":12688736,
         "qs_pg:id":246394
@@ -148,7 +164,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cb06f725beb805ddd0fbb92efe3bd0c6",
+    "wof:geomhash":"cefae6489a47042a498f2a1c285e7a7f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,10 +175,12 @@
         }
     ],
     "wof:id":404333027,
-    "wof:lastmodified":1582361777,
+    "wof:lastmodified":1684352273,
     "wof:name":"Benaocaz",
     "wof:parent_id":85682679,
     "wof:placetype":"localadmin",
+    "wof:population":673,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

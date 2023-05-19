@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10029",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Berzocana",
+    "eurostat:nuts_2021_id":"10029",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10029",
+    "eurostat:population":414,
+    "eurostat:population_year":2020,
     "geom:area":0.013979,
-    "geom:area_square_m":133473490.873117,
+    "geom:area_square_m":133473490.873114,
     "geom:bbox":"-5.57845442,39.37750753,-5.41436511,39.5577406",
     "geom:latitude":39.449755,
     "geom:longitude":-5.508362,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10029",
+        "eurostat:nuts_2021_id":"10029",
         "gn:id":6356726,
         "gp:id":12694511,
         "qs_pg:id":209734
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"46fe1a7c47c87fd26cb959f4389dedf2",
+    "wof:geomhash":"a5ac5f9e87197452b863163ffdcf070e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404332575,
-    "wof:lastmodified":1582361683,
+    "wof:lastmodified":1684352266,
     "wof:name":"Berzocana",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":414,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

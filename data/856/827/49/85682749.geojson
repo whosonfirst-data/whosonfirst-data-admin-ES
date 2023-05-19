@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"1",
+    "eurostat:country_code":"ES",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"Huelva",
+    "eurostat:name_local":"Huelva",
+    "eurostat:nuts_2021_id":"ES615",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES615",
+    "eurostat:population":532940,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"2",
     "geom:area":1.032855,
-    "geom:area_square_m":10121642930.167057,
+    "geom:area_square_m":10121642599.785492,
     "geom:bbox":"-7.522878,36.794973,-6.121559,38.208317",
     "geom:latitude":37.577305,
     "geom:longitude":-6.829321,
@@ -306,6 +320,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "unlc:subdivision":"ES-H",
     "wof:belongsto":[
         102191581,
@@ -315,6 +331,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":23999,
+        "eurostat:nuts_2021_id":"ES615",
         "fips:code":"SP80",
         "gn:id":2516547,
         "gp:id":12602100,
@@ -322,7 +339,7 @@
         "unlc:id":"ES-H"
     },
     "wof:country":"ES",
-    "wof:geomhash":"432852951647fee830ce074ffd15e6ce",
+    "wof:geomhash":"202434b2d2df6b3b854fc9c694cefc99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -342,10 +359,12 @@
         "eus",
         "ast"
     ],
-    "wof:lastmodified":1636503245,
+    "wof:lastmodified":1684351555,
     "wof:name":"Huelva",
     "wof:parent_id":404227361,
     "wof:placetype":"region",
+    "wof:population":532940,
+    "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:shortcode":"AN",
     "wof:subdivision":"ES-H",

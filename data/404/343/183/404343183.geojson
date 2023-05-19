@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Langa de Duero",
+    "eurostat:nuts_2021_id":"42103",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42103",
+    "eurostat:population":683,
+    "eurostat:population_year":2020,
     "geom:area":0.020513,
-    "geom:area_square_m":189642158.4547,
+    "geom:area_square_m":189642158.454699,
     "geom:bbox":"-3.47073989,41.47612021,-3.27510407,41.70463699",
     "geom:latitude":41.611482,
     "geom:longitude":-3.376334,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42103",
+        "eurostat:nuts_2021_id":"42103",
         "gn:id":6361150,
         "gp:id":12692809,
         "qs_pg:id":1196692
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e73e4691933c2b3bed62fa1da2db677c",
+    "wof:geomhash":"960239495e65af86a2d3b131331d370d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404343183,
-    "wof:lastmodified":1582361893,
+    "wof:lastmodified":1684352448,
     "wof:name":"Langa De Duero",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":683,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

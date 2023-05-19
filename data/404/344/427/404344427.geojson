@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carriches",
+    "eurostat:nuts_2021_id":"45039",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45039",
+    "eurostat:population":260,
+    "eurostat:population_year":2020,
     "geom:area":0.001968,
-    "geom:area_square_m":18655287.979173,
+    "geom:area_square_m":18655287.979172,
     "geom:bbox":"-4.48480337,39.94211828,-4.4261133,39.99066875",
     "geom:latitude":39.96649,
     "geom:longitude":-4.457979,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45039",
+        "eurostat:nuts_2021_id":"45039",
         "gn:id":6361700,
         "gp:id":12690961,
         "qs_pg:id":1158719
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"502a4c34c867a51123e319654fd1f31b",
+    "wof:geomhash":"743b71094e0c9d0bb034498342918733",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404344427,
-    "wof:lastmodified":1582361855,
+    "wof:lastmodified":1684352473,
     "wof:name":"Carriches",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":260,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8220,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08220",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Juli\u00e0 de Vilatorta",
+    "eurostat:nuts_2021_id":"08220",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08220",
+    "eurostat:population":3140,
+    "eurostat:population_year":2020,
     "geom:area":0.001755,
-    "geom:area_square_m":16154344.882969,
+    "geom:area_square_m":16154369.236048,
     "geom:bbox":"2.296453,41.875258,2.363028,41.934297",
     "geom:latitude":41.907132,
     "geom:longitude":2.32558,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08220",
         "esp-icgc:la_lc":"08220",
+        "eurostat:nuts_2021_id":"08220",
         "gn:id":6356242,
         "gp:id":12693596,
         "qs_pg:id":245147
@@ -67,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"afd995ffa0d7ee7de0a71e1c11783af4",
+    "wof:geomhash":"df3692309a2cf6cf3233837928cc7be2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404331369,
-    "wof:lastmodified":1669903007,
+    "wof:lastmodified":1684352249,
     "wof:name":"Sant Juli\u00e0 de Vilatorta",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":3140,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25909,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25909",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vansa i F\u00f3rnols, La",
+    "eurostat:nuts_2021_id":"25909",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25909",
+    "eurostat:population":149,
+    "eurostat:population_year":2020,
     "geom:area":0.011575,
-    "geom:area_square_m":105946670.920865,
+    "geom:area_square_m":105946554.873922,
     "geom:bbox":"1.40295,42.183313,1.595896,42.303941",
     "geom:latitude":42.246885,
     "geom:longitude":1.496951,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25909",
         "esp-icgc:la_lc":"025909",
+        "eurostat:nuts_2021_id":"25909",
         "gp:id":12694123,
         "qs_pg:id":1308304
     },
@@ -66,7 +82,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"a9c08d4cf219450c1e9117a41a7342f5",
+    "wof:geomhash":"1666973f8cc6b6e6ae00705e86369841",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,10 +93,12 @@
         }
     ],
     "wof:id":404338129,
-    "wof:lastmodified":1669902993,
+    "wof:lastmodified":1684352372,
     "wof:name":"La Vansa i F\u00f3rnols",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":149,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37381",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zarza de Pumareda, La",
+    "eurostat:nuts_2021_id":"37381",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37381",
+    "eurostat:population":142,
+    "eurostat:population_year":2020,
     "geom:area":0.003036,
     "geom:area_square_m":28264000.649529,
     "geom:bbox":"-6.65454071,41.11531616,-6.58462969,41.18520776",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37381",
+        "eurostat:nuts_2021_id":"37381",
         "gn:id":6360617,
         "gp:id":12692510,
         "qs_pg:id":621849
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d7168b797bcaf821ce5f89bb44e26a9e",
+    "wof:geomhash":"d95b9fa741e18f724175c98137c7e617",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404341915,
-    "wof:lastmodified":1582361631,
+    "wof:lastmodified":1684352430,
     "wof:name":"La Zarza De Pumareda",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":142,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Coir\u00f3s",
+    "eurostat:nuts_2021_id":"15027",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15027",
+    "eurostat:population":1853,
+    "eurostat:population_year":2020,
     "geom:area":0.003724,
-    "geom:area_square_m":33544928.368603,
+    "geom:area_square_m":33544928.368599,
     "geom:bbox":"-8.19712314,43.21015251,-8.07462064,43.28236044",
     "geom:latitude":43.241826,
     "geom:longitude":-8.138152,
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_15027",
+        "eurostat:nuts_2021_id":"15027",
         "gn:id":6357297,
         "gp:id":12694729,
         "qs_pg:id":1198238
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8aa3dd5617f015969cf9b261f6a4a2c5",
+    "wof:geomhash":"c624d03bbe15125fc6cb96b62ed034e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404333869,
-    "wof:lastmodified":1582361767,
+    "wof:lastmodified":1684352287,
     "wof:name":"Coir\u00f3s",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":1853,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

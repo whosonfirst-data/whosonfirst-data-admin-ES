@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45091",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Maqueda",
+    "eurostat:nuts_2021_id":"45091",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45091",
+    "eurostat:population":443,
+    "eurostat:population_year":2020,
     "geom:area":0.007779,
-    "geom:area_square_m":73600842.698972,
+    "geom:area_square_m":73600842.698971,
     "geom:bbox":"-4.45320184,40.03314646,-4.26151477,40.12154704",
     "geom:latitude":40.078462,
     "geom:longitude":-4.365626,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45091",
+        "eurostat:nuts_2021_id":"45091",
         "gn:id":6361751,
         "gp:id":12691012,
         "qs_pg:id":1147252
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2d01db358b64e9d41e439043c08f1603",
+    "wof:geomhash":"4dddba6984fa6a5a804f3c8c82eaa166",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404344543,
-    "wof:lastmodified":1582361850,
+    "wof:lastmodified":1684352475,
     "wof:name":"Maqueda",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":443,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

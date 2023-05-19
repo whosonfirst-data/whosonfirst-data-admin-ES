@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31908",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lekunberri",
+    "eurostat:nuts_2021_id":"31908",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31908",
+    "eurostat:population":1574,
+    "eurostat:population_year":2020,
     "geom:area":0.00074,
-    "geom:area_square_m":6693854.793004,
+    "geom:area_square_m":6693854.793005,
     "geom:bbox":"-1.92742781,42.99628028,-1.88428601,43.02971208",
     "geom:latitude":43.010916,
     "geom:longitude":-1.904423,
@@ -45,6 +57,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -53,6 +67,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31908",
+        "eurostat:nuts_2021_id":"31908",
         "gn:id":6359819,
         "gp:id":24544630,
         "qs_pg:id":1164981
@@ -61,7 +77,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d95ab3371356d0c692b49c1b0c61e291",
+    "wof:geomhash":"acb27752b1bfabcaeb8dd005bd487b7a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
         }
     ],
     "wof:id":404340071,
-    "wof:lastmodified":1582361650,
+    "wof:lastmodified":1684352402,
     "wof:name":"Lekunberri",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":1574,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

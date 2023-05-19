@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05235",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sinlabajos",
+    "eurostat:nuts_2021_id":"05235",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05235",
+    "eurostat:population":143,
+    "eurostat:population_year":2020,
     "geom:area":0.002151,
-    "geom:area_square_m":20045977.926969,
+    "geom:area_square_m":20045977.926968,
     "geom:bbox":"-4.87627825,41.05573734,-4.80276682,41.10073087",
     "geom:latitude":41.077301,
     "geom:longitude":-4.843006,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05235",
+        "eurostat:nuts_2021_id":"05235",
         "gn:id":6355832,
         "gp:id":12691344,
         "qs_pg:id":46201
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f2ab9bd9a8f181c96e36c1ea53a14079",
+    "wof:geomhash":"c80b7704f62fd0c1e6ea5dfccd91692d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404330279,
-    "wof:lastmodified":1582361536,
+    "wof:lastmodified":1684352221,
     "wof:name":"Sinlabajos",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":143,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

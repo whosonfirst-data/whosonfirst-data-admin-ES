@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_33025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Goz\u00f3n",
+    "eurostat:nuts_2021_id":"33025",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES12",
+    "eurostat:nuts_2021_level_3":"ES120",
+    "eurostat:nuts_2021_level_lau":"33025",
+    "eurostat:population":10282,
+    "eurostat:population_year":2020,
     "geom:area":0.009175,
-    "geom:area_square_m":82155723.81994,
+    "geom:area_square_m":82155723.819938,
     "geom:bbox":"-5.9480296,43.55212899,-5.7651595,43.66653223",
     "geom:latitude":43.603188,
     "geom:longitude":-5.848666,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_33025",
+        "eurostat:nuts_2021_id":"33025",
         "gn:id":6359930,
         "gp:id":12688468,
         "qs_pg:id":1059704
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b9a37767e2558e8c8e95a4df0af8783f",
+    "wof:geomhash":"391207b257b26254bf06d95ee1078175",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404340335,
-    "wof:lastmodified":1582361658,
+    "wof:lastmodified":1684352406,
     "wof:name":"Goz\u00f3n",
     "wof:parent_id":85682805,
     "wof:placetype":"localadmin",
+    "wof:population":10282,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

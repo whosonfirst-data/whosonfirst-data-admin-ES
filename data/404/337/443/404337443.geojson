@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24150",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Pedro Bercianos",
+    "eurostat:nuts_2021_id":"24150",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24150",
+    "eurostat:population":231,
+    "eurostat:population_year":2020,
     "geom:area":0.002572,
-    "geom:area_square_m":23479670.740486,
+    "geom:area_square_m":23479670.740484,
     "geom:bbox":"-5.76347257,42.37969023,-5.67527407,42.44542788",
     "geom:latitude":42.412067,
     "geom:longitude":-5.719897,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_24150",
+        "eurostat:nuts_2021_id":"24150",
         "gn:id":6358685,
         "gp:id":12691882,
         "qs_pg:id":46432
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4eb65353f83d26f3ecebc721cc0c683b",
+    "wof:geomhash":"15538458f802f58944bf7e0a1842d97a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404337443,
-    "wof:lastmodified":1582361568,
+    "wof:lastmodified":1684352352,
     "wof:name":"San Pedro Bercianos",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":231,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

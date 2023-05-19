@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cabezamesada",
+    "eurostat:nuts_2021_id":"45027",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45027",
+    "eurostat:population":343,
+    "eurostat:population_year":2020,
     "geom:area":0.006294,
-    "geom:area_square_m":59770035.84325,
+    "geom:area_square_m":59770035.843249,
     "geom:bbox":"-3.15007533,39.76474546,-3.01552713,39.87607643",
     "geom:latitude":39.825294,
     "geom:longitude":-3.091527,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45027",
+        "eurostat:nuts_2021_id":"45027",
         "gn:id":6361688,
         "gp:id":12690949,
         "qs_pg:id":46031
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0b8c80e4afa9c79e59c7026ce4d019cd",
+    "wof:geomhash":"9a123e7930f1e339d8fb305f1e1f556a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404344401,
-    "wof:lastmodified":1582361847,
+    "wof:lastmodified":1684352473,
     "wof:name":"Cabezamesada",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":343,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

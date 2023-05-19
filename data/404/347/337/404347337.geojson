@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50285",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villafranca de Ebro",
+    "eurostat:nuts_2021_id":"50285",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50285",
+    "eurostat:population":838,
+    "eurostat:population_year":2020,
     "geom:area":0.00687,
-    "geom:area_square_m":63550143.92411,
+    "geom:area_square_m":63550143.924109,
     "geom:bbox":"-0.68457537,41.53214374,-0.50886756,41.6193856",
     "geom:latitude":41.575001,
     "geom:longitude":-0.577994,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50285",
+        "eurostat:nuts_2021_id":"50285",
         "gn:id":6362971,
         "gp:id":12690110,
         "qs_pg:id":1003647
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8ed8e5a1240341e6256217c271879815",
+    "wof:geomhash":"f21bf6ed899e3576ac2dab91e8dbbf19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404347337,
-    "wof:lastmodified":1582361669,
+    "wof:lastmodified":1684352510,
     "wof:name":"Villafranca De Ebro",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":838,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

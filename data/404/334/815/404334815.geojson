@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":17125,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17125",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pardines",
+    "eurostat:nuts_2021_id":"17125",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17125",
+    "eurostat:population":169,
+    "eurostat:population_year":2020,
     "geom:area":0.003431,
     "geom:area_square_m":31372943.199456,
     "geom:bbox":"2.19091488949,42.27829609,2.27836388502,42.3403859021",
@@ -88,6 +100,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -96,7 +110,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17125",
         "esp-icgc:la_lc":"017125",
+        "eurostat:nuts_2021_id":"17125",
         "gn:id":6357617,
         "gp:id":12693802,
         "qs_pg:id":47481
@@ -106,7 +122,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"79f32582a307cd34904fc646f77f3669",
+    "wof:geomhash":"60b54c492061570fd3314517496211db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404334815,
-    "wof:lastmodified":1582361745,
+    "wof:lastmodified":1684352310,
     "wof:name":"Pardines",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":169,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

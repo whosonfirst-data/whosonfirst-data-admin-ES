@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":17118,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17118",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Palam\u00f3s",
+    "eurostat:nuts_2021_id":"17118",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17118",
+    "eurostat:population":18135,
+    "eurostat:population_year":2020,
     "geom:area":0.001513,
     "geom:area_square_m":13936563.706198,
     "geom:bbox":"3.09610444927,41.840680415,3.18643236011,41.8896086127",
@@ -142,6 +154,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -150,7 +164,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17118",
         "esp-icgc:la_lc":"017118",
+        "eurostat:nuts_2021_id":"17118",
         "gn:id":6534092,
         "gp:id":12693796,
         "qs_pg:id":51784
@@ -160,7 +176,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c8f273f9269f8954e3c0af3c8498fa86",
+    "wof:geomhash":"2c12d591d02a97e2db45357d28318a41",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -171,10 +187,12 @@
         }
     ],
     "wof:id":404334803,
-    "wof:lastmodified":1582361728,
+    "wof:lastmodified":1684352310,
     "wof:name":"Palam\u00f3s",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":18135,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49065",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fermoselle",
+    "eurostat:nuts_2021_id":"49065",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49065",
+    "eurostat:population":1164,
+    "eurostat:population_year":2020,
     "geom:area":0.007326,
-    "geom:area_square_m":68041128.056364,
+    "geom:area_square_m":68041128.056363,
     "geom:bbox":"-6.47970711,41.26940197,-6.31704389,41.35328785",
     "geom:latitude":41.310638,
     "geom:longitude":-6.386334,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_49065",
+        "eurostat:nuts_2021_id":"49065",
         "gn:id":6362508,
         "gp:id":12693187,
         "qs_pg:id":1102786
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2fe811ed678fc33d21789bf64991b214",
+    "wof:geomhash":"f285f2656b6f447f9dca7a56cbff0e8e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404346291,
-    "wof:lastmodified":1582361619,
+    "wof:lastmodified":1684352497,
     "wof:name":"Fermoselle",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":1164,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

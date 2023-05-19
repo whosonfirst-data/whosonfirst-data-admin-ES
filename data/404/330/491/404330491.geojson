@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Guare\u00f1a",
+    "eurostat:nuts_2021_id":"06060",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06060",
+    "eurostat:population":6888,
+    "eurostat:population_year":2020,
     "geom:area":0.024749,
-    "geom:area_square_m":238160714.598059,
+    "geom:area_square_m":238160714.598062,
     "geom:bbox":"-6.19040616,38.74987536,-5.98279424,39.03386563",
     "geom:latitude":38.900807,
     "geom:longitude":-6.088389,
@@ -129,6 +141,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -137,6 +151,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06060",
+        "eurostat:nuts_2021_id":"06060",
         "gn:id":6355925,
         "gp:id":12694379,
         "qs_pg:id":1311110
@@ -145,7 +161,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9e3c81ef8e52a19e35e2df9a799a76f8",
+    "wof:geomhash":"407bc5d9d9b4ecbff73f2fcd9f1697c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404330491,
-    "wof:lastmodified":1582361528,
+    "wof:lastmodified":1684352225,
     "wof:name":"Guare\u00f1a",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":6888,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

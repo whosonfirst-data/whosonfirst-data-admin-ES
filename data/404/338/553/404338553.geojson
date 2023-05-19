@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_27009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carballedo",
+    "eurostat:nuts_2021_id":"27009",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES112",
+    "eurostat:nuts_2021_level_lau":"27009",
+    "eurostat:population":2139,
+    "eurostat:population_year":2020,
     "geom:area":0.015213,
-    "geom:area_square_m":138633400.733062,
+    "geom:area_square_m":138633400.733064,
     "geom:bbox":"-7.93074913,42.45102918,-7.70302133,42.61042118",
     "geom:latitude":42.523728,
     "geom:longitude":-7.8094,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_27009",
+        "eurostat:nuts_2021_id":"27009",
         "gn:id":6359171,
         "gp:id":12694806,
         "qs_pg:id":270799
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"79805e864037ef108bb93dfd297d0d01",
+    "wof:geomhash":"f06531eaa361ccf16c98398e5990e3e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404338553,
-    "wof:lastmodified":1582361446,
+    "wof:lastmodified":1684352377,
     "wof:name":"Carballedo",
     "wof:parent_id":85682775,
     "wof:placetype":"localadmin",
+    "wof:population":2139,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

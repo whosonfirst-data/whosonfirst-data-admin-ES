@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42207",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villar del Ala",
+    "eurostat:nuts_2021_id":"42207",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42207",
+    "eurostat:population":49,
+    "eurostat:population_year":2020,
     "geom:area":0.00127,
     "geom:area_square_m":11686016.691102,
     "geom:bbox":"-2.60133364,41.89280649,-2.53003592,41.92665824",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42207",
+        "eurostat:nuts_2021_id":"42207",
         "gn:id":6361233,
         "gp:id":12692892,
         "qs_pg:id":204698
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"748dfc19c3eb289ce79c88728b3a7197",
+    "wof:geomhash":"8c064fec715d68ae854557e507a7a261",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404343371,
-    "wof:lastmodified":1582361876,
+    "wof:lastmodified":1684352450,
     "wof:name":"Villar Del Ala",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":49,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

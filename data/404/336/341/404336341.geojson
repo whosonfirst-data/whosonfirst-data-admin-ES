@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_21027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cumbres de Enmedio",
+    "eurostat:nuts_2021_id":"21027",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES615",
+    "eurostat:nuts_2021_level_lau":"21027",
+    "eurostat:population":51,
+    "eurostat:population_year":2020,
     "geom:area":0.001391,
     "geom:area_square_m":13543520.376587,
     "geom:bbox":"-6.71505161,38.0506623,-6.67566447,38.10023185",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_21027",
+        "eurostat:nuts_2021_id":"21027",
         "gn:id":6358203,
         "gp:id":12689042,
         "qs_pg:id":204550
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5878c652fc6b988b718789d23fbde2b3",
+    "wof:geomhash":"b6bd9fdd7d2f027d82c4fc72884a47f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404336341,
-    "wof:lastmodified":1582361466,
+    "wof:lastmodified":1684352337,
     "wof:name":"Cumbres De Enmedio",
     "wof:parent_id":85682749,
     "wof:placetype":"localadmin",
+    "wof:population":51,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

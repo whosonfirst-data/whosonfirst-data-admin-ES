@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12110",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Teresa",
+    "eurostat:nuts_2021_id":"12110",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12110",
+    "eurostat:population":247,
+    "eurostat:population_year":2020,
     "geom:area":0.002094,
-    "geom:area_square_m":19866405.175265,
+    "geom:area_square_m":19866405.175264,
     "geom:bbox":"-0.71013163,39.85654172,-0.64007698,39.92065168",
     "geom:latitude":39.888709,
     "geom:longitude":-0.674894,
@@ -63,6 +75,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -71,6 +85,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12110",
+        "eurostat:nuts_2021_id":"12110",
         "gn:id":6357060,
         "gp:id":12695509,
         "qs_pg:id":48503
@@ -79,7 +95,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3937f9aa711bf49e35b16b0e7d814999",
+    "wof:geomhash":"b6d0a09682db956e28d07958591f1d50",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,10 +106,12 @@
         }
     ],
     "wof:id":404333333,
-    "wof:lastmodified":1582361775,
+    "wof:lastmodified":1684352277,
     "wof:name":"Teresa",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":247,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

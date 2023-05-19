@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19122",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fuentelsaz",
+    "eurostat:nuts_2021_id":"19122",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19122",
+    "eurostat:population":89,
+    "eurostat:population_year":2020,
     "geom:area":0.004323,
-    "geom:area_square_m":40312735.023625,
+    "geom:area_square_m":40312735.023623,
     "geom:bbox":"-1.86351939,41.01543389,-1.76215862,41.09528232",
     "geom:latitude":41.055041,
     "geom:longitude":-1.819482,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19122",
+        "eurostat:nuts_2021_id":"19122",
         "gn:id":6357905,
         "gp:id":12690735,
         "qs_pg:id":1095325
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b8bdbd2586e1d823ed1f4779563219fd",
+    "wof:geomhash":"73b3ea5297bfb5f15238833db3013eeb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404335657,
-    "wof:lastmodified":1582361701,
+    "wof:lastmodified":1684352328,
     "wof:name":"Fuentelsaz",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":89,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

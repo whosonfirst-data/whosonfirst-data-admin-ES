@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_21013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bollullos Par del Condado",
+    "eurostat:nuts_2021_id":"21013",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES615",
+    "eurostat:nuts_2021_level_lau":"21013",
+    "eurostat:population":14387,
+    "eurostat:population_year":2020,
     "geom:area":0.005017,
-    "geom:area_square_m":49324145.529411,
+    "geom:area_square_m":49324145.529412,
     "geom:bbox":"-6.59170685,37.28758024,-6.47206166,37.36184386",
     "geom:latitude":37.330278,
     "geom:longitude":-6.5359,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_21013",
+        "eurostat:nuts_2021_id":"21013",
         "gn:id":6358189,
         "gp:id":12689027,
         "qs_pg:id":232082
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a4cb564f2bebf2da557420a6968fc6a2",
+    "wof:geomhash":"597d931591b4a48c74a3eadd808545a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404336309,
-    "wof:lastmodified":1582361459,
+    "wof:lastmodified":1684352336,
     "wof:name":"Bollullos Par Del Condado",
     "wof:parent_id":85682749,
     "wof:placetype":"localadmin",
+    "wof:population":14387,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

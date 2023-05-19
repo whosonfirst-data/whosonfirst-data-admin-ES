@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03110",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"R\u00e0fol d'Alm\u00fania, el",
+    "eurostat:nuts_2021_id":"03110",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03110",
+    "eurostat:population":648,
+    "eurostat:population_year":2020,
     "geom:area":0.000506,
-    "geom:area_square_m":4874192.059956,
+    "geom:area_square_m":4874192.059957,
     "geom:bbox":"-0.06587864,38.80719057,-0.03580957,38.85005241",
     "geom:latitude":38.830799,
     "geom:longitude":-0.050921,
@@ -33,6 +45,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -41,6 +55,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03110",
+        "eurostat:nuts_2021_id":"03110",
         "gn:id":6355484,
         "gp:id":12695376,
         "qs_pg:id":621521
@@ -49,7 +65,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"653e0e680878e069d4c972a29929ea15",
+    "wof:geomhash":"1e32e8cbae6703d1d500ca1b73b0b6bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +76,12 @@
         }
     ],
     "wof:id":404329495,
-    "wof:lastmodified":1582361801,
+    "wof:lastmodified":1684352210,
     "wof:name":"El R\u00e0fol D'Alm\u00fania",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":648,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

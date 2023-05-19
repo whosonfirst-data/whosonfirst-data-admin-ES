@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_21022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casta\u00f1o del Robledo",
+    "eurostat:nuts_2021_id":"21022",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES615",
+    "eurostat:nuts_2021_level_lau":"21022",
+    "eurostat:population":228,
+    "eurostat:population_year":2020,
     "geom:area":0.001324,
-    "geom:area_square_m":12923093.017411,
+    "geom:area_square_m":12923093.01741,
     "geom:bbox":"-6.71845265,37.86136357,-6.64724607,37.90831454",
     "geom:latitude":37.888108,
     "geom:longitude":-6.687124,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_21022",
+        "eurostat:nuts_2021_id":"21022",
         "gp:id":12689036,
         "qs_pg:id":1306563
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"33cbf0538d2be0713444cfbe91123fb0",
+    "wof:geomhash":"3fe2e27660f7fa558db9a8be9ed1e4b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404336329,
-    "wof:lastmodified":1582361476,
+    "wof:lastmodified":1684352337,
     "wof:name":"Casta\u00f1o Del Robledo",
     "wof:parent_id":85682749,
     "wof:placetype":"localadmin",
+    "wof:population":228,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

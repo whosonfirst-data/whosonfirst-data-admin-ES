@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mora",
+    "eurostat:nuts_2021_id":"45106",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45106",
+    "eurostat:population":9819,
+    "eurostat:population_year":2020,
     "geom:area":0.017699,
-    "geom:area_square_m":168415927.806859,
+    "geom:area_square_m":168415927.806863,
     "geom:bbox":"-3.83718075,39.59531472,-3.65835937,39.78972284",
     "geom:latitude":39.688315,
     "geom:longitude":-3.736724,
@@ -141,6 +153,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -149,6 +163,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45106",
+        "eurostat:nuts_2021_id":"45106",
         "gn:id":6361766,
         "gp:id":12691027,
         "qs_pg:id":1066826
@@ -157,7 +173,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"63f6543e0a5d5da6814ae55622deeedd",
+    "wof:geomhash":"6a7f6daba4288641c03e8e70b287eab5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,10 +184,12 @@
         }
     ],
     "wof:id":404344577,
-    "wof:lastmodified":1582361860,
+    "wof:lastmodified":1684352475,
     "wof:name":"Mora",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":9819,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

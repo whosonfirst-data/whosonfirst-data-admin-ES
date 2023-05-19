@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10110",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Losar de la Vera",
+    "eurostat:nuts_2021_id":"10110",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10110",
+    "eurostat:population":2717,
+    "eurostat:population_year":2020,
     "geom:area":0.008675,
-    "geom:area_square_m":81994953.760168,
+    "geom:area_square_m":81994953.760162,
     "geom:bbox":"-5.6256466,40.04752376,-5.51255964,40.21682665",
     "geom:latitude":40.144745,
     "geom:longitude":-5.579413,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10110",
+        "eurostat:nuts_2021_id":"10110",
         "gn:id":6356805,
         "gp:id":12694591,
         "qs_pg:id":1196809
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c6d47aea948132ab9b8e84f9c30d2bb9",
+    "wof:geomhash":"24ff4bc550bdf7856399e77d7bf4338b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332755,
-    "wof:lastmodified":1582361676,
+    "wof:lastmodified":1684352268,
     "wof:name":"Losar De La Vera",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":2717,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

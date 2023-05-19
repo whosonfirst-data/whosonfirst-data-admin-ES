@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_20009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Andoain",
+    "eurostat:nuts_2021_id":"20009",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES212",
+    "eurostat:nuts_2021_level_lau":"20009",
+    "eurostat:population":14691,
+    "eurostat:population_year":2020,
     "geom:area":0.00301,
-    "geom:area_square_m":27122709.271263,
+    "geom:area_square_m":27122709.271262,
     "geom:bbox":"-2.05685275,43.18571955,-1.96367206,43.2463867",
     "geom:latitude":43.216214,
     "geom:longitude":-2.013219,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_20009",
+        "eurostat:nuts_2021_id":"20009",
         "gn:id":6358100,
         "qs_pg:id":621666
     },
@@ -126,7 +142,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9f3a48b36c973269d4b204fe1cef9244",
+    "wof:geomhash":"3b4483d88ce191d695d4c979f344f4d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404336103,
-    "wof:lastmodified":1582361459,
+    "wof:lastmodified":1684352333,
     "wof:name":"Andoain",
     "wof:parent_id":85682741,
     "wof:placetype":"localadmin",
+    "wof:population":14691,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

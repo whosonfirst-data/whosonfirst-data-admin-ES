@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31153",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lesaka",
+    "eurostat:nuts_2021_id":"31153",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31153",
+    "eurostat:population":2744,
+    "eurostat:population_year":2020,
     "geom:area":0.006153,
-    "geom:area_square_m":55405286.354529,
+    "geom:area_square_m":55405286.354531,
     "geom:bbox":"-1.79585628,43.21941245,-1.66928564,43.29544218",
     "geom:latitude":43.258684,
     "geom:longitude":-1.737992,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31153",
+        "eurostat:nuts_2021_id":"31153",
         "gn:id":6359701,
         "gp:id":12688330,
         "qs_pg:id":191145
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6037915e487a66df6e8b3ac3c8e931e9",
+    "wof:geomhash":"40c1984c5148d6ebc1900f601d3ca9c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404339801,
-    "wof:lastmodified":1582361595,
+    "wof:lastmodified":1684352398,
     "wof:name":"Lesaka",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":2744,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

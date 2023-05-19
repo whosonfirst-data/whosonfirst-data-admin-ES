@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_02068",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Robledo",
+    "eurostat:nuts_2021_id":"02068",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES421",
+    "eurostat:nuts_2021_level_lau":"02068",
+    "eurostat:population":376,
+    "eurostat:population_year":2020,
     "geom:area":0.012448,
-    "geom:area_square_m":120001060.771094,
+    "geom:area_square_m":120001060.771092,
     "geom:bbox":"-2.52976344,38.7238301,-2.32945395,38.84291809",
     "geom:latitude":38.776488,
     "geom:longitude":-2.42994,
@@ -57,6 +69,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -65,6 +79,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_02068",
+        "eurostat:nuts_2021_id":"02068",
         "gn:id":6355359,
         "gp:id":12690279,
         "qs_pg:id":49353
@@ -73,7 +89,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"57b988fa8d81199cc7856589f1d7ea47",
+    "wof:geomhash":"8f2553f42782f8313da303df19285bf5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +100,12 @@
         }
     ],
     "wof:id":404329207,
-    "wof:lastmodified":1582361800,
+    "wof:lastmodified":1684352206,
     "wof:name":"Robledo",
     "wof:parent_id":85682621,
     "wof:placetype":"localadmin",
+    "wof:population":376,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

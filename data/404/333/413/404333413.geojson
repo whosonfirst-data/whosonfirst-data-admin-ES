@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_13002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Agudo",
+    "eurostat:nuts_2021_id":"13002",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES422",
+    "eurostat:nuts_2021_level_lau":"13002",
+    "eurostat:population":1657,
+    "eurostat:population_year":2020,
     "geom:area":0.023915,
-    "geom:area_square_m":229783248.45285,
+    "geom:area_square_m":229783248.452848,
     "geom:bbox":"-4.96250449,38.94478427,-4.69196638,39.08420552",
     "geom:latitude":39.010484,
     "geom:longitude":-4.81887,
@@ -81,6 +93,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -89,6 +103,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_13002",
+        "eurostat:nuts_2021_id":"13002",
         "gn:id":6357096,
         "gp:id":12690299,
         "qs_pg:id":1061617
@@ -97,7 +113,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"61a4f159eb9cd4b22492e5a9950d8735",
+    "wof:geomhash":"15c24230d6c011b2bfa09e0483b48f24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,10 +124,12 @@
         }
     ],
     "wof:id":404333413,
-    "wof:lastmodified":1582361762,
+    "wof:lastmodified":1684352278,
     "wof:name":"Agudo",
     "wof:parent_id":85682689,
     "wof:placetype":"localadmin",
+    "wof:population":1657,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

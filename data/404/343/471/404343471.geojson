@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43035,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cabac\u00e9s",
+    "eurostat:nuts_2021_id":"43035",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43035",
+    "eurostat:population":302,
+    "eurostat:population_year":2020,
     "geom:area":0.003354,
-    "geom:area_square_m":31185709.7228,
+    "geom:area_square_m":31185709.722799,
     "geom:bbox":"0.684736892524,41.2140458749,0.780209777241,41.2739276999",
     "geom:latitude":41.245841,
     "geom:longitude":0.730465,
@@ -109,6 +121,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -117,7 +131,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43035",
         "esp-icgc:la_lc":"043035",
+        "eurostat:nuts_2021_id":"43035",
         "gn:id":6361278,
         "gp:id":12694173,
         "qs_pg:id":1123037
@@ -127,7 +143,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2beac801c8fa4cc3e51c2215234cd4f7",
+    "wof:geomhash":"38e0bd3d122cfcc779f0ca3e7e686e83",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404343471,
-    "wof:lastmodified":1582361866,
+    "wof:lastmodified":1684352453,
     "wof:name":"Cabac\u00e9s",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":302,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

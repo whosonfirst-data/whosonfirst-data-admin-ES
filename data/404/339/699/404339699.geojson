@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31112",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Garaioa",
+    "eurostat:nuts_2021_id":"31112",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31112",
+    "eurostat:population":94,
+    "eurostat:population_year":2020,
     "geom:area":0.002344,
-    "geom:area_square_m":21224325.738184,
+    "geom:area_square_m":21224325.738182,
     "geom:bbox":"-1.28747742,42.8887511,-1.18699731,42.94355458",
     "geom:latitude":42.918857,
     "geom:longitude":-1.247454,
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31112",
+        "eurostat:nuts_2021_id":"31112",
         "gn:id":6359660,
         "gp:id":12688287,
         "qs_pg:id":977094
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a844c42aa091d65573083c0b31ac7854",
+    "wof:geomhash":"7ad63173bb03782891c1f9345242c738",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404339699,
-    "wof:lastmodified":1582361594,
+    "wof:lastmodified":1684352397,
     "wof:name":"Garaioa",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":94,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

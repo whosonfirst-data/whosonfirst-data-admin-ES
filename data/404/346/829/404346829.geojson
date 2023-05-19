@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50052",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bisimbre",
+    "eurostat:nuts_2021_id":"50052",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50052",
+    "eurostat:population":81,
+    "eurostat:population_year":2020,
     "geom:area":0.001217,
-    "geom:area_square_m":11204642.932657,
+    "geom:area_square_m":11204642.932658,
     "geom:bbox":"-1.45110573,41.83952055,-1.37761572,41.86942485",
     "geom:latitude":41.855563,
     "geom:longitude":-1.41324,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50052",
+        "eurostat:nuts_2021_id":"50052",
         "gn:id":6362745,
         "gp:id":12689885,
         "qs_pg:id":45517
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1fed3a710177c17ba446446881e973a8",
+    "wof:geomhash":"e40aa3af057e28ad64d4d4ac74755ac0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404346829,
-    "wof:lastmodified":1582361608,
+    "wof:lastmodified":1684352503,
     "wof:name":"Bisimbre",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":81,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

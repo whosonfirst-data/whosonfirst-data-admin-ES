@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49194",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Pedro de la Nave-Almendra",
+    "eurostat:nuts_2021_id":"49194",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49194",
+    "eurostat:population":337,
+    "eurostat:population_year":2020,
     "geom:area":0.002452,
     "geom:area_square_m":22674205.215384,
     "geom:bbox":"-5.98418942,41.56539996,-5.88939801,41.61000883",
@@ -33,6 +45,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -41,6 +55,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_49194",
+        "eurostat:nuts_2021_id":"49194",
         "gn:id":3110167,
         "gp:id":12693306,
         "qs_pg:id":1118822
@@ -49,7 +65,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f83037d7916366eee988b11d537e2156",
+    "wof:geomhash":"810e78cdb2812cf136432062debf97fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +76,12 @@
         }
     ],
     "wof:id":404346559,
-    "wof:lastmodified":1582361607,
+    "wof:lastmodified":1684352500,
     "wof:name":"San Pedro De La Nave-Almendra",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":337,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alsodux",
+    "eurostat:nuts_2021_id":"04015",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04015",
+    "eurostat:population":125,
+    "eurostat:population_year":2020,
     "geom:area":0.002036,
-    "geom:area_square_m":20096051.40384,
+    "geom:area_square_m":20096051.403841,
     "geom:bbox":"-2.70331978,36.99431725,-2.53337228,37.07266089",
     "geom:latitude":37.024831,
     "geom:longitude":-2.589577,
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_04015",
+        "eurostat:nuts_2021_id":"04015",
         "gn:id":6355532,
         "gp:id":12688638,
         "qs_pg:id":44816
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"82f6b96f16d385eaacc5337fda7e902b",
+    "wof:geomhash":"0405acd968c87680cb161421a7267574",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404329603,
-    "wof:lastmodified":1582361792,
+    "wof:lastmodified":1684352212,
     "wof:name":"Alsodux",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":125,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

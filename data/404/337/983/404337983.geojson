@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25186,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25186",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Riner",
+    "eurostat:nuts_2021_id":"25186",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25186",
+    "eurostat:population":263,
+    "eurostat:population_year":2020,
     "geom:area":0.005166,
-    "geom:area_square_m":47530010.402238,
+    "geom:area_square_m":47530010.402239,
     "geom:bbox":"1.49882261472,41.873002916,1.61189873034,41.9643988497",
     "geom:latitude":41.922167,
     "geom:longitude":1.553385,
@@ -109,6 +121,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -117,7 +131,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25186",
         "esp-icgc:la_lc":"025186",
+        "eurostat:nuts_2021_id":"25186",
         "gp:id":12694074,
         "qs_pg:id":1308326
     },
@@ -126,7 +142,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"fddcb2d067b801391806cd550f1eb892",
+    "wof:geomhash":"c8580eb15e1fea5b28d99c6182641d52",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404337983,
-    "wof:lastmodified":1582361560,
+    "wof:lastmodified":1684352367,
     "wof:name":"Riner",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":263,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

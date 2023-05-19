@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_33017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castropol",
+    "eurostat:nuts_2021_id":"33017",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES12",
+    "eurostat:nuts_2021_level_3":"ES120",
+    "eurostat:nuts_2021_level_lau":"33017",
+    "eurostat:population":3342,
+    "eurostat:population_year":2020,
     "geom:area":0.013979,
-    "geom:area_square_m":125437720.392701,
+    "geom:area_square_m":125437720.392707,
     "geom:bbox":"-7.05597134,43.37384745,-6.87902955,43.56118936",
     "geom:latitude":43.474397,
     "geom:longitude":-6.970461,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_33017",
+        "eurostat:nuts_2021_id":"33017",
         "gn:id":6359923,
         "gp:id":12688460,
         "qs_pg:id":1317227
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0fd3ae1f9ff089558ee98df57500793a",
+    "wof:geomhash":"19bed875e8da679939e2548261643b14",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404340317,
-    "wof:lastmodified":1582361666,
+    "wof:lastmodified":1684352405,
     "wof:name":"Castropol",
     "wof:parent_id":85682805,
     "wof:placetype":"localadmin",
+    "wof:population":3342,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

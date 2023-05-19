@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31029",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arcos, Los",
+    "eurostat:nuts_2021_id":"31029",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31029",
+    "eurostat:population":1127,
+    "eurostat:population_year":2020,
     "geom:area":0.00632,
     "geom:area_square_m":57578845.408448,
     "geom:bbox":"-2.23831445,42.48801951,-2.14816625,42.60485555",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31029",
+        "eurostat:nuts_2021_id":"31029",
         "gn:id":6359578,
         "qs_pg:id":621763
     },
@@ -120,7 +136,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2d211c9d0e983dc50c50ecdfbc67d694",
+    "wof:geomhash":"444150a66e34e13d817804de2a29be22",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404339503,
-    "wof:lastmodified":1582361582,
+    "wof:lastmodified":1684352395,
     "wof:name":"Los Arcos",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":1127,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8065,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08065",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castellv\u00ed de la Marca",
+    "eurostat:nuts_2021_id":"08065",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08065",
+    "eurostat:population":1575,
+    "eurostat:population_year":2020,
     "geom:area":0.003081,
-    "geom:area_square_m":28606403.645253,
+    "geom:area_square_m":28606380.051976,
     "geom:bbox":"1.559079,41.308781,1.64808,41.363178",
     "geom:latitude":41.334207,
     "geom:longitude":1.603859,
@@ -48,6 +60,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -56,13 +70,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"08065"
+        "eg:gisco_id":"ES_08065",
+        "esp-icgc:la_lc":"08065",
+        "eurostat:nuts_2021_id":"08065"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"80016be4395fe983769403f353cc7e40",
+    "wof:geomhash":"3a18a8f0a42cfad7696dd07610b4bd7e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,10 +89,12 @@
         }
     ],
     "wof:id":404331025,
-    "wof:lastmodified":1669903000,
+    "wof:lastmodified":1684352239,
     "wof:name":"Castellv\u00ed de la Marca",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":1575,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

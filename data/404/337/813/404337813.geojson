@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25098,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25098",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gavet de la Conca",
+    "eurostat:nuts_2021_id":"25098",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25098",
+    "eurostat:population":261,
+    "eurostat:population_year":2020,
     "geom:area":0.009924,
-    "geom:area_square_m":91092905.368485,
+    "geom:area_square_m":91092892.413413,
     "geom:bbox":"0.894381,42.01975,1.084444,42.139153",
     "geom:latitude":42.072598,
     "geom:longitude":0.989825,
@@ -48,6 +60,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -56,13 +70,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"025098"
+        "eg:gisco_id":"ES_25098",
+        "esp-icgc:la_lc":"025098",
+        "eurostat:nuts_2021_id":"25098"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d62d3dfcb82754eb3b024f25e91335b9",
+    "wof:geomhash":"053bb9241580fef1355e9effbc71bc62",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,10 +89,12 @@
         }
     ],
     "wof:id":404337813,
-    "wof:lastmodified":1669903027,
+    "wof:lastmodified":1684352360,
     "wof:name":"Gavet de la Conca",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":261,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37056",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bouza, La",
+    "eurostat:nuts_2021_id":"37056",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37056",
+    "eurostat:population":55,
+    "eurostat:population_year":2020,
     "geom:area":0.001555,
-    "geom:area_square_m":14553980.450153,
+    "geom:area_square_m":14553980.450151,
     "geom:bbox":"-6.82619021,40.78979034,-6.7760396,40.84632441",
     "geom:latitude":40.821934,
     "geom:longitude":-6.80485,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37056",
+        "eurostat:nuts_2021_id":"37056",
         "gn:id":6360310,
         "gp:id":12692201,
         "qs_pg:id":1003781
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b3673f706184212aa22d6ffab9835bcb",
+    "wof:geomhash":"2223a3c6ea6a94a12fc2d6cefdd5487f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404341219,
-    "wof:lastmodified":1582361627,
+    "wof:lastmodified":1684352422,
     "wof:name":"La Bouza",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":55,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

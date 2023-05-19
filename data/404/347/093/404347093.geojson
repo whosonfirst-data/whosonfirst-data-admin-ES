@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50176",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Morata de Jiloca",
+    "eurostat:nuts_2021_id":"50176",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50176",
+    "eurostat:population":276,
+    "eurostat:population_year":2020,
     "geom:area":0.00248,
-    "geom:area_square_m":23057085.620986,
+    "geom:area_square_m":23057085.620984,
     "geom:bbox":"-1.62022483,41.21923868,-1.5411961,41.27968407",
     "geom:latitude":41.247805,
     "geom:longitude":-1.581967,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_50176",
+        "eurostat:nuts_2021_id":"50176"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"673d6c564db71a453f690ae603593601",
+    "wof:geomhash":"1c254d8434aa139e18a3f20f632f25bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404347093,
-    "wof:lastmodified":1566590469,
+    "wof:lastmodified":1684352507,
     "wof:name":"Morata De Jiloca",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":276,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

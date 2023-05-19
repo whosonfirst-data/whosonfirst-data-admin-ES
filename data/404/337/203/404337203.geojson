@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campazas",
+    "eurostat:nuts_2021_id":"24032",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24032",
+    "eurostat:population":111,
+    "eurostat:population_year":2020,
     "geom:area":0.002274,
-    "geom:area_square_m":20846671.97835,
+    "geom:area_square_m":20846671.978349,
     "geom:bbox":"-5.53388419,42.12221224,-5.45471806,42.17660758",
     "geom:latitude":42.146739,
     "geom:longitude":-5.499761,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_24032",
+        "eurostat:nuts_2021_id":"24032",
         "gn:id":6358582,
         "gp:id":12691777,
         "qs_pg:id":46378
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"10086e2e3c823fbeaf9d21687cd65965",
+    "wof:geomhash":"70e143374662b7da015dff901f64efbe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404337203,
-    "wof:lastmodified":1582361558,
+    "wof:lastmodified":1684352350,
     "wof:name":"Campazas",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":111,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

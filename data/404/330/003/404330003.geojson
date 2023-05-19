@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hoyos del Espino",
+    "eurostat:nuts_2021_id":"05105",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05105",
+    "eurostat:population":368,
+    "eurostat:population_year":2020,
     "geom:area":0.005607,
-    "geom:area_square_m":52857379.114879,
+    "geom:area_square_m":52857379.114878,
     "geom:bbox":"-5.20642776,40.25999737,-5.14071211,40.40114133",
     "geom:latitude":40.325771,
     "geom:longitude":-5.175148,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05105",
+        "eurostat:nuts_2021_id":"05105",
         "gn:id":6355709,
         "gp:id":12691219,
         "qs_pg:id":1317356
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"13a24446121460e0b4663cdfa96efaf6",
+    "wof:geomhash":"fb75ae6709dd579b67cd647da1b1b36c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330003,
-    "wof:lastmodified":1582361538,
+    "wof:lastmodified":1684352218,
     "wof:name":"Hoyos Del Espino",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":368,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

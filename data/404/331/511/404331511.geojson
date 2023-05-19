@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8283,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08283",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tona",
+    "eurostat:nuts_2021_id":"08283",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08283",
+    "eurostat:population":8356,
+    "eurostat:population_year":2020,
     "geom:area":0.001779,
-    "geom:area_square_m":16386223.380314,
+    "geom:area_square_m":16386223.380313,
     "geom:bbox":"2.18631404221,41.8354335626,2.2757699426,41.8756177849",
     "geom:latitude":41.855735,
     "geom:longitude":2.219321,
@@ -94,6 +106,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -102,7 +116,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08283",
         "esp-icgc:la_lc":"08283",
+        "eurostat:nuts_2021_id":"08283",
         "gn:id":6356302,
         "gp:id":12693657,
         "qs_pg:id":1102809
@@ -112,7 +128,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"264968086c23fc9f5685e2aad4b446c6",
+    "wof:geomhash":"746f75d7acacd3ce71fb87828df1771e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404331511,
-    "wof:lastmodified":1582361498,
+    "wof:lastmodified":1684352254,
     "wof:name":"Tona",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":8356,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

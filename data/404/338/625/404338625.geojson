@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_27042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Paradela",
+    "eurostat:nuts_2021_id":"27042",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES112",
+    "eurostat:nuts_2021_level_lau":"27042",
+    "eurostat:population":1739,
+    "eurostat:population_year":2020,
     "geom:area":0.013316,
-    "geom:area_square_m":120923622.688808,
+    "geom:area_square_m":120923622.688809,
     "geom:bbox":"-7.65748611,42.66845266,-7.5070142,42.80355879",
     "geom:latitude":42.742249,
     "geom:longitude":-7.57781,
@@ -72,6 +84,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -80,6 +94,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_27042",
+        "eurostat:nuts_2021_id":"27042",
         "gn:id":6359202,
         "gp:id":12694836,
         "qs_pg:id":907101
@@ -88,7 +104,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3b53e191c6fb735ed6ae3b7cf54965c1",
+    "wof:geomhash":"e22e9bde137e42085fe2b7d8469625a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,10 +115,12 @@
         }
     ],
     "wof:id":404338625,
-    "wof:lastmodified":1582361447,
+    "wof:lastmodified":1684352378,
     "wof:name":"Paradela",
     "wof:parent_id":85682775,
     "wof:placetype":"localadmin",
+    "wof:population":1739,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

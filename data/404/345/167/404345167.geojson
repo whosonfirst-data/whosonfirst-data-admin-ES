@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46164",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Massamagrell",
+    "eurostat:nuts_2021_id":"46164",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46164",
+    "eurostat:population":16163,
+    "eurostat:population_year":2020,
     "geom:area":0.000652,
-    "geom:area_square_m":6212511.373554,
+    "geom:area_square_m":6212511.373552,
     "geom:bbox":"-0.36175766,39.55612848,-0.28435324,39.59664332",
     "geom:latitude":39.574319,
     "geom:longitude":-0.331872,
@@ -48,6 +60,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -56,6 +70,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46164",
+        "eurostat:nuts_2021_id":"46164",
         "gn:id":6362029,
         "gp:id":12695699,
         "qs_pg:id":232887
@@ -64,7 +80,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f2270db8cfee604cde7bf69a7d1eadec",
+    "wof:geomhash":"2d2bc3cd631a4520d53837fc6a9ca573",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,10 +91,12 @@
         }
     ],
     "wof:id":404345167,
-    "wof:lastmodified":1582361826,
+    "wof:lastmodified":1684352483,
     "wof:name":"Massamagrell",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":16163,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_02005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alborea",
+    "eurostat:nuts_2021_id":"02005",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES421",
+    "eurostat:nuts_2021_level_lau":"02005",
+    "eurostat:population":664,
+    "eurostat:population_year":2020,
     "geom:area":0.007523,
-    "geom:area_square_m":71992060.285205,
+    "geom:area_square_m":71992060.285206,
     "geom:bbox":"-1.43813872,39.245006,-1.33271914,39.35646265",
     "geom:latitude":39.291897,
     "geom:longitude":-1.385923,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_02005",
+        "eurostat:nuts_2021_id":"02005",
         "gn:id":6355297,
         "gp:id":12690216,
         "qs_pg:id":204618
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"18544bdf74f6ad6b64fdf08ade1ccb7c",
+    "wof:geomhash":"5e7036607210980df80c05b20a39d66e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404329063,
-    "wof:lastmodified":1582361792,
+    "wof:lastmodified":1684352203,
     "wof:name":"Alborea",
     "wof:parent_id":85682621,
     "wof:placetype":"localadmin",
+    "wof:population":664,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ciempozuelos",
+    "eurostat:nuts_2021_id":"28040",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28040",
+    "eurostat:population":25104,
+    "eurostat:population_year":2020,
     "geom:area":0.00522,
-    "geom:area_square_m":49334599.205771,
+    "geom:area_square_m":49334599.20577,
     "geom:bbox":"-3.66731277,40.10869904,-3.54151143,40.1963659",
     "geom:latitude":40.151603,
     "geom:longitude":-3.60718,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28040",
+        "eurostat:nuts_2021_id":"28040",
         "gn:id":6359266,
         "gp:id":12687987,
         "qs_pg:id":210132
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8cf0fc0c9d45b5fac58a2d7efb9673cc",
+    "wof:geomhash":"b4df0b984796a15067d6733ae88ce249",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404338777,
-    "wof:lastmodified":1582361442,
+    "wof:lastmodified":1684352381,
     "wof:name":"Ciempozuelos",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":25104,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

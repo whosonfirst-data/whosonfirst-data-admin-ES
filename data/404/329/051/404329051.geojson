@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_01902",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lantar\u00f3n",
+    "eurostat:nuts_2021_id":"01902",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES211",
+    "eurostat:nuts_2021_level_lau":"01902",
+    "eurostat:population":877,
+    "eurostat:population_year":2020,
     "geom:area":0.007421,
-    "geom:area_square_m":67380244.568009,
+    "geom:area_square_m":67380244.568008,
     "geom:bbox":"-3.14791334,42.70381871,-2.92610905,42.79135372",
     "geom:latitude":42.755429,
     "geom:longitude":-3.014039,
@@ -117,6 +129,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -124,9 +138,12 @@
         404227393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_01902",
+        "eurostat:nuts_2021_id":"01902"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"1317784a1d7d2710b79b97d6dbfccd19",
+    "wof:geomhash":"8dc8c66aa24233218b633aa49087849f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +154,12 @@
         }
     ],
     "wof:id":404329051,
-    "wof:lastmodified":1566590900,
+    "wof:lastmodified":1684352203,
     "wof:name":"Lantar\u00f3n",
     "wof:parent_id":85682615,
     "wof:placetype":"localadmin",
+    "wof:population":877,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

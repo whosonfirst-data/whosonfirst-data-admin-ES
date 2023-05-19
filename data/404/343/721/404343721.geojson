@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43147,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43147",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Solivella",
+    "eurostat:nuts_2021_id":"43147",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43147",
+    "eurostat:population":632,
+    "eurostat:population_year":2020,
     "geom:area":0.002299,
-    "geom:area_square_m":21304744.164042,
+    "geom:area_square_m":21304744.164043,
     "geom:bbox":"1.15215359852,41.4358066648,1.21397927955,41.4905075716",
     "geom:latitude":41.464021,
     "geom:longitude":1.183292,
@@ -115,6 +127,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -123,7 +137,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43147",
         "esp-icgc:la_lc":"043147",
+        "eurostat:nuts_2021_id":"43147",
         "gn:id":6361389,
         "gp:id":12694287,
         "qs_pg:id":272061
@@ -133,7 +149,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"464400af8072f5189587f2875d2d19cd",
+    "wof:geomhash":"2d9ab32a0431f00aaf1ba73eb297b86c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404343721,
-    "wof:lastmodified":1582361893,
+    "wof:lastmodified":1684352462,
     "wof:name":"Solivella",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":632,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

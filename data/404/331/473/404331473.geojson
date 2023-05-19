@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8266,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08266",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cerdanyola del Vall\u00e8s",
+    "eurostat:nuts_2021_id":"08266",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08266",
+    "eurostat:population":57855,
+    "eurostat:population_year":2020,
     "geom:area":0.003326,
-    "geom:area_square_m":30810410.077639,
+    "geom:area_square_m":30810400.810148,
     "geom:bbox":"2.074217,41.443029,2.159849,41.511609",
     "geom:latitude":41.480648,
     "geom:longitude":2.122625,
@@ -74,6 +86,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -82,7 +96,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08266",
         "esp-icgc:la_lc":"08266",
+        "eurostat:nuts_2021_id":"08266",
         "gn:id":6356285,
         "gp:id":12693446,
         "qs_pg:id":1197844
@@ -92,7 +108,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"13fc66225ca1a486a50b0f7c96ec25d0",
+    "wof:geomhash":"047c6dfcce60471edea2a402c1215fb8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,10 +119,12 @@
         }
     ],
     "wof:id":404331473,
-    "wof:lastmodified":1669903010,
+    "wof:lastmodified":1684352252,
     "wof:name":"Cerdanyola del Vall\u00e8s",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":57855,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

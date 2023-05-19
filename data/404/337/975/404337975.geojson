@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25181,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25181",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Puigverd d'Agramunt",
+    "eurostat:nuts_2021_id":"25181",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25181",
+    "eurostat:population":229,
+    "eurostat:population_year":2020,
     "geom:area":0.002298,
-    "geom:area_square_m":21198807.504543,
+    "geom:area_square_m":21198768.395716,
     "geom:bbox":"1.019757,41.69243,1.163623,41.795072",
     "geom:latitude":41.752419,
     "geom:longitude":1.103012,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25181",
         "esp-icgc:la_lc":"025181",
+        "eurostat:nuts_2021_id":"25181",
         "gn:id":6358917,
         "gp:id":12694069,
         "qs_pg:id":902607
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"138638e7d8c5dd9a241d417dbf566549",
+    "wof:geomhash":"9a73f7165244f5091d3c36509297dbaa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404337975,
-    "wof:lastmodified":1669903030,
+    "wof:lastmodified":1684352367,
     "wof:name":"Puigverd d'Agramunt",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":229,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

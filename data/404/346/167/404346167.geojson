@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Algodre",
+    "eurostat:nuts_2021_id":"49006",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49006",
+    "eurostat:population":141,
+    "eurostat:population_year":2020,
     "geom:area":0.001962,
-    "geom:area_square_m":18153628.48899,
+    "geom:area_square_m":18153628.488989,
     "geom:bbox":"-5.63736484,41.55515243,-5.5530537,41.59606843",
     "geom:latitude":41.574356,
     "geom:longitude":-5.599833,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_49006",
+        "eurostat:nuts_2021_id":"49006",
         "gn:id":6362453,
         "gp:id":12693132,
         "qs_pg:id":955064
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9a9f40cbe0f6aa109b41aa244bf99412",
+    "wof:geomhash":"1cca41f64be2a74bda4515206b9c3f82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404346167,
-    "wof:lastmodified":1582361608,
+    "wof:lastmodified":1684352496,
     "wof:name":"Algodre",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":141,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

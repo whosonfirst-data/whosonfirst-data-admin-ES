@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42062",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cigudosa",
+    "eurostat:nuts_2021_id":"42062",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42062",
+    "eurostat:population":21,
+    "eurostat:population_year":2020,
     "geom:area":0.002282,
-    "geom:area_square_m":20997414.378043,
+    "geom:area_square_m":20997414.378045,
     "geom:bbox":"-2.11600547,41.90163897,-2.036034,41.95443417",
     "geom:latitude":41.926429,
     "geom:longitude":-2.066933,
@@ -192,6 +204,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -200,6 +214,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42062",
+        "eurostat:nuts_2021_id":"42062",
         "gn:id":6361118,
         "gp:id":12692777,
         "qs_pg:id":1188593
@@ -208,7 +224,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fccbafee91c4648794d146e295f096a6",
+    "wof:geomhash":"f742720b64b31116b24672330fe911aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -219,10 +235,12 @@
         }
     ],
     "wof:id":404343109,
-    "wof:lastmodified":1582361880,
+    "wof:lastmodified":1684352447,
     "wof:name":"Cigudosa",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":21,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43174,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43174",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vilella Baixa, La",
+    "eurostat:nuts_2021_id":"43174",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43174",
+    "eurostat:population":204,
+    "eurostat:population_year":2020,
     "geom:area":0.000591,
-    "geom:area_square_m":5497101.457455,
+    "geom:area_square_m":5497088.693764,
     "geom:bbox":"0.737475,41.204228,0.772965,41.236199",
     "geom:latitude":41.22072,
     "geom:longitude":0.75621,
@@ -118,6 +130,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -126,7 +140,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43174",
         "esp-icgc:la_lc":"043174",
+        "eurostat:nuts_2021_id":"43174",
         "gn:id":6361416,
         "gp:id":12694315,
         "qs_pg:id":124839
@@ -136,7 +152,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"10e1f860b4c5d4635e350ff286a4eb76",
+    "wof:geomhash":"fb71d2792d24e59003b1c1e6c229a1cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404343781,
-    "wof:lastmodified":1669903070,
+    "wof:lastmodified":1684352464,
     "wof:name":"La Vilella Baixa",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":204,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18049",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cogollos de Guadix",
+    "eurostat:nuts_2021_id":"18049",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18049",
+    "eurostat:population":642,
+    "eurostat:population_year":2020,
     "geom:area":0.003072,
     "geom:area_square_m":30246103.339545,
     "geom:bbox":"-3.21250932,37.19719896,-3.14781959,37.26810206",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18049",
+        "eurostat:nuts_2021_id":"18049",
         "gn:id":6357681,
         "gp:id":12688894,
         "qs_pg:id":44998
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b64c7854a544e3ac31e6c8f8be38e27e",
+    "wof:geomhash":"fcb13f53782aa1bc8c753a9420417fca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404335149,
-    "wof:lastmodified":1582361713,
+    "wof:lastmodified":1684352321,
     "wof:name":"Cogollos De Guadix",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":642,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

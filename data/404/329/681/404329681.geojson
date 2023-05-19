@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04054",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u00cdllar",
+    "eurostat:nuts_2021_id":"04054",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04054",
+    "eurostat:population":405,
+    "eurostat:population_year":2020,
     "geom:area":0.001942,
-    "geom:area_square_m":19182227.733404,
+    "geom:area_square_m":19182227.733402,
     "geom:bbox":"-2.6777241,36.94548881,-2.62626838,37.02717043",
     "geom:latitude":36.981989,
     "geom:longitude":-2.646246,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_04054",
+        "eurostat:nuts_2021_id":"04054",
         "gn:id":6355566,
         "gp:id":12688675,
         "qs_pg:id":44839
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bfc6690949b007ea0f50c074101b5ff1",
+    "wof:geomhash":"e60cc4e44651cf28d0a7992f3fd6485f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404329681,
-    "wof:lastmodified":1582361789,
+    "wof:lastmodified":1684352214,
     "wof:name":"Illar",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":405,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

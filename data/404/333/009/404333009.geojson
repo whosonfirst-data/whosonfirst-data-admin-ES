@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_11001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alcal\u00e1 de los Gazules",
+    "eurostat:nuts_2021_id":"11001",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES612",
+    "eurostat:nuts_2021_level_lau":"11001",
+    "eurostat:population":5226,
+    "eurostat:population_year":2020,
     "geom:area":0.048206,
-    "geom:area_square_m":479504948.402389,
+    "geom:area_square_m":479504948.402409,
     "geom:bbox":"-5.8389295,36.31737954,-5.55940652,36.55648717",
     "geom:latitude":36.443799,
     "geom:longitude":-5.693944,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_11001",
+        "eurostat:nuts_2021_id":"11001",
         "gn:id":6356916,
         "gp:id":12688727,
         "qs_pg:id":1297415
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5e43470e8224e3d4085145aac54bc2bf",
+    "wof:geomhash":"e3cde06df571324c66eff6b5f98d1924",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404333009,
-    "wof:lastmodified":1582361767,
+    "wof:lastmodified":1684352272,
     "wof:name":"Alcal\u00e1 De Los Gazules",
     "wof:parent_id":85682679,
     "wof:placetype":"localadmin",
+    "wof:population":5226,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

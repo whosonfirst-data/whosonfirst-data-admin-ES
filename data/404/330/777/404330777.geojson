@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_07022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Felanitx",
+    "eurostat:nuts_2021_id":"07022",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES53",
+    "eurostat:nuts_2021_level_3":"ES532",
+    "eurostat:nuts_2021_level_lau":"07022",
+    "eurostat:population":18202,
+    "eurostat:population_year":2020,
     "geom:area":0.017765,
-    "geom:area_square_m":169617429.80211,
+    "geom:area_square_m":169617429.802111,
     "geom:bbox":"3.05970059,39.37601147,3.2772357,39.53530658",
     "geom:latitude":39.451576,
     "geom:longitude":3.159795,
@@ -135,6 +147,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -143,6 +157,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_07022",
+        "eurostat:nuts_2021_id":"07022",
         "gn:id":6533945,
         "gp:id":12687729,
         "qs_pg:id":539167
@@ -151,7 +167,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"28079d66123c39473b1d5adfa6fa35d3",
+    "wof:geomhash":"41a0bbdc0b9922667049099c021d8dbb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -162,10 +178,12 @@
         }
     ],
     "wof:id":404330777,
-    "wof:lastmodified":1582361531,
+    "wof:lastmodified":1684352230,
     "wof:name":"Felanitx",
     "wof:parent_id":85682647,
     "wof:placetype":"localadmin",
+    "wof:population":18202,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

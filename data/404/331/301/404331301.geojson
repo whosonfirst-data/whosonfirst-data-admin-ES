@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8190,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08190",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Saldes",
+    "eurostat:nuts_2021_id":"08190",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08190",
+    "eurostat:population":278,
+    "eurostat:population_year":2020,
     "geom:area":0.007268,
-    "geom:area_square_m":66542362.746372,
+    "geom:area_square_m":66542362.746371,
     "geom:bbox":"1.68035383042,42.1788294604,1.79967846273,42.2805560525",
     "geom:latitude":42.228849,
     "geom:longitude":1.734896,
@@ -127,6 +139,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -135,7 +149,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08190",
         "esp-icgc:la_lc":"08190",
+        "eurostat:nuts_2021_id":"08190",
         "gn:id":6356214,
         "gp:id":12693568,
         "qs_pg:id":1311101
@@ -145,7 +161,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3dbb1bc20939808cda40f218113d790c",
+    "wof:geomhash":"323f1dde57523cfa2d6fc4024d464af3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404331301,
-    "wof:lastmodified":1582361483,
+    "wof:lastmodified":1684352248,
     "wof:name":"Saldes",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":278,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

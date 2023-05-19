@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46185",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Otos",
+    "eurostat:nuts_2021_id":"46185",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46185",
+    "eurostat:population":422,
+    "eurostat:population_year":2020,
     "geom:area":0.001149,
     "geom:area_square_m":11059753.073811,
     "geom:bbox":"-0.47654554,38.81908009,-0.4315345,38.9137551",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46185",
+        "eurostat:nuts_2021_id":"46185",
         "gn:id":6362050,
         "gp:id":12695720,
         "qs_pg:id":1149698
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bba28378096bd2442e576255515efe8f",
+    "wof:geomhash":"0fd3e3710e92031c1334800227015209",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404345215,
-    "wof:lastmodified":1582361836,
+    "wof:lastmodified":1684352483,
     "wof:name":"Otos",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":422,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8250,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08250",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Margarida de Montbui",
+    "eurostat:nuts_2021_id":"08250",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08250",
+    "eurostat:population":10225,
+    "eurostat:population_year":2020,
     "geom:area":0.002981,
-    "geom:area_square_m":27578158.600178,
+    "geom:area_square_m":27578196.93775,
     "geom:bbox":"1.53519,41.528908,1.633574,41.587089",
     "geom:latitude":41.560691,
     "geom:longitude":1.576653,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08250",
         "esp-icgc:la_lc":"08250",
+        "eurostat:nuts_2021_id":"08250",
         "gn:id":6356271,
         "gp:id":12693630,
         "qs_pg:id":248698
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"e6121bec5ee2ca25f0b327ba7eedf49b",
+    "wof:geomhash":"e51df3d6b59f662f0cf3e87b14368518",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404331437,
-    "wof:lastmodified":1669903001,
+    "wof:lastmodified":1684352251,
     "wof:name":"Santa Margarida de Montbui",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":10225,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

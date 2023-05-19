@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04069",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Olula del R\u00edo",
+    "eurostat:nuts_2021_id":"04069",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04069",
+    "eurostat:population":6256,
+    "eurostat:population_year":2020,
     "geom:area":0.002392,
     "geom:area_square_m":23507554.862319,
     "geom:bbox":"-2.33214369,37.33885746,-2.27916723,37.42230167",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_04069",
+        "eurostat:nuts_2021_id":"04069",
         "gn:id":6355581,
         "gp:id":12688691,
         "qs_pg:id":27771
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"050e61f33dd3c612f38852253d32aece",
+    "wof:geomhash":"cf26313b1919cba7171f9610c46c4e46",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404329715,
-    "wof:lastmodified":1582361794,
+    "wof:lastmodified":1684352214,
     "wof:name":"Olula Del R\u00edo",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":6256,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

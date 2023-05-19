@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arenas del Rey",
+    "eurostat:nuts_2021_id":"18020",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18020",
+    "eurostat:population":653,
+    "eurostat:population_year":2020,
     "geom:area":0.011814,
-    "geom:area_square_m":116740117.230045,
+    "geom:area_square_m":116740117.230046,
     "geom:bbox":"-3.94005655,36.87520522,-3.81125478,37.02494624",
     "geom:latitude":36.948974,
     "geom:longitude":-3.875136,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18020",
+        "eurostat:nuts_2021_id":"18020",
         "gn:id":6357655,
         "gp:id":12688864,
         "qs_pg:id":1153093
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b011b0804c7288c34b0c728c639b2f8a",
+    "wof:geomhash":"f33b6077fc505364a6031af1c877eac0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404335091,
-    "wof:lastmodified":1582361699,
+    "wof:lastmodified":1684352320,
     "wof:name":"Arenas Del Rey",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":653,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

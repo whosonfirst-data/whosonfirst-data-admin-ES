@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_33035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Llanera",
+    "eurostat:nuts_2021_id":"33035",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES12",
+    "eurostat:nuts_2021_level_3":"ES120",
+    "eurostat:nuts_2021_level_lau":"33035",
+    "eurostat:population":13695,
+    "eurostat:population_year":2020,
     "geom:area":0.011865,
-    "geom:area_square_m":106501760.845931,
+    "geom:area_square_m":106501760.845932,
     "geom:bbox":"-5.96840581,43.40781592,-5.75654641,43.50109855",
     "geom:latitude":43.453621,
     "geom:longitude":-5.861927,
@@ -78,6 +90,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -86,6 +100,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_33035",
+        "eurostat:nuts_2021_id":"33035",
         "gn:id":6359938,
         "gp:id":12688477,
         "qs_pg:id":1109495
@@ -94,7 +110,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4069d74ccbee98742638056341ae5a17",
+    "wof:geomhash":"b56b43b53832f50382c8dc640e261790",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,10 +121,12 @@
         }
     ],
     "wof:id":404340357,
-    "wof:lastmodified":1582361657,
+    "wof:lastmodified":1684352407,
     "wof:name":"Llanera",
     "wof:parent_id":85682805,
     "wof:placetype":"localadmin",
+    "wof:population":13695,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

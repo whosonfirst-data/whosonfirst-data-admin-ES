@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10179",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Talaveruela de la Vera",
+    "eurostat:nuts_2021_id":"10179",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10179",
+    "eurostat:population":298,
+    "eurostat:population_year":2020,
     "geom:area":0.002255,
     "geom:area_square_m":21313339.814976,
     "geom:bbox":"-5.5397455,40.07263401,-5.49534882,40.20221503",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227383
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_10179",
+        "eurostat:nuts_2021_id":"10179"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"0fc45bd77664bc4a5971bbf4b41866e5",
+    "wof:geomhash":"20e7104b8699eb9229890e610a77087d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404332909,
-    "wof:lastmodified":1566590472,
+    "wof:lastmodified":1684352271,
     "wof:name":"Talaveruela De La Vera",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":298,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

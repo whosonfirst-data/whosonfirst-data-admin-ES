@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42118",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Momblona",
+    "eurostat:nuts_2021_id":"42118",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42118",
+    "eurostat:population":18,
+    "eurostat:population_year":2020,
     "geom:area":0.002469,
-    "geom:area_square_m":22884617.990322,
+    "geom:area_square_m":22884617.990323,
     "geom:bbox":"-2.38543355,41.42284897,-2.26476651,41.47635926",
     "geom:latitude":41.445163,
     "geom:longitude":-2.337313,
@@ -174,6 +186,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -181,9 +195,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_42118",
+        "eurostat:nuts_2021_id":"42118"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"03135fa40604da8af915e84fe3cee664",
+    "wof:geomhash":"c380e89d820477c1287d0ca2b8a9a79c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -194,10 +211,12 @@
         }
     ],
     "wof:id":404343209,
-    "wof:lastmodified":1566591226,
+    "wof:lastmodified":1684352448,
     "wof:name":"Momblona",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":18,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

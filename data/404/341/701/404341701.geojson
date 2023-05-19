@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37283",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sando",
+    "eurostat:nuts_2021_id":"37283",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37283",
+    "eurostat:population":124,
+    "eurostat:population_year":2020,
     "geom:area":0.006479,
-    "geom:area_square_m":60509632.238482,
+    "geom:area_square_m":60509632.238484,
     "geom:bbox":"-6.17645769,40.90702042,-6.04879476,41.0145841",
     "geom:latitude":40.952241,
     "geom:longitude":-6.102001,
@@ -45,6 +57,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -52,9 +66,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_37283",
+        "eurostat:nuts_2021_id":"37283"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"81b4507d10df9bab5b780ea0974c4048",
+    "wof:geomhash":"d300892cb5b1881cc321071e6a0b2eb5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +82,12 @@
         }
     ],
     "wof:id":404341701,
-    "wof:lastmodified":1566590290,
+    "wof:lastmodified":1684352427,
     "wof:name":"Sando",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":124,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

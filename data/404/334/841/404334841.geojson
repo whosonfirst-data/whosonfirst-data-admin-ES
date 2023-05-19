@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17138,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17138",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Portbou",
+    "eurostat:nuts_2021_id":"17138",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17138",
+    "eurostat:population":1063,
+    "eurostat:population_year":2020,
     "geom:area":0.001012,
-    "geom:area_square_m":9235659.788632,
+    "geom:area_square_m":9235659.788633,
     "geom:bbox":"3.1025068836,42.4154629622,3.17528059594,42.438233645",
     "geom:latitude":42.426949,
     "geom:longitude":3.138157,
@@ -151,6 +163,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -159,7 +173,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17138",
         "esp-icgc:la_lc":"017138",
+        "eurostat:nuts_2021_id":"17138",
         "gn:id":6534108,
         "gp:id":12693814,
         "qs_pg:id":1163716
@@ -169,7 +185,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"7399405c7e4ac6e26aac088fed7fb779",
+    "wof:geomhash":"b08cef12540b5bcbb3c7e2ba9e6a65b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -180,10 +196,12 @@
         }
     ],
     "wof:id":404334841,
-    "wof:lastmodified":1582361741,
+    "wof:lastmodified":1684352311,
     "wof:name":"Portbou",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":1063,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8090,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08090",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gai\u00e0",
+    "eurostat:nuts_2021_id":"08090",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08090",
+    "eurostat:population":183,
+    "eurostat:population_year":2020,
     "geom:area":0.004273,
-    "geom:area_square_m":39309883.011988,
+    "geom:area_square_m":39309962.314178,
     "geom:bbox":"1.879927,41.898298,1.974572,41.967213",
     "geom:latitude":41.928267,
     "geom:longitude":1.92805,
@@ -133,6 +145,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -141,7 +155,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08090",
         "esp-icgc:la_lc":"08090",
+        "eurostat:nuts_2021_id":"08090",
         "gn:id":6356120,
         "gp:id":12693467,
         "qs_pg:id":955113
@@ -151,7 +167,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"144072f9fe5cc31ece7d9d0d688da047",
+    "wof:geomhash":"4480aa99f3bc4bfa216e56f2ba8f301d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -162,10 +178,12 @@
         }
     ],
     "wof:id":404331081,
-    "wof:lastmodified":1669903009,
+    "wof:lastmodified":1684352240,
     "wof:name":"Gai\u00e0",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":183,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

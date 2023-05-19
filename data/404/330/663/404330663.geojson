@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06136",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Usagre",
+    "eurostat:nuts_2021_id":"06136",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06136",
+    "eurostat:population":1751,
+    "eurostat:population_year":2020,
     "geom:area":0.024825,
-    "geom:area_square_m":240591727.627787,
+    "geom:area_square_m":240591727.62779,
     "geom:bbox":"-6.32085866,38.31192673,-6.06509923,38.4660082",
     "geom:latitude":38.392892,
     "geom:longitude":-6.185316,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06136",
+        "eurostat:nuts_2021_id":"06136",
         "gn:id":6356001,
         "gp:id":12694455,
         "qs_pg:id":1149616
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"49e6a203554e8b8844ea1e6fc6db115c",
+    "wof:geomhash":"e043900e1655e50557f05f244592ac01",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404330663,
-    "wof:lastmodified":1582361538,
+    "wof:lastmodified":1684352227,
     "wof:name":"Usagre",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":1751,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

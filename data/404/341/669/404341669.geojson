@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37269",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Robleda",
+    "eurostat:nuts_2021_id":"37269",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37269",
+    "eurostat:population":471,
+    "eurostat:population_year":2020,
     "geom:area":0.00836,
-    "geom:area_square_m":78758044.148274,
+    "geom:area_square_m":78758044.148275,
     "geom:bbox":"-6.67733175,40.31461343,-6.53628405,40.44216446",
     "geom:latitude":40.372481,
     "geom:longitude":-6.602303,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37269",
+        "eurostat:nuts_2021_id":"37269",
         "gn:id":6360508,
         "gp:id":12692400,
         "qs_pg:id":185491
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c6d39d00f1adeeaac04fee0c31e54bf5",
+    "wof:geomhash":"9edef2d34257d864600e5cfc8fb58701",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404341669,
-    "wof:lastmodified":1582361628,
+    "wof:lastmodified":1684352427,
     "wof:name":"Robleda",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":471,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

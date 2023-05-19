@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"A\u00f1\u00f3n de Moncayo",
+    "eurostat:nuts_2021_id":"50030",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50030",
+    "eurostat:population":222,
+    "eurostat:population_year":2020,
     "geom:area":0.006949,
-    "geom:area_square_m":64101234.281629,
+    "geom:area_square_m":64101234.281628,
     "geom:bbox":"-1.82532299,41.71832229,-1.68217968,41.79173183",
     "geom:latitude":41.758793,
     "geom:longitude":-1.752635,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50030",
+        "eurostat:nuts_2021_id":"50030",
         "gp:id":12689863,
         "qs_pg:id":325930
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d18c9739773c4e6553c2db0bb82fbe1e",
+    "wof:geomhash":"b28cc20710ff5e277e0f4b3883b77461",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404346781,
-    "wof:lastmodified":1582361620,
+    "wof:lastmodified":1684352503,
     "wof:name":"A\u00f1\u00f3n De Moncayo",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":222,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

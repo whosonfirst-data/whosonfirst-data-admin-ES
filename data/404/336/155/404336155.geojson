@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_20032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Elgoibar",
+    "eurostat:nuts_2021_id":"20032",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES212",
+    "eurostat:nuts_2021_level_lau":"20032",
+    "eurostat:population":11570,
+    "eurostat:population_year":2020,
     "geom:area":0.004333,
-    "geom:area_square_m":39045989.371814,
+    "geom:area_square_m":39045989.371813,
     "geom:bbox":"-2.46325347,43.1758505,-2.35686566,43.24445552",
     "geom:latitude":43.214489,
     "geom:longitude":-2.403391,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_20032",
+        "eurostat:nuts_2021_id":"20032",
         "gn:id":3123478,
         "gp:id":12695101,
         "qs_pg:id":248755
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"20819b55e9cc84eae8e04f93f24f0adc",
+    "wof:geomhash":"eb9abff96a633ccad16de213dc25b814",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404336155,
-    "wof:lastmodified":1582361470,
+    "wof:lastmodified":1684352334,
     "wof:name":"Elgoibar",
     "wof:parent_id":85682741,
     "wof:placetype":"localadmin",
+    "wof:population":11570,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

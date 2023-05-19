@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_27010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castro de Rei",
+    "eurostat:nuts_2021_id":"27010",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES112",
+    "eurostat:nuts_2021_level_lau":"27010",
+    "eurostat:population":5073,
+    "eurostat:population_year":2020,
     "geom:area":0.019591,
-    "geom:area_square_m":176669208.398417,
+    "geom:area_square_m":176669208.398412,
     "geom:bbox":"-7.56113849,43.06769447,-7.34679267,43.28280303",
     "geom:latitude":43.173898,
     "geom:longitude":-7.439414,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_27010",
+        "eurostat:nuts_2021_id":"27010",
         "gn:id":6359172,
         "gp:id":12694807,
         "qs_pg:id":245110
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"efd2f7c3ed7e4adc0b8a57c069afd05a",
+    "wof:geomhash":"6036cab72bb768e4347fc73df6f45eec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404338555,
-    "wof:lastmodified":1582361444,
+    "wof:lastmodified":1684352377,
     "wof:name":"Castro De Rei",
     "wof:parent_id":85682775,
     "wof:placetype":"localadmin",
+    "wof:population":5073,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

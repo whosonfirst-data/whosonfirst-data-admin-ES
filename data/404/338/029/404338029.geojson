@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":25211,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25211",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sudanell",
+    "eurostat:nuts_2021_id":"25211",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25211",
+    "eurostat:population":840,
+    "eurostat:population_year":2020,
     "geom:area":0.000881,
     "geom:area_square_m":8155572.695366,
     "geom:bbox":"0.540522686835,41.5381026089,0.600584913542,41.5759698433",
@@ -112,6 +124,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -120,7 +134,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25211",
         "esp-icgc:la_lc":"025211",
+        "eurostat:nuts_2021_id":"25211",
         "gn:id":6358941,
         "gp:id":12694096,
         "qs_pg:id":1197939
@@ -130,7 +146,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"5a6a8481a043c996898bf34c361a6a94",
+    "wof:geomhash":"4c284568e97757414e733cd185db292c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404338029,
-    "wof:lastmodified":1582361448,
+    "wof:lastmodified":1684352368,
     "wof:name":"Sudanell",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":840,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

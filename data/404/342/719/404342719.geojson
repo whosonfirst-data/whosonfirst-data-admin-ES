@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40229",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villaverde de Montejo",
+    "eurostat:nuts_2021_id":"40229",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40229",
+    "eurostat:population":26,
+    "eurostat:population_year":2020,
     "geom:area":0.002675,
-    "geom:area_square_m":24769478.895239,
+    "geom:area_square_m":24769478.895241,
     "geom:bbox":"-3.69154693,41.46999749,-3.63675876,41.54164096",
     "geom:latitude":41.509806,
     "geom:longitude":-3.665496,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_40229",
+        "eurostat:nuts_2021_id":"40229",
         "gn:id":6360945,
         "gp:id":12692715,
         "qs_pg:id":46837
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a0f5971c3318257768877379e55d063e",
+    "wof:geomhash":"de22ac54d2aed4ef79f45a8cb96dc604",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404342719,
-    "wof:lastmodified":1582361823,
+    "wof:lastmodified":1684352442,
     "wof:name":"Villaverde De Montejo",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":26,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

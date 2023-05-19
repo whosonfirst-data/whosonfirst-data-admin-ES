@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Biar",
+    "eurostat:nuts_2021_id":"03043",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03043",
+    "eurostat:population":3655,
+    "eurostat:population_year":2020,
     "geom:area":0.010158,
-    "geom:area_square_m":98098826.112897,
+    "geom:area_square_m":98098826.112896,
     "geom:bbox":"-0.81165649,38.57534993,-0.67843102,38.71070154",
     "geom:latitude":38.644532,
     "geom:longitude":-0.747947,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03043",
+        "eurostat:nuts_2021_id":"03043",
         "gn:id":6355419,
         "gp:id":12695308,
         "qs_pg:id":891506
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d3569cb1f74d6025514e9ab550ad055c",
+    "wof:geomhash":"8dcf318976fe68f46508372ab60e2523",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404329349,
-    "wof:lastmodified":1582361794,
+    "wof:lastmodified":1684352208,
     "wof:name":"Biar",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":3655,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

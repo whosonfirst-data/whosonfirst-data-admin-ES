@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alboc\u00e0sser",
+    "eurostat:nuts_2021_id":"12003",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12003",
+    "eurostat:population":1227,
+    "eurostat:population_year":2020,
     "geom:area":0.008726,
-    "geom:area_square_m":82206007.141808,
+    "geom:area_square_m":82206007.141806,
     "geom:bbox":"-0.04521804,40.3177756,0.08397837,40.44692632",
     "geom:latitude":40.373172,
     "geom:longitude":0.017126,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12003",
+        "eurostat:nuts_2021_id":"12003",
         "gn:id":6356962,
         "gp:id":12695408,
         "qs_pg:id":335032
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0c65aae332fcf5a74be198724d79232a",
+    "wof:geomhash":"94bd9c2b504807238b977922a9902013",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404333113,
-    "wof:lastmodified":1582361785,
+    "wof:lastmodified":1684352274,
     "wof:name":"Alboc\u00e0sser",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":1227,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

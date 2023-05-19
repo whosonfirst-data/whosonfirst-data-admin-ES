@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_41089",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santiponce",
+    "eurostat:nuts_2021_id":"41089",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES618",
+    "eurostat:nuts_2021_level_lau":"41089",
+    "eurostat:population":8538,
+    "eurostat:population_year":2020,
     "geom:area":0.000853,
-    "geom:area_square_m":8372182.525408,
+    "geom:area_square_m":8372182.525409,
     "geom:bbox":"-6.06317794,37.41304365,-5.99087956,37.45414137",
     "geom:latitude":37.43422,
     "geom:longitude":-6.031086,
@@ -129,6 +141,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -137,6 +151,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_41089",
+        "eurostat:nuts_2021_id":"41089",
         "gn:id":6361044,
         "gp:id":12689381,
         "qs_pg:id":219342
@@ -145,7 +161,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"27165a601db98cddf7e5ab343043b0f0",
+    "wof:geomhash":"582379eef419e6aae6ed6c77bb506991",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404342943,
-    "wof:lastmodified":1582361824,
+    "wof:lastmodified":1684352446,
     "wof:name":"Santiponce",
     "wof:parent_id":85682841,
     "wof:placetype":"localadmin",
+    "wof:population":8538,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

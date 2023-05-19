@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_41024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carmona",
+    "eurostat:nuts_2021_id":"41024",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES618",
+    "eurostat:nuts_2021_level_lau":"41024",
+    "eurostat:population":28834,
+    "eurostat:population_year":2020,
     "geom:area":0.094107,
-    "geom:area_square_m":923720066.03649,
+    "geom:area_square_m":923720066.036484,
     "geom:bbox":"-5.86882286,37.24741185,-5.39786674,37.62080222",
     "geom:latitude":37.456473,
     "geom:longitude":-5.631282,
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_41024",
+        "eurostat:nuts_2021_id":"41024",
         "gn:id":6360979,
         "gp:id":12689315,
         "qs_pg:id":901033
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e454cd90d534263fce8b8857add529a0",
+    "wof:geomhash":"1b14912a87e8a3d7d643fb3ab5d26b05",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404342797,
-    "wof:lastmodified":1582361805,
+    "wof:lastmodified":1684352443,
     "wof:name":"Carmona",
     "wof:parent_id":85682841,
     "wof:placetype":"localadmin",
+    "wof:population":28834,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

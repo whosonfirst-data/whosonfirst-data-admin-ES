@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Abiego",
+    "eurostat:nuts_2021_id":"22001",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22001",
+    "eurostat:population":258,
+    "eurostat:population_year":2020,
     "geom:area":0.004159,
     "geom:area_square_m":38134633.96557,
     "geom:bbox":"-0.11101378,42.09062752,-0.01933358,42.19537619",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22001",
+        "eurostat:nuts_2021_id":"22001",
         "gn:id":6358256,
         "gp:id":12689396,
         "qs_pg:id":45290
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5763ce215145bf8676d825b803b83c9c",
+    "wof:geomhash":"52ed95f6aadc7b35e4e615c07f17e492",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404336461,
-    "wof:lastmodified":1582361475,
+    "wof:lastmodified":1684352339,
     "wof:name":"Abiego",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":258,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

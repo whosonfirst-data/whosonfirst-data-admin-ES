@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Liceras",
+    "eurostat:nuts_2021_id":"42105",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42105",
+    "eurostat:population":47,
+    "eurostat:population_year":2020,
     "geom:area":0.002625,
-    "geom:area_square_m":24353458.296507,
+    "geom:area_square_m":24353458.296508,
     "geom:bbox":"-3.27225867,41.35549292,-3.20596015,41.42720588",
     "geom:latitude":41.391653,
     "geom:longitude":-3.237798,
@@ -174,6 +186,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -182,6 +196,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42105",
+        "eurostat:nuts_2021_id":"42105",
         "gn:id":6361151,
         "gp:id":12692810,
         "qs_pg:id":1068493
@@ -190,7 +206,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c00fd6ca44e4ecf9a6249dc0a4a888cf",
+    "wof:geomhash":"cc6aa1c341c91d0262e8131e1e9d3ea9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -201,10 +217,12 @@
         }
     ],
     "wof:id":404343185,
-    "wof:lastmodified":1582361896,
+    "wof:lastmodified":1684352448,
     "wof:name":"Liceras",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":47,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

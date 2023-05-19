@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19130",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Guadalajara",
+    "eurostat:nuts_2021_id":"19130",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19130",
+    "eurostat:population":87484,
+    "eurostat:population_year":2020,
     "geom:area":0.025068,
-    "geom:area_square_m":235207207.755717,
+    "geom:area_square_m":235207207.75572,
     "geom:bbox":"-3.31414935,40.46083414,-2.98118996,40.77072217",
     "geom:latitude":40.639953,
     "geom:longitude":-3.176158,
@@ -324,6 +336,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -332,6 +346,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19130",
+        "eurostat:nuts_2021_id":"19130",
         "gn:id":6357912,
         "gp:id":12690742,
         "qs_pg:id":78592
@@ -340,7 +356,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fa51a6801658114cbd2880b6220106ae",
+    "wof:geomhash":"33dcd93e3fab7d171b00f779568dbf24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -351,10 +367,12 @@
         }
     ],
     "wof:id":404335673,
-    "wof:lastmodified":1582361698,
+    "wof:lastmodified":1684352328,
     "wof:name":"Guadalajara",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":87484,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carmonita",
+    "eurostat:nuts_2021_id":"06031",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06031",
+    "eurostat:population":524,
+    "eurostat:population_year":2020,
     "geom:area":0.004053,
-    "geom:area_square_m":38861458.661621,
+    "geom:area_square_m":38861458.661622,
     "geom:bbox":"-6.41231912,39.11567884,-6.30754171,39.18668075",
     "geom:latitude":39.148929,
     "geom:longitude":-6.347275,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06031",
+        "eurostat:nuts_2021_id":"06031",
         "gn:id":6355896,
         "gp:id":12694350,
         "qs_pg:id":955130
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"48754e08909f5db846fa5d191d0f42c6",
+    "wof:geomhash":"486decab10381504003d8e595528e613",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404330425,
-    "wof:lastmodified":1582361522,
+    "wof:lastmodified":1684352224,
     "wof:name":"Carmonita",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":524,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16137",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Narboneta",
+    "eurostat:nuts_2021_id":"16137",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16137",
+    "eurostat:population":38,
+    "eurostat:population_year":2020,
     "geom:area":0.003673,
     "geom:area_square_m":34916215.329812,
     "geom:bbox":"-1.54432255,39.7220233,-1.4238165,39.78160917",
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16137",
+        "eurostat:nuts_2021_id":"16137",
         "gn:id":6357481,
         "gp:id":12690521,
         "qs_pg:id":45826
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8bd6c33400a512a4fcf3edeedc6bacda",
+    "wof:geomhash":"43ff69483aef9c4424b83f23a31fb877",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404334291,
-    "wof:lastmodified":1582361750,
+    "wof:lastmodified":1684352296,
     "wof:name":"Narboneta",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":38,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19238",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Riofr\u00edo del Llano",
+    "eurostat:nuts_2021_id":"19238",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19238",
+    "eurostat:population":57,
+    "eurostat:population_year":2020,
     "geom:area":0.004604,
-    "geom:area_square_m":42880908.409751,
+    "geom:area_square_m":42880908.409752,
     "geom:bbox":"-2.87004381,41.09895544,-2.75960482,41.16585312",
     "geom:latitude":41.125261,
     "geom:longitude":-2.816154,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227375
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_19238",
+        "eurostat:nuts_2021_id":"19238"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"aed495ad9b848c6dff0be7df54da8c89",
+    "wof:geomhash":"604583727cd05cd201fab179c438f137",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404335887,
-    "wof:lastmodified":1566590557,
+    "wof:lastmodified":1684352331,
     "wof:name":"Riofr\u00edo Del Llano",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":57,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43162,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43162",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vandell\u00f2s i l'Hospitalet de l'Infant",
+    "eurostat:nuts_2021_id":"43162",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43162",
+    "eurostat:population":6603,
+    "eurostat:population_year":2020,
     "geom:area":0.010997,
-    "geom:area_square_m":102627450.736038,
+    "geom:area_square_m":102627518.74352,
     "geom:bbox":"0.774672,40.935254,0.931819,41.062308",
     "geom:latitude":40.995702,
     "geom:longitude":0.843531,
@@ -58,6 +70,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -66,7 +80,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43162",
         "esp-icgc:la_lc":"043162",
+        "eurostat:nuts_2021_id":"43162",
         "gn:id":6361404,
         "gp:id":12694302,
         "qs_pg:id":231528
@@ -76,7 +92,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1c875aed79513e1eae0e64132153417f",
+    "wof:geomhash":"1261e91081ed1a2e7791b9342de4cf98",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,10 +103,12 @@
         }
     ],
     "wof:id":404343755,
-    "wof:lastmodified":1669903060,
+    "wof:lastmodified":1684352463,
     "wof:name":"Vandell\u00f2s i l'Hospitalet de l'Infant",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":6603,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

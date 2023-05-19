@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05058",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cepeda la Mora",
+    "eurostat:nuts_2021_id":"05058",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05058",
+    "eurostat:population":74,
+    "eurostat:population_year":2020,
     "geom:area":0.003333,
     "geom:area_square_m":31361418.435087,
     "geom:bbox":"-5.09362991,40.4215061,-5.01049243,40.48706424",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05058",
+        "eurostat:nuts_2021_id":"05058",
         "gn:id":6355666,
         "gp:id":12691174,
         "qs_pg:id":46135
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3ba171b71d0e962a4d81818255f3e097",
+    "wof:geomhash":"c6053b8486f7c142085675b9500e6dd3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404329907,
-    "wof:lastmodified":1582361787,
+    "wof:lastmodified":1684352217,
     "wof:name":"Cepeda La Mora",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":74,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

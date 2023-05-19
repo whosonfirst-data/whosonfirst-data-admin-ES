@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_20049",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lazkao",
+    "eurostat:nuts_2021_id":"20049",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES212",
+    "eurostat:nuts_2021_level_lau":"20049",
+    "eurostat:population":5830,
+    "eurostat:population_year":2020,
     "geom:area":0.001256,
-    "geom:area_square_m":11351180.59834,
+    "geom:area_square_m":11351180.598338,
     "geom:bbox":"-2.20579387,42.9846983,-2.11400426,43.0484194",
     "geom:latitude":43.021003,
     "geom:longitude":-2.17191,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_20049",
+        "eurostat:nuts_2021_id":"20049",
         "gn:id":6358138,
         "gp:id":12695120,
         "qs_pg:id":378198
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1ef9b6340168f65670c26257ea7db7c0",
+    "wof:geomhash":"e3c3db863c99c9b935b851a3008da796",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404336193,
-    "wof:lastmodified":1582361461,
+    "wof:lastmodified":1684352334,
     "wof:name":"Lazkao",
     "wof:parent_id":85682741,
     "wof:placetype":"localadmin",
+    "wof:population":5830,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

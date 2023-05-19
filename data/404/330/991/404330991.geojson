@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8050,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castellar del Riu",
+    "eurostat:nuts_2021_id":"08050",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08050",
+    "eurostat:population":176,
+    "eurostat:population_year":2020,
     "geom:area":0.003579,
-    "geom:area_square_m":32828388.910304,
+    "geom:area_square_m":32828321.643911,
     "geom:bbox":"1.69849,42.100479,1.824332,42.154716",
     "geom:latitude":42.123711,
     "geom:longitude":1.758493,
@@ -70,6 +82,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -78,7 +92,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08050",
         "esp-icgc:la_lc":"08050",
+        "eurostat:nuts_2021_id":"08050",
         "gn:id":6356083,
         "gp:id":12693429,
         "qs_pg:id":248341
@@ -88,7 +104,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"fc3a896924efd511bcd4db11942296cf",
+    "wof:geomhash":"134b1acf1b9a9cbb7c87b88352055c93",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,10 +115,12 @@
         }
     ],
     "wof:id":404330991,
-    "wof:lastmodified":1669903014,
+    "wof:lastmodified":1684352237,
     "wof:name":"Castellar del Riu",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":176,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

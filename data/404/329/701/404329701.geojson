@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04063",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mar\u00eda",
+    "eurostat:nuts_2021_id":"04063",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04063",
+    "eurostat:population":1230,
+    "eurostat:population_year":2020,
     "geom:area":0.023066,
-    "geom:area_square_m":225515374.132794,
+    "geom:area_square_m":225515374.132797,
     "geom:bbox":"-2.32603179,37.6522255,-2.13401862,37.88996939",
     "geom:latitude":37.749919,
     "geom:longitude":-2.239668,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_04063",
+        "eurostat:nuts_2021_id":"04063",
         "gn:id":6355575,
         "gp:id":12688684,
         "qs_pg:id":247906
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f4aac32493bf7d18651610f0c8571e00",
+    "wof:geomhash":"34b91cab94ef52f16e77747c76369b0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404329701,
-    "wof:lastmodified":1582361787,
+    "wof:lastmodified":1684352214,
     "wof:name":"Mar\u00eda",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":1230,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

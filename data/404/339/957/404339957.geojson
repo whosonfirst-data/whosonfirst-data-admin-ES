@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31223",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sartaguda",
+    "eurostat:nuts_2021_id":"31223",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31223",
+    "eurostat:population":1281,
+    "eurostat:population_year":2020,
     "geom:area":0.001629,
-    "geom:area_square_m":14882672.537898,
+    "geom:area_square_m":14882672.537897,
     "geom:bbox":"-2.06794074,42.35876736,-2.01618719,42.41156949",
     "geom:latitude":42.384612,
     "geom:longitude":-2.041923,
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31223",
+        "eurostat:nuts_2021_id":"31223",
         "gn:id":6359770,
         "gp:id":12688401,
         "qs_pg:id":953351
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"67bbbb9339606dcfad5e6fdd36d67448",
+    "wof:geomhash":"2de4e49d3dc2957774e3d7af80e61259",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404339957,
-    "wof:lastmodified":1582361589,
+    "wof:lastmodified":1684352400,
     "wof:name":"Sartaguda",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":1281,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_14002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aguilar de la Frontera",
+    "eurostat:nuts_2021_id":"14002",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES613",
+    "eurostat:nuts_2021_level_lau":"14002",
+    "eurostat:population":13382,
+    "eurostat:population_year":2020,
     "geom:area":0.016955,
-    "geom:area_square_m":166410116.46126,
+    "geom:area_square_m":166410116.461257,
     "geom:bbox":"-4.79852501,37.3235957,-4.59391242,37.54261235",
     "geom:latitude":37.462375,
     "geom:longitude":-4.677685,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_14002",
+        "eurostat:nuts_2021_id":"14002",
         "gn:id":6357197,
         "gp:id":12688773,
         "qs_pg:id":51524
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e5d01b03ac252f1118818abdd2b59a0f",
+    "wof:geomhash":"243c957e76a3d48eee1d044692a14f9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404333643,
-    "wof:lastmodified":1582361761,
+    "wof:lastmodified":1684352282,
     "wof:name":"Aguilar De La Frontera",
     "wof:parent_id":85682697,
     "wof:placetype":"localadmin",
+    "wof:population":13382,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

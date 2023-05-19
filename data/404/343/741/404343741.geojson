@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43156,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43156",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ulldecona",
+    "eurostat:nuts_2021_id":"43156",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43156",
+    "eurostat:population":6525,
+    "eurostat:population_year":2020,
     "geom:area":0.013482,
-    "geom:area_square_m":126547292.78106,
+    "geom:area_square_m":126547292.781063,
     "geom:bbox":"0.329496413113,40.5474891076,0.542831204354,40.6948450571",
     "geom:latitude":40.617752,
     "geom:longitude":0.437146,
@@ -121,6 +133,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -129,7 +143,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43156",
         "esp-icgc:la_lc":"043156",
+        "eurostat:nuts_2021_id":"43156",
         "gn:id":6361398,
         "gp:id":12694296,
         "qs_pg:id":222136
@@ -139,7 +155,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"f96bfcf202e0696ea564af8ee3cfe746",
+    "wof:geomhash":"ac1a2c751bd19595501136ab28e19ebd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404343741,
-    "wof:lastmodified":1582361878,
+    "wof:lastmodified":1684352463,
     "wof:name":"Ulldecona",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":6525,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

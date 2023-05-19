@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":17026,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Borrass\u00e0",
+    "eurostat:nuts_2021_id":"17026",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17026",
+    "eurostat:population":733,
+    "eurostat:population_year":2020,
     "geom:area":0.001035,
     "geom:area_square_m":9482111.275237,
     "geom:bbox":"2.90900153822,42.1986998294,2.95284507376,42.2358173192",
@@ -127,6 +139,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -135,7 +149,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17026",
         "esp-icgc:la_lc":"017026",
+        "eurostat:nuts_2021_id":"17026",
         "gn:id":6534023,
         "gp:id":12693710,
         "qs_pg:id":240420
@@ -145,7 +161,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"16191ccd4ec9bb118df299c13c2ce111",
+    "wof:geomhash":"ea8f8c487072a9297daa9d568887a28d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404334611,
-    "wof:lastmodified":1582361725,
+    "wof:lastmodified":1684352301,
     "wof:name":"Borrass\u00e0",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":733,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

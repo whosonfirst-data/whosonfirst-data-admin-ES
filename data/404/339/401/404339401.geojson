@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_30037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torre-Pacheco",
+    "eurostat:nuts_2021_id":"30037",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES62",
+    "eurostat:nuts_2021_level_3":"ES620",
+    "eurostat:nuts_2021_level_lau":"30037",
+    "eurostat:population":36464,
+    "eurostat:population_year":2020,
     "geom:area":0.01937,
-    "geom:area_square_m":189312376.778196,
+    "geom:area_square_m":189312376.778194,
     "geom:bbox":"-1.07574658,37.72013895,-0.85019237,37.8492255",
     "geom:latitude":37.77747,
     "geom:longitude":-0.966796,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_30037",
+        "eurostat:nuts_2021_id":"30037",
         "gn:id":6359541,
         "gp:id":12688163,
         "qs_pg:id":243080
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7d928be7d321fcd7d810add3b5eca51e",
+    "wof:geomhash":"6607b6c874c10ef100e7aa581c5579b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404339401,
-    "wof:lastmodified":1582361585,
+    "wof:lastmodified":1684352394,
     "wof:name":"Torre-Pacheco",
     "wof:parent_id":85682791,
     "wof:placetype":"localadmin",
+    "wof:population":36464,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

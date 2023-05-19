@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05144",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Narrillos del \u00c1lamo",
+    "eurostat:nuts_2021_id":"05144",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05144",
+    "eurostat:population":72,
+    "eurostat:population_year":2020,
     "geom:area":0.003121,
-    "geom:area_square_m":29313445.176095,
+    "geom:area_square_m":29313445.176096,
     "geom:bbox":"-5.52933334,40.54073343,-5.39814961,40.61040857",
     "geom:latitude":40.57389,
     "geom:longitude":-5.46999,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_05144",
+        "eurostat:nuts_2021_id":"05144"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"8e24c0a9ff802821a2a19d57241644df",
+    "wof:geomhash":"8834fa5d104e282662ccae9a3917cc67",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404330087,
-    "wof:lastmodified":1566589925,
+    "wof:lastmodified":1684352219,
     "wof:name":"Narrillos Del \u00c1lamo",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":72,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

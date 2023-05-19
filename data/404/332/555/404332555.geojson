@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Almohar\u00edn",
+    "eurostat:nuts_2021_id":"10020",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10020",
+    "eurostat:population":1811,
+    "eurostat:population_year":2020,
     "geom:area":0.00976,
-    "geom:area_square_m":93599697.2247,
+    "geom:area_square_m":93599697.224698,
     "geom:bbox":"-6.13389396,39.0499439,-5.98748902,39.20576401",
     "geom:latitude":39.141373,
     "geom:longitude":-6.059042,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10020",
+        "eurostat:nuts_2021_id":"10020",
         "gn:id":6356717,
         "gp:id":12694502,
         "qs_pg:id":1149624
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"07c1cfcb5614f7feead9a14f2555e99a",
+    "wof:geomhash":"16ea74d017cbf239bfaec2f011017156",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404332555,
-    "wof:lastmodified":1582361685,
+    "wof:lastmodified":1684352265,
     "wof:name":"Almohar\u00edn",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":1811,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

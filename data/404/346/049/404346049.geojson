@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48065",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ugao-Miraballes",
+    "eurostat:nuts_2021_id":"48065",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48065",
+    "eurostat:population":4148,
+    "eurostat:population_year":2020,
     "geom:area":0.000582,
-    "geom:area_square_m":5248221.310688,
+    "geom:area_square_m":5248221.310687,
     "geom:bbox":"-2.92365917,43.15777282,-2.88114327,43.20414807",
     "geom:latitude":43.182525,
     "geom:longitude":-2.904127,
@@ -102,6 +114,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -109,9 +123,12 @@
         404227393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_48065",
+        "eurostat:nuts_2021_id":"48065"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"b854629da3ebb484c35440b83c8051b9",
+    "wof:geomhash":"1d089aa9eb3c50ec5f8ae81c914e5974",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +139,12 @@
         }
     ],
     "wof:id":404346049,
-    "wof:lastmodified":1566590235,
+    "wof:lastmodified":1684352494,
     "wof:name":"Ugao-Miraballes",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":4148,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

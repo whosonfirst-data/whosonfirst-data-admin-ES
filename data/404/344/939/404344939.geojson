@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46062",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Benig\u00e0nim",
+    "eurostat:nuts_2021_id":"46062",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46062",
+    "eurostat:population":5779,
+    "eurostat:population_year":2020,
     "geom:area":0.003475,
-    "geom:area_square_m":33413900.601683,
+    "geom:area_square_m":33413900.601682,
     "geom:bbox":"-0.4912377,38.91644649,-0.39309722,38.98711793",
     "geom:latitude":38.954692,
     "geom:longitude":-0.445824,
@@ -57,6 +69,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -65,6 +79,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46062",
+        "eurostat:nuts_2021_id":"46062",
         "gn:id":6361927,
         "gp:id":12695603,
         "qs_pg:id":303536
@@ -73,7 +89,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f309d88a5858019144bb6c3f879ab762",
+    "wof:geomhash":"71a8f86c6e27f68dc7b7b2a12c8ad92c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +100,12 @@
         }
     ],
     "wof:id":404344939,
-    "wof:lastmodified":1582361844,
+    "wof:lastmodified":1684352480,
     "wof:name":"Benig\u00e1nim",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":5779,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06074",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Llerena",
+    "eurostat:nuts_2021_id":"06074",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06074",
+    "eurostat:population":5743,
+    "eurostat:population_year":2020,
     "geom:area":0.016739,
     "geom:area_square_m":162583647.778752,
     "geom:bbox":"-6.16394788,38.15563901,-5.94292026,38.31217438",
@@ -48,6 +60,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -56,6 +70,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06074",
+        "eurostat:nuts_2021_id":"06074",
         "gn:id":6355939,
         "gp:id":12694392,
         "qs_pg:id":831738
@@ -64,7 +80,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5116819c3d9b958c15b4d8512c05b931",
+    "wof:geomhash":"4bccaf7ef132307f3ee35c374803f2f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,10 +91,12 @@
         }
     ],
     "wof:id":404330523,
-    "wof:lastmodified":1582361545,
+    "wof:lastmodified":1684352225,
     "wof:name":"Llerena",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":5743,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

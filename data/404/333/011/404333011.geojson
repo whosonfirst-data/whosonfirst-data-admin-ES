@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_11002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alcal\u00e1 del Valle",
+    "eurostat:nuts_2021_id":"11002",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES612",
+    "eurostat:nuts_2021_level_lau":"11002",
+    "eurostat:population":5043,
+    "eurostat:population_year":2020,
     "geom:area":0.004742,
-    "geom:area_square_m":46880674.662208,
+    "geom:area_square_m":46880674.66221,
     "geom:bbox":"-5.20062072,36.88561699,-5.09178384,36.95933177",
     "geom:latitude":36.921575,
     "geom:longitude":-5.149578,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_11002",
+        "eurostat:nuts_2021_id":"11002",
         "gn:id":6356917,
         "gp:id":12688728,
         "qs_pg:id":1162688
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b4e9490d1c85f91084ceb0baf6421114",
+    "wof:geomhash":"4a5d02b6bf97fd31846999c1675fcd58",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404333011,
-    "wof:lastmodified":1582361777,
+    "wof:lastmodified":1684352272,
     "wof:name":"Alcal\u00e1 Del Valle",
     "wof:parent_id":85682679,
     "wof:placetype":"localadmin",
+    "wof:population":5043,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

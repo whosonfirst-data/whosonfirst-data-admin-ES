@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09418",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valles de Palenzuela",
+    "eurostat:nuts_2021_id":"09418",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09418",
+    "eurostat:population":79,
+    "eurostat:population_year":2020,
     "geom:area":0.002272,
     "geom:area_square_m":20841221.84102,
     "geom:bbox":"-4.11520852,42.10086248,-4.02786906,42.14199955",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_09418",
+        "eurostat:nuts_2021_id":"09418"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"d2e358171bf6e0c7e0f5eb292bf52442",
+    "wof:geomhash":"215094c7a409f6adad7d5e1871324725",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404332383,
-    "wof:lastmodified":1566590499,
+    "wof:lastmodified":1684352264,
     "wof:name":"Valles De Palenzuela",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":79,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

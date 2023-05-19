@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31145",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lazagurr\u00eda",
+    "eurostat:nuts_2021_id":"31145",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31145",
+    "eurostat:population":185,
+    "eurostat:population_year":2020,
     "geom:area":0.001863,
     "geom:area_square_m":16985281.921473,
     "geom:bbox":"-2.27902516,42.4717328,-2.19439891,42.51414394",
@@ -87,6 +99,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -95,6 +109,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31145",
+        "eurostat:nuts_2021_id":"31145",
         "gn:id":6359693,
         "gp:id":12688321,
         "qs_pg:id":44621
@@ -103,7 +119,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"139445ba3eb1bb6c97bceabeba572b5c",
+    "wof:geomhash":"311c339b6cb482d9cb40447f1d918172",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,10 +130,12 @@
         }
     ],
     "wof:id":404339781,
-    "wof:lastmodified":1582361597,
+    "wof:lastmodified":1684352398,
     "wof:name":"Lazagurr\u00eda",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":185,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

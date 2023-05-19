@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_23018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cambil",
+    "eurostat:nuts_2021_id":"23018",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES616",
+    "eurostat:nuts_2021_level_lau":"23018",
+    "eurostat:population":2683,
+    "eurostat:population_year":2020,
     "geom:area":0.014286,
     "geom:area_square_m":139820440.588917,
     "geom:bbox":"-3.63012699,37.60331253,-3.46685387,37.7427535",
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_23018",
+        "eurostat:nuts_2021_id":"23018",
         "gn:id":6358472,
         "gp:id":12689111,
         "qs_pg:id":1000252
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d24b5224a3daa6efc772e3db96496d0a",
+    "wof:geomhash":"4b8a30e8eea386ad20852ad085a53aab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404336953,
-    "wof:lastmodified":1582361459,
+    "wof:lastmodified":1684352346,
     "wof:name":"Cambil",
     "wof:parent_id":85682757,
     "wof:placetype":"localadmin",
+    "wof:population":2683,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Buenaventura",
+    "eurostat:nuts_2021_id":"45022",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45022",
+    "eurostat:population":423,
+    "eurostat:population_year":2020,
     "geom:area":0.003782,
-    "geom:area_square_m":35734359.136257,
+    "geom:area_square_m":35734359.136256,
     "geom:bbox":"-4.92467528,40.14069464,-4.82348624,40.20518607",
     "geom:latitude":40.169446,
     "geom:longitude":-4.874263,
@@ -87,6 +99,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -95,6 +109,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45022",
+        "eurostat:nuts_2021_id":"45022",
         "gn:id":6361683,
         "gp:id":12690944,
         "qs_pg:id":46023
@@ -103,7 +119,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b93b409bf5428d8f54d0e967f26c7425",
+    "wof:geomhash":"ee8a3bee56377dacc77dc89ecc8c3828",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,10 +130,12 @@
         }
     ],
     "wof:id":404344389,
-    "wof:lastmodified":1582361859,
+    "wof:lastmodified":1684352473,
     "wof:name":"Buenaventura",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":423,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

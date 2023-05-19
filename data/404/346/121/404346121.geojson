@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48097",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zaratamo",
+    "eurostat:nuts_2021_id":"48097",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48097",
+    "eurostat:population":1631,
+    "eurostat:population_year":2020,
     "geom:area":0.001128,
-    "geom:area_square_m":10165003.389051,
+    "geom:area_square_m":10165003.389052,
     "geom:bbox":"-2.88745234,43.18451091,-2.84623315,43.23112978",
     "geom:latitude":43.207224,
     "geom:longitude":-2.867544,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_48097",
+        "eurostat:nuts_2021_id":"48097",
         "gn:id":6362435,
         "gp:id":12695262,
         "qs_pg:id":335024
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b4ef27bdfbf96d1ffaf6024ae1e081d2",
+    "wof:geomhash":"c9661f050b18697dd138c40c986ad844",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404346121,
-    "wof:lastmodified":1582361614,
+    "wof:lastmodified":1684352495,
     "wof:name":"Zaratamo",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":1631,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09277",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Puentedura",
+    "eurostat:nuts_2021_id":"09277",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09277",
+    "eurostat:population":109,
+    "eurostat:population_year":2020,
     "geom:area":0.001782,
     "geom:area_square_m":16362722.040369,
     "geom:bbox":"-3.61605211,42.01834631,-3.55510423,42.07571535",
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09277",
+        "eurostat:nuts_2021_id":"09277",
         "gn:id":6356543,
         "gp:id":12691592,
         "qs_pg:id":1005675
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a8a57827915d2863821cc6bc3c2a7eff",
+    "wof:geomhash":"87b5838c522da4fdc1368f68b8c77897",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404332133,
-    "wof:lastmodified":1582361677,
+    "wof:lastmodified":1684352261,
     "wof:name":"Puentedura",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":109,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

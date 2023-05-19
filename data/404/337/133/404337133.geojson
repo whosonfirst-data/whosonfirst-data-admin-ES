@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_23905",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arroyo del Ojanco",
+    "eurostat:nuts_2021_id":"23905",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES616",
+    "eurostat:nuts_2021_level_lau":"23905",
+    "eurostat:population":2287,
+    "eurostat:population_year":2020,
     "geom:area":0.005903,
-    "geom:area_square_m":57275308.407274,
+    "geom:area_square_m":57275308.407277,
     "geom:bbox":"-2.95986905,38.27604537,-2.80862922,38.35158119",
     "geom:latitude":38.308802,
     "geom:longitude":-2.886252,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_23905",
+        "eurostat:nuts_2021_id":"23905",
         "gn:id":6358551,
         "gp:id":23388475,
         "qs_pg:id":57730
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"df4ebf01f5a9d92bee23db3b2ff24018",
+    "wof:geomhash":"625a11a9abd5ff607ca7ecb80f867197",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404337133,
-    "wof:lastmodified":1582361550,
+    "wof:lastmodified":1684352349,
     "wof:name":"Arroyo Del Ojanco",
     "wof:parent_id":85682757,
     "wof:placetype":"localadmin",
+    "wof:population":2287,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

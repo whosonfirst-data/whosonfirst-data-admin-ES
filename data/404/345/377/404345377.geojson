@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46257",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villanueva de Castell\u00f3n",
+    "eurostat:nuts_2021_id":"46257",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46257",
+    "eurostat:population":7054,
+    "eurostat:population_year":2020,
     "geom:area":0.002113,
     "geom:area_square_m":20286675.448328,
     "geom:bbox":"-0.54470499,39.03975653,-0.49029268,39.11012397",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227381
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_46257",
+        "eurostat:nuts_2021_id":"46257"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"28233aadfe8276e980698c1b020e629f",
+    "wof:geomhash":"2bafe7c3c0b26d71d3ae83f72f860eb8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404345377,
-    "wof:lastmodified":1566591015,
+    "wof:lastmodified":1684352485,
     "wof:name":"Villanueva De Castell\u00f3n",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":7054,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

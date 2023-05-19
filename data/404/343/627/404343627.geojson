@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43105,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Piles, Les",
+    "eurostat:nuts_2021_id":"43105",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43105",
+    "eurostat:population":210,
+    "eurostat:population_year":2020,
     "geom:area":0.002435,
-    "geom:area_square_m":22550688.545848,
+    "geom:area_square_m":22550640.770785,
     "geom:bbox":"1.317775,41.46824,1.398535,41.529502",
     "geom:latitude":41.501936,
     "geom:longitude":1.349425,
@@ -121,6 +133,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -129,7 +143,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43105",
         "esp-icgc:la_lc":"043105",
+        "eurostat:nuts_2021_id":"43105",
         "gn:id":6361347,
         "gp:id":12694242,
         "qs_pg:id":396686
@@ -139,7 +155,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"ddef83d208df3f3b7ec819b02acae11e",
+    "wof:geomhash":"dd84e2abd0332de5b5d6bdd957697142",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404343627,
-    "wof:lastmodified":1669903062,
+    "wof:lastmodified":1684352458,
     "wof:name":"Les Piles",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":210,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

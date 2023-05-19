@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_41016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bollullos de la Mitaci\u00f3n",
+    "eurostat:nuts_2021_id":"41016",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES618",
+    "eurostat:nuts_2021_level_lau":"41016",
+    "eurostat:population":10931,
+    "eurostat:population_year":2020,
     "geom:area":0.006338,
-    "geom:area_square_m":62331223.631867,
+    "geom:area_square_m":62331223.631858,
     "geom:bbox":"-6.2005219,37.25431675,-6.09199152,37.37667509",
     "geom:latitude":37.315393,
     "geom:longitude":-6.152746,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_41016",
+        "eurostat:nuts_2021_id":"41016",
         "gn:id":6360971,
         "gp:id":12689306,
         "qs_pg:id":964393
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"49ba4fe49cff57ce52d5ad94df00901b",
+    "wof:geomhash":"f0509010df29f094b213a26f45135728",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404342779,
-    "wof:lastmodified":1582361814,
+    "wof:lastmodified":1684352443,
     "wof:name":"Bollullos De La Mitaci\u00f3n",
     "wof:parent_id":85682841,
     "wof:placetype":"localadmin",
+    "wof:population":10931,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

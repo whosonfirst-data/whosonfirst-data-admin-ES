@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_27063",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valadouro, O",
+    "eurostat:nuts_2021_id":"27063",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES112",
+    "eurostat:nuts_2021_level_lau":"27063",
+    "eurostat:population":1978,
+    "eurostat:population_year":2020,
     "geom:area":0.012299,
-    "geom:area_square_m":110249008.102096,
+    "geom:area_square_m":110249008.102093,
     "geom:bbox":"-7.57224204,43.4606152,-7.35947213,43.6084078",
     "geom:latitude":43.537962,
     "geom:longitude":-7.481269,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_27063",
+        "eurostat:nuts_2021_id":"27063",
         "gn:id":6359221,
         "qs_pg:id":621748
     },
@@ -111,7 +127,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"46080d6ec2b84fe05af47fb2d9ef829d",
+    "wof:geomhash":"d3cf6f5a3308aff96746184c0c98394e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +138,12 @@
         }
     ],
     "wof:id":404338673,
-    "wof:lastmodified":1582361435,
+    "wof:lastmodified":1684352379,
     "wof:name":"O Valadouro",
     "wof:parent_id":85682775,
     "wof:placetype":"localadmin",
+    "wof:population":1978,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

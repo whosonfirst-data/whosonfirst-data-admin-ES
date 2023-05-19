@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Binaced",
+    "eurostat:nuts_2021_id":"22060",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22060",
+    "eurostat:population":1605,
+    "eurostat:population_year":2020,
     "geom:area":0.008504,
     "geom:area_square_m":78379131.505893,
     "geom:bbox":"0.12517304,41.76521137,0.29053594,41.86451236",
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22060",
+        "eurostat:nuts_2021_id":"22060",
         "gn:id":6358306,
         "gp:id":12689447,
         "qs_pg:id":953865
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fa0b70244eccdcfec3dccdd180e23bfe",
+    "wof:geomhash":"a0d8b9066ed7f6ee3d0b216bd665d4d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404336575,
-    "wof:lastmodified":1582361466,
+    "wof:lastmodified":1684352340,
     "wof:name":"Binaced",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":1605,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

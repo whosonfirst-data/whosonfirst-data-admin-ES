@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17140,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17140",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Port de la Selva, El",
+    "eurostat:nuts_2021_id":"17140",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17140",
+    "eurostat:population":958,
+    "eurostat:population_year":2020,
     "geom:area":0.004517,
-    "geom:area_square_m":41298770.41305,
+    "geom:area_square_m":41298802.432925,
     "geom:bbox":"3.129959,42.28904,3.286414,42.355387",
     "geom:latitude":42.324945,
     "geom:longitude":3.2166,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17140",
         "esp-icgc:la_lc":"017140",
+        "eurostat:nuts_2021_id":"17140",
         "gn:id":6534107,
         "gp:id":12693813,
         "qs_pg:id":388751
@@ -67,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e59386e79147031f54f27593aa5604d2",
+    "wof:geomhash":"07bc5ea4532a682e93c61cbb3218c433",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404334845,
-    "wof:lastmodified":1669903042,
+    "wof:lastmodified":1684352311,
     "wof:name":"El Port de la Selva",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":958,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

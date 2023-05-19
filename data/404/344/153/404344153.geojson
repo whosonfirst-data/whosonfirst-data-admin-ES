@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44175",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Orrios",
+    "eurostat:nuts_2021_id":"44175",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44175",
+    "eurostat:population":128,
+    "eurostat:population_year":2020,
     "geom:area":0.004705,
-    "geom:area_square_m":44180440.377071,
+    "geom:area_square_m":44180440.377072,
     "geom:bbox":"-1.04661628,40.55981443,-0.87279321,40.60871703",
     "geom:latitude":40.58311,
     "geom:longitude":-0.959901,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44175",
+        "eurostat:nuts_2021_id":"44175",
         "gn:id":6361579,
         "gp:id":12689751,
         "qs_pg:id":45462
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1149c9d6473de2e04bd000e21cb61508",
+    "wof:geomhash":"5022ab848f8ca9870d16c101e8ea202b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404344153,
-    "wof:lastmodified":1582361851,
+    "wof:lastmodified":1684352470,
     "wof:name":"Orrios",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":128,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

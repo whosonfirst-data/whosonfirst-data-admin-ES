@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05155",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Navaescurial",
+    "eurostat:nuts_2021_id":"05155",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05155",
+    "eurostat:population":45,
+    "eurostat:population_year":2020,
     "geom:area":0.003749,
-    "geom:area_square_m":35274643.953804,
+    "geom:area_square_m":35274643.953808,
     "geom:bbox":"-5.31443214,40.43506499,-5.20803365,40.49455445",
     "geom:latitude":40.461768,
     "geom:longitude":-5.260318,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05155",
+        "eurostat:nuts_2021_id":"05155",
         "gn:id":6355755,
         "gp:id":12691264,
         "qs_pg:id":1025376
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4e479b77b63be18641f17ee68e4d4edc",
+    "wof:geomhash":"859f65a4fb68d58626f6eeb98454715a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404330107,
-    "wof:lastmodified":1582361533,
+    "wof:lastmodified":1684352219,
     "wof:name":"Navaescurial",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":45,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

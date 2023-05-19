@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37174",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Macotera",
+    "eurostat:nuts_2021_id":"37174",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37174",
+    "eurostat:population":1019,
+    "eurostat:population_year":2020,
     "geom:area":0.003516,
     "geom:area_square_m":32896547.137952,
     "geom:bbox":"-5.35284903,40.80489971,-5.24161329,40.86575098",
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37174",
+        "eurostat:nuts_2021_id":"37174",
         "gn:id":6360416,
         "gp:id":12692310,
         "qs_pg:id":46680
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2866a0d222cc7a37ba394834c9711b49",
+    "wof:geomhash":"8546b02d119223b4774adc6b426cf2a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404341459,
-    "wof:lastmodified":1582361640,
+    "wof:lastmodified":1684352424,
     "wof:name":"Macotera",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":1019,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_39050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pesaguero",
+    "eurostat:nuts_2021_id":"39050",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES13",
+    "eurostat:nuts_2021_level_3":"ES130",
+    "eurostat:nuts_2021_level_lau":"39050",
+    "eurostat:population":295,
+    "eurostat:population_year":2020,
     "geom:area":0.007735,
-    "geom:area_square_m":69876970.200004,
+    "geom:area_square_m":69876970.200007,
     "geom:bbox":"-4.60608412,43.01951475,-4.46245883,43.10840218",
     "geom:latitude":43.064943,
     "geom:longitude":-4.534838,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_39050",
+        "eurostat:nuts_2021_id":"39050",
         "gn:id":6360696,
         "gp:id":12688571,
         "qs_pg:id":1146074
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"98d7b1b73d380e028278f3c9cbac7426",
+    "wof:geomhash":"97dbe63eb0c979191d8f8ac2eb5e2623",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404342153,
-    "wof:lastmodified":1582361815,
+    "wof:lastmodified":1684352436,
     "wof:name":"Pesaguero",
     "wof:parent_id":85682833,
     "wof:placetype":"localadmin",
+    "wof:population":295,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

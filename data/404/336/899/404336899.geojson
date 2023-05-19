@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22903",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Miguel del Cinca",
+    "eurostat:nuts_2021_id":"22903",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22903",
+    "eurostat:population":780,
+    "eurostat:population_year":2020,
     "geom:area":0.01154,
-    "geom:area_square_m":106342163.802468,
+    "geom:area_square_m":106342163.802469,
     "geom:bbox":"0.01125759,41.75910291,0.14197729,41.88554325",
     "geom:latitude":41.819671,
     "geom:longitude":0.082654,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_22903",
+        "eurostat:nuts_2021_id":"22903"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"c8b20cc5afe662e02b654f4d3aa61061",
+    "wof:geomhash":"3e758ef2f755214c8f2c81d6c6148d77",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404336899,
-    "wof:lastmodified":1566589727,
+    "wof:lastmodified":1684352345,
     "wof:name":"San Miguel Del Cinca",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":780,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

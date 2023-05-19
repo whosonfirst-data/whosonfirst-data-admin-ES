@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_34003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Abia de las Torres",
+    "eurostat:nuts_2021_id":"34003",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES414",
+    "eurostat:nuts_2021_level_lau":"34003",
+    "eurostat:population":170,
+    "eurostat:population_year":2020,
     "geom:area":0.002971,
     "geom:area_square_m":27117049.172825,
     "geom:bbox":"-4.44565622,42.39715415,-4.38245191,42.49530516",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_34003",
+        "eurostat:nuts_2021_id":"34003",
         "gn:id":6359981,
         "gp:id":12691960,
         "qs_pg:id":954698
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"10f1184a556a2deaf3c65f28ae7f018c",
+    "wof:geomhash":"ca5b4613c9561ff8a6a119194f2b67ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404340459,
-    "wof:lastmodified":1582361664,
+    "wof:lastmodified":1684352409,
     "wof:name":"Abia De Las Torres",
     "wof:parent_id":85682815,
     "wof:placetype":"localadmin",
+    "wof:population":170,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

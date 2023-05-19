@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_02073",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tarazona de la Mancha",
+    "eurostat:nuts_2021_id":"02073",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES421",
+    "eurostat:nuts_2021_level_lau":"02073",
+    "eurostat:population":6187,
+    "eurostat:population_year":2020,
     "geom:area":0.022179,
-    "geom:area_square_m":212408282.760513,
+    "geom:area_square_m":212408282.760515,
     "geom:bbox":"-2.05887072,39.15787199,-1.82438111,39.3047902",
     "geom:latitude":39.239005,
     "geom:longitude":-1.936677,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_02073",
+        "eurostat:nuts_2021_id":"02073",
         "gn:id":6355363,
         "gp:id":12690284,
         "qs_pg:id":45698
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f08e81f9b9cb11866ea0eb8d472f321d",
+    "wof:geomhash":"76b39b763b1fa0fb7539749bfed3f6aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404329217,
-    "wof:lastmodified":1582361790,
+    "wof:lastmodified":1684352206,
     "wof:name":"Tarazona De La Mancha",
     "wof:parent_id":85682621,
     "wof:placetype":"localadmin",
+    "wof:population":6187,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

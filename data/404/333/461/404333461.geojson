@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_13023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bola\u00f1os de Calatrava",
+    "eurostat:nuts_2021_id":"13023",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES422",
+    "eurostat:nuts_2021_level_lau":"13023",
+    "eurostat:population":12019,
+    "eurostat:population_year":2020,
     "geom:area":0.009127,
-    "geom:area_square_m":87822498.372022,
+    "geom:area_square_m":87822498.372023,
     "geom:bbox":"-3.69612985,38.84727008,-3.55967741,38.97480965",
     "geom:latitude":38.910036,
     "geom:longitude":-3.624098,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_13023",
+        "eurostat:nuts_2021_id":"13023",
         "gn:id":6357117,
         "gp:id":12690320,
         "qs_pg:id":1003653
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0ee36532d2b231f477f3b9e6f60c2c5c",
+    "wof:geomhash":"df0d0d4a83e1e77781e4e90758a777f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404333461,
-    "wof:lastmodified":1582361781,
+    "wof:lastmodified":1684352279,
     "wof:name":"Bola\u00f1os De Calatrava",
     "wof:parent_id":85682689,
     "wof:placetype":"localadmin",
+    "wof:population":12019,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

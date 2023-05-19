@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17190,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17190",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Seriny\u00e0",
+    "eurostat:nuts_2021_id":"17190",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17190",
+    "eurostat:population":1133,
+    "eurostat:population_year":2020,
     "geom:area":0.001875,
-    "geom:area_square_m":17183741.62688,
+    "geom:area_square_m":17183689.650909,
     "geom:bbox":"2.70096,42.145195,2.77082,42.189459",
     "geom:latitude":42.167423,
     "geom:longitude":2.737909,
@@ -121,6 +133,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -129,7 +143,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17190",
         "esp-icgc:la_lc":"017190",
+        "eurostat:nuts_2021_id":"17190",
         "gn:id":6534146,
         "gp:id":12693863,
         "qs_pg:id":289941
@@ -139,7 +155,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"76244a2d026225350025c517a9233eae",
+    "wof:geomhash":"b0d1c5daf6f8375aa5498d91ba513d91",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404334953,
-    "wof:lastmodified":1669903040,
+    "wof:lastmodified":1684352316,
     "wof:name":"Seriny\u00e0",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":1133,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

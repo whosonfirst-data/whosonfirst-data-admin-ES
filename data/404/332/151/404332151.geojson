@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09288",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Quintanapalla",
+    "eurostat:nuts_2021_id":"09288",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09288",
+    "eurostat:population":110,
+    "eurostat:population_year":2020,
     "geom:area":0.001736,
-    "geom:area_square_m":15849356.971788,
+    "geom:area_square_m":15849356.971789,
     "geom:bbox":"-3.58283182,42.39583545,-3.49795019,42.43091899",
     "geom:latitude":42.414549,
     "geom:longitude":-3.536766,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09288",
+        "eurostat:nuts_2021_id":"09288",
         "gn:id":6356549,
         "gp:id":12691598,
         "qs_pg:id":954476
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"02d08e4c938c1345f8b2b473df6806e0",
+    "wof:geomhash":"f069b61ddc14bf620ccefce133fdf2ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404332151,
-    "wof:lastmodified":1582361678,
+    "wof:lastmodified":1684352261,
     "wof:name":"Quintanapalla",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":110,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

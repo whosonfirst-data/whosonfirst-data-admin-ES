@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50188",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nombrevilla",
+    "eurostat:nuts_2021_id":"50188",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50188",
+    "eurostat:population":31,
+    "eurostat:population_year":2020,
     "geom:area":0.001883,
-    "geom:area_square_m":17541961.31907,
+    "geom:area_square_m":17541961.319069,
     "geom:bbox":"-1.37430778,41.08596225,-1.3107699,41.13588933",
     "geom:latitude":41.108772,
     "geom:longitude":-1.34449,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50188",
+        "eurostat:nuts_2021_id":"50188",
         "gn:id":6362875,
         "gp:id":12690015,
         "qs_pg:id":45564
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f3c2c5363a0fc8cb772e625590d84c80",
+    "wof:geomhash":"daa752b54598b5a4761d0edcec3bd83f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404347121,
-    "wof:lastmodified":1582361672,
+    "wof:lastmodified":1684352507,
     "wof:name":"Nombrevilla",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":31,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

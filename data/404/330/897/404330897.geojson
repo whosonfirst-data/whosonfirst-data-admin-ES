@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8008,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Argen\u00e7ola",
+    "eurostat:nuts_2021_id":"08008",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08008",
+    "eurostat:population":219,
+    "eurostat:population_year":2020,
     "geom:area":0.005119,
-    "geom:area_square_m":47336438.959119,
+    "geom:area_square_m":47336552.472534,
     "geom:bbox":"1.392269,41.550046,1.525254,41.63667",
     "geom:latitude":41.595325,
     "geom:longitude":1.45486,
@@ -150,6 +162,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -158,13 +172,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"08008"
+        "eg:gisco_id":"ES_08008",
+        "esp-icgc:la_lc":"08008",
+        "eurostat:nuts_2021_id":"08008"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"aa98459fb6825d75f1d6455c8de1e1f7",
+    "wof:geomhash":"2ad689da50d026dea89101ba4864cab0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -175,10 +191,12 @@
         }
     ],
     "wof:id":404330897,
-    "wof:lastmodified":1669903017,
+    "wof:lastmodified":1684352234,
     "wof:name":"Argen\u00e7ola",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":219,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

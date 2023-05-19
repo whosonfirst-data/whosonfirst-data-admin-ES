@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12116",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torralba del Pinar",
+    "eurostat:nuts_2021_id":"12116",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12116",
+    "eurostat:population":61,
+    "eurostat:population_year":2020,
     "geom:area":0.002235,
     "geom:area_square_m":21171857.720728,
     "geom:bbox":"-0.48857802,39.96901715,-0.41601366,40.03080961",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12116",
+        "eurostat:nuts_2021_id":"12116",
         "gn:id":6357066,
         "gp:id":12695515,
         "qs_pg:id":268554
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c0b6d1341e9fe22d112f3fa6c3dfaad1",
+    "wof:geomhash":"070e7a3ab93c31678c70fe624b96c1d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404333347,
-    "wof:lastmodified":1582361771,
+    "wof:lastmodified":1684352277,
     "wof:name":"Torralba Del Pinar",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":61,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

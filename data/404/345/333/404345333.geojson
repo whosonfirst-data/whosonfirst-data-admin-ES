@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46237",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tavernes Blanques",
+    "eurostat:nuts_2021_id":"46237",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46237",
+    "eurostat:population":9224,
+    "eurostat:population_year":2020,
     "geom:area":0.000077,
     "geom:area_square_m":735609.489632,
     "geom:bbox":"-0.37190227,39.50200167,-0.3566343,39.51245371",
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46237",
+        "eurostat:nuts_2021_id":"46237",
         "gn:id":6362102,
         "gp:id":12695776,
         "qs_pg:id":1209031
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"87990d57bb12ee5b70db0a35500159d8",
+    "wof:geomhash":"ea948dfcd0c0a4e910571639e1bd5da5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404345333,
-    "wof:lastmodified":1582361835,
+    "wof:lastmodified":1684352485,
     "wof:name":"Tavernes Blanques",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":9224,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

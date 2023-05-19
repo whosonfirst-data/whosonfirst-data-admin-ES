@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06125",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Siruela",
+    "eurostat:nuts_2021_id":"06125",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06125",
+    "eurostat:population":1861,
+    "eurostat:population_year":2020,
     "geom:area":0.021047,
-    "geom:area_square_m":202312371.925006,
+    "geom:area_square_m":202312371.925007,
     "geom:bbox":"-5.20370074,38.91935306,-4.9604226,39.04594846",
     "geom:latitude":38.979516,
     "geom:longitude":-5.076814,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06125",
+        "eurostat:nuts_2021_id":"06125",
         "gn:id":6355990,
         "gp:id":12694444,
         "qs_pg:id":1163723
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0f5edb3e9e15b52d1a4a9a64c7c21189",
+    "wof:geomhash":"2c8ce8578b0dedd8fad36b880e37ecb8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404330637,
-    "wof:lastmodified":1582361538,
+    "wof:lastmodified":1684352227,
     "wof:name":"Siruela",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":1861,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

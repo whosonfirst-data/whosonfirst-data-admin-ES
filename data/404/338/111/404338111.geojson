@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25901,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25901",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vall de Card\u00f3s",
+    "eurostat:nuts_2021_id":"25901",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25901",
+    "eurostat:population":350,
+    "eurostat:population_year":2020,
     "geom:area":0.006187,
-    "geom:area_square_m":56322038.755339,
+    "geom:area_square_m":56322152.516293,
     "geom:bbox":"1.17867,42.525122,1.271675,42.662415",
     "geom:latitude":42.586689,
     "geom:longitude":1.216877,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25901",
         "esp-icgc:la_lc":"025901",
+        "eurostat:nuts_2021_id":"25901",
         "gp:id":12694118,
         "qs_pg:id":64545
     },
@@ -66,7 +82,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0ccdcb290c1b91bd1584ccb0bdf2b599",
+    "wof:geomhash":"b905bda8c6b0841b5027649c74ccc37c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,10 +93,12 @@
         }
     ],
     "wof:id":404338111,
-    "wof:lastmodified":1669902993,
+    "wof:lastmodified":1684352371,
     "wof:name":"Vall de Card\u00f3s",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":350,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

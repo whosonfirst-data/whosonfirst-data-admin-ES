@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16272",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villas de la Ventosa",
+    "eurostat:nuts_2021_id":"16272",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16272",
+    "eurostat:population":213,
+    "eurostat:population_year":2020,
     "geom:area":0.015355,
     "geom:area_square_m":144954206.992782,
     "geom:bbox":"-2.49911063,40.16929159,-2.30985752,40.28629371",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16272",
+        "eurostat:nuts_2021_id":"16272",
         "gn:id":6357577,
         "gp:id":12690627,
         "qs_pg:id":1147149
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6908b99aa9f98392d0bcce58933dd4ac",
+    "wof:geomhash":"0cef15ad215ccc0566087e8a95f43493",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404334517,
-    "wof:lastmodified":1582361731,
+    "wof:lastmodified":1684352298,
     "wof:name":"Villas De La Ventosa",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":213,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

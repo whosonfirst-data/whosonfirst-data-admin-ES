@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06126",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Solana de los Barros",
+    "eurostat:nuts_2021_id":"06126",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06126",
+    "eurostat:population":2601,
+    "eurostat:population_year":2020,
     "geom:area":0.006737,
-    "geom:area_square_m":64986868.09088,
+    "geom:area_square_m":64986868.090885,
     "geom:bbox":"-6.63837555,38.68972853,-6.51561414,38.79048363",
     "geom:latitude":38.734115,
     "geom:longitude":-6.566704,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06126",
+        "eurostat:nuts_2021_id":"06126",
         "gn:id":6355991,
         "gp:id":12694445,
         "qs_pg:id":47913
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cfe2c068c7b6b4cc66c32ba05603dc5f",
+    "wof:geomhash":"7f853f88ac685f707e2fd13bb85edc71",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330639,
-    "wof:lastmodified":1582361539,
+    "wof:lastmodified":1684352227,
     "wof:name":"Solana De Los Barros",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":2601,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

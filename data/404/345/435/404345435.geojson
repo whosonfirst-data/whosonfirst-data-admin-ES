@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bercero",
+    "eurostat:nuts_2021_id":"47017",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47017",
+    "eurostat:population":196,
+    "eurostat:population_year":2020,
     "geom:area":0.004465,
-    "geom:area_square_m":41315867.782839,
+    "geom:area_square_m":41315867.782834,
     "geom:bbox":"-5.12825066,41.49957778,-5.02355291,41.60342594",
     "geom:latitude":41.555845,
     "geom:longitude":-5.077403,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_47017",
+        "eurostat:nuts_2021_id":"47017",
         "gn:id":6362145,
         "gp:id":12692919,
         "qs_pg:id":46974
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"20edf2b7f3e1f636f0e13a3407421944",
+    "wof:geomhash":"85e5203ffcb5f0c5414172212335b2ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404345435,
-    "wof:lastmodified":1582361839,
+    "wof:lastmodified":1684352486,
     "wof:name":"Bercero",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":196,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

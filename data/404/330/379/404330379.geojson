@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Almendral",
+    "eurostat:nuts_2021_id":"06010",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06010",
+    "eurostat:population":1239,
+    "eurostat:population_year":2020,
     "geom:area":0.006981,
-    "geom:area_square_m":67456594.472301,
+    "geom:area_square_m":67456594.4723,
     "geom:bbox":"-6.88012558,38.54479411,-6.79874382,38.67586615",
     "geom:latitude":38.610577,
     "geom:longitude":-6.838433,
@@ -129,6 +141,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -137,6 +151,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06010",
+        "eurostat:nuts_2021_id":"06010",
         "gn:id":6355875,
         "gp:id":12694329,
         "qs_pg:id":47836
@@ -145,7 +161,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"470b50759dd645cca347a09502a9536a",
+    "wof:geomhash":"83c25518c56bf430450678841aa0c320",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404330379,
-    "wof:lastmodified":1582361528,
+    "wof:lastmodified":1684352223,
     "wof:name":"Almendral",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":1239,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

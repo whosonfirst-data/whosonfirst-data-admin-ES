@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50081",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cetina",
+    "eurostat:nuts_2021_id":"50081",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50081",
+    "eurostat:population":583,
+    "eurostat:population_year":2020,
     "geom:area":0.008465,
-    "geom:area_square_m":78659962.542591,
+    "geom:area_square_m":78659962.542592,
     "geom:bbox":"-2.01731102,41.21193424,-1.92128042,41.34991127",
     "geom:latitude":41.276323,
     "geom:longitude":-1.969173,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50081",
+        "eurostat:nuts_2021_id":"50081",
         "gn:id":6362774,
         "gp:id":12689914,
         "qs_pg:id":482735
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"29f31fa8790cd58aa30dae6ce1e90243",
+    "wof:geomhash":"dcd8ed33a42401061d3a66cba115bb56",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404346893,
-    "wof:lastmodified":1582361611,
+    "wof:lastmodified":1684352504,
     "wof:name":"Cetina",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":583,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

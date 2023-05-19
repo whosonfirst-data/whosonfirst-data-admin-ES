@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46222",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Joanet",
+    "eurostat:nuts_2021_id":"46222",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46222",
+    "eurostat:population":507,
+    "eurostat:population_year":2020,
     "geom:area":0.000193,
-    "geom:area_square_m":1856038.861997,
+    "geom:area_square_m":1856038.861996,
     "geom:bbox":"-0.49721986,39.06274827,-0.47715696,39.08185135",
     "geom:latitude":39.071852,
     "geom:longitude":-0.489013,
@@ -66,6 +78,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -73,9 +87,12 @@
         404227381
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_46222",
+        "eurostat:nuts_2021_id":"46222"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"ba563a924d564b88955ab4be45da2c92",
+    "wof:geomhash":"37fd2bcc628f0c9c1befb4155257bd5e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,10 +103,12 @@
         }
     ],
     "wof:id":404345299,
-    "wof:lastmodified":1566591048,
+    "wof:lastmodified":1684352484,
     "wof:name":"Sant Joanet",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":507,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

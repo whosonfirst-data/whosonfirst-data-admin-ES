@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_32021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castrelo do Val",
+    "eurostat:nuts_2021_id":"32021",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES113",
+    "eurostat:nuts_2021_level_lau":"32021",
+    "eurostat:population":958,
+    "eurostat:population_year":2020,
     "geom:area":0.013271,
-    "geom:area_square_m":121873218.043765,
+    "geom:area_square_m":121873218.043768,
     "geom:bbox":"-7.46507033,41.97305888,-7.26735681,42.11176631",
     "geom:latitude":42.039154,
     "geom:longitude":-7.357994,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227385
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_32021",
+        "eurostat:nuts_2021_id":"32021"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"ddad509959eab3ab463572e739b5d37d",
+    "wof:geomhash":"ce5f101ac5fc76480f27848c6936e4a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404340119,
-    "wof:lastmodified":1566590403,
+    "wof:lastmodified":1684352402,
     "wof:name":"Castrelo Do Val",
     "wof:parent_id":85682801,
     "wof:placetype":"localadmin",
+    "wof:population":958,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_41056",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Luisiana, La",
+    "eurostat:nuts_2021_id":"41056",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES618",
+    "eurostat:nuts_2021_level_lau":"41056",
+    "eurostat:population":4578,
+    "eurostat:population_year":2020,
     "geom:area":0.004382,
-    "geom:area_square_m":42953808.52155,
+    "geom:area_square_m":42953808.521549,
     "geom:bbox":"-5.28759677,37.51797693,-5.1745785,37.58759649",
     "geom:latitude":37.552055,
     "geom:longitude":-5.218815,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_41056",
+        "eurostat:nuts_2021_id":"41056",
         "gn:id":6361011,
         "gp:id":12689348,
         "qs_pg:id":621872
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ab11bed3e1bfbfa6e0bcc2c07a9017e6",
+    "wof:geomhash":"defb2341be18c50487cd32055de44195",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404342869,
-    "wof:lastmodified":1582361811,
+    "wof:lastmodified":1684352444,
     "wof:name":"La Luisiana",
     "wof:parent_id":85682841,
     "wof:placetype":"localadmin",
+    "wof:population":4578,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

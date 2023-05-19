@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_35024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Teguise",
+    "eurostat:nuts_2021_id":"35024",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES7",
+    "eurostat:nuts_2021_level_2":"ES70",
+    "eurostat:nuts_2021_level_3":"ES708",
+    "eurostat:nuts_2021_level_lau":"35024",
+    "eurostat:population":22703,
+    "eurostat:population_year":2020,
     "geom:area":0.024437,
-    "geom:area_square_m":264042063.119521,
+    "geom:area_square_m":264042063.119551,
     "geom:bbox":"-13.65211646,28.9641375,-13.45150989,29.41649902",
     "geom:latitude":29.094288,
     "geom:longitude":-13.547488,
@@ -39,6 +51,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -47,6 +61,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_35024",
+        "eurostat:nuts_2021_id":"35024",
         "gn:id":6360194,
         "gp:id":12690148,
         "qs_pg:id":1293548
@@ -55,7 +71,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2a2916f26e5336f05f6ceca47811c7cd",
+    "wof:geomhash":"69200c12ca2d1f608de5568c577947ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +82,12 @@
         }
     ],
     "wof:id":404340937,
-    "wof:lastmodified":1582361647,
+    "wof:lastmodified":1684352416,
     "wof:name":"Teguise",
     "wof:parent_id":85682821,
     "wof:placetype":"localadmin",
+    "wof:population":22703,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

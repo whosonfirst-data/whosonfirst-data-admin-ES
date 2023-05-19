@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_32085",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ver\u00edn",
+    "eurostat:nuts_2021_id":"32085",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES113",
+    "eurostat:nuts_2021_level_lau":"32085",
+    "eurostat:population":13647,
+    "eurostat:population_year":2020,
     "geom:area":0.010207,
-    "geom:area_square_m":93932082.571599,
+    "geom:area_square_m":93932082.571601,
     "geom:bbox":"-7.47433209,41.80747765,-7.35276977,41.98302999",
     "geom:latitude":41.906577,
     "geom:longitude":-7.416267,
@@ -123,6 +135,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_32085",
+        "eurostat:nuts_2021_id":"32085",
         "gn:id":6359901,
         "gp:id":12694944,
         "qs_pg:id":48214
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cc55ded75004b4f01ceb122257d35aca",
+    "wof:geomhash":"5817c2100d97bb0c4b508b1bd61e983e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404340263,
-    "wof:lastmodified":1582361664,
+    "wof:lastmodified":1684352404,
     "wof:name":"Ver\u00edn",
     "wof:parent_id":85682801,
     "wof:placetype":"localadmin",
+    "wof:population":13647,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

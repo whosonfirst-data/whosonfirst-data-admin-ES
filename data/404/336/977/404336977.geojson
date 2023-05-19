@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_23031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Esca\u00f1uela",
+    "eurostat:nuts_2021_id":"23031",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES616",
+    "eurostat:nuts_2021_level_lau":"23031",
+    "eurostat:population":944,
+    "eurostat:population_year":2020,
     "geom:area":0.001408,
-    "geom:area_square_m":13746118.636298,
+    "geom:area_square_m":13746118.636299,
     "geom:bbox":"-4.06369889,37.85651875,-3.99740438,37.89417194",
     "geom:latitude":37.875492,
     "geom:longitude":-4.031966,
@@ -108,6 +120,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -115,9 +129,12 @@
         404227361
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_23031",
+        "eurostat:nuts_2021_id":"23031"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"b84a791705d0e243eff6f7762df3f55e",
+    "wof:geomhash":"27bbed838d8c331ac3a84d9195cfc9a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +145,12 @@
         }
     ],
     "wof:id":404336977,
-    "wof:lastmodified":1566589695,
+    "wof:lastmodified":1684352346,
     "wof:name":"Esca\u00f1uela",
     "wof:parent_id":85682757,
     "wof:placetype":"localadmin",
+    "wof:population":944,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

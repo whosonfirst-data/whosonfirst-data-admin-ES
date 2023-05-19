@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47149",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Pelayo",
+    "eurostat:nuts_2021_id":"47149",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47149",
+    "eurostat:population":50,
+    "eurostat:population_year":2020,
     "geom:area":0.001155,
-    "geom:area_square_m":10669618.467756,
+    "geom:area_square_m":10669618.467755,
     "geom:bbox":"-5.04932482,41.67029392,-5.00040399,41.71514904",
     "geom:latitude":41.689435,
     "geom:longitude":-5.027718,
@@ -60,6 +72,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -68,6 +82,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_47149",
+        "eurostat:nuts_2021_id":"47149",
         "gn:id":6362272,
         "gp:id":12693046,
         "qs_pg:id":442459
@@ -76,7 +92,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b8af688ff421ccad6881acbdc480a96c",
+    "wof:geomhash":"5e2bb0c0b8f955e2caa739403328916f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,10 +103,12 @@
         }
     ],
     "wof:id":404345721,
-    "wof:lastmodified":1582361840,
+    "wof:lastmodified":1684352489,
     "wof:name":"San Pelayo",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":50,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"B\u00e1guena",
+    "eurostat:nuts_2021_id":"44033",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44033",
+    "eurostat:population":285,
+    "eurostat:population_year":2020,
     "geom:area":0.002695,
     "geom:area_square_m":25140114.217642,
     "geom:bbox":"-1.41796569,40.99639045,-1.28301754,41.06568282",
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44033",
+        "eurostat:nuts_2021_id":"44033",
         "gn:id":6361457,
         "gp:id":12689628,
         "qs_pg:id":1023706
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4339c4304faee2f68af482a4f4edd1bd",
+    "wof:geomhash":"2d1866405a3db13a012c36137fef4063",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404343877,
-    "wof:lastmodified":1582361885,
+    "wof:lastmodified":1684352467,
     "wof:name":"B\u00e1guena",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":285,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

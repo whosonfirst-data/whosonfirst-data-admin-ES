@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Albuera, La",
+    "eurostat:nuts_2021_id":"06005",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06005",
+    "eurostat:population":2035,
+    "eurostat:population_year":2020,
     "geom:area":0.002731,
     "geom:area_square_m":26355077.363098,
     "geom:bbox":"-6.85134987,38.6876628,-6.75686793,38.73497264",
@@ -135,6 +147,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -143,6 +157,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06005",
+        "eurostat:nuts_2021_id":"06005",
         "gn:id":7577094,
         "gp:id":12694324,
         "qs_pg:id":1293615
@@ -151,7 +167,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"03815f423d72be466ab5ae636e5aba08",
+    "wof:geomhash":"3988d4d478506d6ea57a69e991da58b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -162,10 +178,12 @@
         }
     ],
     "wof:id":404330367,
-    "wof:lastmodified":1582361534,
+    "wof:lastmodified":1684352222,
     "wof:name":"La Albuera",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":2035,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

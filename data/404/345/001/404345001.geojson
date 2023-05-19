@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46090",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castell\u00f3 de Rugat",
+    "eurostat:nuts_2021_id":"46090",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46090",
+    "eurostat:population":2298,
+    "eurostat:population_year":2020,
     "geom:area":0.001975,
-    "geom:area_square_m":19008763.481314,
+    "geom:area_square_m":19008763.481313,
     "geom:bbox":"-0.42529956,38.85527986,-0.34457785,38.90451772",
     "geom:latitude":38.879737,
     "geom:longitude":-0.386339,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46090",
+        "eurostat:nuts_2021_id":"46090",
         "gn:id":6361955,
         "gp:id":12695632,
         "qs_pg:id":48587
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3d687868babab8c1e0776b71dcbacad4",
+    "wof:geomhash":"1e661db780f7c40fc39f806536c6f55c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404345001,
-    "wof:lastmodified":1582361830,
+    "wof:lastmodified":1684352481,
     "wof:name":"Castell\u00f3 De Rugat",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":2298,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

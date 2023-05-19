@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19237",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rillo de Gallo",
+    "eurostat:nuts_2021_id":"19237",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19237",
+    "eurostat:population":42,
+    "eurostat:population_year":2020,
     "geom:area":0.002767,
     "geom:area_square_m":25869302.705975,
     "geom:bbox":"-1.97426165,40.8369467,-1.88752797,40.92355293",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19237",
+        "eurostat:nuts_2021_id":"19237",
         "gn:id":6358005,
         "gp:id":12690835,
         "qs_pg:id":1147212
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0942e680d624cd11f89113d976091529",
+    "wof:geomhash":"558a26da5bc27490e8b76017eba23aa4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404335885,
-    "wof:lastmodified":1582361707,
+    "wof:lastmodified":1684352331,
     "wof:name":"Rillo De Gallo",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":42,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

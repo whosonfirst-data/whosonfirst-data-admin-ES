@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oma\u00f1as, Las",
+    "eurostat:nuts_2021_id":"24104",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24104",
+    "eurostat:population":267,
+    "eurostat:population_year":2020,
     "geom:area":0.003569,
     "geom:area_square_m":32441733.878241,
     "geom:bbox":"-5.91550832,42.65551088,-5.82021056,42.71900481",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_24104",
+        "eurostat:nuts_2021_id":"24104",
         "gn:id":6358646,
         "qs_pg:id":621733
     },
@@ -120,7 +136,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fe2dcdfe87845b0fbd850cce97019a28",
+    "wof:geomhash":"2f56ed10d3e771e671fa776f41aaf000",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404337351,
-    "wof:lastmodified":1582361566,
+    "wof:lastmodified":1684352351,
     "wof:name":"Las Oma\u00f1as",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":267,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19146",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Huerce, La",
+    "eurostat:nuts_2021_id":"19146",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19146",
+    "eurostat:population":56,
+    "eurostat:population_year":2020,
     "geom:area":0.004401,
-    "geom:area_square_m":40986589.384763,
+    "geom:area_square_m":40986589.384764,
     "geom:bbox":"-3.20476502,41.07568039,-3.13547832,41.18640816",
     "geom:latitude":41.139947,
     "geom:longitude":-3.170736,
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19146",
+        "eurostat:nuts_2021_id":"19146",
         "gn:id":6357923,
         "gp:id":12690753,
         "qs_pg:id":103362
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"177d848e5aadec5d4cf1b188f5cef319",
+    "wof:geomhash":"aa10e3cc54e8ec9cef2b9d640e481594",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404335697,
-    "wof:lastmodified":1582361708,
+    "wof:lastmodified":1684352329,
     "wof:name":"La Huerce",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":56,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

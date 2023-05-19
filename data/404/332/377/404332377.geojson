@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09415",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valle de Valdelucio",
+    "eurostat:nuts_2021_id":"09415",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09415",
+    "eurostat:population":330,
+    "eurostat:population_year":2020,
     "geom:area":0.010518,
-    "geom:area_square_m":95543938.573114,
+    "geom:area_square_m":95543938.573115,
     "geom:bbox":"-4.19100418,42.66867468,-3.99396886,42.76730555",
     "geom:latitude":42.723807,
     "geom:longitude":-4.081124,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09415",
+        "eurostat:nuts_2021_id":"09415",
         "gn:id":6356641,
         "gp:id":12691694,
         "qs_pg:id":1188456
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5525aed8f8555d5ffd1a78da18880af6",
+    "wof:geomhash":"5f730654ca33633b8e529fa65870fb42",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332377,
-    "wof:lastmodified":1582361682,
+    "wof:lastmodified":1684352263,
     "wof:name":"Valle De Valdelucio",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":330,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_02054",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Navas de Jorquera",
+    "eurostat:nuts_2021_id":"02054",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES421",
+    "eurostat:nuts_2021_level_lau":"02054",
+    "eurostat:population":521,
+    "eurostat:population_year":2020,
     "geom:area":0.004412,
-    "geom:area_square_m":42224654.244214,
+    "geom:area_square_m":42224654.244215,
     "geom:bbox":"-1.77215802,39.24883446,-1.68182287,39.32493972",
     "geom:latitude":39.283679,
     "geom:longitude":-1.726617,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_02054",
+        "eurostat:nuts_2021_id":"02054",
         "gn:id":6355345,
         "gp:id":12690265,
         "qs_pg:id":45693
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5553938816b02099e8957c9d94520a00",
+    "wof:geomhash":"3a4258f78484feda070c519a932b3e31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404329175,
-    "wof:lastmodified":1582361794,
+    "wof:lastmodified":1684352205,
     "wof:name":"Navas De Jorquera",
     "wof:parent_id":85682621,
     "wof:placetype":"localadmin",
+    "wof:population":521,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

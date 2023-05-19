@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10061",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ceclav\u00edn",
+    "eurostat:nuts_2021_id":"10061",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10061",
+    "eurostat:population":1812,
+    "eurostat:population_year":2020,
     "geom:area":0.01678,
-    "geom:area_square_m":159342295.263226,
+    "geom:area_square_m":159342295.263229,
     "geom:bbox":"-6.85919714,39.75961834,-6.64863915,39.90351538",
     "geom:latitude":39.828197,
     "geom:longitude":-6.751025,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10061",
+        "eurostat:nuts_2021_id":"10061",
         "gn:id":6356758,
         "gp:id":12694543,
         "qs_pg:id":1149625
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7908c6d1553dac03470e79340e33e4ea",
+    "wof:geomhash":"8254334c9a142e9c632d50d505443f00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404332647,
-    "wof:lastmodified":1582361687,
+    "wof:lastmodified":1684352267,
     "wof:name":"Ceclav\u00edn",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":1812,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05251",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vadillo de la Sierra",
+    "eurostat:nuts_2021_id":"05251",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05251",
+    "eurostat:population":54,
+    "eurostat:population_year":2020,
     "geom:area":0.004911,
-    "geom:area_square_m":46101294.470742,
+    "geom:area_square_m":46101294.470743,
     "geom:bbox":"-5.18890205,40.57180651,-5.06893481,40.65640295",
     "geom:latitude":40.613493,
     "geom:longitude":-5.129796,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_05251",
+        "eurostat:nuts_2021_id":"05251"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"5f9871b9b180d76a3cb435abd76cef15",
+    "wof:geomhash":"623661966d783e196636d8173c9302ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404330311,
-    "wof:lastmodified":1566589946,
+    "wof:lastmodified":1684352222,
     "wof:name":"Vadillo De La Sierra",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":54,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43176,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43176",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vimbod\u00ed i Poblet",
+    "eurostat:nuts_2021_id":"43176",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43176",
+    "eurostat:population":890,
+    "eurostat:population_year":2020,
     "geom:area":0.007133,
-    "geom:area_square_m":66187099.091696,
+    "geom:area_square_m":66187096.602723,
     "geom:bbox":"0.992968,41.325037,1.09784,41.443223",
     "geom:latitude":41.375485,
     "geom:longitude":1.046741,
@@ -80,6 +92,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -88,7 +102,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43176",
         "esp-icgc:la_lc":"043176",
+        "eurostat:nuts_2021_id":"43176",
         "gn:id":6361418,
         "gp:id":12694316,
         "qs_pg:id":1123039
@@ -98,7 +114,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d6b228722e669e39f7ac506d68242796",
+    "wof:geomhash":"960fe0acbab951cbfea0ce8f88bd0e23",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,10 +125,12 @@
         }
     ],
     "wof:id":404343787,
-    "wof:lastmodified":1669903071,
+    "wof:lastmodified":1684352464,
     "wof:name":"Vimbod\u00ed i Poblet",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":890,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

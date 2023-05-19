@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_20050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Leaburu",
+    "eurostat:nuts_2021_id":"20050",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES212",
+    "eurostat:nuts_2021_level_lau":"20050",
+    "eurostat:population":386,
+    "eurostat:population_year":2020,
     "geom:area":0.000467,
     "geom:area_square_m":4213129.147956,
     "geom:bbox":"-2.07705226,43.08171005,-1.9731404,43.13189469",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_20050",
+        "eurostat:nuts_2021_id":"20050",
         "gn:id":6358139,
         "gp:id":12695121,
         "qs_pg:id":103373
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d9ddb692a4dd804a1b1526d1f62a5fb9",
+    "wof:geomhash":"2257a5464f3d7bee3e1a5b700cef485c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404336195,
-    "wof:lastmodified":1582361459,
+    "wof:lastmodified":1684352334,
     "wof:name":"Leaburu",
     "wof:parent_id":85682741,
     "wof:placetype":"localadmin",
+    "wof:population":386,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Albatera",
+    "eurostat:nuts_2021_id":"03005",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03005",
+    "eurostat:population":12474,
+    "eurostat:population_year":2020,
     "geom:area":0.006835,
     "geom:area_square_m":66408721.068992,
     "geom:bbox":"-0.94826118,38.15843809,-0.81822422,38.26803586",
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03005",
+        "eurostat:nuts_2021_id":"03005",
         "gn:id":6355381,
         "gp:id":12695270,
         "qs_pg:id":891505
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6db6e6f8be2b714d227da19217dc74c3",
+    "wof:geomhash":"fa284d3344d2fa989d94e58e8eb7fdad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404329261,
-    "wof:lastmodified":1582361791,
+    "wof:lastmodified":1684352207,
     "wof:name":"Albatera",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":12474,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

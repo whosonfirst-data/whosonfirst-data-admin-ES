@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47116",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pesquera de Duero",
+    "eurostat:nuts_2021_id":"47116",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47116",
+    "eurostat:population":442,
+    "eurostat:population_year":2020,
     "geom:area":0.006038,
-    "geom:area_square_m":55782517.255479,
+    "geom:area_square_m":55782517.255482,
     "geom:bbox":"-4.28742698,41.62054651,-4.13121875,41.70281213",
     "geom:latitude":41.661721,
     "geom:longitude":-4.207783,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_47116",
+        "eurostat:nuts_2021_id":"47116",
         "gn:id":6362241,
         "gp:id":12693015,
         "qs_pg:id":1166476
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fcf8e385d41515f00315f54bdf64792b",
+    "wof:geomhash":"96619420652ef73a9e62914d1df7ae39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404345651,
-    "wof:lastmodified":1582361829,
+    "wof:lastmodified":1684352488,
     "wof:name":"Pesquera De Duero",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":442,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37284",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Esteban de la Sierra",
+    "eurostat:nuts_2021_id":"37284",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37284",
+    "eurostat:population":345,
+    "eurostat:population_year":2020,
     "geom:area":0.002213,
-    "geom:area_square_m":20805093.401236,
+    "geom:area_square_m":20805093.401237,
     "geom:bbox":"-5.92694981,40.49505622,-5.84205369,40.53769687",
     "geom:latitude":40.51273,
     "geom:longitude":-5.876751,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37284",
+        "eurostat:nuts_2021_id":"37284",
         "gn:id":6360523,
         "gp:id":12692411,
         "qs_pg:id":998965
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ef035c8285517f20ea30d0c084a9df08",
+    "wof:geomhash":"838ad3a49e0b1854ace5297c675f7862",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404341703,
-    "wof:lastmodified":1582361634,
+    "wof:lastmodified":1684352427,
     "wof:name":"San Esteban De La Sierra",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":345,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17105,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mieres",
+    "eurostat:nuts_2021_id":"17105",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17105",
+    "eurostat:population":345,
+    "eurostat:population_year":2020,
     "geom:area":0.002846,
-    "geom:area_square_m":26100283.447233,
+    "geom:area_square_m":26100283.447231,
     "geom:bbox":"2.59253263206,42.0875475958,2.66590086857,42.1537699307",
     "geom:latitude":42.122092,
     "geom:longitude":2.631218,
@@ -133,6 +145,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -141,7 +155,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17105",
         "esp-icgc:la_lc":"017105",
+        "eurostat:nuts_2021_id":"17105",
         "gn:id":6534085,
         "gp:id":12693785,
         "qs_pg:id":231418
@@ -151,7 +167,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"2c127d90ffca0ea03aaa3c3a4b6bd701",
+    "wof:geomhash":"4b6dbf0f1a36cb056e2f0a094e5abdd0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -162,10 +178,12 @@
         }
     ],
     "wof:id":404334777,
-    "wof:lastmodified":1582361735,
+    "wof:lastmodified":1684352308,
     "wof:name":"Mieres",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":345,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

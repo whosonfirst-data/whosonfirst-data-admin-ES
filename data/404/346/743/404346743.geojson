@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alcal\u00e1 de Ebro",
+    "eurostat:nuts_2021_id":"50013",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50013",
+    "eurostat:population":245,
+    "eurostat:population_year":2020,
     "geom:area":0.00107,
-    "geom:area_square_m":9859095.549139,
+    "geom:area_square_m":9859095.54914,
     "geom:bbox":"-1.21157936,41.7981796,-1.1549072,41.83575967",
     "geom:latitude":41.817019,
     "geom:longitude":-1.18206,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50013",
+        "eurostat:nuts_2021_id":"50013",
         "gn:id":6362707,
         "gp:id":12689846,
         "qs_pg:id":235030
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ca4ce1be3265d4172df830a71a63754d",
+    "wof:geomhash":"9bcc7c08cc4daa12b2829e1a2e8d3d9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404346743,
-    "wof:lastmodified":1582361620,
+    "wof:lastmodified":1684352502,
     "wof:name":"Alcal\u00e1 De Ebro",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":245,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

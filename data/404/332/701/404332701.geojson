@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10086",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Granja, La",
+    "eurostat:nuts_2021_id":"10086",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10086",
+    "eurostat:population":323,
+    "eurostat:population_year":2020,
     "geom:area":0.001582,
-    "geom:area_square_m":14928445.714988,
+    "geom:area_square_m":14928445.714989,
     "geom:bbox":"-6.03759883,40.21803904,-5.9649231,40.26233289",
     "geom:latitude":40.242375,
     "geom:longitude":-6.00038,
@@ -84,6 +96,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -92,6 +106,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10086",
+        "eurostat:nuts_2021_id":"10086",
         "gn:id":6356782,
         "gp:id":12694567,
         "qs_pg:id":1020050
@@ -100,7 +116,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ad66c5e1c50f24860187c7cc6762052d",
+    "wof:geomhash":"32e76487c04077fd29760f57134176d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,10 +127,12 @@
         }
     ],
     "wof:id":404332701,
-    "wof:lastmodified":1582361676,
+    "wof:lastmodified":1684352268,
     "wof:name":"La Granja",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":323,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05207",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Esteban del Valle",
+    "eurostat:nuts_2021_id":"05207",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05207",
+    "eurostat:population":718,
+    "eurostat:population_year":2020,
     "geom:area":0.004167,
-    "geom:area_square_m":39305133.694093,
+    "geom:area_square_m":39305133.694091,
     "geom:bbox":"-5.00168334,40.21997752,-4.91982336,40.35505613",
     "geom:latitude":40.28624,
     "geom:longitude":-4.959512,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05207",
+        "eurostat:nuts_2021_id":"05207",
         "gn:id":6355805,
         "gp:id":12691313,
         "qs_pg:id":1188391
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"653a0d5fe0ff5e76d9cd95eefac27c79",
+    "wof:geomhash":"21dc57923d9b16910698b2de78fb74e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330219,
-    "wof:lastmodified":1582361523,
+    "wof:lastmodified":1684352221,
     "wof:name":"San Esteban Del Valle",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":718,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

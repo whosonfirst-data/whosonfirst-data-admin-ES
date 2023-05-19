@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22052",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Belver de Cinca",
+    "eurostat:nuts_2021_id":"22052",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22052",
+    "eurostat:population":1301,
+    "eurostat:population_year":2020,
     "geom:area":0.00894,
-    "geom:area_square_m":82519785.004333,
+    "geom:area_square_m":82519785.004331,
     "geom:bbox":"0.14912935,41.66219942,0.33435389,41.77491688",
     "geom:latitude":41.713004,
     "geom:longitude":0.238419,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_22052",
+        "eurostat:nuts_2021_id":"22052"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"23efd516e23c226eb8e353f1813a22e1",
+    "wof:geomhash":"1ec9fa8b796a32a3128dfcf3fcc07954",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404336559,
-    "wof:lastmodified":1566589674,
+    "wof:lastmodified":1684352340,
     "wof:name":"Belver De Cinca",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":1301,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

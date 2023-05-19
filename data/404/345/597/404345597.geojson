@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47090",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mojados",
+    "eurostat:nuts_2021_id":"47090",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47090",
+    "eurostat:population":3258,
+    "eurostat:population_year":2020,
     "geom:area":0.004978,
     "geom:area_square_m":46152686.894494,
     "geom:bbox":"-4.74573141,41.39797005,-4.60698232,41.46283755",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_47090",
+        "eurostat:nuts_2021_id":"47090",
         "gn:id":6362217,
         "gp:id":12692991,
         "qs_pg:id":1149150
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0a3a6db03b2adc058d7e5a6af54cdc5b",
+    "wof:geomhash":"8adaa4bb2ca407547472b591d2c98f94",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404345597,
-    "wof:lastmodified":1582361834,
+    "wof:lastmodified":1684352488,
     "wof:name":"Mojados",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":3258,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

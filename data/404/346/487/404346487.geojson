@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49160",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pobladura de Valderaduey",
+    "eurostat:nuts_2021_id":"49160",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49160",
+    "eurostat:population":40,
+    "eurostat:population_year":2020,
     "geom:area":0.001358,
-    "geom:area_square_m":12537434.799314,
+    "geom:area_square_m":12537434.799313,
     "geom:bbox":"-5.55254839,41.6675986,-5.50081074,41.71378874",
     "geom:latitude":41.691782,
     "geom:longitude":-5.528788,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_49160",
+        "eurostat:nuts_2021_id":"49160",
         "gn:id":6362595,
         "gp:id":12693273,
         "qs_pg:id":884604
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5267d4b96878959331046ca513fb131a",
+    "wof:geomhash":"efa02546b0f0397b077113a71e88f904",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404346487,
-    "wof:lastmodified":1582361617,
+    "wof:lastmodified":1684352500,
     "wof:name":"Pobladura De Valderaduey",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":40,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31200",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oteiza",
+    "eurostat:nuts_2021_id":"31200",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31200",
+    "eurostat:population":930,
+    "eurostat:population_year":2020,
     "geom:area":0.005263,
     "geom:area_square_m":47915122.51299,
     "geom:bbox":"-1.98166906,42.52190937,-1.88795635,42.63968207",
@@ -87,6 +99,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -95,6 +109,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31200",
+        "eurostat:nuts_2021_id":"31200",
         "gn:id":6359748,
         "gp:id":12688381,
         "qs_pg:id":44669
@@ -103,7 +119,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a5da76f35a2bbd6b3f36f7a8c9a58129",
+    "wof:geomhash":"8b44d9e8da7721a96b87e471abf6ab25",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,10 +130,12 @@
         }
     ],
     "wof:id":404339907,
-    "wof:lastmodified":1582361580,
+    "wof:lastmodified":1684352400,
     "wof:name":"Oteiza",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":930,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

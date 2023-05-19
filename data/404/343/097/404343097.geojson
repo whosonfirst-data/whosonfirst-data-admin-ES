@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42057",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castilruiz",
+    "eurostat:nuts_2021_id":"42057",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42057",
+    "eurostat:population":161,
+    "eurostat:population_year":2020,
     "geom:area":0.00421,
-    "geom:area_square_m":38753871.456958,
+    "geom:area_square_m":38753871.456957,
     "geom:bbox":"-2.07828224,41.85534582,-1.96102725,41.91910913",
     "geom:latitude":41.882711,
     "geom:longitude":-2.022945,
@@ -183,6 +195,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -191,6 +205,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42057",
+        "eurostat:nuts_2021_id":"42057",
         "gn:id":6361113,
         "gp:id":12692773,
         "qs_pg:id":1002070
@@ -199,7 +215,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8a93197ac80be1e7f2753f62ed400f64",
+    "wof:geomhash":"dd9a445c939e810e1fa2a4e712a94c1f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -210,10 +226,12 @@
         }
     ],
     "wof:id":404343097,
-    "wof:lastmodified":1582361872,
+    "wof:lastmodified":1684352447,
     "wof:name":"Castilruiz",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":161,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

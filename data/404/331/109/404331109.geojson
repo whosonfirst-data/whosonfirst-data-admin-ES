@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8103,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jorba",
+    "eurostat:nuts_2021_id":"08103",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08103",
+    "eurostat:population":833,
+    "eurostat:population_year":2020,
     "geom:area":0.003355,
-    "geom:area_square_m":31020247.317838,
+    "geom:area_square_m":31020247.317837,
     "geom:bbox":"1.46351397401,41.578232363,1.58906853308,41.6331983753",
     "geom:latitude":41.60472,
     "geom:longitude":1.529218,
@@ -124,6 +136,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -132,7 +146,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08103",
         "esp-icgc:la_lc":"08103",
+        "eurostat:nuts_2021_id":"08103",
         "gn:id":6356133,
         "gp:id":12693483,
         "qs_pg:id":1158726
@@ -142,7 +158,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"40c353cbe6f06297ea87feb7d3b979b9",
+    "wof:geomhash":"ab27270a444201523407bc2f2a3ac4a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,10 +169,12 @@
         }
     ],
     "wof:id":404331109,
-    "wof:lastmodified":1582361500,
+    "wof:lastmodified":1684352241,
     "wof:name":"Jorba",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":833,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

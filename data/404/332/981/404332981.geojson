@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10211",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villanueva de la Sierra",
+    "eurostat:nuts_2021_id":"10211",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10211",
+    "eurostat:population":441,
+    "eurostat:population_year":2020,
     "geom:area":0.004614,
-    "geom:area_square_m":43572030.234021,
+    "geom:area_square_m":43572030.234019,
     "geom:bbox":"-6.45996862,40.16530208,-6.36197339,40.26617633",
     "geom:latitude":40.204436,
     "geom:longitude":-6.404114,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10211",
+        "eurostat:nuts_2021_id":"10211",
         "gn:id":6356906,
         "gp:id":12694693,
         "qs_pg:id":48070
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ee554763f495fcf2bf1c2f103811597a",
+    "wof:geomhash":"d96a71694b66ebdba5784e3337f1e2da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332981,
-    "wof:lastmodified":1582361693,
+    "wof:lastmodified":1684352272,
     "wof:name":"Villanueva De La Sierra",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":441,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

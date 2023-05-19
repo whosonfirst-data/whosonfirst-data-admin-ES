@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09339",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Mart\u00edn de Rubiales",
+    "eurostat:nuts_2021_id":"09339",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09339",
+    "eurostat:population":150,
+    "eurostat:population_year":2020,
     "geom:area":0.002097,
-    "geom:area_square_m":19376117.387792,
+    "geom:area_square_m":19376117.38779,
     "geom:bbox":"-4.03528302,41.61406579,-3.96047902,41.6578537",
     "geom:latitude":41.636395,
     "geom:longitude":-4.000021,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09339",
+        "eurostat:nuts_2021_id":"09339",
         "gn:id":6356585,
         "gp:id":12691635,
         "qs_pg:id":977462
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"126dd33f1a810622b80b315a2717968a",
+    "wof:geomhash":"7c2610cc1e45c080e56f6ddf82e4b50c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332243,
-    "wof:lastmodified":1582361680,
+    "wof:lastmodified":1684352262,
     "wof:name":"San Mart\u00edn De Rubiales",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":150,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

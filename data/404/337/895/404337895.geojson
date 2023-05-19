@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25140,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25140",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montferrer i Castellb\u00f2",
+    "eurostat:nuts_2021_id":"25140",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25140",
+    "eurostat:population":1034,
+    "eurostat:population_year":2020,
     "geom:area":0.019374,
-    "geom:area_square_m":176951175.02983,
+    "geom:area_square_m":176951382.864701,
     "geom:bbox":"1.229655,42.303528,1.441481,42.467328",
     "geom:latitude":42.385259,
     "geom:longitude":1.329,
@@ -48,6 +60,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -56,13 +70,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"025140"
+        "eg:gisco_id":"ES_25140",
+        "esp-icgc:la_lc":"025140",
+        "eurostat:nuts_2021_id":"25140"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8b9b0dfc61278dc12bde3c836a161eef",
+    "wof:geomhash":"1c551a99bcc6df8e065c2d32228a2e86",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,10 +89,12 @@
         }
     ],
     "wof:id":404337895,
-    "wof:lastmodified":1669903022,
+    "wof:lastmodified":1684352363,
     "wof:name":"Montferrer i Castellb\u00f2",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":1034,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

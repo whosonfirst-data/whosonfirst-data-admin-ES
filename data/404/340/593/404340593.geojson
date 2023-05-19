@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_34079",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grijota",
+    "eurostat:nuts_2021_id":"34079",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES414",
+    "eurostat:nuts_2021_level_lau":"34079",
+    "eurostat:population":2362,
+    "eurostat:population_year":2020,
     "geom:area":0.003108,
-    "geom:area_square_m":28540571.761278,
+    "geom:area_square_m":28540571.761281,
     "geom:bbox":"-4.65654366,42.0179102,-4.54597681,42.08271409",
     "geom:latitude":42.050397,
     "geom:longitude":-4.588303,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_34079",
+        "eurostat:nuts_2021_id":"34079",
         "gn:id":6360041,
         "gp:id":12692019,
         "qs_pg:id":1180969
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ee669fc073fbd156841a57ef44db4101",
+    "wof:geomhash":"14853710d431db472644039c5e3510a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404340593,
-    "wof:lastmodified":1582361645,
+    "wof:lastmodified":1684352410,
     "wof:name":"Grijota",
     "wof:parent_id":85682815,
     "wof:placetype":"localadmin",
+    "wof:population":2362,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09251",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pancorbo",
+    "eurostat:nuts_2021_id":"09251",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09251",
+    "eurostat:population":429,
+    "eurostat:population_year":2020,
     "geom:area":0.006417,
     "geom:area_square_m":58358284.126915,
     "geom:bbox":"-3.18243048,42.59953475,-3.0778753,42.73394398",
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09251",
+        "eurostat:nuts_2021_id":"09251",
         "gn:id":6356523,
         "gp:id":12691572,
         "qs_pg:id":1102621
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a070b0c41da25b9ef3e7239a19304f93",
+    "wof:geomhash":"e732b975e7d601cc06b9fcdeca2318ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404332089,
-    "wof:lastmodified":1582361686,
+    "wof:lastmodified":1684352261,
     "wof:name":"Pancorbo",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":429,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

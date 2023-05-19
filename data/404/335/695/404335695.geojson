@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19145",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hortezuela de Oc\u00e9n",
+    "eurostat:nuts_2021_id":"19145",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19145",
+    "eurostat:population":40,
+    "eurostat:population_year":2020,
     "geom:area":0.002128,
     "geom:area_square_m":19869061.234846,
     "geom:bbox":"-2.43944644,40.92630946,-2.38156988,40.98829398",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227375
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_19145",
+        "eurostat:nuts_2021_id":"19145"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"891c46465a7626126e403818b42da255",
+    "wof:geomhash":"03fd83b5e26810bb5c23cd51a6514e21",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404335695,
-    "wof:lastmodified":1566590571,
+    "wof:lastmodified":1684352329,
     "wof:name":"Hortezuela De Oc\u00e9n",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":40,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

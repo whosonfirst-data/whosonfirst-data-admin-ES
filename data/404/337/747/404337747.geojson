@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25061,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25061",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cab\u00f3",
+    "eurostat:nuts_2021_id":"25061",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25061",
+    "eurostat:population":93,
+    "eurostat:population_year":2020,
     "geom:area":0.008679,
-    "geom:area_square_m":79447039.615856,
+    "geom:area_square_m":79447039.615853,
     "geom:bbox":"1.1391694482,42.1925357499,1.32167050576,42.2813416685",
     "geom:latitude":42.239538,
     "geom:longitude":1.235195,
@@ -112,6 +124,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -120,7 +134,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25061",
         "esp-icgc:la_lc":"025061",
+        "eurostat:nuts_2021_id":"25061",
         "gp:id":12693961,
         "qs_pg:id":1191156
     },
@@ -129,7 +145,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7cf81cc3ad29fb9ed03106d99eaa1fb3",
+    "wof:geomhash":"77487960287f2adcf7f8f1730f3a6d4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404337747,
-    "wof:lastmodified":1582361561,
+    "wof:lastmodified":1684352358,
     "wof:name":"Cab\u00f3",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":93,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

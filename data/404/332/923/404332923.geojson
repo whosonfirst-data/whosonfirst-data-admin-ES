@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10185",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torrecilla de los \u00c1ngeles",
+    "eurostat:nuts_2021_id":"10185",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10185",
+    "eurostat:population":601,
+    "eurostat:population_year":2020,
     "geom:area":0.004583,
-    "geom:area_square_m":43246586.121742,
+    "geom:area_square_m":43246586.121744,
     "geom:bbox":"-6.47049901,40.21901681,-6.35181724,40.29130732",
     "geom:latitude":40.254456,
     "geom:longitude":-6.41547,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227383
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_10185",
+        "eurostat:nuts_2021_id":"10185"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"8fad20420c43e50596a0eec248f43ccc",
+    "wof:geomhash":"6cb658db78a4a0f370a15911cb8913ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404332923,
-    "wof:lastmodified":1566590503,
+    "wof:lastmodified":1684352271,
     "wof:name":"Torrecilla De Los \u00c1ngeles",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":601,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

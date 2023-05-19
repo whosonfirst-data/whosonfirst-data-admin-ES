@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_29001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alameda",
+    "eurostat:nuts_2021_id":"29001",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES617",
+    "eurostat:nuts_2021_level_lau":"29001",
+    "eurostat:population":5387,
+    "eurostat:population_year":2020,
     "geom:area":0.006611,
     "geom:area_square_m":65088161.130849,
     "geom:bbox":"-4.73574544,37.19328292,-4.59625532,37.25969647",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_29001",
+        "eurostat:nuts_2021_id":"29001",
         "gn:id":6359406,
         "gp:id":12689190,
         "qs_pg:id":1146446
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"39a8e9065a3855c96dd927e49d135219",
+    "wof:geomhash":"e388e696d75588cd2675c4a8bea485ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404339093,
-    "wof:lastmodified":1582361596,
+    "wof:lastmodified":1684352388,
     "wof:name":"Alameda",
     "wof:parent_id":85682787,
     "wof:placetype":"localadmin",
+    "wof:population":5387,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28065",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Getafe",
+    "eurostat:nuts_2021_id":"28065",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28065",
+    "eurostat:population":185180,
+    "eurostat:population_year":2020,
     "geom:area":0.008336,
-    "geom:area_square_m":78610555.416416,
+    "geom:area_square_m":78610555.416418,
     "geom:bbox":"-3.76174354,40.26637523,-3.5700364,40.33498526",
     "geom:latitude":40.299146,
     "geom:longitude":-3.673442,
@@ -198,6 +210,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -206,6 +220,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28065",
+        "eurostat:nuts_2021_id":"28065",
         "gn:id":6359291,
         "gp:id":12688010,
         "qs_pg:id":1317187
@@ -214,7 +230,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"64c8d0cd6daa15d7b19aa3b06787f055",
+    "wof:geomhash":"467d597022284fde5494e4977c8e2db4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -225,10 +241,12 @@
         }
     ],
     "wof:id":404338835,
-    "wof:lastmodified":1582361438,
+    "wof:lastmodified":1684352383,
     "wof:name":"Getafe",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":185180,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

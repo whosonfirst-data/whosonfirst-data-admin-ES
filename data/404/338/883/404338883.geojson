@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28089",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Moraleja de Enmedio",
+    "eurostat:nuts_2021_id":"28089",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28089",
+    "eurostat:population":5200,
+    "eurostat:population_year":2020,
     "geom:area":0.003302,
-    "geom:area_square_m":31158196.05905,
+    "geom:area_square_m":31158196.059048,
     "geom:bbox":"-3.94338638,40.22574411,-3.83868989,40.28935347",
     "geom:latitude":40.257884,
     "geom:longitude":-3.879697,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28089",
+        "eurostat:nuts_2021_id":"28089",
         "gn:id":6359313,
         "gp:id":12688033,
         "qs_pg:id":44459
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"be5d18e9f761af7a92e146ec89cb4b7c",
+    "wof:geomhash":"8e65d4836a241f5ca06988203ba36172",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404338883,
-    "wof:lastmodified":1582361447,
+    "wof:lastmodified":1684352384,
     "wof:name":"Moraleja De Enmedio",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":5200,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

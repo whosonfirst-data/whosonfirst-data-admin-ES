@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37253",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pino de Tormes, El",
+    "eurostat:nuts_2021_id":"37253",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37253",
+    "eurostat:population":157,
+    "eurostat:population_year":2020,
     "geom:area":0.002165,
     "geom:area_square_m":20197755.316949,
     "geom:bbox":"-5.84811507,40.9993027,-5.76893905,41.05576955",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37253",
+        "eurostat:nuts_2021_id":"37253",
         "gn:id":6360492,
         "gp:id":12692384,
         "qs_pg:id":621836
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ecb488efd2748eb1e5182b5e7016b589",
+    "wof:geomhash":"77b1394f61311131e0d867ae7770c887",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404341633,
-    "wof:lastmodified":1582361628,
+    "wof:lastmodified":1684352427,
     "wof:name":"El Pino De Tormes",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":157,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

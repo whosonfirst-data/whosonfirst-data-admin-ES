@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43099,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43099",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Palma d'Ebre, La",
+    "eurostat:nuts_2021_id":"43099",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43099",
+    "eurostat:population":338,
+    "eurostat:population_year":2020,
     "geom:area":0.004084,
-    "geom:area_square_m":37951443.889784,
+    "geom:area_square_m":37951447.508469,
     "geom:bbox":"0.615312,41.233581,0.713973,41.304169",
     "geom:latitude":41.270564,
     "geom:longitude":0.663813,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43099",
         "esp-icgc:la_lc":"043099",
+        "eurostat:nuts_2021_id":"43099",
         "gn:id":6361341,
         "gp:id":12694237,
         "qs_pg:id":1072677
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"7807f1fd9555b932798b03ef0c647973",
+    "wof:geomhash":"42495a03d3920c12cd61b65c6cfc0099",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404343613,
-    "wof:lastmodified":1669903066,
+    "wof:lastmodified":1684352458,
     "wof:name":"La Palma d'Ebre",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":338,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

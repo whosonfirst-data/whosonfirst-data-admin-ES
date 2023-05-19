@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arapiles",
+    "eurostat:nuts_2021_id":"37032",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37032",
+    "eurostat:population":651,
+    "eurostat:population_year":2020,
     "geom:area":0.002699,
-    "geom:area_square_m":25230706.840277,
+    "geom:area_square_m":25230706.84028,
     "geom:bbox":"-5.68240454,40.85778842,-5.61139387,40.93736626",
     "geom:latitude":40.895065,
     "geom:longitude":-5.647952,
@@ -33,6 +45,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -40,9 +54,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_37032",
+        "eurostat:nuts_2021_id":"37032"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"ef16925a226af9c166614745f1eb7714",
+    "wof:geomhash":"0694899253b02957bcb9749fe0da9b6b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,10 +70,12 @@
         }
     ],
     "wof:id":404341171,
-    "wof:lastmodified":1566590367,
+    "wof:lastmodified":1684352421,
     "wof:name":"Arapiles",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":651,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":43165,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43165",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vilabella",
+    "eurostat:nuts_2021_id":"43165",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43165",
+    "eurostat:population":729,
+    "eurostat:population_year":2020,
     "geom:area":0.001948,
     "geom:area_square_m":18107501.947222,
     "geom:bbox":"1.29596990592,41.214052307,1.35859693612,41.2729125451",
@@ -121,6 +133,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -129,7 +143,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43165",
         "esp-icgc:la_lc":"043165",
+        "eurostat:nuts_2021_id":"43165",
         "gn:id":6361407,
         "gp:id":12694307,
         "qs_pg:id":47819
@@ -139,7 +155,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f2b7957ef3bb8ec5745b72adc08cbbbf",
+    "wof:geomhash":"b933c62ed121aec3f05381d43efb83c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404343761,
-    "wof:lastmodified":1582361882,
+    "wof:lastmodified":1684352464,
     "wof:name":"Vilabella",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":729,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

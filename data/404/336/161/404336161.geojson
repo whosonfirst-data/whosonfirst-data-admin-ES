@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_20035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ezkio-Itsaso",
+    "eurostat:nuts_2021_id":"20035",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES212",
+    "eurostat:nuts_2021_level_lau":"20035",
+    "eurostat:population":601,
+    "eurostat:population_year":2020,
     "geom:area":0.002346,
     "geom:area_square_m":21185598.710635,
     "geom:bbox":"-2.30393261,43.05364364,-2.23512024,43.11274684",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_20035",
+        "eurostat:nuts_2021_id":"20035",
         "gn:id":6325473,
         "qs_pg:id":621464
     },
@@ -120,7 +136,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ea4a0510c8554149c406a720f6e409c8",
+    "wof:geomhash":"d3354ca73c3a3036d73a82a39439a313",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404336161,
-    "wof:lastmodified":1582361459,
+    "wof:lastmodified":1684352334,
     "wof:name":"Ezkio-Itsaso",
     "wof:parent_id":85682741,
     "wof:placetype":"localadmin",
+    "wof:population":601,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

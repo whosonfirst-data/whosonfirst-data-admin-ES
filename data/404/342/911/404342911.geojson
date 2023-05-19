@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_41075",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pilas",
+    "eurostat:nuts_2021_id":"41075",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES618",
+    "eurostat:nuts_2021_level_lau":"41075",
+    "eurostat:population":13952,
+    "eurostat:population_year":2020,
     "geom:area":0.004669,
     "geom:area_square_m":45920453.079278,
     "geom:bbox":"-6.38457103,37.2628562,-6.25230855,37.34949104",
@@ -54,6 +66,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -62,6 +76,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_41075",
+        "eurostat:nuts_2021_id":"41075",
         "gn:id":6361030,
         "gp:id":12689367,
         "qs_pg:id":953857
@@ -70,7 +86,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"75209a9a9ea1cbfe5565ca67d8effd9e",
+    "wof:geomhash":"4b9cfdfa346dc30940ac1983bdc11bb7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +97,12 @@
         }
     ],
     "wof:id":404342911,
-    "wof:lastmodified":1582361822,
+    "wof:lastmodified":1684352445,
     "wof:name":"Pilas",
     "wof:parent_id":85682841,
     "wof:placetype":"localadmin",
+    "wof:population":13952,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

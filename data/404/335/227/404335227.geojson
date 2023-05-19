@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18097",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hu\u00e9neja",
+    "eurostat:nuts_2021_id":"18097",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18097",
+    "eurostat:population":1170,
+    "eurostat:population_year":2020,
     "geom:area":0.011847,
-    "geom:area_square_m":116700256.196058,
+    "geom:area_square_m":116700256.196055,
     "geom:bbox":"-3.01203563,37.09290263,-2.86652143,37.26448351",
     "geom:latitude":37.187948,
     "geom:longitude":-2.935758,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18097",
+        "eurostat:nuts_2021_id":"18097",
         "gn:id":6357716,
         "gp:id":12688929,
         "qs_pg:id":961121
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dac74580d7c4db1a4dc285b2162ef300",
+    "wof:geomhash":"e7e531a22237039dde73ce1647f5d2e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404335227,
-    "wof:lastmodified":1582361696,
+    "wof:lastmodified":1684352322,
     "wof:name":"Hu\u00e9neja",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":1170,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

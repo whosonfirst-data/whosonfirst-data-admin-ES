@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_26160",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Uru\u00f1uela",
+    "eurostat:nuts_2021_id":"26160",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES23",
+    "eurostat:nuts_2021_level_3":"ES230",
+    "eurostat:nuts_2021_level_lau":"26160",
+    "eurostat:population":967,
+    "eurostat:population_year":2020,
     "geom:area":0.001491,
     "geom:area_square_m":13600343.294152,
     "geom:bbox":"-2.72625266,42.43157393,-2.67181831,42.48469494",
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_26160",
+        "eurostat:nuts_2021_id":"26160",
         "gn:id":6359142,
         "gp:id":12687923,
         "qs_pg:id":429270
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4e796be90576795c0b273b08016b8847",
+    "wof:geomhash":"002a7c298a982dc68331fa74e859dff2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404338483,
-    "wof:lastmodified":1582361434,
+    "wof:lastmodified":1684352376,
     "wof:name":"Uru\u00f1uela",
     "wof:parent_id":85682773,
     "wof:placetype":"localadmin",
+    "wof:population":967,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

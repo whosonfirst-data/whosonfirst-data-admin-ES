@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_38040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santiago del Teide",
+    "eurostat:nuts_2021_id":"38040",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES7",
+    "eurostat:nuts_2021_level_2":"ES70",
+    "eurostat:nuts_2021_level_3":"ES709",
+    "eurostat:nuts_2021_level_lau":"38040",
+    "eurostat:population":11281,
+    "eurostat:population_year":2020,
     "geom:area":0.004787,
-    "geom:area_square_m":52122798.324065,
+    "geom:area_square_m":52122798.324056,
     "geom:bbox":"-16.85263984,28.22630389,-16.67733005,28.31487585",
     "geom:latitude":28.27842,
     "geom:longitude":-16.796641,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_38040",
+        "eurostat:nuts_2021_id":"38040",
         "gn:id":6360640,
         "gp:id":12690198,
         "qs_pg:id":1123020
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"12369d9d192c1a43c1b5e5be45dd7d8f",
+    "wof:geomhash":"f9976e0a3e8edf94d72e6282acb8f52b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404342007,
-    "wof:lastmodified":1582361811,
+    "wof:lastmodified":1684352433,
     "wof:name":"Santiago Del Teide",
     "wof:parent_id":85682831,
     "wof:placetype":"localadmin",
+    "wof:population":11281,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

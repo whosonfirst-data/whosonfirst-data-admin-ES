@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43150,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43150",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tivissa",
+    "eurostat:nuts_2021_id":"43150",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43150",
+    "eurostat:population":1619,
+    "eurostat:population_year":2020,
     "geom:area":0.022419,
-    "geom:area_square_m":209156428.669962,
+    "geom:area_square_m":209156264.000527,
     "geom:bbox":"0.633344,40.932413,0.873498,41.105206",
     "geom:latitude":41.018596,
     "geom:longitude":0.733407,
@@ -121,6 +133,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -129,7 +143,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43150",
         "esp-icgc:la_lc":"043150",
+        "eurostat:nuts_2021_id":"43150",
         "gn:id":6361392,
         "gp:id":12694290,
         "qs_pg:id":1292357
@@ -139,7 +155,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"bab215f12975e99cee088939d9e4e625",
+    "wof:geomhash":"52346da30c611ef22bdfef92f9c58d26",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404343727,
-    "wof:lastmodified":1669903071,
+    "wof:lastmodified":1684352462,
     "wof:name":"Tivissa",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":1619,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

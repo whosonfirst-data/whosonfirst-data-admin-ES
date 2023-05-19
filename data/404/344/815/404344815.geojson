@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Albal",
+    "eurostat:nuts_2021_id":"46007",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46007",
+    "eurostat:population":16577,
+    "eurostat:population_year":2020,
     "geom:area":0.000771,
-    "geom:area_square_m":7363820.238999,
+    "geom:area_square_m":7363820.239001,
     "geom:bbox":"-0.45008861,39.36426341,-0.35573412,39.40357261",
     "geom:latitude":39.392683,
     "geom:longitude":-0.417361,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46007",
+        "eurostat:nuts_2021_id":"46007",
         "gn:id":6361872,
         "gp:id":12695549,
         "qs_pg:id":201910
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cc94f5c2b4dc056960ef6320095773d7",
+    "wof:geomhash":"3df201e74c33aedf126e37b3558052b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404344815,
-    "wof:lastmodified":1582361855,
+    "wof:lastmodified":1684352479,
     "wof:name":"Albal",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":16577,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

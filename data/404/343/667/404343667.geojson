@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43123,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43123",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Reus",
+    "eurostat:nuts_2021_id":"43123",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43123",
+    "eurostat:population":106168,
+    "eurostat:population_year":2020,
     "geom:area":0.005676,
-    "geom:area_square_m":52846265.326096,
+    "geom:area_square_m":52846265.326094,
     "geom:bbox":"1.05753693266,41.1021767111,1.19115153341,41.1899252001",
     "geom:latitude":41.148726,
     "geom:longitude":1.120103,
@@ -199,6 +211,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -207,7 +221,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43123",
         "esp-icgc:la_lc":"043123",
+        "eurostat:nuts_2021_id":"43123",
         "gn:id":6361365,
         "gp:id":12694260,
         "qs_pg:id":993127
@@ -217,7 +233,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"038542c999b2ab1d84f65ddd8264867d",
+    "wof:geomhash":"1a5ba8396377059115e195cdf2e735e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -228,10 +244,12 @@
         }
     ],
     "wof:id":404343667,
-    "wof:lastmodified":1582361872,
+    "wof:lastmodified":1684352459,
     "wof:name":"Reus",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":106168,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_34131",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Poblaci\u00f3n de Arroyo",
+    "eurostat:nuts_2021_id":"34131",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES414",
+    "eurostat:nuts_2021_level_lau":"34131",
+    "eurostat:population":55,
+    "eurostat:population_year":2020,
     "geom:area":0.002498,
     "geom:area_square_m":22834035.84881,
     "geom:bbox":"-4.94619752,42.30306605,-4.82821006,42.34705327",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_34131",
+        "eurostat:nuts_2021_id":"34131"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"1b15f6faef82fc3ffbd3caf4d421b2e5",
+    "wof:geomhash":"218508e316135d1189b1338cd9d8ee36",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404340685,
-    "wof:lastmodified":1566590419,
+    "wof:lastmodified":1684352411,
     "wof:name":"Poblaci\u00f3n De Arroyo",
     "wof:parent_id":85682815,
     "wof:placetype":"localadmin",
+    "wof:population":55,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

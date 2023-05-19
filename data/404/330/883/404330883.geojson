@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8002,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aguilar de Segarra",
+    "eurostat:nuts_2021_id":"08002",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08002",
+    "eurostat:population":282,
+    "eurostat:population_year":2020,
     "geom:area":0.004679,
-    "geom:area_square_m":43180240.290361,
+    "geom:area_square_m":43180262.919398,
     "geom:bbox":"1.550896,41.692229,1.674142,41.77054",
     "geom:latitude":41.729582,
     "geom:longitude":1.618019,
@@ -73,6 +85,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -81,7 +95,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08002",
         "esp-icgc:la_lc":"08002",
+        "eurostat:nuts_2021_id":"08002",
         "gn:id":6356040,
         "gp:id":12693377,
         "qs_pg:id":1174133
@@ -91,7 +107,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"976cc1dee597a469fd3d47a2780b09ea",
+    "wof:geomhash":"004a21e8f5c8c461deb912f1acb90341",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,10 +118,12 @@
         }
     ],
     "wof:id":404330883,
-    "wof:lastmodified":1669903017,
+    "wof:lastmodified":1684352234,
     "wof:name":"Aguilar de Segarra",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":282,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

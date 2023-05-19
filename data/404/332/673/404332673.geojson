@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10073",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Escurial",
+    "eurostat:nuts_2021_id":"10073",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10073",
+    "eurostat:population":865,
+    "eurostat:population_year":2020,
     "geom:area":0.0105,
-    "geom:area_square_m":100629221.73704,
+    "geom:area_square_m":100629221.737043,
     "geom:bbox":"-6.00666919,39.14458141,-5.80941732,39.24138651",
     "geom:latitude":39.188993,
     "geom:longitude":-5.907039,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10073",
+        "eurostat:nuts_2021_id":"10073",
         "gn:id":6356770,
         "gp:id":12694555,
         "qs_pg:id":47991
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5dc8761da3fd4c64e0a3f1f16aa51247",
+    "wof:geomhash":"c0c293adc5c0c61d4a7073434c0b1440",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404332673,
-    "wof:lastmodified":1582361679,
+    "wof:lastmodified":1684352267,
     "wof:name":"Escurial",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":865,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

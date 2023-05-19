@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18038",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campot\u00e9jar",
+    "eurostat:nuts_2021_id":"18038",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18038",
+    "eurostat:population":1229,
+    "eurostat:population_year":2020,
     "geom:area":0.003649,
-    "geom:area_square_m":35794839.543782,
+    "geom:area_square_m":35794839.543781,
     "geom:bbox":"-3.63908337,37.46208151,-3.56462658,37.55386964",
     "geom:latitude":37.505662,
     "geom:longitude":-3.599321,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18038",
+        "eurostat:nuts_2021_id":"18038",
         "gn:id":6357671,
         "gp:id":12688881,
         "qs_pg:id":243088
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1ccf0813778aa7c06f0492ad49c60c96",
+    "wof:geomhash":"fffe64f83833c7cc5a81204bac13025d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404335127,
-    "wof:lastmodified":1582361702,
+    "wof:lastmodified":1684352321,
     "wof:name":"Campot\u00e9jar",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":1229,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

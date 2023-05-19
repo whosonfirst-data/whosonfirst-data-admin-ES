@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_02063",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pozohondo",
+    "eurostat:nuts_2021_id":"02063",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES421",
+    "eurostat:nuts_2021_level_lau":"02063",
+    "eurostat:population":1593,
+    "eurostat:population_year":2020,
     "geom:area":0.014141,
-    "geom:area_square_m":136442800.514091,
+    "geom:area_square_m":136442800.51409,
     "geom:bbox":"-1.98052546,38.64239054,-1.84265076,38.7911201",
     "geom:latitude":38.711969,
     "geom:longitude":-1.913274,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_02063",
+        "eurostat:nuts_2021_id":"02063",
         "gn:id":6355354,
         "gp:id":12690275,
         "qs_pg:id":45692
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"281198d50cf1637479bf6208cab3a3b1",
+    "wof:geomhash":"7f81945977fc2a5e58f0a36c8ff4ca8a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404329195,
-    "wof:lastmodified":1582361787,
+    "wof:lastmodified":1684352206,
     "wof:name":"Pozohondo",
     "wof:parent_id":85682621,
     "wof:placetype":"localadmin",
+    "wof:population":1593,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_23067",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pegalajar",
+    "eurostat:nuts_2021_id":"23067",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES616",
+    "eurostat:nuts_2021_level_lau":"23067",
+    "eurostat:population":2875,
+    "eurostat:population_year":2020,
     "geom:area":0.00817,
-    "geom:area_square_m":79909824.378519,
+    "geom:area_square_m":79909824.378521,
     "geom:bbox":"-3.70629278,37.66764983,-3.52598665,37.7636707",
     "geom:latitude":37.720965,
     "geom:longitude":-3.631392,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_23067",
+        "eurostat:nuts_2021_id":"23067",
         "gn:id":6358517,
         "gp:id":12689158,
         "qs_pg:id":1146421
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2c49dca00872f4f93f596e0ebc9a70b7",
+    "wof:geomhash":"47d7f2e6eb21e24155eaaaf24f9c63b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404337057,
-    "wof:lastmodified":1582361573,
+    "wof:lastmodified":1684352347,
     "wof:name":"Pegalajar",
     "wof:parent_id":85682757,
     "wof:placetype":"localadmin",
+    "wof:population":2875,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

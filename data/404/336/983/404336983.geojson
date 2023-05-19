@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_23033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Frailes",
+    "eurostat:nuts_2021_id":"23033",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES616",
+    "eurostat:nuts_2021_level_lau":"23033",
+    "eurostat:population":1585,
+    "eurostat:population_year":2020,
     "geom:area":0.00411,
-    "geom:area_square_m":40322138.759576,
+    "geom:area_square_m":40322138.759574,
     "geom:bbox":"-3.86809855,37.45764596,-3.77567896,37.5275867",
     "geom:latitude":37.492836,
     "geom:longitude":-3.823919,
@@ -39,6 +51,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -47,6 +61,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_23033",
+        "eurostat:nuts_2021_id":"23033",
         "gn:id":6358484,
         "gp:id":12689125,
         "qs_pg:id":910012
@@ -55,7 +71,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fdd1a96617383104b13d84924f5f467c",
+    "wof:geomhash":"5d7e7a82d0b044264dd9d415c3d45a07",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +82,12 @@
         }
     ],
     "wof:id":404336983,
-    "wof:lastmodified":1582361466,
+    "wof:lastmodified":1684352346,
     "wof:name":"Frailes",
     "wof:parent_id":85682757,
     "wof:placetype":"localadmin",
+    "wof:population":1585,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

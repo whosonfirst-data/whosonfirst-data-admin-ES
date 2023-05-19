@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Atienza",
+    "eurostat:nuts_2021_id":"19044",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19044",
+    "eurostat:population":385,
+    "eurostat:population_year":2020,
     "geom:area":0.011196,
-    "geom:area_square_m":104148213.915133,
+    "geom:area_square_m":104148213.915131,
     "geom:bbox":"-2.96789407,41.0535228,-2.78249316,41.27446495",
     "geom:latitude":41.208279,
     "geom:longitude":-2.869947,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19044",
+        "eurostat:nuts_2021_id":"19044",
         "gn:id":6357841,
         "gp:id":12690671,
         "qs_pg:id":496976
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"65b0a8a08d8a4b911d1d00269258cd1e",
+    "wof:geomhash":"8f762044069cee5cc1443a23e76d18c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404335511,
-    "wof:lastmodified":1582361702,
+    "wof:lastmodified":1684352326,
     "wof:name":"Atienza",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":385,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03132",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torremanzanas / Torre de les Ma\u00e7anes, la",
+    "eurostat:nuts_2021_id":"03132",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03132",
+    "eurostat:population":636,
+    "eurostat:population_year":2020,
     "geom:area":0.003773,
-    "geom:area_square_m":36455292.758052,
+    "geom:area_square_m":36455292.758053,
     "geom:bbox":"-0.4588211,38.57189769,-0.34957159,38.6378951",
     "geom:latitude":38.604848,
     "geom:longitude":-0.411478,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227381
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_03132",
+        "eurostat:nuts_2021_id":"03132"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"95a615db305786bc0518e1fdef2f4b1b",
+    "wof:geomhash":"5927d8416c07899a7341a0632a925571",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404329541,
-    "wof:lastmodified":1566590906,
+    "wof:lastmodified":1684352211,
     "wof:name":"Torremanzanas/La Torre De Les Ma\u00e7anes",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":636,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

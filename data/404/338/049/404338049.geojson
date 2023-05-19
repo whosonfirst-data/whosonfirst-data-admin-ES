@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25222,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25222",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tiurana",
+    "eurostat:nuts_2021_id":"25222",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25222",
+    "eurostat:population":77,
+    "eurostat:population_year":2020,
     "geom:area":0.001696,
-    "geom:area_square_m":15594745.605209,
+    "geom:area_square_m":15594745.605208,
     "geom:bbox":"1.1918553943,41.9338417937,1.26246870776,41.995083624",
     "geom:latitude":41.956518,
     "geom:longitude":1.235419,
@@ -112,6 +124,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -120,7 +134,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25222",
         "esp-icgc:la_lc":"025222",
+        "eurostat:nuts_2021_id":"25222",
         "gn:id":6358950,
         "gp:id":12694105,
         "qs_pg:id":47669
@@ -130,7 +146,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"16237b58dd4614ed2729385f87d1f114",
+    "wof:geomhash":"d20519ffa9d85065a4ce7b979a5efe24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404338049,
-    "wof:lastmodified":1582361436,
+    "wof:lastmodified":1684352369,
     "wof:name":"Tiurana",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":77,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

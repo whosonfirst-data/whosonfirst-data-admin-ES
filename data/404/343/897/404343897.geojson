@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Blancas",
+    "eurostat:nuts_2021_id":"44042",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44042",
+    "eurostat:population":125,
+    "eurostat:population_year":2020,
     "geom:area":0.007878,
     "geom:area_square_m":73716990.291977,
     "geom:bbox":"-1.55676123,40.7854713,-1.41115467,40.86572902",
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44042",
+        "eurostat:nuts_2021_id":"44042",
         "gn:id":6361466,
         "gp:id":12689637,
         "qs_pg:id":45421
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e30bf6a4c4693d7afaaeb3d5c7da7756",
+    "wof:geomhash":"82dd889ca86aa35091a3c86211c49c37",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404343897,
-    "wof:lastmodified":1582361892,
+    "wof:lastmodified":1684352467,
     "wof:name":"Blancas",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":125,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

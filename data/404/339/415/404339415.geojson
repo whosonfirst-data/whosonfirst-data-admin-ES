@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_30043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Yecla",
+    "eurostat:nuts_2021_id":"30043",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES62",
+    "eurostat:nuts_2021_level_3":"ES620",
+    "eurostat:nuts_2021_level_lau":"30043",
+    "eurostat:population":34834,
+    "eurostat:population_year":2020,
     "geom:area":0.062635,
-    "geom:area_square_m":605225263.951385,
+    "geom:area_square_m":605225263.951389,
     "geom:bbox":"-1.34432318,38.43792925,-1.00156894,38.75508518",
     "geom:latitude":38.606454,
     "geom:longitude":-1.150942,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_30043",
+        "eurostat:nuts_2021_id":"30043",
         "gn:id":6359547,
         "gp:id":12688169,
         "qs_pg:id":221390
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"600813049e7ece1fcbc620b93b6fee29",
+    "wof:geomhash":"a68c61ca50a24938212196ac3e396ab3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404339415,
-    "wof:lastmodified":1582361584,
+    "wof:lastmodified":1684352394,
     "wof:name":"Yecla",
     "wof:parent_id":85682791,
     "wof:placetype":"localadmin",
+    "wof:population":34834,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

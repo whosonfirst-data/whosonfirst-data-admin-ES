@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18062",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Churriana de la Vega",
+    "eurostat:nuts_2021_id":"18062",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18062",
+    "eurostat:population":15689,
+    "eurostat:population_year":2020,
     "geom:area":0.00067,
     "geom:area_square_m":6601034.010958,
     "geom:bbox":"-3.66074408,37.12876655,-3.62443031,37.1647262",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18062",
+        "eurostat:nuts_2021_id":"18062",
         "gn:id":6357690,
         "gp:id":12688892,
         "qs_pg:id":1146291
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8f0355e48aacaf7adc84efd30639e3cc",
+    "wof:geomhash":"71f0f9369b3324e3a732a65737fd1cc8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404335169,
-    "wof:lastmodified":1582361696,
+    "wof:lastmodified":1684352321,
     "wof:name":"Churriana De La Vega",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":15689,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

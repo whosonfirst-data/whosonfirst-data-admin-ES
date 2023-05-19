@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Quart de les Valls",
+    "eurostat:nuts_2021_id":"46101",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46101",
+    "eurostat:population":1024,
+    "eurostat:population_year":2020,
     "geom:area":0.000886,
-    "geom:area_square_m":8419316.268011,
+    "geom:area_square_m":8419316.268012,
     "geom:bbox":"-0.3109466,39.73053018,-0.26444264,39.75983891",
     "geom:latitude":39.744692,
     "geom:longitude":-0.288842,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46101",
+        "eurostat:nuts_2021_id":"46101",
         "gn:id":6361966,
         "gp:id":12695741,
         "qs_pg:id":1023761
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fe047bc12b1f78c6b655166c7a38d6e8",
+    "wof:geomhash":"20c1dd74dbec88cc9283ae52d0269da0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404345027,
-    "wof:lastmodified":1582361836,
+    "wof:lastmodified":1684352481,
     "wof:name":"Quart De Les Valls",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":1024,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

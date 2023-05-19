@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_13044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fuente el Fresno",
+    "eurostat:nuts_2021_id":"13044",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES422",
+    "eurostat:nuts_2021_level_lau":"13044",
+    "eurostat:population":3208,
+    "eurostat:population_year":2020,
     "geom:area":0.012465,
-    "geom:area_square_m":119364193.601944,
+    "geom:area_square_m":119364193.601943,
     "geom:bbox":"-3.99023659,39.14159947,-3.74424367,39.2981774",
     "geom:latitude":39.245505,
     "geom:longitude":-3.833903,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_13044",
+        "eurostat:nuts_2021_id":"13044",
         "gn:id":6357138,
         "gp:id":12690341,
         "qs_pg:id":1311014
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"81ba331a9a2229302da290cb5e2b9303",
+    "wof:geomhash":"0dc7618b000329abd4f6868bd89d57d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404333509,
-    "wof:lastmodified":1582361775,
+    "wof:lastmodified":1684352280,
     "wof:name":"Fuente El Fresno",
     "wof:parent_id":85682689,
     "wof:placetype":"localadmin",
+    "wof:population":3208,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

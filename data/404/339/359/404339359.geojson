@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_30018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ceut\u00ed",
+    "eurostat:nuts_2021_id":"30018",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES62",
+    "eurostat:nuts_2021_level_3":"ES620",
+    "eurostat:nuts_2021_level_lau":"30018",
+    "eurostat:population":12007,
+    "eurostat:population_year":2020,
     "geom:area":0.001052,
     "geom:area_square_m":10242936.782247,
     "geom:bbox":"-1.31119086,38.06983511,-1.2550317,38.10432773",
@@ -99,6 +111,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -106,9 +120,12 @@
         404227389
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_30018",
+        "eurostat:nuts_2021_id":"30018"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"b057cd9016e79ea14fd82e7171179aa4",
+    "wof:geomhash":"9b41055de499e662a4d8553debcad730",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +136,12 @@
         }
     ],
     "wof:id":404339359,
-    "wof:lastmodified":1566590110,
+    "wof:lastmodified":1684352393,
     "wof:name":"Ceut\u00ed",
     "wof:parent_id":85682791,
     "wof:placetype":"localadmin",
+    "wof:population":12007,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

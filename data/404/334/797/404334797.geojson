@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17116,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17116",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Osor",
+    "eurostat:nuts_2021_id":"17116",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17116",
+    "eurostat:population":428,
+    "eurostat:population_year":2020,
     "geom:area":0.00568,
-    "geom:area_square_m":52241414.09575,
+    "geom:area_square_m":52241519.247117,
     "geom:bbox":"2.495546,41.899808,2.617989,42.000582",
     "geom:latitude":41.941486,
     "geom:longitude":2.562472,
@@ -64,6 +76,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -72,7 +86,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17116",
         "esp-icgc:la_lc":"017116",
+        "eurostat:nuts_2021_id":"17116",
         "gn:id":6534090,
         "gp:id":12693794,
         "qs_pg:id":1298405
@@ -82,7 +98,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"66a11887ff873ae4239656ff51277016",
+    "wof:geomhash":"4f5f65c651be37c53ba5291d9dab0245",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,10 +109,12 @@
         }
     ],
     "wof:id":404334797,
-    "wof:lastmodified":1669903039,
+    "wof:lastmodified":1684352309,
     "wof:name":"Osor",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":428,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

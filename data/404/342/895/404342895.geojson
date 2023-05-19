@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_41068",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Osuna",
+    "eurostat:nuts_2021_id":"41068",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES618",
+    "eurostat:nuts_2021_level_lau":"41068",
+    "eurostat:population":17621,
+    "eurostat:population_year":2020,
     "geom:area":0.060162,
-    "geom:area_square_m":592157610.321186,
+    "geom:area_square_m":592157610.321184,
     "geom:bbox":"-5.27521204,37.08253674,-4.96586194,37.39252979",
     "geom:latitude":37.249409,
     "geom:longitude":-5.124656,
@@ -135,6 +147,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -143,6 +157,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_41068",
+        "eurostat:nuts_2021_id":"41068",
         "gn:id":6361023,
         "gp:id":12689360,
         "qs_pg:id":1317306
@@ -151,7 +167,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"386d0a97d360b9ee989c807b3b5347d6",
+    "wof:geomhash":"5223feb132ec14ccf5ab5e7df969eaa5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -162,10 +178,12 @@
         }
     ],
     "wof:id":404342895,
-    "wof:lastmodified":1582361810,
+    "wof:lastmodified":1684352445,
     "wof:name":"Osuna",
     "wof:parent_id":85682841,
     "wof:placetype":"localadmin",
+    "wof:population":17621,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

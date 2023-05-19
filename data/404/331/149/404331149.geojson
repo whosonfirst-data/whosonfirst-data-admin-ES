@@ -13,6 +13,18 @@
     "esp-icgc:la_lc":8120,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08120",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Matadepera",
+    "eurostat:nuts_2021_id":"08120",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08120",
+    "eurostat:population":9496,
+    "eurostat:population_year":2020,
     "geom:area":0.002741,
     "geom:area_square_m":25329780.143177,
     "geom:bbox":"1.9791062546,41.5923305892,2.04641701868,41.658396842",
@@ -130,6 +142,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -138,7 +152,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08120",
         "esp-icgc:la_lc":"08120",
+        "eurostat:nuts_2021_id":"08120",
         "gn:id":6356149,
         "gp:id":12693501,
         "qs_pg:id":1197873
@@ -148,7 +164,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"518e3fc197b3cb8069abac5b7120297a",
+    "wof:geomhash":"59637b3637e772094b564f72929c0777",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,10 +175,12 @@
         }
     ],
     "wof:id":404331149,
-    "wof:lastmodified":1582361515,
+    "wof:lastmodified":1684352242,
     "wof:name":"Matadepera",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":9496,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

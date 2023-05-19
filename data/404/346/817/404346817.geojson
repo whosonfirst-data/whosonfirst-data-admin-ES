@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Belmonte de Graci\u00e1n",
+    "eurostat:nuts_2021_id":"50046",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50046",
+    "eurostat:population":194,
+    "eurostat:population_year":2020,
     "geom:area":0.004698,
-    "geom:area_square_m":43622547.697307,
+    "geom:area_square_m":43622547.697308,
     "geom:bbox":"-1.57874023,41.29108373,-1.42564242,41.36681352",
     "geom:latitude":41.328378,
     "geom:longitude":-1.499182,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50046",
+        "eurostat:nuts_2021_id":"50046",
         "gn:id":6362740,
         "gp:id":12689879,
         "qs_pg:id":45513
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c84ee10729d97c8a75a971f1a3382f26",
+    "wof:geomhash":"2ad175fca5c163d47600294f8c67c558",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404346817,
-    "wof:lastmodified":1582361609,
+    "wof:lastmodified":1684352503,
     "wof:name":"Belmonte De Graci\u00e1n",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":194,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

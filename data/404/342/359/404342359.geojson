@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_40045",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casla",
+    "eurostat:nuts_2021_id":"40045",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES416",
+    "eurostat:nuts_2021_level_lau":"40045",
+    "eurostat:population":156,
+    "eurostat:population_year":2020,
     "geom:area":0.001859,
-    "geom:area_square_m":17305585.363527,
+    "geom:area_square_m":17305585.363525,
     "geom:bbox":"-3.67774619,41.12575823,-3.61983731,41.20296362",
     "geom:latitude":41.16219,
     "geom:longitude":-3.653529,
@@ -57,6 +69,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -65,6 +79,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_40045",
+        "eurostat:nuts_2021_id":"40045",
         "gn:id":6360786,
         "gp:id":12692551,
         "qs_pg:id":1148772
@@ -73,7 +89,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ba90f8fdd8160bd711b5b7ff0e14ce4a",
+    "wof:geomhash":"c30529fe264e5db1d785a60f29979763",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +100,12 @@
         }
     ],
     "wof:id":404342359,
-    "wof:lastmodified":1582361815,
+    "wof:lastmodified":1684352439,
     "wof:name":"Casla",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",
+    "wof:population":156,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

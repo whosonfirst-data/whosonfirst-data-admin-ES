@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_41094",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Umbrete",
+    "eurostat:nuts_2021_id":"41094",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES618",
+    "eurostat:nuts_2021_level_lau":"41094",
+    "eurostat:population":9000,
+    "eurostat:population_year":2020,
     "geom:area":0.00126,
-    "geom:area_square_m":12385121.142497,
+    "geom:area_square_m":12385121.142496,
     "geom:bbox":"-6.2106935,37.27224697,-6.15138809,37.38436724",
     "geom:latitude":37.344833,
     "geom:longitude":-6.17798,
@@ -120,6 +132,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_41094",
+        "eurostat:nuts_2021_id":"41094",
         "gn:id":6361049,
         "gp:id":12689386,
         "qs_pg:id":242039
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bf2c927893cd22a8563f8e3036526184",
+    "wof:geomhash":"515a31139f8dd1dba23f59e2f009a870",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404342953,
-    "wof:lastmodified":1582361806,
+    "wof:lastmodified":1684352446,
     "wof:name":"Umbrete",
     "wof:parent_id":85682841,
     "wof:placetype":"localadmin",
+    "wof:population":9000,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

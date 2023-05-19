@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25173,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25173",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pont de Suert, El",
+    "eurostat:nuts_2021_id":"25173",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25173",
+    "eurostat:population":2257,
+    "eurostat:population_year":2020,
     "geom:area":0.016223,
-    "geom:area_square_m":148153448.183805,
+    "geom:area_square_m":148153330.647763,
     "geom:bbox":"0.707128,42.298747,0.891908,42.483521",
     "geom:latitude":42.393823,
     "geom:longitude":0.800376,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25173",
         "esp-icgc:la_lc":"025173",
+        "eurostat:nuts_2021_id":"25173",
         "gn:id":6358910,
         "gp:id":12694061,
         "qs_pg:id":905060
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"27191ef5f9a350d137e089b0a1546cc7",
+    "wof:geomhash":"68f6f99cfdb42eb227229d1cbe603e34",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404337959,
-    "wof:lastmodified":1669903025,
+    "wof:lastmodified":1684352366,
     "wof:name":"El Pont de Suert",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":2257,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

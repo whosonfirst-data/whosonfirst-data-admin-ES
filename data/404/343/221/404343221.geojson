@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42125",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Muriel Viejo",
+    "eurostat:nuts_2021_id":"42125",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42125",
+    "eurostat:population":79,
+    "eurostat:population_year":2020,
     "geom:area":0.00123,
-    "geom:area_square_m":11344030.554796,
+    "geom:area_square_m":11344030.554797,
     "geom:bbox":"-2.93765333,41.74338707,-2.89200627,41.80047633",
     "geom:latitude":41.779585,
     "geom:longitude":-2.914023,
@@ -177,6 +189,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -185,6 +199,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42125",
+        "eurostat:nuts_2021_id":"42125",
         "gn:id":6361167,
         "gp:id":12692826,
         "qs_pg:id":12157
@@ -193,7 +209,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"290d3af90255337d372e3fe5d638febe",
+    "wof:geomhash":"7e94f0e431c4f6a0f58980467bd357d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -204,10 +220,12 @@
         }
     ],
     "wof:id":404343221,
-    "wof:lastmodified":1582361868,
+    "wof:lastmodified":1684352449,
     "wof:name":"Muriel Viejo",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":79,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

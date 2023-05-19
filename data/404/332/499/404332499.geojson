@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09903",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villarcayo de Merindad de Castilla la Vieja",
+    "eurostat:nuts_2021_id":"09903",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09903",
+    "eurostat:population":4011,
+    "eurostat:population_year":2020,
     "geom:area":0.016683,
     "geom:area_square_m":151018610.724913,
     "geom:bbox":"-3.67173943,42.85956677,-3.48731542,43.00803902",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_09903",
+        "eurostat:nuts_2021_id":"09903"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"7ddd877687013787f92437317d48385b",
+    "wof:geomhash":"52606a80b03d1a23b5bce23b3f19d81f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404332499,
-    "wof:lastmodified":1566590493,
+    "wof:lastmodified":1684352265,
     "wof:name":"Villarcayo De Merindad De Castilla La Vieja",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":4011,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

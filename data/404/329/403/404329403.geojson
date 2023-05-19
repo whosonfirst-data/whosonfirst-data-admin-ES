@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03067",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Facheca",
+    "eurostat:nuts_2021_id":"03067",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03067",
+    "eurostat:population":107,
+    "eurostat:population_year":2020,
     "geom:area":0.001054,
-    "geom:area_square_m":10167728.221319,
+    "geom:area_square_m":10167728.22132,
     "geom:bbox":"-0.30419852,38.71244255,-0.24916529,38.74913062",
     "geom:latitude":38.731563,
     "geom:longitude":-0.274359,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03067",
+        "eurostat:nuts_2021_id":"03067",
         "gn:id":6355443,
         "gp:id":12695331,
         "qs_pg:id":259338
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b71b32233f62964edf06995536db0c3f",
+    "wof:geomhash":"6f4f81a85d7ac0cc21356a1f8c867800",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404329403,
-    "wof:lastmodified":1582361802,
+    "wof:lastmodified":1684352209,
     "wof:name":"Facheca",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":107,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06049",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Feria",
+    "eurostat:nuts_2021_id":"06049",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06049",
+    "eurostat:population":1115,
+    "eurostat:population_year":2020,
     "geom:area":0.007612,
-    "geom:area_square_m":73667299.981104,
+    "geom:area_square_m":73667299.981102,
     "geom:bbox":"-6.6057062,38.43598336,-6.49914825,38.56312899",
     "geom:latitude":38.497875,
     "geom:longitude":-6.548377,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06049",
+        "eurostat:nuts_2021_id":"06049",
         "gn:id":6355914,
         "gp:id":12694368,
         "qs_pg:id":1149597
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f973a180ed875b484a1e41211dc4c004",
+    "wof:geomhash":"caf4f1fe232359b2eb738ce7284ea3d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330467,
-    "wof:lastmodified":1582361538,
+    "wof:lastmodified":1684352224,
     "wof:name":"Feria",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":1115,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

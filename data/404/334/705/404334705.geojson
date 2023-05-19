@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17071,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17071",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fontcoberta",
+    "eurostat:nuts_2021_id":"17071",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17071",
+    "eurostat:population":1469,
+    "eurostat:population_year":2020,
     "geom:area":0.001861,
-    "geom:area_square_m":17066000.355832,
+    "geom:area_square_m":17065950.301033,
     "geom:bbox":"2.764966,42.112958,2.846878,42.158847",
     "geom:latitude":42.136038,
     "geom:longitude":2.805095,
@@ -115,6 +127,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -123,7 +137,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17071",
         "esp-icgc:la_lc":"017071",
+        "eurostat:nuts_2021_id":"17071",
         "gn:id":6534060,
         "gp:id":12693752,
         "qs_pg:id":985053
@@ -133,7 +149,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a58c636402ad0d4c441ba2ee10f55a41",
+    "wof:geomhash":"f1df5fdc537a3cfad51adc14149c575d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404334705,
-    "wof:lastmodified":1669903048,
+    "wof:lastmodified":1684352306,
     "wof:name":"Fontcoberta",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":1469,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

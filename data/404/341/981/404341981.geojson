@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_38029",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Puntagorda",
+    "eurostat:nuts_2021_id":"38029",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES7",
+    "eurostat:nuts_2021_level_2":"ES70",
+    "eurostat:nuts_2021_level_3":"ES707",
+    "eurostat:nuts_2021_level_lau":"38029",
+    "eurostat:population":2203,
+    "eurostat:population_year":2020,
     "geom:area":0.002848,
-    "geom:area_square_m":30866927.948754,
+    "geom:area_square_m":30866927.94876,
     "geom:bbox":"-18.00812621,28.74030465,-17.89016921,28.79598252",
     "geom:latitude":28.762044,
     "geom:longitude":-17.965129,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_38029",
+        "eurostat:nuts_2021_id":"38029",
         "gn:id":6534191,
         "gp:id":12690186,
         "qs_pg:id":1311008
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ed1061c4178073fa5d5c288230f8856a",
+    "wof:geomhash":"14d03127ec57ee69b0c6cc8c1de9c195",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404341981,
-    "wof:lastmodified":1582361643,
+    "wof:lastmodified":1684352432,
     "wof:name":"Puntagorda",
     "wof:parent_id":85682831,
     "wof:placetype":"localadmin",
+    "wof:population":2203,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

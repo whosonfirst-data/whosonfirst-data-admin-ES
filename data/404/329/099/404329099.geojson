@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_02021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casas de Juan N\u00fa\u00f1ez",
+    "eurostat:nuts_2021_id":"02021",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES421",
+    "eurostat:nuts_2021_level_lau":"02021",
+    "eurostat:population":1326,
+    "eurostat:population_year":2020,
     "geom:area":0.009265,
-    "geom:area_square_m":88913813.895195,
+    "geom:area_square_m":88913813.895196,
     "geom:bbox":"-1.63780563,39.03289067,-1.49845871,39.14638595",
     "geom:latitude":39.097268,
     "geom:longitude":-1.574882,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_02021",
+        "eurostat:nuts_2021_id":"02021",
         "gn:id":6355313,
         "gp:id":12690232,
         "qs_pg:id":1329580
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"192da78b8a1761603029ec4c875609a2",
+    "wof:geomhash":"7053a4a1f2f4a5d0a8b7117b53ba8651",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404329099,
-    "wof:lastmodified":1582361792,
+    "wof:lastmodified":1684352204,
     "wof:name":"Casas De Juan N\u00fa\u00f1ez",
     "wof:parent_id":85682621,
     "wof:placetype":"localadmin",
+    "wof:population":1326,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

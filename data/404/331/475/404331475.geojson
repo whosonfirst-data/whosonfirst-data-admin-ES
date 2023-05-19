@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8267,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08267",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sentmenat",
+    "eurostat:nuts_2021_id":"08267",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08267",
+    "eurostat:population":9235,
+    "eurostat:population_year":2020,
     "geom:area":0.003075,
-    "geom:area_square_m":28431886.978312,
+    "geom:area_square_m":28431909.981144,
     "geom:bbox":"2.090885,41.574308,2.164691,41.660188",
     "geom:latitude":41.613396,
     "geom:longitude":2.130546,
@@ -127,6 +139,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -135,7 +149,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08267",
         "esp-icgc:la_lc":"08267",
+        "eurostat:nuts_2021_id":"08267",
         "gn:id":6356286,
         "gp:id":12693642,
         "qs_pg:id":1149543
@@ -145,7 +161,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"350210cd8ac2faed81e64398a49f418c",
+    "wof:geomhash":"26374f7b77733c1a68300ebd253f2247",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404331475,
-    "wof:lastmodified":1669903009,
+    "wof:lastmodified":1684352252,
     "wof:name":"Sentmenat",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":9235,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16126",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mira",
+    "eurostat:nuts_2021_id":"16126",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16126",
+    "eurostat:population":886,
+    "eurostat:population_year":2020,
     "geom:area":0.022344,
-    "geom:area_square_m":212666333.998854,
+    "geom:area_square_m":212666448.180479,
     "geom:bbox":"-1.565712,39.563902,-1.368535,39.767717",
     "geom:latitude":39.671034,
     "geom:longitude":-1.47,
@@ -189,6 +201,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -197,6 +211,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16126",
+        "eurostat:nuts_2021_id":"16126",
         "gn:id":6357472,
         "gp:id":12690512,
         "qs_pg:id":1188317
@@ -205,7 +221,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d3f12279de5143e0ad54a138e8786ee7",
+    "wof:geomhash":"5b79da6d1f22f8d3a1d928de196c25b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -216,10 +232,12 @@
         }
     ],
     "wof:id":404334271,
-    "wof:lastmodified":1636503324,
+    "wof:lastmodified":1684352295,
     "wof:name":"Mira",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":886,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

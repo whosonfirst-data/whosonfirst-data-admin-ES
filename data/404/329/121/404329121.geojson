@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_02030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Elche de la Sierra",
+    "eurostat:nuts_2021_id":"02030",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES421",
+    "eurostat:nuts_2021_level_lau":"02030",
+    "eurostat:population":3520,
+    "eurostat:population_year":2020,
     "geom:area":0.024717,
-    "geom:area_square_m":239340570.564058,
+    "geom:area_square_m":239340570.564062,
     "geom:bbox":"-2.23448341,38.39442162,-1.9444594,38.5218452",
     "geom:latitude":38.454634,
     "geom:longitude":-2.095643,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_02030",
+        "eurostat:nuts_2021_id":"02030",
         "gn:id":6355322,
         "gp:id":12690241,
         "qs_pg:id":1146916
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"36936ed158aa5452ebdaad30356c92e5",
+    "wof:geomhash":"251308e1e149ad1bef742bf776d64200",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404329121,
-    "wof:lastmodified":1582361795,
+    "wof:lastmodified":1684352204,
     "wof:name":"Elche De La Sierra",
     "wof:parent_id":85682621,
     "wof:placetype":"localadmin",
+    "wof:population":3520,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46061",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Benifl\u00e1",
+    "eurostat:nuts_2021_id":"46061",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46061",
+    "eurostat:population":460,
+    "eurostat:population_year":2020,
     "geom:area":0.000065,
     "geom:area_square_m":624544.789237,
     "geom:bbox":"-0.19945751,38.9233037,-0.18072228,38.92942592",
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46061",
+        "eurostat:nuts_2021_id":"46061",
         "gn:id":6361926,
         "gp:id":12695602,
         "qs_pg:id":1172122
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"18349eda7d8c2b9b3e8d29e2e3bdf049",
+    "wof:geomhash":"018993cd00639c35742f6293048950eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404344937,
-    "wof:lastmodified":1582361844,
+    "wof:lastmodified":1684352480,
     "wof:name":"Benifl\u00e1",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":460,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

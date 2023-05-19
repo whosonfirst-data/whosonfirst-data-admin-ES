@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44047",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Burb\u00e1guena",
+    "eurostat:nuts_2021_id":"44047",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44047",
+    "eurostat:population":211,
+    "eurostat:population_year":2020,
     "geom:area":0.004176,
-    "geom:area_square_m":38967632.498181,
+    "geom:area_square_m":38967632.49818,
     "geom:bbox":"-1.37869629,40.95946218,-1.2679208,41.04610318",
     "geom:latitude":41.011669,
     "geom:longitude":-1.331281,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44047",
+        "eurostat:nuts_2021_id":"44047",
         "gn:id":6361471,
         "gp:id":12689642,
         "qs_pg:id":1196308
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b9f9e9fdc286ec81012ea19b8d7da2e1",
+    "wof:geomhash":"a4201b06b217489339ad86d5dd6e7809",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404343907,
-    "wof:lastmodified":1582361862,
+    "wof:lastmodified":1684352467,
     "wof:name":"Burb\u00e1guena",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":211,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25087,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25087",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Esterri de Card\u00f3s",
+    "eurostat:nuts_2021_id":"25087",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25087",
+    "eurostat:population":64,
+    "eurostat:population_year":2020,
     "geom:area":0.001792,
-    "geom:area_square_m":16311659.069509,
+    "geom:area_square_m":16311607.628914,
     "geom:bbox":"1.22118,42.565578,1.30131,42.606734",
     "geom:latitude":42.587643,
     "geom:longitude":1.268718,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_25087",
         "esp-icgc:la_lc":"025087",
+        "eurostat:nuts_2021_id":"25087",
         "gn:id":6358838,
         "gp:id":12693985,
         "qs_pg:id":265384
@@ -67,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e616389b23b4f1f1c0ab63644e96d4f4",
+    "wof:geomhash":"59a7e797a423a086558e3bf127fc6171",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404337795,
-    "wof:lastmodified":1669903026,
+    "wof:lastmodified":1684352360,
     "wof:name":"Esterri de Card\u00f3s",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":64,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

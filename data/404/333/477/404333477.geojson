@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_13030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caracuel de Calatrava",
+    "eurostat:nuts_2021_id":"13030",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES422",
+    "eurostat:nuts_2021_level_lau":"13030",
+    "eurostat:population":122,
+    "eurostat:population_year":2020,
     "geom:area":0.001029,
     "geom:area_square_m":9915434.327606,
     "geom:bbox":"-4.06963548,38.80305854,-4.04020357,38.8635569",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_13030",
+        "eurostat:nuts_2021_id":"13030",
         "gn:id":6357124,
         "gp:id":12690327,
         "qs_pg:id":1146926
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2528124b94b8036852b3c0ff04588269",
+    "wof:geomhash":"ccd7c7d2241e4fb52d5001d2c1ae2797",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404333477,
-    "wof:lastmodified":1582361763,
+    "wof:lastmodified":1684352279,
     "wof:name":"Caracuel De Calatrava",
     "wof:parent_id":85682689,
     "wof:placetype":"localadmin",
+    "wof:population":122,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09168",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Horra, La",
+    "eurostat:nuts_2021_id":"09168",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09168",
+    "eurostat:population":335,
+    "eurostat:population_year":2020,
     "geom:area":0.003246,
     "geom:area_square_m":29948721.232722,
     "geom:bbox":"-3.90925244,41.70614084,-3.84325673,41.77739603",
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09168",
+        "eurostat:nuts_2021_id":"09168",
         "gn:id":6356458,
         "gp:id":12691505,
         "qs_pg:id":621565
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"94a4d75d52d5aebf147f0cb95522b1e2",
+    "wof:geomhash":"9f12b2f771c40a8a1a47f2dce72c6efe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404331931,
-    "wof:lastmodified":1582361481,
+    "wof:lastmodified":1684352259,
     "wof:name":"La Horra",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":335,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

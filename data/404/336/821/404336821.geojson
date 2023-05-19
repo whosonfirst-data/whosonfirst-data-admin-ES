@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22214",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Secastilla",
+    "eurostat:nuts_2021_id":"22214",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22214",
+    "eurostat:population":140,
+    "eurostat:population_year":2020,
     "geom:area":0.005169,
-    "geom:area_square_m":47349929.999092,
+    "geom:area_square_m":47349929.999093,
     "geom:bbox":"0.22344873,42.14299661,0.29612639,42.24690342",
     "geom:latitude":42.195632,
     "geom:longitude":0.257218,
@@ -96,6 +108,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22214",
+        "eurostat:nuts_2021_id":"22214",
         "gn:id":6358414,
         "gp:id":12689562,
         "qs_pg:id":392712
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"238c0f1ed22bd083696650148d85bd4a",
+    "wof:geomhash":"077478ac78410c381d0a93f655c82c34",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404336821,
-    "wof:lastmodified":1582361462,
+    "wof:lastmodified":1684352344,
     "wof:name":"Secastilla",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":140,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

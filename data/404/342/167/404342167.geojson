@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_39056",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Puente Viesgo",
+    "eurostat:nuts_2021_id":"39056",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES13",
+    "eurostat:nuts_2021_level_3":"ES130",
+    "eurostat:nuts_2021_level_lau":"39056",
+    "eurostat:population":2845,
+    "eurostat:population_year":2020,
     "geom:area":0.004009,
-    "geom:area_square_m":36082375.9655,
+    "geom:area_square_m":36082375.965499,
     "geom:bbox":"-4.01350089,43.24572651,-3.93712991,43.33837523",
     "geom:latitude":43.294049,
     "geom:longitude":-3.979895,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_39056",
+        "eurostat:nuts_2021_id":"39056",
         "gn:id":6360701,
         "gp:id":12688577,
         "qs_pg:id":222132
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7466f0b85343d4858db1f11daa5af77e",
+    "wof:geomhash":"7d19a0528df68122cd262f2860c6566f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404342167,
-    "wof:lastmodified":1582361807,
+    "wof:lastmodified":1684352436,
     "wof:name":"Puente Viesgo",
     "wof:parent_id":85682833,
     "wof:placetype":"localadmin",
+    "wof:population":2845,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

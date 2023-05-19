@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46093",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Catadau",
+    "eurostat:nuts_2021_id":"46093",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46093",
+    "eurostat:population":2804,
+    "eurostat:population_year":2020,
     "geom:area":0.0037,
-    "geom:area_square_m":35428299.045588,
+    "geom:area_square_m":35428299.04559,
     "geom:bbox":"-0.69019853,39.22960344,-0.54034875,39.27933501",
     "geom:latitude":39.255361,
     "geom:longitude":-0.608456,
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46093",
+        "eurostat:nuts_2021_id":"46093",
         "gn:id":6361958,
         "gp:id":12695635,
         "qs_pg:id":303550
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c02bc54cdcf472138c8285ca330a0654",
+    "wof:geomhash":"47a40981372c40734e367b1048eba53a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404345009,
-    "wof:lastmodified":1582361829,
+    "wof:lastmodified":1684352481,
     "wof:name":"Catadau",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":2804,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

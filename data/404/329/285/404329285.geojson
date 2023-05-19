@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Almudaina",
+    "eurostat:nuts_2021_id":"03016",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03016",
+    "eurostat:population":109,
+    "eurostat:population_year":2020,
     "geom:area":0.000914,
-    "geom:area_square_m":8814180.515487,
+    "geom:area_square_m":8814180.515486,
     "geom:bbox":"-0.38257174,38.74790886,-0.33205709,38.77848266",
     "geom:latitude":38.764179,
     "geom:longitude":-0.357822,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03016",
+        "eurostat:nuts_2021_id":"03016",
         "gn:id":6355392,
         "gp:id":12695281,
         "qs_pg:id":1289725
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"20f910cbcf4382a4ea9873298e58263e",
+    "wof:geomhash":"863ec8ad6f60d8c43488087e2781a82d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404329285,
-    "wof:lastmodified":1582361799,
+    "wof:lastmodified":1684352207,
     "wof:name":"Almudaina",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":109,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

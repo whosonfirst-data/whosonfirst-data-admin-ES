@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44141",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lled\u00f3",
+    "eurostat:nuts_2021_id":"44141",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44141",
+    "eurostat:population":155,
+    "eurostat:population_year":2020,
     "geom:area":0.00167,
-    "geom:area_square_m":15595359.240921,
+    "geom:area_square_m":15595359.24092,
     "geom:bbox":"0.22521627,40.91965044,0.29350076,40.97490534",
     "geom:latitude":40.948375,
     "geom:longitude":0.259136,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44141",
+        "eurostat:nuts_2021_id":"44141",
         "gn:id":6361549,
         "gp:id":12689719,
         "qs_pg:id":1196305
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dfcf7250e47eec03193e4f40df0d3e15",
+    "wof:geomhash":"8e1e650e18720b0d27985eeacdf804dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404344083,
-    "wof:lastmodified":1582361846,
+    "wof:lastmodified":1684352469,
     "wof:name":"Lled\u00f3",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":155,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

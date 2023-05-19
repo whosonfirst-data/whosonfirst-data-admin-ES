@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zeberio",
+    "eurostat:nuts_2021_id":"48025",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48025",
+    "eurostat:population":1095,
+    "eurostat:population_year":2020,
     "geom:area":0.005253,
-    "geom:area_square_m":47387526.816092,
+    "geom:area_square_m":47387526.816094,
     "geom:bbox":"-2.90815308,43.10911465,-2.80215412,43.19122224",
     "geom:latitude":43.150926,
     "geom:longitude":-2.855189,
@@ -102,6 +114,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -109,9 +123,12 @@
         404227393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_48025",
+        "eurostat:nuts_2021_id":"48025"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"a2aff099da4943b34eb46b2f31baecf5",
+    "wof:geomhash":"d3b32d02e6dcefb4973774c86840d1aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +139,12 @@
         }
     ],
     "wof:id":404345959,
-    "wof:lastmodified":1566591024,
+    "wof:lastmodified":1684352492,
     "wof:name":"Zeberio",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":1095,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

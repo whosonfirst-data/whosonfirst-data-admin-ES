@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50265",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trasmoz",
+    "eurostat:nuts_2021_id":"50265",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50265",
+    "eurostat:population":88,
+    "eurostat:population_year":2020,
     "geom:area":0.001979,
-    "geom:area_square_m":18234113.182662,
+    "geom:area_square_m":18234113.182663,
     "geom:bbox":"-1.79937523,41.78059966,-1.69890822,41.85321945",
     "geom:latitude":41.823813,
     "geom:longitude":-1.734293,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50265",
+        "eurostat:nuts_2021_id":"50265",
         "gn:id":6362951,
         "gp:id":12690091,
         "qs_pg:id":1163671
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bd4906b1e18b8c6218d84aa929844088",
+    "wof:geomhash":"e5eca6270e61eaabf97d8ec92310c012",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404347291,
-    "wof:lastmodified":1582361674,
+    "wof:lastmodified":1684352509,
     "wof:name":"Trasmoz",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":88,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

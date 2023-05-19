@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arrancacepas",
+    "eurostat:nuts_2021_id":"16025",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16025",
+    "eurostat:population":25,
+    "eurostat:population_year":2020,
     "geom:area":0.001966,
-    "geom:area_square_m":18537952.824948,
+    "geom:area_square_m":18537952.824947,
     "geom:bbox":"-2.37758179,40.27934945,-2.32986001,40.34598323",
     "geom:latitude":40.30786,
     "geom:longitude":-2.350083,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16025",
+        "eurostat:nuts_2021_id":"16025",
         "gn:id":6357385,
         "gp:id":12690421,
         "qs_pg:id":1165222
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"58cdc189692f30cf7d3630b239f1e9a4",
+    "wof:geomhash":"de291ef2c482590cea321d606530b3f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404334073,
-    "wof:lastmodified":1582361741,
+    "wof:lastmodified":1684352293,
     "wof:name":"Arrancacepas",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":25,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10142",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Perales del Puerto",
+    "eurostat:nuts_2021_id":"10142",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10142",
+    "eurostat:population":938,
+    "eurostat:population_year":2020,
     "geom:area":0.003833,
-    "geom:area_square_m":36238963.618393,
+    "geom:area_square_m":36238963.618392,
     "geom:bbox":"-6.72958819,40.10100255,-6.65049185,40.18467754",
     "geom:latitude":40.135476,
     "geom:longitude":-6.690264,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10142",
+        "eurostat:nuts_2021_id":"10142",
         "gn:id":6356837,
         "gp:id":12694623,
         "qs_pg:id":48035
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"94f3ae06a78bbb6e94ab4675e2334d96",
+    "wof:geomhash":"f732efab6725c53b3ce2e7ed1ed70e00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332827,
-    "wof:lastmodified":1582361678,
+    "wof:lastmodified":1684352269,
     "wof:name":"Perales Del Puerto",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":938,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

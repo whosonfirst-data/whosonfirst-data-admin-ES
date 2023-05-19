@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jarandilla de la Vera",
+    "eurostat:nuts_2021_id":"10105",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10105",
+    "eurostat:population":2805,
+    "eurostat:population_year":2020,
     "geom:area":0.006496,
-    "geom:area_square_m":61447529.619638,
+    "geom:area_square_m":61447529.619635,
     "geom:bbox":"-5.68838783,40.0408191,-5.54629898,40.14813076",
     "geom:latitude":40.090715,
     "geom:longitude":-5.632393,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10105",
+        "eurostat:nuts_2021_id":"10105",
         "gn:id":6356801,
         "gp:id":12694586,
         "qs_pg:id":1311121
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3ebed02a6cb8e16b146f2280051e163f",
+    "wof:geomhash":"44f258cbdc487d5f349c14ed346056cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332743,
-    "wof:lastmodified":1582361691,
+    "wof:lastmodified":1684352268,
     "wof:name":"Jarandilla De La Vera",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":2805,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

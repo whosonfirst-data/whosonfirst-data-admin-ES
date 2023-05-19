@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49066",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ferreras de Abajo",
+    "eurostat:nuts_2021_id":"49066",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49066",
+    "eurostat:population":479,
+    "eurostat:population_year":2020,
     "geom:area":0.009564,
-    "geom:area_square_m":88021169.160042,
+    "geom:area_square_m":88021169.160043,
     "geom:bbox":"-6.16798356,41.86056624,-5.95834063,41.93320736",
     "geom:latitude":41.898094,
     "geom:longitude":-6.064226,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_49066",
+        "eurostat:nuts_2021_id":"49066"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"a64c9886c9e2e7b163cc2566431516e6",
+    "wof:geomhash":"327cd8b79e0e5952c8e00cc94833f962",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404346293,
-    "wof:lastmodified":1566590242,
+    "wof:lastmodified":1684352497,
     "wof:name":"Ferreras De Abajo",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":479,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

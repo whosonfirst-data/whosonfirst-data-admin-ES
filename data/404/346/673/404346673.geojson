@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49256",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villan\u00e1zar",
+    "eurostat:nuts_2021_id":"49256",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49256",
+    "eurostat:population":270,
+    "eurostat:population_year":2020,
     "geom:area":0.001987,
-    "geom:area_square_m":18265828.841582,
+    "geom:area_square_m":18265828.841583,
     "geom:bbox":"-5.81439597,41.9341664,-5.76115638,42.00414023",
     "geom:latitude":41.970258,
     "geom:longitude":-5.785413,
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_49256",
+        "eurostat:nuts_2021_id":"49256",
         "gn:id":6362677,
         "gp:id":12693357,
         "qs_pg:id":1311096
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ff624dc6e16690fd8f9f763dd01251fa",
+    "wof:geomhash":"1c05445e4aed5ea7aece28285b6a79b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404346673,
-    "wof:lastmodified":1582361610,
+    "wof:lastmodified":1684352502,
     "wof:name":"Villan\u00e1zar",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":270,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

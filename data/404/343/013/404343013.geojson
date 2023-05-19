@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Almajano",
+    "eurostat:nuts_2021_id":"42017",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42017",
+    "eurostat:population":191,
+    "eurostat:population_year":2020,
     "geom:area":0.001073,
     "geom:area_square_m":9887135.280076,
     "geom:bbox":"-2.36434936,41.82462549,-2.30823362,41.85949251",
@@ -198,6 +210,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -206,6 +220,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42017",
+        "eurostat:nuts_2021_id":"42017",
         "gn:id":6361075,
         "gp:id":12692734,
         "qs_pg:id":1148896
@@ -214,7 +230,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0514c5e419466a8e16f2a6c762956ad6",
+    "wof:geomhash":"ee57aa10c80de8f44d799b1d2723caaf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -225,10 +241,12 @@
         }
     ],
     "wof:id":404343013,
-    "wof:lastmodified":1582361868,
+    "wof:lastmodified":1684352446,
     "wof:name":"Almajano",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":191,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

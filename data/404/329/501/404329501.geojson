@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03113",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rojales",
+    "eurostat:nuts_2021_id":"03113",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03113",
+    "eurostat:population":16671,
+    "eurostat:population_year":2020,
     "geom:area":0.002829,
     "geom:area_square_m":27540554.923893,
     "geom:bbox":"-0.77328531,38.03251448,-0.69325953,38.11528662",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03113",
+        "eurostat:nuts_2021_id":"03113",
         "gn:id":6355487,
         "gp:id":12695379,
         "qs_pg:id":48437
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2132322f4e1d5c66f190782d5f27f383",
+    "wof:geomhash":"ad4455444cfcc066023a8774c69f52d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404329501,
-    "wof:lastmodified":1582361795,
+    "wof:lastmodified":1684352210,
     "wof:name":"Rojales",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":16671,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

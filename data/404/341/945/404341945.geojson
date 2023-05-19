@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_38013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Frontera",
+    "eurostat:nuts_2021_id":"38013",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES7",
+    "eurostat:nuts_2021_level_2":"ES70",
+    "eurostat:nuts_2021_level_3":"ES703",
+    "eurostat:nuts_2021_level_lau":"38013",
+    "eurostat:population":4184,
+    "eurostat:population_year":2020,
     "geom:area":0.007484,
-    "geom:area_square_m":81897992.636967,
+    "geom:area_square_m":81897903.753945,
     "geom:bbox":"-18.16131,27.711783,-17.97866,27.822594",
     "geom:latitude":27.747922,
     "geom:longitude":-18.066809,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_38013",
+        "eurostat:nuts_2021_id":"38013",
         "gn:id":6534185,
         "gp:id":12690171,
         "qs_pg:id":199723
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1404ea5fb8dcb04160434be8024ac8c7",
+    "wof:geomhash":"31e1b3ace43fe4898506475c695d7f61",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404341945,
-    "wof:lastmodified":1636503322,
+    "wof:lastmodified":1684352431,
     "wof:name":"Frontera",
     "wof:parent_id":85682831,
     "wof:placetype":"localadmin",
+    "wof:population":4184,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

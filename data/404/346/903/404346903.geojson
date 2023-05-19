@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50085",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Codo",
+    "eurostat:nuts_2021_id":"50085",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50085",
+    "eurostat:population":199,
+    "eurostat:population_year":2020,
     "geom:area":0.001222,
     "geom:area_square_m":11341438.355696,
     "geom:bbox":"-0.71262825,41.32160614,-0.6384934,41.35588469",
@@ -57,6 +69,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -65,6 +79,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50085",
+        "eurostat:nuts_2021_id":"50085",
         "gn:id":6362778,
         "gp:id":12689920,
         "qs_pg:id":269220
@@ -73,7 +89,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"57c0c2c1f2e72cf07bb88e4ebf501025",
+    "wof:geomhash":"3cfe83b04ebfeb9f7640751f75e7fc6d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +100,12 @@
         }
     ],
     "wof:id":404346903,
-    "wof:lastmodified":1582361615,
+    "wof:lastmodified":1684352504,
     "wof:name":"Codo",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":199,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

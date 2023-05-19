@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43062,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43062",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Freginals",
+    "eurostat:nuts_2021_id":"43062",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43062",
+    "eurostat:population":385,
+    "eurostat:population_year":2020,
     "geom:area":0.001857,
-    "geom:area_square_m":17419623.854819,
+    "geom:area_square_m":17419623.854818,
     "geom:bbox":"0.489093808548,40.6319914791,0.544217348781,40.6873299417",
     "geom:latitude":40.658623,
     "geom:longitude":0.518273,
@@ -112,6 +124,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -120,7 +134,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43062",
         "esp-icgc:la_lc":"043062",
+        "eurostat:nuts_2021_id":"43062",
         "gn:id":6361305,
         "gp:id":12694200,
         "qs_pg:id":1149584
@@ -130,7 +146,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"1fc073482f103bc1be560cc946b91049",
+    "wof:geomhash":"927bf45b3b671de4e1a32db517a93016",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404343533,
-    "wof:lastmodified":1582361863,
+    "wof:lastmodified":1684352456,
     "wof:name":"Freginals",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":385,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

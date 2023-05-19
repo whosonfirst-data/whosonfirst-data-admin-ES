@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10175",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Serradilla",
+    "eurostat:nuts_2021_id":"10175",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10175",
+    "eurostat:population":1507,
+    "eurostat:population_year":2020,
     "geom:area":0.027256,
-    "geom:area_square_m":258939558.944211,
+    "geom:area_square_m":258939558.944203,
     "geom:bbox":"-6.2331708,39.66171487,-5.98129108,39.93662575",
     "geom:latitude":39.797884,
     "geom:longitude":-6.103297,
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10175",
+        "eurostat:nuts_2021_id":"10175",
         "gn:id":6356870,
         "gp:id":12694657,
         "qs_pg:id":1188871
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8633ad8f02296e434b69d6a3abde9c9b",
+    "wof:geomhash":"c87b882e4ba0eb728b5b5a25b1b13342",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404332901,
-    "wof:lastmodified":1582361677,
+    "wof:lastmodified":1684352270,
     "wof:name":"Serradilla",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":1507,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

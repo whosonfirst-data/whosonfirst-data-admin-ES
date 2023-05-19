@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_37296",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santiago de la Puebla",
+    "eurostat:nuts_2021_id":"37296",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES415",
+    "eurostat:nuts_2021_level_lau":"37296",
+    "eurostat:population":309,
+    "eurostat:population_year":2020,
     "geom:area":0.005691,
-    "geom:area_square_m":53272403.600509,
+    "geom:area_square_m":53272403.60051,
     "geom:bbox":"-5.35560212,40.74852023,-5.22335963,40.83485089",
     "geom:latitude":40.791247,
     "geom:longitude":-5.287278,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_37296",
+        "eurostat:nuts_2021_id":"37296",
         "gn:id":6360534,
         "gp:id":12692428,
         "qs_pg:id":1148761
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"39affd4470610fa888c1cb716e55b1ae",
+    "wof:geomhash":"cf402eeb6cdc8312380057d1c01101d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404341727,
-    "wof:lastmodified":1582361643,
+    "wof:lastmodified":1684352428,
     "wof:name":"Santiago De La Puebla",
     "wof:parent_id":85682829,
     "wof:placetype":"localadmin",
+    "wof:population":309,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

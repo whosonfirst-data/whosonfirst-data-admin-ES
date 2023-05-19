@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17090,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17090",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Llambilles",
+    "eurostat:nuts_2021_id":"17090",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17090",
+    "eurostat:population":713,
+    "eurostat:population_year":2020,
     "geom:area":0.001616,
-    "geom:area_square_m":14868845.965093,
+    "geom:area_square_m":14868899.795066,
     "geom:bbox":"2.834662,41.906833,2.902287,41.939766",
     "geom:latitude":41.922804,
     "geom:longitude":2.86916,
@@ -121,6 +133,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -129,7 +143,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17090",
         "esp-icgc:la_lc":"017090",
+        "eurostat:nuts_2021_id":"17090",
         "gn:id":6534075,
         "gp:id":12693771,
         "qs_pg:id":345305
@@ -139,7 +155,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"d966a3748b2d9626a566e10f5a756289",
+    "wof:geomhash":"5fc7b9b0432aa6861eca0a1403dd6f67",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404334745,
-    "wof:lastmodified":1669903055,
+    "wof:lastmodified":1684352307,
     "wof:name":"Llambilles",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":713,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

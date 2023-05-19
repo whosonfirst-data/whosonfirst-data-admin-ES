@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05075",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fresnedilla",
+    "eurostat:nuts_2021_id":"05075",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05075",
+    "eurostat:population":107,
+    "eurostat:population_year":2020,
     "geom:area":0.002595,
-    "geom:area_square_m":24499103.969369,
+    "geom:area_square_m":24499103.969368,
     "geom:bbox":"-4.69368087,40.20695805,-4.61776432,40.26841583",
     "geom:latitude":40.236037,
     "geom:longitude":-4.657376,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05075",
+        "eurostat:nuts_2021_id":"05075",
         "gn:id":6355681,
         "gp:id":12691190,
         "qs_pg:id":497039
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3cc77dbc83ceef5d4896418c056169e0",
+    "wof:geomhash":"a80c5976ee770fa80942e17b2fdec767",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404329939,
-    "wof:lastmodified":1582361788,
+    "wof:lastmodified":1684352217,
     "wof:name":"Fresnedilla",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":107,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

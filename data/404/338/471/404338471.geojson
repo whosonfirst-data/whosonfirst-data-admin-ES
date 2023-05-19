@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_26153",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torre en Cameros",
+    "eurostat:nuts_2021_id":"26153",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES23",
+    "eurostat:nuts_2021_level_3":"ES230",
+    "eurostat:nuts_2021_level_lau":"26153",
+    "eurostat:population":10,
+    "eurostat:population_year":2020,
     "geom:area":0.001269,
     "geom:area_square_m":11619627.515751,
     "geom:bbox":"-2.55633873,42.22660205,-2.49349102,42.26507347",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_26153",
+        "eurostat:nuts_2021_id":"26153",
         "gn:id":6359137,
         "gp:id":12687916,
         "qs_pg:id":1145931
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e67b89cb45529cfbfbc9c18e79020913",
+    "wof:geomhash":"9b52a5bdc5d229b2bbcb5b4a61f513fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404338471,
-    "wof:lastmodified":1582361433,
+    "wof:lastmodified":1684352376,
     "wof:name":"Torre En Cameros",
     "wof:parent_id":85682773,
     "wof:placetype":"localadmin",
+    "wof:population":10,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

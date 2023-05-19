@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28131",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Lorenzo de El Escorial",
+    "eurostat:nuts_2021_id":"28131",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28131",
+    "eurostat:population":18532,
+    "eurostat:population_year":2020,
     "geom:area":0.006003,
     "geom:area_square_m":56341450.7318,
     "geom:bbox":"-4.19876841,40.56248386,-4.03148425,40.65522943",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28131",
+        "eurostat:nuts_2021_id":"28131",
         "gn:id":6359352,
         "gp:id":12688073,
         "qs_pg:id":44480
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fb93efc42b35f4013c94d65048dd51f2",
+    "wof:geomhash":"ff4efc19ff0396630d8a158ade1ef76f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404338971,
-    "wof:lastmodified":1582361442,
+    "wof:lastmodified":1684352385,
     "wof:name":"San Lorenzo De El Escorial",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":18532,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

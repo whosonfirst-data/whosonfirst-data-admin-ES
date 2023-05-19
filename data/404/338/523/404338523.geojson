@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_26178",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Viniegra de Abajo",
+    "eurostat:nuts_2021_id":"26178",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES23",
+    "eurostat:nuts_2021_level_3":"ES230",
+    "eurostat:nuts_2021_level_lau":"26178",
+    "eurostat:population":75,
+    "eurostat:population_year":2020,
     "geom:area":0.00715,
-    "geom:area_square_m":65580657.337881,
+    "geom:area_square_m":65580657.337873,
     "geom:bbox":"-2.92020178,42.0094871,-2.84463635,42.22753765",
     "geom:latitude":42.117796,
     "geom:longitude":-2.881014,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_26178",
+        "eurostat:nuts_2021_id":"26178",
         "gn:id":6359160,
         "gp:id":12687941,
         "qs_pg:id":1145982
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"06d8375e52b7036547ad044ca8e381ff",
+    "wof:geomhash":"b1ae3d3f85006f53fa937b2230289bcf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404338523,
-    "wof:lastmodified":1582361457,
+    "wof:lastmodified":1684352377,
     "wof:name":"Viniegra De Abajo",
     "wof:parent_id":85682773,
     "wof:placetype":"localadmin",
+    "wof:population":75,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47171",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torrelobat\u00f3n",
+    "eurostat:nuts_2021_id":"47171",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47171",
+    "eurostat:population":400,
+    "eurostat:population_year":2020,
     "geom:area":0.007144,
     "geom:area_square_m":66000146.941427,
     "geom:bbox":"-5.08497374,41.6033945,-4.91070577,41.73279006",
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_47171",
+        "eurostat:nuts_2021_id":"47171",
         "gn:id":6362293,
         "gp:id":12693068,
         "qs_pg:id":1292904
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7c6ff23ad955045cd7d122fbf86eb50d",
+    "wof:geomhash":"a19837f220e6350ee6fcd02a0c467fc2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404345771,
-    "wof:lastmodified":1582361831,
+    "wof:lastmodified":1684352490,
     "wof:name":"Torrelobat\u00f3n",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":400,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

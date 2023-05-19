@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_44123",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hinojosa de Jarque",
+    "eurostat:nuts_2021_id":"44123",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES242",
+    "eurostat:nuts_2021_level_lau":"44123",
+    "eurostat:population":112,
+    "eurostat:population_year":2020,
     "geom:area":0.003885,
     "geom:area_square_m":36430939.072625,
     "geom:bbox":"-0.82461917,40.65079781,-0.72397791,40.70875153",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_44123",
+        "eurostat:nuts_2021_id":"44123",
         "gn:id":6361534,
         "gp:id":12689705,
         "qs_pg:id":45445
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d6364ced4da256905c79178214cf7fff",
+    "wof:geomhash":"210195f0f1a8f3d4252e6cc4a4deb605",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404344049,
-    "wof:lastmodified":1582361847,
+    "wof:lastmodified":1684352469,
     "wof:name":"Hinojosa De Jarque",
     "wof:parent_id":85682857,
     "wof:placetype":"localadmin",
+    "wof:population":112,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

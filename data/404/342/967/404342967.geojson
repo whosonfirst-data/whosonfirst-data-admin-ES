@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_41100",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villanueva de San Juan",
+    "eurostat:nuts_2021_id":"41100",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES618",
+    "eurostat:nuts_2021_level_lau":"41100",
+    "eurostat:population":1090,
+    "eurostat:population_year":2020,
     "geom:area":0.00352,
-    "geom:area_square_m":34731735.490034,
+    "geom:area_square_m":34731735.490033,
     "geom:bbox":"-5.2243688,37.03025599,-5.13784337,37.12286251",
     "geom:latitude":37.071671,
     "geom:longitude":-5.185413,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_41100",
+        "eurostat:nuts_2021_id":"41100",
         "gn:id":6361055,
         "gp:id":12689391,
         "qs_pg:id":45289
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"868800acd6d4cf96bee4d161d7972ae5",
+    "wof:geomhash":"c1953901363937754c148e53338c7aa9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404342967,
-    "wof:lastmodified":1582361816,
+    "wof:lastmodified":1684352446,
     "wof:name":"Villanueva De San Juan",
     "wof:parent_id":85682841,
     "wof:placetype":"localadmin",
+    "wof:population":1090,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

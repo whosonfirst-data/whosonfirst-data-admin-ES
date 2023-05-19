@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_42086",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fuentecambr\u00f3n",
+    "eurostat:nuts_2021_id":"42086",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES417",
+    "eurostat:nuts_2021_level_lau":"42086",
+    "eurostat:population":32,
+    "eurostat:population_year":2020,
     "geom:area":0.005244,
-    "geom:area_square_m":48568429.185529,
+    "geom:area_square_m":48568429.185527,
     "geom:bbox":"-3.41330541,41.45649788,-3.28304098,41.5316108",
     "geom:latitude":41.492113,
     "geom:longitude":-3.338164,
@@ -171,6 +183,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -179,6 +193,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_42086",
+        "eurostat:nuts_2021_id":"42086",
         "gn:id":6361137,
         "gp:id":12692796,
         "qs_pg:id":918615
@@ -187,7 +203,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c0388efe41eedc29da3b4d46fae331c1",
+    "wof:geomhash":"b5fa8a6632e0b04c6172a1e32b236a5b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -198,10 +214,12 @@
         }
     ],
     "wof:id":404343151,
-    "wof:lastmodified":1582361865,
+    "wof:lastmodified":1684352448,
     "wof:name":"Fuentecambr\u00f3n",
     "wof:parent_id":85682847,
     "wof:placetype":"localadmin",
+    "wof:population":32,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

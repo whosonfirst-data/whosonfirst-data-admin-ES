@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calzadilla de Tera",
+    "eurostat:nuts_2021_id":"49032",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49032",
+    "eurostat:population":299,
+    "eurostat:population_year":2020,
     "geom:area":0.002958,
     "geom:area_square_m":27194441.01368,
     "geom:bbox":"-6.15835869,41.92852191,-6.05323942,41.9962171",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_49032",
+        "eurostat:nuts_2021_id":"49032"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"256cbb9561407aee31222885d3948ec0",
+    "wof:geomhash":"085f4d2b0f1d1910abee49ffb9e99527",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404346225,
-    "wof:lastmodified":1566590269,
+    "wof:lastmodified":1684352497,
     "wof:name":"Calzadilla De Tera",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":299,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

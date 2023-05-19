@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06096",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Orellana de la Sierra",
+    "eurostat:nuts_2021_id":"06096",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06096",
+    "eurostat:population":244,
+    "eurostat:population_year":2020,
     "geom:area":0.001735,
     "geom:area_square_m":16664134.676696,
     "geom:bbox":"-5.52696313,38.98886559,-5.48435929,39.04601829",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06096",
+        "eurostat:nuts_2021_id":"06096",
         "gn:id":6355961,
         "gp:id":12694415,
         "qs_pg:id":1163726
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"10fe615fb02c69496d73d6180006956a",
+    "wof:geomhash":"e52dffbbdd4e96ecdcdbe467b63cde26",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330573,
-    "wof:lastmodified":1582361531,
+    "wof:lastmodified":1684352226,
     "wof:name":"Orellana De La Sierra",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":244,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

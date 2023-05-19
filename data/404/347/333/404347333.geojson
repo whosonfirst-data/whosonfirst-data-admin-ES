@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50283",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villadoz",
+    "eurostat:nuts_2021_id":"50283",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50283",
+    "eurostat:population":95,
+    "eurostat:population_year":2020,
     "geom:area":0.001844,
     "geom:area_square_m":17162843.978287,
     "geom:bbox":"-1.31387134,41.14099416,-1.22332795,41.18906969",
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50283",
+        "eurostat:nuts_2021_id":"50283",
         "gn:id":6362969,
         "gp:id":12690108,
         "qs_pg:id":45599
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1d3cce11c37d851e29f276607bae04bd",
+    "wof:geomhash":"07dffc79c5b4348b0d3e7b59e2effee1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404347333,
-    "wof:lastmodified":1582361673,
+    "wof:lastmodified":1684352510,
     "wof:name":"Villadoz",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":95,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

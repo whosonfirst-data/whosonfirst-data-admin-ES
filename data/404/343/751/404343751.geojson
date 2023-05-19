@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43160,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43160",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vallmoll",
+    "eurostat:nuts_2021_id":"43160",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43160",
+    "eurostat:population":1774,
+    "eurostat:population_year":2020,
     "geom:area":0.001788,
-    "geom:area_square_m":16626148.185387,
+    "geom:area_square_m":16626148.185388,
     "geom:bbox":"1.22679684367,41.2158237944,1.27965304822,41.27677895",
     "geom:latitude":41.245767,
     "geom:longitude":1.252226,
@@ -118,6 +130,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -126,7 +140,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43160",
         "esp-icgc:la_lc":"043160",
+        "eurostat:nuts_2021_id":"43160",
         "gn:id":6361402,
         "gp:id":12694300,
         "qs_pg:id":204781
@@ -136,7 +152,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"66a467fbd9981e1b6a955d3f6366fc0b",
+    "wof:geomhash":"3d944ffd65e1b981d938a3b2fc351eee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404343751,
-    "wof:lastmodified":1582361881,
+    "wof:lastmodified":1684352463,
     "wof:name":"Vallmoll",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":1774,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09480",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zael",
+    "eurostat:nuts_2021_id":"09480",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09480",
+    "eurostat:population":112,
+    "eurostat:population_year":2020,
     "geom:area":0.002042,
     "geom:area_square_m":18736367.395016,
     "geom:bbox":"-3.8650961,42.0777944,-3.80274405,42.13789213",
@@ -36,6 +48,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -44,6 +58,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09480",
+        "eurostat:nuts_2021_id":"09480",
         "gn:id":6356687,
         "gp:id":12691743,
         "qs_pg:id":46372
@@ -52,7 +68,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d0f194a0c3b2044aede1e7c969c7cf3e",
+    "wof:geomhash":"05977e1aa26222a7e729b89573bd5d07",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +79,12 @@
         }
     ],
     "wof:id":404332485,
-    "wof:lastmodified":1582361678,
+    "wof:lastmodified":1684352265,
     "wof:name":"Zael",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":112,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

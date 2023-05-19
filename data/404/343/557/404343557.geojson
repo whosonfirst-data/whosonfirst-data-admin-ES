@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43073,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43073",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Llorac",
+    "eurostat:nuts_2021_id":"43073",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43073",
+    "eurostat:population":91,
+    "eurostat:population_year":2020,
     "geom:area":0.002498,
-    "geom:area_square_m":23113671.065825,
+    "geom:area_square_m":23113561.399695,
     "geom:bbox":"1.258689,41.534888,1.392797,41.572054",
     "geom:latitude":41.556193,
     "geom:longitude":1.330427,
@@ -117,6 +129,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -125,13 +139,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"043073"
+        "eg:gisco_id":"ES_43073",
+        "esp-icgc:la_lc":"043073",
+        "eurostat:nuts_2021_id":"43073"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"da03dcfb1235d8bd10be92fd3a9871a5",
+    "wof:geomhash":"c7b4e287cd1f3391556277a309e21ed4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,10 +158,12 @@
         }
     ],
     "wof:id":404343557,
-    "wof:lastmodified":1669903061,
+    "wof:lastmodified":1684352456,
     "wof:name":"Llorac",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":91,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

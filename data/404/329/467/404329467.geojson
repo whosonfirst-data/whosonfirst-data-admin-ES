@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_03097",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Orba",
+    "eurostat:nuts_2021_id":"03097",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES521",
+    "eurostat:nuts_2021_level_lau":"03097",
+    "eurostat:population":2232,
+    "eurostat:population_year":2020,
     "geom:area":0.001838,
-    "geom:area_square_m":17716979.768128,
+    "geom:area_square_m":17716979.768127,
     "geom:bbox":"-0.13241142,38.75966209,-0.02605851,38.80625141",
     "geom:latitude":38.785082,
     "geom:longitude":-0.066167,
@@ -57,6 +69,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -65,6 +79,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_03097",
+        "eurostat:nuts_2021_id":"03097",
         "gn:id":6355472,
         "gp:id":12695361,
         "qs_pg:id":218827
@@ -73,7 +89,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2397c567270e7eb18f20a12492fe0582",
+    "wof:geomhash":"aae4d0937b3a346183660d50d48f00d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +100,12 @@
         }
     ],
     "wof:id":404329467,
-    "wof:lastmodified":1582361800,
+    "wof:lastmodified":1684352210,
     "wof:name":"Orba",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
+    "wof:population":2232,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

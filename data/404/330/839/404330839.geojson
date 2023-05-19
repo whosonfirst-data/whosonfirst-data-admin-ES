@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_07050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant Joan de Labritja",
+    "eurostat:nuts_2021_id":"07050",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES53",
+    "eurostat:nuts_2021_level_3":"ES531",
+    "eurostat:nuts_2021_level_lau":"07050",
+    "eurostat:population":6576,
+    "eurostat:population_year":2020,
     "geom:area":0.012674,
-    "geom:area_square_m":121680823.044785,
+    "geom:area_square_m":121680823.044784,
     "geom:bbox":"1.38921864,38.9929332,1.61142237,39.11838686",
     "geom:latitude":39.062136,
     "geom:longitude":1.487715,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_07050",
+        "eurostat:nuts_2021_id":"07050",
         "gn:id":6356037,
         "gp:id":12687757,
         "qs_pg:id":248739
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0fc56f18de4eccb1de3e32dcee36343f",
+    "wof:geomhash":"ac3b7b3e90fe6110fbc97d9d854cdf92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330839,
-    "wof:lastmodified":1582361540,
+    "wof:lastmodified":1684352233,
     "wof:name":"Sant Joan De Labritja",
     "wof:parent_id":85682647,
     "wof:placetype":"localadmin",
+    "wof:population":6576,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

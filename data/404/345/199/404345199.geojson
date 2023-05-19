@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46178",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"N\u00e1quera",
+    "eurostat:nuts_2021_id":"46178",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46178",
+    "eurostat:population":6897,
+    "eurostat:population_year":2020,
     "geom:area":0.004061,
-    "geom:area_square_m":38673171.135764,
+    "geom:area_square_m":38673171.135762,
     "geom:bbox":"-0.46355502,39.5925222,-0.3672134,39.67404521",
     "geom:latitude":39.637045,
     "geom:longitude":-0.413782,
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46178",
+        "eurostat:nuts_2021_id":"46178",
         "gn:id":6362043,
         "gp:id":12695713,
         "qs_pg:id":1072348
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7207f3a303670cf725644ccf2971a3f1",
+    "wof:geomhash":"b32b1d777d447fa774518468db5825d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404345199,
-    "wof:lastmodified":1582361835,
+    "wof:lastmodified":1684352483,
     "wof:name":"N\u00e1quera",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":6897,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

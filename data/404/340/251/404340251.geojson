@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_32080",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Teixeira, A",
+    "eurostat:nuts_2021_id":"32080",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES113",
+    "eurostat:nuts_2021_level_lau":"32080",
+    "eurostat:population":315,
+    "eurostat:population_year":2020,
     "geom:area":0.003021,
-    "geom:area_square_m":27598207.183556,
+    "geom:area_square_m":27598207.183558,
     "geom:bbox":"-7.510124,42.32825162,-7.43138884,42.40785543",
     "geom:latitude":42.370325,
     "geom:longitude":-7.476812,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_32080",
+        "eurostat:nuts_2021_id":"32080",
         "gn:id":6359896,
         "qs_pg:id":621793
     },
@@ -117,7 +133,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a324e540e660eb980c1a528916693c49",
+    "wof:geomhash":"9d8493899c0b79d941a542387b14995e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +144,12 @@
         }
     ],
     "wof:id":404340251,
-    "wof:lastmodified":1582361652,
+    "wof:lastmodified":1684352404,
     "wof:name":"A Teixeira",
     "wof:parent_id":85682801,
     "wof:placetype":"localadmin",
+    "wof:population":315,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

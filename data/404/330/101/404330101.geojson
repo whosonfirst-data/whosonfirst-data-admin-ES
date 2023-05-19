@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05153",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nava del Barco",
+    "eurostat:nuts_2021_id":"05153",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05153",
+    "eurostat:population":79,
+    "eurostat:population_year":2020,
     "geom:area":0.00311,
-    "geom:area_square_m":29340698.186666,
+    "geom:area_square_m":29340698.186665,
     "geom:bbox":"-5.59295259,40.22081526,-5.51738849,40.30812875",
     "geom:latitude":40.269508,
     "geom:longitude":-5.557119,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05153",
+        "eurostat:nuts_2021_id":"05153",
         "gn:id":6355753,
         "gp:id":12691261,
         "qs_pg:id":954443
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"eab4951e17ad99e8f8907441f4e4187c",
+    "wof:geomhash":"581f4e709150107f32a0f616d218700c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330101,
-    "wof:lastmodified":1582361534,
+    "wof:lastmodified":1684352219,
     "wof:name":"Nava Del Barco",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":79,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

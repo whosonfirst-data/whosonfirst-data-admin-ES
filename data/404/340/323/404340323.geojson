@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_33020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Corvera de Asturias",
+    "eurostat:nuts_2021_id":"33020",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES12",
+    "eurostat:nuts_2021_level_3":"ES120",
+    "eurostat:nuts_2021_level_lau":"33020",
+    "eurostat:population":15525,
+    "eurostat:population_year":2020,
     "geom:area":0.005122,
     "geom:area_square_m":45927041.969605,
     "geom:bbox":"-5.95383634,43.47827346,-5.81525691,43.55740208",
@@ -39,6 +51,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -47,6 +61,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_33020",
+        "eurostat:nuts_2021_id":"33020",
         "gn:id":3124431,
         "gp:id":12688463,
         "qs_pg:id":1085699
@@ -55,7 +71,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9582d6e52afb0c931e6db91ebb35e7bb",
+    "wof:geomhash":"5391a7113db0992f2a1d7b52799add98",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +82,12 @@
         }
     ],
     "wof:id":404340323,
-    "wof:lastmodified":1582361654,
+    "wof:lastmodified":1684352405,
     "wof:name":"Corvera De Asturias",
     "wof:parent_id":85682805,
     "wof:placetype":"localadmin",
+    "wof:population":15525,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

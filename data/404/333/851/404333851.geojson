@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_15019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carballo",
+    "eurostat:nuts_2021_id":"15019",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES111",
+    "eurostat:nuts_2021_level_lau":"15019",
+    "eurostat:population":31429,
+    "eurostat:population_year":2020,
     "geom:area":0.020776,
-    "geom:area_square_m":187229101.110207,
+    "geom:area_square_m":187229101.110208,
     "geom:bbox":"-8.77515609,43.10169625,-8.58291524,43.31547383",
     "geom:latitude":43.212589,
     "geom:longitude":-8.668696,
@@ -135,6 +147,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -143,6 +157,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_15019",
+        "eurostat:nuts_2021_id":"15019",
         "gn:id":6357289,
         "gp:id":12694720,
         "qs_pg:id":79557
@@ -151,7 +167,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"82dbbfdc61eefb2dd87368b945fa5b5c",
+    "wof:geomhash":"e59c8547080bcc2a3bd36217df4ae293",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -162,10 +178,12 @@
         }
     ],
     "wof:id":404333851,
-    "wof:lastmodified":1582361767,
+    "wof:lastmodified":1684352286,
     "wof:name":"Carballo",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",
+    "wof:population":31429,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

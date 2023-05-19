@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16271",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villarta",
+    "eurostat:nuts_2021_id":"16271",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16271",
+    "eurostat:population":843,
+    "eurostat:population_year":2020,
     "geom:area":0.00268,
-    "geom:area_square_m":25594295.313371,
+    "geom:area_square_m":25594295.313372,
     "geom:bbox":"-1.69458302,39.42489506,-1.5765516,39.46783328",
     "geom:latitude":39.442794,
     "geom:longitude":-1.649604,
@@ -96,6 +108,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -103,9 +117,12 @@
         404227375
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_16271",
+        "eurostat:nuts_2021_id":"16271"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"53d6c50129d2266773b9edd29760bbc5",
+    "wof:geomhash":"812bdf9559368f3428504ce0cda87f06",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +133,12 @@
         }
     ],
     "wof:id":404334515,
-    "wof:lastmodified":1566590748,
+    "wof:lastmodified":1684352298,
     "wof:name":"Villarta",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":843,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_16132",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mota de Altarejos",
+    "eurostat:nuts_2021_id":"16132",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES423",
+    "eurostat:nuts_2021_level_lau":"16132",
+    "eurostat:population":31,
+    "eurostat:population_year":2020,
     "geom:area":0.001784,
     "geom:area_square_m":16934592.931222,
     "geom:bbox":"-2.33726087,39.85432147,-2.26629542,39.89816309",
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_16132",
+        "eurostat:nuts_2021_id":"16132",
         "gn:id":6357477,
         "gp:id":12690517,
         "qs_pg:id":45825
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e7f21f5eb985d54060283c8c4652e9b6",
+    "wof:geomhash":"348803258161ac2204e1da696919f5a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404334283,
-    "wof:lastmodified":1582361741,
+    "wof:lastmodified":1684352295,
     "wof:name":"Mota De Altarejos",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
+    "wof:population":31,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

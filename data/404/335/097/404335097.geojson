@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_18023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Baza",
+    "eurostat:nuts_2021_id":"18023",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES614",
+    "eurostat:nuts_2021_level_lau":"18023",
+    "eurostat:population":20430,
+    "eurostat:population_year":2020,
     "geom:area":0.055509,
-    "geom:area_square_m":545164326.202527,
+    "geom:area_square_m":545164326.202526,
     "geom:bbox":"-2.94056378,37.21153115,-2.58517616,37.644568",
     "geom:latitude":37.414281,
     "geom:longitude":-2.773384,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_18023",
+        "eurostat:nuts_2021_id":"18023",
         "gn:id":6357658,
         "gp:id":12688867,
         "qs_pg:id":44988
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"27e2c32d66736bdc3da50f58fa1ee5cf",
+    "wof:geomhash":"893f879f5d5f97d19699fed89bd56cca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404335097,
-    "wof:lastmodified":1582361700,
+    "wof:lastmodified":1684352320,
     "wof:name":"Baza",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
+    "wof:population":20430,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

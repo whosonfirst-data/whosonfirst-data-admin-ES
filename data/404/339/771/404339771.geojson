@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31140",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lantz",
+    "eurostat:nuts_2021_id":"31140",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31140",
+    "eurostat:population":152,
+    "eurostat:population_year":2020,
     "geom:area":0.001864,
-    "geom:area_square_m":16850546.159952,
+    "geom:area_square_m":16850546.159953,
     "geom:bbox":"-1.63481418,42.97971094,-1.58357669,43.04305182",
     "geom:latitude":43.009287,
     "geom:longitude":-1.609616,
@@ -36,6 +48,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -44,6 +58,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31140",
+        "eurostat:nuts_2021_id":"31140",
         "gn:id":6359688,
         "gp:id":12688316,
         "qs_pg:id":248042
@@ -52,7 +68,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"85f1971033fe29175839df52ab357c1d",
+    "wof:geomhash":"e7bb006fe1f9073c5024ad8bb4724985",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +79,12 @@
         }
     ],
     "wof:id":404339771,
-    "wof:lastmodified":1582361588,
+    "wof:lastmodified":1684352398,
     "wof:name":"Lantz",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":152,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

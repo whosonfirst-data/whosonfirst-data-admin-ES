@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48911",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ajangiz",
+    "eurostat:nuts_2021_id":"48911",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48911",
+    "eurostat:population":464,
+    "eurostat:population_year":2020,
     "geom:area":0.000815,
     "geom:area_square_m":7331204.996029,
     "geom:bbox":"-2.68613122,43.27689857,-2.64525085,43.32269026",
@@ -111,6 +123,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -118,9 +132,12 @@
         404227393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_48911",
+        "eurostat:nuts_2021_id":"48911"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"dd81b41240585e3b08f534f620d025d9",
+    "wof:geomhash":"466153cbfdc100480ebc6b4ecb353352",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +148,12 @@
         }
     ],
     "wof:id":404346147,
-    "wof:lastmodified":1566590285,
+    "wof:lastmodified":1684352495,
     "wof:name":"Ajangiz",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":464,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8157,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08157",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pallej\u00e0",
+    "eurostat:nuts_2021_id":"08157",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08157",
+    "eurostat:population":11622,
+    "eurostat:population_year":2020,
     "geom:area":0.000908,
-    "geom:area_square_m":8422423.098342,
+    "geom:area_square_m":8422371.023985,
     "geom:bbox":"1.944968,41.406217,2.009711,41.439621",
     "geom:latitude":41.421644,
     "geom:longitude":1.985575,
@@ -151,6 +163,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -159,7 +173,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08157",
         "esp-icgc:la_lc":"08157",
+        "eurostat:nuts_2021_id":"08157",
         "gn:id":6356184,
         "gp:id":12693537,
         "qs_pg:id":1251308
@@ -169,7 +185,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"8ffbb69b82866832cd1d21b0d6418d54",
+    "wof:geomhash":"7e30c1d43d7b3f5072507f33f2384d8f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -180,10 +196,12 @@
         }
     ],
     "wof:id":404331231,
-    "wof:lastmodified":1669903010,
+    "wof:lastmodified":1684352245,
     "wof:name":"Pallej\u00e0",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":11622,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

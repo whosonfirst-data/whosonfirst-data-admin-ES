@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8276,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08276",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tagamanent",
+    "eurostat:nuts_2021_id":"08276",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08276",
+    "eurostat:population":318,
+    "eurostat:population_year":2020,
     "geom:area":0.004709,
-    "geom:area_square_m":43441234.647621,
+    "geom:area_square_m":43441234.64762,
     "geom:bbox":"2.24921055934,41.7197287971,2.35223606147,41.7985875895",
     "geom:latitude":41.756189,
     "geom:longitude":2.301175,
@@ -121,6 +133,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -129,7 +143,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08276",
         "esp-icgc:la_lc":"08276",
+        "eurostat:nuts_2021_id":"08276",
         "gn:id":6356295,
         "gp:id":12693649,
         "qs_pg:id":418285
@@ -139,7 +155,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"7b24b8ae29db8fe20c742a27f52f8f9e",
+    "wof:geomhash":"6a5258b13cfb2731297eeea496a93585",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404331495,
-    "wof:lastmodified":1582361510,
+    "wof:lastmodified":1684352253,
     "wof:name":"Tagamanent",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":318,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

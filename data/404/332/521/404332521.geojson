@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aceituna",
+    "eurostat:nuts_2021_id":"10005",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10005",
+    "eurostat:population":600,
+    "eurostat:population_year":2020,
     "geom:area":0.004235,
-    "geom:area_square_m":40034147.675375,
+    "geom:area_square_m":40034147.675378,
     "geom:bbox":"-6.35939002,40.09943073,-6.23914575,40.16423243",
     "geom:latitude":40.133434,
     "geom:longitude":-6.307547,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10005",
+        "eurostat:nuts_2021_id":"10005",
         "gn:id":6356702,
         "gp:id":12694487,
         "qs_pg:id":47946
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4b191ec9e78c4332bfb20c1130fe9959",
+    "wof:geomhash":"f8d9f06cb01c24d798230b8e52291570",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404332521,
-    "wof:lastmodified":1582361682,
+    "wof:lastmodified":1684352265,
     "wof:name":"Aceituna",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":600,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

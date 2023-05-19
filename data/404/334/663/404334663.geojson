@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17050,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cervi\u00e0 de Ter",
+    "eurostat:nuts_2021_id":"17050",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17050",
+    "eurostat:population":966,
+    "eurostat:population_year":2020,
     "geom:area":0.001098,
-    "geom:area_square_m":10079088.944748,
+    "geom:area_square_m":10079216.745477,
     "geom:bbox":"2.88059,42.04951,2.938538,42.087724",
     "geom:latitude":42.066702,
     "geom:longitude":2.908665,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17050",
         "esp-icgc:la_lc":"017050",
+        "eurostat:nuts_2021_id":"17050",
         "gn:id":6534044,
         "gp:id":12693732,
         "qs_pg:id":1188742
@@ -67,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d37cfc628389c06c2656e1c2a1b8e957",
+    "wof:geomhash":"1f13664ebd9914a9bd4f3b9c24287fc4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404334663,
-    "wof:lastmodified":1669903053,
+    "wof:lastmodified":1684352304,
     "wof:name":"Cervi\u00e0 de Ter",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":966,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

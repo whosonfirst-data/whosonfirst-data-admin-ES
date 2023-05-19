@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45112",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Navalmorales, Los",
+    "eurostat:nuts_2021_id":"45112",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45112",
+    "eurostat:population":2420,
+    "eurostat:population_year":2020,
     "geom:area":0.011023,
-    "geom:area_square_m":104855341.567177,
+    "geom:area_square_m":104855341.567173,
     "geom:bbox":"-4.71537481,39.64078469,-4.55052768,39.76610264",
     "geom:latitude":39.71281,
     "geom:longitude":-4.619167,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45112",
+        "eurostat:nuts_2021_id":"45112",
         "gn:id":6361772,
         "qs_pg:id":621920
     },
@@ -126,7 +142,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"af0820bd7feec8121640767e17829c39",
+    "wof:geomhash":"4ef081ea60387d95e95e455d89b6ea42",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404344589,
-    "wof:lastmodified":1582361851,
+    "wof:lastmodified":1684352476,
     "wof:name":"Los Navalmorales",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":2420,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

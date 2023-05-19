@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12095",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ribesalbes",
+    "eurostat:nuts_2021_id":"12095",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12095",
+    "eurostat:population":1163,
+    "eurostat:population_year":2020,
     "geom:area":0.000902,
-    "geom:area_square_m":8544572.232714,
+    "geom:area_square_m":8544572.232713,
     "geom:bbox":"-0.29878018,40.01108965,-0.24856006,40.04793473",
     "geom:latitude":40.026994,
     "geom:longitude":-0.277849,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12095",
+        "eurostat:nuts_2021_id":"12095",
         "gn:id":6357045,
         "gp:id":12695493,
         "qs_pg:id":1189139
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7a5a44162b5b8f3bd8752588f783796f",
+    "wof:geomhash":"d98554a908f2a9c8d7761b1d002797b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404333299,
-    "wof:lastmodified":1582361782,
+    "wof:lastmodified":1684352277,
     "wof:name":"Ribesalbes",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":1163,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

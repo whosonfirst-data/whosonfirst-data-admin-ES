@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09139",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fuentemolinos",
+    "eurostat:nuts_2021_id":"09139",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09139",
+    "eurostat:population":100,
+    "eurostat:population_year":2020,
     "geom:area":0.001384,
-    "geom:area_square_m":12792485.326675,
+    "geom:area_square_m":12792485.326676,
     "geom:bbox":"-3.88059594,41.57894342,-3.83052653,41.62498439",
     "geom:latitude":41.602022,
     "geom:longitude":-3.857494,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_09139",
+        "eurostat:nuts_2021_id":"09139",
         "gn:id":6356440,
         "gp:id":12691487,
         "qs_pg:id":46268
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d09d1e43222b1d7d118f5759d3f9b1b3",
+    "wof:geomhash":"5e5284962f3739cdce3412f87008220d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404331883,
-    "wof:lastmodified":1582361505,
+    "wof:lastmodified":1684352259,
     "wof:name":"Fuentemolinos",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":100,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

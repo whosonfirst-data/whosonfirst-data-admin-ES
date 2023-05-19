@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_47025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brahojos de Medina",
+    "eurostat:nuts_2021_id":"47025",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES418",
+    "eurostat:nuts_2021_level_lau":"47025",
+    "eurostat:population":116,
+    "eurostat:population_year":2020,
     "geom:area":0.002947,
-    "geom:area_square_m":27407438.89181,
+    "geom:area_square_m":27407438.891813,
     "geom:bbox":"-5.0843159,41.17952189,-5.00392102,41.25378213",
     "geom:latitude":41.222972,
     "geom:longitude":-5.04718,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_47025",
+        "eurostat:nuts_2021_id":"47025"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"a81355a4940cd44973d0610dc421e9d3",
+    "wof:geomhash":"1a8c0ff90d6420905617db6c9ec05f36",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404345453,
-    "wof:lastmodified":1566591012,
+    "wof:lastmodified":1684352486,
     "wof:name":"Brahojos De Medina",
     "wof:parent_id":85682873,
     "wof:placetype":"localadmin",
+    "wof:population":116,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":25223,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_25223",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tor\u00e0",
+    "eurostat:nuts_2021_id":"25223",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES513",
+    "eurostat:nuts_2021_level_lau":"25223",
+    "eurostat:population":1237,
+    "eurostat:population_year":2020,
     "geom:area":0.010124,
-    "geom:area_square_m":93260565.612738,
+    "geom:area_square_m":93260474.31073,
     "geom:bbox":"1.360358,41.776064,1.513622,41.905964",
     "geom:latitude":41.841959,
     "geom:longitude":1.442023,
@@ -102,6 +114,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,13 +124,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "esp-icgc:la_lc":"025223"
+        "eg:gisco_id":"ES_25223",
+        "esp-icgc:la_lc":"025223",
+        "eurostat:nuts_2021_id":"25223"
     },
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"620fcf5be74a0cc27c7945363e8f52f5",
+    "wof:geomhash":"290bf5804cd3551c2dbda3df89727f58",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -127,10 +143,12 @@
         }
     ],
     "wof:id":404338051,
-    "wof:lastmodified":1669902995,
+    "wof:lastmodified":1684352369,
     "wof:name":"Tor\u00e0",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",
+    "wof:population":1237,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

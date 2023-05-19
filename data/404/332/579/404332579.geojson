@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Botija",
+    "eurostat:nuts_2021_id":"10031",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10031",
+    "eurostat:population":171,
+    "eurostat:population_year":2020,
     "geom:area":0.001966,
-    "geom:area_square_m":18804221.541305,
+    "geom:area_square_m":18804221.541307,
     "geom:bbox":"-6.1215497,39.32103153,-6.04609756,39.36842202",
     "geom:latitude":39.3423,
     "geom:longitude":-6.08552,
@@ -33,6 +45,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -41,6 +55,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10031",
+        "eurostat:nuts_2021_id":"10031",
         "gn:id":6356728,
         "gp:id":12694513,
         "qs_pg:id":1196796
@@ -49,7 +65,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"50942c7220e2229f5e16d235da8b762c",
+    "wof:geomhash":"ff78fd8e80dd2c8c96abe6008162020a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +76,12 @@
         }
     ],
     "wof:id":404332579,
-    "wof:lastmodified":1582361692,
+    "wof:lastmodified":1684352266,
     "wof:name":"Botija",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":171,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_28126",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Robregordo",
+    "eurostat:nuts_2021_id":"28126",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES3",
+    "eurostat:nuts_2021_level_2":"ES30",
+    "eurostat:nuts_2021_level_3":"ES300",
+    "eurostat:nuts_2021_level_lau":"28126",
+    "eurostat:population":65,
+    "eurostat:population_year":2020,
     "geom:area":0.001969,
     "geom:area_square_m":18337287.368349,
     "geom:bbox":"-3.64502002,41.09528215,-3.5660068,41.15205068",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_28126",
+        "eurostat:nuts_2021_id":"28126",
         "gn:id":6359347,
         "gp:id":12688068,
         "qs_pg:id":1145996
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c7ca7c9a9ddd8bff6b0df6c6d21ca53f",
+    "wof:geomhash":"900bfa5bb06edfe74e34117796314a81",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404338961,
-    "wof:lastmodified":1582361444,
+    "wof:lastmodified":1684352385,
     "wof:name":"Robregordo",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",
+    "wof:population":65,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

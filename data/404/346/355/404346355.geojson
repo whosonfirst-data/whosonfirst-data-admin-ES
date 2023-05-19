@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49099",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Losacio",
+    "eurostat:nuts_2021_id":"49099",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49099",
+    "eurostat:population":95,
+    "eurostat:population_year":2020,
     "geom:area":0.002345,
-    "geom:area_square_m":21642941.694545,
+    "geom:area_square_m":21642941.694546,
     "geom:bbox":"-6.08499511,41.69468377,-6.00542745,41.73675699",
     "geom:latitude":41.717695,
     "geom:longitude":-6.041385,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_49099",
+        "eurostat:nuts_2021_id":"49099",
         "gn:id":6362537,
         "gp:id":12693216,
         "qs_pg:id":209726
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3111671b2f833b734373c9d26ceb279f",
+    "wof:geomhash":"2a28dc252e0e3aa5b34deeb9f5535bb8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404346355,
-    "wof:lastmodified":1582361608,
+    "wof:lastmodified":1684352498,
     "wof:name":"Losacio",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":95,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50184",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Murero",
+    "eurostat:nuts_2021_id":"50184",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50184",
+    "eurostat:population":96,
+    "eurostat:population_year":2020,
     "geom:area":0.001958,
     "geom:area_square_m":18223679.049362,
     "geom:bbox":"-1.52868883,41.12784753,-1.43647781,41.19027425",
@@ -96,6 +108,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -103,9 +117,12 @@
         404227363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_50184",
+        "eurostat:nuts_2021_id":"50184"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"c32286cb184f7396abc7615920d4f15e",
+    "wof:geomhash":"3732b52d84970f22caf75b22ce6b1f76",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +133,12 @@
         }
     ],
     "wof:id":404347111,
-    "wof:lastmodified":1566590456,
+    "wof:lastmodified":1684352507,
     "wof:name":"Murero",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":96,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

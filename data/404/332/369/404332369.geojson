@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09412",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valle de Tobalina",
+    "eurostat:nuts_2021_id":"09412",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09412",
+    "eurostat:population":909,
+    "eurostat:population_year":2020,
     "geom:area":0.01733,
-    "geom:area_square_m":157238620.43414,
+    "geom:area_square_m":157238620.434143,
     "geom:bbox":"-3.36807752,42.72754184,-3.12325454,42.88514866",
     "geom:latitude":42.795253,
     "geom:longitude":-3.241563,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_09412",
+        "eurostat:nuts_2021_id":"09412"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"61aac1ec46c89736ca77eb055eb575f9",
+    "wof:geomhash":"e75e88507f206181c0869e47137c86e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404332369,
-    "wof:lastmodified":1566590512,
+    "wof:lastmodified":1684352263,
     "wof:name":"Valle De Tobalina",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":909,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

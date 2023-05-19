@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aibar / Oibar",
+    "eurostat:nuts_2021_id":"31009",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31009",
+    "eurostat:population":794,
+    "eurostat:population_year":2020,
     "geom:area":0.005241,
-    "geom:area_square_m":47710888.480452,
+    "geom:area_square_m":47710888.480454,
     "geom:bbox":"-1.41887712,42.5370947,-1.30377079,42.64176269",
     "geom:latitude":42.592676,
     "geom:longitude":-1.354658,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31009",
+        "eurostat:nuts_2021_id":"31009",
         "gn:id":6359558,
         "qs_pg:id":621760
     },
@@ -45,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e0115f0cb66e72ef93ba2a3c1d1366ee",
+    "wof:geomhash":"2726b39b91ba176e2960e4a38b871c79",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +72,12 @@
         }
     ],
     "wof:id":404339453,
-    "wof:lastmodified":1582361587,
+    "wof:lastmodified":1684352394,
     "wof:name":"Aibar/Oibar",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":794,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

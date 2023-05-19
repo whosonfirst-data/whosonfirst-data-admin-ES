@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_45003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Albarreal de Tajo",
+    "eurostat:nuts_2021_id":"45003",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES425",
+    "eurostat:nuts_2021_level_lau":"45003",
+    "eurostat:population":679,
+    "eurostat:population_year":2020,
     "geom:area":0.004378,
-    "geom:area_square_m":41539889.760572,
+    "geom:area_square_m":41539889.760571,
     "geom:bbox":"-4.27702545,39.85341193,-4.16261343,39.91732335",
     "geom:latitude":39.889306,
     "geom:longitude":-4.222344,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_45003",
+        "eurostat:nuts_2021_id":"45003",
         "gn:id":6361664,
         "gp:id":12690925,
         "qs_pg:id":46013
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"04b24109fa097370875c41afbf04aa9a",
+    "wof:geomhash":"87aa6b657fe59d22f534c00b4d72ea7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404344347,
-    "wof:lastmodified":1582361851,
+    "wof:lastmodified":1684352472,
     "wof:name":"Albarreal De Tajo",
     "wof:parent_id":85682863,
     "wof:placetype":"localadmin",
+    "wof:population":679,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

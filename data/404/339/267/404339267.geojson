@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_29079",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Periana",
+    "eurostat:nuts_2021_id":"29079",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES617",
+    "eurostat:nuts_2021_level_lau":"29079",
+    "eurostat:population":3089,
+    "eurostat:population_year":2020,
     "geom:area":0.005943,
-    "geom:area_square_m":58740023.132117,
+    "geom:area_square_m":58740023.132116,
     "geom:bbox":"-4.25420912,36.88677635,-4.13894899,36.98044667",
     "geom:latitude":36.932331,
     "geom:longitude":-4.193569,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_29079",
+        "eurostat:nuts_2021_id":"29079",
         "gn:id":6359483,
         "gp:id":12689267,
         "qs_pg:id":1310999
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dfdb68b3639ac090883d41354b9200bb",
+    "wof:geomhash":"0c42d7324530cf1a12cc517226523b0b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404339267,
-    "wof:lastmodified":1582361586,
+    "wof:lastmodified":1684352391,
     "wof:name":"Periana",
     "wof:parent_id":85682787,
     "wof:placetype":"localadmin",
+    "wof:population":3089,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

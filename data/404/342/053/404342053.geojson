@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_39007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arredondo",
+    "eurostat:nuts_2021_id":"39007",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES13",
+    "eurostat:nuts_2021_level_3":"ES130",
+    "eurostat:nuts_2021_level_lau":"39007",
+    "eurostat:population":452,
+    "eurostat:population_year":2020,
     "geom:area":0.005198,
-    "geom:area_square_m":46799651.487068,
+    "geom:area_square_m":46799651.487069,
     "geom:bbox":"-3.68889918,43.23332784,-3.57870499,43.30377596",
     "geom:latitude":43.267711,
     "geom:longitude":-3.633365,
@@ -42,6 +54,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -50,6 +64,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_39007",
+        "eurostat:nuts_2021_id":"39007",
         "gn:id":6360654,
         "gp:id":12688528,
         "qs_pg:id":248625
@@ -58,7 +74,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1464a2473d1a807f328c69b05d40fb8d",
+    "wof:geomhash":"7b2df90942ec632b30e1f4595453a5fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +85,12 @@
         }
     ],
     "wof:id":404342053,
-    "wof:lastmodified":1582361810,
+    "wof:lastmodified":1684352435,
     "wof:name":"Arredondo",
     "wof:parent_id":85682833,
     "wof:placetype":"localadmin",
+    "wof:population":452,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

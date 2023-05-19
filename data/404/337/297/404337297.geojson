@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24079",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gradefes",
+    "eurostat:nuts_2021_id":"24079",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24079",
+    "eurostat:population":931,
+    "eurostat:population_year":2020,
     "geom:area":0.0226,
     "geom:area_square_m":205534819.711038,
     "geom:bbox":"-5.39062709,42.5517986,-5.16863617,42.75725475",
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_24079",
+        "eurostat:nuts_2021_id":"24079",
         "gn:id":6358623,
         "gp:id":12691819,
         "qs_pg:id":1188499
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fd0f3328dc24b0d74867465ebf3956e0",
+    "wof:geomhash":"fa79371d9f2d922e5ee49d9fc09ac397",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404337297,
-    "wof:lastmodified":1582361574,
+    "wof:lastmodified":1684352351,
     "wof:name":"Gradefes",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":931,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

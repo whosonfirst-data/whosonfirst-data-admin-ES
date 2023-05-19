@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fitero",
+    "eurostat:nuts_2021_id":"31105",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31105",
+    "eurostat:population":2080,
+    "eurostat:population_year":2020,
     "geom:area":0.004701,
-    "geom:area_square_m":43166326.732386,
+    "geom:area_square_m":43166326.732387,
     "geom:bbox":"-1.90923872,41.99473586,-1.82037288,42.0795524",
     "geom:latitude":42.044136,
     "geom:longitude":-1.863856,
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31105",
+        "eurostat:nuts_2021_id":"31105",
         "gn:id":6359653,
         "gp:id":12688280,
         "qs_pg:id":1146027
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6e0f5e31f166bded699256a3be410ed4",
+    "wof:geomhash":"eb6013794ad37d05a5c2ffeaf1b35a6e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404339683,
-    "wof:lastmodified":1582361593,
+    "wof:lastmodified":1684352397,
     "wof:name":"Fitero",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":2080,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

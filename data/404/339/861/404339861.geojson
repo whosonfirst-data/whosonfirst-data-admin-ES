@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_31179",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Murillo el Fruto",
+    "eurostat:nuts_2021_id":"31179",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES22",
+    "eurostat:nuts_2021_level_3":"ES220",
+    "eurostat:nuts_2021_level_lau":"31179",
+    "eurostat:population":662,
+    "eurostat:population_year":2020,
     "geom:area":0.003695,
-    "geom:area_square_m":33742200.599091,
+    "geom:area_square_m":33742200.599092,
     "geom:bbox":"-1.51711766,42.37003072,-1.41605056,42.42590062",
     "geom:latitude":42.399681,
     "geom:longitude":-1.470625,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_31179",
+        "eurostat:nuts_2021_id":"31179",
         "gn:id":6359727,
         "gp:id":12688357,
         "qs_pg:id":44650
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cf5887da7f40d4b1aa0530a92fb089cb",
+    "wof:geomhash":"ed67be57dbbfefc3e718febd8baf661b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404339861,
-    "wof:lastmodified":1582361585,
+    "wof:lastmodified":1684352399,
     "wof:name":"Murillo El Fruto",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
+    "wof:population":662,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

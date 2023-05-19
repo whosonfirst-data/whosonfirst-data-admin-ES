@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_48061",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Maruri-Jatabe",
+    "eurostat:nuts_2021_id":"48061",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES21",
+    "eurostat:nuts_2021_level_3":"ES213",
+    "eurostat:nuts_2021_level_lau":"48061",
+    "eurostat:population":978,
+    "eurostat:population_year":2020,
     "geom:area":0.001773,
     "geom:area_square_m":15928890.335699,
     "geom:bbox":"-2.90230438,43.37445863,-2.84043537,43.41841437",
@@ -102,6 +114,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -109,9 +123,12 @@
         404227393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_48061",
+        "eurostat:nuts_2021_id":"48061"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"5d113c4a1a4620b926d238046e115482",
+    "wof:geomhash":"e7ef709e25d920ceeed8dd2ae68ad392",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +139,12 @@
         }
     ],
     "wof:id":404346041,
-    "wof:lastmodified":1566590230,
+    "wof:lastmodified":1684352494,
     "wof:name":"Maruri-Jatabe",
     "wof:parent_id":85682879,
     "wof:placetype":"localadmin",
+    "wof:population":978,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

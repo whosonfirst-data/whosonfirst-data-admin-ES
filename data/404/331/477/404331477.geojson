@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":8268,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_08268",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cercs",
+    "eurostat:nuts_2021_id":"08268",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES511",
+    "eurostat:nuts_2021_level_lau":"08268",
+    "eurostat:population":1150,
+    "eurostat:population_year":2020,
     "geom:area":0.005123,
-    "geom:area_square_m":46974494.111154,
+    "geom:area_square_m":46974583.411083,
     "geom:bbox":"1.77734,42.08606,1.920088,42.195437",
     "geom:latitude":42.139426,
     "geom:longitude":1.850018,
@@ -130,6 +142,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -138,7 +152,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_08268",
         "esp-icgc:la_lc":"08268",
+        "eurostat:nuts_2021_id":"08268",
         "gp:id":12693445,
         "qs_pg:id":1059082
     },
@@ -147,7 +163,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"823452758aa636949af05688e4e6a1ba",
+    "wof:geomhash":"e9d1ece79262ae9550ff29af50cb5a48",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404331477,
-    "wof:lastmodified":1669902999,
+    "wof:lastmodified":1684352252,
     "wof:name":"Cercs",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
+    "wof:population":1150,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

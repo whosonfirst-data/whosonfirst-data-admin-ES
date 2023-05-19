@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12093",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pobla de Benifass\u00e0, la",
+    "eurostat:nuts_2021_id":"12093",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12093",
+    "eurostat:population":199,
+    "eurostat:population_year":2020,
     "geom:area":0.014488,
-    "geom:area_square_m":135841461.257508,
+    "geom:area_square_m":135841461.257507,
     "geom:bbox":"0.04217471,40.63445253,0.29232449,40.73316432",
     "geom:latitude":40.685837,
     "geom:longitude":0.165098,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12093",
+        "eurostat:nuts_2021_id":"12093",
         "gn:id":6357043,
         "gp:id":12695492,
         "qs_pg:id":65009
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fed41147535675aab7f30269cfb0c172",
+    "wof:geomhash":"6f932784710ddab44cbfaae786f978d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404333295,
-    "wof:lastmodified":1582361766,
+    "wof:lastmodified":1684352277,
     "wof:name":"La Pobla De Benifass\u00e0",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":199,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_36003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Baiona",
+    "eurostat:nuts_2021_id":"36003",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES1",
+    "eurostat:nuts_2021_level_2":"ES11",
+    "eurostat:nuts_2021_level_3":"ES114",
+    "eurostat:nuts_2021_level_lau":"36003",
+    "eurostat:population":12129,
+    "eurostat:population_year":2020,
     "geom:area":0.003751,
-    "geom:area_square_m":34416437.362209,
+    "geom:area_square_m":34416437.362211,
     "geom:bbox":"-8.90585106,42.04870822,-8.8040699,42.12828224",
     "geom:latitude":42.092083,
     "geom:longitude":-8.844289,
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_36003",
+        "eurostat:nuts_2021_id":"36003",
         "gn:id":6360207,
         "gp:id":12694957,
         "qs_pg:id":1314387
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"451138cc41ec66f9fbd5fc9a6eb4d72c",
+    "wof:geomhash":"70ecbc1da9edd02fab425ffd0380a43c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404340967,
-    "wof:lastmodified":1582361659,
+    "wof:lastmodified":1684352417,
     "wof:name":"Baiona",
     "wof:parent_id":85682825,
     "wof:placetype":"localadmin",
+    "wof:population":12129,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

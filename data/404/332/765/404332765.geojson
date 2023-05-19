@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_10115",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Malpartida de C\u00e1ceres",
+    "eurostat:nuts_2021_id":"10115",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES432",
+    "eurostat:nuts_2021_level_lau":"10115",
+    "eurostat:population":4076,
+    "eurostat:population_year":2020,
     "geom:area":0.003365,
-    "geom:area_square_m":32135956.921004,
+    "geom:area_square_m":32135956.921005,
     "geom:bbox":"-6.54681791,39.40790092,-6.45658707,39.47471664",
     "geom:latitude":39.441771,
     "geom:longitude":-6.499318,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_10115",
+        "eurostat:nuts_2021_id":"10115",
         "gn:id":6356810,
         "gp:id":12694596,
         "qs_pg:id":1102876
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"46dcca5db2f9f8fdc395941cc1e17914",
+    "wof:geomhash":"6ed407eac65ecdde7b6957d32abefbde",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404332765,
-    "wof:lastmodified":1582361677,
+    "wof:lastmodified":1684352269,
     "wof:name":"Malpartida De C\u00e1ceres",
     "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
+    "wof:population":4076,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

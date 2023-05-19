@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43117,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43117",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Prat de Comte",
+    "eurostat:nuts_2021_id":"43117",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43117",
+    "eurostat:population":177,
+    "eurostat:population_year":2020,
     "geom:area":0.002818,
-    "geom:area_square_m":26303980.305923,
+    "geom:area_square_m":26303958.989265,
     "geom:bbox":"0.370684,40.941941,0.45455,41.00963",
     "geom:latitude":40.975172,
     "geom:longitude":0.411195,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43117",
         "esp-icgc:la_lc":"043117",
+        "eurostat:nuts_2021_id":"43117",
         "gn:id":6361359,
         "gp:id":12694254,
         "qs_pg:id":1149594
@@ -67,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c4b699e3951e61a13d25d6ac3f1ce782",
+    "wof:geomhash":"13780004aa2e59f2f7657aff6929b430",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404343653,
-    "wof:lastmodified":1669903070,
+    "wof:lastmodified":1684352459,
     "wof:name":"Prat de Comte",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":177,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

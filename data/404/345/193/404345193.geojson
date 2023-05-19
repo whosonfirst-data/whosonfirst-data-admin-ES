@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46175",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montitxelvo / Montichelvo",
+    "eurostat:nuts_2021_id":"46175",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46175",
+    "eurostat:population":585,
+    "eurostat:population_year":2020,
     "geom:area":0.000848,
     "geom:area_square_m":8159342.714127,
     "geom:bbox":"-0.36322515,38.87458799,-0.31080877,38.90934236",
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227381
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_46175",
+        "eurostat:nuts_2021_id":"46175"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"7eb71a629d5c27ddc0e3b298bff8ef0f",
+    "wof:geomhash":"31d866e01cbab44a5a9e24ddbf997b80",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404345193,
-    "wof:lastmodified":1566590993,
+    "wof:lastmodified":1684352483,
     "wof:name":"Montitxelvo/Montichelvo",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":585,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

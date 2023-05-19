@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_46010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Albalat dels Tarongers",
+    "eurostat:nuts_2021_id":"46010",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES523",
+    "eurostat:nuts_2021_level_lau":"46010",
+    "eurostat:population":1208,
+    "eurostat:population_year":2020,
     "geom:area":0.002241,
-    "geom:area_square_m":21325895.529241,
+    "geom:area_square_m":21325895.52924,
     "geom:bbox":"-0.3929681,39.62425259,-0.31113219,39.71800557",
     "geom:latitude":39.676929,
     "geom:longitude":-0.357516,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_46010",
+        "eurostat:nuts_2021_id":"46010",
         "gn:id":6361875,
         "gp:id":12695552,
         "qs_pg:id":201912
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3d3ae4d65497bccd5cfb3b57e184ea56",
+    "wof:geomhash":"c107ea5d60764a5a8a1af0cda12dbda0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404344821,
-    "wof:lastmodified":1582361846,
+    "wof:lastmodified":1684352479,
     "wof:name":"Albalat Dels Tarongers",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
+    "wof:population":1208,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

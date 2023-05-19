@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_04044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fines",
+    "eurostat:nuts_2021_id":"04044",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES6",
+    "eurostat:nuts_2021_level_2":"ES61",
+    "eurostat:nuts_2021_level_3":"ES611",
+    "eurostat:nuts_2021_level_lau":"04044",
+    "eurostat:population":2104,
+    "eurostat:population_year":2020,
     "geom:area":0.002347,
     "geom:area_square_m":23068280.319739,
     "geom:bbox":"-2.2952368,37.32148079,-2.24131694,37.41223297",
@@ -39,6 +51,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -47,6 +61,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_04044",
+        "eurostat:nuts_2021_id":"04044",
         "gn:id":6355556,
         "gp:id":12688666,
         "qs_pg:id":270669
@@ -55,7 +71,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7fe5e7afb2f25f5b8c9897c15e13e534",
+    "wof:geomhash":"681303e8d174f1869aa2d780cfc2a5a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +82,12 @@
         }
     ],
     "wof:id":404329659,
-    "wof:lastmodified":1582361792,
+    "wof:lastmodified":1684352213,
     "wof:name":"Fines",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",
+    "wof:population":2104,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

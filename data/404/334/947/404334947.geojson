@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17187,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17187",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Saus, Camallera i Llampaies",
+    "eurostat:nuts_2021_id":"17187",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17187",
+    "eurostat:population":856,
+    "eurostat:population_year":2020,
     "geom:area":0.001252,
-    "geom:area_square_m":11482551.950076,
+    "geom:area_square_m":11482517.403577,
     "geom:bbox":"2.922677,42.112105,2.998755,42.14578",
     "geom:latitude":42.126007,
     "geom:longitude":2.961032,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -57,7 +71,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17187",
         "esp-icgc:la_lc":"017187",
+        "eurostat:nuts_2021_id":"17187",
         "gn:id":6534144,
         "qs_pg:id":628330
     },
@@ -66,7 +82,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"3c89e56d032d6e132f2c57149c333a0d",
+    "wof:geomhash":"5558bbf04486049afc71c2c37e4573c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,10 +93,12 @@
         }
     ],
     "wof:id":404334947,
-    "wof:lastmodified":1669903047,
+    "wof:lastmodified":1684352316,
     "wof:name":"Saus, Camallera i Llampaies",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":856,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

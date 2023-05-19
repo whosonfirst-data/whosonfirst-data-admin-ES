@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05222",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Cruz de Pinares",
+    "eurostat:nuts_2021_id":"05222",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05222",
+    "eurostat:population":148,
+    "eurostat:population_year":2020,
     "geom:area":0.004397,
-    "geom:area_square_m":41324591.160778,
+    "geom:area_square_m":41324591.160776,
     "geom:bbox":"-4.64608882,40.49806822,-4.55783656,40.56856806",
     "geom:latitude":40.531297,
     "geom:longitude":-4.600344,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05222",
+        "eurostat:nuts_2021_id":"05222",
         "gn:id":6355820,
         "gp:id":12691330,
         "qs_pg:id":46196
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"176f9f5a7608406b5eb00996b2f8e184",
+    "wof:geomhash":"9ee9e98c5a6c691aa23443c818488c36",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330253,
-    "wof:lastmodified":1582361538,
+    "wof:lastmodified":1684352221,
     "wof:name":"Santa Cruz De Pinares",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":148,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

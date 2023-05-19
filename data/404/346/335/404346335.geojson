@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_49090",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gema",
+    "eurostat:nuts_2021_id":"49090",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES419",
+    "eurostat:nuts_2021_level_lau":"49090",
+    "eurostat:population":215,
+    "eurostat:population_year":2020,
     "geom:area":0.001921,
-    "geom:area_square_m":17819881.941948,
+    "geom:area_square_m":17819881.94195,
     "geom:bbox":"-5.66444059,41.37338225,-5.59013539,41.43344728",
     "geom:latitude":41.404861,
     "geom:longitude":-5.628052,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_49090",
+        "eurostat:nuts_2021_id":"49090",
         "gn:id":6362528,
         "gp:id":12693207,
         "qs_pg:id":250900
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"228b36e550ac14397854247438b34bb8",
+    "wof:geomhash":"2fdba3185a32be2d4a0ba33605453241",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404346335,
-    "wof:lastmodified":1582361615,
+    "wof:lastmodified":1684352498,
     "wof:name":"Gema",
     "wof:parent_id":85682883,
     "wof:placetype":"localadmin",
+    "wof:population":215,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

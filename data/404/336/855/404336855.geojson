@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_22233",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torre la Ribera",
+    "eurostat:nuts_2021_id":"22233",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES241",
+    "eurostat:nuts_2021_level_lau":"22233",
+    "eurostat:population":96,
+    "eurostat:population_year":2020,
     "geom:area":0.003504,
-    "geom:area_square_m":32009870.02759,
+    "geom:area_square_m":32009870.027589,
     "geom:bbox":"0.51188196,42.3382961,0.58151944,42.42959497",
     "geom:latitude":42.379328,
     "geom:longitude":0.541269,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_22233",
+        "eurostat:nuts_2021_id":"22233",
         "gn:id":6358429,
         "gp:id":12689578,
         "qs_pg:id":1023703
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9157e912586af5617af9641cff4f8afe",
+    "wof:geomhash":"be7293edd227a65ca2abd118edb224a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404336855,
-    "wof:lastmodified":1582361475,
+    "wof:lastmodified":1684352344,
     "wof:name":"Torre La Ribera",
     "wof:parent_id":85682753,
     "wof:placetype":"localadmin",
+    "wof:population":96,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

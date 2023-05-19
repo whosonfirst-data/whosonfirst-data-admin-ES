@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_12061",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Forcall",
+    "eurostat:nuts_2021_id":"12061",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES52",
+    "eurostat:nuts_2021_level_3":"ES522",
+    "eurostat:nuts_2021_level_lau":"12061",
+    "eurostat:population":456,
+    "eurostat:population_year":2020,
     "geom:area":0.004175,
-    "geom:area_square_m":39161283.59038,
+    "geom:area_square_m":39161283.590379,
     "geom:bbox":"-0.26693309,40.61436373,-0.1513957,40.69793576",
     "geom:latitude":40.657165,
     "geom:longitude":-0.212336,
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_12061",
+        "eurostat:nuts_2021_id":"12061",
         "gn:id":6357014,
         "gp:id":12695462,
         "qs_pg:id":248517
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b3c3697ebae6867a71eed85c2b4c8d9a",
+    "wof:geomhash":"09d7b830b194e0160c554cc6c4371ec7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404333229,
-    "wof:lastmodified":1582361761,
+    "wof:lastmodified":1684352276,
     "wof:name":"Forcall",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",
+    "wof:population":456,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_06023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cabeza del Buey",
+    "eurostat:nuts_2021_id":"06023",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES43",
+    "eurostat:nuts_2021_level_3":"ES431",
+    "eurostat:nuts_2021_level_lau":"06023",
+    "eurostat:population":4808,
+    "eurostat:population_year":2020,
     "geom:area":0.049239,
-    "geom:area_square_m":474684992.612824,
+    "geom:area_square_m":474684992.612826,
     "geom:bbox":"-5.38846519,38.60902245,-5.16732164,38.93084221",
     "geom:latitude":38.772248,
     "geom:longitude":-5.276687,
@@ -30,6 +42,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -38,6 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_06023",
+        "eurostat:nuts_2021_id":"06023",
         "gn:id":6355888,
         "gp:id":12694342,
         "qs_pg:id":1196772
@@ -46,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e6139574bc916573d480a3f453fe7f9c",
+    "wof:geomhash":"e81745d92fa07c5faf845af06d37794c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +73,12 @@
         }
     ],
     "wof:id":404330407,
-    "wof:lastmodified":1582361527,
+    "wof:lastmodified":1684352223,
     "wof:name":"Cabeza Del Buey",
     "wof:parent_id":85682643,
     "wof:placetype":"localadmin",
+    "wof:population":4808,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

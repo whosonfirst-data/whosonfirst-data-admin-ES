@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17074,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17074",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Forti\u00e0",
+    "eurostat:nuts_2021_id":"17074",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17074",
+    "eurostat:population":787,
+    "eurostat:population_year":2020,
     "geom:area":0.00117,
-    "geom:area_square_m":10714220.524502,
+    "geom:area_square_m":10714262.182546,
     "geom:bbox":"3.008035,42.224302,3.064474,42.262109",
     "geom:latitude":42.242981,
     "geom:longitude":3.03557,
@@ -127,6 +139,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -135,7 +149,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17074",
         "esp-icgc:la_lc":"017074",
+        "eurostat:nuts_2021_id":"17074",
         "gn:id":6534063,
         "gp:id":12693755,
         "qs_pg:id":961861
@@ -145,7 +161,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"9a676750424dadabfec0d4b1def1c657",
+    "wof:geomhash":"a4293a702147077e4425f1e6c498808e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,10 +172,12 @@
         }
     ],
     "wof:id":404334709,
-    "wof:lastmodified":1669903041,
+    "wof:lastmodified":1684352306,
     "wof:name":"Forti\u00e0",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":787,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

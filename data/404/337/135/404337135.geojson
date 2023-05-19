@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_24001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Acebedo",
+    "eurostat:nuts_2021_id":"24001",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES413",
+    "eurostat:nuts_2021_level_lau":"24001",
+    "eurostat:population":184,
+    "eurostat:population_year":2020,
     "geom:area":0.005542,
-    "geom:area_square_m":50093390.618603,
+    "geom:area_square_m":50093390.618605,
     "geom:bbox":"-5.18285004,42.98847069,-5.06229783,43.09349831",
     "geom:latitude":43.033725,
     "geom:longitude":-5.121686,
@@ -111,6 +123,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_24001",
+        "eurostat:nuts_2021_id":"24001",
         "gn:id":6358552,
         "gp:id":12691747,
         "qs_pg:id":1109747
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9d3ad9418047b068df73ae4490a9f2c1",
+    "wof:geomhash":"29db5d2d39045f38b525c508c8165d3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404337135,
-    "wof:lastmodified":1582361547,
+    "wof:lastmodified":1684352349,
     "wof:name":"Acebedo",
     "wof:parent_id":85682765,
     "wof:placetype":"localadmin",
+    "wof:population":184,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

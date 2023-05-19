@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":17037,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_17037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campelles",
+    "eurostat:nuts_2021_id":"17037",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES512",
+    "eurostat:nuts_2021_level_lau":"17037",
+    "eurostat:population":140,
+    "eurostat:population_year":2020,
     "geom:area":0.002042,
-    "geom:area_square_m":18681879.693124,
+    "geom:area_square_m":18681864.121442,
     "geom:bbox":"2.09724,42.257151,2.164967,42.312907",
     "geom:latitude":42.28516,
     "geom:longitude":2.134759,
@@ -118,6 +130,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -126,7 +140,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_17037",
         "esp-icgc:la_lc":"017037",
+        "eurostat:nuts_2021_id":"17037",
         "gn:id":6357599,
         "gp:id":12693720,
         "qs_pg:id":47421
@@ -136,7 +152,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3741f59adb1437835c2b82299de2ce7b",
+    "wof:geomhash":"2e932d14c3e37cbd00f492dcc94f22e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404334635,
-    "wof:lastmodified":1669903044,
+    "wof:lastmodified":1684352303,
     "wof:name":"Campelles",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",
+    "wof:population":140,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

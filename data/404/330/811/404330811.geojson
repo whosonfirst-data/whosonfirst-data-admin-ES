@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_07037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mercadal, Es",
+    "eurostat:nuts_2021_id":"07037",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES53",
+    "eurostat:nuts_2021_level_3":"ES533",
+    "eurostat:nuts_2021_level_lau":"07037",
+    "eurostat:population":5316,
+    "eurostat:population_year":2020,
     "geom:area":0.014579,
-    "geom:area_square_m":138069917.277393,
+    "geom:area_square_m":138069917.277389,
     "geom:bbox":"4.00757168,39.95534512,4.2132531,40.09457443",
     "geom:latitude":40.012497,
     "geom:longitude":4.112095,
@@ -114,6 +126,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_07037",
+        "eurostat:nuts_2021_id":"07037",
         "gn:id":6533958,
         "gp:id":12687743,
         "qs_pg:id":191135
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ea38029ccd31b5a9339833651f773b1e",
+    "wof:geomhash":"748a34ee269af528a11a5ecdb969f742",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404330811,
-    "wof:lastmodified":1582361522,
+    "wof:lastmodified":1684352231,
     "wof:name":"Es Mercadal",
     "wof:parent_id":85682647,
     "wof:placetype":"localadmin",
+    "wof:population":5316,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

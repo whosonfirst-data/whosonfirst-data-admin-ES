@@ -13,8 +13,20 @@
     "esp-icgc:la_lc":43086,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_43086",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montblanc",
+    "eurostat:nuts_2021_id":"43086",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES5",
+    "eurostat:nuts_2021_level_2":"ES51",
+    "eurostat:nuts_2021_level_3":"ES514",
+    "eurostat:nuts_2021_level_lau":"43086",
+    "eurostat:population":7379,
+    "eurostat:population_year":2020,
     "geom:area":0.009793,
-    "geom:area_square_m":90890749.689311,
+    "geom:area_square_m":90890749.68931,
     "geom:bbox":"1.06411002985,41.3052804755,1.24013464451,41.4268904764",
     "geom:latitude":41.361341,
     "geom:longitude":1.154675,
@@ -118,6 +130,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -126,7 +140,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_43086",
         "esp-icgc:la_lc":"043086",
+        "eurostat:nuts_2021_id":"43086",
         "gn:id":6361329,
         "gp:id":12694226,
         "qs_pg:id":891504
@@ -136,7 +152,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8c6e3290225c79c8ab24d8f2de0e51b2",
+    "wof:geomhash":"fc9848afa272af20d76b479b84f05d9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404343587,
-    "wof:lastmodified":1582361877,
+    "wof:lastmodified":1684352457,
     "wof:name":"Montblanc",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
+    "wof:population":7379,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

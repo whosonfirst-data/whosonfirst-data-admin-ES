@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_09295",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Quintanilla del Coco",
+    "eurostat:nuts_2021_id":"09295",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES412",
+    "eurostat:nuts_2021_level_lau":"09295",
+    "eurostat:population":54,
+    "eurostat:population_year":2020,
     "geom:area":0.002189,
-    "geom:area_square_m":20119061.013304,
+    "geom:area_square_m":20119061.013303,
     "geom:bbox":"-3.57805205,41.9602363,-3.47979914,42.02325568",
     "geom:latitude":41.985445,
     "geom:longitude":-3.52575,
@@ -27,6 +39,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -34,9 +48,12 @@
         404227373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_09295",
+        "eurostat:nuts_2021_id":"09295"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"75e3e86e4406f22610f30e77f7d37a8d",
+    "wof:geomhash":"1aa7ab3d4f19b78533eeb30ac4187c93",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":404332163,
-    "wof:lastmodified":1566590512,
+    "wof:lastmodified":1684352261,
     "wof:name":"Quintanilla Del Coco",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
+    "wof:population":54,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

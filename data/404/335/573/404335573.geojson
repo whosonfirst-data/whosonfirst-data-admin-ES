@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19079",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castilnuevo",
+    "eurostat:nuts_2021_id":"19079",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19079",
+    "eurostat:population":7,
+    "eurostat:population_year":2020,
     "geom:area":0.002085,
-    "geom:area_square_m":19515847.082157,
+    "geom:area_square_m":19515847.082158,
     "geom:bbox":"-1.90518729,40.76781342,-1.82686153,40.8283506",
     "geom:latitude":40.801239,
     "geom:longitude":-1.871024,
@@ -96,6 +108,8 @@
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -103,9 +117,12 @@
         404227375
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"ES_19079",
+        "eurostat:nuts_2021_id":"19079"
+    },
     "wof:country":"ES",
-    "wof:geomhash":"01d232f350b3564803fc330561251866",
+    "wof:geomhash":"1f6b7a4c5e57262614579ae60f6a73c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +133,12 @@
         }
     ],
     "wof:id":404335573,
-    "wof:lastmodified":1566590581,
+    "wof:lastmodified":1684352327,
     "wof:name":"Castilnuevo",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":7,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

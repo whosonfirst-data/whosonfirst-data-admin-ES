@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_19123",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fuentelviejo",
+    "eurostat:nuts_2021_id":"19123",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES424",
+    "eurostat:nuts_2021_level_lau":"19123",
+    "eurostat:population":47,
+    "eurostat:population_year":2020,
     "geom:area":0.001368,
     "geom:area_square_m":12862190.844237,
     "geom:bbox":"-3.01831945,40.50326162,-2.95115187,40.53761305",
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_19123",
+        "eurostat:nuts_2021_id":"19123",
         "gn:id":6357906,
         "gp:id":12690736,
         "qs_pg:id":1095326
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"54d43376c318439b8b84f6d389dad767",
+    "wof:geomhash":"1b48d5e418e4b0e7fd6fa79b0bd854ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404335659,
-    "wof:lastmodified":1582361700,
+    "wof:lastmodified":1684352328,
     "wof:name":"Fuentelviejo",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",
+    "wof:population":47,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_50209",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pinseque",
+    "eurostat:nuts_2021_id":"50209",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES2",
+    "eurostat:nuts_2021_level_2":"ES24",
+    "eurostat:nuts_2021_level_3":"ES243",
+    "eurostat:nuts_2021_level_lau":"50209",
+    "eurostat:population":4070,
+    "eurostat:population_year":2020,
     "geom:area":0.001741,
     "geom:area_square_m":16064149.214986,
     "geom:bbox":"-1.11913573,41.71059389,-1.04849764,41.74962107",
@@ -105,6 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_50209",
+        "eurostat:nuts_2021_id":"50209",
         "gn:id":6362896,
         "gp:id":12690036,
         "qs_pg:id":1162689
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"303947b3d3ede64b3cc439cbb9aa5e46",
+    "wof:geomhash":"4ebf00e224d6d22a75e1a3d71243ded3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404347169,
-    "wof:lastmodified":1582361670,
+    "wof:lastmodified":1684352508,
     "wof:name":"Pinseque",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",
+    "wof:population":4070,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

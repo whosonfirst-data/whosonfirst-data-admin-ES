@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_02081",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villarrobledo",
+    "eurostat:nuts_2021_id":"02081",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES42",
+    "eurostat:nuts_2021_level_3":"ES421",
+    "eurostat:nuts_2021_level_lau":"02081",
+    "eurostat:population":25116,
+    "eurostat:population_year":2020,
     "geom:area":0.089919,
-    "geom:area_square_m":861708806.183128,
+    "geom:area_square_m":861708806.183121,
     "geom:bbox":"-2.84265735,39.0416607,-2.33989577,39.34215279",
     "geom:latitude":39.193557,
     "geom:longitude":-2.609965,
@@ -225,6 +237,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -233,6 +247,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_02081",
+        "eurostat:nuts_2021_id":"02081",
         "gn:id":6355371,
         "gp:id":12690292,
         "qs_pg:id":78417
@@ -241,7 +257,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cf3676e7f0392e487f47f1e42d99ae98",
+    "wof:geomhash":"bed67a9fb66df6950ade67e305fe02a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -252,10 +268,12 @@
         }
     ],
     "wof:id":404329235,
-    "wof:lastmodified":1582361791,
+    "wof:lastmodified":1684352206,
     "wof:name":"Villarrobledo",
     "wof:parent_id":85682621,
     "wof:placetype":"localadmin",
+    "wof:population":25116,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],

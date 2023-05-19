@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"ES",
+    "eurostat:gisco_id":"ES_05184",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Peguerinos",
+    "eurostat:nuts_2021_id":"05184",
+    "eurostat:nuts_2021_level_0":"ES",
+    "eurostat:nuts_2021_level_1":"ES4",
+    "eurostat:nuts_2021_level_2":"ES41",
+    "eurostat:nuts_2021_level_3":"ES411",
+    "eurostat:nuts_2021_level_lau":"05184",
+    "eurostat:population":275,
+    "eurostat:population_year":2020,
     "geom:area":0.009153,
-    "geom:area_square_m":85873778.496496,
+    "geom:area_square_m":85873778.496493,
     "geom:bbox":"-4.33496036,40.60244697,-4.16023429,40.69805044",
     "geom:latitude":40.648662,
     "geom:longitude":-4.226752,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633129,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"ES_05184",
+        "eurostat:nuts_2021_id":"05184",
         "gn:id":6355784,
         "gp:id":12691293,
         "qs_pg:id":992596
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"447f51c343abb6c8e8584e60e4833e20",
+    "wof:geomhash":"708c2ff07f18786211b31d83902dabbb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404330171,
-    "wof:lastmodified":1582361545,
+    "wof:lastmodified":1684352220,
     "wof:name":"Peguerinos",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",
+    "wof:population":275,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
