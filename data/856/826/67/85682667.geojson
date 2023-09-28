@@ -45,7 +45,7 @@
     "mps:latitude":42.362973,
     "mps:longitude":-3.592599,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.7,
     "name:ara_x_preferred":[
@@ -352,13 +352,19 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":24000,
+        "esp-ine:code":"09",
         "eurostat:nuts_2021_id":"ES412",
         "fips:code":"SP85",
         "gn:id":3127460,
         "gp:id":12602116,
         "hasc:id":"ES.CL",
+        "iso:code":"ES-BU",
         "unlc:id":"ES-BU"
     },
+    "wof:concordances_official":"esp-ine:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes"
@@ -383,7 +389,7 @@
         "eus",
         "ast"
     ],
-    "wof:lastmodified":1684351540,
+    "wof:lastmodified":1695884301,
     "wof:name":"Burgos",
     "wof:parent_id":404227373,
     "wof:placetype":"region",
