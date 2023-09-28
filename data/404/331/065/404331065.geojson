@@ -31,6 +31,18 @@
     "geom:latitude":41.940623,
     "geom:longitude":2.31487,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":41.941991,
     "lbl:longitude":2.314306,
     "lbl:max_zoom":18.0,
@@ -38,7 +50,7 @@
     "mps:latitude":41.941991,
     "mps:longitude":2.314306,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u0644\u063a\u0627\u0631\u0648\u0644\u0627\u0633"
@@ -148,11 +160,13 @@
     "wof:concordances":{
         "eg:gisco_id":"ES_08083",
         "esp-icgc:la_lc":"08083",
+        "esp-ine:code":"08083",
         "eurostat:nuts_2021_id":"08083",
         "gn:id":6356114,
         "gp:id":12693463,
         "qs_pg:id":1251311
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes",
@@ -169,7 +183,7 @@
         }
     ],
     "wof:id":404331065,
-    "wof:lastmodified":1684352240,
+    "wof:lastmodified":1695877110,
     "wof:name":"Folgueroles",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",

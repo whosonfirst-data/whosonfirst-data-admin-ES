@@ -31,6 +31,18 @@
     "geom:latitude":41.663461,
     "geom:longitude":2.256211,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":41.657901,
     "lbl:longitude":2.260132,
     "lbl:max_zoom":18.0,
@@ -38,7 +50,7 @@
     "mps:latitude":41.657901,
     "mps:longitude":2.260132,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "L'Ametlla del Vall\u00e8s"
@@ -73,11 +85,13 @@
     "wof:concordances":{
         "eg:gisco_id":"ES_08005",
         "esp-icgc:la_lc":"08005",
+        "esp-ine:code":"08005",
         "eurostat:nuts_2021_id":"08005",
         "gn:id":6356043,
         "gp:id":12693381,
         "qs_pg:id":1078649
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -94,7 +108,7 @@
         }
     ],
     "wof:id":404330889,
-    "wof:lastmodified":1684352234,
+    "wof:lastmodified":1695877100,
     "wof:name":"L'Ametlla del Vall\u00e8s",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",

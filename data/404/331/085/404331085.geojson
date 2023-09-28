@@ -31,6 +31,18 @@
     "geom:latitude":42.026617,
     "geom:longitude":1.884576,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":42.027303,
     "lbl:longitude":1.883058,
     "lbl:max_zoom":18.0,
@@ -38,7 +50,7 @@
     "mps:latitude":42.027303,
     "mps:longitude":1.883058,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0627\u064a\u0631\u0648\u0646\u064a\u0644\u0627"
@@ -154,11 +166,13 @@
     "wof:concordances":{
         "eg:gisco_id":"ES_08092",
         "esp-icgc:la_lc":"08092",
+        "esp-ine:code":"08092",
         "eurostat:nuts_2021_id":"08092",
         "gn:id":6356122,
         "gp:id":12693472,
         "qs_pg:id":891405
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -175,7 +189,7 @@
         }
     ],
     "wof:id":404331085,
-    "wof:lastmodified":1684352241,
+    "wof:lastmodified":1695877112,
     "wof:name":"Gironella",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",

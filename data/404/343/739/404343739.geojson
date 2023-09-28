@@ -31,6 +31,18 @@
     "geom:latitude":40.819701,
     "geom:longitude":0.532647,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":40.831535,
     "lbl:longitude":0.564148,
     "lbl:max_zoom":18.0,
@@ -38,7 +50,7 @@
     "mps:latitude":40.831535,
     "mps:longitude":0.564148,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0637\u0631\u0637\u0648\u0634\u0629"
@@ -208,11 +220,13 @@
     "wof:concordances":{
         "eg:gisco_id":"ES_43155",
         "esp-icgc:la_lc":"043155",
+        "esp-ine:code":"43155",
         "eurostat:nuts_2021_id":"43155",
         "gn:id":6361397,
         "gp:id":12694295,
         "qs_pg:id":1252342
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -229,7 +243,7 @@
         }
     ],
     "wof:id":404343739,
-    "wof:lastmodified":1684352463,
+    "wof:lastmodified":1695877597,
     "wof:name":"Tortosa",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",

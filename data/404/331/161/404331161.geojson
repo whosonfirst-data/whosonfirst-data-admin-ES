@@ -31,6 +31,18 @@
     "geom:latitude":41.470889,
     "geom:longitude":2.280037,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":41.470135,
     "lbl:longitude":2.280034,
     "lbl:max_zoom":18.0,
@@ -38,7 +50,7 @@
     "mps:latitude":41.470135,
     "mps:longitude":2.280034,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0646\u063a\u0627\u062a"
@@ -157,11 +169,13 @@
     "wof:concordances":{
         "eg:gisco_id":"ES_08126",
         "esp-icgc:la_lc":"08126",
+        "esp-ine:code":"08126",
         "eurostat:nuts_2021_id":"08126",
         "gn:id":6356155,
         "gp:id":12693512,
         "qs_pg:id":248342
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -178,7 +192,7 @@
         }
     ],
     "wof:id":404331161,
-    "wof:lastmodified":1684352243,
+    "wof:lastmodified":1695877116,
     "wof:name":"Montgat",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",

@@ -31,6 +31,18 @@
     "geom:latitude":41.392556,
     "geom:longitude":2.079191,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":41.388807,
     "lbl:longitude":2.074541,
     "lbl:max_zoom":18.0,
@@ -38,7 +50,7 @@
     "mps:latitude":41.388807,
     "mps:longitude":2.074541,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u062e\u0648\u0633\u062a\u0648 \u062f\u064a\u0632\u0641\u064a\u0631\u0627"
@@ -166,11 +178,13 @@
     "wof:concordances":{
         "eg:gisco_id":"ES_08221",
         "esp-icgc:la_lc":"08221",
+        "esp-ine:code":"08221",
         "eurostat:nuts_2021_id":"08221",
         "gn:id":6356243,
         "gp:id":12693597,
         "qs_pg:id":891494
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes",
@@ -187,7 +201,7 @@
         }
     ],
     "wof:id":404331371,
-    "wof:lastmodified":1684352249,
+    "wof:lastmodified":1695877128,
     "wof:name":"Sant Just Desvern",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",

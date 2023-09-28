@@ -22,12 +22,24 @@
     "geom:latitude":36.514253,
     "geom:longitude":-4.876094,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":36.528229,
     "lbl:longitude":-4.899752,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0631\u0628\u0644\u0629"
@@ -233,11 +245,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"ES_29069",
+        "esp-ine:code":"29069",
         "eurostat:nuts_2021_id":"29069",
         "gn:id":6359474,
         "gp:id":12689258,
         "qs_pg:id":242119
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -253,7 +267,7 @@
         }
     ],
     "wof:id":404339245,
-    "wof:lastmodified":1684352391,
+    "wof:lastmodified":1695877437,
     "wof:name":"Marbella",
     "wof:parent_id":85682787,
     "wof:placetype":"localadmin",

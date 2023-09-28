@@ -31,6 +31,18 @@
     "geom:latitude":42.081501,
     "geom:longitude":2.131425,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":42.082156,
     "lbl:longitude":2.130886,
     "lbl:max_zoom":18.0,
@@ -38,7 +50,7 @@
     "mps:latitude":42.082156,
     "mps:longitude":2.130886,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Sant Agust\u00ed de Llu\u00e7an\u00e8s"
@@ -73,11 +85,13 @@
     "wof:concordances":{
         "eg:gisco_id":"ES_08195",
         "esp-icgc:la_lc":"08195",
+        "esp-ine:code":"08195",
         "eurostat:nuts_2021_id":"08195",
         "gn:id":6356218,
         "gp:id":12693571,
         "qs_pg:id":288022
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -94,7 +108,7 @@
         }
     ],
     "wof:id":404331313,
-    "wof:lastmodified":1684352248,
+    "wof:lastmodified":1695877125,
     "wof:name":"Sant Agust\u00ed de Llu\u00e7an\u00e8s",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",

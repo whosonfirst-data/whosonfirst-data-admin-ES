@@ -31,6 +31,18 @@
     "geom:latitude":41.543029,
     "geom:longitude":1.14541,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":41.539144,
     "lbl:longitude":1.145831,
     "lbl:max_zoom":18.0,
@@ -38,7 +50,7 @@
     "mps:latitude":41.539144,
     "mps:longitude":1.145831,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Ciutadilla"
@@ -133,11 +145,13 @@
     "wof:concordances":{
         "eg:gisco_id":"ES_25074",
         "esp-icgc:la_lc":"025074",
+        "esp-ine:code":"25074",
         "eurostat:nuts_2021_id":"25074",
         "gn:id":6358828,
         "gp:id":12693973,
         "qs_pg:id":1003882
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes",
@@ -154,7 +168,7 @@
         }
     ],
     "wof:id":404337773,
-    "wof:lastmodified":1684352359,
+    "wof:lastmodified":1695877370,
     "wof:name":"Ciutadilla",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",

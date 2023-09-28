@@ -31,6 +31,18 @@
     "geom:latitude":40.812398,
     "geom:longitude":0.690399,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":40.808319,
     "lbl:longitude":0.678669,
     "lbl:max_zoom":18.0,
@@ -38,7 +50,7 @@
     "mps:latitude":40.808319,
     "mps:longitude":0.678669,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "L'Ampolla"
@@ -157,11 +169,13 @@
     "wof:concordances":{
         "eg:gisco_id":"ES_43906",
         "esp-icgc:la_lc":"043906",
+        "esp-ine:code":"43906",
         "eurostat:nuts_2021_id":"43906",
         "gn:id":6361426,
         "gp:id":12694151,
         "qs_pg:id":1198093
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes",
@@ -178,7 +192,7 @@
         }
     ],
     "wof:id":404343805,
-    "wof:lastmodified":1684352466,
+    "wof:lastmodified":1695877603,
     "wof:name":"L'Ampolla",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",

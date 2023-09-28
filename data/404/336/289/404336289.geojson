@@ -22,12 +22,24 @@
     "geom:latitude":37.800291,
     "geom:longitude":-6.782985,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":37.783851,
     "lbl:longitude":-6.792093,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0644\u0645\u0648\u0646\u0627\u0633\u062a\u064a\u0631 \u0644\u0627 \u0631\u064a\u0627\u0644"
@@ -77,11 +89,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"ES_21004",
+        "esp-ine:code":"21004",
         "eurostat:nuts_2021_id":"21004",
         "gn:id":6358180,
         "gp:id":12689018,
         "qs_pg:id":959374
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -97,7 +111,7 @@
         }
     ],
     "wof:id":404336289,
-    "wof:lastmodified":1684352336,
+    "wof:lastmodified":1695877315,
     "wof:name":"Almonaster La Real",
     "wof:parent_id":85682749,
     "wof:placetype":"localadmin",

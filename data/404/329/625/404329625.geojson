@@ -22,12 +22,24 @@
     "geom:latitude":37.235218,
     "geom:longitude":-2.226039,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":37.236494,
     "lbl:longitude":-2.230985,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0646\u0627\u064a\u062a\u0627\u063a\u0644\u0627"
@@ -149,8 +161,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"ES_04026",
+        "esp-ine:code":"04026",
         "eurostat:nuts_2021_id":"04026"
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geomhash":"453dd5b92a54816343b6322e86eac5a1",
     "wof:hierarchy":[
@@ -163,7 +177,7 @@
         }
     ],
     "wof:id":404329625,
-    "wof:lastmodified":1684352212,
+    "wof:lastmodified":1695877055,
     "wof:name":"Benitagla",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",

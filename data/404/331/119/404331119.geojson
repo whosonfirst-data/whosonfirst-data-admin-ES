@@ -31,6 +31,18 @@
     "geom:latitude":41.611535,
     "geom:longitude":2.224523,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":41.619649,
     "lbl:longitude":2.218271,
     "lbl:max_zoom":18.0,
@@ -38,7 +50,7 @@
     "mps:latitude":41.619649,
     "mps:longitude":2.218271,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Lli\u00e7\u00e0 d'Amunt"
@@ -73,11 +85,13 @@
     "wof:concordances":{
         "eg:gisco_id":"ES_08107",
         "esp-icgc:la_lc":"08107",
+        "esp-ine:code":"08107",
         "eurostat:nuts_2021_id":"08107",
         "gn:id":6356137,
         "gp:id":12693486,
         "qs_pg:id":1123029
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -94,7 +108,7 @@
         }
     ],
     "wof:id":404331119,
-    "wof:lastmodified":1684352242,
+    "wof:lastmodified":1695877114,
     "wof:name":"Lli\u00e7\u00e0 d'Amunt",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",

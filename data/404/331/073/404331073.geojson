@@ -31,6 +31,18 @@
     "geom:latitude":41.694271,
     "geom:longitude":2.114307,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":41.694812,
     "lbl:longitude":2.114831,
     "lbl:max_zoom":18.0,
@@ -38,7 +50,7 @@
     "mps:latitude":41.694812,
     "mps:longitude":2.114831,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0627\u0644\u064a\u0641\u0627"
@@ -151,11 +163,13 @@
     "wof:concordances":{
         "eg:gisco_id":"ES_08087",
         "esp-icgc:la_lc":"08087",
+        "esp-ine:code":"08087",
         "eurostat:nuts_2021_id":"08087",
         "gn:id":6356117,
         "gp:id":12693468,
         "qs_pg:id":201796
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes",
@@ -172,7 +186,7 @@
         }
     ],
     "wof:id":404331073,
-    "wof:lastmodified":1684352240,
+    "wof:lastmodified":1695877111,
     "wof:name":"Gallifa",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",

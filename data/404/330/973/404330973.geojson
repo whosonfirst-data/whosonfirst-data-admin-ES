@@ -31,6 +31,18 @@
     "geom:latitude":41.702513,
     "geom:longitude":2.337709,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":41.705741,
     "lbl:longitude":2.345992,
     "lbl:max_zoom":18.0,
@@ -38,7 +50,7 @@
     "mps:latitude":41.705741,
     "mps:longitude":2.345992,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "C\u00e0noves i Samal\u00fas"
@@ -73,11 +85,13 @@
     "wof:concordances":{
         "eg:gisco_id":"ES_08042",
         "esp-icgc:la_lc":"08042",
+        "esp-ine:code":"08042",
         "eurostat:nuts_2021_id":"08042",
         "gn:id":6356075,
         "gp:id":12693419,
         "qs_pg:id":47212
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -94,7 +108,7 @@
         }
     ],
     "wof:id":404330973,
-    "wof:lastmodified":1684352237,
+    "wof:lastmodified":1695877104,
     "wof:name":"C\u00e0noves i Samal\u00fas",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",

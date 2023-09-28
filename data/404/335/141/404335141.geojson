@@ -22,12 +22,24 @@
     "geom:latitude":37.827071,
     "geom:longitude":-2.774238,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":37.817656,
     "lbl:longitude":-2.772753,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0633\u062a\u0631\u064a\u0644"
@@ -146,11 +158,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"ES_18046",
+        "esp-ine:code":"18046",
         "eurostat:nuts_2021_id":"18046",
         "gn:id":6357678,
         "gp:id":12688888,
         "qs_pg:id":1146289
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -166,7 +180,7 @@
         }
     ],
     "wof:id":404335141,
-    "wof:lastmodified":1684352321,
+    "wof:lastmodified":1695877278,
     "wof:name":"Castril",
     "wof:parent_id":85682731,
     "wof:placetype":"localadmin",

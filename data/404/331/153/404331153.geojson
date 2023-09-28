@@ -31,6 +31,18 @@
     "geom:latitude":41.481042,
     "geom:longitude":1.632192,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":41.483122,
     "lbl:longitude":1.627702,
     "lbl:max_zoom":18.0,
@@ -38,7 +50,7 @@
     "mps:latitude":41.483122,
     "mps:longitude":1.627702,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u062f\u0627\u064a\u0648\u0646\u0627"
@@ -151,11 +163,13 @@
     "wof:concordances":{
         "eg:gisco_id":"ES_08122",
         "esp-icgc:la_lc":"08122",
+        "esp-ine:code":"08122",
         "eurostat:nuts_2021_id":"08122",
         "gn:id":6356151,
         "gp:id":12693503,
         "qs_pg:id":1188728
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -172,7 +186,7 @@
         }
     ],
     "wof:id":404331153,
-    "wof:lastmodified":1684352242,
+    "wof:lastmodified":1695877115,
     "wof:name":"Mediona",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",

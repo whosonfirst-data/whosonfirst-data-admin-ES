@@ -31,6 +31,18 @@
     "geom:latitude":41.731318,
     "geom:longitude":0.457718,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":41.733445,
     "lbl:longitude":0.45889,
     "lbl:max_zoom":18.0,
@@ -38,7 +50,7 @@
     "mps:latitude":41.733445,
     "mps:longitude":0.45889,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Almacellas"
@@ -148,11 +160,13 @@
     "wof:concordances":{
         "eg:gisco_id":"ES_25019",
         "esp-icgc:la_lc":"025019",
+        "esp-ine:code":"25019",
         "eurostat:nuts_2021_id":"25019",
         "gn:id":6358778,
         "gp:id":12693925,
         "qs_pg:id":905059
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes",
@@ -169,7 +183,7 @@
         }
     ],
     "wof:id":404337657,
-    "wof:lastmodified":1684352355,
+    "wof:lastmodified":1695877363,
     "wof:name":"Almacelles",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",

@@ -22,12 +22,24 @@
     "geom:latitude":39.987088,
     "geom:longitude":-0.572128,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":39.981175,
     "lbl:longitude":-0.563726,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0648\u062f\u0627\u064a\u0644"
@@ -116,11 +128,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"ES_12043",
+        "esp-ine:code":"12043",
         "eurostat:nuts_2021_id":"12043",
         "gn:id":6356998,
         "gp:id":12695446,
         "qs_pg:id":245247
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -136,7 +150,7 @@
         }
     ],
     "wof:id":404333193,
-    "wof:lastmodified":1684352275,
+    "wof:lastmodified":1695877185,
     "wof:name":"Caudiel",
     "wof:parent_id":85682685,
     "wof:placetype":"localadmin",

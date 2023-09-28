@@ -31,6 +31,18 @@
     "geom:latitude":41.501631,
     "geom:longitude":2.014736,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":41.501254,
     "lbl:longitude":2.014157,
     "lbl:max_zoom":18.0,
@@ -38,7 +50,7 @@
     "mps:latitude":41.501254,
     "mps:longitude":2.014157,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u0648\u0628\u064a"
@@ -124,11 +136,13 @@
     "wof:concordances":{
         "eg:gisco_id":"ES_08184",
         "esp-icgc:la_lc":"08184",
+        "esp-ine:code":"08184",
         "eurostat:nuts_2021_id":"08184",
         "gn:id":6356209,
         "gp:id":12693563,
         "qs_pg:id":248344
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes",
@@ -145,7 +159,7 @@
         }
     ],
     "wof:id":404331289,
-    "wof:lastmodified":1684352247,
+    "wof:lastmodified":1695877124,
     "wof:name":"Rub\u00ed",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",

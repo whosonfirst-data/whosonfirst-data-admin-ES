@@ -22,12 +22,24 @@
     "geom:latitude":38.789745,
     "geom:longitude":-2.185037,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":38.793684,
     "lbl:longitude":-2.191304,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "San Pedro"
@@ -173,11 +185,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"ES_02071",
+        "esp-ine:code":"02071",
         "eurostat:nuts_2021_id":"02071",
         "gn:id":6362990,
         "gp:id":12690282,
         "qs_pg:id":45694
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -193,7 +207,7 @@
         }
     ],
     "wof:id":404329213,
-    "wof:lastmodified":1684352206,
+    "wof:lastmodified":1695877041,
     "wof:name":"San Pedro",
     "wof:parent_id":85682621,
     "wof:placetype":"localadmin",

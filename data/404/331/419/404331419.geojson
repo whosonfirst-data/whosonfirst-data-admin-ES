@@ -31,6 +31,18 @@
     "geom:latitude":41.628879,
     "geom:longitude":1.802662,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":41.614254,
     "lbl:longitude":1.813414,
     "lbl:max_zoom":18.0,
@@ -38,7 +50,7 @@
     "mps:latitude":41.614254,
     "mps:longitude":1.813414,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0631\u063a\u0627\u0646\u064a\u0644"
@@ -160,10 +172,12 @@
     "wof:concordances":{
         "eg:gisco_id":"ES_08242",
         "esp-icgc:la_lc":"08242",
+        "esp-ine:code":"08242",
         "eurostat:nuts_2021_id":"08242",
         "gp:id":12693494,
         "qs_pg:id":64371
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes",
@@ -180,7 +194,7 @@
         }
     ],
     "wof:id":404331419,
-    "wof:lastmodified":1684352251,
+    "wof:lastmodified":1695877130,
     "wof:name":"Marganell",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",

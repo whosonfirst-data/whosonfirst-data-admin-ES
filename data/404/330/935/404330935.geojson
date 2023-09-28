@@ -31,6 +31,18 @@
     "geom:latitude":41.609862,
     "geom:longitude":1.763512,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":41.615385,
     "lbl:longitude":1.759061,
     "lbl:max_zoom":18.0,
@@ -38,7 +50,7 @@
     "mps:latitude":41.615385,
     "mps:longitude":1.759061,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u0648\u062a\u0634"
@@ -163,11 +175,13 @@
     "wof:concordances":{
         "eg:gisco_id":"ES_08025",
         "esp-icgc:la_lc":"08025",
+        "esp-ine:code":"08025",
         "eurostat:nuts_2021_id":"08025",
         "gn:id":6356061,
         "gp:id":12693402,
         "qs_pg:id":907207
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -184,7 +198,7 @@
         }
     ],
     "wof:id":404330935,
-    "wof:lastmodified":1684352236,
+    "wof:lastmodified":1695877103,
     "wof:name":"El Bruc",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",

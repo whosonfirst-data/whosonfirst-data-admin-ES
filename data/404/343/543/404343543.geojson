@@ -31,6 +31,18 @@
     "geom:latitude":41.029134,
     "geom:longitude":0.63722,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":41.030676,
     "lbl:longitude":0.637695,
     "lbl:max_zoom":18.0,
@@ -38,7 +50,7 @@
     "mps:latitude":41.030676,
     "mps:longitude":0.637695,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Ginestar"
@@ -127,11 +139,13 @@
     "wof:concordances":{
         "eg:gisco_id":"ES_43067",
         "esp-icgc:la_lc":"043067",
+        "esp-ine:code":"43067",
         "eurostat:nuts_2021_id":"43067",
         "gn:id":6361310,
         "gp:id":12694205,
         "qs_pg:id":1149591
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -148,7 +162,7 @@
         }
     ],
     "wof:id":404343543,
-    "wof:lastmodified":1684352456,
+    "wof:lastmodified":1695877583,
     "wof:name":"Ginestar",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
