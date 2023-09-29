@@ -22,12 +22,24 @@
     "geom:latitude":43.437767,
     "geom:longitude":-8.257035,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":43.432819,
     "lbl:longitude":-8.252883,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Ares"
@@ -314,11 +326,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"ES_15004",
+        "esp-ine:code":"15004",
         "eurostat:nuts_2021_id":"15004",
         "gn:id":6357274,
         "gp:id":12694705,
         "qs_pg:id":1198227
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -334,7 +348,7 @@
         }
     ],
     "wof:id":404333817,
-    "wof:lastmodified":1684352285,
+    "wof:lastmodified":1695877207,
     "wof:name":"Ares",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",

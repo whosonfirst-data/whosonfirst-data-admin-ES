@@ -31,6 +31,18 @@
     "geom:latitude":42.105882,
     "geom:longitude":3.024019,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":42.10624,
     "lbl:longitude":3.026077,
     "lbl:max_zoom":18.0,
@@ -38,7 +50,7 @@
     "mps:latitude":42.10624,
     "mps:longitude":3.026077,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u063a\u0627\u0631\u064a\u063a\u0648\u0644\u0627\u0633"
@@ -148,11 +160,13 @@
     "wof:concordances":{
         "eg:gisco_id":"ES_17076",
         "esp-icgc:la_lc":"017076",
+        "esp-ine:code":"17076",
         "eurostat:nuts_2021_id":"17076",
         "gn:id":6534065,
         "gp:id":12693757,
         "qs_pg:id":1016870
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -169,7 +183,7 @@
         }
     ],
     "wof:id":404334715,
-    "wof:lastmodified":1684352306,
+    "wof:lastmodified":1695877250,
     "wof:name":"Garrigoles",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",

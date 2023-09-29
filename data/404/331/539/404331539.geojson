@@ -31,6 +31,18 @@
     "geom:latitude":41.526788,
     "geom:longitude":2.298918,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":41.527236,
     "lbl:longitude":2.298929,
     "lbl:max_zoom":18.0,
@@ -38,7 +50,7 @@
     "mps:latitude":41.527236,
     "mps:longitude":2.298929,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u0644\u0631\u0648\u0645\u0627\u0646\u064a\u0633"
@@ -148,11 +160,13 @@
     "wof:concordances":{
         "eg:gisco_id":"ES_08296",
         "esp-icgc:la_lc":"08296",
+        "esp-ine:code":"08296",
         "eurostat:nuts_2021_id":"08296",
         "gn:id":6356313,
         "gp:id":12693670,
         "qs_pg:id":905600
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes",
@@ -169,7 +183,7 @@
         }
     ],
     "wof:id":404331539,
-    "wof:lastmodified":1684352255,
+    "wof:lastmodified":1695877138,
     "wof:name":"Vallromanes",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",

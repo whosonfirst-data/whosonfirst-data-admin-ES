@@ -31,6 +31,18 @@
     "geom:latitude":41.679873,
     "geom:longitude":1.281953,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":41.675396,
     "lbl:longitude":1.278299,
     "lbl:max_zoom":18.0,
@@ -38,7 +50,7 @@
     "mps:latitude":41.675396,
     "mps:longitude":1.278299,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Cervera"
@@ -154,11 +166,13 @@
     "wof:concordances":{
         "eg:gisco_id":"ES_25072",
         "esp-icgc:la_lc":"025072",
+        "esp-ine:code":"25072",
         "eurostat:nuts_2021_id":"25072",
         "gn:id":6358826,
         "gp:id":12693971,
         "qs_pg:id":51788
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -175,7 +189,7 @@
         }
     ],
     "wof:id":404337767,
-    "wof:lastmodified":1684352359,
+    "wof:lastmodified":1695877370,
     "wof:name":"Cervera",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",

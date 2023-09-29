@@ -31,6 +31,18 @@
     "geom:latitude":41.531592,
     "geom:longitude":1.023764,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":41.530935,
     "lbl:longitude":1.027479,
     "lbl:max_zoom":18.0,
@@ -38,7 +50,7 @@
     "mps:latitude":41.530935,
     "mps:longitude":1.027479,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Mald\u00e0"
@@ -130,11 +142,13 @@
     "wof:concordances":{
         "eg:gisco_id":"ES_25130",
         "esp-icgc:la_lc":"025130",
+        "esp-ine:code":"25130",
         "eurostat:nuts_2021_id":"25130",
         "gn:id":6358872,
         "gp:id":12694024,
         "qs_pg:id":1149576
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -151,7 +165,7 @@
         }
     ],
     "wof:id":404337873,
-    "wof:lastmodified":1684352363,
+    "wof:lastmodified":1695877377,
     "wof:name":"Mald\u00e0",
     "wof:parent_id":85682769,
     "wof:placetype":"localadmin",

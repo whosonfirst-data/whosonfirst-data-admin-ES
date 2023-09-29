@@ -31,6 +31,18 @@
     "geom:latitude":41.499784,
     "geom:longitude":2.154151,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":41.500538,
     "lbl:longitude":2.154441,
     "lbl:max_zoom":18.0,
@@ -38,7 +50,7 @@
     "mps:latitude":41.500538,
     "mps:longitude":2.154441,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u064a\u0628\u0648\u0644\u064a\u062a"
@@ -163,11 +175,13 @@
     "wof:concordances":{
         "eg:gisco_id":"ES_08180",
         "esp-icgc:la_lc":"08180",
+        "esp-ine:code":"08180",
         "eurostat:nuts_2021_id":"08180",
         "gn:id":6356205,
         "gp:id":12693560,
         "qs_pg:id":1293597
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes",
@@ -184,7 +198,7 @@
         }
     ],
     "wof:id":404331281,
-    "wof:lastmodified":1684352247,
+    "wof:lastmodified":1695877123,
     "wof:name":"Ripollet",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",

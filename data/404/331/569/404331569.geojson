@@ -31,6 +31,18 @@
     "geom:latitude":42.029157,
     "geom:longitude":2.46322,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":42.027706,
     "lbl:longitude":2.473396,
     "lbl:max_zoom":18.0,
@@ -38,7 +50,7 @@
     "mps:latitude":42.027706,
     "mps:longitude":2.473396,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Rupit i Pruit"
@@ -73,10 +85,12 @@
     "wof:concordances":{
         "eg:gisco_id":"ES_08901",
         "esp-icgc:la_lc":"08901",
+        "esp-ine:code":"08901",
         "eurostat:nuts_2021_id":"08901",
         "gp:id":12693565,
         "qs_pg:id":1308273
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -93,7 +107,7 @@
         }
     ],
     "wof:id":404331569,
-    "wof:lastmodified":1684352256,
+    "wof:lastmodified":1695877141,
     "wof:name":"Rupit i Pruit",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",

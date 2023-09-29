@@ -22,12 +22,24 @@
     "geom:latitude":40.596441,
     "geom:longitude":-2.264642,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":40.600631,
     "lbl:longitude":-2.26044,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u0644 \u0628\u0648\u0632\u0648\u064a\u0644\u0648"
@@ -116,11 +128,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"ES_16169",
+        "esp-ine:code":"16169",
         "eurostat:nuts_2021_id":"16169",
         "gn:id":3123330,
         "gp:id":12690550,
         "qs_pg:id":45845
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -136,7 +150,7 @@
         }
     ],
     "wof:id":404334355,
-    "wof:lastmodified":1684352296,
+    "wof:lastmodified":1695877229,
     "wof:name":"El Pozuelo",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",

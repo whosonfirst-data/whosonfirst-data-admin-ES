@@ -22,12 +22,24 @@
     "geom:latitude":39.945356,
     "geom:longitude":-1.716616,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":39.945335,
     "lbl:longitude":-1.717373,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u062e\u0627\u0631\u0648\u0646\u0633\u0627\u064a\u0644\u0648"
@@ -128,11 +140,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"ES_16147",
+        "esp-ine:code":"16147",
         "eurostat:nuts_2021_id":"16147",
         "gn:id":6357489,
         "gp:id":12690529,
         "qs_pg:id":1163669
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -148,7 +162,7 @@
         }
     ],
     "wof:id":404334309,
-    "wof:lastmodified":1684352296,
+    "wof:lastmodified":1695877228,
     "wof:name":"Pajaroncillo",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",

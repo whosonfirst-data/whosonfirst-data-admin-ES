@@ -22,12 +22,24 @@
     "geom:latitude":40.509893,
     "geom:longitude":-1.809953,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":40.48262,
     "lbl:longitude":-1.81519,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Checa"
@@ -113,11 +125,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"ES_19103",
+        "esp-ine:code":"19103",
         "eurostat:nuts_2021_id":"19103",
         "gn:id":6357886,
         "gp:id":12690703,
         "qs_pg:id":1102582
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -133,7 +147,7 @@
         }
     ],
     "wof:id":404335613,
-    "wof:lastmodified":1684352328,
+    "wof:lastmodified":1695877295,
     "wof:name":"Checa",
     "wof:parent_id":85682737,
     "wof:placetype":"localadmin",

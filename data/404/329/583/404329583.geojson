@@ -22,12 +22,24 @@
     "geom:latitude":37.450015,
     "geom:longitude":-2.136019,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":37.432835,
     "lbl:longitude":-2.137228,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u0648\u0643\u0633"
@@ -152,11 +164,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"ES_04006",
+        "esp-ine:code":"04006",
         "eurostat:nuts_2021_id":"04006",
         "gn:id":6355523,
         "gp:id":12688629,
         "qs_pg:id":1055419
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -172,7 +186,7 @@
         }
     ],
     "wof:id":404329583,
-    "wof:lastmodified":1684352212,
+    "wof:lastmodified":1695877053,
     "wof:name":"Albox",
     "wof:parent_id":85682631,
     "wof:placetype":"localadmin",

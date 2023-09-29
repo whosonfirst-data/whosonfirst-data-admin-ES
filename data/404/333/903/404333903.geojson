@@ -22,12 +22,24 @@
     "geom:latitude":42.765271,
     "geom:longitude":-8.835979,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":42.758414,
     "lbl:longitude":-8.830478,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0648\u0632\u0627\u0645\u064a"
@@ -143,11 +155,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"ES_15042",
+        "esp-ine:code":"15042",
         "eurostat:nuts_2021_id":"15042",
         "gn:id":6357311,
         "gp:id":12694744,
         "qs_pg:id":79556
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -163,7 +177,7 @@
         }
     ],
     "wof:id":404333903,
-    "wof:lastmodified":1684352288,
+    "wof:lastmodified":1695877212,
     "wof:name":"Lousame",
     "wof:parent_id":85682701,
     "wof:placetype":"localadmin",

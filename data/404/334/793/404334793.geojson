@@ -31,6 +31,18 @@
     "geom:latitude":42.176885,
     "geom:longitude":2.493976,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":42.177515,
     "lbl:longitude":2.494757,
     "lbl:max_zoom":18.0,
@@ -38,7 +50,7 @@
     "mps:latitude":42.177515,
     "mps:longitude":2.494757,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0644\u0648\u062a"
@@ -172,11 +184,13 @@
     "wof:concordances":{
         "eg:gisco_id":"ES_17114",
         "esp-icgc:la_lc":"017114",
+        "esp-ine:code":"17114",
         "eurostat:nuts_2021_id":"17114",
         "gn:id":6357616,
         "gp:id":12693792,
         "qs_pg:id":1084476
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes",
@@ -193,7 +207,7 @@
         }
     ],
     "wof:id":404334793,
-    "wof:lastmodified":1684352309,
+    "wof:lastmodified":1695877255,
     "wof:name":"Olot",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",

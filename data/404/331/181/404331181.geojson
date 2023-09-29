@@ -31,6 +31,18 @@
     "geom:latitude":41.556737,
     "geom:longitude":2.251181,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":41.556038,
     "lbl:longitude":2.25309,
     "lbl:max_zoom":18.0,
@@ -38,7 +50,7 @@
     "mps:latitude":41.556038,
     "mps:longitude":2.25309,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0646\u062a\u0645\u064a\u0644\u0648"
@@ -169,11 +181,13 @@
     "wof:concordances":{
         "eg:gisco_id":"ES_08135",
         "esp-icgc:la_lc":"08135",
+        "esp-ine:code":"08135",
         "eurostat:nuts_2021_id":"08135",
         "gn:id":6356164,
         "gp:id":12693515,
         "qs_pg:id":248471
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -190,7 +204,7 @@
         }
     ],
     "wof:id":404331181,
-    "wof:lastmodified":1684352244,
+    "wof:lastmodified":1695877117,
     "wof:name":"Montmel\u00f3",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",

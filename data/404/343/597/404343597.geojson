@@ -31,6 +31,18 @@
     "geom:latitude":41.056605,
     "geom:longitude":0.955701,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":41.059021,
     "lbl:longitude":0.956627,
     "lbl:max_zoom":18.0,
@@ -38,7 +50,7 @@
     "mps:latitude":41.059021,
     "mps:longitude":0.956627,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041c\u043e\u043d\u0442-\u0440\u043e\u0447-\u0434\u044d\u043b\u044c-\u041a\u0430\u043c\u043f"
@@ -92,11 +104,13 @@
     "wof:concordances":{
         "eg:gisco_id":"ES_43092",
         "esp-icgc:la_lc":"043092",
+        "esp-ine:code":"43092",
         "eurostat:nuts_2021_id":"43092",
         "gn:id":6361334,
         "gp:id":12694225,
         "qs_pg:id":1198105
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -113,7 +127,7 @@
         }
     ],
     "wof:id":404343597,
-    "wof:lastmodified":1684352457,
+    "wof:lastmodified":1695877587,
     "wof:name":"Mont-roig del Camp",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",

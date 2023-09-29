@@ -31,6 +31,18 @@
     "geom:latitude":40.603493,
     "geom:longitude":0.624891,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":40.576599,
     "lbl:longitude":0.670886,
     "lbl:max_zoom":18.0,
@@ -38,7 +50,7 @@
     "mps:latitude":40.576599,
     "mps:longitude":0.670886,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0633\u0627\u0646\u062a \u06a9\u0627\u0631\u0644\u0633 \u062f \u0644\u0627 \u0631\u0627\u067e\u06cc\u062a\u0627"
@@ -92,11 +104,13 @@
     "wof:concordances":{
         "eg:gisco_id":"ES_43136",
         "esp-icgc:la_lc":"043136",
+        "esp-ine:code":"43136",
         "eurostat:nuts_2021_id":"43136",
         "gn:id":6361378,
         "gp:id":12694274,
         "qs_pg:id":1059732
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes",
@@ -113,7 +127,7 @@
         }
     ],
     "wof:id":404343697,
-    "wof:lastmodified":1684352460,
+    "wof:lastmodified":1695877593,
     "wof:name":"Sant Carles de la R\u00e0pita",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",

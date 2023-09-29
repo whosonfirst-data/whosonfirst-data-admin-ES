@@ -22,12 +22,24 @@
     "geom:latitude":37.921603,
     "geom:longitude":-1.107225,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":37.932539,
     "lbl:longitude":-1.083535,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0631\u0633\u064a\u0629"
@@ -305,11 +317,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"ES_30030",
+        "esp-ine:code":"30030",
         "eurostat:nuts_2021_id":"30030",
         "gn:id":6362997,
         "gp:id":12688155,
         "qs_pg:id":44556
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -325,7 +339,7 @@
         }
     ],
     "wof:id":404339385,
-    "wof:lastmodified":1684352394,
+    "wof:lastmodified":1695877443,
     "wof:name":"Murcia",
     "wof:parent_id":85682791,
     "wof:placetype":"localadmin",

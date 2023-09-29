@@ -22,12 +22,24 @@
     "geom:latitude":40.902025,
     "geom:longitude":-4.80779,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":40.902646,
     "lbl:longitude":-4.807196,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0628\u064a\u062b\u0648\u064a\u0644\u0627"
@@ -128,11 +140,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"ES_05045",
+        "esp-ine:code":"05045",
         "eurostat:nuts_2021_id":"05045",
         "gn:id":6355654,
         "gp:id":12691162,
         "qs_pg:id":497025
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -148,7 +162,7 @@
         }
     ],
     "wof:id":404329879,
-    "wof:lastmodified":1684352216,
+    "wof:lastmodified":1695877064,
     "wof:name":"Cabizuela",
     "wof:parent_id":85682639,
     "wof:placetype":"localadmin",

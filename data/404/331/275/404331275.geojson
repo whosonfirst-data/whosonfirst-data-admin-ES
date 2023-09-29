@@ -31,6 +31,18 @@
     "geom:latitude":42.096865,
     "geom:longitude":1.965459,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":42.101582,
     "lbl:longitude":1.96644,
     "lbl:max_zoom":18.0,
@@ -38,7 +50,7 @@
     "mps:latitude":42.101582,
     "mps:longitude":1.96644,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0627 \u0643\u0648\u0631\u0627\u062a"
@@ -154,11 +166,13 @@
     "wof:concordances":{
         "eg:gisco_id":"ES_08177",
         "esp-icgc:la_lc":"08177",
+        "esp-ine:code":"08177",
         "eurostat:nuts_2021_id":"08177",
         "gn:id":6356202,
         "gp:id":12693557,
         "qs_pg:id":201795
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -175,7 +189,7 @@
         }
     ],
     "wof:id":404331275,
-    "wof:lastmodified":1684352247,
+    "wof:lastmodified":1695877123,
     "wof:name":"La Quar",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",

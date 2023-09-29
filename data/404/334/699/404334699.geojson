@@ -31,6 +31,18 @@
     "geom:latitude":42.050743,
     "geom:longitude":3.000901,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":42.042427,
     "lbl:longitude":3.003324,
     "lbl:max_zoom":18.0,
@@ -38,7 +50,7 @@
     "mps:latitude":42.042427,
     "mps:longitude":3.003324,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u064a\u0643\u0633\u0627"
@@ -151,11 +163,13 @@
     "wof:concordances":{
         "eg:gisco_id":"ES_17068",
         "esp-icgc:la_lc":"017068",
+        "esp-ine:code":"17068",
         "eurostat:nuts_2021_id":"17068",
         "gn:id":6534058,
         "gp:id":12693749,
         "qs_pg:id":267079
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -172,7 +186,7 @@
         }
     ],
     "wof:id":404334699,
-    "wof:lastmodified":1684352306,
+    "wof:lastmodified":1695877249,
     "wof:name":"Foix\u00e0",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",

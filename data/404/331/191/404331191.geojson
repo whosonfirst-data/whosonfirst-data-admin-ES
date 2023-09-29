@@ -31,6 +31,18 @@
     "geom:latitude":41.683652,
     "geom:longitude":1.975076,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":41.682035,
     "lbl:longitude":1.975915,
     "lbl:max_zoom":18.0,
@@ -38,7 +50,7 @@
     "mps:latitude":41.682035,
     "mps:longitude":1.975915,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041c\u0443\u0440\u0430"
@@ -142,11 +154,13 @@
     "wof:concordances":{
         "eg:gisco_id":"ES_08139",
         "esp-icgc:la_lc":"08139",
+        "esp-ine:code":"08139",
         "eurostat:nuts_2021_id":"08139",
         "gn:id":6356168,
         "gp:id":12693519,
         "qs_pg:id":1209011
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes",
@@ -163,7 +177,7 @@
         }
     ],
     "wof:id":404331191,
-    "wof:lastmodified":1684352244,
+    "wof:lastmodified":1695877118,
     "wof:name":"Mura",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",

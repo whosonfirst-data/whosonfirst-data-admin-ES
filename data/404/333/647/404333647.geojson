@@ -22,12 +22,24 @@
     "geom:latitude":37.435804,
     "geom:longitude":-4.06749,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":37.438095,
     "lbl:longitude":-4.068361,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u064a\u062f\u064a\u0646\u064a\u0644\u0644\u0627"
@@ -143,11 +155,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"ES_14004",
+        "esp-ine:code":"14004",
         "eurostat:nuts_2021_id":"14004",
         "gn:id":6357199,
         "gp:id":12688775,
         "qs_pg:id":51526
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -163,7 +177,7 @@
         }
     ],
     "wof:id":404333647,
-    "wof:lastmodified":1684352282,
+    "wof:lastmodified":1695877200,
     "wof:name":"Almedinilla",
     "wof:parent_id":85682697,
     "wof:placetype":"localadmin",

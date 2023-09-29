@@ -31,6 +31,18 @@
     "geom:latitude":41.524287,
     "geom:longitude":1.577733,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":41.524509,
     "lbl:longitude":1.577759,
     "lbl:max_zoom":18.0,
@@ -38,7 +50,7 @@
     "mps:latitude":41.524509,
     "mps:longitude":1.577759,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0631\u0628\u0627\u064a"
@@ -151,11 +163,13 @@
     "wof:concordances":{
         "eg:gisco_id":"ES_08152",
         "esp-icgc:la_lc":"08152",
+        "esp-ine:code":"08152",
         "eurostat:nuts_2021_id":"08152",
         "gn:id":6356180,
         "gp:id":12693532,
         "qs_pg:id":47285
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -172,7 +186,7 @@
         }
     ],
     "wof:id":404331221,
-    "wof:lastmodified":1684352245,
+    "wof:lastmodified":1695877120,
     "wof:name":"Orp\u00ed",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",

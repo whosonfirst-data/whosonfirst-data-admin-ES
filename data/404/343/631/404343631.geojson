@@ -31,6 +31,18 @@
     "geom:latitude":41.420676,
     "geom:longitude":1.192227,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":41.42114,
     "lbl:longitude":1.192234,
     "lbl:max_zoom":18.0,
@@ -38,7 +50,7 @@
     "mps:latitude":41.42114,
     "mps:longitude":1.192234,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0438\u0440\u0430"
@@ -100,11 +112,13 @@
     "wof:concordances":{
         "eg:gisco_id":"ES_43107",
         "esp-icgc:la_lc":"043107",
+        "esp-ine:code":"43107",
         "eurostat:nuts_2021_id":"43107",
         "gn:id":6361349,
         "gp:id":12694244,
         "qs_pg:id":317717
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes",
@@ -121,7 +135,7 @@
         }
     ],
     "wof:id":404343631,
-    "wof:lastmodified":1684352458,
+    "wof:lastmodified":1695877589,
     "wof:name":"Pira",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",

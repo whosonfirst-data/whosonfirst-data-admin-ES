@@ -22,12 +22,24 @@
     "geom:latitude":42.442195,
     "geom:longitude":-3.089447,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":42.439039,
     "lbl:longitude":-3.08761,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0633\u062a\u064a\u0644\u062f\u064a\u0644\u062c\u0627\u062f\u0648"
@@ -131,11 +143,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"ES_09082",
+        "esp-ine:code":"09082",
         "eurostat:nuts_2021_id":"09082",
         "gn:id":6356397,
         "gp:id":12691444,
         "qs_pg:id":1180950
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -151,7 +165,7 @@
         }
     ],
     "wof:id":404331771,
-    "wof:lastmodified":1684352258,
+    "wof:lastmodified":1695877145,
     "wof:name":"Castildelgado",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",

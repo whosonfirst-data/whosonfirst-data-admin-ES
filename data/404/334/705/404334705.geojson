@@ -31,6 +31,18 @@
     "geom:latitude":42.136038,
     "geom:longitude":2.805095,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":42.137797,
     "lbl:longitude":2.790814,
     "lbl:max_zoom":18.0,
@@ -38,7 +50,7 @@
     "mps:latitude":42.137797,
     "mps:longitude":2.790814,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u0646\u062a\u0643\u0648\u0628\u064a\u0631\u062a\u0627"
@@ -139,11 +151,13 @@
     "wof:concordances":{
         "eg:gisco_id":"ES_17071",
         "esp-icgc:la_lc":"017071",
+        "esp-ine:code":"17071",
         "eurostat:nuts_2021_id":"17071",
         "gn:id":6534060,
         "gp:id":12693752,
         "qs_pg:id":985053
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes",
@@ -160,7 +174,7 @@
         }
     ],
     "wof:id":404334705,
-    "wof:lastmodified":1684352306,
+    "wof:lastmodified":1695877249,
     "wof:name":"Fontcoberta",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",

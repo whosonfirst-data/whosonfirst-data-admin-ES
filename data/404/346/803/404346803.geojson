@@ -22,12 +22,24 @@
     "geom:latitude":41.153033,
     "geom:longitude":-1.238789,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":41.146254,
     "lbl:longitude":-1.24374,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u062f\u0648\u0644\u064a\u0633"
@@ -131,11 +143,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"ES_50040",
+        "esp-ine:code":"50040",
         "eurostat:nuts_2021_id":"50040",
         "gn:id":6362734,
         "gp:id":12689873,
         "qs_pg:id":496914
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -151,7 +165,7 @@
         }
     ],
     "wof:id":404346803,
-    "wof:lastmodified":1684352503,
+    "wof:lastmodified":1695877695,
     "wof:name":"Badules",
     "wof:parent_id":85682891,
     "wof:placetype":"localadmin",

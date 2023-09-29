@@ -31,6 +31,18 @@
     "geom:latitude":41.513477,
     "geom:longitude":1.447413,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":41.516003,
     "lbl:longitude":1.447455,
     "lbl:max_zoom":18.0,
@@ -38,7 +50,7 @@
     "mps:latitude":41.516003,
     "mps:longitude":1.447455,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u0628\u0627\u0631\u062a"
@@ -148,11 +160,13 @@
     "wof:concordances":{
         "eg:gisco_id":"ES_08021",
         "esp-icgc:la_lc":"08021",
+        "esp-ine:code":"08021",
         "eurostat:nuts_2021_id":"08021",
         "gn:id":6356057,
         "gp:id":12693398,
         "qs_pg:id":961852
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -169,7 +183,7 @@
         }
     ],
     "wof:id":404330925,
-    "wof:lastmodified":1684352235,
+    "wof:lastmodified":1695877102,
     "wof:name":"Bellprat",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",

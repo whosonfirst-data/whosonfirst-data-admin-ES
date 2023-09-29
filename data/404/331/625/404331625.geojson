@@ -22,12 +22,24 @@
     "geom:latitude":42.987135,
     "geom:longitude":-3.950979,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":42.987312,
     "lbl:longitude":-3.950639,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0631\u0627\u064a\u062c\u0627"
@@ -143,11 +155,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"ES_09025",
+        "esp-ine:code":"09025",
         "eurostat:nuts_2021_id":"09025",
         "gn:id":6356350,
         "gp:id":12691395,
         "qs_pg:id":1029301
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -163,7 +177,7 @@
         }
     ],
     "wof:id":404331625,
-    "wof:lastmodified":1684352257,
+    "wof:lastmodified":1695877142,
     "wof:name":"Arija",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",

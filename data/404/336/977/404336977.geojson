@@ -22,12 +22,24 @@
     "geom:latitude":37.875492,
     "geom:longitude":-4.031966,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":37.875023,
     "lbl:longitude":-4.032469,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u0633\u0643\u0627\u0646\u0648\u064a\u0644\u0627"
@@ -131,8 +143,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"ES_23031",
+        "esp-ine:code":"23031",
         "eurostat:nuts_2021_id":"23031"
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geomhash":"27bbed838d8c331ac3a84d9195cfc9a3",
     "wof:hierarchy":[
@@ -145,7 +159,7 @@
         }
     ],
     "wof:id":404336977,
-    "wof:lastmodified":1684352346,
+    "wof:lastmodified":1695877339,
     "wof:name":"Esca\u00f1uela",
     "wof:parent_id":85682757,
     "wof:placetype":"localadmin",

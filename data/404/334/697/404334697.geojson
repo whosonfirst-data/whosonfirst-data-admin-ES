@@ -31,6 +31,18 @@
     "geom:latitude":42.045474,
     "geom:longitude":2.962749,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":42.048053,
     "lbl:longitude":2.962712,
     "lbl:max_zoom":18.0,
@@ -38,7 +50,7 @@
     "mps:latitude":42.048053,
     "mps:longitude":2.962712,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0644\u0627\u0633\u0627"
@@ -148,11 +160,13 @@
     "wof:concordances":{
         "eg:gisco_id":"ES_17067",
         "esp-icgc:la_lc":"017067",
+        "esp-ine:code":"17067",
         "eurostat:nuts_2021_id":"17067",
         "gn:id":6534057,
         "gp:id":12693748,
         "qs_pg:id":1179313
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -169,7 +183,7 @@
         }
     ],
     "wof:id":404334697,
-    "wof:lastmodified":1684352306,
+    "wof:lastmodified":1695877249,
     "wof:name":"Fla\u00e7\u00e0",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",

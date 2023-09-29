@@ -31,6 +31,18 @@
     "geom:latitude":42.057259,
     "geom:longitude":3.160765,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":42.062433,
     "lbl:longitude":3.164436,
     "lbl:max_zoom":18.0,
@@ -38,7 +50,7 @@
     "mps:latitude":42.062433,
     "mps:longitude":3.164436,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0648\u0631\u0648\u064a\u064a\u0627 \u062f\u064a \u0645\u0648\u0646\u062a\u063a\u0631\u064a"
@@ -94,11 +106,13 @@
     "wof:concordances":{
         "eg:gisco_id":"ES_17199",
         "esp-icgc:la_lc":"017199",
+        "esp-ine:code":"17199",
         "eurostat:nuts_2021_id":"17199",
         "gn:id":6534154,
         "gp:id":12693873,
         "qs_pg:id":1188748
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -115,7 +129,7 @@
         }
     ],
     "wof:id":404334973,
-    "wof:lastmodified":1684352317,
+    "wof:lastmodified":1695877270,
     "wof:name":"Torroella de Montgr\u00ed",
     "wof:parent_id":85682721,
     "wof:placetype":"localadmin",

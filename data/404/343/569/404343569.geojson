@@ -31,6 +31,18 @@
     "geom:latitude":40.713944,
     "geom:longitude":0.530613,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":40.713609,
     "lbl:longitude":0.532316,
     "lbl:max_zoom":18.0,
@@ -38,7 +50,7 @@
     "mps:latitude":40.713609,
     "mps:longitude":0.532316,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Masdenverge"
@@ -136,11 +148,13 @@
     "wof:concordances":{
         "eg:gisco_id":"ES_43078",
         "esp-icgc:la_lc":"043078",
+        "esp-ine:code":"43078",
         "eurostat:nuts_2021_id":"43078",
         "gn:id":6361321,
         "gp:id":12694216,
         "qs_pg:id":1164955
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes",
@@ -157,7 +171,7 @@
         }
     ],
     "wof:id":404343569,
-    "wof:lastmodified":1684352457,
+    "wof:lastmodified":1695877585,
     "wof:name":"Masdenverge",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",

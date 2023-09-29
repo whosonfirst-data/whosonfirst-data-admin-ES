@@ -31,6 +31,18 @@
     "geom:latitude":40.66223,
     "geom:longitude":0.463768,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":40.652673,
     "lbl:longitude":0.462866,
     "lbl:max_zoom":18.0,
@@ -38,7 +50,7 @@
     "mps:latitude":40.652673,
     "mps:longitude":0.462866,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Godall"
@@ -130,11 +142,13 @@
     "wof:concordances":{
         "eg:gisco_id":"ES_43068",
         "esp-icgc:la_lc":"043068",
+        "esp-ine:code":"43068",
         "eurostat:nuts_2021_id":"43068",
         "gn:id":6361311,
         "gp:id":12694206,
         "qs_pg:id":977892
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes",
@@ -151,7 +165,7 @@
         }
     ],
     "wof:id":404343545,
-    "wof:lastmodified":1684352456,
+    "wof:lastmodified":1695877583,
     "wof:name":"Godall",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",

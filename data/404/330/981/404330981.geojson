@@ -31,6 +31,18 @@
     "geom:latitude":41.646053,
     "geom:longitude":2.355096,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":41.648358,
     "lbl:longitude":2.357307,
     "lbl:max_zoom":18.0,
@@ -38,7 +50,7 @@
     "mps:latitude":41.648358,
     "mps:longitude":2.357307,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u062f\u064a\u062f\u064a\u0648"
@@ -151,11 +163,13 @@
     "wof:concordances":{
         "eg:gisco_id":"ES_08046",
         "esp-icgc:la_lc":"08046",
+        "esp-ine:code":"08046",
         "eurostat:nuts_2021_id":"08046",
         "gn:id":6356079,
         "gp:id":12693423,
         "qs_pg:id":1317265
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes",
@@ -172,7 +186,7 @@
         }
     ],
     "wof:id":404330981,
-    "wof:lastmodified":1684352237,
+    "wof:lastmodified":1695877105,
     "wof:name":"Cardedeu",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",

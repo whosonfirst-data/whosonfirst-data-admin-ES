@@ -22,12 +22,24 @@
     "geom:latitude":40.288701,
     "geom:longitude":-4.014159,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":40.293331,
     "lbl:longitude":-4.015593,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0627\u0628\u0627\u0644\u0643\u0627\u0631\u0646\u064a\u0631\u0648"
@@ -140,11 +152,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"ES_28096",
+        "esp-ine:code":"28096",
         "eurostat:nuts_2021_id":"28096",
         "gn:id":6359320,
         "gp:id":12688040,
         "qs_pg:id":44460
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -160,7 +174,7 @@
         }
     ],
     "wof:id":404338899,
-    "wof:lastmodified":1684352384,
+    "wof:lastmodified":1695877422,
     "wof:name":"Navalcarnero",
     "wof:parent_id":85682783,
     "wof:placetype":"localadmin",

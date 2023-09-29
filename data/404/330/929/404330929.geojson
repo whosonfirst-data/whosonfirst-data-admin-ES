@@ -31,6 +31,18 @@
     "geom:latitude":41.68179,
     "geom:longitude":2.205121,
     "iso:country":"ES",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":41.68463,
     "lbl:longitude":2.211445,
     "lbl:max_zoom":18.0,
@@ -38,7 +50,7 @@
     "mps:latitude":41.68463,
     "mps:longitude":2.211445,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062c\u0648\u064a\u0633 \u0625 \u0631\u0627\u064a\u0644\u0633"
@@ -92,11 +104,13 @@
     "wof:concordances":{
         "eg:gisco_id":"ES_08023",
         "esp-icgc:la_lc":"08023",
+        "esp-ine:code":"08023",
         "eurostat:nuts_2021_id":"08023",
         "gn:id":6356059,
         "gp:id":12693400,
         "qs_pg:id":191227
     },
+    "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
         "quattroshapes",
@@ -113,7 +127,7 @@
         }
     ],
     "wof:id":404330929,
-    "wof:lastmodified":1684352236,
+    "wof:lastmodified":1695877102,
     "wof:name":"Bigues i Riells",
     "wof:parent_id":85682663,
     "wof:placetype":"localadmin",
