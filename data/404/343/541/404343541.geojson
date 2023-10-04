@@ -4,6 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "esp-cnig:connut1":"ES5",
+    "esp-cnig:connut2":"ES5",
+    "esp-cnig:connut3":"ES514",
+    "esp-cnig:inspireid":"ES.IGN.BDDAE.34094343066",
+    "esp-cnig:nameunit":"Els Garidells",
     "esp-icgc:a0":"Spain",
     "esp-icgc:a1":"Tarragona",
     "esp-icgc:a1_lc":43,
@@ -13,6 +18,16 @@
     "esp-icgc:la_lc":43066,
     "esp-icgc:level":"localadmin",
     "esp-icgc:source":"Catalunya ICGC",
+    "esp-ine:capital":"Els Garidells",
+    "esp-ine:code_ine":"43066000000",
+    "esp-ine:code_ine_capital":"43066000101",
+    "esp-ine:code_prov":"43",
+    "esp-ine:id_rel":"1430666",
+    "esp-ine:longitude_etrs89":41.207501,
+    "esp-ine:nombre_actual":"Els Garidells",
+    "esp-ine:poblacion_capital":149,
+    "esp-ine:poblacion_muni":196,
+    "esp-ine:provincia":"Tarragona",
     "eurostat:country_code":"ES",
     "eurostat:gisco_id":"ES_43066",
     "eurostat:level_code":"lau",
@@ -26,8 +41,8 @@
     "eurostat:population":190,
     "eurostat:population_year":2020,
     "geom:area":0.000323,
-    "geom:area_square_m":3004507.575714,
-    "geom:bbox":"1.232596,41.199638,1.260493,41.221428",
+    "geom:area_square_m":3004536.641763,
+    "geom:bbox":"1.232595668,41.199637516,1.260493229,41.221428366",
     "geom:latitude":41.209716,
     "geom:longitude":1.245035,
     "iso:country":"ES",
@@ -139,10 +154,11 @@
     "qs:la_lc":"43066",
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
-    "src:geom":"esp-cicgc",
+    "src:geom":"esp-cnig",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "esp-cicgc"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"eurostat",
@@ -156,8 +172,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"ES_43066",
+        "esp-cnig:inspireid":"ES.IGN.BDDAE.34094343066",
         "esp-icgc:la_lc":"043066",
         "esp-ine:code":"43066",
+        "esp-ine:code_ine":"43066000000",
         "eurostat:nuts_2021_id":"43066",
         "gn:id":6361309,
         "gp:id":12694204,
@@ -169,7 +187,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"48be0d01f84de4b4597b0f50fa4f5b40",
+    "wof:geomhash":"702a87de9d5fa7e76599bd5b325f678f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -180,7 +198,7 @@
         }
     ],
     "wof:id":404343541,
-    "wof:lastmodified":1695877583,
+    "wof:lastmodified":1696393214,
     "wof:name":"Els Garidells",
     "wof:parent_id":85682851,
     "wof:placetype":"localadmin",
@@ -192,10 +210,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    1.232596,
-    41.199638,
-    1.260493,
-    41.221428
+    1.232595668,
+    41.199637516,
+    1.260493229,
+    41.221428366
 ],
-  "geometry": {"coordinates":[[[1.259027,41.199638],[1.24598,41.203954],[1.233831,41.203928],[1.23383,41.20472],[1.233819,41.205451],[1.233578,41.207132],[1.233009,41.208177],[1.232819,41.208957],[1.232596,41.21101],[1.232685,41.212278],[1.233058,41.214256],[1.233173,41.215264],[1.233179,41.215824],[1.237941,41.216605],[1.238802,41.216801],[1.242329,41.221428],[1.242329,41.221428],[1.253028,41.213079],[1.260493,41.201206],[1.259027,41.199638]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[1.233178209,41.215823545],[1.237941818,41.216604531],[1.238802564,41.216801452],[1.242328875,41.221428366],[1.253027732,41.213079285],[1.260493229,41.201206237],[1.259027368,41.199637516],[1.245979854,41.203953965],[1.233831034,41.203928565],[1.233830015,41.204720295],[1.233818696,41.205451517],[1.233577885,41.207132196],[1.233009464,41.208177332],[1.232819109,41.208957148],[1.232595668,41.211010093],[1.232684395,41.212277886],[1.233058169,41.214256229],[1.233172988,41.21526411],[1.233178209,41.215823545]]]],"type":"MultiPolygon"}
 }

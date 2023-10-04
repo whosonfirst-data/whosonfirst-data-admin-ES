@@ -4,6 +4,21 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "esp-cnig:connut1":"ES5",
+    "esp-cnig:connut2":"ES5",
+    "esp-cnig:connut3":"ES521",
+    "esp-cnig:inspireid":"ES.IGN.BDDAE.34100303062",
+    "esp-cnig:nameunit":"Daya Vieja",
+    "esp-ine:capital":"Daya Vieja",
+    "esp-ine:code_ine":"03062000000",
+    "esp-ine:code_ine_capital":"03062000101",
+    "esp-ine:code_prov":"03",
+    "esp-ine:id_rel":"1030627",
+    "esp-ine:longitude_etrs89":38.104725,
+    "esp-ine:nombre_actual":"Daya Vieja",
+    "esp-ine:poblacion_capital":531,
+    "esp-ine:poblacion_muni":683,
+    "esp-ine:provincia":"Alacant/Alicante",
     "eurostat:country_code":"ES",
     "eurostat:gisco_id":"ES_03062",
     "eurostat:level_code":"lau",
@@ -17,8 +32,8 @@
     "eurostat:population":731,
     "eurostat:population_year":2020,
     "geom:area":0.000323,
-    "geom:area_square_m":3140612.764304,
-    "geom:bbox":"-0.74927987,38.09716621,-0.72315344,38.11654804",
+    "geom:area_square_m":3140612.209718,
+    "geom:bbox":"-0.749279869,38.097166214,-0.723153436,38.11654804",
     "geom:latitude":38.105747,
     "geom:longitude":-0.735062,
     "iso:country":"ES",
@@ -38,6 +53,8 @@
     "lbl:longitude":-0.734005,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":38.106235,
+    "mps:longitude":-0.734005,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
@@ -125,9 +142,10 @@
     "qs:la_lc":"03062",
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
-    "src:geom":"quattroshapes",
+    "src:geom":"esp-cnig",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:population":"eurostat",
     "src:population_date":"2020",
@@ -140,7 +158,9 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"ES_03062",
+        "esp-cnig:inspireid":"ES.IGN.BDDAE.34100303062",
         "esp-ine:code":"03062",
+        "esp-ine:code_ine":"03062000000",
         "eurostat:nuts_2021_id":"03062",
         "gn:id":6355438,
         "gp:id":12695326,
@@ -151,7 +171,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bb5d75d2d52ee52558f5b8e04af1afd3",
+    "wof:geomhash":"7eb8af8a726d8b275b8ba5f3ab023660",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -162,7 +182,7 @@
         }
     ],
     "wof:id":404329391,
-    "wof:lastmodified":1695877046,
+    "wof:lastmodified":1696392680,
     "wof:name":"Daya Vieja",
     "wof:parent_id":85682625,
     "wof:placetype":"localadmin",
@@ -174,10 +194,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -0.74927987,
-    38.09716621,
-    -0.72315344,
+    -0.749279869,
+    38.097166214,
+    -0.723153436,
     38.11654804
 ],
-  "geometry": {"coordinates":[[[-0.74927987,38.09800186],[-0.74287978,38.10698917],[-0.74274387,38.10732898],[-0.74255768,38.10819046],[-0.7421322,38.11015569],[-0.7390382,38.11654804],[-0.72368524,38.11252981],[-0.72315344,38.11239335],[-0.72356077,38.11213092],[-0.72376125,38.11191854],[-0.72490564,38.1062818],[-0.72555386,38.10303237],[-0.72839202,38.097924],[-0.72837123,38.09749106],[-0.73254332,38.09716621],[-0.74927987,38.09800186]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-0.749279869,38.098001862],[-0.742879784,38.10698917],[-0.742743872,38.107328977],[-0.742557679,38.108190457],[-0.742132196,38.110155692],[-0.7390382,38.11654804],[-0.723685243,38.112529814],[-0.723153436,38.112393347],[-0.723560767,38.112130916],[-0.723761249,38.111918539],[-0.724905639,38.106281803],[-0.725553865,38.103032372],[-0.728392023,38.097923997],[-0.728371227,38.097491065],[-0.732543322,38.097166214],[-0.749279869,38.098001862]]]],"type":"MultiPolygon"}
 }

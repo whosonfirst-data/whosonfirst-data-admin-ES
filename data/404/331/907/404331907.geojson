@@ -4,9 +4,14 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "esp-cnig:connut1":"ES4",
+    "esp-cnig:connut2":"ES4",
+    "esp-cnig:connut3":"ES412",
+    "esp-cnig:inspireid":"ES.IGN.BDDAE.34070953026",
+    "esp-cnig:nameunit":"Comunidad de Gete y Hacinas",
     "geom:area":0.000108,
-    "geom:area_square_m":995295.811885,
-    "geom:bbox":"-3.30166925,41.94541896,-3.28711897,41.96156165",
+    "geom:area_square_m":995296.099238,
+    "geom:bbox":"-3.30166925,41.945418958,-3.287118969,41.961561648",
     "geom:latitude":41.954312,
     "geom:longitude":-3.293794,
     "iso:country":"ES",
@@ -26,6 +31,8 @@
     "lbl:longitude":-3.293684,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":41.954702,
+    "mps:longitude":-3.293684,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
@@ -38,7 +45,10 @@
     "qs:la_lc":"09154;09268",
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
-    "src:geom":"quattroshapes",
+    "src:geom":"esp-cnig",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:belongsto":[
         102191581,
         85633129,
@@ -47,11 +57,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "esp-cnig:inspireid":"ES.IGN.BDDAE.34070953026",
         "esp-ine:code":"09154;09268"
     },
     "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
-    "wof:geomhash":"685017ce17482e45904b2da1c2a3b30c",
+    "wof:geomhash":"1fc832213879e602c0fa9a01aa5014e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,7 +73,7 @@
         }
     ],
     "wof:id":404331907,
-    "wof:lastmodified":1695877025,
+    "wof:lastmodified":1696392663,
     "wof:name":"Comunidad De Gete Y Hacinas",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
@@ -73,9 +84,9 @@
 },
   "bbox": [
     -3.30166925,
-    41.94541896,
-    -3.28711897,
-    41.96156165
+    41.945418958,
+    -3.287118969,
+    41.961561648
 ],
-  "geometry": {"coordinates":[[[-3.30166925,41.96092778],[-3.29689353,41.96156165],[-3.29037798,41.9564263],[-3.28888858,41.95526815],[-3.28881416,41.95481799],[-3.28711897,41.94541896],[-3.28890614,41.94578376],[-3.29154435,41.9475785],[-3.29368656,41.94905019],[-3.29536182,41.95127962],[-3.2976928,41.95438104],[-3.2992592,41.95649362],[-3.30157299,41.9584241],[-3.30166925,41.96092778]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-3.30166925,41.960927782],[-3.29689353,41.961561648],[-3.290377979,41.956426298],[-3.288888583,41.955268153],[-3.288814156,41.954817991],[-3.287118969,41.945418958],[-3.288906139,41.945783764],[-3.291544352,41.947578496],[-3.293686562,41.949050185],[-3.295361817,41.951279622],[-3.297692804,41.954381035],[-3.299259199,41.956493622],[-3.301572988,41.958424097],[-3.30166925,41.960927782]]]],"type":"MultiPolygon"}
 }

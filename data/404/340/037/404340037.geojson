@@ -4,6 +4,21 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "esp-cnig:connut1":"ES2",
+    "esp-cnig:connut2":"ES2",
+    "esp-cnig:connut3":"ES220",
+    "esp-cnig:inspireid":"ES.IGN.BDDAE.34153131258",
+    "esp-cnig:nameunit":"Villava/Atarrabia",
+    "esp-ine:capital":"Villava/Atarrabia",
+    "esp-ine:code_ine":"31258000000",
+    "esp-ine:code_ine_capital":"31258000101",
+    "esp-ine:code_prov":"31",
+    "esp-ine:id_rel":"1312589",
+    "esp-ine:longitude_etrs89":42.830162,
+    "esp-ine:nombre_actual":"Villava/Atarrabia",
+    "esp-ine:poblacion_capital":10022,
+    "esp-ine:poblacion_muni":10022,
+    "esp-ine:provincia":"Navarra",
     "eurostat:country_code":"ES",
     "eurostat:gisco_id":"ES_31258",
     "eurostat:level_code":"lau",
@@ -17,8 +32,8 @@
     "eurostat:population":10245,
     "eurostat:population_year":2020,
     "geom:area":0.000117,
-    "geom:area_square_m":1057473.818482,
-    "geom:bbox":"-1.61644206,42.82630699,-1.60290825,42.838954",
+    "geom:area_square_m":1057473.850161,
+    "geom:bbox":"-1.616442055,42.82630699,-1.602908247,42.838954001",
     "geom:latitude":42.832822,
     "geom:longitude":-1.609913,
     "iso:country":"ES",
@@ -38,6 +53,8 @@
     "lbl:longitude":-1.609236,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":42.832047,
+    "mps:longitude":-1.609236,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
@@ -50,9 +67,10 @@
     "qs:la_lc":"31258",
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
-    "src:geom":"quattroshapes",
+    "src:geom":"esp-cnig",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:population":"eurostat",
     "src:population_date":"2020",
@@ -65,7 +83,9 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"ES_31258",
+        "esp-cnig:inspireid":"ES.IGN.BDDAE.34153131258",
         "esp-ine:code":"31258",
+        "esp-ine:code_ine":"31258000000",
         "eurostat:nuts_2021_id":"31258",
         "gn:id":6359805,
         "qs_pg:id":378212
@@ -75,7 +95,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c6c95cfc18285f8464abe722bbe38b65",
+    "wof:geomhash":"94dab60da77590a3893381b9f8319188",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,7 +106,7 @@
         }
     ],
     "wof:id":404340037,
-    "wof:lastmodified":1695877461,
+    "wof:lastmodified":1696393073,
     "wof:name":"Villava/Atarrabia",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
@@ -98,10 +118,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.61644206,
+    -1.616442055,
     42.82630699,
-    -1.60290825,
-    42.838954
+    -1.602908247,
+    42.838954001
 ],
-  "geometry": {"coordinates":[[[-1.61644206,42.83451566],[-1.61634287,42.838954],[-1.61226192,42.83813914],[-1.60669224,42.83660361],[-1.60415044,42.83591525],[-1.60340958,42.83621239],[-1.60346557,42.83535758],[-1.60306327,42.83474933],[-1.60352871,42.83472799],[-1.603716,42.83401887],[-1.6036558,42.8334328],[-1.60363438,42.83329747],[-1.60351303,42.83271065],[-1.60334823,42.83188016],[-1.60290825,42.83131647],[-1.60377435,42.83034548],[-1.60428456,42.82996448],[-1.60373714,42.82928242],[-1.60786589,42.82630699],[-1.61181079,42.82769669],[-1.61296117,42.82877325],[-1.61533383,42.83099925],[-1.61536892,42.83107172],[-1.61609923,42.8334309],[-1.61644206,42.83451566]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-1.616442055,42.834515664],[-1.616342875,42.838954001],[-1.61226192,42.838139139],[-1.606692243,42.836603611],[-1.604150435,42.835915255],[-1.603409581,42.836212389],[-1.603465568,42.835357584],[-1.603063275,42.834749328],[-1.60352871,42.834727994],[-1.603715999,42.834018874],[-1.603655802,42.833432805],[-1.603634383,42.833297466],[-1.603513027,42.83271065],[-1.603348228,42.831880165],[-1.602908247,42.831316473],[-1.603774349,42.830345482],[-1.604284561,42.829964485],[-1.603737141,42.829282418],[-1.607865894,42.82630699],[-1.611810792,42.82769669],[-1.612961172,42.828773252],[-1.615333831,42.830999251],[-1.615368916,42.831071717],[-1.616099231,42.8334309],[-1.616442055,42.834515664]]]],"type":"MultiPolygon"}
 }

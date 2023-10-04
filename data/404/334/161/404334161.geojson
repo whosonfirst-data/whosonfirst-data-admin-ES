@@ -4,6 +4,21 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "esp-cnig:connut1":"ES4",
+    "esp-cnig:connut2":"ES4",
+    "esp-cnig:connut3":"ES423",
+    "esp-cnig:inspireid":"ES.IGN.BDDAE.34081616068",
+    "esp-cnig:nameunit":"Castillejo de Iniesta",
+    "esp-ine:capital":"Castillejo de Iniesta",
+    "esp-ine:code_ine":"16068000000",
+    "esp-ine:code_ine_capital":"16068000101",
+    "esp-ine:code_prov":"16",
+    "esp-ine:id_rel":"1160685",
+    "esp-ine:longitude_etrs89":39.525195,
+    "esp-ine:nombre_actual":"Castillejo de Iniesta",
+    "esp-ine:poblacion_capital":115,
+    "esp-ine:poblacion_muni":115,
+    "esp-ine:provincia":"Cuenca",
     "eurostat:country_code":"ES",
     "eurostat:gisco_id":"ES_16068",
     "eurostat:level_code":"lau",
@@ -17,8 +32,8 @@
     "eurostat:population":151,
     "eurostat:population_year":2020,
     "geom:area":0.002902,
-    "geom:area_square_m":27678691.475895,
-    "geom:bbox":"-1.79176853,39.50752154,-1.70958688,39.55226686",
+    "geom:area_square_m":27678690.279999,
+    "geom:bbox":"-1.791768527,39.507521543,-1.709586878,39.552266865",
     "geom:latitude":39.530486,
     "geom:longitude":-1.751226,
     "iso:country":"ES",
@@ -38,6 +53,8 @@
     "lbl:longitude":-1.751226,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":39.529846,
+    "mps:longitude":-1.751226,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
@@ -50,9 +67,10 @@
     "qs:la_lc":"16068",
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
-    "src:geom":"quattroshapes",
+    "src:geom":"esp-cnig",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:population":"eurostat",
     "src:population_date":"2020",
@@ -65,7 +83,9 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"ES_16068",
+        "esp-cnig:inspireid":"ES.IGN.BDDAE.34081616068",
         "esp-ine:code":"16068",
+        "esp-ine:code_ine":"16068000000",
         "eurostat:nuts_2021_id":"16068",
         "gn:id":6357423,
         "gp:id":12690461,
@@ -76,7 +96,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"445d3911898927a4b9f755c2262c0517",
+    "wof:geomhash":"3175d384f65e150a6cffb4a2b87c689e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +107,7 @@
         }
     ],
     "wof:id":404334161,
-    "wof:lastmodified":1695877224,
+    "wof:lastmodified":1696392856,
     "wof:name":"Castillejo De Iniesta",
     "wof:parent_id":85682715,
     "wof:placetype":"localadmin",
@@ -99,10 +119,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.79176853,
-    39.50752154,
-    -1.70958688,
-    39.55226686
+    -1.791768527,
+    39.507521543,
+    -1.709586878,
+    39.552266865
 ],
-  "geometry": {"coordinates":[[[-1.71556697,39.54272288],[-1.71427169,39.53913154],[-1.71384406,39.53771223],[-1.71115411,39.52334733],[-1.70958688,39.51499557],[-1.76642853,39.50752154],[-1.77731698,39.51407887],[-1.79055612,39.52205625],[-1.79116042,39.53282971],[-1.79176853,39.5440627],[-1.76735889,39.55226686],[-1.76402633,39.55182601],[-1.75239106,39.55032312],[-1.74320635,39.54913392],[-1.71900818,39.54986983],[-1.71556697,39.54272288]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-1.715566967,39.542722877],[-1.714271689,39.539131543],[-1.713844061,39.537712225],[-1.711154113,39.523347331],[-1.709586878,39.51499557],[-1.766428534,39.507521543],[-1.777316983,39.514078872],[-1.790556124,39.522056252],[-1.791160419,39.53282971],[-1.791768527,39.544062704],[-1.767358894,39.552266865],[-1.764026328,39.551826009],[-1.752391064,39.550323118],[-1.743206353,39.549133918],[-1.719008179,39.549869826],[-1.715566967,39.542722877]]]],"type":"MultiPolygon"}
 }

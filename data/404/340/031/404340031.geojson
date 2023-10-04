@@ -4,9 +4,14 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "esp-cnig:connut1":"ES2",
+    "esp-cnig:connut2":"ES2",
+    "esp-cnig:connut3":"ES220",
+    "esp-cnig:inspireid":"ES.IGN.BDDAE.34153153070",
+    "esp-cnig:nameunit":"Facer\u00eda de Ayarza",
     "geom:area":0.000043,
-    "geom:area_square_m":387165.888844,
-    "geom:bbox":"-2.0974431,42.61553764,-2.08576328,42.62260112",
+    "geom:area_square_m":387165.512255,
+    "geom:bbox":"-2.097443099,42.615537644,-2.085763284,42.622601119",
     "geom:latitude":42.619741,
     "geom:longitude":-2.09285,
     "iso:country":"ES",
@@ -26,6 +31,8 @@
     "lbl:longitude":-2.092938,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":42.619946,
+    "mps:longitude":-2.092938,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
@@ -38,7 +45,10 @@
     "qs:la_lc":"31255;31160;31125",
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
-    "src:geom":"quattroshapes",
+    "src:geom":"esp-cnig",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:belongsto":[
         102191581,
         85633129,
@@ -47,11 +57,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "esp-cnig:inspireid":"ES.IGN.BDDAE.34153153070",
         "esp-ine:code":"31255;31160;31125"
     },
     "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
-    "wof:geomhash":"ff5594f754190066ea5cae42523af6a5",
+    "wof:geomhash":"2be80309e590a5231a57d5689c29d9f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,7 +73,7 @@
         }
     ],
     "wof:id":404340031,
-    "wof:lastmodified":1695877028,
+    "wof:lastmodified":1696392665,
     "wof:name":"Facer\u00eda De Ayarza",
     "wof:parent_id":85682795,
     "wof:placetype":"localadmin",
@@ -72,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.0974431,
-    42.61553764,
-    -2.08576328,
-    42.62260112
+    -2.097443099,
+    42.615537644,
+    -2.085763284,
+    42.622601119
 ],
-  "geometry": {"coordinates":[[[-2.0974431,42.61553764],[-2.09720783,42.61747201],[-2.09714212,42.62032629],[-2.09691432,42.62090085],[-2.09550357,42.62148408],[-2.09414065,42.62213072],[-2.09213398,42.62260112],[-2.09059782,42.62257992],[-2.08973595,42.6223119],[-2.08852076,42.62202305],[-2.08650029,42.62093527],[-2.08576328,42.62047009],[-2.08661714,42.62044989],[-2.09009266,42.6187575],[-2.09572612,42.61622653],[-2.0974431,42.61553764]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-2.097443099,42.615537644],[-2.097207826,42.617472007],[-2.097142124,42.620326285],[-2.096914318,42.62090085],[-2.095503569,42.621484082],[-2.09414065,42.622130715],[-2.092133976,42.622601119],[-2.090597822,42.622579916],[-2.089735949,42.6223119],[-2.088520761,42.622023052],[-2.086500288,42.620935268],[-2.085763284,42.620470094],[-2.086617141,42.620449895],[-2.090092657,42.6187575],[-2.095726124,42.616226532],[-2.097443099,42.615537644]]]],"type":"MultiPolygon"}
 }

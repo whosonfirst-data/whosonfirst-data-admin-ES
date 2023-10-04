@@ -4,9 +4,14 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "esp-cnig:connut1":"ES4",
+    "esp-cnig:connut2":"ES4",
+    "esp-cnig:connut3":"ES412",
+    "esp-cnig:inspireid":"ES.IGN.BDDAE.34070953017",
+    "esp-cnig:nameunit":"Comunidad de Canicosa de la Sierra y Vilviestre del Pinar",
     "geom:area":0.000026,
-    "geom:area_square_m":237671.513585,
-    "geom:bbox":"-3.05649281,41.9525279,-3.04762832,41.95942803",
+    "geom:area_square_m":237671.351434,
+    "geom:bbox":"-3.05649281,41.952527899,-3.047628318,41.95942803",
     "geom:latitude":41.956592,
     "geom:longitude":-3.052998,
     "iso:country":"ES",
@@ -26,6 +31,8 @@
     "lbl:longitude":-3.05367,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":41.957108,
+    "mps:longitude":-3.05367,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
@@ -38,7 +45,10 @@
     "qs:la_lc":"09425;09067",
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
-    "src:geom":"quattroshapes",
+    "src:geom":"esp-cnig",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:belongsto":[
         102191581,
         85633129,
@@ -47,11 +57,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "esp-cnig:inspireid":"ES.IGN.BDDAE.34070953017",
         "esp-ine:code":"09425;09067"
     },
     "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
-    "wof:geomhash":"cc2a94aef55f08588be1b0be6c308e34",
+    "wof:geomhash":"5fb1649b447e7ea7d2c183cc2dbcba41",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,7 +73,7 @@
         }
     ],
     "wof:id":404332399,
-    "wof:lastmodified":1695877029,
+    "wof:lastmodified":1696392665,
     "wof:name":"Comunidad De Canicosa De La Sierra Y Vilviestre Del Pinar",
     "wof:parent_id":85682667,
     "wof:placetype":"localadmin",
@@ -73,9 +84,9 @@
 },
   "bbox": [
     -3.05649281,
-    41.9525279,
-    -3.04762832,
+    41.952527899,
+    -3.047628318,
     41.95942803
 ],
-  "geometry": {"coordinates":[[[-3.05649281,41.9525279],[-3.05630081,41.95373492],[-3.05523138,41.9589234],[-3.05471294,41.95942803],[-3.05416984,41.95930219],[-3.0531077,41.9589424],[-3.04878686,41.95754821],[-3.04762832,41.95728748],[-3.04782106,41.95685507],[-3.04818279,41.95650366],[-3.04901504,41.95610701],[-3.05090918,41.95582699],[-3.05251366,41.95548402],[-3.05318901,41.9550784],[-3.05598627,41.95276232],[-3.05649281,41.9525279]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-3.05649281,41.952527899],[-3.056300809,41.953734916],[-3.055231379,41.9589234],[-3.054712944,41.95942803],[-3.054169844,41.959302186],[-3.053107696,41.958942397],[-3.048786863,41.957548206],[-3.047628318,41.957287482],[-3.047821062,41.956855073],[-3.048182786,41.956503655],[-3.049015043,41.956107007],[-3.050909175,41.955826986],[-3.05251366,41.955484015],[-3.053189014,41.9550784],[-3.055986272,41.952762321],[-3.05649281,41.952527899]]]],"type":"MultiPolygon"}
 }

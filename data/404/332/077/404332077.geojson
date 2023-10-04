@@ -4,9 +4,14 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "esp-cnig:connut1":"ES4",
+    "esp-cnig:connut2":"ES4",
+    "esp-cnig:connut3":"ES412",
+    "esp-cnig:inspireid":"ES.IGN.BDDAE.34070953032",
+    "esp-cnig:nameunit":"Comunidad de Palacios de la Sierra, Vilviestre del Pinar y San Leonardo de Yag\u00fce",
     "geom:area":0.000097,
-    "geom:area_square_m":896223.341363,
-    "geom:bbox":"-3.09716459,41.8759017,-3.07544969,41.88502511",
+    "geom:area_square_m":896222.960466,
+    "geom:bbox":"-3.097164589,41.875901696,-3.075449689,41.88502511",
     "geom:latitude":41.881053,
     "geom:longitude":-3.086768,
     "iso:country":"ES",
@@ -26,6 +31,8 @@
     "lbl:longitude":-3.089646,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":41.880025,
+    "mps:longitude":-3.089646,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
@@ -38,7 +45,10 @@
     "qs:la_lc":"09246;09425;42164",
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
-    "src:geom":"quattroshapes",
+    "src:geom":"esp-cnig",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:belongsto":[
         102191581,
         85633129,
@@ -48,11 +58,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "esp-cnig:inspireid":"ES.IGN.BDDAE.34070953032",
         "esp-ine:code":"09246;09425;42164"
     },
     "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
-    "wof:geomhash":"5932266661d73f488a13c76901d13387",
+    "wof:geomhash":"31dc5c03b8cc62afe8025563092c1cf0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +81,7 @@
         }
     ],
     "wof:id":404332077,
-    "wof:lastmodified":1695877029,
+    "wof:lastmodified":1696392665,
     "wof:name":"Comunidad De Palacios De La Sierra, Vilviestre Del Pinar Y San Leonardo De Yag\u00fce",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",
@@ -80,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -3.09716459,
-    41.8759017,
-    -3.07544969,
+    -3.097164589,
+    41.875901696,
+    -3.075449689,
     41.88502511
 ],
-  "geometry": {"coordinates":[[[-3.09716459,41.88105819],[-3.09567127,41.88178902],[-3.09109408,41.88356712],[-3.08986518,41.88387433],[-3.08880484,41.88406431],[-3.0806225,41.88502511],[-3.07982627,41.88442221],[-3.07892178,41.8839725],[-3.07544969,41.88311921],[-3.07874994,41.88146872],[-3.07933859,41.87994616],[-3.08213485,41.88017835],[-3.08331523,41.8796551],[-3.08668723,41.87787822],[-3.08773357,41.87634625],[-3.09180614,41.8759017],[-3.09441527,41.88004273],[-3.09555045,41.88159097],[-3.09716459,41.88105819]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-3.097164589,41.881058195],[-3.095671266,41.881789017],[-3.091094078,41.883567123],[-3.08986518,41.883874332],[-3.08880484,41.884064306],[-3.080622498,41.88502511],[-3.079826272,41.884422213],[-3.07892178,41.883972502],[-3.075449689,41.883119208],[-3.078749944,41.881468724],[-3.079338585,41.879946161],[-3.082134855,41.880178352],[-3.083315229,41.879655097],[-3.086687235,41.877878224],[-3.087733574,41.876346253],[-3.091806138,41.875901696],[-3.094415269,41.880042728],[-3.095550449,41.881590967],[-3.097164589,41.881058195]]]],"type":"MultiPolygon"}
 }
