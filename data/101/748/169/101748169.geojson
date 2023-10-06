@@ -585,9 +585,9 @@
     "qs:type":"urban core",
     "src:geom":"esp-cnig",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg",
-        "naturalearth",
-        "quattroshapes"
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -600,8 +600,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "esp-cnig:inspireid":"ES.IGN.BDDAE.34185151001",
-        "esp-ine:code_ine":"51001000000",
         "esp-ine:code":"51001",
+        "esp-ine:code_ine":"51001000000",
         "fct:id":"083577c6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6362987,
         "gp:id":757400,
@@ -611,8 +611,9 @@
     "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
-        "quattroshapes_pg",
-        "naturalearth"
+        "naturalearth",
+        "quattroshapes",
+        "quattroshapes_pg"
     ],
     "wof:geomhash":"2799464e3c5a32e07138b2f2b9a4aac1",
     "wof:hierarchy":[
@@ -628,7 +629,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1696453241,
+    "wof:lastmodified":1696573910,
     "wof:name":"Ceuta",
     "wof:parent_id":85682895,
     "wof:placetype":"locality",
