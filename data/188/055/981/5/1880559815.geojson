@@ -2,6 +2,8 @@
   "id": 1880559815,
   "type": "Feature",
   "properties": {
+    "date:inception_lower":"2018-10-02",
+    "date:inception_upper":"2018-10-02",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2018-10-02",
     "esp-cnig:connut1":"ES6",
@@ -46,7 +48,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"esp-cnig",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        85682731,
+        404227361
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "esp-cnig:inspireid":"ES.IGN.BDDAE.34011818077",
@@ -57,12 +64,20 @@
     "wof:country":"ES",
     "wof:geom":"esp-cnig",
     "wof:geom_alt":[],
-    "wof:geomhash":"0455b2a63704704625e2826460098bf6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2bc6228f9bdeffc7d09d3ad5c63b8f32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":1880559815,
+            "macroregion_id":404227361,
+            "region_id":85682731
+        }
+    ],
     "wof:id":1880559815,
-    "wof:lastmodified":1696573572,
+    "wof:lastmodified":1696628777,
     "wof:name":"Fornes",
-    "wof:parent_id":-1,
+    "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],

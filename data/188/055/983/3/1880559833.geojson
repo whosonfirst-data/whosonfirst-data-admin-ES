@@ -2,6 +2,8 @@
   "id": 1880559833,
   "type": "Feature",
   "properties": {
+    "date:inception_lower":"2021-07-01",
+    "date:inception_upper":"2021-07-01",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2021-07-01",
     "esp-cnig:connut1":"ES6",
@@ -46,7 +48,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"esp-cnig",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        85682787,
+        404227361
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "esp-cnig:inspireid":"ES.IGN.BDDAE.34012929904",
@@ -57,12 +64,20 @@
     "wof:country":"ES",
     "wof:geom":"esp-cnig",
     "wof:geom_alt":[],
-    "wof:geomhash":"eef5cf5b011ffaeb3bd865622a456ab7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1888adb7734767774438fc97baddc1ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":1880559833,
+            "macroregion_id":404227361,
+            "region_id":85682787
+        }
+    ],
     "wof:id":1880559833,
-    "wof:lastmodified":1696573573,
+    "wof:lastmodified":1696628789,
     "wof:name":"Serrato",
-    "wof:parent_id":-1,
+    "wof:parent_id":85682787,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],

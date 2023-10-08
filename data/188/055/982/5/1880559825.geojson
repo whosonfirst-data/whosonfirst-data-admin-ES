@@ -2,6 +2,8 @@
   "id": 1880559825,
   "type": "Feature",
   "properties": {
+    "date:inception_lower":"2018-10-02",
+    "date:inception_upper":"2018-10-02",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2018-10-02",
     "esp-cnig:connut1":"ES6",
@@ -46,7 +48,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"esp-cnig",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        85682731,
+        404227361
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "esp-cnig:inspireid":"ES.IGN.BDDAE.34011818916",
@@ -57,12 +64,20 @@
     "wof:country":"ES",
     "wof:geom":"esp-cnig",
     "wof:geom_alt":[],
-    "wof:geomhash":"18e65fe4f3041b830e7c9f90ae502c90",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc3f0eb9b3dd0ccd4ca138be2485b9e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":1880559825,
+            "macroregion_id":404227361,
+            "region_id":85682731
+        }
+    ],
     "wof:id":1880559825,
-    "wof:lastmodified":1696573572,
+    "wof:lastmodified":1696628782,
     "wof:name":"Torrenueva Costa",
-    "wof:parent_id":-1,
+    "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],

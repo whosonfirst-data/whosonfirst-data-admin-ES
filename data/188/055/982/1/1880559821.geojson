@@ -2,6 +2,8 @@
   "id": 1880559821,
   "type": "Feature",
   "properties": {
+    "date:inception_lower":"2013-12-18",
+    "date:inception_upper":"2013-12-18",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2013-12-18",
     "esp-cnig:connut1":"ES6",
@@ -46,7 +48,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"esp-cnig",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        85682731,
+        404227361
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "esp-cnig:inspireid":"ES.IGN.BDDAE.34011818914",
@@ -57,12 +64,20 @@
     "wof:country":"ES",
     "wof:geom":"esp-cnig",
     "wof:geom_alt":[],
-    "wof:geomhash":"11abdbd2b69dd8f1c8b6cf2b63c68dd8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d08b5051dc77279100e88d9fb94466f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":1880559821,
+            "macroregion_id":404227361,
+            "region_id":85682731
+        }
+    ],
     "wof:id":1880559821,
-    "wof:lastmodified":1696573572,
+    "wof:lastmodified":1696628779,
     "wof:name":"Valderrubio",
-    "wof:parent_id":-1,
+    "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],

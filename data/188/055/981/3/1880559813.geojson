@@ -2,6 +2,8 @@
   "id": 1880559813,
   "type": "Feature",
   "properties": {
+    "date:inception_lower":"2014-10-23",
+    "date:inception_upper":"2014-10-23",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2014-10-23",
     "esp-cnig:connut1":"ES6",
@@ -46,7 +48,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"esp-cnig",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        85682731,
+        404227361
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "esp-cnig:inspireid":"ES.IGN.BDDAE.34011818065",
@@ -57,12 +64,20 @@
     "wof:country":"ES",
     "wof:geom":"esp-cnig",
     "wof:geom_alt":[],
-    "wof:geomhash":"1f9c0cd07ceca04d6be4c7e4e51e4449",
-    "wof:hierarchy":[],
+    "wof:geomhash":"120948a0d0d59f5e68da89ba4bbad5e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":1880559813,
+            "macroregion_id":404227361,
+            "region_id":85682731
+        }
+    ],
     "wof:id":1880559813,
-    "wof:lastmodified":1696573572,
+    "wof:lastmodified":1696628775,
     "wof:name":"Dehesas Viejas",
-    "wof:parent_id":-1,
+    "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],

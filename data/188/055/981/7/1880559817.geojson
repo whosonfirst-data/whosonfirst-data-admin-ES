@@ -2,6 +2,8 @@
   "id": 1880559817,
   "type": "Feature",
   "properties": {
+    "date:inception_lower":"2015-02-19",
+    "date:inception_upper":"2015-02-19",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2015-02-19",
     "esp-cnig:connut1":"ES6",
@@ -46,7 +48,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"esp-cnig",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        85682731,
+        404227361
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "esp-cnig:inspireid":"ES.IGN.BDDAE.34011818106",
@@ -57,12 +64,20 @@
     "wof:country":"ES",
     "wof:geom":"esp-cnig",
     "wof:geom_alt":[],
-    "wof:geomhash":"3cb9d6d3c17164d2ab09a644e32c3a2e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c73dd244179d48f0a6d68f04792bf3d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":1880559817,
+            "macroregion_id":404227361,
+            "region_id":85682731
+        }
+    ],
     "wof:id":1880559817,
-    "wof:lastmodified":1696573572,
+    "wof:lastmodified":1696628778,
     "wof:name":"J\u00e1tar",
-    "wof:parent_id":-1,
+    "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],

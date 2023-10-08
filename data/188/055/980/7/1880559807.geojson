@@ -2,6 +2,8 @@
   "id": 1880559807,
   "type": "Feature",
   "properties": {
+    "date:inception_lower":"2018-10-02",
+    "date:inception_upper":"2018-10-02",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2018-10-02",
     "esp-cnig:connut1":"ES6",
@@ -46,7 +48,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"esp-cnig",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        85682679,
+        404227361
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "esp-cnig:inspireid":"ES.IGN.BDDAE.34011111903",
@@ -57,12 +64,20 @@
     "wof:country":"ES",
     "wof:geom":"esp-cnig",
     "wof:geom_alt":[],
-    "wof:geomhash":"27fd3cf4814cef5e3fd40e0af1db257c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"096701361880a5396853ca384ca9ab21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":1880559807,
+            "macroregion_id":404227361,
+            "region_id":85682679
+        }
+    ],
     "wof:id":1880559807,
-    "wof:lastmodified":1696573572,
+    "wof:lastmodified":1696628771,
     "wof:name":"San Mart\u00edn del Tesorillo",
-    "wof:parent_id":-1,
+    "wof:parent_id":85682679,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],

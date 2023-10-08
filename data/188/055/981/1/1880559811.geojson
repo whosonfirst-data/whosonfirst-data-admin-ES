@@ -2,6 +2,8 @@
   "id": 1880559811,
   "type": "Feature",
   "properties": {
+    "date:inception_lower":"2007-02-26",
+    "date:inception_upper":"2007-02-26",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2007-02-26",
     "esp-cnig:connut1":"ES6",
@@ -46,7 +48,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"esp-cnig",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        85682697,
+        404227361
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "esp-cnig:inspireid":"ES.IGN.BDDAE.34011414902",
@@ -57,12 +64,20 @@
     "wof:country":"ES",
     "wof:geom":"esp-cnig",
     "wof:geom_alt":[],
-    "wof:geomhash":"aaf154a9e9b6d65cd277961cbd6e635f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"274178e2e0aa583ea1d940f59f999af1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":1880559811,
+            "macroregion_id":404227361,
+            "region_id":85682697
+        }
+    ],
     "wof:id":1880559811,
-    "wof:lastmodified":1696573572,
+    "wof:lastmodified":1696628774,
     "wof:name":"La Guijarrosa",
-    "wof:parent_id":-1,
+    "wof:parent_id":85682697,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],

@@ -2,6 +2,8 @@
   "id": 1880559823,
   "type": "Feature",
   "properties": {
+    "date:inception_lower":"2015-03-17",
+    "date:inception_upper":"2015-03-17",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2015-03-17",
     "esp-cnig:connut1":"ES6",
@@ -46,7 +48,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"esp-cnig",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        85682731,
+        404227361
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "esp-cnig:inspireid":"ES.IGN.BDDAE.34011818915",
@@ -57,12 +64,20 @@
     "wof:country":"ES",
     "wof:geom":"esp-cnig",
     "wof:geom_alt":[],
-    "wof:geomhash":"5913f50efa0d707e86f9a183f2905bd5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e5923b3e49f60f79c3a634d277d0ee89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":1880559823,
+            "macroregion_id":404227361,
+            "region_id":85682731
+        }
+    ],
     "wof:id":1880559823,
-    "wof:lastmodified":1696573572,
+    "wof:lastmodified":1696628781,
     "wof:name":"Domingo P\u00e9rez de Granada",
-    "wof:parent_id":-1,
+    "wof:parent_id":85682731,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],

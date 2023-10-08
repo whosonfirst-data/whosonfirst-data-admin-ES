@@ -2,6 +2,8 @@
   "id": 1880559805,
   "type": "Feature",
   "properties": {
+    "date:inception_lower":"2014-11-01",
+    "date:inception_upper":"2014-11-01",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2014-11-01",
     "esp-cnig:connut1":"ES4",
@@ -46,7 +48,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"esp-cnig",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        85682675,
+        404227383
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "esp-cnig:inspireid":"ES.IGN.BDDAE.34111010905",
@@ -57,12 +64,20 @@
     "wof:country":"ES",
     "wof:geom":"esp-cnig",
     "wof:geom_alt":[],
-    "wof:geomhash":"d9f9d3877591e65b2ae9f02b87f751ec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2d5ea538c20a650d8e1bd48c3e0fa4a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":1880559805,
+            "macroregion_id":404227383,
+            "region_id":85682675
+        }
+    ],
     "wof:id":1880559805,
-    "wof:lastmodified":1696573572,
+    "wof:lastmodified":1696628769,
     "wof:name":"Pueblonuevo de Miramontes",
-    "wof:parent_id":-1,
+    "wof:parent_id":85682675,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],

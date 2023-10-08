@@ -2,6 +2,8 @@
   "id": 1880559827,
   "type": "Feature",
   "properties": {
+    "date:inception_lower":"2018-01-01",
+    "date:inception_upper":"2018-12-31",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2018",
     "esp-cnig:connut1":"ES6",
@@ -46,7 +48,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"esp-cnig",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        85682749,
+        404227361
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "esp-cnig:inspireid":"ES.IGN.BDDAE.34012121902",
@@ -57,12 +64,20 @@
     "wof:country":"ES",
     "wof:geom":"esp-cnig",
     "wof:geom_alt":[],
-    "wof:geomhash":"ee9061dd52ceb02812741f80516f7aae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3e743289561c5a4a4d51ca26b76c83c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":1880559827,
+            "macroregion_id":404227361,
+            "region_id":85682749
+        }
+    ],
     "wof:id":1880559827,
-    "wof:lastmodified":1696573573,
+    "wof:lastmodified":1696628784,
     "wof:name":"La Zarza-Perrunal",
-    "wof:parent_id":-1,
+    "wof:parent_id":85682749,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
