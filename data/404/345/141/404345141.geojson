@@ -4,6 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "esp-cnig:connut1":"ES5",
+    "esp-cnig:connut2":"ES5",
+    "esp-cnig:connut3":"ES523",
+    "esp-cnig:inspireid":"ES.IGN.BDDAE.34104646152",
+    "esp-cnig:nameunit":"Llocnou de la Corona",
     "eurostat:country_code":"ES",
     "eurostat:gisco_id":"ES_46152",
     "eurostat:level_code":"lau",
@@ -16,11 +21,11 @@
     "eurostat:nuts_2021_level_lau":"46152",
     "eurostat:population":124,
     "eurostat:population_year":2020,
-    "geom:area":0.000004,
-    "geom:area_square_m":41832.510689,
-    "geom:bbox":"-0.38266461,39.41968538,-0.38053085,39.42244846",
-    "geom:latitude":39.421182,
-    "geom:longitude":-0.381742,
+    "geom:area":0.000001,
+    "geom:area_square_m":12561.0183,
+    "geom:bbox":"-0.382577,39.419866,-0.381341,39.421301",
+    "geom:latitude":39.420585,
+    "geom:longitude":-0.38197,
     "iso:country":"ES",
     "label:eng_x_preferred_placetype":[
         "municipality"
@@ -34,10 +39,12 @@
     "label:spa_x_preferred_placetype":[
         "municipio"
     ],
-    "lbl:latitude":39.421415,
-    "lbl:longitude":-0.381763,
+    "lbl:latitude":39.420601,
+    "lbl:longitude":-0.381982,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":39.420601,
+    "mps:longitude":-0.381982,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
@@ -53,8 +60,9 @@
     "qs:la_lc":"46152",
     "qs:level":"localadmin",
     "qs:source":"Spain IGN",
-    "src:geom":"quattroshapes",
+    "src:geom":"esp-cnig",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:population":"eurostat",
@@ -68,6 +76,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"ES_46152",
+        "esp-cnig:inspireid":"ES.IGN.BDDAE.34104646152",
         "esp-ine:code":"46152",
         "eurostat:nuts_2021_id":"46152",
         "gn:id":6362017,
@@ -76,9 +85,10 @@
     "wof:concordances_official":"esp-ine:code",
     "wof:country":"ES",
     "wof:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"211768d78c13a5bc1821dccad529d63e",
+    "wof:geomhash":"fc5968eca7a092ff41a5a6e8a6fd0b5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,7 +99,7 @@
         }
     ],
     "wof:id":404345141,
-    "wof:lastmodified":1695877646,
+    "wof:lastmodified":1696638250,
     "wof:name":"Llocnou De La Corona",
     "wof:parent_id":85682867,
     "wof:placetype":"localadmin",
@@ -101,10 +111,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -0.38266461,
-    39.41968538,
-    -0.38053085,
-    39.42244846
+    -0.382577,
+    39.419866,
+    -0.381341,
+    39.421301
 ],
-  "geometry": {"coordinates":[[[-0.38266461,39.42239632],[-0.38177988,39.42244846],[-0.38095756,39.42238489],[-0.38053085,39.4223032],[-0.38106757,39.42100005],[-0.38109364,39.41968538],[-0.38258464,39.41988113],[-0.38256279,39.42139408],[-0.38266461,39.42239632]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-0.381426,39.420674],[-0.381441,39.420584],[-0.381446,39.420538],[-0.381471,39.420282],[-0.381524,39.420155],[-0.381534,39.42012],[-0.381602,39.419866],[-0.381614,39.419868],[-0.381638,39.41987],[-0.381695,39.419878],[-0.381799,39.419899],[-0.381902,39.419921],[-0.381951,39.41993],[-0.38212,39.419973],[-0.382194,39.419994],[-0.382235,39.420008],[-0.382577,39.420102],[-0.382556,39.420295],[-0.382483,39.42105],[-0.382479,39.421109],[-0.38247,39.421107],[-0.382314,39.421087],[-0.382279,39.421085],[-0.38225461,39.42108511],[-0.382227,39.4211],[-0.382225,39.42113],[-0.382222,39.421161],[-0.382218,39.421226],[-0.382216,39.421276],[-0.382211,39.421294],[-0.382197,39.421301],[-0.382161,39.4213],[-0.382132,39.421297],[-0.3821,39.421292],[-0.382041,39.42128],[-0.381908,39.421244],[-0.381784,39.421206],[-0.381659,39.421166],[-0.38163,39.421158],[-0.381553,39.421137],[-0.381341,39.421079],[-0.381347,39.421049],[-0.381355,39.421011],[-0.381406,39.420774],[-0.381426,39.420674]]]],"type":"MultiPolygon"}
 }
