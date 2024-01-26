@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-4.8942,37.22604,-4.8942,37.22604",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:arg_x_preferred":[
         "Pedrera"
@@ -124,7 +126,7 @@
         "wk:page":"Pedrera%2C_Seville"
     },
     "wof:country":"ES",
-    "wof:geomhash":"92f7f75287867529ee4d8b8688ca7de1",
+    "wof:geomhash":"8c03638ebf811838bdbfcee856255ace",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,22 +138,24 @@
         }
     ],
     "wof:id":1293327955,
-    "wof:lastmodified":1566587942,
+    "wof:lastmodified":1706239518,
     "wof:name":"Pedrera",
     "wof:parent_id":404342905,
     "wof:placetype":"locality",
     "wof:population":5049,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101779291
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -4.8942,
-    37.22604000000001,
+    37.22604,
     -4.8942,
-    37.22604000000001
+    37.22604
 ],
-  "geometry": {"coordinates":[-4.8942,37.22604000000001],"type":"Point"}
+  "geometry": {"coordinates":[-4.8942,37.22604],"type":"Point"}
 }

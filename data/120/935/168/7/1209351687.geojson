@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-14.21541,28.21222,-14.21541,28.21222",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":1209351687,
-    "wof:lastmodified":1696636013,
+    "wof:lastmodified":1706239524,
     "wof:name":"La Pared",
     "wof:parent_id":404340917,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101911433
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

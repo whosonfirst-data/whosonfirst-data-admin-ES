@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-2.70461,39.55746,-2.70461,39.55746",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09c7\u09b2\u09ae\u09cb\u09a8\u09cd\u099f\u09c7"
@@ -138,14 +140,16 @@
         }
     ],
     "wof:id":1326861737,
-    "wof:lastmodified":1566587166,
+    "wof:lastmodified":1706239516,
     "wof:name":"Belmonte",
     "wof:parent_id":404334089,
     "wof:placetype":"locality",
     "wof:population":2360,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101776903
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

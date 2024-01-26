@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-0.72544,38.08799,-0.72544,38.08799",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":9.0,
     "name:arg_x_preferred":[
         "Rojals"
@@ -121,7 +123,7 @@
         "wk:page":"Rojales"
     },
     "wof:country":"ES",
-    "wof:geomhash":"39ce45650e7d8c10eb10c5ba7209cb6e",
+    "wof:geomhash":"b98fe1325f1f53d9c5fbf0d3ba973dc0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,22 +135,24 @@
         }
     ],
     "wof:id":1326865285,
-    "wof:lastmodified":1566587167,
+    "wof:lastmodified":1706239520,
     "wof:name":"Rojales",
     "wof:parent_id":404329501,
     "wof:placetype":"locality",
     "wof:population":20510,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101832351
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -0.72544,
-    38.08799000000001,
+    38.08799,
     -0.72544,
-    38.08799000000001
+    38.08799
 ],
-  "geometry": {"coordinates":[-0.72544,38.08799000000001],"type":"Point"}
+  "geometry": {"coordinates":[-0.72544,38.08799],"type":"Point"}
 }
