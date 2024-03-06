@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-4.14738,40.59144,-4.14738,40.59144",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u0644\u0648\u0631\u0646\u0632\u0648 \u062f\u064a \u0634 \u0627\u0644\u0625\u0633\u0643\u0648\u0631\u064a\u0627\u0644"
@@ -98,7 +100,7 @@
         "wk:page":"San_Lorenzo_de_El_Escorial"
     },
     "wof:country":"ES",
-    "wof:geomhash":"6fccf1c41a2a8d3056afbc757fb6299f",
+    "wof:geomhash":"1ea0a35268d1e1e81e96ef5bd741bcf4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,22 +112,24 @@
         }
     ],
     "wof:id":1360131313,
-    "wof:lastmodified":1566588808,
+    "wof:lastmodified":1706239519,
     "wof:name":"San Lorenzo de El Escorial",
     "wof:parent_id":404338971,
     "wof:placetype":"locality",
     "wof:population":17889,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101830907
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -4.14738,
-    40.59144000000001,
+    40.59144,
     -4.14738,
-    40.59144000000001
+    40.59144
 ],
-  "geometry": {"coordinates":[-4.14738,40.59144000000001],"type":"Point"}
+  "geometry": {"coordinates":[-4.14738,40.59144],"type":"Point"}
 }

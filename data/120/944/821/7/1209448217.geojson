@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-16.54867,28.41397,-16.54867,28.41397",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u064a\u0631\u062a\u0648 \u062f\u064a \u0644\u0627 \u0643\u0631\u0648\u062b"
@@ -100,7 +102,7 @@
         "wk:page":"Puerto_de_la_Cruz"
     },
     "wof:country":"ES",
-    "wof:geomhash":"ed352932be7d7468bffbcba69cc39096",
+    "wof:geomhash":"76541e559a43369184ad0f923c757aa0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -112,22 +114,24 @@
         }
     ],
     "wof:id":1209448217,
-    "wof:lastmodified":1696636643,
+    "wof:lastmodified":1706239518,
     "wof:name":"Puerto de la Cruz",
     "wof:parent_id":404341979,
     "wof:placetype":"locality",
     "wof:population":32219,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101781237
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -16.54867,
-    28.41397000000001,
+    28.41397,
     -16.54867,
-    28.41397000000001
+    28.41397
 ],
-  "geometry": {"coordinates":[-16.54867,28.41397000000001],"type":"Point"}
+  "geometry": {"coordinates":[-16.54867,28.41397],"type":"Point"}
 }

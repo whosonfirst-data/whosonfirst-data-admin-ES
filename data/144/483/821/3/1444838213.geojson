@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-4.44551665588,36.7247425559,-4.44551665588,36.7247425559",
+    "geom:bbox":"-4.445517,36.724743,-4.445517,36.724743",
     "geom:latitude":36.724743,
     "geom:longitude":-4.445517,
     "iso:country":"ES",
@@ -15,7 +17,7 @@
     "lbl:longitude":-4.445517,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -41,7 +43,7 @@
     ],
     "wof:breaches":[],
     "wof:country":"ES",
-    "wof:geomhash":"67d0d8016fe90b29ceb611f1ec6ba7c7",
+    "wof:geomhash":"e20fd7e327b177fb3cace9ceee487a19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,20 +56,22 @@
         }
     ],
     "wof:id":1444838213,
-    "wof:lastmodified":1566588434,
+    "wof:lastmodified":1706239525,
     "wof:name":"Los Millones",
     "wof:parent_id":101748185,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1126062125
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -4.44551665588245,
-    36.72474255586285,
-    -4.44551665588245,
-    36.72474255586285
+    -4.445517,
+    36.724743,
+    -4.445517,
+    36.724743
 ],
-  "geometry": {"coordinates":[-4.44551665588245,36.72474255586285],"type":"Point"}
+  "geometry": {"coordinates":[-4.445517,36.724743],"type":"Point"}
 }

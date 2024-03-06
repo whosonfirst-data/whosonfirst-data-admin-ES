@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-0.30333,39.58869,-0.30333,39.58869",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "El Puig"
@@ -113,14 +115,16 @@
         }
     ],
     "wof:id":1277106437,
-    "wof:lastmodified":1566588188,
+    "wof:lastmodified":1706239515,
     "wof:name":"Puig",
     "wof:parent_id":404345257,
     "wof:placetype":"locality",
     "wof:population":7851,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101776395
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-3.29764,40.58216,-3.29764,40.58216",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -58,14 +60,16 @@
         }
     ],
     "wof:id":1209547265,
-    "wof:lastmodified":1696633046,
+    "wof:lastmodified":1706239515,
     "wof:name":"Villanueva de la Torre",
     "wof:parent_id":404336047,
     "wof:placetype":"locality",
     "wof:population":4892,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101775731
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

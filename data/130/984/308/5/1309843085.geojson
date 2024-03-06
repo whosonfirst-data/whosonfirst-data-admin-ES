@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-1.2875,40.45325,-1.2875,40.45325",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u0644\u0627"
@@ -138,14 +140,16 @@
         }
     ],
     "wof:id":1309843085,
-    "wof:lastmodified":1566589530,
+    "wof:lastmodified":1706239514,
     "wof:name":"Cella",
     "wof:parent_id":404343961,
     "wof:placetype":"locality",
     "wof:population":2820,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101775425
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

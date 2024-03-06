@@ -9,9 +9,13 @@
     "geom:bbox":"24.740563,59.436272,24.75769,59.456547",
     "geom:latitude":59.444641,
     "geom:longitude":24.749927,
+    "gn:country":"EE",
+    "gn:fcode":"PPLX",
     "gn:latitude":59.43814,
     "gn:longitude":24.74535,
+    "gn:population":0,
     "iso:country":"ES",
+    "lbl:bbox":"24.74035,59.43314,24.75035,59.44314",
     "lbl:latitude":59.440608,
     "lbl:longitude":24.748515,
     "lbl:max_zoom":18.0,
@@ -25,6 +29,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":4,
     "name:ara_x_preferred":[
         "\u0641\u0627\u0646\u0627\u0644\u064a\u0646"
@@ -122,10 +127,34 @@
     "qs:woe_lau":0,
     "qs:woe_local":845743,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":798564,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Vanalinn",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"Harjumaa",
+    "qs_pg:photos":11563,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":51,
+    "qs_pg:photos_9r":17,
+    "qs_pg:photos_all":11563,
+    "qs_pg:photos_sr":26,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":890383,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":23701388,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":68,
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"Harjumaa",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191581,
         101748153,
@@ -139,6 +168,20 @@
         "qs_pg:id":890383,
         "wd:id":"Q2166171",
         "wk:page":"Vanalinn"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            798564
+        ],
+        "gp:id":[
+            23701388
+        ],
+        "qs_pg:id":[
+            890383
+        ],
+        "wd:id":[
+            "Q2166171"
+        ]
     },
     "wof:country":"ES",
     "wof:geomhash":"652467889671de3036acb92ebfe5cc07",
@@ -155,13 +198,15 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1690877086,
+    "wof:lastmodified":1706239508,
     "wof:name":"Vanalinn",
     "wof:parent_id":101748153,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126088777
+    ],
     "wof:tags":[]
 },
   "bbox": [

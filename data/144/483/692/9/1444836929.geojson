@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-4.42145209372,36.729481067,-4.42145209372,36.729481067",
+    "geom:bbox":"-4.421452,36.729481,-4.421452,36.729481",
     "geom:latitude":36.729481,
     "geom:longitude":-4.421452,
     "iso:country":"ES",
@@ -15,7 +17,7 @@
     "lbl:longitude":-4.421452,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -41,7 +43,7 @@
     ],
     "wof:breaches":[],
     "wof:country":"ES",
-    "wof:geomhash":"c57a443de8c62e307f3fa261e4aa4096",
+    "wof:geomhash":"5d7be2611a059c36b654da820293c250",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,20 +56,22 @@
         }
     ],
     "wof:id":1444836929,
-    "wof:lastmodified":1566588436,
+    "wof:lastmodified":1706239526,
     "wof:name":"Capuchinos",
     "wof:parent_id":101748185,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1126107247
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -4.42145209372362,
-    36.72948106703946,
-    -4.42145209372362,
-    36.72948106703946
+    -4.421452,
+    36.729481,
+    -4.421452,
+    36.729481
 ],
-  "geometry": {"coordinates":[-4.42145209372362,36.72948106703946],"type":"Point"}
+  "geometry": {"coordinates":[-4.421452,36.729481],"type":"Point"}
 }

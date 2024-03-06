@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-5.69579,40.99939,-5.69579,40.99939",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:arg_x_preferred":[
         "Villamayor"
@@ -111,7 +113,7 @@
         "gn:id":3105411
     },
     "wof:country":"ES",
-    "wof:geomhash":"d9cd253ac385616a4f553e4e925c06c8",
+    "wof:geomhash":"376dba599a21dcd314f763274915f9e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,22 +125,24 @@
         }
     ],
     "wof:id":1310636009,
-    "wof:lastmodified":1566588733,
+    "wof:lastmodified":1706239512,
     "wof:name":"Villamayor",
     "wof:parent_id":404341853,
     "wof:placetype":"locality",
     "wof:population":4538,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101774233
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -5.69579,
-    40.99939000000001,
+    40.99939,
     -5.69579,
-    40.99939000000001
+    40.99939
 ],
-  "geometry": {"coordinates":[-5.69579,40.99939000000001],"type":"Point"}
+  "geometry": {"coordinates":[-5.69579,40.99939],"type":"Point"}
 }
